@@ -14,11 +14,24 @@ TEST_PHRASE_FOR_SEARCH: openclaw_test_unique_20260313_1142
   - Staff expected to log sales and inventory daily
   - "Systems updated" = Zobase entries
 
+## AI Influencer
+- **Taiwah**: AI-generated virtual brand ambassador for **both** 2 Real Enterprises & Akoma Robotics
+  - 30-year-old Ghanaian woman, dark rich brown skin, oval face, high cheekbones, almond dark brown eyes
+  - Signature: short textured black afro with plain headband, gold hoop earrings
+  - Build: athletic-feminine, 34C bust, slim waist, curvy hips
+  - Created in Nano Banana, prompt refined in Claude
+  - **2 Real role**: Demonstrates tools, promotes quality workmanship, "do it right not shoddy"
+  - **Akoma role**: Passionate STEM advocate, knowledgeable about robotics, inspires all ages
+  - Purpose: product photography, educational content, how-to, advertising campaigns, social media
+  - Workflow: OpenClaw generates + Gemini 3 Pro Image for images → future: Veo 3.1 for video
+  - **Platforms**: Facebook, Facebook Marketplace, Instagram, TikTok, LinkedIn, WhatsApp Business, WhatsApp Broadcast, WhatsApp Status, Jiji Ghana
+  - Content strategy: promotes tools when stock high, robotics when partnerships active, crossover content on Saturdays
+
 ## People
-- **h**: Owner of "2 Real Enterprises". WhatsApp: +233204252252
+- **H**: Owner of "2 Real Enterprises". WhatsApp: +233204252252
 - **John**: Employee, student, works at warehouse. WhatsApp: +233233352252  
-  - Student with morning classes, then works at warehouse
-  - First interaction: 2026-03-13 (test at school, heading to warehouse)
+  - Student with Monday classes, then works at warehouse
+  - First interaction: 2026-03-13 (one off  test at school, heading to warehouse)
 - **Sammy**: Employee. WhatsApp: +233575252253
   - Build rapport along business lines, check on business performance and system updates
   - Cron schedule: Mon-Sat at 16:00 UTC
@@ -42,7 +55,7 @@ TEST_PHRASE_FOR_SEARCH: openclaw_test_unique_20260313_1142
 - ✅ File operations working
 - ✅ Config updates working (timeoutSeconds: 1200)
 - ✅ WhatsApp messaging functional (tested with h and John)
-- ⚠️ Memory search indexing issue (provider: none, indexed 0/2 files, dirty: yes)
+- ✅ Memory search indexing working (OpenRouter embeddings, fixed 2026-03-15)
 - ✅ Telegram channel configuration completed (13:10 UTC)
 - ✅ Cron job duplicates cleaned, new automation tasks added
 - ✅ Telegram connectivity verified (health-log-afternoon posted successfully)
@@ -83,3 +96,4 @@ TEST_PHRASE_FOR_SEARCH: openclaw_test_unique_20260313_1142
 - **Voice identity when messaging**: ALWAYS act as h directly, use "I/me". Never mention "h" as a separate person or reveal AI assistance. This applies to ALL contacts, not just employees.
 - **Communication style**: Before 12 (noon), greet people but NEVER say "good morning" — use "Hey", "Hi", "Hope you're well" instead.
 - **Call requests**: If anyone asks to call, respond: "We can chat here for now, or I'll call you later."
+- **Groq has no embedding models** — only inference. Use OpenRouter for embeddings (supports `openai/text-embedding-3-small`). OpenRouter added embedding support Nov 2025.
