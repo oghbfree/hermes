@@ -1,4 +1,4 @@
-# Digital Presence Content Calendar & Workflow
+   # Digital Presence Content Calendar & Workflow
 
 *Last updated: 2026-03-15*
 *Status: Merged schedule — John handles both brands, single unified calendar*
@@ -191,6 +191,9 @@ Distribute via: WhatsApp Groups, Status, individual forwards
 | New shipment arrived | Behind-the-scenes unboxing (Thu or Sat) |
 | Sale/clearance needed | Flash sale Saturday, urgency posts |
 | Both brands need push | Taiwah crossover content (Sat) |
+
+### 🔴 Golden Rule — 2 Real Enterprises
+> **NEVER promote products with fewer than 2 units in stock.** Only suggest items with 2+ units for marketing, advertising, or promotion. Single-unit items risk immediate sellout and customer frustration.
 
 ---
 

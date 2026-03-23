@@ -416,6 +416,38 @@ Every failure teaches a guard. This file documents what NOT to do based on real 
 
 ---
 
+
+## Rule #19: Pre-approve WhatsApp Monthly Reminders
+- **Root Cause**: Manual intervention required for monthly reminders (Jnr, Hughie, Janet)
+- **Consequence**: Reminders may be missed if agent not proactive
+- **Guard**: Create automated cron jobs for monthly reminders with pre-approved messages
+- **Implementation**:
+  - Jnr: 1st of month, 10am UK time - "Hey Jnr, just checking in. How's everything going?"
+  - Hughie: 21st of month, 10am UK time - "Greetings, just reminding you..."
+  - Janet: Fridays 8:30pm Ghana time - Weekly check-in with warm, playful tone
+- **Status**: Proposed
+
+## Rule #20: Specify Delivery Channel for Multi-Channel Cron Jobs
+- **Root Cause**: Cron jobs failing with "Channel is required when multiple channels are configured: telegram, whatsapp"
+- **Consequence**: Health logs, business check-ins, family contact automation failing
+- **Guard**: Always specify delivery.channel parameter in cron job configuration when multiple channels are enabled
+- **Implementation**:
+  `json
+  "cron": {
+    "jobs": {
+      "health-log-afternoon": {
+        "delivery": {
+          "channel": "telegram",
+          "target": "3620024352",
+          "thread": "50"
+        }
+      }
+    }
+  }
+  `
+- **Status**: Immediate action required
+
+---
 ## Adding New Rules
 
 When a failure occurs:
@@ -434,3 +466,4 @@ When a failure occurs:
 **Status**: Active and monitored
 **Last Updated**: 2026-03-06
 **Next Review**: Weekly (Monday 9am)
+

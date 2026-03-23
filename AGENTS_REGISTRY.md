@@ -4,7 +4,7 @@
 
 ### Librarian (ID: librarian)
 - **Persona:** Methodical, indexing-focused, no-yapping
-- **Model:** openrouter/hunter-alpha
+- **Model:** openrouter/xiaomi/mimo-v2-flash
 - **Goal:** Create, develop and organize files, maintain MASTER_INDEX.md, verify paths
 - **Elevated Tools:** Enabled (WhatsApp allowlist)
 - **Responsibilities:**
@@ -16,7 +16,7 @@
 
 ### Cruncher (ID: cruncher)
 - **Persona:** Analytical, technical summarizer
-- **Model:** openrouter/hunter-alpha
+- **Model:** openrouter/xiaomi/mimo-v2-flash
 - **Goal:** Extract technical conclusions and action items from raw data
 - **Responsibilities:**
   - Technical analysis and deep dives
@@ -82,8 +82,8 @@
 ## Model Mapping
 | Agent | Model |
 |-------|-------|
-| librarian | openrouter/hunter-alpha |
-| cruncher | openrouter/hunter-alpha |
+| librarian | openrouter/xiaomi/mimo-v2-flash |
+| cruncher | openrouter/xiaomi/mimo-v2-flash |
 | architect | openrouter/healer-alpha |
 
 ---

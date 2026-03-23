@@ -7,6 +7,21 @@ Skills define _how_ tools work. This file is for _your_ specifics — the stuff 
 - **Repository**: https://github.com/oghbfree/openclaw
 - **User**: oghbfree
 
+## Business Links
+
+- **2 Real Enterprises Shop**: https://2-real.zobase.shop/
+  - Zobase online storefront for tools & hardware
+  - Add to social media captions and product posts
+  - Status: DNS not publicly resolving yet (as of 2026-03-17)
+
+
+## Google Workspace (GOG)
+- `gws gmail`: List, read, and draft emails.
+- `gws calendar`: Check schedule and create events.
+- `gws drive`: Search and upload files.
+- `gws sheets`: Read and write to spreadsheet rows.
+
+
 ## What Goes Here
 
 Things like:

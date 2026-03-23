@@ -19,8 +19,8 @@ The system replaces the need for a marketing agency or dedicated content team. O
 - **What**: Hardware and building equipment supplier
 - **Market**: Ghana (sourced from UK)
 - **Customers**: Contractors, tradesmen, electricians, plumbers, DIY builders
-- **Brands stocked**: DeWalt, Bosch, Makita
-- **Operations**: Retail shop in Kantamanto, warehouse in Accra
+- **Brands stocked**: DeWalt, Bosch, Makita, Stanley, Black & Decker
+- **Operations**: Retail shop in Kantamanto, warehouse in Oyarifa, Accra
 - **AI Brand Ambassador**: "Taiwah" — a virtual Ghanaian woman used in product photography
 
 ### Akoma Robotics
@@ -29,6 +29,7 @@ The system replaces the need for a marketing agency or dedicated content team. O
 - **Students**: Ages 8-14, boys and girls, all skill levels
 - **Curriculum**: mBot robotics, mBlock programming, sensors, autonomous navigation
 - **Model**: Partner schools host, Akoma provides equipment, curriculum, and trained facilitators
+**AI Brand Ambassador**: "Taiwah" — a virtual Ghanaian woman used in product photography
 
 ---
 
@@ -40,7 +41,7 @@ The system replaces the need for a marketing agency or dedicated content team. O
 │                                                             │
 │  1. OpenClaw generates the week's content batch             │
 │     - 6 captions (3 Akoma + 3 2 Real)                       │
-│     - 6 images via Gemini 3 Pro Image API                   │
+│     - 6 images or reels via Gemini 3 Pro Image API                   │
 │     - Formatted with hashtags, CTAs, posting notes          │
 │                                                             │
 │  2. Content is sent to John (Ghana) via WhatsApp            │
@@ -55,7 +56,7 @@ The system replaces the need for a marketing agency or dedicated content team. O
 │  Mon/Wed/Fri → Akoma Robotics content                       │
 │  Tue/Thu/Sat → 2 Real Enterprises content                   │
 │                                                             │
-│  Platforms: Facebook, Instagram, TikTok, LinkedIn, Jiji, WhatsApp│
+│  Platforms: Facebook, WhatsApp Status, TikTok, Instagram    │
 │                                                             │
 └─────────────────────────────────────────────────────────────┘
                             ↓
@@ -63,7 +64,7 @@ The system replaces the need for a marketing agency or dedicated content team. O
 │  SUNDAY — DISTRIBUTION DAY                                  │
 │                                                             │
 │  1. Share best content from the week into WhatsApp Groups   │
-│  2. Create & distribute weekly PDF (deals + class schedule) │
+│  2. Create & distribute weekly PDF (deals) │
 │  3. Repurpose top posts to WhatsApp Status                  │
 │  4. Review performance, adjust next week's strategy         │
 │                                                             │
@@ -76,7 +77,7 @@ The system replaces the need for a marketing agency or dedicated content team. O
 
 ### Core System
 - **OpenClaw**: AI agent framework running on Windows
-- **Model**: OpenRouter API (hunter-alpha / various models for text and image)
+- **Model**: OpenRouter API (xiaomi/mimo-v2-flash / various models for text and image)
 - **Image Generation**: Google Gemini 3 Pro Image Preview via OpenRouter
 - **Messaging**: WhatsApp integration for delivery to team members
 - **Scheduling**: Built-in cron jobs for automation
@@ -103,13 +104,13 @@ The system replaces the need for a marketing agency or dedicated content team. O
 
 | Day | Brand | Content Type | Platforms |
 |-----|-------|-------------|-----------|
-| **Monday** | Akoma Robotics | Educational content | Facebook, Instagram, LinkedIn, WhatsApp |
-| **Tuesday** | 2 Real Enterprises | Product showcase | Facebook, Marketplace, Jiji, Instagram, WhatsApp |
-| **Wednesday** | Akoma Robotics | Social proof (testimonials, projects) | Facebook, Instagram, TikTok, WhatsApp |
-| **Thursday** | 2 Real Enterprises | Tips & how-to / Behind-the-scenes | Facebook, Instagram, TikTok, LinkedIn, WhatsApp |
-| **Friday** | Akoma Robotics | Engagement (polls, Q&A) | Facebook, Instagram, TikTok, WhatsApp |
+| **Monday** | Akoma Robotics | Educational content | Facebook, WhatsApp Status |
+| **Tuesday** | 2 Real Enterprises | Product showcase | Facebook, TikTok, WhatsApp Status |
+    
+| **Thursday** | 2 Real Enterprises | Tips & how-to / Behind-the-scenes | Facebook, WhatsApp Status, Instagram |
+| **Friday** | Akoma Robotics | Engagement (polls, Q&A) | Facebook, WhatsApp Status |
 | **Saturday** | 2 Real Enterprises | Taiwah influencer + Flash deals | All platforms |
-| **Sunday** | Both brands | Distribution to WhatsApp Groups + PDF | WhatsApp Groups, Broadcast, Status |
+| **Sunday** | Both brands | Distribution to WhatsApp Groups + PDF | WhatsApp Groups, Status |
 
 ---
 
@@ -124,37 +125,27 @@ The system replaces the need for a marketing agency or dedicated content team. O
 ### John (Employee, Ghana)
 - Front-line content poster
 - Receives pre-made content via WhatsApp
-- Posts to Facebook, Facebook Marketplace, Instagram, TikTok, LinkedIn, Jiji, WhatsApp Business, WhatsApp Status on schedule
+- Posts to Facebook, TikTok, Instagram, WhatsApp Status on schedule
 - Also handles Akoma Robotics school enquiries
-- Student — morning classes, afternoon warehouse work
+- Student — Monday off for classes, warehouse work on other days
 
 ---
 
 ## The AI Influencer: Taiwah
 
-**Who she is**: A virtual Ghanaian woman created with AI image generation tools. She is the face of **both** brands.
+**Who she is**: A virtual Ghanaian woman created with AI image generation tools.
 
 **Physical appearance**: 30 years old, rich brown skin, oval face, high cheekbones, almond-shaped dark brown eyes, short textured black afro with plain headband, gold hoop earrings, athletic-feminine build.
 
-**What she promotes**:
-- **2 Real Enterprises**: Demonstrates tools, shows proper technique, advocates for quality tools over cheap alternatives — "Do it right, not shoddy"
-- **Akoma Robotics**: Passionate advocate for STEM education, knowledgeable about robotics, explains how coding and building robots helps people of all ages, inspires the next generation of Ghanaian innovators
+**Purpose**: She appears in 2 Real Enterprises and Akoma marketing content — holding tools, demonstrating products, creating aspirational lifestyle imagery that resonates with the Ghanaian market.
 
-**Her personality**:
-- Confident and knowledgeable about both tools and robotics
-- Passionate about quality workmanship — no shoddy jobs
-- Believes technology and proper tools can transform lives
-- Speaks to all ages — kids, parents, tradesmen, professionals
-- Ghanaian-proud, aspirational but relatable
+**How she's used**: 
+- Saturday content slots (2 Real Enterprises & Akoma)
+- Product launches
+- Flash sale promotions
+- Brand awareness campaigns
 
-**How she's used**:
-- Saturday content slots (primarily 2 Real, crossover content)
-- Product launches and flash deals
-- Akoma Robotics awareness and enrollment campaigns
-- Educational content (how-to, technique, why it matters)
-- Brand awareness across both businesses
-
-**Why**: A consistent face builds brand recognition across two different businesses. Taiwah bridges the gap — she shows that quality tools and STEM education are both about empowering people to build better.
+**Why**: A consistent face builds brand recognition. Taiwah allows professional product photography without expensive photoshoots.
 
 ---
 
@@ -279,9 +270,8 @@ openclaw-workspace/
 1. **Full automation**: Cron job generates content every Sunday automatically
 2. **Performance tracking**: Automated metrics collection from social platforms
 3. **Inventory integration**: Content adjusts based on real-time stock levels (Zobase)
-4. **Video content**: Short-form video for TikTok and Instagram Reels (Veo 3.1)
+4. **Expanded platforms**: Instagram Reels, TikTok (video content via Veo 3.1)
 5. **Multi-language**: Twi translations for local market penetration
-6. **Platform-specific formatting**: Auto-resize and adapt content per platform specs
 
 ---
 

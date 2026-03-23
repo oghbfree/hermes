@@ -126,6 +126,7 @@ When the prompt includes "Taiwah" or "influencer content":
 - **Stock LOW**: Tips & how-to content, educational, reduce product CTAs
 - **New shipment**: Behind-the-scenes unboxing, "Just Landed" urgency
 - **Clearance needed**: Flash deals, "Last Chance" messaging, price-first
+- **Minimum stock rule**: NEVER suggest products with fewer than 2 units for marketing/advertising/promotion — only promote items with 2+ in stock
 
 ### Key WhatsApp Numbers
 - Orders: [Add your business WhatsApp number]
@@ -143,6 +144,7 @@ When the prompt includes "Taiwah" or "influencer content":
 - Don't post without a clear CTA
 - Don't use more than 5 hashtags
 - Don't create generic "motivational" content — we sell tools, not dreams
+- **NEVER promote products with fewer than 2 units in stock** — only suggest items with 2+ for marketing, advertising, or promotion
 
 ### When You Receive a Batch Prompt
 1. Read all items in the batch

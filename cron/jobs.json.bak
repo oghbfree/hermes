@@ -1,0 +1,999 @@
+{
+  "version": 1,
+  "jobs": [
+    {
+      "id": "a80bb3b2-d7b8-4a06-8c22-16263dcae9ae",
+      "agentId": "librarian",
+      "name": "health-log-morning",
+      "enabled": true,
+      "createdAtMs": 1773948861088,
+      "updatedAtMs": 1774209263685,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 8 * * *"
+      },
+      "sessionTarget": "isolated",
+      "wakeMode": "now",
+      "payload": {
+        "kind": "agentTurn",
+        "message": "Use Telegram channel only. Post to the #health-log topic. Message: \"🌅 Morning Health Check - Log breakfast and how you're feeling. Format: Breakfast: [what you ate] | Drink: [what you drank] | Symptoms: [none or list] | Severity: [1-5] | Energy: [1-5] | Notes: [anything unusual]\""
+      },
+      "delivery": {
+        "mode": "announce",
+        "channel": "telegram",
+        "bestEffort": false
+      },
+      "state": {
+        "nextRunAtMs": 1774252800000,
+        "lastRunAtMs": 1774209122952,
+        "lastRunStatus": "error",
+        "lastStatus": "error",
+        "lastDurationMs": 140733,
+        "lastDeliveryStatus": "unknown",
+        "consecutiveErrors": 3,
+        "lastError": "Delivering to Telegram requires target <chatId>"
+      },
+      "deleteAfterRun": false
+    },
+    {
+      "id": "62344be9-fc01-440f-9b9a-3f9321fa7e41",
+      "agentId": "librarian",
+      "name": "integrated-daily-synthesis",
+      "enabled": true,
+      "createdAtMs": 1773948935913,
+      "updatedAtMs": 1774130600532,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 22 * * *"
+      },
+      "sessionTarget": "isolated",
+      "wakeMode": "now",
+      "payload": {
+        "kind": "agentTurn",
+        "message": "Synthesize today: learning + raw data + insights + notes. Save to INTEGRATED_INSIGHTS_YYYY-MM-DD.md Format: Date | Health Summary | Learning Summary | Key Insights | Patterns Noticed | Action Items for Tomorrow"
+      },
+      "delivery": {
+        "mode": "announce",
+        "channel": "telegram",
+        "bestEffort": false
+      },
+      "state": {
+        "nextRunAtMs": 1774216800000,
+        "lastRunAtMs": 1774130400085,
+        "lastRunStatus": "error",
+        "lastStatus": "error",
+        "lastDurationMs": 200447,
+        "lastDeliveryStatus": "unknown",
+        "consecutiveErrors": 3
+      },
+      "deleteAfterRun": false
+    },
+    {
+      "id": "40f88d80-d837-4ca4-ba44-d3495db6a987",
+      "agentId": "librarian",
+      "name": "weekly-learning-review",
+      "enabled": true,
+      "createdAtMs": 1773948973798,
+      "updatedAtMs": 1774001560919,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 9 * * 1"
+      },
+      "sessionTarget": "isolated",
+      "wakeMode": "now",
+      "payload": {
+        "kind": "agentTurn",
+        "message": "Review past week's learning. Weekly analysis every Sunday. Read and Extract all patterns, rules, formulas. INTEGRATED_INSIGHTS files from the past 7 days. Produce a weekly summary saved as WEEKLY_ANALYSIS_[YYYY-MM-DD].md. Format: Week of [date] | Health Trends | Learning Patterns | Key Wins | Key Failures | Recurring Issues | Goals for Next Week"
+      },
+      "delivery": {
+        "mode": "announce",
+        "channel": "telegram",
+        "bestEffort": false
+      },
+      "state": {
+        "nextRunAtMs": 1774256400000
+      },
+      "deleteAfterRun": false
+    },
+    {
+      "id": "62758a20-af30-4717-9f03-c4552d6742de",
+      "agentId": "librarian",
+      "name": "monthly-evolution",
+      "enabled": true,
+      "createdAtMs": 1773949011595,
+      "updatedAtMs": 1774002156925,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 9 1 * *"
+      },
+      "sessionTarget": "isolated",
+      "wakeMode": "now",
+      "payload": {
+        "kind": "agentTurn",
+        "message": "Review month's evolution: improvements, changes, metrics, learnings. Monthly review on the 1st of every month. Read all WEEKLY_ANALYSIS files from the past 30 days. Save as MONTHLY_EVOLUTION_[YYYY-MM].md. Format: Month | Health Evolution | Learning Evolution | Business Progress | Key Metrics | Biggest Win | Biggest Failure | Lessons Learned | Goals for Next Month"
+      },
+      "delivery": {
+        "mode": "announce",
+        "channel": "telegram",
+        "bestEffort": false
+      },
+      "state": {
+        "nextRunAtMs": 1775030400000
+      },
+      "deleteAfterRun": false
+    },
+    {
+      "id": "db81b046-8a90-4a42-a4ec-9243458bd136",
+      "agentId": "librarian",
+      "name": "quarterly-synthesis",
+      "enabled": true,
+      "createdAtMs": 1773949030445,
+      "updatedAtMs": 1774002269455,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 10 * * 4"
+      },
+      "sessionTarget": "isolated",
+      "wakeMode": "now",
+      "payload": {
+        "kind": "agentTurn",
+        "message": "Consolidate quarterly insights: strategic progress, learning, goals. Read all MONTHLY_EVOLUTION files from the past 90 days. Save as QUARTERLY_SYNTHESIS_[YYYY-Q#].md. Format: Quarter | Health Progress | Learning Progress | Business Progress | Strategic Wins | Strategic Failures | Key Insights | Patterns | Goals for Next Quarter"
+      },
+      "delivery": {
+        "mode": "announce",
+        "channel": "telegram",
+        "bestEffort": false
+      },
+      "state": {
+        "nextRunAtMs": 1774519200000
+      },
+      "deleteAfterRun": false
+    },
+    {
+      "id": "2d981eaa-5778-488f-8333-0f92f1ca6c18",
+      "agentId": "librarian",
+      "name": "ghana-dashboard-inquiry",
+      "enabled": true,
+      "createdAtMs": 1773949051933,
+      "updatedAtMs": 1773997214881,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 9 * * 1-5"
+      },
+      "sessionTarget": "isolated",
+      "wakeMode": "now",
+      "payload": {
+        "kind": "agentTurn",
+        "message": "Contact next dashboard supplier from GHANA_SUPPLIER_RESEARCH.md"
+      },
+      "delivery": {
+        "mode": "announce",
+        "channel": "telegram"
+      },
+      "state": {
+        "nextRunAtMs": 1774256400000,
+        "lastRunAtMs": 1773997200053,
+        "lastRunStatus": "error",
+        "lastStatus": "error",
+        "lastDurationMs": 14828,
+        "lastError": "Channel is required when multiple channels are configured: telegram, whatsapp Set delivery.channel explicitly or use a main session with a previous channel.",
+        "lastDeliveryStatus": "unknown",
+        "consecutiveErrors": 1
+      }
+    },
+    {
+      "id": "37d1fb01-721b-4e24-8f4f-7963d6cbb86b",
+      "agentId": "cruncher",
+      "name": "ghana-supplier-analysis",
+      "enabled": true,
+      "createdAtMs": 1773949070936,
+      "updatedAtMs": 1774002328088,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 10 * * 1"
+      },
+      "sessionTarget": "isolated",
+      "wakeMode": "now",
+      "payload": {
+        "kind": "agentTurn",
+        "message": "Analyze dashboard responses: prices, stock, best options. Every Monday analyze all dashboard supplier responses received last week. Read GHANA_SUPPLIER_RESEARCH.md. Format analysis as: Supplier Name | Price | Stock Available | Lead Time | Quality Rating | Can Do Steering Conversion | Can Do Dashboard Change | Recommendation | Next Action. Save as GHANA_SUPPLIER_ANALYSIS_[YYYY-MM-DD].md"
+      },
+      "delivery": {
+        "mode": "announce",
+        "channel": "telegram",
+        "bestEffort": false
+      },
+      "state": {
+        "nextRunAtMs": 1774260000000
+      },
+      "deleteAfterRun": false
+    },
+    {
+      "id": "d2b4629f-6f07-4aa4-b503-e56d8b2b7f93",
+      "agentId": "librarian",
+      "name": "ghana-steering-verification",
+      "enabled": true,
+      "createdAtMs": 1773949089993,
+      "updatedAtMs": 1774002378678,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 11 * * 3"
+      },
+      "sessionTarget": "isolated",
+      "wakeMode": "now",
+      "payload": {
+        "kind": "agentTurn",
+        "message": "Verify steering rack suppliers: can they do conversion + dashboard change? Every Wednesday verify steering rack suppliers from GHANA_SUPPLIER_RESEARCH.md. Contact next unverified supplier and ask: 1) Can you do RHD to LHD steering conversion? 2) Can you change dashboard from RHD to LHD? 3) What is the cost and lead time? Log response in GHANA_SUPPLIER_RESEARCH.md under supplier entry."
+      },
+      "delivery": {
+        "mode": "announce",
+        "channel": "telegram",
+        "bestEffort": false
+      },
+      "state": {
+        "nextRunAtMs": 1774436400000
+      },
+      "deleteAfterRun": false
+    },
+    {
+      "id": "cb89f3ee-7b6e-4d3a-807e-cafe1a03146f",
+      "agentId": "librarian",
+      "name": "security-policy-check",
+      "enabled": true,
+      "createdAtMs": 1773949134958,
+      "updatedAtMs": 1774214287244,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 * * * *",
+        "staggerMs": 300000
+      },
+      "sessionTarget": "isolated",
+      "wakeMode": "now",
+      "payload": {
+        "kind": "agentTurn",
+        "message": "Run hourly security check. Do NOT use any external channels for this task - this is internal only. Check the following: 1) Scan workspace files for any unauthorised access attempts and log findings. 2) Check recent logs at \\tmp\\openclaw\\ for any exposed API keys or tokens - redact immediately if found. 3) Verify no private data (health logs, business financials, contact details) has been sent to unauthorised channels. 4) Confirm all outbound Telegram messages went only to group 3620024352 and authorised topics. 5) Write results to SECURITY_LOG_[YYYY-MM].md with timestamp, status (PASS/FAIL), and any issues found. If any check FAILS log it as CRITICAL and post alert to Telegram #urgent topic immediately."
+      },
+      "delivery": {
+        "mode": "announce",
+        "channel": "telegram",
+        "bestEffort": false
+      },
+      "state": {
+        "nextRunAtMs": 1774217887244,
+        "lastRunAtMs": 1774214100044,
+        "lastRunStatus": "error",
+        "lastStatus": "error",
+        "lastDurationMs": 187200,
+        "lastDeliveryStatus": "unknown",
+        "consecutiveErrors": 59,
+        "lastError": "Delivering to Telegram requires target <chatId>"
+      },
+      "deleteAfterRun": false
+    },
+    {
+      "id": "f95e872b-3cac-4d7e-84ee-18b4e7eeefb0",
+      "agentId": "librarian",
+      "name": "thursday-content-akoma",
+      "enabled": true,
+      "createdAtMs": 1773949172549,
+      "updatedAtMs": 1774002923605,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 9 * * 4"
+      },
+      "sessionTarget": "isolated",
+      "wakeMode": "now",
+      "payload": {
+        "kind": "agentTurn",
+        "message": "Generate content plan for Akoma. Every Thursday generate weekly content plan for Akoma brand. Create 7 days of content ideas. Format: Day | Platform (Instagram/TikTok/Twitter) | Content Type (photo/video/reel/post) | Caption idea | Hashtags | Best posting time. Save as AKOMA_CONTENT_PLAN_[YYYY-MM-DD].md and post summary to Telegram #content"
+      },
+      "delivery": {
+        "mode": "announce",
+        "channel": "telegram",
+        "bestEffort": false
+      },
+      "state": {
+        "nextRunAtMs": 1774515600000
+      },
+      "deleteAfterRun": false
+    },
+    {
+      "id": "ec3ea3e2-18b6-4349-add8-528fba1adc62",
+      "agentId": "librarian",
+      "name": "friday-content-2real",
+      "enabled": true,
+      "createdAtMs": 1773949192037,
+      "updatedAtMs": 1774003165686,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 9 * * 5"
+      },
+      "sessionTarget": "isolated",
+      "wakeMode": "now",
+      "payload": {
+        "kind": "agentTurn",
+        "message": "Generate content plan for 2Real Shop and warehouse. Every Friday generate weekly content plan for 2Real Shop. Create 7 days of content ideas. Format: Day | Platform (Instagram/TikTok/Twitter) | Content Type (photo/video/reel/post) | Caption idea | Hashtags | Best posting time. Save as 2REAL_CONTENT_PLAN_[YYYY-MM-DD].md and post summary to Telegram #content"
+      },
+      "delivery": {
+        "mode": "announce",
+        "channel": "telegram",
+        "bestEffort": false
+      },
+      "state": {
+        "nextRunAtMs": 1774602000000,
+        "lastRunAtMs": 1773997214881,
+        "lastRunStatus": "error",
+        "lastStatus": "error",
+        "lastDurationMs": 28352,
+        "lastError": "Channel is required when multiple channels are configured: telegram, whatsapp Set delivery.channel explicitly or use a main session with a previous channel.",
+        "lastDeliveryStatus": "unknown",
+        "consecutiveErrors": 1
+      },
+      "deleteAfterRun": false
+    },
+    {
+      "id": "da16d40a-eef3-4110-9a8a-48918159205e",
+      "agentId": "librarian",
+      "name": "checkin-mum",
+      "enabled": true,
+      "createdAtMs": 1773949229437,
+      "updatedAtMs": 1774173847047,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 10 * * 0,3"
+      },
+      "sessionTarget": "isolated",
+      "wakeMode": "now",
+      "payload": {
+        "kind": "agentTurn",
+        "message": "Use WhatsApp channel only to send to Check-in with mum"
+      },
+      "delivery": {
+        "mode": "announce",
+        "channel": "whatsapp",
+        "bestEffort": false
+      },
+      "state": {
+        "nextRunAtMs": 1774432800000,
+        "lastRunAtMs": 1774173829157,
+        "lastRunStatus": "error",
+        "lastStatus": "error",
+        "lastDurationMs": 17890,
+        "lastError": "Delivering to WhatsApp requires target <E.164|group JID>",
+        "lastDeliveryStatus": "unknown",
+        "consecutiveErrors": 1
+      },
+      "deleteAfterRun": false
+    },
+    {
+      "id": "ae125f4e-4311-4e38-bec4-21ed699b5b48",
+      "agentId": "librarian",
+      "name": "kanzoni-tuesday-check",
+      "enabled": true,
+      "createdAtMs": 1773949284974,
+      "updatedAtMs": 1774080567351,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 14 * * 2"
+      },
+      "sessionTarget": "isolated",
+      "wakeMode": "now",
+      "payload": {
+        "kind": "agentTurn",
+        "message": "Use WhatsApp channel only to send Every Tuesday afternoon send WhatsApp message to Kanzoni. Message: \"Hey Kanzoni ?Y'< Tuesday check-in! How are you doing? How's the family? How is everything going? Any updates?\""
+      },
+      "delivery": {
+        "mode": "announce",
+        "channel": "whatsapp",
+        "bestEffort": false
+      },
+      "state": {
+        "nextRunAtMs": 1774360800000
+      },
+      "deleteAfterRun": false
+    },
+    {
+      "id": "cb41d20f-a308-4aa5-817d-055c36687423",
+      "agentId": "librarian",
+      "name": "sammy-business-check-1600",
+      "enabled": true,
+      "createdAtMs": 1773949340991,
+      "updatedAtMs": 1774108805535,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 16 * * 1-6"
+      },
+      "sessionTarget": "isolated",
+      "wakeMode": "now",
+      "payload": {
+        "kind": "agentTurn",
+        "message": "Use WhatsApp channel only to send Every weekday at 4pm send WhatsApp message to Sammy. Message: \"Hey Sammy! 🌆 End of day check-in. How did today go? Sales update? Stock levels? Any issues or wins to report? What's the plan for tomorrow?\" Log response in BUSINESS_CHECKINS_[YYYY-MM].md with date, time and response received."
+      },
+      "delivery": {
+        "mode": "announce",
+        "channel": "whatsapp",
+        "bestEffort": false
+      },
+      "state": {
+        "nextRunAtMs": 1774281600000,
+        "lastRunAtMs": 1774108800073,
+        "lastRunStatus": "error",
+        "lastStatus": "error",
+        "lastDurationMs": 5462,
+        "lastDeliveryStatus": "unknown",
+        "consecutiveErrors": 2,
+        "lastError": "Delivering to WhatsApp requires target <E.164|group JID>"
+      },
+      "deleteAfterRun": false
+    },
+    {
+      "id": "2f228591-7b7c-4179-880d-4c388bd8e7c2",
+      "agentId": "librarian",
+      "name": "health-log-evening",
+      "enabled": true,
+      "deleteAfterRun": true,
+      "createdAtMs": 1774000554010,
+      "updatedAtMs": 1774206063222,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 19 * * *",
+        "tz": "Europe/London"
+      },
+      "sessionTarget": "isolated",
+      "wakeMode": "now",
+      "payload": {
+        "kind": "agentTurn",
+        "message": "Use Telegram channel only. Post to the #health-log topic: 🌙 Evening Log - Log dinner and end of day symptoms. Format: Dinner: [food] | Drink: [drink] | Symptoms: [list] | Severity: [1-5] | Energy: [1-5] | Mood: [1-5] | Notes: [anything unusual today]"
+      },
+      "delivery": {
+        "mode": "announce",
+        "channel": "telegram",
+        "bestEffort": false
+      },
+      "state": {
+        "nextRunAtMs": 1774292400000,
+        "lastRunAtMs": 1774206000075,
+        "lastRunStatus": "error",
+        "lastStatus": "error",
+        "lastDurationMs": 63147,
+        "lastDeliveryStatus": "unknown",
+        "consecutiveErrors": 3,
+        "lastError": "Delivering to Telegram requires target <chatId>"
+      }
+    },
+    {
+      "id": "403bb59d-f930-4c98-a4f3-1adc913a2934",
+      "agentId": "librarian",
+      "name": "health-log-afternoon",
+      "enabled": true,
+      "deleteAfterRun": true,
+      "createdAtMs": 1774000678536,
+      "updatedAtMs": 1774184425165,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 13 * * *",
+        "tz": "Europe/London"
+      },
+      "sessionTarget": "isolated",
+      "wakeMode": "now",
+      "payload": {
+        "kind": "agentTurn",
+        "message": "Use Telegram channel only. Post to the #health-log topic: 🌤️ Afternoon Check-in - Log lunch and how you're feeling. Format: Lunch: [food] | Drink: [drink] | Symptoms: [list] | Severity: [1-5] | Energy: [1-5] | Notes: [anything unusual]"
+      },
+      "delivery": {
+        "mode": "announce",
+        "channel": "telegram",
+        "to": "default",
+        "bestEffort": false
+      },
+      "state": {
+        "nextRunAtMs": 1774270800000,
+        "lastRunAtMs": 1774184400073,
+        "lastRunStatus": "error",
+        "lastStatus": "error",
+        "lastDurationMs": 25092,
+        "lastDeliveryStatus": "unknown",
+        "consecutiveErrors": 3,
+        "lastError": "Error: Telegram recipient @default could not be resolved to a numeric chat ID (Call to 'getChat' failed! (400: Bad Request: chat not found))"
+      }
+    },
+    {
+      "id": "be07ad27-35c0-4604-8c57-66cbe0c4a079",
+      "agentId": "librarian",
+      "name": "daily-learning",
+      "enabled": true,
+      "deleteAfterRun": true,
+      "createdAtMs": 1774000940932,
+      "updatedAtMs": 1774213529195,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 21 * * *",
+        "tz": "Europe/London"
+      },
+      "sessionTarget": "isolated",
+      "wakeMode": "now",
+      "payload": {
+        "kind": "agentTurn",
+        "message": "Create daily learning entry in memory/[YYYY-MM-DD].md using the Daily Learning Capture Template from LEARNING_SYSTEM.md. Document: What worked today, what failed, key insights, rule proposals. Tag appropriately. Run memory_flush.py after writing. Save to workspace."
+      },
+      "delivery": {
+        "mode": "announce",
+        "channel": "telegram",
+        "bestEffort": false
+      },
+      "state": {
+        "nextRunAtMs": 1774299600000,
+        "lastRunAtMs": 1774213200052,
+        "lastRunStatus": "error",
+        "lastStatus": "error",
+        "lastDurationMs": 329143,
+        "lastDeliveryStatus": "unknown",
+        "consecutiveErrors": 3,
+        "lastError": "Delivering to Telegram requires target <chatId>"
+      }
+    },
+    {
+      "id": "bfeee0af-be83-4438-9e4b-5e9716537430",
+      "agentId": "librarian",
+      "name": "daily-backup",
+      "enabled": true,
+      "deleteAfterRun": false,
+      "createdAtMs": 1774001317378,
+      "updatedAtMs": 1774134066426,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 23 * * *"
+      },
+      "sessionTarget": "isolated",
+      "wakeMode": "now",
+      "payload": {
+        "kind": "agentTurn",
+        "message": "Backup all workspace files to C:\\OpenClaw\\backups\\[YYYY-MM-DD]\\. Include: memory files, learning entries, integrated insights, raw data, crons, health logs, Ghana supplier research notes. Confirm backup completed and list files backed up."
+      },
+      "delivery": {
+        "mode": "announce",
+        "channel": "telegram",
+        "bestEffort": false
+      },
+      "state": {
+        "nextRunAtMs": 1774220400000,
+        "lastRunAtMs": 1774134000079,
+        "lastRunStatus": "error",
+        "lastStatus": "error",
+        "lastDurationMs": 66347,
+        "lastDeliveryStatus": "unknown",
+        "consecutiveErrors": 2,
+        "lastError": "Delivering to Telegram requires target <chatId>"
+      }
+    },
+    {
+      "id": "39e6b784-6f35-4060-87eb-93fba6be386d",
+      "agentId": "librarian",
+      "name": "cron-status-report",
+      "enabled": true,
+      "deleteAfterRun": false,
+      "createdAtMs": 1774002556136,
+      "updatedAtMs": 1774209296852,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 9 * * *"
+      },
+      "sessionTarget": "isolated",
+      "wakeMode": "now",
+      "payload": {
+        "kind": "agentTurn",
+        "message": "Post to Telegram #cron-status: Daily Cron Execution Report for [date]. List all crons that ran in the last 24 hours. Format: Cron Name | Scheduled Time | Status (ran/missed/failed) | Notes. Flag any crons that failed or were missed."
+      },
+      "delivery": {
+        "mode": "announce",
+        "channel": "telegram",
+        "bestEffort": false
+      },
+      "state": {
+        "nextRunAtMs": 1774256400000,
+        "lastRunAtMs": 1774209263685,
+        "lastRunStatus": "error",
+        "lastStatus": "error",
+        "lastDurationMs": 33167,
+        "lastDeliveryStatus": "unknown",
+        "consecutiveErrors": 2,
+        "lastError": "Delivering to Telegram requires target <chatId>"
+      }
+    },
+    {
+      "id": "38ae5028-f003-4fac-91a5-bb226002367b",
+      "agentId": "librarian",
+      "name": "github-memory-backup",
+      "enabled": true,
+      "deleteAfterRun": false,
+      "createdAtMs": 1774002831179,
+      "updatedAtMs": 1774002831179,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 23 * * 0",
+        "staggerMs": 300000
+      },
+      "sessionTarget": "isolated",
+      "wakeMode": "now",
+      "payload": {
+        "kind": "agentTurn",
+        "message": "Every Sunday night push memory files to GitHub for cloud backup. Git add all files in cron folder and workspace memory folder. Git commit with message \"Weekly memory backup [YYYY-MM-DD]\". Git push to remote. Confirm push successful and list files committed."
+      },
+      "delivery": {
+        "mode": "announce",
+        "channel": "telegram",
+        "bestEffort": false
+      },
+      "state": {
+        "nextRunAtMs": 1774220433813
+      }
+    },
+    {
+      "id": "0d54d4f9-0c14-41e2-a602-253a81a7bce6",
+      "agentId": "librarian",
+      "name": "saturday-content",
+      "enabled": true,
+      "deleteAfterRun": false,
+      "createdAtMs": 1774003271934,
+      "updatedAtMs": 1774083741637,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 9 * * 6"
+      },
+      "sessionTarget": "isolated",
+      "wakeMode": "now",
+      "payload": {
+        "kind": "agentTurn",
+        "message": "Every Saturday review content performance from the past week for both Akoma and 2Real Shop. Format: Brand | Platform | Post | Likes | Comments | Shares | Reach | What worked | What didn't. Save as CONTENT_PERFORMANCE_[YYYY-MM-DD].md and post summary to Telegram #content"
+      },
+      "delivery": {
+        "mode": "announce",
+        "channel": "telegram",
+        "bestEffort": false
+      },
+      "state": {
+        "nextRunAtMs": 1774688400000,
+        "lastRunAtMs": 1774083658684,
+        "lastRunStatus": "error",
+        "lastStatus": "error",
+        "lastDurationMs": 82953,
+        "lastError": "Channel is required when multiple channels are configured: telegram, whatsapp Set delivery.channel explicitly or use a main session with a previous channel.",
+        "lastDeliveryStatus": "unknown",
+        "consecutiveErrors": 1
+      }
+    },
+    {
+      "id": "273ac7cf-4f6b-46d0-874a-40d1a5beaecc",
+      "agentId": "librarian",
+      "name": "checkin-dad",
+      "enabled": true,
+      "deleteAfterRun": false,
+      "createdAtMs": 1774003429758,
+      "updatedAtMs": 1774173880368,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 10 * * 0,4"
+      },
+      "sessionTarget": "isolated",
+      "wakeMode": "now",
+      "payload": {
+        "kind": "agentTurn",
+        "message": "Use WhatsApp channel only to send to Dad. Message: \"Hey Dad 👋 Just checking in. How are you doing today? Hope everything is well. Love you!\" Log check-in in FAMILY_CHECKINS_[YYYY-MM].md with date, time and response received."
+      },
+      "delivery": {
+        "mode": "announce",
+        "channel": "whatsapp",
+        "bestEffort": false
+      },
+      "state": {
+        "nextRunAtMs": 1774519200000,
+        "lastRunAtMs": 1774173847047,
+        "lastRunStatus": "error",
+        "lastStatus": "error",
+        "lastDurationMs": 33321,
+        "lastError": "Delivering to WhatsApp requires target <E.164|group JID>",
+        "lastDeliveryStatus": "unknown",
+        "consecutiveErrors": 1
+      }
+    },
+    {
+      "id": "54d3cc41-1198-4ae5-8aa6-981a36256350",
+      "name": "matthias-friday-check",
+      "enabled": true,
+      "deleteAfterRun": true,
+      "createdAtMs": 1774003686627,
+      "updatedAtMs": 1774080617394,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 20 * * 5"
+      },
+      "sessionTarget": "isolated",
+      "wakeMode": "now",
+      "payload": {
+        "kind": "agentTurn",
+        "message": "Use WhatsApp channel only to send Every Friday evening send WhatsApp message to Matthias. Message: \"Hey Matthias ?Y'< Friday check-in! How has your week been? How's the family? When can you go to New Amanful? Let's catch up soon!\""
+      },
+      "delivery": {
+        "mode": "announce",
+        "channel": "whatsapp",
+        "bestEffort": false
+      },
+      "state": {
+        "nextRunAtMs": 1774641600000,
+        "lastRunAtMs": 1774036800052,
+        "lastRunStatus": "error",
+        "lastStatus": "error",
+        "lastDurationMs": 10788,
+        "lastError": "Channel is required when multiple channels are configured: telegram, whatsapp Set delivery.channel explicitly or use a main session with a previous channel.",
+        "lastDeliveryStatus": "unknown",
+        "consecutiveErrors": 1
+      }
+    },
+    {
+      "id": "518d610f-9e05-483a-9d56-bbfd764c0a0f",
+      "agentId": "librarian",
+      "name": "sammy-daily-check",
+      "enabled": true,
+      "deleteAfterRun": false,
+      "createdAtMs": 1774003995460,
+      "updatedAtMs": 1774080698630,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 7 * * 1-6"
+      },
+      "sessionTarget": "isolated",
+      "wakeMode": "now",
+      "payload": {
+        "kind": "agentTurn",
+        "message": "Use WhatsApp channel only to send Every weekday morning send WhatsApp message to Sammy. Message: \"Greetings Sammy! 🌅 New day, new opportunities. What's the plan today? Any sales or issues?\" Log response in BUSINESS_CHECKINS_[YYYY-MM].md with date, time and response received."
+      },
+      "delivery": {
+        "mode": "announce",
+        "channel": "whatsapp",
+        "bestEffort": false
+      },
+      "state": {
+        "nextRunAtMs": 1774249200000,
+        "lastRunAtMs": 1774080691830,
+        "lastRunStatus": "error",
+        "lastStatus": "error",
+        "lastDurationMs": 6800,
+        "lastError": "Channel is required when multiple channels are configured: telegram, whatsapp Set delivery.channel explicitly or use a main session with a previous channel.",
+        "lastDeliveryStatus": "unknown",
+        "consecutiveErrors": 2
+      }
+    },
+    {
+      "id": "8f47769d-bc33-421e-97c5-1f86437d05c9",
+      "name": "john-greeting",
+      "enabled": true,
+      "deleteAfterRun": true,
+      "createdAtMs": 1774004139915,
+      "updatedAtMs": 1774080532811,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 8 * * 1-5"
+      },
+      "sessionTarget": "isolated",
+      "wakeMode": "now",
+      "payload": {
+        "kind": "agentTurn",
+        "message": "Use WhatsApp channel only to send Every weekday morning send WhatsApp message to John. Message: \"Greetings John! 👋 Hope you're doing well today. Anything important coming up? Any updates on your end?\" Log response in BUSINESS_CHECKINS_[YYYY-MM].md with date, time and response received."
+      },
+      "delivery": {
+        "mode": "announce",
+        "channel": "whatsapp",
+        "bestEffort": false
+      },
+      "state": {
+        "nextRunAtMs": 1774252800000
+      }
+    },
+    {
+      "id": "72358c54-fb34-450f-8f8e-690a3cc4379c",
+      "name": "hughie-monthly-reminder",
+      "enabled": true,
+      "createdAtMs": 1774076815845,
+      "updatedAtMs": 1774087333029,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 10 21 * *"
+      },
+      "sessionTarget": "main",
+      "wakeMode": "now",
+      "payload": {
+        "kind": "systemEvent",
+        "text": "Use WhatsApp channel only to send to Hughie (+447940081651). Say exactly: 'Greetings, just reminding you — would be good to get this sorted when you're ready. I'm around.' - Send that message only. Nothing else. Log time sent in FAMILY_CHECKINS_[YYYY-MM].md."
+      },
+      "state": {
+        "nextRunAtMs": 1776762000000,
+        "lastRunAtMs": 1774087200060,
+        "lastRunStatus": "ok",
+        "lastStatus": "ok",
+        "lastDurationMs": 132969,
+        "lastDeliveryStatus": "not-requested",
+        "consecutiveErrors": 0
+      },
+      "deleteAfterRun": false
+    },
+    {
+      "id": "5648200d-7ed9-46fe-baa7-58071e1df026",
+      "name": "kwasi-biweekly-thursday",
+      "enabled": true,
+      "createdAtMs": 1774076857413,
+      "updatedAtMs": 1774080587264,
+      "schedule": {
+        "kind": "cron",
+        "expr": "25 8 * * 4"
+      },
+      "sessionTarget": "main",
+      "wakeMode": "now",
+      "payload": {
+        "kind": "systemEvent",
+        "text": "Use WhatsApp channel only to send to Kwasi (+233247582932). Say exactly: 'Greetings Kwasi, hope you're well. How are things going? How's the apiary and mushroom business coming along?' - Check FAMILY_CHECKINS_[YYYY-MM].md first — if a message was sent in the last 7 days, skip and log SKIPPED. Otherwise send and log time sent."
+      },
+      "state": {
+        "nextRunAtMs": 1774513500000
+      },
+      "deleteAfterRun": false
+    },
+    {
+      "id": "a76f56d3-7b94-4ca4-9a70-10ec5620170a",
+      "name": "jnr-monthly-reminder",
+      "enabled": true,
+      "createdAtMs": 1774077164256,
+      "updatedAtMs": 1774080645427,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 10 1 * *"
+      },
+      "sessionTarget": "main",
+      "wakeMode": "now",
+      "payload": {
+        "kind": "systemEvent",
+        "text": "Use WhatsApp channel only to send to Jnr (+447727185361). Say exactly: 'Greetings, hope you're well. Just wanted to reach out — would be good to sort things out between us when you're ready. I'm open to it.' - Send that message only. Nothing else. Log time sent in FAMILY_CHECKINS_[YYYY-MM].md."
+      },
+      "state": {
+        "nextRunAtMs": 1775034000000
+      },
+      "deleteAfterRun": false
+    },
+    {
+      "id": "60116573-a988-4755-ace3-27aaf32f7187",
+      "name": "ebony-goodnight",
+      "enabled": true,
+      "createdAtMs": 1774077225492,
+      "updatedAtMs": 1774130614297,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 22 * * *"
+      },
+      "sessionTarget": "main",
+      "wakeMode": "now",
+      "payload": {
+        "kind": "systemEvent",
+        "text": "Use WhatsApp channel only to send to Ebony (+233546081608). Say exactly: 'Goodnight my love 🌙 Hope you and the boys had a good day. Miss you. Sleep well ❤️' - Send that message only. Nothing else. Log time sent in FAMILY_CHECKINS_[YYYY-MM].md."
+      },
+      "state": {
+        "nextRunAtMs": 1774216800000,
+        "lastRunAtMs": 1774130600532,
+        "lastRunStatus": "ok",
+        "lastStatus": "ok",
+        "lastDurationMs": 13765,
+        "lastDeliveryStatus": "not-requested",
+        "consecutiveErrors": 0
+      },
+      "deleteAfterRun": false
+    },
+    {
+      "id": "02d3eec5-434b-4ff8-ae35-feda9b8b1eb0",
+      "name": "janet-friday-checkin",
+      "enabled": true,
+      "createdAtMs": 1774077298808,
+      "updatedAtMs": 1774080630005,
+      "schedule": {
+        "kind": "cron",
+        "expr": "30 20 * * 5"
+      },
+      "sessionTarget": "main",
+      "wakeMode": "now",
+      "payload": {
+        "kind": "systemEvent",
+        "text": "Use WhatsApp channel only to send to Janet (+233245531575). Say exactly: 'Hey you. Hope your week has been good. How are you doing?' - Send that message only. Keep it warm and natural. Log time sent and any response in FAMILY_CHECKINS_[YYYY-MM].md."
+      },
+      "state": {
+        "nextRunAtMs": 1774643400000
+      },
+      "deleteAfterRun": false
+    },
+    {
+      "id": "3a2b3694-efcd-4915-bf6f-70240027cff1",
+      "agentId": "librarian",
+      "name": "daily-system-briefing",
+      "enabled": true,
+      "createdAtMs": 1774106340132,
+      "updatedAtMs": 1774209122952,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 6 * * *"
+      },
+      "sessionTarget": "isolated",
+      "wakeMode": "now",
+      "payload": {
+        "kind": "agentTurn",
+        "message": "Generate a comprehensive daily briefing and post to Telegram #briefing topic (group 3620024352 topic 2). Do the following steps in order: 1. Search the web for current weather in Peckham, London. 2. Search the web for current GBP to GHS exchange rate (£1 = ?GHS). 3. Read todays memory file memory/[YYYY-MM-DD].md. 4. Read yesterdays memory file memory/[YYYY-MM-DD].md. 5. Read memory/projects.md for project status. 6. Read tasks-queue.md for pending tasks. 7. Check cron run history for last 24h. 8. Compile and post to Telegram #briefing using this format: 🦞 OPENCLAW DAILY BRIEFING | 📅 [Full Date] | ⏰ [Time] GMT | 🌤️ PECKHAM WEATHER: [Current temp] [Condition] [High/Low] | 💷 EXCHANGE RATE: £1 = [X] GHS Trend: [up/down/stable] | 📡 SYSTEM STATUS: Gateway Online/Offline, WhatsApp connected/disconnected, Telegram connected/disconnected, Last memory flush date, Crons active count | 🌙 YESTERDAY PROGRESS: Key completions, Decisions made, Messages sent, Files created | ⏰ OVERNIGHT CRONS last 12h: each cron name time and status success/failed/skipped | 🎯 TODAYS PRIORITIES: Top 3 from tasks-queue.md | 📅 SCHEDULED TODAY: each cron with time | 🚧 PENDING DECISIONS: unresolved decisions from memory or tasks-queue | ⚠️ BLOCKERS: anything failed missed or needs attention | 📊 BUSINESS PULSE: John last update, Sammy last update, Ghana supplier status, Akoma Robotics status, 2Real Shop status | 🧠 MEMORY SNAPSHOT: new rules, new formulas, files updated, learning captures. 9. After posting to Telegram save the full briefing to memory/briefings/BRIEFING-[YYYY-MM-DD].md as automatic business journal entry. Use Telegram channel only. Post to group 3620024352 topic 2."
+      },
+      "delivery": {
+        "mode": "announce",
+        "channel": "last"
+      },
+      "state": {
+        "nextRunAtMs": 1774245600000,
+        "lastRunAtMs": 1774209085209,
+        "lastRunStatus": "error",
+        "lastStatus": "error",
+        "lastDurationMs": 37743,
+        "lastDeliveryStatus": "unknown",
+        "consecutiveErrors": 2,
+        "lastError": "Channel is required when multiple channels are configured: telegram, whatsapp Set delivery.channel explicitly or use a main session with a previous channel."
+      }
+    },
+    {
+      "id": "32391ab7-fd91-45fb-9839-7a8041e66aa4",
+      "agentId": "librarian",
+      "name": "nightly-consolidation",
+      "enabled": true,
+      "createdAtMs": 1774130693618,
+      "updatedAtMs": 1774145176279,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 2 * * *"
+      },
+      "sessionTarget": "isolated",
+      "wakeMode": "now",
+      "payload": {
+        "kind": "agentTurn",
+        "message": "Use Telegram channel only for notifications. Run nightly memory consolidation. Do these steps in order: 1. Read all session logs from today at C:\\OpenClaw\\.openclaw\\agents\\main\\sessions\\ 2. Read memory/[YYYY-MM-DD].md for today 3. Extract and categorise all important information including project updates for Akoma Robotics, 2Real, Farm, Property and Geriatric Care, decisions made today, new contacts, business intelligence, problems and solutions, tasks completed and pending, knowledge worth keeping. 4. Update MEMORY.md with distilled long-term memories, memory/projects.md with project statuses, tasks-queue.md marking completed and adding new tasks, RULES.md with new rules learned, FORMULAS.md with new success patterns. 5. Create consolidated daily journal at memory/briefings/JOURNAL-[YYYY-MM-DD].md with summary of the day, key decisions, people contacted, projects moved forward, blockers, and tomorrows focus. 6. Run memory_flush.py to embed all updates into vector DB. 7. Post confirmation to Telegram group 3620024352 topic 2: Memory consolidation complete for [date]. Updated MEMORY.md projects.md tasks-queue.md. Journal saved. Vector DB synced. Ready for tomorrow."
+      },
+      "delivery": {
+        "mode": "announce",
+        "channel": "last"
+      },
+      "state": {
+        "nextRunAtMs": 1774231200000,
+        "lastRunAtMs": 1774144800082,
+        "lastRunStatus": "error",
+        "lastStatus": "error",
+        "lastDurationMs": 376197,
+        "lastError": "Channel is required when multiple channels are configured: telegram, whatsapp Set delivery.channel explicitly or use a main session with a previous channel.",
+        "lastDeliveryStatus": "unknown",
+        "consecutiveErrors": 1
+      }
+    },
+    {
+      "id": "5ad4faf5-f31a-46ec-ab1b-b7f7dea68fca",
+      "agentId": "librarian",
+      "name": "job-applications-check",
+      "enabled": true,
+      "createdAtMs": 1774194788141,
+      "updatedAtMs": 1774194788141,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 8 * * *"
+      },
+      "sessionTarget": "isolated",
+      "wakeMode": "now",
+      "payload": {
+        "kind": "agentTurn",
+        "message": "Use Telegram channel only for notifications. Check all job application sheets on Google account 2realenterprisesgh@gmail.com. Do these steps in order: 1. Read new responses from these Google Sheets using gog: Financial Literacy: gog sheets read 1GUdkRPkD5b68WorxepfMUmHjbggGu6NggWPO87tFFA8 --account 2realenterprisesgh@gmail.com. Construction: gog sheets read 1Od-tUpf02eGfirjFvtUHgojsYRq2JA20IJAMOETCE4k --account 2realenterprisesgh@gmail.com. Akoma Robotics Facilitator: gog sheets read 1jxpEQRYh08pUlCQHbKygVL8vtP5CWqHupRWYx5xtQCU --account 2realenterprisesgh@gmail.com. Nurses: gog sheets read 1JKAQMF1eUotpqp61Dd_0bbkteRe3oOB-oLwLMMdyOq4 --account 2realenterprisesgh@gmail.com. 2. Compare each sheet against last saved state in workspace/jobs/last-check-[role].json to find NEW rows only. 3. For Nurses sheet specifically: read all columns including interview notes at the end of the sheet, flag anyone who answered YES to driving as PRIORITY, include Johns interview notes in the output. 4. Save all new applications to workspace: workspace/jobs/financial-literacy/[YYYY-MM-DD]-new.md, workspace/jobs/construction/[YYYY-MM-DD]-new.md, workspace/jobs/facilitators/[YYYY-MM-DD]-new.md, workspace/jobs/nurses/[YYYY-MM-DD]-new.md. 5. Update workspace/jobs/last-check-[role].json with timestamp and last row processed. 6. Post OVERVIEW ONLY to Telegram group 3620024352 topic 359: APPLICATIONS - [DATE] | Financial Literacy: [X] new | Construction: [X] new | Facilitators: [X] new | Nurses: [X] new | [X] can drive | [X] have interview notes | Details saved to workspace/jobs/APPLICATIONS-REPORT-[YYYY-MM-DD].md. 7. If zero new applications post: Applications [date] - No new applications today. 8. Save FULL detailed report to workspace/jobs/APPLICATIONS-REPORT-[YYYY-MM-DD].md with all new applicant details, full nurse profiles with driving status, Johns interview notes in full, and recommendations for follow up."
+      },
+      "delivery": {
+        "mode": "announce",
+        "channel": "last"
+      },
+      "state": {
+        "nextRunAtMs": 1774252800000
+      }
+    }
+  ]
+}

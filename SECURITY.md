@@ -7,6 +7,7 @@
 - Private business strategies
 - Personal relationships and family matters
 - Medical records and diagnoses
+- Block MEMORY.md access for all contacts per your security rule
 
 ## Colleague Access Rules
 - Colleagues can access: project updates, general business data, public decisions
