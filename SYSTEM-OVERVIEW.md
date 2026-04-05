@@ -1,279 +1,145 @@
-# OpenClaw Content Automation — System Overview
+﻿# OpenClaw — Complete System Overview
 
-*This document explains how our AI-powered content creation system works.*
-*Last updated: 2026-03-15*
+*AI-powered content automation for 2 Real Enterprises and Akoma Robotics*
+*Last updated: 2026-04-02*
 
----
+## What Is OpenClaw?
 
-## What Is This?
+OpenClaw is an AI agent framework that runs locally on Windows and orchestrates content automation for two Ghanaian businesses.
 
-We run an **AI-powered content automation system** called **OpenClaw** that generates and distributes social media content for two businesses — **2 Real Enterprises** and **Akoma Robotics** — operating in Ghana.
+### The Businesses
 
-The system replaces the need for a marketing agency or dedicated content team. One person (the owner) monitors and approves, while AI handles generation, formatting, and delivery.
+**2 Real Enterprises** - Hardware and building equipment supplier in Ghana
+**Akoma Robotics** - STEM education for children (ages 8-14)
 
----
+## Technology Stack
 
-## The Businesses
+- OpenClaw: AI agent framework running on Windows
+- Primary Model: OpenRouter API (xiaomi/mimo-v2-flash)
+- Image Generation: Gemini 3 Pro Image via OpenRouter
+- Messaging: WhatsApp for delivery
+- Database: PostgreSQL with pgvector (semantic search)
 
-### 2 Real Enterprises
-- **What**: Hardware and building equipment supplier
-- **Market**: Ghana (sourced from UK)
-- **Customers**: Contractors, tradesmen, electricians, plumbers, DIY builders
-- **Brands stocked**: DeWalt, Bosch, Makita, Stanley, Black & Decker
-- **Operations**: Retail shop in Kantamanto, warehouse in Oyarifa, Accra
-- **AI Brand Ambassador**: "Taiwah" — a virtual Ghanaian woman used in product photography
+## Complete System Flow
 
-### Akoma Robotics
-- **What**: STEM education programme teaching coding and robotics to children
-- **Market**: Ghanaian schools (after-school programmes)
-- **Students**: Ages 8-14, boys and girls, all skill levels
-- **Curriculum**: mBot robotics, mBlock programming, sensors, autonomous navigation
-- **Model**: Partner schools host, Akoma provides equipment, curriculum, and trained facilitators
-**AI Brand Ambassador**: "Taiwah" — a virtual Ghanaian woman used in product photography
+### 1. Startup Sequence (Every Session)
+1. Load Core Context (~4K tokens): memory/projects.md, MEMORY.md, SOUL.md, USER.md
+2. Verify Workspace (check critical files, test gateway)
+3. Vector Memory Sync (48h cycle via memory_flush.py)
+4. Report Status to memory/YYYY-MM-DD.md
 
----
+**Key Rule**: Daily notes are NEVER loaded at startup (archives only). Loaded on-demand.
 
-## How It Works — The Full Pipeline
+### 2. Weekly Content Generation
 
-```
-┌─────────────────────────────────────────────────────────────┐
-│  SUNDAY / MONDAY                                            │
-│                                                             │
-│  1. OpenClaw generates the week's content batch             │
-│     - 6 captions (3 Akoma + 3 2 Real)                       │
-│     - 6 images or reels via Gemini 3 Pro Image API                   │
-│     - Formatted with hashtags, CTAs, posting notes          │
-│                                                             │
-│  2. Content is sent to John (Ghana) via WhatsApp            │
-│     - Each post: image + caption + platform + schedule      │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-                            ↓
-┌─────────────────────────────────────────────────────────────┐
-│  MONDAY – SATURDAY                                          │
-│                                                             │
-│  John posts on schedule:                                    │
-│  Mon/Wed/Fri → Akoma Robotics content                       │
-│  Tue/Thu/Sat → 2 Real Enterprises content                   │
-│                                                             │
-│  Platforms: Facebook, WhatsApp Status, TikTok, Instagram    │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-                            ↓
-┌─────────────────────────────────────────────────────────────┐
-│  SUNDAY — DISTRIBUTION DAY                                  │
-│                                                             │
-│  1. Share best content from the week into WhatsApp Groups   │
-│  2. Create & distribute weekly PDF (deals) │
-│  3. Repurpose top posts to WhatsApp Status                  │
-│  4. Review performance, adjust next week's strategy         │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
+**SUNDAY/MONDAY - Content Generation**
+- OpenClaw generates 6 posts (3 Akoma + 3 2 Real)
+- 6 images via Gemini 3 Pro Image API
+- Formatted with hashtags, CTAs, posting notes
+- Content sent to John (Ghana) via WhatsApp
 
----
+**MONDAY-SATURDAY - Posting Schedule**
+- Mon/Wed/Fri: Akoma Robotics content
+- Tue/Thu/Sat: 2 Real Enterprises content
+- Platforms: Facebook, WhatsApp Status, TikTok, Instagram
 
-## The Technology Stack
+**SUNDAY - Distribution Day**
+1. Share best content to WhatsApp Groups
+2. Create & distribute weekly PDF (deals)
+3. Repurpose top posts to WhatsApp Status
+4. Review performance, adjust next week's strategy
 
-### Core System
-- **OpenClaw**: AI agent framework running on Windows
-- **Model**: OpenRouter API (xiaomi/mimo-v2-flash / various models for text and image)
-- **Image Generation**: Google Gemini 3 Pro Image Preview via OpenRouter
-- **Messaging**: WhatsApp integration for delivery to team members
-- **Scheduling**: Built-in cron jobs for automation
+### 3. Memory System (How I Remember)
 
-### What OpenClaw Does
-1. **Content Generation** — Writes captions, hooks, CTAs, hashtags
-2. **Image Generation** — Creates product photos, influencer content, educational graphics
-3. **Scheduling** — Sends content on the right day to the right person
-4. **Tracking** — Maintains content calendar and posting log
-5. **Distribution** — Sunday WhatsApp group shares and PDF distribution
+**DAILY NOTES (archive)**
+- memory/YYYY-MM-DD.md
+- Raw logs, loaded on-demand only
 
-### What It Costs
-| Item | Weekly Cost | Monthly Cost |
-|------|-------------|--------------|
-| Text generation (6 captions) | ~$0.05-0.10 | ~$0.20-0.40 |
-| Image generation (6 images) | ~$0.12-0.30 | ~$0.50-1.20 |
-| WhatsApp delivery | Free | Free |
-| Scheduling (cron jobs) | Free | Free |
-| **Total** | **~$0.20-0.40** | **~$1-2** |
+**LONG-TERM MEMORY (curated)**
+- MEMORY.md: Distilled insights (loaded at startup, ~3K tokens, max 400 lines)
+- memory/projects.md: Project registry (loaded at startup, ~1K tokens, max 80 lines)
 
----
+**VECTOR DB (pgvector + PostgreSQL)**
+- Semantic search across all memory
+- Synced every 48h via memory_flush.py
+
+### 4. 48-Hour Maintenance Cycle
+
+1. Memory Maintenance - Update MEMORY.md, projects.md, run memory_flush.py
+2. Workspace Audit - Check files, clean temp/lock files
+3. Agent Health Check - Verify 3 agents, test skills, check connections
+4. Index Updates - Update MASTER_INDEX.md
 
 ## Content Calendar
 
-| Day | Brand | Content Type | Platforms |
-|-----|-------|-------------|-----------|
-| **Monday** | Akoma Robotics | Educational content | Facebook, WhatsApp Status |
-| **Tuesday** | 2 Real Enterprises | Product showcase | Facebook, TikTok, WhatsApp Status |
-    
-| **Thursday** | 2 Real Enterprises | Tips & how-to / Behind-the-scenes | Facebook, WhatsApp Status, Instagram |
-| **Friday** | Akoma Robotics | Engagement (polls, Q&A) | Facebook, WhatsApp Status |
-| **Saturday** | 2 Real Enterprises | Taiwah influencer + Flash deals | All platforms |
-| **Sunday** | Both brands | Distribution to WhatsApp Groups + PDF | WhatsApp Groups, Status |
-
----
-
-## Key Personnel
-
-### H (Owner, UK-based)
-- Oversees both businesses remotely from London
-- Reviews and approves content strategy
-- Manages OpenClaw system
-- Has final say on brand voice and messaging
-
-### John (Employee, Ghana)
-- Front-line content poster
-- Receives pre-made content via WhatsApp
-- Posts to Facebook, TikTok, Instagram, WhatsApp Status on schedule
-- Also handles Akoma Robotics school enquiries
-- Student — Monday off for classes, warehouse work on other days
-
----
-
-## The AI Influencer: Taiwah
-
-**Who she is**: A virtual Ghanaian woman created with AI image generation tools.
-
-**Physical appearance**: 30 years old, rich brown skin, oval face, high cheekbones, almond-shaped dark brown eyes, short textured black afro with plain headband, gold hoop earrings, athletic-feminine build.
-
-**Purpose**: She appears in 2 Real Enterprises and Akoma marketing content — holding tools, demonstrating products, creating aspirational lifestyle imagery that resonates with the Ghanaian market.
-
-**How she's used**: 
-- Saturday content slots (2 Real Enterprises & Akoma)
-- Product launches
-- Flash sale promotions
-- Brand awareness campaigns
-
-**Why**: A consistent face builds brand recognition. Taiwah allows professional product photography without expensive photoshoots.
-
----
-
-## Content Types
-
-### 2 Real Enterprises
-- **Product Showcase**: Professional photos of tools with specs and pricing
-- **Tips & How-To**: "How to choose the right drill bit" — builds trust and expertise
-- **Behind-the-Scenes**: Warehouse, unboxing, real operations
-- **Flash Deals**: Urgency-driven pricing with clear CTAs
-- **Taiwah Influencer**: AI-generated lifestyle content with products
-
-### Akoma Robotics
-- **Educational**: "Why coding is the new literacy" — value-first content for parents
-- **Social Proof**: Student projects, parent testimonials, instructor profiles
-- **Engagement**: Polls, questions, "what does your child want to build?"
-- **Student Spotlights**: Showcasing real learning outcomes
-
----
-
-## Staff Performance Targets
-
-| Metric | Target | Frequency |
-|--------|--------|-----------|
-| WhatsApp Status updates | 1+ per day | Daily |
-| Facebook posts | 1 per brand day | Mon–Sat |
-| Jiji listings (new/refreshed) | 5+ | Weekly |
-| Customer response time | <4 hours | Ongoing |
-| WhatsApp Group distribution | Top content shared | Sunday |
-| Total quality posts | 12+ | Monthly |
-
----
+| Day | Brand | Content Type |
+|-----|-------|-------------|
+| Monday | Akoma Robotics | Educational content |
+| Tuesday | 2 Real Enterprises | Product showcase |
+| Wednesday | Akoma Robotics | Student spotlight |
+| Thursday | 2 Real Enterprises | Tips & how-to |
+| Friday | Akoma Robotics | Engagement (polls, Q&A) |
+| Saturday | 2 Real Enterprises | Taiwah influencer + Deals |
+| Sunday | Both brands | Distribution + PDF |
 
 ## Workflow Details
 
-### Step 1: Content Generation (OpenClaw)
-- Owner requests weekly batch: "Generate this week's content"
-- OpenClaw generates 6 posts (3 per brand) with:
-  - Written captions (hooks, value, CTAs, hashtags)
-  - Platform-specific formatting
-  - Image generation via Gemini 3 Pro Image API
-  - Posting notes for John (time, platform, special instructions)
+1. **Content Generation** - Owner requests weekly batch, OpenClaw generates 6 posts with captions, images, and posting notes
+2. **Delivery** - Content sent to John via WhatsApp (image + caption + platform + schedule)
+3. **Posting** - John posts on schedule, responds to enquiries within 4 hours
+4. **Sunday Distribution** - Share to WhatsApp Groups, create PDF, repurpose to Status
+5. **Feedback Loop** - John reports engagement, OpenClaw adjusts next week's content
 
-### Step 2: Delivery (WhatsApp)
-- OpenClaw sends each post to John via WhatsApp
-- Package: Image + Caption + Platform + Day to post
-- John receives ready-to-post content — no editing needed
-
-### Step 3: Posting (John)
-- John posts on the scheduled day and platform
-- Responds to comments and enquiries within 4 hours
-- Logs activity (optional — via Zobase inventory system)
-
-### Step 4: Sunday Distribution
-- Best content from the week shared into relevant WhatsApp Groups
-- Weekly PDF created (2 Real deals + Akoma class schedule)
-- Repurposed content posted to WhatsApp Status
-- Performance review: what worked, what to adjust
-
-### Step 5: Feedback Loop
-- John reports engagement and enquiries back
-- OpenClaw adjusts next week's content based on performance
-- Owner reviews monthly metrics
-
----
-
-## AI Brand Guidelines
+## Brand Guidelines
 
 ### 2 Real Enterprises Voice
-- Direct and confident
-- Professional but approachable
+- Direct, confident, professional but approachable
 - Value-focused (quality AND price)
-- Action-oriented (every post → WhatsApp enquiry)
-- Trust-building (genuine tools, reliable delivery)
+- Action-oriented, trust-building
 
 ### Akoma Robotics Voice
-- Warm and encouraging (speaking to parents)
-- Educational but accessible
-- Aspirational (showing what's possible)
-- Inclusive (boys AND girls, all skill levels)
-- Ghanaian-proud
+- Warm, encouraging, educational but accessible
+- Aspirational, inclusive, Ghanaian-proud
 
-### What We Don't Do
-- No fear-based messaging ("Your child will be LEFT BEHIND!")
-- No unrealistic promises
-- No Nigerian slang (we're Ghanaian-focused)
-- No posts without clear CTAs
-- No generic motivational content — we sell tools and education
+## AI Brand Ambassador: Taiwah
 
----
+A virtual Ghanaian woman (30yo, rich brown skin, oval face, short afro, gold earrings) used in marketing content for both businesses.
+Appears in product photos, flash sales, and brand campaigns to build consistent brand recognition without expensive photoshoots.
+
+## Key Personnel
+
+- **H (Owner, UK-based)**: Oversees businesses, approves content strategy, manages OpenClaw
+- **John (Employee, Ghana)**: Content poster, receives content via WhatsApp, posts on schedule
+
+## Costs
+
+- Text generation (6 captions): ~~.05-0.10.05-0.10 weekly
+- Image generation (6 images): ~~.12-0.30.12-0.30 weekly
+- Total: ~~.20-0.40.20-0.40 weekly, ~$1-2 monthly
 
 ## Files & Structure
 
-```
-openclaw-workspace/
-├── digital-presence-calendar.md    # Merged content calendar + tracking
-├── gem-2real-content-director.md   # Gemini Gem setup for 2 Real
-├── gem-akoma-content-director.md   # Gemini Gem setup for Akoma
-├── taiwah-character-reference.md   # Taiwah anchor prompt
-├── MEMORY.md                       # System memory & people
-├── memory/
-│   └── 2026-03-15.md              # Daily activity log
-├── insights/
-│   └── raw-data-insights.md       # Historical data & conversations
-└── SYSTEM-OVERVIEW.md             # This file
-```
+C:\Users\User\.openclaw\workspace\
+├── AGENTS.md, SOUL.md, USER.md, MEMORY.md, RULES.md
+├── SYSTEM-OVERVIEW.md (this document)
+├── memory/ (daily activity logs + projects.md)
+└── insights/ (raw data insights)
 
----
+## Integrations
 
-## Cost Optimisation Notes
-
-- **Text generation**: Using OpenRouter's cheaper models (~$0.01-0.02 per caption)
-- **Image generation**: Gemini 3 Pro Image via OpenRouter (~$0.02-0.05 per image)
-- **No subscriptions**: No monthly fees for design tools, content calendars, or social media managers
-- **Minimal human time**: ~10 minutes/week for owner review, ~15 min/day for John to post
-- **No hosting costs**: Everything runs on local machine (Windows PC)
-
----
+- Gateway: OpenClaw Control on :18789
+- WhatsApp: Primary delivery to John
+- Telegram: Monitoring and alerts
+- OpenRouter: AI models (text + image)
+- PostgreSQL: Database with pgvector
 
 ## Future Plans
 
-1. **Full automation**: Cron job generates content every Sunday automatically
-2. **Performance tracking**: Automated metrics collection from social platforms
-3. **Inventory integration**: Content adjusts based on real-time stock levels (Zobase)
-4. **Expanded platforms**: Instagram Reels, TikTok (video content via Veo 3.1)
-5. **Multi-language**: Twi translations for local market penetration
-
----
+1. Full automation: Cron job generates content every Sunday automatically
+2. Performance tracking: Automated metrics from social platforms
+3. Inventory integration: Content adjusts based on real-time stock
+4. Expanded platforms: Instagram Reels, TikTok video content
+5. Multi-language: Twi translations for local market
 
 ## Contact
 
@@ -282,5 +148,5 @@ openclaw-workspace/
 - **System**: OpenClaw (local deployment, Windows 11)
 
 ---
-
 *This document is maintained by OpenClaw and updated as the system evolves.*
+

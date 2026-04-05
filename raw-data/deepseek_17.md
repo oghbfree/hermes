@@ -1,2 +1,0 @@
-# Ledger_Device_Defect:_Push_for_Replacement_or_Refund
-

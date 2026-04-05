@@ -1,0 +1,1 @@
+Get-ChildItem -Path 'C:\OpenClaw\.openclaw\agents\main\sessions' -File | Where-Object { .LastWriteTime -ge [datetime]::Today } | Select-Object -ExpandProperty FullName

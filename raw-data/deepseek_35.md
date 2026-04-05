@@ -1,2 +1,0 @@
-# Year-Long_Robotics_Curriculum_for_Ghana_Schools
-

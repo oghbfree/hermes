@@ -43,6 +43,20 @@
 ### Related Documents
 - `2017 KIA RIO - Auto Duty Checker.pdf` in raw-data (07/03/2026)
 
+things needed for kia rio: Check the "First Edition" fit: When you find a dashboard at Abossey Okai, look at the center air vents.
+Because your UK car has the 7-inch screen, the air vents are slightly wider apart than the version with the small radio.
+If the dashboard you find in Ghana has small, skinny vents, your 7-inch screen will not fit without you cutting the plastic. Look for a dash from a high-spec US import (usually the EX or S trim in the US. Need Dashboard + Rack + Pedals  and manual pedal box + Loom have been sourcing on jiji. to ship the car with jems shipping Efia Sam's yard open 26th  3rd march £850. currently abubakar fixiing starter motor tomorrow, however could be Starter motor cable corrosion 
+Electronic problem..as immobilizer issue
+Wire powers not going through....
+
+Coil pack tops to c
+Spark plugs
+
+Kia Rio Hatchback (2017 - 2023) First Edition 1.0 T-GDi 118bhp ISG 5d KNADC511LH6066069  ln67vyr
+ knadc511lh6066069
+possible Water damage, pic of ECU, issues at back where car don't start, ground connection. Auto electrician in uk,
+Wd 40 on ECU, clutch switch . dig test invesigate 9th april sid, 10th march 150£
+
 ---
 
 ## Ford Ranger (Pickup) - Ghana

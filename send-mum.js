@@ -1,0 +1,84 @@
+const WebSocket = require('ws');
+
+const GW_TOKEN = 'REDACTED';
+const WS_URL = 'ws://127.0.0.1:18789';
+
+const ws = new WebSocket(WS_URL);
+let reqId = 0;
+
+function nextId() {
+  return `req_${++reqId}_${Date.now()}`;
+}
+
+ws.on('open', () => {
+  console.log('Connected to gateway');
+});
+
+ws.on('message', (data) => {
+  const msg = JSON.parse(data.toString());
+
+  if (msg.type === 'event' && msg.event === 'connect.challenge') {
+    console.log('Got challenge, sending connect...');
+    
+    ws.send(JSON.stringify({
+      type: 'req',
+      id: nextId(),
+      method: 'connect',
+      params: {
+        minProtocol: 3,
+        maxProtocol: 3,
+        client: {
+          id: 'openclaw-control-ui',
+          version: '2026.3.13',
+          platform: 'windows',
+          mode: 'webchat'
+        },
+        role: 'operator',
+        scopes: ['operator.read', 'operator.write'],
+        auth: { token: GW_TOKEN },
+        locale: 'en-GB',
+        userAgent: 'openclaw-control-ui/2026.3.13'
+      }
+    }));
+    return;
+  }
+
+  if (msg.type === 'res' && msg.ok === true) {
+    console.log('Connected! Sending chat.send...');
+    
+    const chatReqId = nextId();
+    ws.send(JSON.stringify({
+      type: 'req',
+      id: chatReqId,
+      method: 'chat.send',
+      params: {
+        sessionKey: 'agent:main:whatsapp:direct:+233503654902',
+        message: 'Hey Mum, how are you feeling today? Did you take your meds? Hope you slept well.',
+        deliver: true
+      }
+    }));
+    console.log('Chat send requested, id:', chatReqId);
+    return;
+  }
+
+  if (msg.type === 'res' && msg.ok === false) {
+    console.error('Error response:', JSON.stringify(msg, null, 2));
+    ws.close();
+    process.exit(1);
+    return;
+  }
+
+  console.log('Response:', JSON.stringify(msg, null, 2));
+  
+  if (msg.type === 'res' && msg.id) {
+    setTimeout(() => { ws.close(); process.exit(0); }, 1000);
+  }
+});
+
+ws.on('error', (err) => {
+  console.error('WebSocket error:', err.message);
+  process.exit(1);
+});
+
+setTimeout(() => { console.log('Timeout'); ws.close(); process.exit(1); }, 15000);
+

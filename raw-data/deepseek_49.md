@@ -1,2 +1,0 @@
-# Warehouse_space_cost_in_Oyarifa_Accra
-

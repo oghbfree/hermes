@@ -1,2 +1,0 @@
-# ICARE_Ozone_Generator_Safety_and_Usage
-

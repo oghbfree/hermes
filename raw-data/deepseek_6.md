@@ -1,2 +1,0 @@
-# Identifying_Financial_Manipulation_on_First_Dates
-

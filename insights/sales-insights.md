@@ -1564,7 +1564,7 @@ source: >-
 author: paapablankson@gmail.com
 ---
 
-â˜tvsâ˜sanyo               22â˜sharp      remote     adapter     0â˜jvc               0â˜sam/lg 40" charlton with stand               65â˜lg smart 24"     remote�
+â˜tvsâ˜sanyo               22â˜sharp      remote     adapter     0â˜jvc               0â˜sam/lg 40" charlton with stand               65â˜lg smart 24"     remote 
 ---
 
 ### Source: Shipments\Container 19\Laptop check 26_3_19 kwabena.txt.md
@@ -2167,8 +2167,5 @@ ac 50275182
 containerlift
 
 
-
-
 72gh
 ---
-

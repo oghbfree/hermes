@@ -1,2 +1,0 @@
-# VPN_Services_Available_in_Ghana_Explained
-

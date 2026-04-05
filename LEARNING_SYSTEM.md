@@ -19,18 +19,17 @@ This system captures every failure as a rule and every success as a formula for 
 ## 📊 Learning Cadence
 
 ### Daily (Every Session)
-- **Learning Log**: `memory/YYYY-MM-DD.md` (Layer 1 — raw archive)
-- Document: What worked, what failed, why
-- Capture: Micro-rules and quick wins
-- Run `memory_flush.py` at session end to embed new content
-- Review time: 5 min per day
+ 
+- Document: What worked, what failed, why, micro-rules and quick wins in `memory/YYYY-MM-DD.md` 
+-Sync: All changes (Weekly, Monthly, Curation) are committed to the Vector DB ONLY at 03:00 daily by the Librarian.
+
 
 ### Weekly (Monday Morning — hooked to existing Daily Self-Audit cron)
 - **Weekly Learning Review**: `learning/weekly/YYYY-W##.md`
 - Synthesize: Daily lessons into patterns
 - Extract: Rules and formulas
 - Update: `RULES.md` and `FORMULAS.md`
-- Run `memory_flush.py` after updates
+- Run `memory_flush.py` when instructed
 - Review time: 30 min per week
 - **Executor**: Librarian via Daily Self-Audit cron (07:00 Mon, Europe/London)
 
@@ -108,7 +107,7 @@ Rules are numbered sequentially (#1–#18+, #101 reserved for system-level guard
 
 After adding any new rule:
 1. Update `RULES.md`
-2. Run `memory_flush.py` to embed the new rule into vector DB
+2. Run `memory_flush.py` when instructed to embed the new rule into vector DB
 3. Reference the rule number in `MEMORY.md` if it's system-critical
 
 ---
@@ -129,7 +128,7 @@ After adding any new rule:
   2. Capture: 1 success, 1 failure, 1 insight
   3. Tag with: #learning, #success, #failure
   4. Add timestamp
-  5. Run memory_flush.py to embed
+  5. Run memory_flush.py when instructed to embed 
 - **Success rate**: 95% knowledge retention
 
 ## Formula #2: Weekly Pattern Extraction
@@ -137,12 +136,12 @@ After adding any new rule:
 - **Why**: Daily data is noisy; weekly reveals patterns
 - **When to use**: Every Monday (hooks into Daily Self-Audit cron)
 - **Steps**:
-  1. Run: memory_search.py "failures this week" to pull relevant embeddings
+  1. Run: memory_search.py when instructed "failures this week" to pull relevant embeddings
   2. Read weekly daily notes on-demand
   3. Extract 5-10 patterns/themes
   4. Identify 2-3 new rules, 2-3 confirmed formulas
   5. Update RULES.md and FORMULAS.md
-  6. Run memory_flush.py after updates
+  6. Run memory_flush.py when instructed
 - **Success rate**: 85% pattern accuracy
 
 ## Formula #3: The Hypothesis-Test-Document Loop
@@ -154,7 +153,7 @@ After adding any new rule:
   2. Test with specific scenario and expected outcome
   3. Document result in memory/YYYY-MM-DD.md
   4. Extract to RULES.md or FORMULAS.md
-  5. Run memory_flush.py
+  5. Run memory_flush.py when instructed
 - **Success rate**: 92% actionable insights
 
 ## Formula #4: The Failure-to-Rule Conversion
@@ -166,7 +165,7 @@ After adding any new rule:
   2. Identify root cause
   3. Create guard/check to prevent recurrence
   4. Add to RULES.md with full format (origin, consequence, guard, implementation, status)
-  5. Run memory_flush.py
+  5. Run memory_flush.py when instructed
   6. Reference rule number in MEMORY.md if system-critical
 - **Success rate**: 100% if applied
 
@@ -204,7 +203,7 @@ After adding any new rule:
 - Rules 16-18 added for memory system discipline
 
 ### Agent Changes
-- Librarian: Now owns memory_flush.py at every heartbeat
+- Librarian: Now owns memory_flush.py when instructed
 - All agents: Load only projects.md + MEMORY.md at startup (Rule #16)
 - Cron updated: Auto-curation replaces manual weekly MEMORY.md edits
 
@@ -248,7 +247,7 @@ After adding any new rule:
 - IF: Needs user context from recent messages → THEN: Heartbeat
 
 ## When to Use Which Model
-- IF: Complex reasoning or planning → THEN: DeepSeek (primary)
+- IF: Complex reasoning or planning → THEN: Mimo (primary)
 - IF: Broad/general tasks → THEN: Gemini Flash Lite
 - IF: Cost-sensitive batch work → THEN: Gemini Flash Lite
 - IF: Memory embeddings → THEN: Gemini (gemini-embedding-001, fixed)
@@ -265,7 +264,6 @@ After adding any new rule:
 - IF: Never at startup → THEN: Daily notes bulk load
 
 ## When to Run memory_flush.py
-- IF: Heartbeat → THEN: Always (idempotent, total_stored=0 is fine)
 - IF: Just wrote to MEMORY.md → THEN: Immediately after
 - IF: Just added a new rule or formula → THEN: Immediately after
 - IF: Auto-curation cron just ran → THEN: Built into cron (automatic)
@@ -441,7 +439,7 @@ TEST HYPOTHESIS in 3 different contexts
     ↓
 DOCUMENT FORMULA: Add to FORMULAS.md with steps
     ↓
-RUN memory_flush.py → embeds formula into vector DB
+RUN memory_flush.py every 24 hours → embeds formula into vector DB
     ↓
 CREATE HEURISTIC in HEURISTICS.md
     ↓
@@ -490,11 +488,11 @@ Track these weekly in `learning/weekly/YYYY-W##.md`:
 
 | Learning Event | Action | Memory Layer Affected |
 |---|---|---|
-| Daily session ends | Write to `memory/YYYY-MM-DD.md`, run flush | Layer 1 + 4 |
-| New rule added | Update `RULES.md`, run flush | Layer 4 |
-| New formula added | Update `FORMULAS.md`, run flush | Layer 4 |
-| Weekly review | Update `RULES.md` + `FORMULAS.md`, run flush | Layer 4 |
-| Twice-weekly curation | Auto-rewrites `MEMORY.md`, auto-flushes | Layer 2 + 4 |
+| Daily session ends | Write to `memory/YYYY-MM-DD.md`, Queue for 03:00 daily flush (HEURISTICS.md is authoritative) | Layer 1 + 4 |
+| New rule added | Update `RULES.md`, Queue for 03:00 daily flush (HEURISTICS.md is authoritative) | Layer 4 |
+| New formula added | Update `FORMULAS.md`, Queue for 03:00 daily flush (HEURISTICS.md is authoritative) | Layer 4 |
+| Weekly review | Update `RULES.md` + `FORMULAS.md`, Queue for 03:00 daily flush (HEURISTICS.md is authoritative)h | Layer 4 |
+| Twice-weekly curation | Auto-rewrites `MEMORY.md`, Queue for 03:00 daily flush (HEURISTICS.md is authoritative) | Layer 2 + 4 |
 | Monthly review | Update `EVOLUTION.md`, update `MEMORY.md` summary | Layer 2 + 4 |
 | Quarterly review | Strategic update to `MEMORY.md`, `projects.md` | Layer 2 + 3 + 4 |
 

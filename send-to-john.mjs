@@ -1,0 +1,85 @@
+import { readFileSync } from 'fs';
+import { WebSocket } from 'ws';
+import crypto from 'crypto';
+
+const GW_TOKEN = 'REDACTED';
+const JOHN = '+233233352252';
+const mondayImgBase64 = readFileSync('C:/OpenClaw/.openclaw/workspace/content/monday-akoma/1.jpg').toString('base64');
+const tuesdayImgBase64 = readFileSync('C:/OpenClaw/.openclaw/workspace/content/tuesday-2real/1.jpg').toString('base64');
+const tuesdayCaption = readFileSync('C:/OpenClaw/.openclaw/workspace/content/tuesday-2real/1.txt', 'utf8');
+
+const ws = new WebSocket('ws://127.0.0.1:18789', { headers: { Origin: 'http://127.0.0.1:18789' } });
+let msgId = 0;
+
+function send(method, params) {
+  const id = String(++msgId);
+  ws.send(JSON.stringify({ type: 'req', id, method, params }));
+  console.log(`SENT: ${method} (${id})`);
+  return id;
+}
+
+ws.on('open', () => console.log('Connected'));
+
+ws.on('message', (raw) => {
+  const data = JSON.parse(raw.toString());
+  console.log(`RX ${data.type}/${data.method||data.event||''} id=${data.id||'-'} ok=${data.ok}`);
+  
+  if (data.type === 'event' && data.event === 'connect.challenge') {
+    send('connect', {
+      minProtocol: 3, maxProtocol: 3,
+      client: { id: 'openclaw-control-ui', version: '2026.3.13', platform: 'win32', mode: 'webchat' },
+      role: 'operator',
+      scopes: ['operator.admin', 'operator.read', 'operator.write'],
+      caps: [], commands: [], permissions: {},
+      auth: { token: GW_TOKEN },
+      userAgent: 'openclaw-cli/2026.3.13', locale: 'en-GB'
+    });
+  } else if (data.type === 'res' && data.id === '1') {
+    if (data.ok) {
+      console.log('Connected! Now trying to send to John...');
+      // Try without deliver flag first
+      send('chat.send', {
+        sessionKey: `agent:main:whatsapp:direct:${JOHN}`,
+        message: "Hey John! Monday Akoma content coming 🚀",
+        idempotencyKey: crypto.randomUUID()
+      });
+    } else {
+      console.log('FAILED:', JSON.stringify(data.error));
+      ws.close();
+      process.exit(1);
+    }
+  } else if (data.type === 'res' && data.id === '2') {
+    console.log('chat.send result:', data.ok ? 'SUCCESS' : JSON.stringify(data.error));
+    if (data.ok) {
+      // Now try with deliver=true and attachments
+      send('chat.send', {
+        sessionKey: `agent:main:whatsapp:direct:${JOHN}`,
+        message: "Monday content image attached above.",
+        deliver: true,
+        idempotencyKey: crypto.randomUUID(),
+        attachments: [{ type: 'image', mimeType: 'image/jpeg', content: mondayImgBase64 }]
+      });
+    } else {
+      ws.close();
+      process.exit(1);
+    }
+  } else if (data.type === 'res' && data.id === '3') {
+    console.log('Monday deliver result:', data.ok ? 'SUCCESS' : JSON.stringify(data.error));
+    send('chat.send', {
+      sessionKey: `agent:main:whatsapp:direct:${JOHN}`,
+      message: tuesdayCaption,
+      deliver: true,
+      idempotencyKey: crypto.randomUUID(),
+      attachments: [{ type: 'image', mimeType: 'image/jpeg', content: tuesdayImgBase64 }]
+    });
+  } else if (data.type === 'res' && data.id === '4') {
+    console.log('Tuesday deliver result:', data.ok ? '✅ DONE!' : JSON.stringify(data.error));
+    ws.close();
+    process.exit(data.ok ? 0 : 1);
+  }
+});
+
+ws.on('error', (e) => console.error('WS Error:', e.message));
+ws.on('close', (c, r) => console.log(`Closed: ${c} ${r}`));
+setTimeout(() => { console.log('Timeout'); ws.close(); process.exit(1); }, 25000);
+

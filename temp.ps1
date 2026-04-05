@@ -1,0 +1,1 @@
+ = 'C:/Users/User/.openclaw/workspace/memory/heartbeat-state.json';  = Get-Content  -Raw | ConvertFrom-Json;  | Add-Member -NotePropertyName 'lastHeartbeatSuccess' -NotePropertyValue (Get-Date -Format 'yyyy-MM-ddTHH:mm:ssZ') -Force;  | ConvertTo-Json | Set-Content 

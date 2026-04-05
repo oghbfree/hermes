@@ -1,2 +1,0 @@
-# Troubleshooting_Ledger_Wallet_USB_Connection_Issue
-

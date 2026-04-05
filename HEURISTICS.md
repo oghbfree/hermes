@@ -3,22 +3,26 @@
 Quick IF/THEN rules that remove decision fatigue. Updated monthly.
 When a recurring decision is made 3+ times, encode it here.
 
+
+## Single Source of Truth":
+
+-For flush schedule: HEURISTICS.md is authoritative. Any other file saying otherwise is stale."
+"For model selection: openclaw.json is authoritative. AGENTS.md and HEURISTICS.md must match it.
 ---
 
 ## 🧠 Memory System
 
 ### Which memory layer to load?
-- IF: Heartbeat or startup → THEN: `MEMORY.md` + `memory/projects.md` only (~4K tokens)
-- IF: Asked about specific past work → THEN: Load relevant `memory/YYYY-MM-DD.md` on-demand
-- IF: Semantic question about past decisions → THEN: Run `memory_search.py`
-- IF: Tempted to bulk-load daily notes at startup → THEN: Stop. Rule #16.
+- IF: Heartbeat or startup → THEN: `MEMORY.md` + `memory/projects.md` + `SOUL.md` only (~4K tokens).
+- IF: Asked about specific past work → THEN: Load relevant `memory/YYYY-MM-DD.md` on-demand only.
+- IF: Semantic question about past decisions → THEN: Run `memory_search.py` (Vector DB).
+- IF: Tempted to bulk-load daily notes at startup → THEN: **STOP. Rule #16 violation.** Do not load files > 50 lines at startup.
+
 
 ### When to run memory_flush.py?
-- IF: Heartbeat → THEN: Always (idempotent — `total_stored=0` is fine)
-- IF: Just wrote to `MEMORY.md` → THEN: Immediately after
-- IF: Just added a new rule or formula → THEN: Immediately after
-- IF: Auto-curation cron just ran → THEN: Built-in, automatic
-- IF: Just completed a weekly review → THEN: After updating RULES.md + FORMULAS.md
+- IF: Time is 03:00 → THEN: Run full memory_flush.py (Daily Sync).
+- IF: Any other time → THEN: Queue and wait for 03:00. EXCEPTION: Vector DB sync failure (Rule #17) — flush immediately, then log to #cron-status.
+- IF: Just added a new rule or formula → THEN: Log to file, but wait for 03:00 flush.
 
 ### Is MEMORY.md getting too long?
 - IF: MEMORY.md > 400 lines → THEN: Trim before next write; auto-curation will handle at Wed/Sun
@@ -48,11 +52,11 @@ When a recurring decision is made 3+ times, encode it here.
 ## 🤖 Model Selection
 
 ### Which model for which task?
-- IF: Complex reasoning, planning, general tasks → THEN: DeepSeek (primary)
-- IF: Cost-sensitive or broad/simple tasks → THEN: Gemini Flash Lite
-- IF: Memory embeddings → THEN: Gemini `gemini-embedding-001` (fixed, not swappable)
-- IF: Primary model unavailable → THEN: Fall back to Gemini Flash Lite (Rule #10)
-
+- IF: Complex reasoning, planning, or general tasks → THEN: openrouter/qwen/qwen-turbo (Primary)
+- IF: High-volume "Librarian" tasks or long document analysis → THEN: openrouter/qwen/qwen-turbo (1M Context)
+- IF: Cost-sensitive or broad/simple tasks → THEN: openrouter/google/gemini-2.0-flash-001
+- IF: Memory embeddings (Vector DB) → THEN: sentence-transformers/all-MiniLM-L6-v2"
+- IF: Primary model (Qwen) unavailable/401/400 → THEN: Fall back to openrouter/deepseek/deepseek-chat (Rule #10)
 ---
 
 ## 💾 File Operations
@@ -64,7 +68,7 @@ When a recurring decision is made 3+ times, encode it here.
 - IF: Multiple agents could write simultaneously → THEN: Use file locking (Rule #13)
 
 ### After any memory file write:
-- IF: Wrote to any `.md` in workspace or `memory/` → THEN: Run `memory_flush.py` (Rule #17)
+- IF: Wrote to any .md → THEN: Log the write and STOP. Wait for daily sync.
 - IF: Flush errors → THEN: Check `GEMINI_API_KEY` is set; check PostgreSQL is running
 
 ---
@@ -73,7 +77,7 @@ When a recurring decision is made 3+ times, encode it here.
 
 ### Error severity — how fast to fix?
 - IF: Data lost, exposed, or credentials visible → THEN: Critical — fix immediately (Rule #1)
-- IF: Vector DB out of sync with memory files → THEN: Critical — run flush immediately (Rule #17)
+- IF: Vector DB out of sync with memory files → THEN: Critical — run flush at 03:00
 - IF: Feature broken, agent can't complete task → THEN: High — fix today
 - IF: Performance degraded but functional → THEN: Medium — fix this week
 - IF: Nice-to-have broken → THEN: Low — add to backlog

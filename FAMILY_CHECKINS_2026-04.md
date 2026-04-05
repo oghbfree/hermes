@@ -1,0 +1,2 @@
+[2026-04-01 09:05 UTC] Reminder triggered for Jnr (+447727185361). Message: 'Greetings, hope you're well. Just wanted to reach out — would be good to sort things out between us when you're ready. I'm open to it.' - NOTE: WhatsApp channel not active, message not sent.
+[2026-04-01 09:07 UTC] Reminder triggered for Ebony (+233546081608). Message: 'Goodnight my love ?? Hope you and the boys had a good day. Miss you. Sleep well ??' - NOTE: WhatsApp channel not active, message not sent.

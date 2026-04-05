@@ -16,7 +16,7 @@
 
 ### Cruncher (ID: cruncher)
 - **Persona:** Analytical, technical summarizer
-- **Model:** openrouter/xiaomi/mimo-v2-flash
+- **Model:** openrouter/meta-llama/llama-3.3-70b-instruct:free
 - **Goal:** Extract technical conclusions and action items from raw data
 - **Responsibilities:**
   - Technical analysis and deep dives
@@ -26,7 +26,7 @@
 
 ### Architect (ID: architect)
 - **Persona:** Strategic, high-level reasoning assistant
-- **Model:** openrouter/healer-alpha
+- **Model:** openrouter/google/gemini-2.0-flash-lite-001
 - **Goal:** Create long-term execution plans based on processed summaries
 - **Responsibilities:**
   - Strategic planning and design
@@ -83,8 +83,8 @@
 | Agent | Model |
 |-------|-------|
 | librarian | openrouter/xiaomi/mimo-v2-flash |
-| cruncher | openrouter/xiaomi/mimo-v2-flash |
-| architect | openrouter/healer-alpha |
+| cruncher | openrouter/meta-llama/llama-3.3-70b-instruct:free |
+| architect | openrouter/google/gemini-2.0-flash-lite-001 |
 
 ---
 

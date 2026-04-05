@@ -1,2 +1,0 @@
-# Memory_Saving_Prompt_for_Open_WebUI
-

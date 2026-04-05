@@ -1,2 +1,0 @@
-# UK_Property_Management_Excel_Template_Guide
-

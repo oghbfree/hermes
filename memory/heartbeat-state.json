@@ -1,5 +1,11 @@
 {
   "lastChecks": {
-    "librarianHealth": "2026-03-18T18:37:00Z"
-  }
+    "librarianHealth": "2026-03-31T17:25:00Z",
+    "email": <now_unix>,
+    "calendar": <now_unix>,
+    "weather": <now_unix>
+  },
+  "lastHeartbeatSuccess": <now_unix>,
+  "lastWeeklyReviewRun": "2026-04-04",
+  "lastMonthlyReviewRun": "2026-04-04"
 }

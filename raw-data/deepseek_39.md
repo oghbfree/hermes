@@ -1,2 +1,0 @@
-# Motivating_Manager_to_Sell_Local_Produce
-

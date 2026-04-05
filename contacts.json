@@ -1,0 +1,22 @@
+{
+  "contacts": [
+    { "name": "Sammy", "whatsapp": "+233575252253" },
+    { "name": "John", "whatsapp": "+233233352252" },
+    { "name": "Matthias", "whatsapp": "+233544898392" },
+    { "name": "Kanzoni", "whatsapp": "+233248957794" },
+    { "name": "Mum", "whatsapp": "+233503654902" },
+    { "name": "Dad", "whatsapp": "+447983254695" },
+    { "name": "Ebony", "whatsapp": "+233546081608", "aliases": ["Madam"] },
+    { "name": "Jnr", "whatsapp": "+447727185361" },
+    { "name": "Hughie", "whatsapp": "+447940081651" },
+    { "name": "Ofori", "whatsapp": "+233248957794" },
+    { "name": "Mike", "whatsapp": "+233248957794", "aliases": ["Dj Vasty"] },
+    { "name": "Eric", "whatsapp": "+447553403038" },
+    { "name": "Janet", "whatsapp": "+233245531575" },
+    { "name": "Kwasi", "whatsapp": "+233247582932" },
+    { "name": "Habib", "whatsapp": "+233558457027" },
+    { "name": "Eastwood", "whatsapp": "+233246466289" },
+    { "name": "Lily", "whatsapp": "+233547676995" },
+    { "name": "William", "whatsapp": "+31684021528" }
+  ]
+}

@@ -1,0 +1,52 @@
+const GW_TOKEN = 'REDACTED';
+
+async function trySend(path, body) {
+  const res = await fetch(`http://127.0.0.1:18789${path}`, {
+    method: 'POST',
+    headers: {
+      'Authorization': `Bearer ${GW_TOKEN}`,
+      'Content-Type': 'application/json'
+    },
+    body: JSON.stringify(body)
+  });
+  const text = await res.text();
+  console.log(`${path}: ${res.status} ${text.substring(0, 400)}`);
+  return { status: res.status, body: text };
+}
+
+async function tryGet(path) {
+  const res = await fetch(`http://127.0.0.1:18789${path}`, {
+    headers: { 'Authorization': `Bearer ${GW_TOKEN}` }
+  });
+  const text = await res.text();
+  console.log(`${path}: ${res.status} ${text.substring(0, 400)}`);
+}
+
+async function main() {
+  // Check various endpoints
+  await tryGet('/api/status');
+  await tryGet('/status');
+  await tryGet('/health');
+  await tryGet('/channels');
+  
+  // Try sending via channels endpoint
+  await trySend('/channels/whatsapp/send', {
+    to: '+233233352252',
+    message: 'Hey John! Monday content ready for Akoma Robotics 🚀'
+  });
+  
+  // Try other send patterns
+  await trySend('/api/channels/whatsapp/messages', {
+    to: '+233233352252',
+    body: 'Hey John! Monday content ready for Akoma Robotics 🚀'
+  });
+  
+  await trySend('/api/send', {
+    channel: 'whatsapp',
+    to: '+233233352252',
+    message: 'Hey John! Monday content ready for Akoma Robotics 🚀'
+  });
+}
+
+main().catch(e => console.error(e));
+

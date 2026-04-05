@@ -1,2 +1,0 @@
-# Noise_Reduction_Tips_for_Shower_Pump_Installation
-

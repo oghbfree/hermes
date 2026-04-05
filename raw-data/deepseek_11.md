@@ -1,2 +1,0 @@
-# Setting_Up_Local_Raspberry_Pi_Offline_Mode
-

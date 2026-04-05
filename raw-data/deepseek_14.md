@@ -1,2 +1,0 @@
-# Understanding_LP_Transactions_on_HawkFi
-

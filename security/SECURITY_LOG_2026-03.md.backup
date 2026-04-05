@@ -1,0 +1,100 @@
+---
+timestamp: 2026-03-29 17:20 UTC
+status: CRITICAL
+checks:
+  workspace_scan: PASS
+  api_keys_tokens: PASS
+  private_data_exposure: PASS
+  telegram_routing: FAIL
+  file_integrity: PASS
+---
+
+# SECURITY LOG - March 2026
+## Hourly Security Policy Check
+**Date:** 29/03/2026  
+**Time:** 17:20 UTC  
+**Status:** CRITICAL  
+
+---
+
+## CHECK RESULTS
+
+### 1. Workspace Files Scan - PASS
+- **Findings:** No unauthorized access attempts detected
+- **Access Log Review:** All entries logged properly in access-log.md
+- **Files Reviewed:** workspace/, memory/, health/ directories
+- **Status:** All workspace files intact and secure
+
+### 2. API Keys & Tokens - PASS
+- **groq_key.txt:** REDACTED (previously exposed, now secured)
+- **openclaw.json:** All tokens properly REDACTED (gateway tokens, bot tokens)
+- **credentials/:** All JSON files reviewed - no exposed keys
+- **Log scan (tmp\openclaw\):** No exposed API keys in recent logs
+- **Status:** No current API key exposures found
+
+### 3. Private Data Exposure - PASS
+- **Health logs (workspace/health/):** Stored locally only, not sent to unauthorized channels
+- **Health logs (workspace/health/mum/):** Topic 51 configured for "Full Redaction" - appropriate security level
+- **Business financials:** Not detected in outbound messages
+- **Contact details:** Properly managed in allowFrom lists
+- **Status:** No private data leakage detected
+
+### 4. Telegram Message Destinations - FAIL (CRITICAL)
+**CRITICAL ISSUE IDENTIFIED:**
+- **Bot NOT member of authorized Telegram group:** 3620024352
+- **Group:** -1003620024352 (configured but bot not added)
+- **Webhook errors:** 404 errors persist for delivery attempts
+- **Cron job failures:** Multiple health-log jobs failing due to bot membership issue
+
+**Configured Telegram Groups:**
+- Group 3620024352: Configured with topics 1,2,28,29,47,50,51,139,140,141,357,358,359,364
+- Topics enabled: All authorised topics (per AGENTS.md configuration)
+- groupAllowFrom: 123286468
+
+**Failed Cron Jobs (last 24h):**
+- health-log-morning: consecutiveErrors=3
+- health-log-evening: consecutiveErrors=3
+- health-log-afternoon: consecutiveErrors=3
+
+**Outbound Message Verification:**
+- All Telegram routing attempts target group 3620024352
+- All topics are authorized per configuration
+- **Issue:** Bot membership blocks actual delivery
+
+### 5. File Integrity - PASS
+- **Workspace files:** All intact
+- **jobs.json:** Checked for null-byte corruption - None found
+- **Backups:** Exist in C:\OpenClaw\backups\
+- **security/ directory:** Maintained properly
+
+---
+
+## SUMMARY
+
+**OVERALL STATUS: CRITICAL**
+
+### Issues Found:
+1. **CRITICAL:** Telegram bot not member of authorized group 3620024352
+   - Blocks all Telegram message delivery
+   - Cron jobs failing consistently
+   - **Resolution Required:** Add OpenClaw bot to Telegram group
+
+### Actions Taken:
+- groq_key.txt API key previously exposed has been REDACTED
+- All tokens in openclaw.json are REDACTED
+- No private data leakage detected
+- Workspace scan completed successfully
+- Log files reviewed for API key exposure - None found
+
+### Required Actions:
+1. **IMMEDIATE:** Add OpenClaw bot to Telegram group 3620024352
+2. Investigate webhook 404 errors
+3. Fix cron job delivery configuration for health-log jobs
+4. Monitor WhatsApp gateway stability (499 errors from 2026-03-28)
+
+---
+
+**Alert:** Post to Telegram #urgent topic (topic 141) immediately regarding bot membership issue.
+
+---
+*End of Security Log*

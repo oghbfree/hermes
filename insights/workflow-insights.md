@@ -79,7 +79,7 @@ Morning report should include:
 - Standards document needed
 
 ### Sammy (Kantamanto)
-- Zobase updates daily
+- Zobaze updates daily
 - Sales money to h's MTN Momo (+233544252252)
 - WhatsApp status: 5+ items/day with prices
 
@@ -106,11 +106,32 @@ Morning report should include:
 ---
 
 ## CRM & Data Flow
-- Zobase → Google Contacts sync (daily)
+- Zobaze → Google Contacts sync (daily)
 - Customer WhatsApp numbers captured at point of sale
 - Jiji leads → WhatsApp follow-up
 - QR codes on products → Zobase product pages
 
 ---
+
+Backup everything 
+Update equipment
+Optimize your security
+Optimize and upgrade your privacy tools
+Backup any written codes and Emails
+Check your passwords make sure they work
+6 months emergency stash of cash and food 
+5% btc 5% metals at bare minimum
+
+Password manager ( dyor )
+https://keepassxc.org/
+
+#privacy
+Alternatives to everything
+https://alternativeto.net/
+
+Fav VPN 
+https://mullvad.net/en/
+
+===
 
 *Build the system once, then let it run. Monitor, don't manage.*

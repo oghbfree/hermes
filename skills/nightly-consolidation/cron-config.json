@@ -1,0 +1,14 @@
+{
+  "jobs": [
+    {
+      "name": "nightly-memory-consolidation",
+      "schedule": "0 2 * * *",
+      "command": "powershell -File \"C:\\OpenClaw\\.openclaw\\workspace\\skills\\nightly-consolidation\\nightly-consolidation.ps1\"",
+      "channel": "telegram",
+      "topic": "#briefing",
+      "timeoutSeconds": 3600,
+      "enabled": true,
+      "description": "Nightly memory consolidation - processes all daily sessions, updates markdown files, creates journal, syncs vector DB, posts summary to Telegram"
+    }
+  ]
+}

@@ -1,2 +1,0 @@
-# Understanding_Delayed_Property_Completion_Agreements
-

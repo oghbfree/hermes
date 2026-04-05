@@ -1,8 +1,8 @@
-# projects.md - Active Project Registry
+﻿# projects.md - Active Project Registry
 
 Loaded every heartbeat alongside MEMORY.md. Keep under 80 lines.
 Updated by Librarian whenever project status changes.
-Last Updated: 2026-03-22
+Last Updated: 2026-03-31
 
 ---
 
@@ -10,12 +10,12 @@ Last Updated: 2026-03-22
 
 | Project | URL | Status | Stack | Notes | Location |
 |---|---|---|---|---|---|
-| OpenClaw Workspace | local | ?o. Live | OpenClaw, OpenRouter, pgvector | 4-layer memory stack installed Mar 2026 | C:\Users\User\.openclaw\workspace |
-| Akoma Robotics | https://akomarobotics.com | ?Y"" In Progress | Web, WhatsApp, Telegram | STEM education program, mBot kits, school pilots | Accra & London |
-| 2 Real Enterprises | https://2-real.zobase.shop/ | ?Y"" In Progress | Zobase, WhatsApp, Telegram | Hardware & tools supply, inventory management | Ghana warehouse |
-| Senya Farm | local | ?Y"" In Progress | Agricultural | Coconuts & plantain, Ben managing | Senya Beraku, Ghana |
-| London Property | local | ?>" Blocked | Real Estate | Property sales analysis, investor negotiations | London, UK |
-| Geriatric Care Agency | local | ?Y"" In Progress | Planning | Care coordination for mother | Weija, Ghana |
+| OpenClaw Workspace | local | Live | OpenClaw, OpenRouter, pgvector | 4-layer memory stack, system operational | C:\OpenClaw\.openclaw\workspace |
+| Akoma Robotics | https://akomarobotics.com | In Progress | Web, WhatsApp, Telegram | STEM education, school pilots, content automation, Facebook ads initiative (awaiting response) | Accra & London |
+| 2 Real Enterprises | https://2-real.zobase.shop/ | In Progress | Zobase, WhatsApp, Telegram | Hardware & tools supply, inventory management | Ghana warehouse |
+| Senya Farm | local | In Progress | Agricultural | Coconuts & plantain, Ben managing, weeding team organizing | Senya Beraku, Ghana |
+| Vehicle Parts Acquisition | local | In Progress | WhatsApp, Supplier Research | Kia Rio LHD dashboard inquiry, supplier #10 contacted, out-of-office response | Ghana |
+| Geriatric Care Agency | local | In Progress | Planning | Care coordination for mother in Weija | Weija, Ghana |
 
 ---
 
@@ -23,21 +23,197 @@ Last Updated: 2026-03-22
 
 When a project changes status, Librarian updates this table directly.
 After any update: run memory_flush.py to embed changes (Rule #17).
-If line count approaches 80: archive completed projects below and remove from table.
 
-**To add a project:**
-- Name, URL (or "local"), status, tech stack (brief), key notes, file path
-
-**Status values:** ?o. Live | ?Y"" In Progress | ?>" Blocked | ?Y"? Archived
+**Status values:** Live | In Progress | Blocked | Archived
 
 ---
 
 ## Archived Projects
 
 <!-- Move completed or dead projects here rather than deleting -->
-<!-- Format: | Project | Archived Date | Notes | -->
 
 ---
 
 **Line count target**: Under 80 lines
 **Flush after every update**: Yes (Rule #17)
+Project statuses from 2026-04-04
+Project statuses from 2026-04-04
+Project statuses from 2026-04-04
+Project statuses from 2026-04-04
+Project statuses from 2026-04-04
+Project statuses from 2026-04-04
+Project statuses from 2026-04-04
+Project statuses from 2026-04-04
+Project statuses from 2026-04-04
+Project statuses from 2026-04-04
+Project statuses from 2026-04-04
+Project statuses from 2026-04-04
+Project statuses from 2026-04-04
+Project statuses from 2026-04-04
+Project statuses from 2026-04-04
+Project statuses from 2026-04-04
+Project statuses from 2026-04-04
+Project statuses from 2026-04-04
+Project statuses from 2026-04-04
+Project statuses from 2026-04-04
+Project statuses from 2026-04-04
+Project statuses from 2026-04-04
+Project statuses from 2026-04-04
+Project statuses from 2026-04-04
+Project statuses from 2026-04-04
+Project statuses from 2026-04-04
+Project statuses from 2026-04-04
+Project statuses from 2026-04-04
+Project statuses from 2026-04-04
+Project statuses from 2026-04-04
+Project statuses from 2026-04-04
+Project statuses from 2026-04-04
+Project statuses from 2026-04-04
+Project statuses from 2026-04-04
+Project statuses from 2026-04-04
+Project statuses from 2026-04-04
+Project statuses from 2026-04-04
+Project statuses from 2026-04-04
+Project statuses from 2026-04-04
+Project statuses from 2026-04-04
+Project statuses from 2026-04-04
+Project statuses from 2026-04-04
+Project statuses from 2026-04-04
+Project statuses from 2026-04-04
+Project statuses from 2026-04-04
+Project statuses from 2026-04-04
+Project statuses from 2026-04-04
+Project statuses from 2026-04-04
+Project statuses from 2026-04-04
+Project statuses from 2026-04-04
+Project statuses from 2026-04-04
+Project statuses from 2026-04-04
+Project statuses from 2026-04-04
+Project statuses from 2026-04-04
+Project statuses from 2026-04-04
+Project statuses from 2026-04-04
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

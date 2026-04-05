@@ -1,2 +1,0 @@
-# Ford_Ranger_Repair_Costs_and_Replacement_Advice
-

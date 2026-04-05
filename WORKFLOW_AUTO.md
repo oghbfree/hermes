@@ -22,22 +22,22 @@ Executor: **Librarian** (primary). All output logged to `memory/YYYY-MM-DD.md` a
 - Check all critical files exist: `AGENTS.md`, `SOUL.md`, `USER.md`, `MEMORY.md`, `memory/projects.md`
 - Verify `memory/` directory is writable (write + delete test file per Rule #9)
 - Check gateway connectivity on `:18789`
-- Verify model providers are available (DeepSeek primary, Gemini fallback)
+- Verify model providers are available (Qwen primary, Deepseek fallback)
 - Verify `GEMINI_API_KEY` is set in environment (required for vector embeddings)
 
 ### Step 3 — Vector Memory Sync
-- Run: `python3 ~/.openclaw/workspace/skills/vector-memory/scripts/memory_flush.py`
+- Check: vector-flush-tracker.json (Do NOT run script on startup. Wait for 48h cron.)
 - `total_stored = 0` is fine — means nothing changed since last flush (Rule #17)
 - Log result to daily note
 
 ### Step 4 — Load Agent Context
 - Confirm Librarian, Cruncher, Architect personas and responsibilities (from AGENTS.md)
 - Confirm operational freedoms are active
-- Check `memory/heartbeat-state.json` exists — create with empty lastChecks if missing
+- Check `memory/heartbeat-state.json` exists — Create with current Unix timestamp for ALL fields — never create with null values
 
 ### Step 5 — Report Status
 - Log startup completion with timestamp to `memory/YYYY-MM-DD.md`
-- Report any errors or missing dependencies (non-blocking — log and continue)
+- Report any errors or missing dependencies to log file only (Do not send to #cron-status unless critical failure)
 - Document current state
 
 ---
@@ -56,7 +56,7 @@ Executor: **Librarian** (primary). All output logged to `memory/YYYY-MM-DD.md` a
 - Verify all critical files are present and readable
 - Check `memory/` is clean (no orphaned `.tmp` or `.lock` files from interrupted writes)
 - Verify `vector-flush-tracker.json` exists and is valid JSON
-- Generate brief audit report → log to daily note + #cron-status
+- Generate brief audit report → log to daily note only
 
 ### Step 3 — Agent Health Check
 - Confirm all 3 agents can be spawned
@@ -129,7 +129,7 @@ If any check fails:
 ## Success Criteria
 
 Startup succeeds if:
-- Memory system initialised (projects.md + MEMORY.md loaded, flush run)
+- Memory system initialised (projects.md + MEMORY.md loaded)
 - Workspace accessible and writable
 - At least 2 of 3 agents functional
 - Gateway responding
@@ -141,7 +141,7 @@ Startup succeeds if:
 
 - **Triggered by:** OpenClaw startup and every 48h timer
 - **Executor:** Librarian (primary)
-- **Output:** `memory/YYYY-MM-DD.md` + #cron-status
+- **Output:** memory/YYYY-MM-DD.md (Silent)
 - **Error handling:** Log errors, don't crash — graceful degradation
 - **Token budget:** Startup must stay under 5K tokens loaded context
 

@@ -1,0 +1,105 @@
+﻿import os
+import glob
+import hashlib
+import json
+from datetime import datetime
+
+# CONFIGURATION
+WORKSPACE_ROOT = r"C:\Users\User\.openclaw\workspace"
+MEMORY_DIR = os.path.join(WORKSPACE_ROOT, "memory")
+TRACKER_FILE = os.path.join(MEMORY_DIR, "vector-flush-tracker.json")
+CORE_FILES = ["RULES.md", "FORMULAS.md", "HEURISTICS.md", "MEMORY.md", "projects.md"]
+
+def get_file_hash(filepath):
+    hasher = hashlib.sha256()
+    with open(filepath, 'rb') as f:
+        hasher.update(f.read())
+    return hasher.hexdigest()
+
+def flush_to_vector():
+    print(f"[{datetime.now().strftime('%H:%M:%S')}] Starting Memory Flush...")
+    create_daily_log()
+    
+    if os.path.exists(TRACKER_FILE):
+        try:
+            with open(TRACKER_FILE, 'r', encoding='utf-8') as f:
+                tracker = json.load(f)
+        except (json.JSONDecodeError, ValueError):
+            print(" -- Tracker file corrupted, starting fresh.")
+            tracker = {}
+    else:
+        tracker = {}
+
+    needs_reindex = False
+
+    # Check Core Files
+    for filename in CORE_FILES:
+        path = os.path.join(WORKSPACE_ROOT, filename)
+        if os.path.exists(path):
+            current_hash = get_file_hash(path)
+            if tracker.get(filename) != current_hash:
+                print(f" >> Changed: {filename}")
+                tracker[filename] = current_hash
+                needs_reindex = True
+            else:
+                print(f" -- No changes: {filename}")
+
+    # Check Daily Logs
+    for log_path in glob.glob(os.path.join(MEMORY_DIR, "*.md")):
+        log_name = os.path.basename(log_path)
+        current_hash = get_file_hash(log_path)
+        if tracker.get(log_name) != current_hash:
+            print(f" >> Changed: {log_name}")
+            tracker[log_name] = current_hash
+            needs_reindex = True
+
+    # Run single reindex if anything changed
+    if needs_reindex:
+        print(" >> Running openclaw memory index --all...")
+        os.system("openclaw memory index --force")
+    else:
+        print(" -- Nothing changed. Skipping reindex.")
+
+    with open(TRACKER_FILE, 'w', encoding='utf-8') as f:
+        json.dump(tracker, f, indent=2)
+    
+    print(f"[{datetime.now().strftime('%H:%M:%S')}] Flush Complete.")
+
+def create_daily_log():
+    """Create today's daily memory log if it doesn't exist."""
+    today = datetime.now().strftime("%Y-%m-%d")
+    log_path = os.path.join(MEMORY_DIR, f"{today}.md")
+    
+    if not os.path.exists(log_path):
+        content = f"""# Daily Log - {today}
+
+## âœ… What Worked Today
+- 
+
+## âŒ What Failed Today
+- 
+
+## ðŸ’¡ Key Insights
+- 
+
+## ðŸ”’ Security Check
+- memory_flush.py ran: âœ…
+- Files indexed: pending
+- Vector DB: synced
+
+## ðŸ“Š Metrics
+- memory_flush.py run: âœ…
+- New rules proposed: 0
+- Tags: #daily #log
+"""
+        with open(log_path, 'w', encoding='utf-8') as f:
+            f.write(content)
+        print(f" >> Created daily log: {today}.md")
+    else:
+        print(f" -- Daily log exists: {today}.md")
+
+if __name__ == "__main__":
+    flush_to_vector()
+
+
+

@@ -1,6 +1,6 @@
 # Session: 2026-03-22 20:28:18 UTC
 
-- **Session Key**: agent:main:telegram:direct:3620024352:thread:141
+- **Session Key**: agent:main:telegram:direct:-1003620024352:thread:141
 - **Session ID**: 1fca5620-512d-43e1-aabf-db0255ccfd73
 - **Source**: webchat
 
@@ -562,3 +562,4 @@ user: Sender (untrusted metadata):
 ```
 
 [Sun 2026-03-22 19:47 GMT] check C:\OpenClaw\.openclaw\workspace\raw-data\akoma confidential
+
