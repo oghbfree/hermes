@@ -8,3 +8,7 @@ __pycache__/
 *.lock
 .DS_Store
 Thumbs.db
+
+client_secret.json
+
+backups/
