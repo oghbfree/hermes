@@ -49,15 +49,16 @@ When a recurring decision is made 3+ times, encode it here.
 
 ---
 
-## 🤖 Model Selection
+## 🤖 Model Selection (Orchestrator Logic)
 
-### Which model for which task?
-- IF: Complex reasoning, planning, or general tasks → THEN: openrouter/qwen/qwen-turbo (Primary)
-- IF: High-volume "Librarian" tasks or long document analysis → THEN: openrouter/qwen/qwen-turbo (1M Context)
-- IF: Cost-sensitive or broad/simple tasks → THEN: openrouter/google/gemini-2.0-flash-001
-- IF: Memory embeddings (Vector DB) → THEN: sentence-transformers/all-MiniLM-L6-v2"
-- IF: Primary model (Qwen) unavailable/401/400 → THEN: Fall back to openrouter/deepseek/deepseek-chat (Rule #10)
----
+**Model Choice:** Use `openrouter/deepseek/deepseek-v3.2` for everything. -
+
+### 🛡️ Global Fallback & Memory Rules
+- **IF: Any model fails or hits a rate limit**
+  - → **ACTION:** Re-route the task to `openrouter/qwen/qwen-turbo` as the universal backup.
+- **Memory Embeddings (Vector DB):** - → **USE:** `sentence-transformers/all-MiniLM-L6-v2` for all semantic search tasks.
+- **Compaction Rule:** - → **IF:** Context usage exceeds the set floor (10,000 tokens remaining) → **THEN:** Run `memory_flush.py` to summarize and clear the buffer before continuing.
+
 
 ## 💾 File Operations
 

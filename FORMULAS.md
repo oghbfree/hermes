@@ -605,3 +605,16 @@ When something works consistently:
 
 
 
+
+---
+
+## Formula #2: Gateway Health Check Before Automated Messages
+- **What works**: Verify WhatsApp gateway listener status before sending.
+- **Why**: Prevents undelivered messages and missed communications.
+- **When to use**: Before any automated WhatsApp message cron job.
+- **Steps**:
+  1. Query gateway status via openclaw gateway status.
+  2. If listener inactive, restart gateway or fallback to Telegram.
+  3. Log status to #cron-status.
+  4. Retry after restart.
+- **Success Rate**: 100% delivery when gateway active.

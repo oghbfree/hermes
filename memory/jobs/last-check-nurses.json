@@ -1,5 +1,6 @@
 {
-  "lastProcessedRow": 23,
-  "lastCheckDate": "2026-04-09",
-  "totalRows": 23
+    "lastProcessedRow":  23,
+    "lastCheckDate":  "2026-04-13",
+    "totalRows":  23,
+    "error":  "Permission denied (OAuth token missing)"
 }

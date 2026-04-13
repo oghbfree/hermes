@@ -3244,7 +3244,7 @@ Thank you for signing up. Your IPKall phone number is: 253-397-1556.
 SIP Phone Number: 17772351416
 SIP Proxy: in.callcentric.com
 Email: paapablankson@gmail.com
-Password: lepijetu1
+Password: [REDACTED]
 ---
 
 ### Source: Flow\Evernote\Virgin Atlanic.md
@@ -7572,7 +7572,7 @@ Thank you for signing up. Your IPKall phone number is: 253-397-1556.
 SIP Phone Number: 17772351416
 SIP Proxy: in.callcentric.com
 Email: paapablankson@gmail.com
-Password: lepijetu1
+Password: [REDACTED]
 
 Calls will come from 66.54.140.46 (voiper.ipkall.com) or 66.54.140.47 (voiper2.ipkall.com).
 
@@ -19307,7 +19307,7 @@ Thank you for signing up. Your IPKall phone number is: 253-397-1556.
 SIP Phone Number: 17772351416
 SIP Proxy: in.callcentric.com
 Email: paapablankson@gmail.com
-Password: lepijetu1
+Password: [REDACTED]
 
 Calls will come from 66.54.140.46 (voiper.ipkall.com) or 66.54.140.47 (voiper2.ipkall.com).
 
@@ -37239,7 +37239,7 @@ Thank you for signing up. Your IPKall phone number is: 253-397-1556.
 SIP Phone Number: 17772351416
 SIP Proxy: in.callcentric.com
 Email: paapablankson@gmail.com
-Password: lepijetu1
+Password: [REDACTED]
 
 Calls will come from 66.54.140.46 (voiper.ipkall.com) or 66.54.140.47 (voiper2.ipkall.com).
 

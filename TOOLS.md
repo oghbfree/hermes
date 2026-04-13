@@ -10,7 +10,8 @@ Skills define _how_ tools work. This file is for _your_ specifics — the stuff 
 ## Business Links
 
 - **2 Real Enterprises Shop**: https://2-real.zobase.shop/
-  - Zobase online storefront for tools & hardware
+  - Zobaze online storefront for tools & hardware
+  - Jiji Ghana Online Marketplace: https://jiji.com.gh/sellerpage-1249739
   - Add to social media captions and product posts
   - Status: DNS not publicly resolving yet (as of 2026-03-17)
 
@@ -48,7 +49,7 @@ Things like:
 ### TTS
 
 - Preferred voice: "Nova" (warm, slightly British)
-- Default speaker: Kitchen HomePod
+- Default speaker: 
 ```
 
 ## Why Separate?

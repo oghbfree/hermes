@@ -22,7 +22,7 @@ Executor: **Librarian** (primary). All output logged to `memory/YYYY-MM-DD.md` a
 - Check all critical files exist: `AGENTS.md`, `SOUL.md`, `USER.md`, `MEMORY.md`, `memory/projects.md`
 - Verify `memory/` directory is writable (write + delete test file per Rule #9)
 - Check gateway connectivity on `:18789`
-- Verify model providers are available (Qwen primary, Deepseek fallback)
+- Verify model providers are available (deepseek primary)
 - Verify `GEMINI_API_KEY` is set in environment (required for vector embeddings)
 
 ### Step 3 — Vector Memory Sync
@@ -59,7 +59,6 @@ Executor: **Librarian** (primary). All output logged to `memory/YYYY-MM-DD.md` a
 - Generate brief audit report → log to daily note only
 
 ### Step 3 — Agent Health Check
-- Confirm all 3 agents can be spawned
 - Test critical skills: `openai-whisper-api`, `nano-banana-pro`, `sag`, `gh-issues`
 - Verify gateway responding on `:18789`
 - Verify Telegram and WhatsApp connections active
@@ -95,14 +94,6 @@ Executor: **Librarian** (primary). All output logged to `memory/YYYY-MM-DD.md` a
 ✓ WORKFLOW_AUTO.md readable (this file)
 ```
 
-### Agent Systems
-```
-✓ Librarian can read/write files
-✓ Cruncher can analyse data
-✓ Architect can plan workflows
-✓ All model providers responding
-```
-
 ### Integrations
 ```
 ✓ Gateway responding on :18789
@@ -131,7 +122,6 @@ If any check fails:
 Startup succeeds if:
 - Memory system initialised (projects.md + MEMORY.md loaded)
 - Workspace accessible and writable
-- At least 2 of 3 agents functional
 - Gateway responding
 - No critical blockers (vector DB or GEMINI_API_KEY failures are critical)
 
@@ -140,7 +130,6 @@ Startup succeeds if:
 ## Execution Requirements
 
 - **Triggered by:** OpenClaw startup and every 48h timer
-- **Executor:** Librarian (primary)
 - **Output:** memory/YYYY-MM-DD.md (Silent)
 - **Error handling:** Log errors, don't crash — graceful degradation
 - **Token budget:** Startup must stay under 5K tokens loaded context

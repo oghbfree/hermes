@@ -1,4 +1,4 @@
-﻿# RULES.md - Learned Constraints from Failures
+# RULES.md - Learned Constraints from Failures
 
 Every failure teaches a guard. This file documents what NOT to do based on real failures.
 
@@ -11,15 +11,15 @@ Every failure teaches a guard. This file documents what NOT to do based on real 
 - **Check**: Before logging/sharing, scan for patterns: `sk_`, `gsk_`, `API_KEY`, `Bearer`
 - **Implementation**: 
   ```powershell
-  # âœ… DO: Use environment variables
+  # ✅ DO: Use environment variables
   $apiKey = $env:OPENROUTER_API_KEY
   
-  # âŒ DON'T: Store in config
+  # ❌ DON'T: Store in config
   # "apiKey": "sk-or-v1-..."
   ```
 - **Exception**: None for critical credentials
 - **Validation**: Automated key detection before any output
-- **Status**: âœ… Implemented
+- **Status**: ✅ Implemented
 
 ---
 
@@ -30,16 +30,16 @@ Every failure teaches a guard. This file documents what NOT to do based on real 
 - **Check**: `if (!(Test-Path $path)) { mkdir $path -Force }`
 - **Implementation**:
   ```powershell
-  # âœ… DO: Validate and create
+  # ✅ DO: Validate and create
   $dir = "C:\Users\User\.openclaw\workspace\memory"
   if (!(Test-Path $dir)) { mkdir $dir -Force }
   
-  # âŒ DON'T: Assume it exists
+  # ❌ DON'T: Assume it exists
   # Write-Host "Writing to $dir..." # Error if dir missing
   ```
 - **Exception**: Can create parent directories with `-Force` flag
 - **Validation**: Test with missing paths
-- **Status**: âœ… Implemented
+- **Status**: ✅ Implemented
 
 ---
 
@@ -50,17 +50,17 @@ Every failure teaches a guard. This file documents what NOT to do based on real 
 - **Check**: Always use temp + rename pattern for important files
 - **Implementation**:
   ```powershell
-  # âœ… DO: Atomic write pattern
+  # ✅ DO: Atomic write pattern
   $temp = "$path.tmp"
   $content | Set-Content $temp
   Move-Item $temp $path -Force
   
-  # âŒ DON'T: Direct write
+  # ❌ DON'T: Direct write
   # $content | Set-Content $path
   ```
 - **Exception**: None for data files; safe for logs
 - **Validation**: Simulate power failure during write
-- **Status**: âœ… Implemented
+- **Status**: ✅ Implemented
 
 ---
 
@@ -71,18 +71,18 @@ Every failure teaches a guard. This file documents what NOT to do based on real 
 - **Check**: Every API call must have timeout < 5 seconds
 - **Implementation**:
   ```javascript
-  // âœ… DO: Async with timeout
+  // ✅ DO: Async with timeout
   const timeout = new Promise((_, r) => 
     setTimeout(() => r(new Error('timeout')), 5000)
   );
   const result = await Promise.race([apiCall(), timeout]);
   
-  // âŒ DON'T: Blocking wait
+  // ❌ DON'T: Blocking wait
   // const result = await apiCall(); // No timeout
   ```
 - **Exception**: Can retry up to 3x with exponential backoff
 - **Validation**: Test with slow/unreachable API
-- **Status**: âœ… Implemented
+- **Status**: ✅ Implemented
 
 ---
 
@@ -93,17 +93,17 @@ Every failure teaches a guard. This file documents what NOT to do based on real 
 - **Check**: Type checking, bounds validation, length limits
 - **Implementation**:
   ```javascript
-  // âœ… DO: Validate input
+  // ✅ DO: Validate input
   if (!message || typeof message !== 'string' || message.length > 4096) {
     throw new Error('Invalid message');
   }
   
-  // âŒ DON'T: Trust user input
+  // ❌ DON'T: Trust user input
   // processMessage(message); // No validation
   ```
 - **Exception**: None for security-critical inputs
 - **Validation**: Fuzz test with random/extreme inputs
-- **Status**: âœ… Implemented
+- **Status**: ✅ Implemented
 
 ---
 
@@ -126,7 +126,7 @@ Every failure teaches a guard. This file documents what NOT to do based on real 
   ```
 - **Exception**: None for breaking changes
 - **Validation**: Track deployment with CHANGELOG entry
-- **Status**: âœ… Implemented
+- **Status**: ✅ Implemented
 
 ---
 
@@ -137,17 +137,17 @@ Every failure teaches a guard. This file documents what NOT to do based on real 
 - **Check**: Verify data integrity after migration
 - **Implementation**:
   ```powershell
-  # âœ… DO: Backup before migration
+  # ✅ DO: Backup before migration
   Copy-Item "memory.json" "memory.json.backup"
   # ... run migration ...
   # Verify backup exists and is valid
   
-  # âŒ DON'T: Skip backup
+  # ❌ DON'T: Skip backup
   # ... migrate directly ...
   ```
 - **Exception**: Small data sets under 1MB don't need backup (still test)
 - **Validation**: Test migration on backup data first
-- **Status**: âœ… Implemented
+- **Status**: ✅ Implemented
 
 ---
 
@@ -158,17 +158,17 @@ Every failure teaches a guard. This file documents what NOT to do based on real 
 - **Check**: `openclaw doctor` before `openclaw restart`
 - **Implementation**:
   ```powershell
-  # âœ… DO: Always validate
+  # ✅ DO: Always validate
   openclaw doctor
   if ($LASTEXITCODE -ne 0) { exit 1 }
   openclaw restart
   
-  # âŒ DON'T: Skip validation
+  # ❌ DON'T: Skip validation
   # openclaw restart # May fail mysteriously
   ```
 - **Exception**: None
 - **Validation**: Introduce syntax errors and catch with doctor
-- **Status**: âœ… Implemented
+- **Status**: ✅ Implemented
 
 ---
 
@@ -179,7 +179,7 @@ Every failure teaches a guard. This file documents what NOT to do based on real 
 - **Check**: Test write permissions before relying on directory
 - **Implementation**:
   ```powershell
-  # âœ… DO: Ensure directory exists
+  # ✅ DO: Ensure directory exists
   $memDir = "C:\Users\User\.openclaw\workspace\memory"
   if (!(Test-Path $memDir)) { mkdir $memDir -Force }
   
@@ -189,7 +189,7 @@ Every failure teaches a guard. This file documents what NOT to do based on real 
   ```
 - **Exception**: None for critical memory system
 - **Validation**: Test after creating directory
-- **Status**: âœ… Implemented
+- **Status**: ✅ Implemented
 
 ---
 
@@ -200,7 +200,7 @@ Every failure teaches a guard. This file documents what NOT to do based on real 
 - **Check**: Queue messages when service unavailable, retry later
 - **Implementation**:
   ```javascript
-  // âœ… DO: Fallback to queue
+  // ✅ DO: Fallback to queue
   try {
     const result = await sendViaAPI(message);
     return result;
@@ -209,12 +209,12 @@ Every failure teaches a guard. This file documents what NOT to do based on real 
     return { queued: true };
   }
   
-  // âŒ DON'T: Fail if service unavailable
+  // ❌ DON'T: Fail if service unavailable
   // const result = await sendViaAPI(message); // Throws if API down
   ```
 - **Exception**: None
 - **Validation**: Test with API unavailable
-- **Status**: âœ… Implemented
+- **Status**: ✅ Implemented
 
 ---
 
@@ -225,16 +225,16 @@ Every failure teaches a guard. This file documents what NOT to do based on real 
 - **Check**: Verify cron job runs and creates daily log
 - **Implementation**:
   ```powershell
-  # âœ… DO: Schedule daily capture
+  # ✅ DO: Schedule daily capture
   Register-ScheduledTask -TaskName "Daily-Learning" `
     -Trigger (New-ScheduledTaskTrigger -Daily -At 21:00)
   
-  # âŒ DON'T: Manual reminder
+  # ❌ DON'T: Manual reminder
   # Reminder: "Remember to log what you learned"
   ```
 - **Exception**: None for critical learning system
 - **Validation**: Check daily logs exist every morning
-- **Status**: âœ… Implemented
+- **Status**: ✅ Implemented
 
 ---
 
@@ -245,19 +245,19 @@ Every failure teaches a guard. This file documents what NOT to do based on real 
 - **Check**: Max 50MB for fast models, 100MB for larger models
 - **Implementation**:
   ```powershell
-  # âœ… DO: Check file size
+  # ✅ DO: Check file size
   $file = Get-Item "audio.mp3"
   if ($file.Length -gt 50MB) { 
     Write-Error "File too large"
     exit 1
   }
   
-  # âŒ DON'T: Assume file is reasonable
+  # ❌ DON'T: Assume file is reasonable
   # whisper "audio.mp3" # May timeout on large file
   ```
 - **Exception**: Can compress or split large files
 - **Validation**: Test with various file sizes
-- **Status**: âœ… Implemented
+- **Status**: ✅ Implemented
 
 ---
 
@@ -268,7 +268,7 @@ Every failure teaches a guard. This file documents what NOT to do based on real 
 - **Check**: Lock before write, release after
 - **Implementation**:
   ```javascript
-  // âœ… DO: File locking
+  // ✅ DO: File locking
   const lockFile = file + '.lock';
   fs.writeFileSync(lockFile, JSON.stringify({pid: process.pid}));
   try {
@@ -277,12 +277,12 @@ Every failure teaches a guard. This file documents what NOT to do based on real 
     fs.unlinkSync(lockFile);
   }
   
-  // âŒ DON'T: Direct writes
+  // ❌ DON'T: Direct writes
   // fs.writeFileSync(file, data); // No locking
   ```
 - **Exception**: None for shared data
 - **Validation**: Simulate concurrent writes
-- **Status**: âœ… Implemented
+- **Status**: ✅ Implemented
 
 ---
 
@@ -293,7 +293,7 @@ Every failure teaches a guard. This file documents what NOT to do based on real 
 - **Check**: Validate against schema before loading
 - **Implementation**:
   ```javascript
-  // âœ… DO: Schema validation
+  // ✅ DO: Schema validation
   const schema = {
     agents: {
       defaults: {
@@ -304,12 +304,12 @@ Every failure teaches a guard. This file documents what NOT to do based on real 
   };
   validateConfig(config, schema);
   
-  // âŒ DON'T: Assume config is correct
+  // ❌ DON'T: Assume config is correct
   // const model = config.agents.defaults.model; // May be undefined
   ```
 - **Exception**: None for critical configs
 - **Validation**: Test with broken configs
-- **Status**: â³ In Progress
+- **Status**: ⏳ In Progress
 
 ---
 
@@ -320,18 +320,18 @@ Every failure teaches a guard. This file documents what NOT to do based on real 
 - **Check**: Test recovery procedure monthly
 - **Implementation**:
   ```powershell
-  # âœ… DO: Automatic backup
+  # ✅ DO: Automatic backup
   Copy-Item "jobs.json" "jobs.json.bak"
   
-  # âœ… DO: Easy recovery
+  # ✅ DO: Easy recovery
   Copy-Item "jobs.json.bak" "jobs.json"
   
-  # âŒ DON'T: Manual recovery
+  # ❌ DON'T: Manual recovery
   # "Manually reconstruct from memory..."
   ```
 - **Exception**: None
 - **Validation**: Simulate failure and test recovery
-- **Status**: âœ… Implemented
+- **Status**: ✅ Implemented
 
 ---
 
@@ -342,21 +342,21 @@ Every failure teaches a guard. This file documents what NOT to do based on real 
 - **Check**: Startup context must stay under ~4K tokens
 - **Implementation**:
   ```
-  # âœ… DO: Smart loading
+  # ✅ DO: Smart loading
   Read memory/projects.md       # ~1K tokens
   Read MEMORY.md                # ~3K tokens
   # Total: ~4K tokens at startup
   
   # Load on-demand only:
-  # memory/YYYY-MM-DD.md    â†’ when asked about past work
-  # Vector DB search        â†’ when a specific past-work question comes up
+  # memory/YYYY-MM-DD.md    → when asked about past work
+  # Vector DB search        → when a specific past-work question comes up
   
-  # âŒ DON'T: Load everything
+  # ❌ DON'T: Load everything
   # Read all memory/*.md files at startup  # Blows token budget
   ```
 - **Exception**: None
 - **Validation**: Monitor token usage at heartbeat; flag if startup exceeds 5K tokens
-- **Status**: âœ… Implemented
+- **Status**: ✅ Implemented
 
 ---
 
@@ -364,22 +364,22 @@ Every failure teaches a guard. This file documents what NOT to do based on real 
 - **Origin Failure**: Semantic search returning stale results after MEMORY.md rewrite (2026-03-06)
 - **Root Cause**: memory_flush.py not run after curation, so embeddings reflected old content
 - **Consequence**: Vector search results contradicted current MEMORY.md, causing agent confusion
-- **Guard**: Always run `memory_flush.py` after any write to MEMORY.md or daily notes. Also run at every heartbeat (idempotent â€” `total_stored = 0` means nothing to do).
+- **Guard**: Always run `memory_flush.py` after any write to MEMORY.md or daily notes. Also run at every heartbeat (idempotent — `total_stored = 0` means nothing to do).
 - **Check**: After any memory write, verify flush completes without error
 - **Implementation**:
   ```python
-  # âœ… DO: Flush after every memory write
+  # ✅ DO: Flush after every memory write
   python3 ~/.openclaw/workspace/skills/vector-memory/scripts/memory_flush.py
-  # total_stored = 0 is fine â€” means files unchanged since last flush
+  # total_stored = 0 is fine — means files unchanged since last flush
   
-  # âœ… DO: Flush in heartbeat sequence (step 3 of every heartbeat)
+  # ✅ DO: Flush in heartbeat sequence (step 3 of every heartbeat)
   
-  # âŒ DON'T: Skip flush after auto-curation rewrites MEMORY.md
-  # âŒ DON'T: Assume vector DB is current without flushing
+  # ❌ DON'T: Skip flush after auto-curation rewrites MEMORY.md
+  # ❌ DON'T: Assume vector DB is current without flushing
   ```
 - **Exception**: Can skip flush for writes to heartbeat-state.json (non-memory metadata)
 - **Validation**: Run a semantic search after flush and verify results match current MEMORY.md
-- **Status**: âœ… Implemented
+- **Status**: ✅ Implemented
 
 ---
 
@@ -388,20 +388,20 @@ Every failure teaches a guard. This file documents what NOT to do based on real 
 - **Root Cause**: Entries added over time with no trim policy
 - **Consequence**: File that should cost ~1K tokens started costing 3K+, defeating smart loading
 - **Guard**: Cap projects.md at 80 lines. On every auto-curation run, prune completed/dead projects to an archive section or remove them entirely.
-- **Check**: `(Get-Content memory/projects.md).Count` â€” alert if > 80
+- **Check**: `(Get-Content memory/projects.md).Count` — alert if > 80
 - **Implementation**:
   ```powershell
-  # âœ… DO: Check line count before adding entry
+  # ✅ DO: Check line count before adding entry
   $lines = (Get-Content "memory/projects.md").Count
   if ($lines -gt 75) { 
     # Prune stale entries first, then add
   }
   
-  # âŒ DON'T: Keep appending without trimming
+  # ❌ DON'T: Keep appending without trimming
   ```
 - **Exception**: Can temporarily exceed 80 lines during curation rewrite; must be under by end of run
 - **Validation**: Check line count after every curation cron run
-- **Status**: âœ… Implemented
+- **Status**: ✅ Implemented
 
 ---
 
@@ -412,7 +412,7 @@ Every failure teaches a guard. This file documents what NOT to do based on real 
 - **Guard**: If output contains the phrase "I am truly and utterly sorry" or "limitations," do not send. Re-roll using a simplified Safe-Mode prompt and flag for manual review.
 - **Check**: Scan outgoing message text before delivery
 - **Exception**: None
-- **Status**: âœ… Implemented
+- **Status**: ✅ Implemented
 
 ---
 
@@ -530,6 +530,40 @@ Every failure teaches a guard. This file documents what NOT to do based on real 
 
 ---
 
+## Rule #32: Zero Technical Leakage (The "H" Protocol)
+- **Root Cause**: Agent appending technical metadata (UUIDs, Cron IDs, logs) to outgoing recipient messages.
+- **Consequence**: Exposure of AI system; destruction of "H" persona; confusion for family/staff.
+- **Guard**: STRICT SEPARATION of output. 
+    - **RECIPIENT BOX**: Only human-readable text. Zero metadata.
+    - **LOG BOX**: Technical details go to `memory/` or Telegram `#cron-status`.
+- **Implementation**: Before calling any `send_message` tool, the agent MUST strip: "Message ID", "Cron ID", "Status logged", and any string resembling a UUID (e.g., `8f3d...`).
+- **Check**: "If I sent this to a human in 2010, would they know what a 'Cron ID' is?" If yes, DELETE IT.
+- **Status**: ?? CRITICAL - ENFORCED IMMEDIATELY.
+---
+
+
+## Rule #33: Check Whisper API Endpoint Availability Before Transcription Attempts
+- **Origin Failure**: Voice note transcription via Whisper API failed due to API key issues (OpenRouter Whisper endpoint returns 404).
+- **Root Cause**: Assuming OpenRouter Whisper endpoint is always available; no pre-flight check.
+- **Consequence**: Transcription fails, audio file deleted, loss of information.
+- **Guard**: Before attempting transcription, verify API endpoint availability and fallback options (Google Speech-to-Text, local Whisper).
+- **Check**: Ping endpoint or check API key validity; have backup transcription service.
+- **Implementation**: Add health check for transcription services; if primary fails, switch to secondary.
+- **Exception**: None.
+- **Validation**: Test transcription with sample audio after configuration changes.
+- **Status**: Proposed (from 2026-04-13 consolidation).
+
+## Rule #34: Verify WhatsApp Gateway Listener Status Before Sending Automated Messages
+- **Origin Failure**: Janet Friday check-in attempt failed because WhatsApp gateway listener inactive.
+- **Root Cause**: No verification of gateway status before sending automated messages.
+- **Consequence**: Message not delivered, missed communication.
+- **Guard**: Before sending any automated message via WhatsApp, confirm gateway listener is active.
+- **Check**: Query gateway status; if inactive, alert #urgent and fallback to SMS or Telegram.
+- **Implementation**: Add pre-send gateway health check; retry or escalate.
+- **Exception**: None.
+- **Validation**: Monitor delivery receipts; log failures.
+- **Status**: Proposed (from 2026-04-13 consolidation).
+
 ## Adding New Rules
 
 When a failure occurs:
@@ -544,131 +578,7 @@ When a failure occurs:
 
 ---
 
-**Total Rules**: 18 (+ Rule #101)
+**Total Rules**: 34
 **Status**: Active and monitored
-**Last Updated**: 2026-03-06
+**Last Updated**: 2026-04-13
 **Next Review**: Weekly (Monday 9am)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

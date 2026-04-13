@@ -24,3 +24,10 @@
 [2026-04-13 05:39 UTC] | Credential Exposure Detection | CRITICAL | Password exposed in raw-data/paapa_s notebook/USA Phone no.md; redacted immediately.
 [2026-04-13 05:39 UTC] | Credential Exposure Detection | CRITICAL | Password 'lepijetu1' exposed in multiple files (raw-data, insights, security_scan_results); redacted immediately.
 [2026-04-13 05:39 UTC] | Credential Exposure Detection | CRITICAL | OpenRouter API key and Telegram bot token exposed in .env file; Telegram bot token exposed in openclaw.json; ongoing exposure.
+[2026-04-13 08:17 UTC] | Internal Log Audit | PASS | No exposed API keys found in logs.
+[2026-04-13 08:17 UTC] | Workspace Integrity Scan | PASS | No unauthorized modifications in memory/ and skills/ directories (authorized modifications detected).
+[2026-04-13 08:17 UTC] | Outbound Channel Verification | FAIL | Telegram delivery failures persist; bot may not be member of group -1003620024352.
+[2026-04-13 08:17 UTC] | Credential Exposure Detection | FAIL | OPENROUTER_API_KEY and TELEGRAM_BOT_TOKEN exposed in .env file; password exposed in raw-data/Flow/Evernote/USA Phone no.md; redacted.
+2026-04-13 17:12 UTC | Internal Log Audit | PASS | No exposed API keys found in logs.
+2026-04-13 17:12 UTC | Workspace Integrity Scan | PASS | 16 authorized modifications in memory/ directory.
+2026-04-13 17:12 UTC | Outbound Channel Verification | PASS | No outbound messages in last 2 hours; Telegram channel errors persist but no new failures.

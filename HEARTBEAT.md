@@ -11,50 +11,13 @@ Before responding to ANY message:
 
 # Keep this file empty (or with only comments) to skip heartbeat API calls.
 
-# Add tasks below when you want the agent to check something periodically.
+## 💓 Proactive Checks (Every 4h)
+1. **Tasks Queue:** Check `tasks-queue.md` for any pending business actions.
+2. **Status Sync:** If a Cron job failed, log the error to `memory/YYYY-MM-DD.md`.
+3. **Silence:** If it's been >8h since contact, check if H needs a daily briefing.
 
-## Agent Health Check (every 48h heartbeat)
-- Confirm Librarian operational
-- Log status to memory/YYYY-MM-DD.md
+**Response Rule:** If nothing is urgent and no errors are found, reply `HEARTBEAT_OK` and stop. Do not consume tokens on "thinking" about nothing.
 
-IF: Heartbeat triggered < 4 hours since last success -> THEN: Reply HEARTBEAT_OK and STOP.
-
-## 💓 Heartbeats - Be Proactive!
-
-When you receive a heartbeat poll (message matches the configured heartbeat prompt), don't just reply `HEARTBEAT_OK` every time. Use heartbeats productively!
-
-Default heartbeat prompt:
-`Read HEARTBEAT.md if it exists (workspace context). Follow it strictly. Do not infer or repeat old tasks from prior chats. If nothing needs attention, reply HEARTBEAT_OK.`
-
-You are free to edit `HEARTBEAT.md` with a short checklist or reminders. Keep it small to limit token burn.
-
-### Heartbeat vs Cron: When to Use Each
-
-**Use heartbeat when:**
-
-- Multiple checks can batch together (inbox + calendar + notifications in one turn)
-- You need conversational context from recent messages
-- Timing can drift slightly (every ~4 h is fine, not exact)
-- You want to reduce API calls by combining periodic checks
-
-**Use cron when:**
-
-- Exact timing matters ("9:00 AM sharp every Monday")
-- Task needs isolation from main session history
-- You want a different model or thinking level for the task
-- One-shot reminders ("remind me in 20 minutes")
-- Output should deliver directly to a channel without main session involvement
-
-**Tip:** Batch similar periodic checks into `HEARTBEAT.md` instead of creating multiple cron jobs. Use cron for precise schedules and standalone tasks.
-
-**Things to check (rotate through these, 2 times per day):**
-
-Only check an item if its lastChecks timestamp is >12h ago. After checking, write current Unix timestamp to that item in heartbeat-state.json. If all items checked <12h ago → HEARTBEAT_OK immediately.
-
-- **Emails** - Any urgent unread messages?
-- **Calendar** - Upcoming events in next 24-48h?
-- **Mentions** - Twitter/social notifications?
-- **Weather** - Relevant if your human might go out?
 
 **Track your checks** in `memory/heartbeat-state.json`:
 
@@ -67,33 +30,5 @@ Only check an item if its lastChecks timestamp is >12h ago. After checking, writ
   }
 }
 ```
-
-**When to reach out:**
-
-- Important email arrived
-- Calendar event coming up (&lt;2h)
-- Something interesting you found
-- It's been >8h since you said anything
-
-**When to stay quiet (HEARTBEAT_OK):**
-
-- Late night (23:00-08:00) unless urgent
-- Human is clearly busy
-- Nothing new since last check
-- You just checked &lt;30 minutes ago
-
-**Proactive work you can do without asking:**
-
-- Read and organize memory files
-- Check on projects (git status, etc.)
-- Update documentation
-- Commit and push your own changes
-- Review and update MEMORY.md (Only once per week on Sundays)
-
-
-
-Think of it like a human reviewing their journal and updating their mental model. Daily files are raw notes; MEMORY.md is curated wisdom.
-
-The goal: Be helpful without being annoying. Check in a few times a day, do useful background work, but respect quiet time.
 
 

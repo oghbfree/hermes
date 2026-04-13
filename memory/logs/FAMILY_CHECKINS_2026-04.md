@@ -6,3 +6,4 @@
 [2026-04-13] | [05:11] | Recipient: Janet | Status: Failed | Note: Friday Warm Check-in (WhatsApp gateway offline)
 [2026-04-13] | [05:11] | Recipient: Janet | Status: Failed | Note: Friday Warm Check-in (WhatsApp listener not active despite gateway running)
 [2026-04-13] | 06:21 | Recipient: Ebony | Variation: B | Status: Failed - WhatsApp not logged in
+[2026-04-13] | 17:33 | Recipient: Dad | Status: Failed (WhatsApp bridge offline) | Response: [N/A]
