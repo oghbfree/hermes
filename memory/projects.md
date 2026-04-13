@@ -1,4 +1,4 @@
-﻿# projects.md - Active Project Registry
+# projects.md - Active Project Registry
 
 Loaded every heartbeat alongside MEMORY.md. Keep under 80 lines.
 Updated by Librarian whenever project status changes.
@@ -18,6 +18,14 @@ Last Updated: 2026-03-31
 | Geriatric Care Agency | local | In Progress | Planning | Care coordination for mother in Weija | Weija, Ghana |
 
 ---
+
+
+## Logistics/Site Visits
+
+| Date | Contact | Site | Status | Notes |
+|---|---|---|---|---|
+2026-04-11 | Matthias | New Amanful | Check-in FAILED | Friday check-in failed - WhatsApp Web listener not active. Telegram escalation attempted but unauthorized. Second attempt at 22:55 UTC also failed. Need to restart gateway and link WhatsApp.
+2026-04-13 | Matthias | New Amanful | Check-in FAILED | WhatsApp listener inactive, escalated to Telegram #urgent.
 
 ## How to Update This File
 

@@ -247,9 +247,6 @@ After adding any new rule:
 - IF: Needs user context from recent messages → THEN: Heartbeat
 
 ## When to Use Which Model
-- IF: Complex reasoning or planning → THEN: Mimo (primary)
-- IF: Broad/general tasks → THEN: Gemini Flash Lite
-- IF: Cost-sensitive batch work → THEN: Gemini Flash Lite
 - IF: Memory embeddings → THEN: Gemini (gemini-embedding-001, fixed)
 
 ## When to Write to Rules vs Formulas
@@ -370,15 +367,6 @@ After adding any new rule:
 - Critical fixes: N
 - Auto-curation runs completed: N (target: 8-9/month)
 
-## 🔄 Agent Evolution
-### Librarian
-- Before / After / Impact / Status
-
-### Cruncher
-- Before / After / Impact / Status
-
-### Architect
-- Before / After / Impact / Status
 
 ## 🎯 Key Learnings
 1. [Learning 1]
