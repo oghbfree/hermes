@@ -1,6 +1,6 @@
-{
-    "lastProcessedRow":  23,
-    "lastCheckDate":  "2026-04-13",
-    "totalRows":  23,
-    "error":  "Permission denied (OAuth token missing)"
+﻿{
+    "error":  "Google Sheets integration not configured",
+    "lastCheckDate":  "2026-04-14",
+    "lastProcessedRow":  0,
+    "totalRows":  0
 }

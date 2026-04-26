@@ -28,10 +28,11 @@
 - **Time left**: 86 months
 - **Issues**: Damp, mould (assigned to contractors 11/3/25), windows, drains  **Issues**: Damp noted at Philip Walk viewing, exterior wall bowing, brickwork repairs
 - **Council**: Southwark Council — damp & mould team (Barry Balfour)
-- **Refs**: 10915603/1 (drain CCTV), 10887705/3 (window repair), 10898314/1 (surveyor)
-- **Pending**: Pest control (holes after drain cracks), rendering on walls, bay window replacement
-- **Contact**: Darren/Shona (Southwark), Cynthia (spoke 11/3/25), Hotesh (spoke 6/5/25)
-
+- **Refs**: 10915603/1 (drain CCTV), 10887705/3 (bay window repair/ replacement), 10898314/1 (surveyor),  General carpentry possible window #1825835
+CRATUS BUILDING SERVICES LIMITED +447789873173, General building  bowing wall #1834862, NO1 CONSTRUCTION MANAGEMENT LTD +447400699334 (11621762/2)may need auth as big job with pics. floor 11649065/1 appt 23/4/26
+- **Pending**: Pest control (holes after drain cracks), rendering on walls,
+- **Contact**: Darren/Shona (Southwark homeowner repairs) latest conv 24/4/26, Cynthia (spoke 11/3/25), Hotesh (spoke 6/5/25)
+690 per 2026
 out and in door, smoke alarm,
 
 

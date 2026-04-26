@@ -1,6 +1,6 @@
-{
+﻿{
+    "error":  "Google Sheets integration not configured",
+    "lastCheckDate":  "2026-04-14",
     "lastProcessedRow":  0,
-    "lastCheckDate":  "2026-04-13",
-    "error":  "Permission denied (OAuth token missing)",
     "totalRows":  0
 }

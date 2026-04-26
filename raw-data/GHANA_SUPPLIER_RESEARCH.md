@@ -12,7 +12,7 @@ Target: Lowest cost + reliable stock
 SUPPLIER LIST:
 | # | Phone | Status | Has Stock | Price (GHS) | Contact Attempts | Notes |
 |----|-------|--------|-----------|-------------|-----------------|-------|
-| 1 | +233 24 450 9113 | Pending | Unknown | TBD | 0 | |
+| 1 | +233 24 450 9113 | Inquiry Sent | Unknown | TBD | 1 | Inquiry sent 2026-04-24 09:23 (UTC) awaiting confirmation to bridge message. |
 | 2 | +233 54 046 1152 | Pending | Unknown | TBD | 0 | |
 | 3 | +233 24 343 2493 | Pending | Unknown | TBD | 0 | |
 | 4 | +233 24 002 5796 | Pending | Unknown | TBD | 0 | |

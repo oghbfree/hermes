@@ -1,0 +1,4 @@
+- **Kanzoni**: WhatsApp: +233248957794
+  - Check in weekly about wellbeing and farm visit
+  - Cron schedule: Tuesdays at 14:00 UTC
+  - Exact message: "Good afternoon Kanzoni! How have you been? When can you pass by the farm?"

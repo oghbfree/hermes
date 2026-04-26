@@ -68,5 +68,14 @@ Photorealistic rendering, ultra-high detail skin texture with visible pores and 
 - Gemini image work: `raw-data/gemini_history.md`
 - Insights log: `insights/raw-data-insights.md` (multiple entries)
 
+
+  - Created in Nano Banana, prompt refined in Claude
+  - **2 Real role**: Demonstrates tools, promotes quality workmanship, "do it right not shoddy"
+  - **Akoma role**: Passionate STEM advocate, knowledgeable about robotics, inspires all ages
+  - Purpose: product photography, educational content, how-to, advertising campaigns, social media
+  - Workflow: OpenClaw generates + Gemini 3 Pro Image for images → future: Veo 3.1 for video
+  - **Platforms**: Facebook, Facebook Marketplace, Instagram, TikTok, LinkedIn, WhatsApp Business, WhatsApp Broadcast, WhatsApp Status, Jiji Ghana
+  - Content strategy: promotes tools when stock high, robotics when partnerships active, crossover content on Saturdays
+
 ---
 *Last updated: 2026-03-15*

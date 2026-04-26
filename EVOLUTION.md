@@ -1,6 +1,6 @@
 # EVOLUTION.md - Agent Evolution History
 
-This file tracks how the system changes over time. Updated monthly by Librarian during Monthly Evolution Review.
+This file tracks how the system changes over time. Updated monthly by orchestrator during Monthly Evolution Review.
 Each entry is a snapshot of what changed, why, and what improved.
 
 
@@ -40,7 +40,7 @@ Each entry is a snapshot of what changed, why, and what improved.
 - `skills/vector-memory/scripts/` — 4 Python scripts for vector memory
 
 ### Agent Changes
-- **Librarian**: Now owns `memory_flush.py` at every heartbeat; owns monthly evolution review
+- **orchestrator**: Now owns `memory_flush.py` at every heartbeat; owns monthly evolution review
 - **All agents**: Load only `projects.md` + `MEMORY.md` at startup (enforced by Rule #16)
 - **Auto-curation cron**: Replaces manual weekly MEMORY.md edits
 
@@ -78,7 +78,7 @@ Each entry is a snapshot of what changed, why, and what improved.
 - Added yearly memory review cron (31 Dec → #memory-review-channel)
 
 ### Agent Changes
-- **Librarian**: Improved memory file organisation; automated daily log creation
+- **orchestrator**: Improved memory file organisation; automated daily log creation
 - **Cruncher**: Added structured failure analysis capability
 - **Architect**: Moved to weekly strategic review (was quarterly)
 
@@ -136,7 +136,7 @@ Each entry is a snapshot of what changed, why, and what improved.
 
 ## Adding New Monthly Entries
 
-At the start of each month, Librarian runs the Monthly Evolution Review:
+At the start of each month, orchestrator runs the Monthly Evolution Review:
 
 1. Read `learning/monthly/YYYY-MM.md` synthesis
 2. Read last 4 weekly reviews from `learning/weekly/`
@@ -150,4 +150,3 @@ At the start of each month, Librarian runs the Monthly Evolution Review:
 
 **Last Updated**: 2026-03-06
 **Next Review**: 2026-04-01 (Monthly Evolution Review)
-**Maintained by**: Librarian

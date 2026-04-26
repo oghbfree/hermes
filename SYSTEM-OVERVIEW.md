@@ -15,7 +15,7 @@ OpenClaw is an AI agent framework that runs locally on Windows and orchestrates 
 ## Technology Stack
 
 - OpenClaw: AI agent framework running on Windows
-- Primary Model: OpenRouter API (xiaomi/mimo-v2-flash)
+- Primary Model: OpenRouter API (deepseekv3.2)
 - Image Generation: Gemini 3 Pro Image via OpenRouter
 - Messaging: WhatsApp for delivery
 - Database: PostgreSQL with pgvector (semantic search)

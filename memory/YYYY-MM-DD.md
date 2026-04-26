@@ -1,1 +1,0 @@
-The Librarian is operational.

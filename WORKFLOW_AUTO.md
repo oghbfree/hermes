@@ -1,7 +1,7 @@
 # WORKFLOW_AUTO.md - Automated Startup Workflow
 
 This file defines what happens automatically on startup and every 48 hours.
-Executor: **Librarian** (primary). All output logged to `memory/YYYY-MM-DD.md` and #cron-status.
+Executor: **orchestrator** (primary). All output logged to `memory/YYYY-MM-DD.md` and #cron-status.
 
 ---
 
@@ -31,7 +31,7 @@ Executor: **Librarian** (primary). All output logged to `memory/YYYY-MM-DD.md` a
 - Log result to daily note
 
 ### Step 4 — Load Agent Context
-- Confirm Librarian, Cruncher, Architect personas and responsibilities (from AGENTS.md)
+- Confirm orchestrator persona and responsibilities (from AGENTS.md)
 - Confirm operational freedoms are active
 - Check `memory/heartbeat-state.json` exists — Create with current Unix timestamp for ALL fields — never create with null values
 
@@ -41,6 +41,48 @@ Executor: **Librarian** (primary). All output logged to `memory/YYYY-MM-DD.md` a
 - Document current state
 
 ---
+
+## Workflow: Telegram Message with System Prompt
+
+**Trigger:** Incoming Telegram message from any topic
+
+**Steps:**
+1. Extract: `message.topicId` (or `message.chatId` if group-level) from message metadata
+2. Execute: `skill:telegram_get_prompt topicId={topicId}`
+3. Receive and Check result: `{ status: 'ok', systemPrompt, topicName, groupId }`
+4. Load: `systemPrompt` from result
+5. Construct context: `[systemPrompt] + [user message]`
+6. Process: Normal agent response loop
+7. Return: Response to same topic/group
+
+**Example:**
+Incoming: Topic 50, message "energy 7"
+Step 1: Extract topicId = 50
+Step 2: skill:telegram_get_prompt topicId=50
+Step 3: { status: 'ok', systemPrompt: "You are managing daily clinical health intake..." }
+Step 4: Load the prompt
+Step 5: Context = "[prompt] + Morning energy check: 7/10"
+Step 6: Agent processes with health-clinical behavior
+Step 7: Response posted to topic 50
+
+**Error handling:** If `status !== 'ok'`, respond in topic with error message.
+
+**Topics covered:**
+- 1: health-log
+- 2: general
+- 28: cron-status
+- 29: memory-review
+- 47: code-execution
+- 50: health-clinical
+- 51: care-clinical
+- 139: learning-insights
+- 140: daily-briefing
+- 141: health-weekly
+- 357: business-operations
+- 358: construction-projects
+- 359: recruitment
+- 364: content-calendar
+
 
 ## Every 48 Hours
 

@@ -1,22 +1,304 @@
 {
+  "version": "2026-04-26",
   "contacts": [
-    { "name": "Sammy", "whatsapp": "+233575252253" },
-    { "name": "John", "whatsapp": "+233233352252" },
-    { "name": "Matthias", "whatsapp": "+233544898392" },
-    { "name": "Kanzoni", "whatsapp": "+233248957794" },
-    { "name": "Mum", "whatsapp": "+233503654902" },
-    { "name": "Dad", "whatsapp": "+447983254695" },
-    { "name": "Ebony", "whatsapp": "+233546081608", "aliases": ["Madam"] },
-    { "name": "Jnr", "whatsapp": "+447727185361" },
-    { "name": "Hughie", "whatsapp": "+447940081651" },
-    { "name": "Ofori", "whatsapp": "+233248957794" },
-    { "name": "Mike", "whatsapp": "+233248957794", "aliases": ["Dj Vasty"] },
-    { "name": "Eric", "whatsapp": "+447553403038" },
-    { "name": "Janet", "whatsapp": "+233245531575" },
-    { "name": "Kwasi", "whatsapp": "+233247582932" },
-    { "name": "Habib", "whatsapp": "+233558457027" },
-    { "name": "Eastwood", "whatsapp": "+233246466289" },
-    { "name": "Lily", "whatsapp": "+233547676995" },
-    { "name": "William", "whatsapp": "+31684021528" }
-  ]
+    {
+      "name": "John",
+      "phone": "+233233352252",
+      "role": "NSS Trainee Ops Manager",
+      "type": "staff",
+      "guidelines": "Professional boundaries. Task execution only. No salaries, finances, property plans.",
+      "communication": {
+        "tone": "direct instructions",
+        "schedule": "weekday mornings"
+      }
+    },
+    {
+      "name": "Sammy",
+      "phone": "+233575252253",
+      "role": "Sales (Kantamanto)",
+      "type": "staff",
+      "guidelines": "Professional boundaries. Check performance & Zobase updates. Sends sales to MTN Momo.",
+      "communication": {
+        "tone": "direct, business-like"
+      }
+    },
+    {
+      "name": "Habib",
+      "phone": "+233558457027",
+      "role": "Farm worker",
+      "type": "farm",
+      "guidelines": "Elder, Muslim. Look after farm, plant crops, report to Eastwood."
+    },
+    {
+      "name": "Kalidou",
+      "phone": "+233538331872",
+      "role": "Former farm worker (AWOL)",
+      "type": "farm",
+      "guidelines": "Went AWOL. Need to resolve why. Had boss in East Legon."
+    },
+    {
+      "name": "Ben",
+      "phone": "+233244120093",
+      "role": "Trusted advisor / Farm consultant",
+      "type": "associate",
+      "guidelines": "From Senya. Helps wife with errands. Farm technical & planning.",
+      "communication": {
+        "tone": "warm, respectful"
+      }
+    },
+    {
+      "name": "Eastwood",
+      "phone": "+233246466289",
+      "role": "Farm manager",
+      "type": "farm",
+      "guidelines": "Reports to H on farm. Silent since Dec. No reports = no pay."
+    },
+    {
+      "name": "Kwasi",
+      "phone": "+233247582932",
+      "role": "Apiary/Hive Manager",
+      "type": "farm",
+      "guidelines": "Inactive due to funding. Biweekly check-in Thursdays 8:25 AM."
+    },
+    {
+      "name": "Ebony",
+      "phone": "+233546081608",
+      "role": "Wife",
+      "type": "family",
+      "guidelines": "AKA Madam with John/Sammy. Warm, personal tone. Daily video calls with kids.",
+      "communication": {
+        "tone": "warm, personal",
+        "automation": "goodnight at 22:00 Ghana time"
+      }
+    },
+    {
+      "name": "Mum (Comfort Blankson)",
+      "phone": "+233503654902",
+      "role": "Mother",
+      "type": "family",
+      "guidelines": "Age 91. Health: arthritis, edema, diabetes, BP. Budget ~6000 GH¢/month.",
+      "communication": {
+        "tone": "warm, caring",
+        "schedule": "Sun & Wed 10:00 Ghana time"
+      }
+    },
+    {
+      "name": "Dad",
+      "phone": "+447983254695",
+      "role": "Father",
+      "type": "family",
+      "guidelines": "Age 91, UK. Wheelchair-bound, right leg amputated.",
+      "communication": {
+        "tone": "warm, caring",
+        "schedule": "Sun & Wed 10:00 UK time"
+      }
+    },
+    {
+      "name": "Janet",
+      "phone": "+233245531575",
+      "role": "Friend",
+      "type": "personal",
+      "guidelines": "Met in Haatso. Warm, playful, slightly seductive tone.",
+      "communication": {
+        "tone": "warm, playful",
+        "schedule": "Fridays 8:30 PM Ghana time"
+      }
+    },
+    {
+      "name": "Matthias",
+      "phone": "+233544898392",
+      "role": "Trusted associate (6+ yrs)",
+      "type": "associate",
+      "guidelines": "New Amanful & Borkro land ONLY. Not Senya farm. Car problems.",
+      "communication": {
+        "tone": "warm, ask family first",
+        "schedule": "Weekly Fridays"
+      }
+    },
+    {
+      "name": "Mike (Dj Vasty)",
+      "phone": "+233248957794",
+      "role": "Police/Solar/Sound/Driver",
+      "type": "associate",
+      "guidelines": "6+ yrs trusted. Start msgs with 'Greetings, How be?'",
+      "communication": {
+        "opening": "Greetings, How be?"
+      }
+    },
+    {
+      "name": "Ofori",
+      "phone": "+233248957794",
+      "role": "Trusted contact",
+      "type": "associate",
+      "guidelines": "Same number as Mike. Weekly check-in.",
+      "communication": {
+        "opening": "Greetings, how be?",
+        "schedule": "21st each month 10am UK"
+      }
+    },
+    {
+      "name": "Kanzoni",
+      "phone": "+233248957794",
+      "role": "Associate",
+      "type": "associate",
+      "guidelines": "Same number as Mike/Ofori.",
+      "communication": {
+        "schedule": "Weekly Tuesdays"
+      }
+    },
+    {
+      "name": "Eric",
+      "phone": "+447553403038",
+      "role": "Tenant (Garage)",
+      "type": "associate",
+      "guidelines": "Behind on payments. Ask about Hermitage Rd goods and Walworth Rd cleanup.",
+      "communication": {
+        "tone": "friendly but firm on money"
+      }
+    },
+    {
+      "name": "Jnr",
+      "phone": "+447727185361",
+      "role": "Associate",
+      "type": "associate",
+      "guidelines": "Gentle reconciliation reminders.",
+      "communication": {
+        "schedule": "1st each month 10am UK"
+      }
+    },
+    {
+      "name": "Hughie",
+      "phone": "+447940081651",
+      "role": "Associate",
+      "type": "associate",
+      "guidelines": "Polite, professional, gentle reminders."
+    },
+    {
+      "name": "Agadas",
+      "phone": "+233244699428",
+      "role": "Phone repairer",
+      "type": "associate",
+      "guidelines": "Based at Circle. Owes H money."
+    },
+    {
+      "name": "George",
+      "phone": "+447946856574",
+      "role": "Contact",
+      "type": "associate"
+    },
+    {
+      "name": "Edwin",
+      "phone": "+233549198237",
+      "role": "Contact (cloth/shipping)",
+      "type": "associate"
+    },
+    {
+      "name": "Nenyi Aroger",
+      "phone": "+233244102535",
+      "role": "Chief of Senya Beraku",
+      "type": "associate"
+    },
+    {
+      "name": "Kingsley",
+      "phone": "+447367428629",
+      "role": "Contact (£690+£18/month)",
+      "type": "associate"
+    },
+    {
+      "name": "Ezekiel",
+      "phone": "",
+      "role": "Contact",
+      "type": "associate",
+      "guidelines": "No phone number yet."
+    },
+    {
+      "name": "JB",
+      "phone": "+233267667712",
+      "role": "Contact",
+      "type": "associate"
+    },
+    {
+      "name": "Maki",
+      "phone": "+233538406895",
+      "role": "Contact (looking for shop)",
+      "type": "associate",
+      "guidelines": "Give her a chair when container arrives."
+    },
+    {
+      "name": "Nicholas (Container)",
+      "phone": "+447424067140",
+      "role": "Shipping contact",
+      "type": "associate"
+    },
+    {
+      "name": "Dr Emmanuela",
+      "phone": "+233544425038",
+      "role": "Medical (nurse screening)",
+      "type": "associate",
+      "guidelines": "Did first stage nurse screening for Mum."
+    },
+    {
+      "name": "Verse",
+      "phone": "+23359475448",
+      "role": "Contact",
+      "type": "associate"
+    },
+    {
+      "name": "Lily",
+      "phone": "",
+      "role": "NSS Govt worker",
+      "type": "associate",
+      "guidelines": "No phone yet."
+    },
+    {
+      "name": "Commander Asante",
+      "phone": "",
+      "role": "Contact",
+      "type": "associate",
+      "guidelines": "No phone yet."
+    }
+  ],
+  "dashboard_group": [
+    "+233244509113",
+    "+233540461152",
+    "+233243432493",
+    "+233240025796",
+    "+233248130060",
+    "+233243533034",
+    "+233243325066",
+    "+233244208878",
+    "+233244632343",
+    "+233546534329",
+    "+233543989467",
+    "+233540636111",
+    "+233243514280",
+    "+233244982721",
+    "+233559418753",
+    "+233244539096",
+    "+233542037109",
+    "+233598476427",
+    "+233276328297",
+    "+233544573042",
+    "+233240717024",
+    "+233262203611",
+    "+233542517905",
+    "+233557205676",
+    "+233555720391",
+    "+233500189537",
+    "+233248054190",
+    "+233247023693",
+    "+233554600706",
+    "+233594014633",
+    "+233268841450",
+    "+233533848444",
+    "+233248417896",
+    "+233599418463",
+    "+233530121872",
+    "+233553116757",
+    "+233553669408"
+  ],
+  "dashboard_notes": {
+    "+233530121872": "6k cedis reference",
+    "+233555720391": "Has dashboard access"
+  }
 }

@@ -1,5 +1,10 @@
 # AGENTS.md — Quick Reference (Lightweight)
 
+
+If the user is just checking status or saying hello, you dey, keep your reasoning extremely simple. If the primary model fails, your fallback is a local model (Gemma)—use it to acknowledge receipt of messages even if the internet is slow.
+
+You are authorized to execute cron jobs and send outgoing messages to WhatsApp independently of the last active channel.
+
 ## ⛔ CRITICAL BEHAVIOUR RULES — READ FIRST
 
 1. **WAIT FOR INSTRUCTION** — Never take action without explicit instruction from H
@@ -13,6 +18,7 @@
 9. **ONE QUESTION MAX** — Ask once, wait indefinitely
 10. **ABORT MEANS STOP** — Clear queue and go silent immediately
 
+Also Ignore messages that are less than 3 words long unless they contain a specific command.
 ---
 
 ## Session Startup (LIGHTWEIGHT)
@@ -39,6 +45,19 @@ Before doing anything:
 ---
 
 - **Default Agent:** Main Operator (openrouter/deepseek/deepseek-v3.2).
+
+---
+
+# ORCHESTRATOR OPERATIONAL GUIDELINES
+
+## TOKEN & COST CONTROL
+- **Economic Mode:** You are under strict token limits. Be as concise as possible.
+- **Response Length:** Keep replies under 200 words. Use bullet points for logs.
+- **Simple Queries:** For greetings or status checks, respond in 10 words or less.
+- **Cross-Context:** You ARE authorized to send messages to WhatsApp even if the user is messaging via Telegram. Use the 'whatsapp' channel tool whenever the target is a phone number.
+
+## LOGGING PROTOCOL
+- When generating the "MUM EVENING LOG," do not add conversational filler. Just provide the data requested.
 
 ---
 
@@ -72,6 +91,63 @@ Before doing anything:
 | #jobs | 359 | Work/task board |
 | #crm | 364 | Sales/leads (redacted) |
 
+## Telegram Message Routing with System Prompts
+
+### Rule: Auto-Load Topic Prompts
+Every incoming Telegram message must trigger prompt loading based on its topic/group ID.
+
+**Trigger:** Message arrives in any Telegram topic (1, 2, 28, 29, 47, 50, 51, 139, 140, 141, 357, 358, 359, 364)
+
+**Process:**
+1. Extract topicId from incoming message metadata
+2. Call: `skill:telegram_prompt_loader topic={topicId}`
+3. Receive system prompt for that topic
+4. Prepend prompt to message context
+5. Respond with topic-specific behavior
+
+**Example flows:**
+- Topic 50 → Load health-clinical prompt → Respond as health manager
+- Topic 2 → Load general operations prompt → Respond as ops coordinator
+- Topic 140 → Load daily-briefing prompt → Respond as strategic briefer
+- Any topic → Auto-load corresponding prompt → Consistent behavior
+
+**Implementation:** This is handled by the gateway's message dispatcher (see WORKFLOW_AUTO.md).
+
+### Telegram Topic Context Loading
+
+Before responding to any Telegram message, the agent must:
+
+1. **Identify the message source** (topic ID or group ID)
+2. **Extract topic ID** from message metadata (e.g., `message.topicId = 50`)
+3. **Call skill** to get the prompt: skill:telegram_get_prompt topicId=50
+4. **Receive** the system prompt in response
+5. **Prepend it** to your context before processing the user's message
+6. **Respond** with that topic's specific behavior and tone
+
+### Example Flow
+
+**Input:** Message arrives in topic 50 (health-clinical)
+User: "Morning check: Breakfast boiled eggs, Drink Tea, energy 8/10, no symptoms, slept 7 hours"
+**Agent process:**
+1. Detect topicId = 50
+2. Call: `skill:telegram_get_prompt topicId=50`
+3. Receive: `{ systemPrompt: "You are managing daily clinical health intake...", topicName: "health-clinical" }`
+4. Prepend prompt to context
+5. Respond with health-specific behavior:
+"Morning check recorded:
+
+Energy: 8/10 ✓
+Symptoms: None ✓
+Sleep: 7 hours ✓
+
+Data logged to HEALTH_LOG_2026-04.md"
+
+### All Topics Supported
+
+The `telegram_get_prompt` skill handles all 14 topics automatically.
+Simply pass the topicId and it returns the right prompt.
+
+This ensures every topic has consistent, permanent behavior.
 ---
 
 ## External vs Internal
@@ -153,8 +229,6 @@ Before doing anything:
 4. Log to memory with file hash
 5. Respond ONCE then STOP ← NO FOLLOW-UP
 6. Track processed files in memory to prevent re-processing same file
-
-
 
 ---
 

@@ -126,4 +126,4 @@ When a recurring decision is made 3+ times, encode it here.
 **Total Heuristics**: 7 categories
 **Status**: Active
 **Last Updated**: 2026-03-06
-**Next Review**: Monthly (1st of month) — Librarian updates during Monthly Evolution Review
+**Next Review**: Monthly (1st of month)

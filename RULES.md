@@ -2,6 +2,42 @@
 
 Every failure teaches a guard. This file documents what NOT to do based on real failures.
 
+
+## Telegram Group System Prompts
+
+Every incoming Telegram message must be handled with the appropriate group/topic system prompt.
+
+### How it works:
+1. Message arrives in a Telegram topic (e.g., topic 50)
+2. Extract the topicId from message metadata and Look up the topic in `workspace/telegram-system-prompts.json`
+3. Call skill: `telegram_prompt_loader topic={topicId}`
+4. Receive the system prompt for that topic
+5. **Prepend it** to your response context before responding
+6. Respond with topic-specific behaviour
+
+**File location:** `C:\Users\User\.openclaw\workspace\telegram-system-prompts.json`
+
+**Update frequency:** Quarterly, or when venture operations significantly change.
+
+
+### Topics covered:
+- Topic 1: health-log (trend analysis)
+- Topic 2: general operations (suppliers, procurement, strategy)
+- Topic 28: cron-status (job execution monitoring)
+- Topic 29: memory-review (learning capture)
+- Topic 47: code-execution (agent/skill logs)
+- Topic 50: health-clinical (H's daily health intake)
+- Topic 51: care-clinical (Comfort's daily care intake)
+- Topic 139: learning-insights (weekly/monthly synthesis)
+- Topic 140: daily-briefing (comprehensive daily overview)
+- Topic 141: health-weekly (health trends)
+- Topic 357: business-operations (venture updates)
+- Topic 358: construction-projects (Ghana sites)
+- Topic 359: recruitment (job applications)
+- Topic 364: content-calendar (content planning)
+
+### Implementation:
+When handling a Telegram message, **always check for the topic prompt first**.
 ---
 
 ## Rule #1: Never Expose Credentials in Logs or Configs
@@ -405,6 +441,15 @@ Every failure teaches a guard. This file documents what NOT to do based on real 
 
 ---
 
+
+## Rule #38: Verify WhatsApp Configuration After Gateway Restarts
+- **Root Cause**: WhatsApp allowFrom policy blocking essential business/family communications after gateway restarts; gateway instability (499/428 disconnections)
+- **Consequence**: Critical business check-ins (Sammy sales) and family communications (Dad, Ebony) fail, breaking operational continuity
+- **Guard**: After any WhatsApp gateway restart or configuration change, verify allowFrom policy includes all essential numbers: Sammy (+233575252253), John (+233233352252), Dad (+447983254695), Ebony (+233546081608), Mum (+233503654902)
+- **Check**: Test delivery to at least one number from each category (business, family) after policy updates. If gateway disconnections exceed 3 in 1 hour, alert #urgent immediately with manual intervention instructions.
+- **Implementation**: Add to security watchdog scan; include in post-configuration verification checklist.
+- **Status**: Proposed 2026-04-24
+
 ## Rule #101: The Deadlock Reset
 - **Origin Failure**: Agent entered apology loop instead of completing task
 - **Root Cause**: Model over-indexed on refusal/limitation language under ambiguous instructions
@@ -564,6 +609,54 @@ Every failure teaches a guard. This file documents what NOT to do based on real 
 - **Validation**: Monitor delivery receipts; log failures.
 - **Status**: Proposed (from 2026-04-13 consolidation).
 
+
+## Rule #35: Verify External API Endpoints Before Attempting Transcription
+- **Origin Failure**: Voice note transcription failed due to Whisper API 404 (OpenRouter endpoint).
+- **Root Cause**: No validation of API endpoint availability before attempting transcription.
+- **Consequence**: Transcription fails silently, audio file may be deleted without processing.
+- **Guard**: Check API endpoint reachability and response status before sending audio for transcription.
+- **Check**: Before calling transcription API, verify endpoint with a lightweight HEAD or GET request; ensure API key is valid.
+- **Implementation**: Add pre-transcription health check; if endpoint unreachable, alert #urgent and queue for retry.
+- **Exception**: None.
+- **Validation**: Monitor transcription success rate; log failures.
+- **Status**: Proposed (from 2026-04-13 daily synthesis).
+
+## Rule #36: Verify Telegram Bot Authorization for Health Log Delivery
+- **Origin Failure**: Mum morning health log delivery failed due to Telegram bot unauthorized.
+- **Root Cause**: Bot not member of the required Telegram group/topic.
+- **Consequence**: Health logs not delivered, missing biometric data.
+- **Guard**: Ensure bot is authorized in all required Telegram groups/topics before sending automated messages.
+- **Check**: Verify bot membership via Telegram API; if unauthorized, alert #urgent.
+- **Implementation**: Add pre-send authorization check for Telegram bots.
+- **Exception**: None.
+- **Validation**: Monitor delivery receipts; log failures.
+- **Status**: Proposed (from 2026-04-16 consolidation).
+
+
+
+## Rule #37: Verify WhatsApp Channel Connectivity Before Critical Messages
+- **Origin Failure**: Morning check-in failed due to WhatsApp channel offline.
+- **Root Cause**: WhatsApp Web session expired or not logged in.
+- **Consequence**: Critical business communications (check-ins, alerts) not delivered.
+- **Guard**: Check WhatsApp channel connectivity before sending critical messages; implement fallback to Telegram or alert.
+- **Check**: Before sending critical messages, verify WhatsApp channel status via openclaw channels status; if offline, attempt login or switch to Telegram.
+- **Implementation**: Add pre-send connectivity check for WhatsApp channel; automate login retry; alert #urgent if persistently offline.
+- **Exception**: Non-critical messages can be queued for later delivery.
+- **Validation**: Monitor delivery receipts; log failures; track connectivity uptime.
+- **Status**: Proposed (from 2026-04-18 daily synthesis).
+
+
+## Rule #39: WhatsApp Configuration Guard (Listener Status Verification)
+- **Origin Failure**: Multiple WhatsApp check-ins failed (Sammy sales, John field, Matthias logistics, Janet family, Ebony goodnight) due to inactive WhatsApp Web listener.
+- **Root Cause**: No verification of WhatsApp Web listener status before scheduling WhatsApp-dependent tasks.
+- **Consequence**: All scheduled communications blocked, business/family check-ins missed, escalation required.
+- **Guard**: Before scheduling any WhatsApp-dependent task, verify WhatsApp Web listener status and have fallback alert to Telegram #urgent.
+- **Check**: Query gateway listener status; if inactive, alert #urgent immediately and do not attempt delivery.
+- **Implementation**: Add pre-task listener health check; if inactive, escalate to Telegram #urgent with remediation command (`openclaw channels login --channel whatsapp --account 233204252252`).
+- **Exception**: None.
+- **Validation**: Monitor WhatsApp delivery success rate; log listener status checks.
+- **Status**: Proposed (from 2026-04-24 daily synthesis).
+
 ## Adding New Rules
 
 When a failure occurs:
@@ -578,7 +671,12 @@ When a failure occurs:
 
 ---
 
-**Total Rules**: 34
+**Total Rules**: 39
 **Status**: Active and monitored
-**Last Updated**: 2026-04-13
+**Last Updated**: 2026-04-25
 **Next Review**: Weekly (Monday 9am)
+
+
+
+
+

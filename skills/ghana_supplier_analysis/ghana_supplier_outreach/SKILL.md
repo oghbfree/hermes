@@ -18,7 +18,7 @@ Read the file `GHANA_SUPPLIER_RESEARCH.md`.
 ### 2. Inquiry Drafting
 Prepare a professional inquiry message based on the following template:
 
-"Hello [Contact Person/Company Name], I am reaching out from OpenClaw regarding your [Dashboard Type] services. We are looking to establish a reliable supply chain for our projects. Could you provide your current lead times and a wholesale price list? Looking forward to your response."
+"Hello [Contact Person/Company Name], do you have [Dashboard Type] 2017 dashboard? And if so how much? Looking forward to your response."
 
 ### 3. Execution & Notification
 1. **Post** the drafted message and the supplier's contact details to Telegram Topic 2.

@@ -1,3 +1,0 @@
-{"timestamp": "2026-04-09T18:54:17.299369Z", "type": "biweekly_checkin", "recipient": "Dad (+447983254695)", "status": "sent", "channel": "WhatsApp", "message_id": "3EB024BE1CFDA07272BD84", "cron_id": "dd85fc4e-9c0d-4b7f-a3f4-db437097236a"}
-{"timestamp": "2026-04-09T18:54:19.042557+00:00", "type": "biweekly_checkin", "recipient": "Dad (+447983254695)", "status": "sent", "channel": "WhatsApp", "message_id": "3EB024BE1CFDA07272BD84", "cron_id": "dd85fc4e-9c0d-4b7f-a3f4-db437097236a"}
-{"recipient":"Janet (+233245531575)","cron_id":"ab8cf20c-a141-4252-8811-a77d7c850f23","timestamp":"2026-04-11T23:07:21.1544014+01:00","channel":"WhatsApp","type":"friday_checkin","message_id":null,"status":"failed"}

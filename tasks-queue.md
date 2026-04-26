@@ -1,44 +1,29 @@
-﻿## Pending Tasks
+# Tasks Queue - Updated 2026-04-25 03:10
 
-### Immediate Actions
-- [ ] **Follow up on Kia Rio dashboard inquiry** - Contact backup suppliers (#35, #25) if no response from Tony Chuks by 2026-04-01
-- [ ] **Add Telegram bot to group -1003620024352** - Critical for #urgent escalation protocol (blocked for 6+ days)
-- [ ] **Await response from Tony Chuks** (+233546534329) - Kia Rio LHD dashboard inquiry (out-of-office response received 14:20 UTC 2026-03-31)
-
-- [ ] **Fix Whisper API transcription failure** - Investigate OpenRouter Whisper endpoint 404; switch to alternative (Google Speech-to-Text, local Whisper). Priority: high.
-- [ ] **Verify WhatsApp gateway listener status** - Ensure gateway listener is active before automated messages; add health check to cron jobs.
-### Ongoing Tasks
-- [ ] Daily check-in with Sammy - Systems updated in Zobase (check-in sent 13:56 UTC 2026-03-31)
-- [ ] Follow up with John on Facebook ads initiative - Awaiting creative assets and target audience details
-
-### This Week
-- [ ] Weekly memory review - Pattern extraction and FORMULAS.md update (Monday 07:00)
-- [ ] Employee engagement calls - Schedule weekly check-ins with John, Sammy, Matthias
-
-### This Month
-- [ ] Review supplier research file - Add new contacts and quotes from March 2026
-- [ ] Update RULES.md - Document out-of-office supplier pattern (Rule #20)
-
-### Development Queue
-- [ ] **Build Homework Planning System for K & N** - Teacher-scientist assistant to help kids plan weekly homework around extracurricular activities
-  - Tasks: Gather schedule details (activities, school times, homework load, preferences)
-  - Deliverable: Visual weekly schedule with homework blocks, activity tracking, free time allocation
-  - Owner: Librarian
-
----
-
-**Last Updated:** 2026-04-13 08:25 UTC
-**Source:** Task addition
-
-### Today
-- [ ] Follow up with Yaliz Imports about Kia Rio conversion
-  - Details: Await response on car location, scope, timeline
-  - Action: Check parts availability, provide quote
-  - Contact: +233247094333
-
-## 2026-04-09 08:25 - Kwasi Biweekly Check-in - BLOCKED
-Cron: kwasi-thursday-check triggered. Last contact: >7 days (no log found). Attempted WhatsApp to +233247582932 but number not in allowFrom policy. Drafted message: Hey Kwasi, hope you are well. How are things going with the apiary and the mushroom side? Any updates? Action: H needs to add Kwasi number to allowFrom or send manually.
+## Critical System Blockers (WhatsApp/Google/Vector DB)
+- [ ] Configure memory embedding provider (currently 'google' unknown) to ensure vector DB sync works properly
+- [ ] Configure Google Sheets authentication (missing sheets scope for oghbfree@gmail.com). Run: gog auth add oghbfree@gmail.com --services sheets
+- [ ] Link WhatsApp Web session: openclaw channels login --channel whatsapp --account 233204252252 (scan QR)
 
 
-## 2026-04-13 Tasks
+## Pending Actions from John's Meeting Notes
 
+### High Priority (Starred Items)
+- [ ] **20% commission on sales** - Set up for 3rd parties
+- [ ] **Operational procedures** - Need to be documented and implemented
+- [ ] **VAT payment** - Outstanding, government has made adjustments
+- [ ] **Tax Cron** - Need to set up automated tax tracking
+
+### Medium Priority
+- [ ] **WhatsApp Broadcast blacklist** - Investigate why broadcasts are being blocked, test with small group
+- [ ] **iPhone 13 repairs** - Screen: 450, Back cover: 600, Battery: 250, Bypass: 600 (John's phone camera not good)
+- [ ] **Jiji Pro Sales analysis** - Cost (1400gh/month for 1500gh credit) not working out, evaluate alternatives
+- [ ] **Stanley blades** - Request 100 pieces for shopping list
+- [ ] **Nurses CV** - Send links/CV as requested
+
+### Business Operations
+- [ ] **Akoma Robotics** - Zion Intl no demos, 50 out
+- [ ] **Ring light for Jiji pics** - Need to stage products properly
+- [ ] **Zobase links** - Ensure links on Jiji and WhatsApp
+- [ ] **FB Marketplace VPN issues** - Resolve
+- [ ] **Web due** - Price, advertising for Akoma

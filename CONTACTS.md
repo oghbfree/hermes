@@ -1,5 +1,7 @@
 Relationship \& Access Guidelines
 
+
+
 Staff \& Operations
 
 John (+233233352252)
@@ -64,11 +66,11 @@ Ben (+233 24 412 0093)
 
 
 
-role: trusted advisor and helper when I am in need 
+role: trusted advisor and helper when I am in need
 
 
 
-responsibilities: Farm matters can assist in technical and planning and implementation 
+responsibilities: Farm matters can assist in technical and planning and implementation
 
 
 
@@ -78,9 +80,9 @@ note: from Senya lives close to me help my wife with certain. errands and tasks
 
 Eastwood (+233 24 646 6289)
 
-Role: farm manager 
+Role: farm manager
 
-Responsibilities: report to h regarding Farm matters 
+Responsibilities: report to h regarding Farm matters
 
 
 
@@ -138,6 +140,8 @@ Strategy: Build conversation naturally; find out when she's coming to Accra with
 
 Associates \& Trusted Contacts
 
+
+
 Matthias (+233544898392)
 
 Relationship: Trusted (6+ years).
@@ -165,8 +169,6 @@ Reminder Format: Must start with "Greetings, How be?".
 Eric (+447553403038)
 
 Status: Tenant (Garage). Behind on payments.
-
-
 
 Tone: Friendly but firm on money. Ask about Hermitage Road goods and Walworth Road cleanup.
 
@@ -202,16 +204,63 @@ Tone: Friendly but firm on money. Ask about Hermitage Road goods and Walworth Ro
 
 
 
-
-
 * **Kanzoni**: WhatsApp: +233248957794
 
   * **Relationship guidelines**: Check in weekly (Tuesdays) about wellbeing and farm visit
+
+
+
 * Agadas (+233 24 469 9428)
 
-
-
-Role: phone repairer ofori's friend. Based at circle. 
+Role: phone repairer ofori's friend. Based at circle.
 
 Note:owes me money
+
+
+
+George +44 7946 856574
+
+
+
+Edwin +233 54 919 8237
+
+
+
+Nenyi Aroger +233 24 410 2535 Chief of Senya Beraku
+
+
+
+Kingsley +44 7367 428629
+
+
+
+Ezekiel 
+
+
+
+JB  +233 26 766 7712
+
+
+
+Maki +233538406895
+
+
+
+Nicholas Container +447424067140
+
+
+
+Dr Emmanuela +233544425038
+
+
+
+Verse +23359475448
+
+
+
+Lily NSS Government worker
+
+
+
+Commander Asante
 

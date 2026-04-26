@@ -1,0 +1,5 @@
+- **Zobase**: Inventory, sales transactions, and CRM system
+  - Used by 2 Real Enterprises for daily operations
+  - Staff expected to log sales and inventory daily
+  - "Systems updated" = Zobase entries
+  - **Shop URL**: https://2-real.zobase.shop/ (online storefront — add to content captions)

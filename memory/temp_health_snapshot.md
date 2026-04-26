@@ -1,13 +1,7 @@
-﻿# EOD Health Snapshot - 2026-04-13
+# Health Snapshot - 2026-04-24
+*Generated at 19:07*
 
-## Evening Data (Pending)
-- **Dinner**: pending
-- **Drink**: pending
-- **Symptoms**: pending
-- **Severity**: pending
-- **Energy**: pending
-- **Mood**: pending
-- **Notes**: pending
+**Status:** Prompts sent (Morning, Afternoon, Evening)
+**Data Collected:** Awaiting user responses
 
----
-*Snapshot created at 16:52 BST. User response pending.*
+**Notes:** Evening prompt sent at 19:03 GMT.

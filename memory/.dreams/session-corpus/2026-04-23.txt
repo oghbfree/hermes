@@ -1,0 +1,1 @@
+[orchestrator/sessions/78064451-62c2-4206-88a2-222113071208.jsonl#L8] User: System diagnostic: List all loaded skills, verify their file paths, and confirm if the Orchestrator has permission to execute them. Also, check for any 'incomplete turn' errors in the last 5 minutes.

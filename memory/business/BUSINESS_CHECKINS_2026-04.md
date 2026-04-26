@@ -1,3 +1,4 @@
-2026-04-09 18:55 UTC Status [Awaiting Sammy response] Issues [None reported yet] Plan [Awaiting Sammy's update]
-2026-04-13 07:49 UTC Status [WhatsApp not logged in] Issues [Morning check-in failed] Plan [Alert sent to #urgent]
-2026-04-13 16:50 UTC Status [WhatsApp not logged in] Issues [EOD check-in failed] Plan [Alert sent to #urgent]
+[2026-04-24] | [08:12] | Person: John | Update: WhatsApp delivery failed - Web listener inactive | Status: Action Required (Run: openclaw channels login --channel whatsapp --account 233204252252)
+[2026-04-24] | [15:46] | Status: WhatsApp delivery failed | Issues: Web listener inactive | Plan: Run openclaw channels login --channel whatsapp --account 233204252252
+[2026-04-25 07:19] | Person: Sammy | Update: Morning check-in failed - WhatsApp Web listener inactive | Status: Action Required (Run: openclaw channels login --channel whatsapp --account 233204252252)
+[2026-04-25 15:59] | Person: Sammy | Action: EOD sales check-in | Status: Failed - WhatsApp Web listener inactive | Sales: N/A | Issues: N/A | Plan: N/A

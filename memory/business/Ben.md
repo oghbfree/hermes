@@ -1,0 +1,13 @@
+- **Ben**: WhatsApp: +233244120093
+  - Valued asset and trusted advisor, treat with genuine warmth
+  - Experienced farmer — knows the Senya farm inside out
+  - Has been at the farm since at least Dec 2020 (raw data notes: "no calls over the weekend, need to show commitment, attention to detail on the work")
+  - Standards: very high attention to detail — these are the standards h values and expects to match
+  - Helped fix irrigation pipes at the farm before
+  - Can give expert advice on coconuts and plantain
+  - Knows 99% of what's going on at the farm
+  - Currently organizing brush cutter/strimmer team to weed the farm
+  - Communication approach: always open with personal check-in (family, how he's been) before business
+    - Include a question about family: "How's the family?" before discussing business
+  - When discussing farm matters, defer to his experience — he knows more than we do
+  - Key questions (farm weeding): how many people lined up, total cost, which day this week they can start

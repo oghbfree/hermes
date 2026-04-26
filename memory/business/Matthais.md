@@ -1,0 +1,13 @@
+- **Matthias**: WhatsApp: +233544898392
+  - Known for 6+ years, trusted contact
+  - Travels from Agona to New Amanful to check on h's land
+  - Has car problems currently — affects his ability to travel to sites
+  - Historically handled: counting coconuts, weeding, checking materials, site supervision at **New Amanful (Takoradi) and Borkro** land only
+  - He does NOT know about the Senya farm — that's Ben's area
+  - h wants him to continue regular visits to New Amanful and Borkro
+  - h will give him something for regular visits
+  - Has been quiet lately — needs a warm check-in
+  - Treat with warmth, ask about family first, then ease into business
+  - Check in weekly about ground operations and New Amanful
+  - Cron schedule: Fridays at 20:00 UTC
+  - Exact message: "Good evening Matthias! What's going on on the ground? Are you going to New Amanful?"

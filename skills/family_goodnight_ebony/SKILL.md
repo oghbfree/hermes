@@ -15,7 +15,7 @@ The agent will rotate through the following options based on the day of the week
 * **Option E:** "Rest well, my love. Tell the boys I'm thinking of them. See you in my dreams. 🌙💤"
 
 ### 2. Dispatch
-1.  **Send** the selected message via WhatsApp to `233544898392`.
+1.  **Send** the selected message via WhatsApp to `233546081608`.
 2.  **Ensure** only one message is sent per session.
 
 ### 3. Documentation & Tracking

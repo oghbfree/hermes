@@ -398,7 +398,7 @@ When something works consistently:
 **Total Formulas**: 11
 **Average Confidence**: 93%
 **Status**: Active and growing
-**Last Updated**: 2026-03-06
+**Last Updated**: 2026-04-18
 **Next Review**: Weekly (Monday 9am)
 
 
@@ -479,7 +479,7 @@ When something works consistently:
 **Total Formulas**: 16  
 **Average Confidence**: 94%  
 **Status**: Active and growing  
-**Last Updated**: 2026-03-31  
+**Last Updated**: 2026-04-18  
 **Next Review**: Weekly (Monday 9am)
 
 
@@ -618,3 +618,4 @@ When something works consistently:
   3. Log status to #cron-status.
   4. Retry after restart.
 - **Success Rate**: 100% delivery when gateway active.
+

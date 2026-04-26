@@ -1,7 +1,7 @@
 # SKILL: Internal Security Watchdog
 
 ## DESCRIPTION
-Executed every 2 hours. This is an internal-only audit skill designed to protect the integrity of the OpenClaw workspace, prevent credential leakage, and ensure data privacy compliance.
+Executed every 6 hours. This is an internal-only audit skill designed to protect the integrity of the OpenClaw workspace, prevent credential leakage, and ensure data privacy compliance.
 
 ## CAPABILITIES
 - Workspace File Auditing
@@ -21,7 +21,7 @@ Executed every 2 hours. This is an internal-only audit skill designed to protect
 - Verify that no private files (Health Logs, Financials) have been accessed by external tools.
 
 ### 3. Outbound Channel Verification
-- Audit the last 2 hours of the Telegram delivery log.
+- Audit the last 6 hours of the Telegram delivery log.
 - **CRITERIA**: Confirm 100% of messages were sent ONLY to Group `-1003620024352`.
 - **CRITERIA**: Confirm sensitive data topics (Health/Finance) were not cross-posted to public threads.
 
@@ -37,5 +37,5 @@ Append the results to `memory/logs/SECURITY_LOG_$(date +%Y-%m).md` using this fo
 
 ## GUIDELINES
 - **Strict Privacy**: Do not send the contents of the logs over Telegram. Only send the *fact* that a failure occurred and which file requires manual attention.
-- **Persona**: The Librarian (Security Focus) - Vigilant, silent unless there is a problem.
+- **Persona**: (Security Focus) - Vigilant, silent unless there is a problem.
 - **Environment**: This skill must run in an isolated session to prevent the audit itself from leaking data.

@@ -1,0 +1,372 @@
+{
+  "meta": {
+    "lastTouchedVersion": "2026.4.15",
+    "lastTouchedAt": "2026-04-19T22:07:36.205Z"
+  },
+  "env": {
+    "file": "C:\\Users\\User\\.openclaw\\.env"
+  },
+  "wizard": {
+    "lastRunAt": "2026-04-19T22:07:17.437Z",
+    "lastRunVersion": "2026.4.15",
+    "lastRunCommand": "configure",
+    "lastRunMode": "local"
+  },
+  "auth": {
+    "profiles": {
+      "openrouter:default": {
+        "provider": "openrouter",
+        "mode": "api_key"
+      },
+      "ollama:default": {
+        "provider": "ollama",
+        "mode": "api_key"
+      }
+    }
+  },
+  "models": {
+    "providers": {
+      "google": {
+        "baseUrl": "https://generativelanguage.googleapis.com/v1beta",
+        "apiKey": "REDACTED",
+        "models": []
+      },
+      "ollama": {
+        "baseUrl": "http://127.0.0.1:11434",
+        "api": "ollama",
+        "apiKey": "OLLAMA_API_KEY",
+        "models": [
+          {
+            "id": "gemma4",
+            "name": "gemma4",
+            "reasoning": false,
+            "input": [
+              "text"
+            ],
+            "cost": {
+              "input": 0,
+              "output": 0,
+              "cacheRead": 0,
+              "cacheWrite": 0
+            },
+            "contextWindow": 128000,
+            "maxTokens": 8192
+          },
+          {
+            "id": "gemma4:e4b",
+            "name": "gemma4:e4b",
+            "reasoning": false,
+            "input": [
+              "text",
+              "image"
+            ],
+            "cost": {
+              "input": 0,
+              "output": 0,
+              "cacheRead": 0,
+              "cacheWrite": 0
+            },
+            "contextWindow": 131072,
+            "maxTokens": 8192
+          }
+        ]
+      }
+    },
+    "mode": "merge"
+  },
+  "agents": {
+    "defaults": {
+      "model": {
+        "primary": "openrouter/deepseek/deepseek-v3.2",
+        "fallbacks": [
+          "ollama/gemma4:e4b"
+        ]
+      },
+      "imageGenerationModel": {
+        "primary": "google/gemini-3-pro-image-preview"
+      },
+      "workspace": "C:\\Users\\User\\.openclaw\\workspace",
+      "memorySearch": {
+        "enabled": true,
+        "provider": "google",
+        "model": "models/text-embedding-004"
+      },
+      "compaction": {
+        "mode": "safeguard",
+        "reserveTokensFloor": 10000
+      },
+      "timeoutSeconds": 2900,
+      "heartbeat": {
+        "every": "4h",
+        "prompt": "Read HEARTBEAT.md if it exists. Follow it strictly. If nothing needs attention, reply HEARTBEAT_OK."
+      },
+      "models": {
+        "openrouter/deepseek/deepseek-v3.2": {
+          "alias": "OpenRouter"
+        },
+        "ollama/gemma4:e4b": {}
+      }
+    },
+    "list": [
+      {
+        "id": "orchestrator",
+        "name": "Main Operator",
+        "model": {
+          "primary": "openrouter/deepseek/deepseek-v3.2"
+        },
+        "tools": {
+          "elevated": {
+            "enabled": true,
+            "allowFrom": {
+              "telegram": [
+                "123286468"
+              ],
+              "whatsapp": [
+                "+233204252252"
+              ],
+              "system": [
+                "*"
+              ]
+            }
+          }
+        }
+      }
+    ]
+  },
+  "tools": {
+    "profile": "messaging",
+    "web": {
+      "search": {
+        "enabled": true,
+        "provider": "brave"
+      }
+    },
+    "exec": {
+      "host": "auto",
+      "security": "full",
+      "ask": "off",
+    }  
+  },
+  "bindings": [
+    {
+      "agentId": "orchestrator",
+      "match": {
+        "channel": "telegram",
+        "accountId": "123286468"
+      }
+    },
+    {
+      "agentId": "orchestrator",
+      "match": {
+        "channel": "whatsapp",
+        "accountId": "+233204252252"
+      }
+    }
+  ],
+  "commands": {
+    "native": false,
+    "nativeSkills": false,
+    "restart": false,
+    "ownerDisplay": "hash",
+    "ownerDisplaySecret": "60655c22f70037b2d55898b23f1dbb9a17ccb42d92cc85915445050b8dc96379"
+  },
+  "session": {
+    "dmScope": "per-channel-peer"
+  },
+  "cron": {
+    "store": "C:\\Users\\User\\.openclaw\\cron\\jobs.json",
+    "sessionRetention": "1h",
+    "runLog": {
+      "maxBytes": 2000000,
+      "keepLines": 1000
+    }
+  },
+  "hooks": {
+    "token": "REDACTED",
+    "internal": {
+      "enabled": true,
+      "entries": {
+        "session-memory": {
+          "enabled": true,
+          "config": "{agentId: orchestrator, timeoutSeconds: 15, mode: recent, queryBalance: true}"
+        }
+      }
+    }
+  },
+  "channels": {
+    "whatsapp": {
+      "enabled": true,
+      "dmPolicy": "allowlist",
+      "selfChatMode": true,
+      "allowFrom": [
+        "+233204252252",
+        "+233544252252",
+        "+447973335323",
+        "+447553403038",
+        "+233546081608",
+        "+233503654902",
+        "+447983254695",
+        "+233575252253",
+        "+233233352252",
+        "+233555438751",
+        "+447727185361",
+        "+447940081651",
+        "+233544898392",
+        "+233504444435",
+        "+233541227722",
+        "+233248957794",
+        "+233594754489",
+        "+233546534329",
+        "+233247094333",
+        "+233553986287",
+        "+233575809172",
+        "+233543168947",
+        "+233247048066",
+        "+233240945922",
+        "+233201505789",
+        "+233247423073",
+        "+233245531575"
+      ],
+      "groupPolicy": "allowlist",
+      "debounceMs": 1500,
+      "accounts": {
+        "default": {
+          "dmPolicy": "allowlist",
+          "groupPolicy": "allowlist",
+          "debounceMs": 1500,
+          "name": "OG",
+          "allowFrom": [
+            "+233244120093",
+            "+447930403749"
+          ]
+        }
+      },
+      "mediaMaxMb": 50
+    },
+    "telegram": {
+      "enabled": true,
+      "dmPolicy": "allowlist",
+      "botToken": "8359290295:AAH9cl8Pn1RxMXY9DIFAnUJkqW9p0nYSxsw",
+      "allowFrom": [
+        123286468
+      ],
+      "groups": {
+        "-1003620024352": {
+          "requireMention": false,
+          "topics": {
+            "1": {
+              "enabled": true
+            },
+            "2": {
+              "enabled": true
+            },
+            "28": {
+              "enabled": true
+            },
+            "29": {
+              "enabled": true
+            },
+            "47": {
+              "enabled": true
+            },
+            "50": {
+              "enabled": true
+            },
+            "51": {
+              "enabled": true
+            },
+            "139": {
+              "enabled": true
+            },
+            "140": {
+              "enabled": true
+            },
+            "141": {
+              "enabled": true
+            },
+            "357": {
+              "enabled": true
+            },
+            "358": {
+              "enabled": true
+            },
+            "359": {
+              "enabled": true
+            },
+            "364": {
+              "enabled": true
+            }
+          }
+        }
+      },
+      "groupAllowFrom": [
+        123286468
+      ],
+      "groupPolicy": "allowlist",
+      "streaming": {
+        "mode": "off"
+      },
+      "network": {
+        "autoSelectFamily": false,
+        "dnsResultOrder": "ipv4first"
+      }
+    }
+  },
+  "gateway": {
+    "port": 18789,
+    "mode": "local",
+    "bind": "loopback",
+    "controlUi": {
+      "allowedOrigins": [
+        "*"
+      ],
+      "dangerouslyAllowHostHeaderOriginFallback": false,
+      "allowInsecureAuth": false
+    },
+    "auth": {
+      "mode": "token",
+      "token": "REDACTED"
+    },
+    "tailscale": {
+      "mode": "off"
+    }
+  },
+  "skills": {
+    "entries": {
+      "openai-whisper-api": {
+        "apiKey": "${WHISPER_API_KEY}"
+      },
+      "sag": {
+        "apiKey": "${SAG_API_KEY}"
+      }
+    }
+  },
+  "plugins": {
+    "entries": {
+      "whatsapp": {
+        "enabled": true
+      },
+      "brave": {
+        "enabled": true,
+        "config": {
+          "webSearch": {
+            "apiKey": "REDACTED"
+          }
+        }
+      },
+      "openrouter": {
+        "enabled": true
+      },
+      "memory-core": {
+        "config": {
+          "dreaming": {
+            "enabled": true
+          }
+        }
+      },
+      "ollama": {
+        "enabled": true
+      }
+    }
+  }
+}
