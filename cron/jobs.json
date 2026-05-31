@@ -1,0 +1,1711 @@
+{
+  "jobs": [
+    {
+      "id": "c2f877e83db8",
+      "name": "tasks-queue-sync",
+      "prompt": "Read C:\\Users\\User\\.hermes\\workspace\\tasks-queue.md and compare with current kanban board (hermes kanban list). For any new [ ] tasks in the file that don't have a matching kanban card, create them with hermes kanban create. For any kanban tasks marked done that appear as [x] in the file, mark them complete. Report what changed.",
+      "skills": [],
+      "skill": null,
+      "model": null,
+      "provider": null,
+      "base_url": null,
+      "script": null,
+      "no_agent": false,
+      "context_from": null,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 9 * * *",
+        "display": "0 9 * * *"
+      },
+      "schedule_display": "0 9 * * *",
+      "repeat": {
+        "times": null,
+        "completed": 11
+      },
+      "enabled": true,
+      "state": "scheduled",
+      "paused_at": null,
+      "paused_reason": null,
+      "created_at": "2026-05-18T03:07:24.933903+01:00",
+      "next_run_at": "2026-06-01T09:00:00+01:00",
+      "last_run_at": "2026-05-31T09:02:48.675962+01:00",
+      "last_status": "ok",
+      "last_error": null,
+      "last_delivery_error": null,
+      "deliver": "origin",
+      "origin": {
+        "platform": "telegram",
+        "chat_id": "-1003784520976",
+        "chat_name": "Agent Hermes",
+        "thread_id": "1"
+      },
+      "enabled_toolsets": null,
+      "workdir": null
+    },
+    {
+      "id": "7d02117e2077",
+      "name": "brain-dump-parser",
+      "prompt": "You are the brain-dump parser for Telegram Topic 8 (#to-do-list).\n\nTASK: Check if there are any recent unprocessed brain-dump messages in the session history for topic 8 (to-do-list). Look for messages from the user containing raw task dumps, to-do items, or action items that haven't been extracted yet.\n\nIf you find unprocessed brain dumps:\n1. Extract every distinct actionable item\n2. Classify each: title (verb phrase, <10 words), project (akoma | jiji | construction | property | personal | finance | ghana-trip | family | business | tech | other), priority (high/medium/low), due_date (or null)\n3. Flag: [RESEARCH], [DECISION], [WAITING: name], [REVIEW]\n4. Append new tasks to C:\\Users\\User\\.hermes\\workspace\\tasks-queue.md under the ## Active section in this format:\n   * [ ] **[PROJECT] | [PRIORITY]** \u2014 Title\n     \u2192 Notes: context\n     \u2192 Due: date or \"not specified\"\n5. Reply with a summary of what was extracted and saved.\n\nIf no new brain dumps found, reply \"No new brain dumps to process.\"\n\nIMPORTANT: Only process NEW dumps that haven't been extracted yet. Don't re-process old ones. Check the last extraction timestamp in the file.\n",
+      "skills": [],
+      "skill": null,
+      "model": null,
+      "provider": null,
+      "base_url": null,
+      "script": null,
+      "no_agent": false,
+      "context_from": null,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 8,12,18 * * *",
+        "display": "0 8,12,18 * * *"
+      },
+      "schedule_display": "0 8,12,18 * * *",
+      "repeat": {
+        "times": null,
+        "completed": 30
+      },
+      "enabled": true,
+      "state": "scheduled",
+      "paused_at": null,
+      "paused_reason": null,
+      "created_at": "2026-05-18T03:14:56.722538+01:00",
+      "next_run_at": "2026-06-01T08:00:00+01:00",
+      "last_run_at": "2026-05-31T12:00:25.905382+01:00",
+      "last_status": "error",
+      "last_error": "RuntimeError: Connection error.",
+      "last_delivery_error": "delivery error: Telegram send failed: httpx.ConnectError: [Errno 11001] getaddrinfo failed",
+      "deliver": "origin",
+      "origin": {
+        "platform": "telegram",
+        "chat_id": "-1003784520976",
+        "chat_name": "Agent Hermes",
+        "thread_id": "1"
+      },
+      "enabled_toolsets": null,
+      "workdir": null
+    },
+    {
+      "id": "e465309c187d",
+      "name": "tasks-md-to-kanban",
+      "prompt": "Sync TASKS.md to Kanban board.\n\n1. Read C:\\Users\\User\\.hermes\\workspace\\TASKS.md\n2. Run `hermes kanban list` to see current board\n3. For each [ ] task in TASKS.md that doesn't already have a kanban card, create one:\n   - Title: the task text\n   - Assignee: default\n   - Body: include project category and any notes\n4. For each [x] task in TASKS.md, mark the corresponding kanban card as done\n5. Report what was synced (new tasks added, tasks marked done)\n\nUse `hermes kanban create \"title\" --assignee default --body \"...\"` for new tasks.\nUse `hermes kanban complete <id>` for done tasks.\n",
+      "skills": [],
+      "skill": null,
+      "model": null,
+      "provider": null,
+      "base_url": null,
+      "script": null,
+      "no_agent": false,
+      "context_from": null,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 10 * * *",
+        "display": "0 10 * * *"
+      },
+      "schedule_display": "0 10 * * *",
+      "repeat": {
+        "times": null,
+        "completed": 11
+      },
+      "enabled": true,
+      "state": "scheduled",
+      "paused_at": null,
+      "paused_reason": null,
+      "created_at": "2026-05-18T03:15:16.874689+01:00",
+      "next_run_at": "2026-06-01T10:00:00+01:00",
+      "last_run_at": "2026-05-31T10:01:48.096380+01:00",
+      "last_status": "ok",
+      "last_error": null,
+      "last_delivery_error": null,
+      "deliver": "origin",
+      "origin": {
+        "platform": "telegram",
+        "chat_id": "-1003784520976",
+        "chat_name": "Agent Hermes",
+        "thread_id": "1"
+      },
+      "enabled_toolsets": null,
+      "workdir": null
+    },
+    {
+      "id": "b787e85493ea",
+      "name": "sunday-content-engine",
+      "prompt": "Read C:\\Users\\User\\.hermes\\workspace\\content-assets\\SUNDAY_CONTENT_ENGINE_PROMPT.md and execute the full content generation workflow for the coming week. Generate all captions, scripts, and images for both Akoma Robotics and 2Real Enterprises across all 6 platforms. Use the TAIWAH_MASTER_PROMPT.md for all 2Real image generation. Save all assets to C:\\Users\\User\\.hermes\\content-output\\. Present the completed plan in the specified delivery format.",
+      "skills": [
+        "ai-influencer-content-pipeline",
+        "manim-video",
+        "hyperframes"
+      ],
+      "skill": "ai-influencer-content-pipeline",
+      "model": null,
+      "provider": null,
+      "base_url": null,
+      "script": null,
+      "no_agent": false,
+      "context_from": null,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 20 * * 0",
+        "display": "0 20 * * 0"
+      },
+      "schedule_display": "0 20 * * 0",
+      "repeat": {
+        "times": null,
+        "completed": 2
+      },
+      "enabled": true,
+      "state": "scheduled",
+      "paused_at": null,
+      "paused_reason": null,
+      "created_at": "2026-05-18T03:47:08.752244+01:00",
+      "next_run_at": "2026-06-07T20:00:00+01:00",
+      "last_run_at": "2026-05-31T20:13:47.827521+01:00",
+      "last_status": "error",
+      "last_error": "RuntimeError: Connection error.",
+      "last_delivery_error": "delivery error: Telegram send failed: httpx.ConnectError: [Errno 11001] getaddrinfo failed",
+      "deliver": "telegram:-1003784520976:26",
+      "origin": {
+        "platform": "telegram",
+        "chat_id": "-1003784520976",
+        "chat_name": "Agent Hermes",
+        "thread_id": "26"
+      },
+      "enabled_toolsets": null,
+      "workdir": null
+    },
+    {
+      "id": "147a33d412c6",
+      "name": "saturday-content-performance",
+      "prompt": "You are the Content Performance Reviewer for Akoma Robotics and 2Real Enterprises. Today is Saturday. Review the past week's content performance.\n\n1. Read C:\\Users\\User\\.hermes\\content-output\\sent-log.md to see what was generated\n2. Check C:\\Users\\User\\.hermes\\content-output\\ for any content directories from this week\n3. Review any performance data available (engagement, reach, conversions)\n4. If no performance data exists (no content was posted), report pipeline status and blockers\n5. Save detailed report to C:\\Users\\User\\.hermes\\content-output\\CONTENT_PERFORMANCE_[YYYY-MM-DD].md\n6. Post summary to Telegram topic 26\n\nFormat: PLANNED | POSTED | PERFORMANCE | OPTIMIZATIONS\nInclude: platform-by-platform breakdown, brand-by-brand analysis, top performing content types, recommendations for next week.",
+      "skills": [],
+      "skill": null,
+      "model": null,
+      "provider": null,
+      "base_url": null,
+      "script": null,
+      "no_agent": false,
+      "context_from": null,
+      "schedule": {
+        "kind": "cron",
+        "expr": "11 9 * * 6",
+        "display": "11 9 * * 6"
+      },
+      "schedule_display": "11 9 * * 6",
+      "repeat": {
+        "times": null,
+        "completed": 2
+      },
+      "enabled": true,
+      "state": "scheduled",
+      "paused_at": null,
+      "paused_reason": null,
+      "created_at": "2026-05-18T03:47:09.757275+01:00",
+      "next_run_at": "2026-06-06T09:11:00+01:00",
+      "last_run_at": "2026-05-30T09:16:18.140972+01:00",
+      "last_status": "ok",
+      "last_error": null,
+      "last_delivery_error": null,
+      "deliver": "telegram:-1003784520976:26",
+      "origin": {
+        "platform": "telegram",
+        "chat_id": "-1003784520976",
+        "chat_name": "Agent Hermes",
+        "thread_id": "26"
+      },
+      "enabled_toolsets": null,
+      "workdir": null
+    },
+    {
+      "id": "8ba8c0c6a82f",
+      "name": "mum-health-morning",
+      "prompt": "You are the morning care check-in for Comfort Blankson (age 91, elderly care).\n\nTASK:\n1. Use send_message to post a health check-in prompt to telegram:-1003784520976:4\n\nAsk about:\n\u2022 Breakfast \u2014 has she eaten? What?\n\u2022 Morning medications taken?\n\u2022 Any pain, discomfort, or issues?\n\u2022 Energy and mood this morning\n\u2022 Mobility \u2014 any changes?\n\nKeep it warm, clear, and concise.",
+      "skills": [],
+      "skill": null,
+      "model": null,
+      "provider": null,
+      "base_url": null,
+      "script": null,
+      "no_agent": false,
+      "context_from": null,
+      "schedule": {
+        "kind": "cron",
+        "expr": "4 8 * * *",
+        "display": "4 8 * * *"
+      },
+      "schedule_display": "4 8 * * *",
+      "repeat": {
+        "times": null,
+        "completed": 12
+      },
+      "enabled": true,
+      "state": "scheduled",
+      "paused_at": null,
+      "paused_reason": null,
+      "created_at": "2026-05-18T15:51:32.058837+01:00",
+      "next_run_at": "2026-06-01T08:04:00+01:00",
+      "last_run_at": "2026-05-31T08:13:39.533096+01:00",
+      "last_status": "ok",
+      "last_error": null,
+      "last_delivery_error": null,
+      "deliver": "local",
+      "origin": {
+        "platform": "telegram",
+        "chat_id": "-1003784520976",
+        "chat_name": "Agent Hermes",
+        "thread_id": "4"
+      },
+      "enabled_toolsets": [
+        "terminal",
+        "file"
+      ],
+      "workdir": null
+    },
+    {
+      "id": "1c2103c267a6",
+      "name": "mum-health-afternoon",
+      "prompt": "You are the afternoon care check-in for Comfort Blankson (age 91, elderly care).\n\nTASK:\n1. Use send_message to post a health check-in prompt to telegram:-1003784520976:4\n\nAsk about:\n\u2022 Lunch \u2014 has she eaten? What?\n\u2022 Afternoon medications?\n\u2022 Any pain, discomfort, or issues?\n\u2022 Energy and mood\n\u2022 Any incidents or concerns since morning?\n\nKeep it warm, clear, and concise.",
+      "skills": [],
+      "skill": null,
+      "model": null,
+      "provider": null,
+      "base_url": null,
+      "script": null,
+      "no_agent": false,
+      "context_from": null,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 13 * * *",
+        "display": "0 13 * * *"
+      },
+      "schedule_display": "0 13 * * *",
+      "repeat": {
+        "times": null,
+        "completed": 11
+      },
+      "enabled": true,
+      "state": "scheduled",
+      "paused_at": null,
+      "paused_reason": null,
+      "created_at": "2026-05-18T15:51:33.064365+01:00",
+      "next_run_at": "2026-06-01T13:00:00+01:00",
+      "last_run_at": "2026-05-31T13:00:46.594568+01:00",
+      "last_status": "error",
+      "last_error": "RuntimeError: Connection error.",
+      "last_delivery_error": null,
+      "deliver": "local",
+      "origin": {
+        "platform": "telegram",
+        "chat_id": "-1003784520976",
+        "chat_name": "Agent Hermes",
+        "thread_id": "4"
+      },
+      "enabled_toolsets": [
+        "terminal",
+        "file"
+      ],
+      "workdir": null
+    },
+    {
+      "id": "7ffb54b79331",
+      "name": "mum-health-evening",
+      "prompt": "You are the evening care check-in for Comfort Blankson (age 91, elderly care).\n\nTASK:\n1. Use send_message to post a health check-in prompt to telegram:-1003784520976:4\n\nAsk about:\n\u2022 Dinner \u2014 has she eaten? What?\n\u2022 Evening medications?\n\u2022 Any pain, discomfort, or issues?\n\u2022 Energy and mood\n\u2022 Overall day summary \u2014 how was today?\n\nKeep it warm, clear, and concise.",
+      "skills": [],
+      "skill": null,
+      "model": null,
+      "provider": null,
+      "base_url": null,
+      "script": null,
+      "no_agent": false,
+      "context_from": null,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 19 * * *",
+        "display": "0 19 * * *"
+      },
+      "schedule_display": "0 19 * * *",
+      "repeat": {
+        "times": null,
+        "completed": 13
+      },
+      "enabled": true,
+      "state": "scheduled",
+      "paused_at": null,
+      "paused_reason": null,
+      "created_at": "2026-05-18T15:51:34.078490+01:00",
+      "next_run_at": "2026-06-01T19:00:00+01:00",
+      "last_run_at": "2026-05-31T20:13:45.727260+01:00",
+      "last_status": "error",
+      "last_error": "RuntimeError: Connection error.",
+      "last_delivery_error": null,
+      "deliver": "local",
+      "origin": {
+        "platform": "telegram",
+        "chat_id": "-1003784520976",
+        "chat_name": "Agent Hermes",
+        "thread_id": "4"
+      },
+      "enabled_toolsets": [
+        "terminal",
+        "file"
+      ],
+      "workdir": null
+    },
+    {
+      "id": "ecb431eb971d",
+      "name": "health-check-morning",
+      "prompt": "You are the morning health check for H. Use send_message to post to telegram:123286468:2 with this exact text:\n\n\ud83c\udf05 Morning Health Check\n\nHey H, just checking in before the day kicks off!\n\nPlease log:\n\u2022 \ud83c\udf73 Breakfast \u2014 have you eaten? What did you have?\n\u2022 \u2615 Drink \u2014 what have you had to drink this morning?\n\u2022 \ud83e\ude7a Symptoms \u2014 any aches, pains, or issues to report?\n\u2022 \u26a1 Energy \u2014 how are you feeling out of 10?\n\nTake care! \ud83d\udcaa",
+      "skills": [],
+      "skill": null,
+      "model": null,
+      "provider": null,
+      "base_url": null,
+      "script": null,
+      "no_agent": false,
+      "context_from": null,
+      "schedule": {
+        "kind": "cron",
+        "expr": "4 8 * * *",
+        "display": "4 8 * * *"
+      },
+      "schedule_display": "4 8 * * *",
+      "repeat": {
+        "times": null,
+        "completed": 13
+      },
+      "enabled": true,
+      "state": "scheduled",
+      "paused_at": null,
+      "paused_reason": null,
+      "created_at": "2026-05-18T15:51:42.403681+01:00",
+      "next_run_at": "2026-06-01T08:04:00+01:00",
+      "last_run_at": "2026-05-31T08:18:19.111764+01:00",
+      "last_status": "ok",
+      "last_error": null,
+      "last_delivery_error": null,
+      "deliver": "origin",
+      "origin": {
+        "platform": "telegram",
+        "chat_id": "-1003784520976",
+        "chat_name": "Agent Hermes",
+        "thread_id": "2"
+      },
+      "enabled_toolsets": null,
+      "workdir": null
+    },
+    {
+      "id": "7b6f47df6a9a",
+      "name": "health-check-afternoon",
+      "prompt": "You are the afternoon health check for H. Use send_message to post to telegram:123286468:2 with this exact text:\n\n\ud83c\udf24\ufe0f Afternoon Health Check\n\nHey H, how's the day going?\n\nPlease log:\n\u2022 \ud83c\udf7d\ufe0f Lunch \u2014 have you eaten? What did you have?\n\u2022 \u2615 Drinks \u2014 what have you had since morning?\n\u2022 \ud83e\ude7a Symptoms \u2014 any aches, pains, or issues?\n\u2022 \u26a1 Energy \u2014 how are you feeling out of 10?\n\nKeep going! \ud83d\udcaa",
+      "skills": [],
+      "skill": null,
+      "model": null,
+      "provider": null,
+      "base_url": null,
+      "script": null,
+      "no_agent": false,
+      "context_from": null,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 13 * * *",
+        "display": "0 13 * * *"
+      },
+      "schedule_display": "0 13 * * *",
+      "repeat": {
+        "times": null,
+        "completed": 10
+      },
+      "enabled": true,
+      "state": "scheduled",
+      "paused_at": null,
+      "paused_reason": null,
+      "created_at": "2026-05-18T15:51:43.408696+01:00",
+      "next_run_at": "2026-06-01T13:00:00+01:00",
+      "last_run_at": "2026-05-31T13:00:47.107986+01:00",
+      "last_status": "error",
+      "last_error": "RuntimeError: Connection error.",
+      "last_delivery_error": "delivery error: Telegram send failed: httpx.ConnectError: [Errno 11001] getaddrinfo failed",
+      "deliver": "origin",
+      "origin": {
+        "platform": "telegram",
+        "chat_id": "-1003784520976",
+        "chat_name": "Agent Hermes",
+        "thread_id": "2"
+      },
+      "enabled_toolsets": null,
+      "workdir": null
+    },
+    {
+      "id": "c4818bab761b",
+      "name": "health-check-evening",
+      "prompt": "You are the evening health check for H. Use send_message to post to telegram:123286468:2 with this exact text:\n\n\ud83c\udf19 Evening Health Check\n\nHey H, winding down for the day?\n\nPlease log:\n\u2022 \ud83c\udf7d\ufe0f Dinner \u2014 have you eaten? What did you have?\n\u2022 \u2615 Drinks \u2014 what have you had today?\n\u2022 \ud83e\ude7a Symptoms \u2014 any aches, pains, or issues?\n\u2022 \u26a1 Energy \u2014 how are you feeling out of 10?\n\u2022 \ud83d\ude34 Sleep \u2014 how did you sleep last night?\n\nRest well! \ud83c\udf19",
+      "skills": [],
+      "skill": null,
+      "model": null,
+      "provider": null,
+      "base_url": null,
+      "script": null,
+      "no_agent": false,
+      "context_from": null,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 19 * * *",
+        "display": "0 19 * * *"
+      },
+      "schedule_display": "0 19 * * *",
+      "repeat": {
+        "times": null,
+        "completed": 14
+      },
+      "enabled": true,
+      "state": "scheduled",
+      "paused_at": null,
+      "paused_reason": null,
+      "created_at": "2026-05-18T15:51:44.415808+01:00",
+      "next_run_at": "2026-06-01T19:00:00+01:00",
+      "last_run_at": "2026-05-31T20:13:48.007414+01:00",
+      "last_status": "error",
+      "last_error": "RuntimeError: Connection error.",
+      "last_delivery_error": "delivery error: Telegram send failed: httpx.ConnectError: [Errno 11001] getaddrinfo failed",
+      "deliver": "origin",
+      "origin": {
+        "platform": "telegram",
+        "chat_id": "-1003784520976",
+        "chat_name": "Agent Hermes",
+        "thread_id": "2"
+      },
+      "enabled_toolsets": null,
+      "workdir": null
+    },
+    {
+      "id": "e5d89d644d51",
+      "name": "health-weekly-synthesis",
+      "prompt": "Generate the weekly health synthesis report for H (Oman Herbert Blankson).\n\nTASK:\n1. Read the current month's health log file at C:\\Users\\User\\.hermes\\workspace\\HEALTH_LOG_2026-05.md\n2. Analyze the past 7 days of entries for trends, red flags, and patterns\n3. Use send_message to post the report to telegram:-1003784520976:2\n\nReport format:\n\ud83d\udcca Weekly Health Synthesis \u2014 [date range]\n\n\ud83d\udd34 Red Flags: (any concerning trends)\n\ud83d\udfe1 Watch: (items to monitor)\n\ud83d\udfe2 Good: (positive trends)\n\n\ud83d\udcc8 Trends:\n\u2022 Energy: (avg and trend)\n\u2022 Nutrition: (meal consistency)\n\u2022 Symptoms: (any recurring issues)\n\n\ud83d\udca1 Recommendations: (1-3 actionable items)\n\nKeep it concise and actionable.",
+      "skills": [],
+      "skill": null,
+      "model": null,
+      "provider": null,
+      "base_url": null,
+      "script": null,
+      "no_agent": false,
+      "context_from": null,
+      "schedule": {
+        "kind": "cron",
+        "expr": "6 9 * * 0",
+        "display": "6 9 * * 0"
+      },
+      "schedule_display": "6 9 * * 0",
+      "repeat": {
+        "times": null,
+        "completed": 2
+      },
+      "enabled": true,
+      "state": "scheduled",
+      "paused_at": null,
+      "paused_reason": null,
+      "created_at": "2026-05-18T15:51:45.421548+01:00",
+      "next_run_at": "2026-06-07T09:06:00+01:00",
+      "last_run_at": "2026-05-31T09:06:45.816099+01:00",
+      "last_status": "ok",
+      "last_error": null,
+      "last_delivery_error": null,
+      "deliver": "local",
+      "origin": {
+        "platform": "telegram",
+        "chat_id": "-1003784520976",
+        "chat_name": "Agent Hermes",
+        "thread_id": "2"
+      },
+      "enabled_toolsets": null,
+      "workdir": null
+    },
+    {
+      "id": "4f60c03655d0",
+      "name": "mum-health-weekly-review",
+      "prompt": "You are the weekly health reviewer for Comfort Blankson (age 91, elderly care). Today is Sunday.\n\nTASK:\n1. Read the mum health log files for the past week (CARE_LOG_COMFORT_2026-05.md)\n2. Analyze trends, red flags, and patterns\n3. Use send_message to post the weekly report to telegram:-1003784520976:4\n\nReport format:\n\ud83d\udcca Mum's Weekly Health Review \u2014 [date range]\n\ud83d\udd34 Red Flags / \ud83d\udfe1 Watch / \ud83d\udfe2 Good\n\ud83d\udcc8 Trends summary\n\ud83d\udca1 Recommendations\n\nKeep it concise and actionable.",
+      "skills": [],
+      "skill": null,
+      "model": null,
+      "provider": null,
+      "base_url": null,
+      "script": null,
+      "no_agent": false,
+      "context_from": null,
+      "schedule": {
+        "kind": "cron",
+        "expr": "6 9 * * 0",
+        "display": "6 9 * * 0"
+      },
+      "schedule_display": "6 9 * * 0",
+      "repeat": {
+        "times": null,
+        "completed": 2
+      },
+      "enabled": true,
+      "state": "scheduled",
+      "paused_at": null,
+      "paused_reason": null,
+      "created_at": "2026-05-18T15:53:15.449146+01:00",
+      "next_run_at": "2026-06-07T09:06:00+01:00",
+      "last_run_at": "2026-05-31T09:10:11.541782+01:00",
+      "last_status": "ok",
+      "last_error": null,
+      "last_delivery_error": null,
+      "deliver": "local",
+      "origin": {
+        "platform": "telegram",
+        "chat_id": "-1003784520976",
+        "chat_name": "Agent Hermes",
+        "thread_id": "4"
+      },
+      "enabled_toolsets": [
+        "terminal",
+        "file"
+      ],
+      "workdir": null
+    },
+    {
+      "id": "c9637a3c5a4f",
+      "name": "daily-system-briefing",
+      "prompt": "Generate the comprehensive daily briefing. Read the latest health logs, business updates, and system status. Post the briefing to the Telegram briefing topic. Include: system health summary, cron SLA stats, key issues, and today's priorities.",
+      "skills": [],
+      "skill": null,
+      "model": null,
+      "provider": null,
+      "base_url": null,
+      "script": null,
+      "no_agent": false,
+      "context_from": null,
+      "schedule": {
+        "kind": "cron",
+        "expr": "36 6 * * *",
+        "display": "36 6 * * *"
+      },
+      "schedule_display": "36 6 * * *",
+      "repeat": {
+        "times": null,
+        "completed": 12
+      },
+      "enabled": true,
+      "state": "scheduled",
+      "paused_at": null,
+      "paused_reason": null,
+      "created_at": "2026-05-18T16:04:30.109759+01:00",
+      "next_run_at": "2026-06-01T06:36:00+01:00",
+      "last_run_at": "2026-05-31T06:40:19.277918+01:00",
+      "last_status": "ok",
+      "last_error": null,
+      "last_delivery_error": null,
+      "deliver": "origin",
+      "origin": {
+        "platform": "telegram",
+        "chat_id": "-1003784520976",
+        "chat_name": "Agent Hermes",
+        "thread_id": "20"
+      },
+      "enabled_toolsets": null,
+      "workdir": null
+    },
+    {
+      "id": "34314e3e73f8",
+      "name": "integrated-daily-synthesis",
+      "prompt": "Compile the integrated daily synthesis for today. Read health logs (H + Comfort), business checkins, and cron output files from the past 24 hours. Produce a structured synthesis covering: Health status, Business operations, Team status, Security posture, System health. Save to memories/insights/INTEGRATED_INSIGHTS_[DATE].md. Post summary to Telegram briefing topic.",
+      "skills": [],
+      "skill": null,
+      "model": null,
+      "provider": null,
+      "base_url": null,
+      "script": null,
+      "no_agent": false,
+      "context_from": null,
+      "schedule": {
+        "kind": "cron",
+        "expr": "5 22 * * *",
+        "display": "5 22 * * *"
+      },
+      "schedule_display": "5 22 * * *",
+      "repeat": {
+        "times": null,
+        "completed": 9
+      },
+      "enabled": true,
+      "state": "scheduled",
+      "paused_at": null,
+      "paused_reason": null,
+      "created_at": "2026-05-18T16:04:31.115053+01:00",
+      "next_run_at": "2026-06-01T22:05:00+01:00",
+      "last_run_at": "2026-05-29T22:17:16.984978+01:00",
+      "last_status": "ok",
+      "last_error": null,
+      "last_delivery_error": null,
+      "deliver": "origin",
+      "origin": {
+        "platform": "telegram",
+        "chat_id": "-1003784520976",
+        "chat_name": "Agent Hermes",
+        "thread_id": "20"
+      },
+      "enabled_toolsets": null,
+      "workdir": null
+    },
+    {
+      "id": "b4a906824d34",
+      "name": "weekly-learning-review",
+      "prompt": "Compile the weekly learning and insights from the past 7 days. Read all INTEGRATED_INSIGHTS files from this week. Identify patterns, key learnings, and actionable improvements. Save to memories/insights/WEEKLY_LEARNING_[DATE].md. Post summary to Telegram.",
+      "skills": [],
+      "skill": null,
+      "model": null,
+      "provider": null,
+      "base_url": null,
+      "script": null,
+      "no_agent": false,
+      "context_from": null,
+      "schedule": {
+        "kind": "cron",
+        "expr": "13 9 * * 1",
+        "display": "13 9 * * 1"
+      },
+      "schedule_display": "13 9 * * 1",
+      "repeat": {
+        "times": null,
+        "completed": 0
+      },
+      "enabled": true,
+      "state": "scheduled",
+      "paused_at": null,
+      "paused_reason": null,
+      "created_at": "2026-05-18T16:04:32.129557+01:00",
+      "next_run_at": "2026-06-01T09:13:00+01:00",
+      "last_run_at": null,
+      "last_status": null,
+      "last_error": null,
+      "last_delivery_error": null,
+      "deliver": "origin",
+      "origin": {
+        "platform": "telegram",
+        "chat_id": "-1003784520976",
+        "chat_name": "Agent Hermes",
+        "thread_id": "20"
+      },
+      "enabled_toolsets": null,
+      "workdir": null
+    },
+    {
+      "id": "c5954efa099a",
+      "name": "monthly-evolution",
+      "prompt": "Synthesize all WEEKLY_ANALYSIS files from the past month to document the system's macro-evolution. Identify trends, improvements, and persistent issues. Save to memories/insights/MONTHLY_EVOLUTION_[MONTH].md. Post summary to Telegram briefing topic.",
+      "skills": [],
+      "skill": null,
+      "model": null,
+      "provider": null,
+      "base_url": null,
+      "script": null,
+      "no_agent": false,
+      "context_from": null,
+      "schedule": {
+        "kind": "cron",
+        "expr": "21 9 1 * *",
+        "display": "21 9 1 * *"
+      },
+      "schedule_display": "21 9 1 * *",
+      "repeat": {
+        "times": null,
+        "completed": 0
+      },
+      "enabled": true,
+      "state": "scheduled",
+      "paused_at": null,
+      "paused_reason": null,
+      "created_at": "2026-05-18T16:04:33.145830+01:00",
+      "next_run_at": "2026-06-01T09:21:00+01:00",
+      "last_run_at": null,
+      "last_status": null,
+      "last_error": null,
+      "last_delivery_error": null,
+      "deliver": "origin",
+      "origin": {
+        "platform": "telegram",
+        "chat_id": "-1003784520976",
+        "chat_name": "Agent Hermes",
+        "thread_id": "20"
+      },
+      "enabled_toolsets": null,
+      "workdir": null
+    },
+    {
+      "id": "107dd784fe1f",
+      "name": "ghana-dashboard-inquiry",
+      "prompt": "Check the Ghana supplier dashboard for any pending inquiries or follow-ups needed. Review GHANA_SUPPLIER_RESEARCH.md for next uncontacted supplier. Prepare inquiry message. Post status to Telegram.",
+      "skills": [],
+      "skill": null,
+      "model": null,
+      "provider": null,
+      "base_url": null,
+      "script": null,
+      "no_agent": false,
+      "context_from": null,
+      "schedule": {
+        "kind": "cron",
+        "expr": "16 9 * * 1-6",
+        "display": "16 9 * * 1-6"
+      },
+      "schedule_display": "16 9 * * 1-6",
+      "repeat": {
+        "times": null,
+        "completed": 8
+      },
+      "enabled": true,
+      "state": "scheduled",
+      "paused_at": null,
+      "paused_reason": null,
+      "created_at": "2026-05-18T16:04:34.154426+01:00",
+      "next_run_at": "2026-06-01T09:16:00+01:00",
+      "last_run_at": "2026-05-30T09:20:41.779634+01:00",
+      "last_status": "ok",
+      "last_error": null,
+      "last_delivery_error": null,
+      "deliver": "origin",
+      "origin": {
+        "platform": "telegram",
+        "chat_id": "-1003784520976",
+        "chat_name": "Agent Hermes",
+        "thread_id": "20"
+      },
+      "enabled_toolsets": null,
+      "workdir": null
+    },
+    {
+      "id": "73f447bae072",
+      "name": "security-policy-check",
+      "prompt": "Perform internal system audit. Check for exposed credentials, verify channel integrity, review recent security events. Alert on any FAIL items. Save report to memories/security/SECURITY_AUDIT_[DATE].md. Post summary to Telegram.",
+      "skills": [],
+      "skill": null,
+      "model": null,
+      "provider": null,
+      "base_url": null,
+      "script": null,
+      "no_agent": false,
+      "context_from": null,
+      "schedule": {
+        "kind": "cron",
+        "expr": "4 */6 * * *",
+        "display": "4 */6 * * *"
+      },
+      "schedule_display": "4 */6 * * *",
+      "repeat": {
+        "times": null,
+        "completed": 36
+      },
+      "enabled": true,
+      "state": "scheduled",
+      "paused_at": null,
+      "paused_reason": null,
+      "created_at": "2026-05-18T16:04:35.172374+01:00",
+      "next_run_at": "2026-06-01T00:04:00+01:00",
+      "last_run_at": "2026-05-31T12:04:36.054485+01:00",
+      "last_status": "error",
+      "last_error": "RuntimeError: Connection error.",
+      "last_delivery_error": "delivery error: Telegram send failed: httpx.ConnectError: [Errno 11001] getaddrinfo failed",
+      "deliver": "origin",
+      "origin": {
+        "platform": "telegram",
+        "chat_id": "-1003784520976",
+        "chat_name": "Agent Hermes",
+        "thread_id": "20"
+      },
+      "enabled_toolsets": null,
+      "workdir": null
+    },
+    {
+      "id": "fa9c71b31245",
+      "name": "friday-content-2real",
+      "prompt": "Generate a 7-day social media and warehouse update plan for 2Real Shop. Check inventory status, recent sales, and upcoming promotions. Save content plan to content-output/. Post summary to Telegram content topic.",
+      "skills": [],
+      "skill": null,
+      "model": null,
+      "provider": null,
+      "base_url": null,
+      "script": null,
+      "no_agent": false,
+      "context_from": null,
+      "schedule": {
+        "kind": "cron",
+        "expr": "15 9 * * 5",
+        "display": "15 9 * * 5"
+      },
+      "schedule_display": "15 9 * * 5",
+      "repeat": {
+        "times": null,
+        "completed": 1
+      },
+      "enabled": true,
+      "state": "scheduled",
+      "paused_at": null,
+      "paused_reason": null,
+      "created_at": "2026-05-18T16:04:36.189939+01:00",
+      "next_run_at": "2026-06-05T09:15:00+01:00",
+      "last_run_at": "2026-05-29T09:24:31.073883+01:00",
+      "last_status": "ok",
+      "last_error": null,
+      "last_delivery_error": null,
+      "deliver": "origin",
+      "origin": {
+        "platform": "telegram",
+        "chat_id": "-1003784520976",
+        "chat_name": "Agent Hermes",
+        "thread_id": "20"
+      },
+      "enabled_toolsets": null,
+      "workdir": null
+    },
+    {
+      "id": "9bd5d475c39c",
+      "name": "daily-backup",
+      "prompt": "Run system backup. Duplicate all critical workspace and memory files to the local backup directory. Verify integrity. Report backup status including file counts and any errors.",
+      "skills": [],
+      "skill": null,
+      "model": null,
+      "provider": null,
+      "base_url": null,
+      "script": null,
+      "no_agent": false,
+      "context_from": null,
+      "schedule": {
+        "kind": "cron",
+        "expr": "3 23 * * *",
+        "display": "3 23 * * *"
+      },
+      "schedule_display": "3 23 * * *",
+      "repeat": {
+        "times": null,
+        "completed": 8
+      },
+      "enabled": true,
+      "state": "scheduled",
+      "paused_at": null,
+      "paused_reason": null,
+      "created_at": "2026-05-18T16:04:37.206280+01:00",
+      "next_run_at": "2026-05-31T23:03:00+01:00",
+      "last_run_at": "2026-05-29T23:09:56.286142+01:00",
+      "last_status": "error",
+      "last_error": "RuntimeError: HTTP 429: Provider returned error",
+      "last_delivery_error": null,
+      "deliver": "origin",
+      "origin": {
+        "platform": "telegram",
+        "chat_id": "-1003784520976",
+        "chat_name": "Agent Hermes",
+        "thread_id": "20"
+      },
+      "enabled_toolsets": null,
+      "workdir": null
+    },
+    {
+      "id": "e0194bbb8309",
+      "name": "cron-status-report",
+      "prompt": "Scan the cron jobs list and last 24 hours of execution logs. Produce the Daily Cron Status Report showing: total jobs, success rate, failed jobs, and any stuck/paused jobs. Post to Telegram jobs topic.",
+      "skills": [],
+      "skill": null,
+      "model": null,
+      "provider": null,
+      "base_url": null,
+      "script": null,
+      "no_agent": false,
+      "context_from": null,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 9 * * *",
+        "display": "0 9 * * *"
+      },
+      "schedule_display": "0 9 * * *",
+      "repeat": {
+        "times": null,
+        "completed": 10
+      },
+      "enabled": true,
+      "state": "scheduled",
+      "paused_at": null,
+      "paused_reason": null,
+      "created_at": "2026-05-18T16:04:38.214248+01:00",
+      "next_run_at": "2026-06-01T09:00:00+01:00",
+      "last_run_at": "2026-05-31T09:05:01.362074+01:00",
+      "last_status": "ok",
+      "last_error": null,
+      "last_delivery_error": null,
+      "deliver": "origin",
+      "origin": {
+        "platform": "telegram",
+        "chat_id": "-1003784520976",
+        "chat_name": "Agent Hermes",
+        "thread_id": "20"
+      },
+      "enabled_toolsets": null,
+      "workdir": null
+    },
+    {
+      "id": "3d0867fe4d38",
+      "name": "github-memory-backup",
+      "prompt": "Synchronize the local memory and configuration folders with the remote GitHub repository. Commit any new or changed files with a descriptive commit message including today's date. Report what was synced.",
+      "skills": [],
+      "skill": null,
+      "model": null,
+      "provider": null,
+      "base_url": null,
+      "script": null,
+      "no_agent": false,
+      "context_from": null,
+      "schedule": {
+        "kind": "cron",
+        "expr": "2 23 * * 0",
+        "display": "2 23 * * 0"
+      },
+      "schedule_display": "2 23 * * 0",
+      "repeat": {
+        "times": null,
+        "completed": 0
+      },
+      "enabled": true,
+      "state": "scheduled",
+      "paused_at": null,
+      "paused_reason": null,
+      "created_at": "2026-05-18T16:04:39.222887+01:00",
+      "next_run_at": "2026-06-07T23:02:00+01:00",
+      "last_run_at": null,
+      "last_status": null,
+      "last_error": null,
+      "last_delivery_error": null,
+      "deliver": "origin",
+      "origin": {
+        "platform": "telegram",
+        "chat_id": "-1003784520976",
+        "chat_name": "Agent Hermes",
+        "thread_id": "20"
+      },
+      "enabled_toolsets": null,
+      "workdir": null
+    },
+    {
+      "id": "3534ca8a8925",
+      "name": "nightly-consolidation",
+      "prompt": "Process all daily session logs from the past 24 hours. Update master intelligence files. Consolidate memory entries and archive old session data. Report what was processed and any issues found.",
+      "skills": [],
+      "skill": null,
+      "model": null,
+      "provider": null,
+      "base_url": null,
+      "script": null,
+      "no_agent": false,
+      "context_from": null,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 3 * * *",
+        "display": "0 3 * * *"
+      },
+      "schedule_display": "0 3 * * *",
+      "repeat": {
+        "times": null,
+        "completed": 10
+      },
+      "enabled": true,
+      "state": "scheduled",
+      "paused_at": null,
+      "paused_reason": null,
+      "created_at": "2026-05-18T16:04:40.238895+01:00",
+      "next_run_at": "2026-06-01T03:00:00+01:00",
+      "last_run_at": "2026-05-31T03:38:45.667221+01:00",
+      "last_status": "error",
+      "last_error": "RuntimeError: Connection error.",
+      "last_delivery_error": "delivery error: Telegram send failed: httpx.ConnectError: [Errno 11001] getaddrinfo failed",
+      "deliver": "origin",
+      "origin": {
+        "platform": "telegram",
+        "chat_id": "-1003784520976",
+        "chat_name": "Agent Hermes",
+        "thread_id": "20"
+      },
+      "enabled_toolsets": null,
+      "workdir": null
+    },
+    {
+      "id": "c4ae96f821b1",
+      "name": "job-applications-check",
+      "prompt": "Check for new job applications. Review candidate pipeline and filter applicants based on criteria. Update recruitment tracking. Post summary of new applications and pipeline status to Telegram.",
+      "skills": [],
+      "skill": null,
+      "model": null,
+      "provider": null,
+      "base_url": null,
+      "script": null,
+      "no_agent": false,
+      "context_from": null,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 8 * * *",
+        "display": "0 8 * * *"
+      },
+      "schedule_display": "0 8 * * *",
+      "repeat": {
+        "times": null,
+        "completed": 10
+      },
+      "enabled": true,
+      "state": "scheduled",
+      "paused_at": null,
+      "paused_reason": null,
+      "created_at": "2026-05-18T16:04:41.254911+01:00",
+      "next_run_at": "2026-06-01T08:00:00+01:00",
+      "last_run_at": "2026-05-31T08:10:22.609628+01:00",
+      "last_status": "ok",
+      "last_error": null,
+      "last_delivery_error": null,
+      "deliver": "origin",
+      "origin": {
+        "platform": "telegram",
+        "chat_id": "-1003784520976",
+        "chat_name": "Agent Hermes",
+        "thread_id": "20"
+      },
+      "enabled_toolsets": null,
+      "workdir": null
+    },
+    {
+      "id": "14629d723adc",
+      "name": "health-analysis-weekly",
+      "prompt": "Compile the weekly health analysis from daily logs for both H and Comfort. Analyze trends, red flags, and patterns.\n\nTASK:\n1. Read H's health log (HEALTH_LOG_2026-05.md) and Comfort's care log (CARE_LOG_COMFORT_2026-05.md) for the past week\n2. Analyze trends, red flags, and patterns for both\n3. Use send_message to post the report to telegram:-1003784520976:4\n\nReport format:\n\ud83d\udcca Weekly Health Analysis \u2014 [date range]\n\n**H (Oman):**\n\ud83d\udd34 Red Flags / \ud83d\udfe1 Watch / \ud83d\udfe2 Good\n\ud83d\udcc8 Trends\n\n**Comfort (Mum):**\n\ud83d\udd34 Red Flags / \ud83d\udfe1 Watch / \ud83d\udfe2 Good\n\ud83d\udcc8 Trends\n\n\ud83d\udca1 Recommendations: (1-3 actionable items)\n\nKeep it concise and actionable.",
+      "skills": [],
+      "skill": null,
+      "model": null,
+      "provider": null,
+      "base_url": null,
+      "script": null,
+      "no_agent": false,
+      "context_from": null,
+      "schedule": {
+        "kind": "cron",
+        "expr": "6 9 * * 0",
+        "display": "6 9 * * 0"
+      },
+      "schedule_display": "6 9 * * 0",
+      "repeat": {
+        "times": null,
+        "completed": 2
+      },
+      "enabled": true,
+      "state": "scheduled",
+      "paused_at": null,
+      "paused_reason": null,
+      "created_at": "2026-05-18T16:04:42.272221+01:00",
+      "next_run_at": "2026-06-07T09:06:00+01:00",
+      "last_run_at": "2026-05-31T09:07:26.081270+01:00",
+      "last_status": "ok",
+      "last_error": null,
+      "last_delivery_error": null,
+      "deliver": "local",
+      "origin": {
+        "platform": "telegram",
+        "chat_id": "-1003784520976",
+        "chat_name": "Agent Hermes",
+        "thread_id": "20"
+      },
+      "enabled_toolsets": null,
+      "workdir": null
+    },
+    {
+      "id": "9c62d01928a7",
+      "name": "checkin-mum",
+      "prompt": "Send a check-in message to Mum (Comfort Blankson, +233 20 425 4902) on WhatsApp. Ask about her health, mood, and any needs. Keep it warm and caring. Log the interaction. If WhatsApp is unavailable, report the failure.",
+      "skills": [],
+      "skill": null,
+      "model": null,
+      "provider": null,
+      "base_url": null,
+      "script": null,
+      "no_agent": false,
+      "context_from": null,
+      "schedule": {
+        "kind": "cron",
+        "expr": "18 10 * * 0,3",
+        "display": "18 10 * * 0,3"
+      },
+      "schedule_display": "18 10 * * 0,3",
+      "repeat": {
+        "times": null,
+        "completed": 4
+      },
+      "enabled": true,
+      "state": "scheduled",
+      "paused_at": null,
+      "paused_reason": null,
+      "created_at": "2026-05-18T16:05:55.464908+01:00",
+      "next_run_at": "2026-06-03T10:18:00+01:00",
+      "last_run_at": "2026-05-31T10:18:13.732359+01:00",
+      "last_status": "error",
+      "last_error": "RuntimeError: Connection error.",
+      "last_delivery_error": "delivery error: Telegram send failed: httpx.ConnectError: [Errno 11001] getaddrinfo failed",
+      "deliver": "origin",
+      "origin": {
+        "platform": "telegram",
+        "chat_id": "-1003784520976",
+        "chat_name": "Agent Hermes",
+        "thread_id": "20"
+      },
+      "enabled_toolsets": null,
+      "workdir": null
+    },
+    {
+      "id": "b1ca57394f12",
+      "name": "checkin-dad",
+      "prompt": "Send a check-in message to Dad on WhatsApp (+447...). Ask about his health, mobility, and any needs. Keep it warm and caring. Log the interaction. If WhatsApp is unavailable, report the failure.",
+      "skills": [],
+      "skill": null,
+      "model": null,
+      "provider": null,
+      "base_url": null,
+      "script": null,
+      "no_agent": false,
+      "context_from": null,
+      "schedule": {
+        "kind": "cron",
+        "expr": "4 10 * * 0,4",
+        "display": "4 10 * * 0,4"
+      },
+      "schedule_display": "4 10 * * 0,4",
+      "repeat": {
+        "times": null,
+        "completed": 4
+      },
+      "enabled": true,
+      "state": "scheduled",
+      "paused_at": null,
+      "paused_reason": null,
+      "created_at": "2026-05-18T16:05:56.471543+01:00",
+      "next_run_at": "2026-06-04T10:04:00+01:00",
+      "last_run_at": "2026-05-31T10:05:18.786820+01:00",
+      "last_status": "ok",
+      "last_error": null,
+      "last_delivery_error": null,
+      "deliver": "origin",
+      "origin": {
+        "platform": "telegram",
+        "chat_id": "-1003784520976",
+        "chat_name": "Agent Hermes",
+        "thread_id": "20"
+      },
+      "enabled_toolsets": null,
+      "workdir": null
+    },
+    {
+      "id": "4a2530da7651",
+      "name": "kanzoni-tuesday-check",
+      "prompt": "Send the Tuesday morning check-in to Kanzoni via WhatsApp. Ask how things are going. Log the interaction.",
+      "skills": [],
+      "skill": null,
+      "model": null,
+      "provider": null,
+      "base_url": null,
+      "script": null,
+      "no_agent": false,
+      "context_from": null,
+      "schedule": {
+        "kind": "cron",
+        "expr": "7 7 * * 2",
+        "display": "7 7 * * 2"
+      },
+      "schedule_display": "7 7 * * 2",
+      "repeat": {
+        "times": null,
+        "completed": 1
+      },
+      "enabled": true,
+      "state": "scheduled",
+      "paused_at": null,
+      "paused_reason": null,
+      "created_at": "2026-05-18T16:05:57.489216+01:00",
+      "next_run_at": "2026-06-02T07:07:00+01:00",
+      "last_run_at": "2026-05-19T07:17:57.762397+01:00",
+      "last_status": "ok",
+      "last_error": null,
+      "last_delivery_error": null,
+      "deliver": "origin",
+      "origin": {
+        "platform": "telegram",
+        "chat_id": "-1003784520976",
+        "chat_name": "Agent Hermes",
+        "thread_id": "20"
+      },
+      "enabled_toolsets": null,
+      "workdir": null
+    },
+    {
+      "id": "6601bf5735fe",
+      "name": "sammy-morning-check",
+      "prompt": "Send the morning business inquiry to Sammy via WhatsApp. Check on store status, sales, and any issues. Log the interaction.",
+      "skills": [],
+      "skill": null,
+      "model": null,
+      "provider": null,
+      "base_url": null,
+      "script": null,
+      "no_agent": false,
+      "context_from": null,
+      "schedule": {
+        "kind": "cron",
+        "expr": "2 7 * * 1-6",
+        "display": "2 7 * * 1-6"
+      },
+      "schedule_display": "2 7 * * 1-6",
+      "repeat": {
+        "times": null,
+        "completed": 9
+      },
+      "enabled": true,
+      "state": "scheduled",
+      "paused_at": null,
+      "paused_reason": null,
+      "created_at": "2026-05-18T16:05:58.506258+01:00",
+      "next_run_at": "2026-06-01T07:02:00+01:00",
+      "last_run_at": "2026-05-30T07:08:06.433772+01:00",
+      "last_status": "ok",
+      "last_error": null,
+      "last_delivery_error": null,
+      "deliver": "origin",
+      "origin": {
+        "platform": "telegram",
+        "chat_id": "-1003784520976",
+        "chat_name": "Agent Hermes",
+        "thread_id": "20"
+      },
+      "enabled_toolsets": null,
+      "workdir": null
+    },
+    {
+      "id": "ad0184533a85",
+      "name": "john-field-check",
+      "prompt": "Send the morning check-in to John via WhatsApp. Check on school partnerships, Jiji listings, and Zobase updates. Log the interaction.",
+      "skills": [],
+      "skill": null,
+      "model": null,
+      "provider": null,
+      "base_url": null,
+      "script": null,
+      "no_agent": false,
+      "context_from": null,
+      "schedule": {
+        "kind": "cron",
+        "expr": "2 8 * * 1-5",
+        "display": "2 8 * * 1-5"
+      },
+      "schedule_display": "2 8 * * 1-5",
+      "repeat": {
+        "times": null,
+        "completed": 6
+      },
+      "enabled": true,
+      "state": "scheduled",
+      "paused_at": null,
+      "paused_reason": null,
+      "created_at": "2026-05-18T16:05:59.523490+01:00",
+      "next_run_at": "2026-06-01T08:02:00+01:00",
+      "last_run_at": "2026-05-29T08:16:11.250635+01:00",
+      "last_status": "ok",
+      "last_error": null,
+      "last_delivery_error": null,
+      "deliver": "origin",
+      "origin": {
+        "platform": "telegram",
+        "chat_id": "-1003784520976",
+        "chat_name": "Agent Hermes",
+        "thread_id": "20"
+      },
+      "enabled_toolsets": null,
+      "workdir": null
+    },
+    {
+      "id": "43a5af4a446d",
+      "name": "ebony-goodnight",
+      "prompt": "Send a warm goodnight message to Ebony (wife) on WhatsApp. Keep it personal and loving. Log the interaction.",
+      "skills": [],
+      "skill": null,
+      "model": null,
+      "provider": null,
+      "base_url": null,
+      "script": null,
+      "no_agent": false,
+      "context_from": null,
+      "schedule": {
+        "kind": "cron",
+        "expr": "4 22 * * *",
+        "display": "4 22 * * *"
+      },
+      "schedule_display": "4 22 * * *",
+      "repeat": {
+        "times": null,
+        "completed": 10
+      },
+      "enabled": true,
+      "state": "scheduled",
+      "paused_at": null,
+      "paused_reason": null,
+      "created_at": "2026-05-18T16:06:00.540922+01:00",
+      "next_run_at": "2026-06-01T22:04:00+01:00",
+      "last_run_at": "2026-05-31T22:05:09.934971+01:00",
+      "last_status": "ok",
+      "last_error": null,
+      "last_delivery_error": null,
+      "deliver": "origin",
+      "origin": {
+        "platform": "telegram",
+        "chat_id": "-1003784520976",
+        "chat_name": "Agent Hermes",
+        "thread_id": "20"
+      },
+      "enabled_toolsets": null,
+      "workdir": null
+    },
+    {
+      "id": "e2b5e40c70fb",
+      "name": "janet-friday-checkin",
+      "prompt": "Send the Friday evening check-in to Janet on WhatsApp. Warm and playful tone. See how she is doing. Log the interaction.",
+      "skills": [],
+      "skill": null,
+      "model": null,
+      "provider": null,
+      "base_url": null,
+      "script": null,
+      "no_agent": false,
+      "context_from": null,
+      "schedule": {
+        "kind": "cron",
+        "expr": "32 20 * * 5",
+        "display": "32 20 * * 5"
+      },
+      "schedule_display": "32 20 * * 5",
+      "repeat": {
+        "times": null,
+        "completed": 2
+      },
+      "enabled": true,
+      "state": "scheduled",
+      "paused_at": null,
+      "paused_reason": null,
+      "created_at": "2026-05-18T16:06:01.558324+01:00",
+      "next_run_at": "2026-06-05T20:32:00+01:00",
+      "last_run_at": "2026-05-29T20:36:24.010741+01:00",
+      "last_status": "error",
+      "last_error": "RuntimeError: HTTP 429: Provider returned error",
+      "last_delivery_error": null,
+      "deliver": "origin",
+      "origin": {
+        "platform": "telegram",
+        "chat_id": "-1003784520976",
+        "chat_name": "Agent Hermes",
+        "thread_id": "20"
+      },
+      "enabled_toolsets": null,
+      "workdir": null
+    },
+    {
+      "id": "46bdb084c174",
+      "name": "jnr-payment-reminder",
+      "prompt": "Send a payment reminder to Jnr via WhatsApp. Remind him about the outstanding payment. Keep it professional. Log the interaction.",
+      "skills": [],
+      "skill": null,
+      "model": null,
+      "provider": null,
+      "base_url": null,
+      "script": null,
+      "no_agent": false,
+      "context_from": null,
+      "schedule": {
+        "kind": "cron",
+        "expr": "5 10 */3 * *",
+        "display": "5 10 */3 * *"
+      },
+      "schedule_display": "5 10 */3 * *",
+      "repeat": {
+        "times": null,
+        "completed": 3
+      },
+      "enabled": true,
+      "state": "scheduled",
+      "paused_at": null,
+      "paused_reason": null,
+      "created_at": "2026-05-18T16:06:02.576888+01:00",
+      "next_run_at": "2026-06-01T10:05:00+01:00",
+      "last_run_at": "2026-05-31T10:07:01.642871+01:00",
+      "last_status": "ok",
+      "last_error": null,
+      "last_delivery_error": null,
+      "deliver": "origin",
+      "origin": {
+        "platform": "telegram",
+        "chat_id": "-1003784520976",
+        "chat_name": "Agent Hermes",
+        "thread_id": "20"
+      },
+      "enabled_toolsets": null,
+      "workdir": null
+    },
+    {
+      "id": "6b46477e2dae",
+      "name": "dad-health-morning",
+      "prompt": "You are the morning care check-in for Robert Herbert-Blankson (age 92, H's dad, UK).\n\nTASK:\n1. Use send_message to post a health check-in prompt to telegram:-1003784520976:1\n\nAsk about:\n\u2022 Breakfast \u2014 has he eaten? What?\n\u2022 Morning medications?\n\u2022 Any pain, discomfort, or issues?\n\u2022 Energy and mood this morning\n\u2022 Mobility \u2014 any changes?\n\nKeep it warm, respectful, and concise.",
+      "skills": [
+        "elder-care-dad"
+      ],
+      "skill": "elder-care-dad",
+      "model": null,
+      "provider": null,
+      "base_url": null,
+      "script": null,
+      "no_agent": false,
+      "context_from": null,
+      "schedule": {
+        "kind": "cron",
+        "expr": "7 8 * * *",
+        "display": "7 8 * * *"
+      },
+      "schedule_display": "7 8 * * *",
+      "repeat": {
+        "times": null,
+        "completed": 10
+      },
+      "enabled": true,
+      "state": "scheduled",
+      "paused_at": null,
+      "paused_reason": null,
+      "created_at": "2026-05-19T04:37:13.249795+01:00",
+      "next_run_at": "2026-06-01T08:07:00+01:00",
+      "last_run_at": "2026-05-31T08:11:54.873000+01:00",
+      "last_status": "ok",
+      "last_error": null,
+      "last_delivery_error": null,
+      "deliver": "local",
+      "origin": {
+        "platform": "telegram",
+        "chat_id": "-1003784520976",
+        "chat_name": "Agent Hermes",
+        "thread_id": "16"
+      },
+      "enabled_toolsets": null,
+      "workdir": null
+    },
+    {
+      "id": "8b04e14f2ded",
+      "name": "dad-health-afternoon",
+      "prompt": "You are the afternoon care check-in for Robert Herbert-Blankson (age 92, H's dad, UK).\n\nTASK:\n1. Use send_message to post a health check-in prompt to telegram:-1003784520976:1\n\nAsk about:\n\u2022 Lunch \u2014 has he eaten? What?\n\u2022 Afternoon medications?\n\u2022 Any pain, discomfort, or issues?\n\u2022 Energy and mood\n\u2022 Any incidents or concerns since morning?\n\nKeep it warm, respectful, and concise.",
+      "skills": [
+        "elder-care-dad"
+      ],
+      "skill": "elder-care-dad",
+      "model": null,
+      "provider": null,
+      "base_url": null,
+      "script": null,
+      "no_agent": false,
+      "context_from": null,
+      "schedule": {
+        "kind": "cron",
+        "expr": "30 13 * * *",
+        "display": "30 13 * * *"
+      },
+      "schedule_display": "30 13 * * *",
+      "repeat": {
+        "times": null,
+        "completed": 10
+      },
+      "enabled": true,
+      "state": "scheduled",
+      "paused_at": null,
+      "paused_reason": null,
+      "created_at": "2026-05-19T04:37:14.257717+01:00",
+      "next_run_at": "2026-06-01T13:30:00+01:00",
+      "last_run_at": "2026-05-31T13:30:57.340799+01:00",
+      "last_status": "error",
+      "last_error": "RuntimeError: Connection error.",
+      "last_delivery_error": null,
+      "deliver": "local",
+      "origin": {
+        "platform": "telegram",
+        "chat_id": "-1003784520976",
+        "chat_name": "Agent Hermes",
+        "thread_id": "16"
+      },
+      "enabled_toolsets": null,
+      "workdir": null
+    },
+    {
+      "id": "d9aa7fcfaaea",
+      "name": "dad-health-evening",
+      "prompt": "You are the evening care check-in for Robert Herbert-Blankson (age 92, H's dad, UK).\n\nTASK:\n1. Use send_message to post a health check-in prompt to telegram:-1003784520976:1\n\nAsk about:\n\u2022 Evening meals and drinks\n\u2022 Any pain, discomfort, or issues today\n\u2022 Mobility and activity level\n\u2022 Energy and mood\n\u2022 Medications taken\n\u2022 How he's feeling overall\n\nKeep it warm, respectful, and concise.",
+      "skills": [
+        "elder-care-dad"
+      ],
+      "skill": "elder-care-dad",
+      "model": null,
+      "provider": null,
+      "base_url": null,
+      "script": null,
+      "no_agent": false,
+      "context_from": null,
+      "schedule": {
+        "kind": "cron",
+        "expr": "30 19 * * *",
+        "display": "30 19 * * *"
+      },
+      "schedule_display": "30 19 * * *",
+      "repeat": {
+        "times": null,
+        "completed": 10
+      },
+      "enabled": true,
+      "state": "scheduled",
+      "paused_at": null,
+      "paused_reason": null,
+      "created_at": "2026-05-19T04:37:15.274389+01:00",
+      "next_run_at": "2026-06-01T19:30:00+01:00",
+      "last_run_at": "2026-05-31T20:13:46.315900+01:00",
+      "last_status": "error",
+      "last_error": "RuntimeError: Connection error.",
+      "last_delivery_error": null,
+      "deliver": "local",
+      "origin": {
+        "platform": "telegram",
+        "chat_id": "-1003784520976",
+        "chat_name": "Agent Hermes",
+        "thread_id": "16"
+      },
+      "enabled_toolsets": null,
+      "workdir": null
+    },
+    {
+      "id": "4f3e7b73e103",
+      "name": "dad-health-weekly-review",
+      "prompt": "You are the weekly health reviewer for Robert Herbert-Blankson (age 92, H's dad, UK). Today is Sunday.\n\nTASK:\n1. Read the dad health log files for the past week\n2. Analyze trends, red flags, and patterns\n3. Use send_message to post the weekly report to telegram:-1003784520976:1\n\nReport format:\n\ud83d\udcca Dad's Weekly Health Review \u2014 [date range]\n\ud83d\udd34 Red Flags / \ud83d\udfe1 Watch / \ud83d\udfe2 Good\n\ud83d\udcc8 Trends summary\n\ud83d\udca1 Recommendations\n\nKeep it concise and actionable.",
+      "skills": [
+        "elder-care-dad"
+      ],
+      "skill": "elder-care-dad",
+      "model": null,
+      "provider": null,
+      "base_url": null,
+      "script": null,
+      "no_agent": false,
+      "context_from": null,
+      "schedule": {
+        "kind": "cron",
+        "expr": "30 9 * * 0",
+        "display": "30 9 * * 0"
+      },
+      "schedule_display": "30 9 * * 0",
+      "repeat": {
+        "times": null,
+        "completed": 2
+      },
+      "enabled": true,
+      "state": "scheduled",
+      "paused_at": null,
+      "paused_reason": null,
+      "created_at": "2026-05-19T04:37:16.290803+01:00",
+      "next_run_at": "2026-06-07T09:30:00+01:00",
+      "last_run_at": "2026-05-31T09:30:35.722821+01:00",
+      "last_status": "error",
+      "last_error": "RuntimeError: Connection error.",
+      "last_delivery_error": null,
+      "deliver": "local",
+      "origin": {
+        "platform": "telegram",
+        "chat_id": "-1003784520976",
+        "chat_name": "Agent Hermes",
+        "thread_id": "16"
+      },
+      "enabled_toolsets": null,
+      "workdir": null
+    },
+    {
+      "id": "daa9496b4f7c",
+      "name": "Morning Priority Check-in",
+      "prompt": "It's your morning check-in with H (Oman Herbert Blankson). Do the following:\n\n1. Send H a direct message asking: \"Good morning H \u2014 what's your number one priority for today?\" Wait for his response.\n\n2. Once he replies, analyze his priority and come up with 3-5 specific, actionable tasks you can do to help him with that priority. Consider his current context:\n   - He's based in Accra, Ghana (moving there permanently)\n   - Businesses: 2Real Enterprises, Akoma Robotics (STEM education), Builders merchant (Zobase POS), Jiji Ghana e-commerce, UK property, Epson printing\n   - Mum (Comfort, 91) \u2014 diabetes, CKD 3b, housebound in Weija\n   - WhatsApp bridge has been down since ~May 18 \u2014 if relevant, flag this\n   - He prefers dead simple step-by-step, one thing at a time\n   - He wants end-to-end operational wiring, not plans\n\n3. Present the tasks to H clearly numbered, and ask which ones he wants you to start on.\n\n4. After H responds and you've agreed on tasks, update memory:\n   - Use memory(action='add', target='user') to save any new preferences, habits, or personal details H reveals\n   - Use memory(action='add', target='memory') to save any new facts about his businesses, projects, or situation\n   - Focus on durable facts that will matter in future sessions (not task progress)\n\nKeep it concise. H doesn't like fluff.",
+      "skills": [],
+      "skill": null,
+      "model": null,
+      "provider": null,
+      "base_url": null,
+      "script": null,
+      "no_agent": false,
+      "context_from": null,
+      "schedule": {
+        "kind": "cron",
+        "expr": "45 6 * * *",
+        "display": "45 6 * * *"
+      },
+      "schedule_display": "45 6 * * *",
+      "repeat": {
+        "times": null,
+        "completed": 8
+      },
+      "enabled": true,
+      "state": "scheduled",
+      "paused_at": null,
+      "paused_reason": null,
+      "created_at": "2026-05-22T22:27:06.582610+01:00",
+      "next_run_at": "2026-06-01T06:45:00+01:00",
+      "last_run_at": "2026-05-31T06:46:01.861794+01:00",
+      "last_status": "ok",
+      "last_error": null,
+      "last_delivery_error": null,
+      "deliver": "origin",
+      "origin": {
+        "platform": "telegram",
+        "chat_id": "-1003784520976",
+        "chat_name": "Agent Hermes",
+        "thread_id": "10"
+      },
+      "enabled_toolsets": null,
+      "workdir": null,
+      "profile": null
+    },
+    {
+      "id": "8311dea3efb2",
+      "name": "Fluid CC Payment Reminder",
+      "prompt": "Send H a WhatsApp reminder message (target: whatsapp, his number +233 20 425 2252) about his Fluid credit card payment. The message should say:\n\n\"\ud83d\udcb3 Fluid CC Payment Reminder\n\nYour Fluid credit card payment is due on the 22nd (in 7 days).\n\nCurrent balance: ~\u00a31800\nMinimum payment: ~\u00a35\n\nTry to pay as much above the minimum as you can to reduce the debt faster. Even an extra \u00a320-50 makes a difference over time.\n\nLet me know if you want me to help you work out a payment plan.\"\n\nKeep it short and direct. H doesn't like fluff.",
+      "skills": [],
+      "skill": null,
+      "model": null,
+      "provider": null,
+      "base_url": null,
+      "script": null,
+      "no_agent": false,
+      "context_from": null,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 10 15 * *",
+        "display": "0 10 15 * *"
+      },
+      "schedule_display": "0 10 15 * *",
+      "repeat": {
+        "times": null,
+        "completed": 0
+      },
+      "enabled": true,
+      "state": "scheduled",
+      "paused_at": null,
+      "paused_reason": null,
+      "created_at": "2026-05-22T22:44:37.315168+01:00",
+      "next_run_at": "2026-06-15T10:00:00+01:00",
+      "last_run_at": null,
+      "last_status": null,
+      "last_error": null,
+      "last_delivery_error": null,
+      "deliver": "origin",
+      "origin": {
+        "platform": "telegram",
+        "chat_id": "-1003784520976",
+        "chat_name": "Agent Hermes",
+        "thread_id": "10"
+      },
+      "enabled_toolsets": null,
+      "workdir": null,
+      "profile": null
+    }
+  ],
+  "updated_at": "2026-05-31T23:02:33.604788+01:00"
+}

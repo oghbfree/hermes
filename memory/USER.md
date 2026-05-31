@@ -1,0 +1,7 @@
+H = Oman Herbert Blankson, born 17/05/1974. Email: paapablankson@gmail.com. WhatsApp: +233 20 425 2252. Ghanaian, London→Accra. Wants end-to-end operational wiring, not plans. "Wire this up" = full pipeline live. Communication: direct, run-on sentences, minimal punctuation, "i" not "I", no fluff. "Formalise" = document. "Tidy up" = structure. "Crunch numbers" = calculate with assumptions. Prefers answers over option lists — default to most practical option and start working. STYLE: Keep responses short and step-by-step. Do not over-explain or provide verbose context. User will ask if they need more detail.
+§
+Kwame Nkrumah quote H lives by: "Forward ever, backward never." Core operating principle: always be learning from past sessions, never forget, never re-teach H the same thing twice. Memory and skills are sacred — use them every session.
+§
+Morning supplement routine (as of May 20): (1) Tincture from G. Baldwin's Health Shop (Warthrode) with small cup of water, (2) Chopped garlic with water 10 min after tincture, (3) Hot water + honey + apple cider vinegar + vitamin C 10 min after garlic.
+§
+Telegram group "Agent Hermes" thread/topic structure: Topic 2 = H's health logs only (H's cron jobs post here). Topic 4 = Mum's health logs only (Mum's cron jobs post there). Never post health logs to wrong topic.

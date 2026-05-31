@@ -1,4 +1,4 @@
-﻿openclaw.json
+openclaw.json
 *.env
 .env*
 memory/vector-flush-tracker.json
@@ -12,3 +12,44 @@ Thumbs.db
 client_secret.json
 
 backups/
+
+# Sensitive credentials
+auth.json
+auth.lock
+google_client_secret.json
+google_token.json
+service-account.json
+
+# Large binary files
+*.xlsx
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.pdf
+*.mp3
+*.mp4
+*.zip
+
+# Runtime/temp
+*.db
+*.db-shm
+*.db-wal
+gateway.lock
+gateway.pid
+node_modules/
+book_pages_enhanced/
+content-assets/
+content-output/
+.archive/
+.obsidian/
+state-snapshots/
+
+# Untitled files
+Untitled*
+
+# Security audit files containing live secrets
+memories/security/
+memory/Security/
+cron/output/
+skills/devops/system-security-audit/references/sample-audit-report.md

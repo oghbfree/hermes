@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>2Real — [PRODUCT NAME]</title>
+<script src="https://cdn.jsdelivr.net/npm/gsap@3.12.5/dist/gsap.min.js"></script>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body { background: #1a1a1a; overflow: hidden; }
+  #stage {
+    width: 1920px;
+    height: 1080px;
+    position: relative;
+    background: linear-gradient(135deg, #1a1a1a 0%, #2d2d2d 50%, #1a1a1a 100%);
+    overflow: hidden;
+  }
+</style>
+</head>
+<body>
+<div id="stage" data-composition-id="root">
+  <!-- Background grid -->
+  <div class="clip" data-start="0" data-duration="8" data-track-index="0"
+       style="position:absolute;width:100%;height:100%;background:repeating-linear-gradient(0deg,transparent,transparent 80px,rgba(76,175,80,0.05) 80px,rgba(76,175,80,0.05) 81px),repeating-linear-gradient(90deg,transparent,transparent 80px,rgba(76,175,80,0.05) 80px,rgba(76,175,80,0.05) 81px);"></div>
+
+  <!-- Brand stripe top -->
+  <div class="clip" data-start="0.2" data-duration="6" data-track-index="1"
+       style="position:absolute;top:0;left:0;width:20px;height:100%;background:linear-gradient(180deg,#4CAF50,#FFC107);"></div>
+
+  <!-- 2Real logo area -->
+  <div class="clip" data-start="0.5" data-duration="0.8" data-track-index="2"
+       style="position:absolute;top:60px;left:80px;">
+    <div style="font-family:'Arial Black',sans-serif;font-size:56px;font-weight:900;color:#4CAF50;line-height:1;">2</div>
+    <div style="font-family:'Arial Black',sans-serif;font-size:32px;font-weight:700;color:#FFC107;margin-top:-8px;">REAL</div>
+    <div style="font-family:Arial,sans-serif;font-size:16px;color:#888;letter-spacing:4px;">ENTERPRISES</div>
+  </div>
+
+  <!-- TITLE — edit per composition -->
+  <div class="clip" data-start="1.5" data-duration="1.0" data-track-index="3"
+       style="position:absolute;top:280px;left:80px;max-width:800px;">
+    <div style="font-family:'Arial Black',sans-serif;font-size:64px;color:#fff;line-height:1.1;">[HEADLINE]</div>
+    <div style="font-family:Arial,sans-serif;font-size:36px;color:#4CAF50;margin-top:10px;">[SUBHEADLINE]</div>
+  </div>
+
+  <!-- CONTENT — edit per composition -->
+  <div class="clip" data-start="3" data-duration="0.8" data-track-index="4"
+       style="position:absolute;top:480px;left:80px;">
+    <div style="font-family:Arial,sans-serif;font-size:24px;color:#ccc;line-height:1.8;">
+      [CONTENT LINES]
+    </div>
+  </div>
+
+  <!-- CTA button area -->
+  <div class="clip" data-start="5" data-duration="0.8" data-track-index="5"
+       style="position:absolute;bottom:120px;left:80px;">
+    <div style="background:#4CAF50;padding:18px 48px;border-radius:8px;display:inline-block;">
+      <span style="font-family:'Arial Black',sans-serif;font-size:28px;color:#fff;">[CTA TEXT]</span>
+    </div>
+  </div>
+
+  <!-- WhatsApp CTA -->
+  <div class="clip" data-start="6" data-duration="0.5" data-track-index="6"
+       style="position:absolute;bottom:60px;left:80px;">
+    <div style="font-family:Arial,sans-serif;font-size:20px;color:#FFC107;">📞 WhatsApp: +233 24 945 6789</div>
+  </div>
+
+  <!-- Product image placeholder area -->
+  <div class="clip" data-start="1" data-duration="1" data-track-index="2"
+       style="position:absolute;right:100px;top:150px;width:700px;height:700px;border:3px solid #4CAF50;border-radius:16px;display:flex;align-items:center;justify-content:center;">
+    <div style="font-family:Arial,sans-serif;font-size:24px;color:#4CAF50;text-align:center;">
+      <div style="font-size:80px;">[PRODUCT EMOJI]</div>
+      <div style="margin-top:10px;">[PRODUCT NAME]</div>
+    </div>
+  </div>
+
+  <!-- Tagline -->
+  <div class="clip" data-start="7" data-duration="0.5" data-track-index="7"
+       style="position:absolute;bottom:60px;right:80px;">
+    <div style="font-family:Arial,sans-serif;font-size:18px;color:#666;letter-spacing:2px;">REAL TOOLS. REAL WORK. REAL GHANA.</div>
+  </div>
+</div>
+
+<script>
+const tl = gsap.timeline({ defaults: { ease: "power2.out" }});
+
+gsap.utils.toArray(".clip").forEach((el, i) => {
+  const start = parseFloat(el.dataset.start) || 0;
+  const dur = parseFloat(el.dataset.duration) || 1;
+  
+  if (i === 0) {
+    gsap.fromTo(el, { opacity: 0 }, { opacity: 1, duration: dur, delay: start });
+    return;
+  }
+  if (i === 1) {
+    gsap.fromTo(el, { scaleY: 0 }, { scaleY: 1, duration: 0.6, delay: start, transformOrigin: "top" });
+    return;
+  }
+  
+  gsap.fromTo(el, 
+    { y: 30, opacity: 0 }, 
+    { y: 0, opacity: 1, duration: Math.min(dur, 0.8), delay: start }
+  );
+});
+
+window.__timelines["root"] = tl;
+</script>
+</body>
+</html>

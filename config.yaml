@@ -1,0 +1,873 @@
+model:
+  default: openrouter/owl-alpha
+providers: {}
+fallback_providers: []
+credential_pool_strategies: {}
+toolsets:
+- hermes-cli
+agent:
+  max_turns: 90
+  gateway_timeout: 1800
+  restart_drain_timeout: 180
+  api_max_retries: 3
+  service_tier: ''
+  tool_use_enforcement: auto
+  task_completion_guidance: true
+  environment_probe: true
+  environment_hint: ''
+  gateway_timeout_warning: 900
+  clarify_timeout: 600
+  gateway_notify_interval: 180
+  gateway_auto_continue_freshness: 3600
+  image_input_mode: auto
+  disabled_toolsets: []
+terminal:
+  backend: local
+  modal_mode: auto
+  cwd: /c/Users/User
+  timeout: 180
+  env_passthrough: []
+  shell_init_files: []
+  auto_source_bashrc: true
+  docker_image: nikolaik/python-nodejs:python3.11-nodejs20
+  docker_forward_env: []
+  docker_env: {}
+  singularity_image: docker://nikolaik/python-nodejs:python3.11-nodejs20
+  modal_image: nikolaik/python-nodejs:python3.11-nodejs20
+  daytona_image: nikolaik/python-nodejs:python3.11-nodejs20
+  container_cpu: 1
+  container_memory: 5120
+  container_disk: 51200
+  container_persistent: true
+  docker_volumes: []
+  docker_mount_cwd_to_workspace: false
+  docker_extra_args: []
+  docker_run_as_host_user: false
+  persistent_shell: true
+  vercel_runtime: node24
+web:
+  backend: ''
+  search_backend: ''
+  extract_backend: ''
+browser:
+  inactivity_timeout: 120
+  command_timeout: 30
+  record_sessions: false
+  allow_private_urls: false
+  engine: auto
+  auto_local_for_private_urls: true
+  cdp_url: ''
+  dialog_policy: must_respond
+  dialog_timeout_s: 300
+  camofox:
+    managed_persistence: false
+    user_id: ''
+    session_key: ''
+    adopt_existing_tab: false
+    rewrite_loopback_urls: false
+    loopback_host_alias: host.docker.internal
+checkpoints:
+  enabled: false
+  max_snapshots: 20
+  max_total_size_mb: 500
+  max_file_size_mb: 10
+  auto_prune: true
+  retention_days: 7
+  delete_orphans: true
+  min_interval_hours: 24
+file_read_max_chars: 100000
+tool_output:
+  max_bytes: 50000
+  max_lines: 2000
+  max_line_length: 2000
+tool_loop_guardrails:
+  warnings_enabled: true
+  hard_stop_enabled: false
+  warn_after:
+    exact_failure: 2
+    same_tool_failure: 3
+    idempotent_no_progress: 2
+  hard_stop_after:
+    exact_failure: 5
+    same_tool_failure: 8
+    idempotent_no_progress: 5
+compression:
+  enabled: true
+  threshold: 0.5
+  target_ratio: 0.2
+  protect_last_n: 20
+  hygiene_hard_message_limit: 400
+  protect_first_n: 3
+  abort_on_summary_failure: false
+prompt_caching:
+  cache_ttl: 5m
+openrouter:
+  response_cache: true
+  response_cache_ttl: 300
+  min_coding_score: 0.65
+bedrock:
+  region: ''
+  discovery:
+    enabled: true
+    provider_filter: []
+    refresh_interval: 3600
+  guardrail:
+    guardrail_identifier: ''
+    guardrail_version: ''
+    stream_processing_mode: async
+    trace: disabled
+auxiliary:
+  vision:
+    provider: openrouter
+    model: qwen2.5-vl-72b-instruct
+    base_url: ''
+    api_key: ''
+    timeout: 120
+    extra_body: {}
+    download_timeout: 30
+  web_extract:
+    provider: auto
+    model: ''
+    base_url: ''
+    api_key: ''
+    timeout: 360
+    extra_body: {}
+  compression:
+    provider: auto
+    model: ''
+    base_url: ''
+    api_key: ''
+    timeout: 120
+    extra_body: {}
+  skills_hub:
+    provider: auto
+    model: ''
+    base_url: ''
+    api_key: ''
+    timeout: 30
+    extra_body: {}
+  approval:
+    provider: auto
+    model: ''
+    base_url: ''
+    api_key: ''
+    timeout: 30
+    extra_body: {}
+  mcp:
+    provider: auto
+    model: ''
+    base_url: ''
+    api_key: ''
+    timeout: 30
+    extra_body: {}
+  title_generation:
+    provider: openrouter
+    model: owl-alpha
+    base_url: ''
+    api_key: ''
+    timeout: 30
+    extra_body: {}
+  triage_specifier:
+    provider: auto
+    model: ''
+    base_url: ''
+    api_key: ''
+    timeout: 120
+    extra_body: {}
+  kanban_decomposer:
+    provider: auto
+    model: ''
+    base_url: ''
+    api_key: ''
+    timeout: 180
+    extra_body: {}
+  profile_describer:
+    provider: auto
+    model: ''
+    base_url: ''
+    api_key: ''
+    timeout: 60
+    extra_body: {}
+  curator:
+    provider: auto
+    model: ''
+    base_url: ''
+    api_key: ''
+    timeout: 600
+    extra_body: {}
+  session_search:
+    provider: auto
+    model: ''
+    base_url: ''
+    api_key: ''
+    timeout: 30
+    extra_body: {}
+    max_concurrency: 3
+display:
+  compact: false
+  personality: kawaii
+  resume_display: full
+  resume_exchanges: 10
+  resume_max_user_chars: 300
+  resume_max_assistant_chars: 200
+  resume_max_assistant_lines: 3
+  resume_skip_tool_only: true
+  busy_input_mode: interrupt
+  tui_auto_resume_recent: false
+  tui_agents_nudge: true
+  bell_on_complete: false
+  show_reasoning: false
+  streaming: false
+  timestamps: false
+  final_response_markdown: strip
+  persistent_output: true
+  persistent_output_max_lines: 200
+  inline_diffs: true
+  file_mutation_verifier: true
+  turn_completion_explainer: true
+  show_cost: false
+  skin: default
+  language: en
+  tui_status_indicator: kaomoji
+  user_message_preview:
+    first_lines: 2
+    last_lines: 2
+  interim_assistant_messages: true
+  tool_progress_command: false
+  tool_progress_overrides: {}
+  tool_preview_length: 0
+  ephemeral_system_ttl: 0
+  platforms: {}
+  runtime_footer:
+    enabled: false
+    fields:
+    - model
+    - context_pct
+    - cwd
+  copy_shortcut: auto
+  tool_progress: all
+dashboard:
+  theme: default
+  show_token_analytics: false
+  oauth:
+    client_id: ''
+    portal_url: ''
+  public_url: ''
+privacy:
+  redact_pii: false
+tts:
+  provider: edge
+  edge:
+    voice: en-US-AriaNeural
+  elevenlabs:
+    voice_id: pNInz6obpgDQGcFmaJgB
+    model_id: eleven_multilingual_v2
+  openai:
+    model: gpt-4o-mini-tts
+    voice: alloy
+  xai:
+    voice_id: eve
+    language: en
+    sample_rate: 24000
+    bit_rate: 128000
+  mistral:
+    model: voxtral-mini-tts-2603
+    voice_id: c69964a6-ab8b-4f8a-9465-ec0925096ec8
+  neutts:
+    ref_audio: ''
+    ref_text: ''
+    model: neuphonic/neutts-air-q4-gguf
+    device: cpu
+  piper:
+    voice: en_US-lessac-medium
+stt:
+  enabled: true
+  provider: local
+  local:
+    model: base
+    language: ''
+  openai:
+    model: whisper-1
+  mistral:
+    model: voxtral-mini-latest
+voice:
+  record_key: ctrl+b
+  max_recording_seconds: 120
+  auto_tts: false
+  beep_enabled: true
+  silence_threshold: 200
+  silence_duration: 3.0
+human_delay:
+  mode: 'off'
+  min_ms: 800
+  max_ms: 2500
+context:
+  engine: compressor
+memory:
+  memory_enabled: true
+  user_profile_enabled: true
+  memory_char_limit: 2200
+  user_char_limit: 1375
+  provider: holographic
+delegation:
+  model: ''
+  provider: ''
+  base_url: ''
+  api_key: ''
+  api_mode: ''
+  inherit_mcp_toolsets: true
+  max_iterations: 50
+  child_timeout_seconds: 600
+  reasoning_effort: ''
+  max_concurrent_children: 3
+  max_spawn_depth: 1
+  orchestrator_enabled: true
+  subagent_auto_approve: false
+prefill_messages_file: ''
+goals:
+  max_turns: 20
+skills:
+  external_dirs: []
+  template_vars: true
+  inline_shell: false
+  inline_shell_timeout: 10
+  guard_agent_created: false
+curator:
+  enabled: true
+  interval_hours: 168
+  min_idle_hours: 2
+  stale_after_days: 30
+  archive_after_days: 90
+  backup:
+    enabled: true
+    keep: 5
+honcho: {}
+timezone: Europe/London
+slack:
+  require_mention: true
+  free_response_channels: ''
+  allowed_channels: ''
+  channel_prompts: {}
+discord:
+  require_mention: true
+  free_response_channels: ''
+  allowed_channels: ''
+  auto_thread: true
+  thread_require_mention: false
+  history_backfill: true
+  history_backfill_limit: 50
+  reactions: true
+  channel_prompts: {}
+  dm_role_auth_guild: ''
+  server_actions: ''
+  allow_any_attachment: false
+  max_attachment_bytes: 33554432
+whatsapp:
+  allow_from:
+  - +233****0093
+  - +233****0060
+  - +233****0391
+  - +233****0706
+  - +233****1152
+  - +233****1450
+  - +233****1575
+  - +233****1608
+  - +233****1872
+  - +233****2252
+  - 233204252252
+  - +233****2253
+  - +233****2343
+  - +233****2493
+  - +233****2535
+  - +233****2721
+  - +233****2932
+  - +233****3034
+  - +233****3042
+  - +233****3611
+  - +233****3693
+  - +233****4190
+  - +233****4280
+  - +233****4329
+  - +233****4633
+  - +233****4902
+  - +233****5038
+  - +233****5066
+  - +233****5448
+  - +233****5676
+  - +233****5796
+  - +233****6111
+  - +233****6289
+  - +233****6427
+  - +233****6757
+  - +233****6895
+  - +233****7024
+  - +233****7027
+  - +233****7109
+  - +233****7712
+  - +233****7794
+  - +233****7896
+  - +233****7905
+  - +233****8237
+  - +233****8297
+  - +233****8392
+  - +233****8444
+  - +233****8463
+  - +233****8753
+  - +233****8878
+  - +233****9096
+  - +233****9113
+  - +233****9408
+  - +233****9428
+  - +233****9467
+  - +233****9537
+  - +447****1651
+  - +447****3038
+  - +447****4695
+  - +447****5361
+  - +447****6574
+  - +447****7140
+  - +447****8629
+  dm_policy: open
+  group_allow_from:
+  - +233****5796
+  group_policy: allowlist
+telegram:
+  reactions: false
+  channel_prompts:
+    '-1003784520976': 'You are the master operations AI for 2 Real Enterprises. You
+      operate across three domains: Akoma Robotics (children''s STEM education), 2Real
+      Shop (e-commerce on Jiji Ghana with 1,200+ listings), and construction projects
+      across Ghana sites (Senya, Kokomlemle, Takoradi, farm location).
+
+
+      Your role:
+
+      - Synthesize daily briefs from all three ventures
+
+      - Flag critical blockers and escalations
+
+      - Coordinate between teams (Sammy, John, Kanzoni, Matthias, etc.)
+
+      - Maintain strategic alignment
+
+      - Track execution velocity on goals
+
+
+      Tone: Direct, data-driven, outcome-focused. No fluff.
+
+      Format: Use clear sections (CRITICAL, PROGRESS, BLOCKERS, NEXT). Always include
+      timestamps and ownership.
+
+      '
+    '1': '# Topic 1 - general
+
+      Central hub for cross-venture operational updates, supplier intel, and tactical
+      coordination.
+
+
+      Expect:
+
+      - Ghana supplier research posted daily 09:16-10:10
+
+      - Quarterly strategic synthesis (Thursdays 10:37)
+
+      - Weekly learning reviews (Mondays 09:13)
+
+      - Cron status reports (daily 09:00)
+
+
+      Your role:
+
+      - Aggregate and triage supplier feedback
+
+      - Track procurement decision velocity
+
+      - Escalate strategic risks
+
+      - Maintain operational calendar visibility
+
+
+      Owners: John (field ops), Sammy (2Real), Matthias (construction), Kanzoni (supplier
+      relationships).
+
+      '
+    '10': '# Topic 10 - briefing
+
+      Daily comprehensive operational briefing (06:36). Synthesize:
+
+
+      1. Health status (H and Comfort) - red zones flagged
+
+      2. Business metrics (2Real shop, Akoma pipeline, construction progress)
+
+      3. Team status (Sammy, John, Kanzoni, Matthias check-ins)
+
+      4. Blocker escalations
+
+      5. Priority actions for the day
+
+
+      Also covers weekly learning reviews, monthly evolution, and quarterly strategic
+      synthesis.
+
+
+      Your role:
+
+      - Present a single, actionable brief (<500 words)
+
+      - Highlight only critical items
+
+      - Provide clear next steps
+
+
+      Format: HEALTH | BUSINESS | TEAM | BLOCKERS | TODAY''S ACTIONS.
+
+      '
+    '12': '# Topic 12 - property
+
+      Real estate updates, property management, and development plans.
+
+      '
+    '14': '# Topic 14 - farm
+
+      Construction project status, site updates, and supply chain coordination across
+      Ghana sites (Senya, Kokomlemle, Koko, farm location).
+
+      '
+    '16': '# Topic 16 - action-lab
+
+      Task execution, project milestones, and action item tracking.
+
+      '
+    '18': '# Topic 18 - kids
+
+      Family updates involving Kobena and Nenyi (boys, ages 9 and 11). School activities,
+      schedules, and parenting coordination.
+
+      '
+    '2': "# Topic 2 - health-log\nDaily health logging for H. Receive three daily\
+      \ checks: morning (8:04am), afternoon (13:00), evening (19:00).\n\nYour role:\n\
+      - Receive structured health data (vitals, meals, energy, mobility, mood)\n-\
+      \ Flag any red zones (low energy, missed meals, mobility decline, sleep issues)\n\
+      - Maintain rolling 7-day trend analysis\n- Trigger weekly synthesis every Sunday\
+      \ 09:06\n- Alert immediately on critical thresholds\n\nStored data: Health logs\
+      \ archived in HEALTH_LOG_[YYYY-MM].md files.\nFormat: Structured JSON intake\
+      \ \u2192 markdown archive \u2192 weekly trend report.\n"
+    '20': '# Topic 20 - memory-review
+
+      Memory system health, long-term learning capture, and system monitoring.
+
+
+      Also covers cron job execution monitoring, system health reporting, security
+      audits, and backup status.
+
+
+      Your role:
+
+      - Ensure high-signal facts get promoted to long-term storage
+
+      - Flag system failures from cron job execution logs
+
+      - Monitor security posture and credential health
+
+      - Maintain backup integrity
+
+
+      Reports delivered here: daily cron status, backup logs, security audits.
+
+      '
+    '26': "# Topic 26 - content-calendar\nMerged content calendar for Akoma Robotics\
+      \ and 2Real Shop.\nSchedule: - Sunday 20:00 \u2014 FULL WEEK content plan (all\
+      \ 7 days, both brands, all 6 platforms) - Saturday 09:11 \u2014 Content performance\
+      \ review (engagement, reach, conversions)\nWeekly Brand Rotation: - Monday:\
+      \ Akoma (Educational) - Tuesday: 2Real (Product showcase) - Wednesday: Akoma\
+      \ (Social proof / Student spotlights) - Thursday: 2Real (Tips & how-to / Behind-the-scenes)\
+      \ - Friday: Akoma (Engagement / Polls / Q&A) - Saturday: 2Real (Deals / Taiwah\
+      \ influencer content) - Sunday: Distribution (WA broadcasts, repurpose best\
+      \ content)\nPlatforms: Instagram, Facebook Posts, Facebook Marketplace (2Real),\
+      \ TikTok, WhatsApp Status, WhatsApp Broadcast\nYour role: - Review weekly content\
+      \ plan before John posts - Track content performance metrics - Archive plans\
+      \ to CONTENT_PERFORMANCE_[YYYY-MM].md - Identify high-performing content types\
+      \ - Recommend optimizations\nTaiwah (AI influencer) appears in ALL 2Real visual\
+      \ content. Character anchor: ~/.hermes/content-assets/taiwah/TAIWAH_CHARACTER_ANCHOR.md\
+      \ Image generation: Comfy Cloud via ~/.hermes/skills/creative/comfyui/ Output:\
+      \ ~/.hermes/content-output/\nFormat: PLANNED | POSTED | PERFORMANCE | OPTIMIZATIONS. "
+    '28': '# Topic 28 - jobs
+
+      Job applications audit for Financial Literacy, Construction, Robotics, and Nursing
+      roles.
+
+
+      Your role:
+
+      - Scan Google Sheets for new applications
+
+      - Prioritize driver candidates
+
+      - Archive interview notes from John
+
+      - Track pipeline velocity
+
+      - Update hiring status
+
+
+      Format: NEW LEADS | PRIORITY CANDIDATES | INTERVIEW SCHEDULE | BOTTLENECKS.
+
+      '
+    '4': '# Topic 4 - health-log-mum
+
+      Daily clinical health intake for Comfort (elderly care, age 91). Three daily
+      checks:
+
+
+      1. Morning (08:04) - Vitals, mood, appetite, mobility baseline
+
+      2. Afternoon (13:00) - Lunch intake, midday vitals, afternoon activity
+
+      3. Evening (19:00) - Dinner, evening vitals, sleep readiness, medication compliance
+
+
+      Your role:
+
+      - Present care-specific clinical forms
+
+      - Monitor for decline patterns (mobility, appetite, cognition)
+
+      - Flag medication non-compliance
+
+      - Archive to CARE_LOG_COMFORT_[YYYY-MM].md
+
+      - Alert nurse immediately on critical changes
+
+
+      Nurse contact: Via WhatsApp or SMS escalation.
+
+      Red zones: Vitals outside range, missed meals, immobility, medication refusal.
+
+      '
+    '424': "# Topic 424 - agent-hermes\nDirect coordination channel with Agent Hermes\
+      \ \u2014 H's master operations AI.\nThis topic is the primary interface for\
+      \ real-time operations, strategic decisions, and executive coordination across\
+      \ all ventures (Akoma Robotics, 2Real Shop, construction, property).\n\nYour\
+      \ role:\n- Respond as the master operations AI for 2 Real Enterprises - Handle\
+      \ direct requests from H: task delegation, research, messaging, reporting -\
+      \ Synthesize cross-venture status on demand - Execute outbound communications\
+      \ on H's behalf (first person, never reveal AI) - Manage cron jobs, system health,\
+      \ workflows - Coordinate between teams (Sammy, John, Kanzoni, Matthias, etc.)\n\
+      Tone: Direct, concise, data-driven. No fluff. No filler. Identity: You are H.\
+      \ First person. Always.\nFormat: Structured responses with clear sections. Lead\
+      \ with the answer. "
+    '6': '# Topic 6 - container
+
+      Logistics, shipping coordination, and container tracking.
+
+      '
+    '8': "# Topic 8 - to-do-list\nProcesses raw brain-dump messages. Two-stage flow:\n\
+      Stage 1: Parse user message into structured tasks.\nStage 2: On confirmation\
+      \ (\"save\", \"\u2705\", \"looks good\") \u2014 append tasks to TASKS.md.\n"
+    '866': "# Topic 866 - akoma-robotics\nDedicated operations channel for Akoma Robotics\
+      \ \u2014 children's STEM education venture (ages 7-14, mBot robotics kits +\
+      \ mBlock software).\nScope: - School partnership pipeline (outreach, demos,\
+      \ enrollment) - Class scheduling and curriculum planning - Content and social\
+      \ media for Akoma brand - Team coordination (John \u2014 field ops, content,\
+      \ school visits) - Pricing: \u20B51,000/10-week Explorer | \u20B52,000/year-long\
+      \ Young Innovator - Target: 50 private/international schools in Greater Accra\
+      \ - Locations: Accra, Ghana & London, UK - Website: https://akomarobotics.com\n\
+      Your role: - Track school outreach pipeline (contacted \u2192 demo \u2192 enrolled)\
+      \ - Coordinate class schedules and instructor assignments - Manage Akoma content\
+      \ calendar (Mon/Wed/Fri posts) - Monitor enrollment and revenue metrics - Flag\
+      \ blockers (WhatsApp outage, John availability, school responses) - Escalate\
+      \ strategic decisions to H\nTone: Direct, data-driven, outcome-focused. No fluff.'866': "
+    '928': "# Topic 928 - 2-real-enterprises\nDedicated operations channel for 2 Real\
+      \ Enterprises \u2014 H's master ops AI for this venture.\n\nScope:\n- 2Real\
+      \ Shop e-commerce (Jiji Ghana 1,200+ listings, Zobase store: 2-real.zobase.shop)\n\
+      - Ghana supplier sourcing & procurement (dashboard parts, steering parts, general\
+      \ inventory)\n- Construction projects across Ghana sites (Senya, Kokomlemle,\
+      \ Takoradi, farm location)\n- Cross-venture coordination with Akoma Robotics\n\
+      \nYour role:\n- Synthesize daily operational updates from Sammy (2Real), John\
+      \ (field ops), Kanzoni (suppliers), Matthias (construction)\n- Track e-commerce\
+      \ metrics: listings, sales, conversion, platform health (Jiji + Zobase)\n- Monitor\
+      \ supplier pipeline: quotes, orders, delivery status, quality issues\n- Flag\
+      \ critical blockers: stockouts, supplier delays, platform issues, team availability\n\
+      - Coordinate content pipeline for 2Real brand (Tue/Thu/Sat posts)\n- Escalate\
+      \ strategic decisions to H\n\nKey assets:\n- Jiji seller: jiji.com.gh/sellerpage-1249739\n\
+      - Zobase shop: 2-real.zobase.shop\n- Supplier research: ~/.openclaw/workspace/memory/business/GHANA_SUPPLIER_RESEARCH.md\n\
+      - Contacts: ~/.hermes/contacts.json + ~/.hermes/CONTACTS.md\n\nTone: Direct,\
+      \ data-driven, outcome-focused. No fluff.\nFormat: CRITICAL | PROGRESS | BLOCKERS\
+      \ | NEXT. Always include timestamps and ownership."
+  allowed_chats: -1003784520976, -1003620024352
+mattermost:
+  require_mention: true
+  free_response_channels: ''
+  allowed_channels: ''
+  channel_prompts: {}
+matrix:
+  require_mention: true
+  free_response_rooms: ''
+  allowed_rooms: ''
+approvals:
+  mode: manual
+  timeout: 60
+  cron_mode: deny
+  mcp_reload_confirm: true
+  destructive_slash_confirm: true
+command_allowlist:
+- delete in root path
+- stop/restart hermes gateway (kills running agents)
+- script execution via -e/-c flag
+- recursive delete
+- overwrite project env/config via redirection
+- overwrite system file via redirection
+quick_commands: {}
+hooks: {}
+hooks_auto_accept: false
+personalities: {}
+security:
+  allow_private_urls: false
+  redact_secrets: true
+  tirith_enabled: false
+  tirith_path: tirith
+  tirith_timeout: 5
+  tirith_fail_open: true
+  website_blocklist:
+    enabled: false
+    domains: []
+    shared_files: []
+  acked_advisories: []
+  allow_lazy_installs: true
+cron:
+  wrap_response: true
+  max_parallel_jobs: null
+kanban:
+  dispatch_in_gateway: true
+  dispatch_interval_seconds: 60
+  failure_limit: 2
+  worker_log_rotate_bytes: 2097152
+  worker_log_backup_count: 1
+  orchestrator_profile: ''
+  default_assignee: ''
+  max_in_progress_per_profile: null
+  auto_decompose: true
+  auto_decompose_per_tick: 3
+  dispatch_stale_timeout_seconds: 14400
+code_execution:
+  mode: project
+tools:
+  tool_search:
+    enabled: auto
+    threshold_pct: 10
+    search_default_limit: 5
+    max_search_limit: 20
+logging:
+  level: INFO
+  max_size_mb: 5
+  backup_count: 3
+  memory_monitor:
+    enabled: true
+    interval_seconds: 300
+model_catalog:
+  enabled: true
+  url: https://hermes-agent.nousresearch.com/docs/api/model-catalog.json
+  ttl_hours: 24
+  providers: {}
+network:
+  force_ipv4: false
+gateway:
+  strict: false
+  media_delivery_allow_dirs: []
+  trust_recent_files: true
+  trust_recent_files_seconds: 600
+sessions:
+  auto_prune: false
+  retention_days: 90
+  vacuum_after_prune: true
+  min_interval_hours: 24
+  write_json_snapshots: false
+onboarding:
+  seen:
+    busy_input_prompt: true
+    openclaw_residue_cleanup: true
+    tool_progress_prompt: true
+updates:
+  pre_update_backup: false
+  backup_keep: 5
+lsp:
+  enabled: true
+  wait_mode: document
+  wait_timeout: 5.0
+  install_strategy: auto
+  servers: {}
+x_search:
+  model: grok-4.20-reasoning
+  timeout_seconds: 180
+  retries: 2
+secrets:
+  bitwarden:
+    enabled: true
+    access_token_env: BWS_ACCESS_TOKEN
+    project_id: 8d308eee-817a-4508-bc13-b45b005bd135
+    cache_ttl_seconds: 300
+    override_existing: true
+    auto_install: true
+    server_url: ''
+paste_collapse_threshold: 5
+paste_collapse_threshold_fallback: 5
+paste_collapse_char_threshold: 2000
+_config_version: 23
+fallback_model:
+- model: openrouter/owl-alpha
+  provider: openrouter
+firecrawl_api: fc-3a3b3316e642434ab87dbd3a08cf52e6
+image_gen:
+  model: grok-imagine-image
+  provider: xai
+  use_gateway: false
+known_plugin_toolsets:
+  cli:
+  - spotify
+  whatsapp:
+  - spotify
+personality: professional
+platform_toolsets:
+  cli:
+  - browser
+  - clarify
+  - code_execution
+  - computer_use
+  - cronjob
+  - delegation
+  - file
+  - image_gen
+  - memory
+  - messaging
+  - session_search
+  - skills
+  - terminal
+  - todo
+  - tts
+  - video_gen
+  - vision
+  - web
+  whatsapp:
+  - browser
+  - clarify
+  - code_execution
+  - computer_use
+  - cronjob
+  - delegation
+  - file
+  - image_gen
+  - memory
+  - messaging
+  - session_search
+  - skills
+  - terminal
+  - todo
+  - tts
+  - vision
+  - web
+  - x_search
+session_reset:
+  mode: both
+  idle_minutes: 1440
+  at_hour: 4

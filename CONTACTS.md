@@ -58,7 +58,7 @@ Kalidou (+233 53 833 1872)
 
 
 
-Role: was my farm worker who I brought from Accra then he went AWOL Responsibilities: none at the moment, but need to resolve why he went AWOL Note: had a boss in East legon Accra who i communicated with so I could. obtain him as a worker
+Role: was my farm worker who I brought from Accra then he went AWOL Responsibilities: none at the moment, but need to resolve why he went AWOL Note: had a boss in East legon Accra who i communicated with so I could. obtain him as a worker :-(
 
 
 
@@ -70,7 +70,7 @@ role: trusted advisor and helper when I am in need
 
 
 
-responsibilities: Farm matters can assist in technical and planning and implementation
+responsibilities: Farm matters can assist in technical and planning and implementation is supposed to assemble a brush cutter team so they can go to the farm and clear all weeds before I arrive. also as he's a gardener for various clients in town I want to task him to look for a shop or house for me to rent.
 
 
 
@@ -210,19 +210,19 @@ Tone: Friendly but firm on money. Ask about Hermitage Road goods and Walworth Ro
 
 
 
-* Agadas (+233 24 469 9428)
+* Agadas +233 24 469 9428
 
 Role: phone repairer ofori's friend. Based at circle.
 
-Note:owes me money
+Note:owes me money and has my phones for repair
 
 
 
-George +44 7946 856574
+George +44 7946 856574 friend in UK from Senya Beraku
 
 
 
-Edwin +233 54 919 8237
+Edwin +233 54 919 8237 Driver
 
 
 
@@ -234,11 +234,11 @@ Kingsley +44 7367 428629
 
 
 
-Ezekiel 
+Ezekiel
 
 
 
-JB  +233 26 766 7712
+JB  +233 26 766 7712 Motorcycle repairer
 
 
 
@@ -250,17 +250,39 @@ Nicholas Container +447424067140
 
 
 
-Dr Emmanuela +233544425038
+Dr Emmanuela +233544425038 GP
 
 
 
-Verse +23359475448
+Verse +23359475448 potential worker
 
 
 
-Lily NSS Government worker
+Lily +233 54 767 6995 NSS Government worker
 
 
 
-Commander Asante
+Commander Asante +233 24 442 3471 Senya Police
+
+
+
+Patrick GH +233 23 987 4201 Trader in Adenta
+
+
+
+Kyei (Che) +233 50 334 4556 farmer, kuottam groundsman
+
+
+
+kingsmind
+
+Carer Candidates (Final Stage)
+
+* Priscilla: +233 24 094 5922
+  * Rank: #2
+  * Notes: Good candidate BUT John flagged "not professional" — weigh carefully
+
+* Emmanuella: +233 24 742 3073
+  * Rank: #1
+  * Notes: Has equipment & can cook. Mum liked her — said "Mum will love and take her as her daughter"
 

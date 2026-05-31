@@ -1,6 +1,6 @@
-# TOOLS.md - Local Notes
+﻿# TOOLS.md - Local Notes
 
-Skills define _how_ tools work. This file is for _your_ specifics — the stuff that's unique to your setup.
+Skills define _how_ tools work. This file is for _your_ specifics â€” the stuff that's unique to your setup.
 
 ## GitHub
 
@@ -10,7 +10,7 @@ Skills define _how_ tools work. This file is for _your_ specifics — the stuff 
 ## Business Links
 
 - **2 Real Enterprises Shop**: https://2-real.zobase.shop/
-  - Zobaze online storefront for tools & hardware
+  - Zobaze POS online storefront for tools & hardware
   - Jiji Ghana Online Marketplace: https://jiji.com.gh/sellerpage-1249739
   - Add to social media captions and product posts
   - Status: DNS not publicly resolving yet (as of 2026-03-17)
@@ -39,12 +39,12 @@ Things like:
 ```markdown
 ### Cameras
 
-- living-room → Main area, 180° wide angle
-- front-door → Entrance, motion-triggered
+- living-room â†’ Main area, 180Â° wide angle
+- front-door â†’ Entrance, motion-triggered
 
 ### SSH
 
-- home-server → 192.168.1.100, user: admin
+- home-server â†’ 192.168.1.100, user: admin
 
 ### TTS
 

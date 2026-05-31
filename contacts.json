@@ -256,6 +256,20 @@
       "role": "Contact",
       "type": "associate",
       "guidelines": "No phone yet."
+    },
+    {
+      "name": "Priscilla",
+      "phone": "+233240945922",
+      "role": "Carer candidate (finalist)",
+      "type": "associate",
+      "guidelines": "Final stage carer candidate for Mum. Ranked #2. John flagged professionalism concern."
+    },
+    {
+      "name": "Emmanuella",
+      "phone": "+233247423073",
+      "role": "Carer candidate (finalist)",
+      "type": "associate",
+      "guidelines": "Final stage carer candidate for Mum. Ranked #1. Has equipment & can cook. Mum liked her."
     }
   ],
   "dashboard_group": [
