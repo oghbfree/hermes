@@ -1,0 +1,7 @@
+{
+  "lastCheckDate": "2026-06-13",
+  "lastProcessedRow": 35,
+  "totalRows": 35,
+  "newRows": 0,
+  "error": "invalid_grant - Google Sheets credentials expired, re-authorization required"
+}

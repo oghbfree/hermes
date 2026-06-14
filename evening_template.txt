@@ -1,9 +1,0 @@
-﻿?? **MUM EVENING LOG - 2026-04-18**
-*Comfort (91), Carer: H (Son)*
-
-**Dinner:** **Drink:** **Medication taken:** [yes/no]
-**Mobility:** [good/assisted/poor]
-**Mood:** [good/low/confused]
-**Symptoms:** [none/list]
-**Severity:** [1-5]
-**Notes:**

@@ -19,6 +19,13 @@ auth.lock
 google_client_secret.json
 google_token.json
 service-account.json
+google_*secret*.json
+google_*token*.json
+
+# GDrive tokens and credentials
+2real-agent/gdrive_credentials.json
+2real-agent/gdrive_token.json
+memories/jobs/tmp_access_token.txt
 
 # Large binary files
 *.xlsx

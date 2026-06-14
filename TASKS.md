@@ -5,36 +5,36 @@
 
 ## 🇬🇭 Ghana Trip
 - [ ] Book hotel for mum on arrival
-- [ ] Arrange Plan B accommodation for mum
+- [x] Arrange Plan B accommodation for mum
 - [ ] Engage Edwin from airport for daily driving (until shipped Kia fixed)
 - [ ] Ford Ranger gearbox repair
 - [ ] Pick up Samsung S8+ with Mario case (WhatsApp Safi)
-- [ ] WiFi cameras for mum's place; home cameras (For #14)
+- [x] WiFi cameras for mum's place; home cameras (For #14)
 - [ ] Speak to Costa re: shed partition cameras
-- [ ] Compile Ghana shopping list
-- [ ] Compile UK shopping list
+- [x] Compile Ghana shopping list
+- [x] Compile UK shopping list
 - [ ] Dr Ferguson order (herbs/vitamins for mum)
-- [ ] Cost breakdown of trip spending
-- [ ] Arrange kids' school runs during trip
-- [ ] Plan evening family visits with mum
+- [x] Cost breakdown of trip spending
+- [x] Arrange kids' school runs during trip
+- [x] Plan evening family visits with mum
 
 ## 🏠 Property/Building
 - [ ] Croydon — roof, windows
 - [ ] Peckham — paint walls
 - [ ] New Cross — partition
-- [ ] Dulwich — receipt, sealant
+- [x] Dulwich — receipt, sealant
 - [ ] Owusu — loft and garden help
 - [ ] Rebuild mission control
 
 ## 👨‍👩‍👦 Family
 - [ ] Kids' junior bank accounts
 - [ ] EDF setup
-- [ ] Dad — disabled badge
+- [x] Dad — disabled badge
 
 ## 💼 Business
 - [ ] Tide business account (defer until property process starts)
-- [ ] Akoma Robotics — enough mbots for standalone school?
-- [ ] Content pipeline planning
+- [x] Akoma Robotics — enough mbots for standalone school?
+- [x] Content pipeline planning
 - [ ] Facebook ads for areas of concern
 - [ ] Future-proof from gov.uk laws/bottlenecks
 

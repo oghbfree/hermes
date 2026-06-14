@@ -1,0 +1,6 @@
+﻿- **Eric**: WhatsApp: +447553403038
+  - Not an employee, friendly rapport
+  - Rents a garage from h on Hermitage Road â€” has goods stored there
+  - Emptied a garage on Walworth Road â€” needs tidying up
+  - Currently behind on payments to h
+  - **When he messages next**: Has he found a buyer for the Hermitage goods? Has he tidied Walworth garage? Any money coming?

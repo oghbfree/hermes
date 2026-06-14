@@ -1,0 +1,16 @@
+import json
+with open(r'C:\Users\User\.hermes\google_token.json', encoding='utf-8-sig') as f:
+    d = json.load(f)
+print('Has token:', bool(d.get('token') and d['token'] != '***'))
+print('Has refresh_token:', bool(d.get('refresh_token') and d['refresh_token'] != '***'))
+print('Has client_id:', bool(d.get('client_id')))
+print('Has client_secret:', bool(d.get('client_secret')))
+rt = d.get('refresh_token','')
+print('refresh_token length:', len(rt) if rt != '***' else 'MASKED')
+tk = d.get('token','')
+print('token length:', len(tk) if tk != '***' else 'MASKED')
+client_id = d.get('client_id', '')
+client_secret = d.get('client_secret', '')
+refresh_token = d.get('refresh_token', '')
+print('client_id prefix:', client_id[:8] + '...' if client_id else 'NONE')
+print('refresh_token prefix:', refresh_token[:8] + '...' if refresh_token and refresh_token != '***' else 'MASKED/EMPTY')

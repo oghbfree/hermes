@@ -1,0 +1,62 @@
+{
+  "business": {
+    "name": "2 Real Enterprises",
+    "currency": "GHS",
+    "locations": {
+      "oyarifa": {"manager": "Madam/John", "stock_reported": false},
+      "kantamanto": {"manager": "Sammy", "stock_reported": true}
+    }
+  },
+  "roles": {
+    "H": {"name": "Boss", "approves": ["discounts", "off_zobaze_pricing", "final_margin"], "ghs_phone": "0204252252"},
+    "John": {"role": "Sales & Marketing", "handles": ["oyarifa_sales", "all_adverts", "uk_sourcing"], "ghs_phone": "0233352252"},
+    "Madam": {"role": "Oyarifa Sales", "handles": ["oyarifa_sales", "oyarifa_stock_records"]},
+    "Sammy": {"role": "Kantamanto", "handles": ["walk_in_sales", "zobaze_entry"], "rules": ["on_zobaze_only"], "ghs_phone": "0575252253"}
+  },
+  "channels": {
+    "jiji": {"pricing": "zobaze_pos", "handled_by": "John/Madam"},
+    "whatsapp": {"pricing": "zobaze_pos", "handled_by": "John/Madam"},
+    "facebook": {"pricing": "zobaze_pos", "handled_by": "John/Madam"},
+    "walk_in_oyarifa": {"pricing": "zobaze_or_off_zobaze", "handled_by": "John/Madam"},
+    "walk_in_kantamanto": {"pricing": "zobaze_only", "handled_by": "Sammy"}
+  },
+  "payment_rules": {
+    "methods": ["cash", "momo"],
+    "credit": false,
+    "jiji": "momo_or_platform_before_collection",
+    "whatsapp": "momo_before_delivery",
+    "walk_in": "cash_or_momo_at_sale"
+  },
+  "uk_sourcing": {
+    "gbp_to_ghs_rate": {
+      "source": "https://www.xe.com/currencyconverter/convert/?Amount=1&From=GBP&To=GHS",
+      "fallback_rate": 15.75,
+      "note": "Agent pulls live rate from xe.com at time of sourcing. Fallback 15.75 if site unavailable."
+    },
+    "shipping": {
+      "courier": "Jakmob",
+      "reference_shipment": {
+        "item": "Amazon courier bag 28x23x20 inches",
+        "item_cost_gbp": 5,
+        "shipping_cost_gbp": 80,
+        "total_landed_gbp": 85,
+        "transit_days": 42,
+        "notes": "Door-to-door UK→Ghana. Use as baseline for shipping estimates."
+      },
+      "cost_per_kg_gbp": "ESTIMATE based on reference: £80 for ~2kg bag ≈ £40/kg. Adjust by item weight/size.",
+      "transit_days_min": 35,
+      "transit_days_max": 56
+    },
+    "sources": ["ebay_uk_completed", "amazon_uk", "direct_manufacturer", "competitive_3rd_party"],
+    "sla_hours": 24,
+    "margin_set_by": "H"
+  },
+  "customer_conversion": {
+    "phone_to_whatsapp": "Text us on WhatsApp for faster service & photos",
+    "walk_in_to_whatsapp": "Scan QR code for our live catalog",
+    "online_to_whatsapp": "Save our number for daily deals on WhatsApp Status",
+    "contact_format": "Interest - [Product Category] - [Date]",
+    "follow_up_times": ["9:00 AM", "2:00 PM", "5:00 PM"],
+    "daily_status_items": 5
+  }
+}

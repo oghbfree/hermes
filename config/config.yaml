@@ -254,7 +254,7 @@ dashboard:
     portal_url: ''
   public_url: ''
 privacy:
-  redact_pii: false
+  redact_pii: true
 tts:
   provider: edge
   edge:

@@ -11,6 +11,7 @@ triggers:
 platforms: [windows]
 prerequisites:
   skills:
+    - brand-assets (centralized brand reference — Akoma, 2Real, Taiwah)
     - comfyui (for image generation; must be installed and running)
   files:
     - references/akoma-brand-director.md (brand voice, audience, content types)
@@ -200,7 +201,23 @@ Next review: [Date]
 
 ## Verification
 
-Before calling the plan done:
+Before calling the plan done, run the brand-assets cross-check:
+
+### ⚡ Brand Cross-Check (from brand-assets SKILL.md — MANDATORY)
+For EVERY piece of content output:
+- [ ] Phone numbers match brand-assets master: +233 20 425 2252 (2Real only)
+- [ ] No phone number in Akoma CTAs (uses "Message us on WhatsApp to learn more" only)
+- [ ] Logo descriptions match brand-assets master EXACTLY
+- [ ] Brand colors are correct hex codes from brand-assets master
+- [ ] Taglines/headlines match brand-assets master
+- [ ] CTA templates match brand-assets master
+- [ ] Hashtags are from the locked sets in brand-assets master
+- [ ] Akoma content uses purple #6A0DAD + gold #FFD700 (NOT website template colors)
+- [ ] 2Real content uses green #4CAF50 + yellow #FFC107
+
+IF ANY mismatch → DELETE output and REWRITE from scratch. Do NOT patch in place.
+
+### Standard Checks
 - [ ] All 6 days assigned to correct brand
 - [ ] All platforms covered per brand
 - [ ] Stock rules respected (no <2 unit items promoted)

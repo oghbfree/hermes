@@ -29,7 +29,9 @@ H prefers direct, execution-oriented communication:
 ## Architecture
 
 ```
-Character Anchor (TAIWAH_CHARACTER_ANCHOR.md)
+Brand Assets (skills/creative/brand-assets/ — centralized reference)
+    ↓
+Character Anchor (references/taiwah-character.md)
     ↓
 Master Prompts (TAIWAH_MASTER_PROMPT.md)
     ↓
@@ -41,6 +43,8 @@ Image Generation (Hermes image_gen tool — FAL.ai / OpenAI / xAI)
     ↓
 Platform Delivery (IG, FB, TikTok, WA, LinkedIn, etc.)
 ```
+
+**IMPORTANT:** Always load the `brand-assets` skill first. It is the single source of truth for all brand identity, character anchors, and platform specs.
 
 ## Step 1: Define the Character Anchor
 
@@ -375,6 +379,20 @@ Copy the logo image file into the Hyperframes project directory alongside `index
 
 ## Verification Checklist
 
+### ⚡ Brand Cross-Check (from brand-assets SKILL.md — MANDATORY — RUN FIRST)
+For EVERY piece of content output BEFORE delivery:
+- [ ] Phone numbers: +233 20 425 2252 (2Real only). No invented numbers. Use `[number]` placeholder if unknown.
+- [ ] Akoma CTAs use "Message us on WhatsApp to learn more" — NO phone number
+- [ ] Logo descriptions match brand-assets master EXACTLY
+- [ ] Brand colors match exact hex codes from brand-assets master (Akoma: #6A0DAD + #FFD700, 2Real: #4CAF50 + #FFC107)
+- [ ] Taglines/headlines match brand-assets master
+- [ ] CTA templates match brand-assets master
+- [ ] Hashtags from locked sets only (no invented hashtags)
+- [ ] Akoma content does NOT use website template colors (red/yellow/green from Ghana flag)
+
+IF ANY mismatch → DELETE output and REWRITE from scratch. Do NOT patch in place.
+
+### Standard Checks
 - [ ] Character anchor has all 12 sections
 - [ ] Master prompts cover all content types
 - [ ] Negative prompts included in every template
