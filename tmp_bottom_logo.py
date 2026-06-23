@@ -2,7 +2,7 @@ from PIL import Image, ImageFilter, ImageDraw
 import numpy as np
 
 src_path = r'C:\Users\User\.hermes\workspace\content-output\week-2026-05-18\wednesday-akoma\instagram\student-spotlight.jpg'
-logo_path = r'C:\Users\User\.hermes\workspace\content-assets\akoma\AKOMA_ROBOTICS_LOGO.png'
+logo_path = r'C:\Users\User\.hermes\workspace\memories\business\Content\content-assets\akoma\AKOMA_ROBOTICS_LOGO_OFFICIAL.png'
 
 src = Image.open(src_path).convert('RGBA')
 logo = Image.open(logo_path).convert('RGBA')

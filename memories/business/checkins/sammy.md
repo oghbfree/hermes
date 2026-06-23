@@ -1,43 +1,41 @@
 # Sammy Business Check-in Log
 
-## 2026-06-11 (Thursday 07:02 UTC+1)
-- **Status**: FAILED — WhatsApp bridge still offline (no OpenClaw process, port 18789 not listening)
-- **Issue**: No change. WhatsApp bridge remains offline since ~May 1, 2026 (~41 days). Gateway process not running. No WhatsApp activity in gateway logs.
-- **Action needed**: H must restart OpenClaw gateway from Windows (`gateway.cmd` or Windows Task "OpenClaw Gateway"). If session is expired, delete `C:\Users\User\.openclaw\credentials\whatsapp\233204252252\` and re-authenticate via QR code.
-- **Message attempted**: Morning business inquiry — store status, Zobase stock levels, customer traffic at Kantamanto, any issues
-- **Next scheduled**: 2026-06-12 07:02 (Friday)
-- **Consecutive failures**: 14 (May 19, 20, 21, 22, 23, 27, 29, 30, Jun 1, 2, 4, 6, 9, 11)
+## 2026-06-23 (Tuesday 04:13 UTC)
+- **Status**: DELIVERED via Telegram fallback
+- **WhatsApp**: `fatal` state (`whatsapp_not_paired`), gateway port 18789 not listening
+- **Telegram fallback**: ✅ DELIVERED to `telegram:Agent Hermes / topic 20 (group)`
+- **Message sent**: Morning business inquiry for Tuesday — store status, sales, stock levels, customer issues, problems
+- **Inventory snapshot**: 1,049 total items | 665 in stock | 384 out of stock | 480 low stock (≤2) — from backup, may be stale
+- **Log file**: `memories/business/2real/2real-agent/morning_inquiry_log.json` updated
+- **Next scheduled**: 2026-06-24 07:00 (Wednesday)
+- **Consecutive WhatsApp failures**: 20+ (since ~May 1, 2026)
 
-## 2026-06-09 (Tuesday 07:02 UTC+1)
-- **Status**: FAILED — WhatsApp bridge still offline (no OpenClaw process, port 18789 not listening)
-- **Issue**: No change. WhatsApp bridge remains offline since ~May 1, 2026 (~39 days). Gateway process not running. WhatsApp `enabled: false` in openclaw.json. Telegram also experiencing connectivity issues (InvalidToken error at 07:02 today).
-- **Action needed**: H must restart OpenClaw gateway from Windows (`gateway.cmd` or Windows Task "OpenClaw Gateway"). If session is expired, delete `C:\Users\User\.openclaw\credentials\whatsapp\233204252252\` and re-authenticate via QR code. Also check internet connectivity / DNS resolution on the Windows host.
-- **Message attempted**: Morning business inquiry — store status, Zobase stock levels, customer traffic at Kantamanto, any issues
-- **Next scheduled**: 2026-06-10 07:02 (Wednesday)
-- **Consecutive failures**: 13 (May 19, 20, 21, 22, 23, 27, 29, 30, Jun 1, 2, 4, 6, 9)
+## 2026-06-22 (Monday 07:00 UTC+1)
+- **Status**: PARTIAL — Telegram sent, WhatsApp failed, gateway BOM fix blocked
+- **WhatsApp**: `enabled: false` in openclaw.json. Gateway stopped.
+- **Gateway**: BOM in `openclaw/package.json` prevents startup.
+  - Attempted BOM removal via `[System.IO.File]::WriteAllBytes` — silently fails (protected dir)
+  - Attempted BOM removal via string method + Copy-Item — silently fails (protected dir)
+  - File at `C:\Users\User\AppData\Roaming\npm\node_modules\openclaw\package.json` starts with EF BB BF
+  - Error: `SyntaxError: Unexpected token '﻿', "﻿{\n\t\"name\""... is not valid JSON` at pi-coding-agent/dist/config.js:307
+  - Fix requires: `takeown` + `icacls` on the file, or `npm cache clean --force && npm install openclaw`, or manual BOM strip as admin
+- **Telegram fallback**: ✅ DELIVERED to `telegram:Agent Hermes / topic 20 (group)`
+- **Message sent**: Morning business inquiry — store status, weekend sales, stock levels, customer issues, problems
+- **Next scheduled**: 2026-06-23 07:00 (Tuesday)
+- **Consecutive WhatsApp failures**: 20+ (since ~May 1, 2026)
 
-## 2026-06-06 (Saturday 07:02 UTC+1)
-- **Status**: FAILED — WhatsApp bridge still offline (no OpenClaw process, port 18789 not listening)
-- **Issue**: No change. WhatsApp bridge remains offline since ~May 1, 2026 (~36 days). Gateway process not running. No WhatsApp activity in gateway logs. Telegram also experiencing DNS/network issues (api.telegram.org unreachable).
-- **Action needed**: H must restart OpenClaw gateway from Windows (`gateway.cmd` or Windows Task "OpenClaw Gateway"). If session is expired, delete `C:\Users\User\.openclaw\credentials\whatsapp\233204252252\` and re-authenticate via QR code. Also check internet connectivity / DNS resolution on the Windows host.
-- **Message attempted**: Morning business inquiry — store status, Zobase stock levels, customer traffic at Kantamanto, any issues
-- **Next scheduled**: 2026-06-07 07:02 (Sunday)
-- **Consecutive failures**: 12 (May 19, 20, 21, 22, 23, 27, 29, 30, Jun 1, 2, 4, 6)
+## 2026-06-20 (Saturday 07:00 UTC+1)
+- **Status**: PARTIAL — Telegram sent, WhatsApp failed (gateway stopped, openclaw JSON parse error)
 
-## 2026-06-04 (Thursday 07:02 UTC+1)
-- **Status**: FAILED — WhatsApp bridge still offline (no OpenClaw process, port 18789 not listening)
-- **Issue**: No change. WhatsApp bridge remains offline since ~May 1, 2026 (~34 days). Gateway process not running. No WhatsApp activity in gateway logs.
-- **Action needed**: H must restart OpenClaw gateway from Windows (`gateway.cmd` or Windows Task "OpenClaw Gateway"). If session is expired, delete `C:\Users\User\.openclaw\credentials\whatsapp\233204252252\` and re-authenticate via QR code.
-- **Message attempted**: Morning business inquiry — store status, Zobase stock levels, customer traffic at Kantamanto, any issues
-- **Next scheduled**: 2026-06-05 07:02 (Friday)
-- **Consecutive failures**: 11 (May 19, 20, 21, 22, 23, 27, 29, 30, Jun 1, 2, 4)
-
-[Earlier entries omitted — 10 consecutive failures May 19-Jun 2, same root cause]
+[Earlier entries: 18 consecutive failures May 19-Jun 18, same root causes]
 
 ---
-**Total consecutive failures**: 14
-**WhatsApp offline since**: ~May 1, 2026 (~41 days)
-**Gateway status**: OpenClaw process NOT running, port 18789 NOT listening
+**Total consecutive failures**: 20+
+**WhatsApp offline since**: ~May 1, 2026 (~52 days)
+**Gateway status**: Stopped (BOM in openclaw/package.json — protected dir, cannot auto-fix)
 **WhatsApp config**: `enabled: false` in openclaw.json
-**Gateway last restarted**: ~May 4, 2026 (~38 days ago)
-**All WhatsApp jobs affected**: 8 (sammy-morning-check, john-field-check, checkin-mum, checkin-dad, kanzoni-tuesday-check, ebony-goodnight, janet-friday-checkin, jnr-payment-reminder)
+**Required manual fix**:
+1. Open admin PowerShell
+2. Run: `[System.IO.File]::WriteAllBytes('C:\Users\User\AppData\Roaming\npm\node_modules\openclaw\package.json', [System.IO.File]::ReadAllBytes('C:\Users\User\AppData\Roaming\npm\node_modules\openclaw\package.json')[3..])`
+3. Then: `openclaw gateway start`
+4. Then: enable WhatsApp in openclaw.json and pair via `hermes whatsapp`

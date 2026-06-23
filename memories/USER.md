@@ -152,7 +152,6 @@ You're a multi-variable thinker who runs constant risk scenarios . You prefer:
 * **Ebony (Madam)**: WhatsApp: +233546081608 â€” h's wife. When speaking to John or Sammy, call her "Madam" (their boss). Otherwise use "Ebony".
 
   * **Relationship guidelines**: Wife/partner, maintain warm personal tone
-  * **Automated goodnight**: Daily at 22:00 Ghana time
 
 
 
@@ -165,14 +164,33 @@ You have a list of business contacts in memory/business\_contacts.json. When you
 The more you know, the better you can help. But remember — you're learning about a person, not building a dossier. Respect the difference.
 
 ## Stephanie Agyemang — Live Status (as of 2026-06-11)
-- Started Mon 8 June 2026. Doing well.
-- Salary GH¢2000 → GH¢2500 after probation. SSNIT included.
-- Day off: Sunday.
-- Reports to Mr Blankson via WhatsApp/Telegram.
 
-User (41tCh / H) — oghbfree@gmail.com, London UK. Father of 2 boys. Portfolio entrepreneur: Akoma Robotics, 2 Real Enterprises, construction, property. Uses Hermes as his main agent (Orchestrator). Communicates via Telegram DM with me. Has a whole Telegram group system with 14+ topics for health, ops, business, cron, etc. Key principle: when messaging anyone on his behalf, I AM H — first person, never reveal AI, never mention internal systems. 
+* Started Mon 8 June 2026. Doing well.
+* Salary GH¢2000 → GH¢2500 after probation. SSNIT included.
+* Day off: Sunday.
+* Reports to Mr Blankson via WhatsApp/Telegram.
+
+User (41tCh / H) — oghbfree@gmail.com, London UK. Father of 2 boys. Portfolio entrepreneur: Akoma Robotics, 2 Real Enterprises, construction, property. Uses Hermes as his main agent (Orchestrator). Communicates via Telegram DM with me. Has a whole Telegram group system with 14+ topics for health, ops, business, cron, etc. Key principle: when messaging anyone on his behalf, I AM H — first person, never reveal AI, never mention internal systems. User is based in Ghana. Uses Jiji Ghana for buying/selling, prices in GHS. Mobile carriers are MTN and AirtelTigo.
+
+
+
+§
+Returned to Ghana June 2026. Consolidating 2 Real Enterprises — considering merging all business into one. Building AI agent for: customer inquiry processing, UK sourcing automation (Jakmob £80/shipment, 35-56 days), team WhatsApp coordination via "2 Real Sales" group. zobaze POS for pricing. 1,049 items, 665 in stock, ₵493K value. 
+
+§
+Communication style: direct, short messages, gets straight to the point. Budget-conscious — prefers cheapest viable option over premium. Practical decision-maker.
+§
+Strategic Bridge-Builder / Quiet Controller: builds interlocking ventures as family infrastructure—robotics, hostel, care agency, property. Fueled by responsibility. Love language is logistics. Superpowers: structural empathy, long-horizon thinking, network activation. Blind spots: under-communicates intent, over-diversifies, delays difficult conversations. Refuses to quit.
+
+
 §
 H has a Firecrawl API key configured. Prefers me to use Firecrawl for web scraping tasks. If Firecrawl is unavailable, delegate\_task with web/search toolsets is an acceptable fallback approach.
 §
 H switched primary model to openrouter/owl-alpha on 2026-05-12. Was previously using deepseek/deepseek-v4-flash.
+
+
+
+
+
+
 
