@@ -1,0 +1,25 @@
+[
+  {
+    "date": "2026-06-25 07:03",
+    "channel": "telegram",
+    "recipient": "Sammy (Kantamanto)",
+    "recipient_phone": "0575252253",
+    "type": "morning_business_inquiry",
+    "status": "delivered",
+    "reason": "WhatsApp bridge offline (gateway_state.json: fatal/whatsapp_not_paired since 2026-06-07). Fallback to Telegram.",
+    "message_drafted": "Good morning Sammy! 👋 Quick check-in for Thursday:\n\n1. How's the store looking? Everything organized and ready for Thursday?\n2. Any sales to report from yesterday?\n3. Stock levels — anything running low we should flag? (Current snapshot: 1049 total items, 665 in stock, 384 out of stock, 480 low stock ≤2)\n4. Any customer issues or inquiries pending?\n5. Any problems or things you need from me?\n\nHave a great Thursday! 💪\n\n---\n*Note: WhatsApp bridge offline. This message sent via Telegram fallback.*",
+    "inventory_summary": {
+      "total_items": 1049,
+      "in_stock": 665,
+      "out_of_stock": 384,
+      "low_stock": 480
+    },
+    "delivered": true,
+    "delivered_at": "2026-06-25 07:03",
+    "fallback_channel": "telegram",
+    "fallback_target": "telegram:-1003784520976:20",
+    "fallback_status": "delivered",
+    "fallback_delivered_at": "2026-06-25 07:03",
+    "notes": "WhatsApp bridge remains offline since 2026-06-07 (not paired). Telegram fallback used."
+  }
+]

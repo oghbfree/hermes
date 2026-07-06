@@ -1,6 +1,6 @@
 # Real Estate Insights
 
-*Last updated: 2026-03-16 12:01*
+*Last updated: 2026-07-02*
 
 ---
 
@@ -203,14 +203,24 @@ binding wire 2 bundle,
 
 ---
 
-## Mum's Building Project (Weija/Senya)
-- **Structure**: 12×12 room with veranda
-- **Scope**: 1 bedroom apartment — bedroom, hall, toilet, bath, kitchen
+|## Mum's Building Project (Weija/Senya)
+|- **Structure**: 12×12 room with veranda
+|- **Scope**: 1 bedroom apartment — bedroom, hall, toilet, bath, kitchen
+|
+|- **Materials needed**: 250 blocks, 24 bags cement, wawa board (8), iron rods, pillars, shovels, wheelbarrow, nails, binding wire
+|- **Timeline**: 1 day foundation + 1 day concrete
+|- **Estimate**: ~£1,000 to build (comparable to Takoradi chamber)
+|- **During construction**: Mum staying at George's house in STC Weija with Maa Joyce
 
-- **Materials needed**: 250 blocks, 24 bags cement, wawa board (8), iron rods, pillars, shovels, wheelbarrow, nails, binding wire
-- **Timeline**: 1 day foundation + 1 day concrete
-- **Estimate**: ~£1,000 to build (comparable to Takoradi chamber)
-- **During construction**: Mum staying at George's house in STC Weija with Maa Joyce
+---
+
+### Mum's Building Project (Kokomlemle)
+|- **Identifier**: 41tCh
+|- **Location**: Kokomlemle, Accra
+|- **Type**: Chamber & Hall (for Mum)
+|- **Status**: Planned — see consolidated spec
+|- **Best site visit days**: Tue/Wed (per care protocols)
+|- **Full specs**: `business/construction/41tCh_BUILDING_PROJECTS.md`
 
 ---
 
@@ -3228,4 +3238,98 @@ planted the flowers
 tree tomatoes
 pomegrante
 ---
+
+---
+
+## Ghana Properties (Mum's Property - Updated 2026-06-30)
+
+### Property Overview
+- **Location**: Ghana (Mum's property)
+- **Structure**: 3-floor building with commercial ground floor
+- **Management**: Mum recently took over management; H (Oman Herbert Blankson) managing rent collection
+- **Status**: Tenancy documents pending for all units
+
+---
+
+### 1st Floor Tenant: Emmanuel Osei Ankomah
+- **Tenant**: Emmanuel Osei Ankomah
+- **Phone**: +233 54 203 4633 (Supplier #30)
+- **Goodwill**: Paid (awaiting tenancy documents)
+- **Previous Tenancy**: Expired 30 June 2022
+- **New Tenancy**: 5 years from 1 July 2022
+- **Rent Collection Period**: Charging from **January 2023** (not from July 2022)
+- **Rent Arrears Calculation**:
+  - **2023–2025 (3 years)**: 300 GHS/month = 10,800 GHS total
+  - **2026 (1 year)**: 400 GHS/month = 4,800 GHS total
+  - **Total Claimed Arrears (Jan 2023–Dec 2026)**: **15,600 GHS**
+- **Status**: Has not paid any rent to Mum or H
+- **Uncle Albert's Involvement**: Uncle Albert was managing; tenant (Emma) wants to know what he has paid Uncle Albert up to — Uncle Albert is checking
+- **Phone Contact**: +233 54 203 4633 (processed 2026-06-23 as Supplier #30)
+- **Status**: Awaiting tenancy documents; rent reconciliation with Uncle Albert pending
+
+---
+
+### 2nd Floor Tenant: Esther Nana Ama
+- **Tenant**: Esther Nana Ama
+- **Management**: Mum recently took over (awaiting tenancy documents and rent start date confirmation)
+- **Rent Period**: Charging from when Mum took over
+- **2026 Rent**: 200 GHS × 12 months = **2,400 GHS**
+- **Status**: Awaiting tenancy documents and confirmed rent commencement date
+- **Note**: Jnr's 30/6/2026 payment of 200 GHS was for a *different property* — not Esther's rent
+
+---
+
+### Ground Floor Tenant (Shop): Maame Esi
+- **Tenant**: Maame Esi
+- **Goodwill**: 200,000 GHS (5-year term)
+- **Monthly Rent**: 350 GHS/month
+- **Rent Start**: August or September 2024 (TBD)
+- **Status**: 
+  - Said she will bring money for the shop **tomorrow noon**
+  - **Action**: H and Freeman going Saturday to remove fixtures and fittings
+- **Total 5-Year Value**: 200,000 (goodwill) + 21,000 (rent @ 350 × 60 months) = **221,000 GHS**
+
+---
+
+### Summary: Total Projected Annual Rent (from 2026)
+| Unit | Tenant | Monthly Rent | Annual Rent |
+|------|--------|--------------|-------------|
+| 1st Floor | Emmanuel Osei Ankomah | 400 GHS | 4,800 GHS |
+| 2nd Floor | Esther Nana Ama | 200 GHS | 2,400 GHS |
+| Ground Floor | Maame Esi (Shop) | 350 GHS | 4,200 GHS |
+| **Total** | | **950 GHS/month** | **11,400 GHS/year** |
+
+---
+
+### Outstanding Arrears Summary (as of 2026-06-30)
+|| Tenant | Period | Amount ||
+|--------|--------|--------|
+| Emmanuel Osei Ankomah | Jan 2023 – Dec 2026 | 15,600 GHS |
+| Esther Nana Ama | 2026 (from Mum's takeover) | **2,400 GHS** (Jnr's 30/6 payment was for different property) |
+| Maame Esi | Aug/Sep 2024 onwards | TBD (pending rent start date) |
+
+---
+
+### Action Items
+- [ ] Collect tenancy documents from all three tenants
+- [ ] Reconcile Emmanuel's payments with Uncle Albert
+- [ ] Confirm Esther's rent start date (from Mum's takeover)
+- [ ] Confirm Maame Esi's rent start month (Aug vs Sep 2024)
+- [ ] H & Freeman: Remove fixtures/fittings Saturday
+- [ ] Collect Maame Esi's shop payment (tomorrow noon)
+- [ ] Formalize all tenancy agreements with signed documents
+- [ ] Reconcile Uncle Albert's collections for Emmanuel's period
+
+---
+
+### Related Contacts
+- **Emmanuel Osei Ankomah**: +233 54 203 4633 (Ghana Supplier #30, processed 2026-06-23)
+- **Uncle Albert**: Previous manager, verifying payment records for Emmanuel
+- **Freeman**: Assisting with fixture/fitting removal Saturday
+
+---
+
+### Source
+- Updated: 2026-06-30 from Telegram conversation (Agent Hermes thread)
+- Source conversation: Mum's property tenant updates
 

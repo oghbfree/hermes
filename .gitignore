@@ -25,6 +25,8 @@ google_*token*.json
 # GDrive tokens and credentials
 2real-agent/gdrive_credentials.json
 2real-agent/gdrive_token.json
+Vault/business/2real/2real-agent/gdrive_credentials.json
+Vault/business/2real/2real-agent/gdrive_token.json
 memories/jobs/tmp_access_token.txt
 
 # Large binary files
@@ -60,3 +62,6 @@ memories/security/
 memory/Security/
 cron/output/
 skills/devops/system-security-audit/references/sample-audit-report.md
+
+# Embedded git repos
+Vault/family/mum/health/workspace/

@@ -175,7 +175,7 @@ User (41tCh / H) — oghbfree@gmail.com, London UK. Father of 2 boys. Portfolio 
 
 
 §
-Returned to Ghana June 2026. Consolidating 2 Real Enterprises — considering merging all business into one. Building AI agent for: customer inquiry processing, UK sourcing automation (Jakmob £80/shipment, 35-56 days), team WhatsApp coordination via "2 Real Sales" group. zobaze POS for pricing. 1,049 items, 665 in stock, ₵493K value. 
+Returned to Ghana June 2026. Consolidating 2 Real Enterprises — considering merging all business into one. Building AI agent for: customer inquiry processing, UK sourcing automation (Jakmob £80/shipment, 35-56 days), team WhatsApp coordination via "2 Real Sales" group. zobaze POS for pricing. 1,049 items, 665 in stock, ₵493K value.
 
 §
 Communication style: direct, short messages, gets straight to the point. Budget-conscious — prefers cheapest viable option over premium. Practical decision-maker.
@@ -183,14 +183,12 @@ Communication style: direct, short messages, gets straight to the point. Budget-
 Strategic Bridge-Builder / Quiet Controller: builds interlocking ventures as family infrastructure—robotics, hostel, care agency, property. Fueled by responsibility. Love language is logistics. Superpowers: structural empathy, long-horizon thinking, network activation. Blind spots: under-communicates intent, over-diversifies, delays difficult conversations. Refuses to quit.
 
 
+
 §
 H has a Firecrawl API key configured. Prefers me to use Firecrawl for web scraping tasks. If Firecrawl is unavailable, delegate\_task with web/search toolsets is an acceptable fallback approach.
 §
 H switched primary model to openrouter/owl-alpha on 2026-05-12. Was previously using deepseek/deepseek-v4-flash.
 
-
-
-
-
-
+Kwame Nkrumah quote H lives by: "Forward ever, backward never." Core operating principle: always be learning from past sessions, never forget, never re-teach H the same thing twice. Memory and skills are sacred — use them every session.
+§
 

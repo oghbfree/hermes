@@ -1,42 +1,48 @@
-import json, urllib.request, os
+import json, urllib.request, sys, os, re
+from pathlib import Path
+from datetime import datetime, timezone, timedelta
 
-env_path = os.path.join(os.path.expanduser("~"), ".hermes", ".env")
+env_path = Path.home() / '.hermes' / '.env'
 token = None
-with open(env_path, "r", encoding="utf-8") as f:
-    for line in f:
-        if "TELEGRAM_BOT_TOKEN" in line and "=" in line:
-            token = line.strip().split("=", 1)[1].strip()
-            break
+try:
+    with open(env_path, 'r', encoding='utf-8') as f:
+        content = f.read()
+        m = re.search(r'^TELEGRAM_BOT_TOKEN=(.+)$', content, re.MULTILINE)
+        if m:
+            token = m.group(1).strip()
+except Exception as e:
+    print('ERROR reading token:', e)
+    sys.exit(1)
 
-message = (
-    "🫂 Evening care check-in for Comfort Blankson (Mum)\n\n"
-    "A few quick updates please:\n\n"
-    "1. Dinner — has she eaten? What did she have?\n"
-    "2. Evening medications — have they been taken?\n"
-    "3. Any pain, discomfort, or issues we should know about?\n"
-    "4. Energy and mood — how does she seem this evening?\n"
-    "5. Overall day summary — how was today for her?\n\n"
-    "Thank you 🌙"
-)
+if not token:
+    print('ERROR: No token found')
+    sys.exit(1)
 
-payload = json.dumps({
-    "chat_id": "-1003784520976",
-    "message_thread_id": "4",
-    "text": message
-}, ensure_ascii=False).encode("utf-8")
+print('Token loaded: ' + token[:8] + '...')
 
-url = f"https://api.telegram.org/bot{token}/sendMessage"
-req = urllib.request.Request(url, data=payload, headers={
-    "Content-Type": "application/json; charset=utf-8"
-}, method="POST")
+chat_id = '-1003784520976'
+topic_id = 4
+text = """Evening check-in for Mum:
+• Dinner — have you eaten? What?
+• Evening medications taken?
+• Any pain, discomfort, or issues?
+• Energy and mood?
+• Overall day summary — how was today?"""
 
+url = f'https://api.telegram.org/bot{token}/sendMessage'
+data = json.dumps({
+    'chat_id': chat_id,
+    'message_thread_id': topic_id,
+    'text': text
+}).encode('utf-8')
+req = urllib.request.Request(url, data=data, headers={'Content-Type': 'application/json'})
 try:
     with urllib.request.urlopen(req, timeout=15) as resp:
-        result = json.loads(resp.read().decode("utf-8"))
-        print(json.dumps(result, ensure_ascii=False, indent=2))
-except urllib.error.HTTPError as e:
-    print(json.dumps({
-        "ok": False,
-        "error_code": e.code,
-        "description": e.read().decode("utf-8", errors="replace")
-    }, ensure_ascii=False, indent=2))
+        result = json.loads(resp.read().decode('utf-8'))
+        if result.get('ok'):
+            print('Message sent successfully. Message ID:', result['result']['message_id'])
+        else:
+            print('API error:', result)
+except Exception as e:
+    print('Request failed:', e)
+    sys.exit(1)

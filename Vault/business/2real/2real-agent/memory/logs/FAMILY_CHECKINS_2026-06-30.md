@@ -1,0 +1,1 @@
+2026-06-30 | 22:05 | Recipient: Ebony | Variation/Msg: C | Status: Failed (WhatsApp bridge offline — run `hermes whatsapp` to re-pair)

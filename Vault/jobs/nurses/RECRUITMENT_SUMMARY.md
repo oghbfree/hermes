@@ -4,10 +4,10 @@
 
 ### Totals
 
-- **52 total applicants** (updated 2026-06-22)
-- **Nurses: 39** (NMC certified: 22/39, 3-5yrs experience: 13/39, has car: 1/39, has licence: 6/39)
+- **57 total applicants** (updated 2026-06-29)
+- **Nurses: 43** (NMC certified: 22/43, 3-5yrs experience: 13/43, has car: 1/43, has licence: 6/43)
 - **Facilitators: 3** (Eyiah #1, Patrick Bediako #2, Kwaku #3)
-- **Construction: 8** (Awal #1, Kwame #2, Derrick #3)
+- **Construction: 9** (Awal #1, Kwame #2, Derrick #3)
 - **Financial Literacy: 2** (Felix Boateng #1, Benjamin Lolo #2)
 
 ### Top Candidates
@@ -37,6 +37,10 @@
 
 ### Detailed Reports
 
+- [[jobs/APPLICATIONS-REPORT-2026-06-29.md]] (+1 nurse)
+- [[jobs/APPLICATIONS-REPORT-2026-06-28.md]] (no new)
+- [[jobs/APPLICATIONS-REPORT-2026-06-26.md]] (+2 total: 1 nurse, 1 construction)
+- [[jobs/APPLICATIONS-REPORT-2026-06-23.md]] (no new)
 - [[jobs/APPLICATIONS-REPORT-2026-06-22.md]] (no new)
 - [[jobs/APPLICATIONS-REPORT-2026-06-20.md]] (+1 nurse)
 - [[jobs/APPLICATIONS-REPORT-2026-06-17.md]]
@@ -48,10 +52,10 @@
 - [[jobs/APPLICATIONS-REPORT-2026-04-09.md]]
 
 ### Status
-- **Google Sheets Auth: ACTIVE** — Token refreshed 2026-06-22
-- Last successful pull: 2026-06-22
+- **Google Sheets Auth: ACTIVE** — Token refreshed 2026-06-29
+- Last successful pull: 2026-06-29
 - All 4 pipelines accessible
-- Next pull scheduled: 2026-06-23
+- Next pull scheduled: 2026-06-30
 
 ## Related
 

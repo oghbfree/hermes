@@ -129,13 +129,12 @@
     {
       "id": "b787e85493ea",
       "name": "sunday-content-engine",
-      "prompt": "Read C:\\Users\\User\\.hermes\\workspace\\content-assets\\SUNDAY_CONTENT_ENGINE_PROMPT.md and execute the full content generation workflow for the coming week. Generate all captions, scripts, and images for both Akoma Robotics and 2Real Enterprises across all 6 platforms. Use the TAIWAH_MASTER_PROMPT.md for all 2Real image generation. Save all assets to C:\\Users\\User\\.hermes\\content-output\\. Present the completed plan in the specified delivery format.",
+      "prompt": "Read C:\\Users\\User\\.hermes\\workspace\\Vault\\business\\Content\\content-assets\\SUNDAY_CONTENT_ENGINE_PROMPT.md and execute it exactly as written. Do not invent or omit steps; follow the prompt’s brand schedule, platform requirements, asset paths, and formatting rules. Use image_gen with image_url for image-to-image polish, and video_gen with image_url for video-to-video refinement where the backend supports it. Render only the final assets; replace draft media with final media before delivery.",
       "skills": [
-        "ai-influencer-content-pipeline",
-        "manim-video",
-        "hyperframes"
+        "social-media-operations",
+        "songwriting-and-ai-music"
       ],
-      "skill": "ai-influencer-content-pipeline",
+      "skill": "social-media-operations",
       "model": null,
       "provider": null,
       "base_url": null,

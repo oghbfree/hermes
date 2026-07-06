@@ -46,7 +46,7 @@ for name, info in sheets.items():
 
 # Save raw data
 today = datetime.date.today().strftime('%Y-%m-%d')
-out_path = fr'C:\Users\User\.hermes\workspace\memories\jobs\sheets-raw-{today}.json'
+out_path = fr'C:\Users\User\.hermes\workspace\Vault\jobs\sheets-raw-{today}.json'
 with open(out_path, 'w', encoding='utf-8') as f:
     json.dump(results, f, ensure_ascii=False, indent=2)
 print(f"\nSaved to {out_path}")

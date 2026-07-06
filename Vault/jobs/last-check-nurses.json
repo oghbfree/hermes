@@ -1,1 +1,8 @@
-﻿{"lastProcessedRow": 0}
+{
+  "role": "nurses",
+  "last_check": "2026-07-04T08:02:00.000000Z",
+  "total_applicants": 45,
+  "new_since_last": 0,
+  "last_timestamp": "30/06/2026 10:47:19",
+  "auth_status": "active"
+}
