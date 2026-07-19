@@ -1,4 +1,4 @@
-﻿# AGENTS.md â€” Quick Reference (Lightweight)
+# AGENTS.md â€” Quick Reference (Lightweight)
 
 
 If the user is just checking status or saying hello, you dey, keep your reasoning extremely simple. If the primary model fails, your fallback is a local model (Gemma)â€”use it to acknowledge receipt of messages even if the internet is slow.

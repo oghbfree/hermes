@@ -1,0 +1,35 @@
+📋 INTEGRATED DAILY SYNTHESIS — 2026-07-18
+
+🔴 CRITICAL (4):
+1. Telegram bot token REVOKED — HTTP 404 confirmed. ALL delivery dead.
+2. Gateway UNSTABLE — PID 13808 on Python 3.11 but log 30 days stale. Historical crash loop.
+3. 12 backup .env copies — raw OpenRouter/Telegram/Google/xAI keys exposed.
+4. Host DNS broken — 83% cron failures across 17+ job IDs (Telegram, Google, OpenRouter).
+
+⚠️ HEALTH ESCALATIONS:
+• Comfort (Mum, 91): STABLE but 5-DAY LOG GAP (Jul 14-18 missing)
+• H (Oman): Electrical shock follow-up 34 days OVERDUE, no vitals 45 days, no entries Jul 8-18
+• Dad: 3-day check 2 days overdue (due Jul 16)
+
+💼 BUSINESS:
+• 2Real: 1,049 items (665 in stock, 63.4%), 480 LOW-STOCK (≤2) — power tools critical (Jack/Blower/Battery/Recip Saw at 1-2 units)
+• 2Real Inventory Auto-Sync 00:00 FAILED (DNS), 02:00 up to date (last sync Jun 13 — 35 days stale)
+• Marketplace Monitor: empty response; Jiji jobs flooding 140+/day failures
+• Channel integrity: WhatsApp 69d down, Telegram token DEAD, Gateway unstable
+
+🔒 SECURITY: CRITICAL FAIL — 7 findings (revoked token, 12 .env copies, WhatsApp down, gateway unstable, DNS failure, 27/42 cron jobs silent delivery, config drift v29→v33). Workspace .env readers RESOLVED. AGENTS.md BOM RESOLVED.
+
+🖥️ SYSTEM: 17% Cron SLA — 83% failure rate. Backup Jul 13 SUCCESS (27,567 files, 5 DBs verified). Config drift 4 versions behind.
+
+🎯 TODAY (P0):
+1. Rotate Telegram token @BotFather → update ~/.hermes/.env
+2. Delete 12 non-canonical .env copies
+3. Fix gateway: pip install concurrent-log-handler (Python 3.11) → hermes gateway run --replace
+4. Fix host DNS (8.8.8.8 / 1.1.1.1)
+
+📁 Reports saved:
+• Vault/Daily/2026-07-18.md
+• Vault/System/Assistant/SECURITY_AUDIT_2026-07-18.md
+• MEMORY.md updated
+
+Full synthesis: ~/.hermes/workspace/Vault/Daily/2026-07-18.md

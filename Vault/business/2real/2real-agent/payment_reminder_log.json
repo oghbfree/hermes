@@ -58,5 +58,20 @@
     "fallback_status": "delivered",
     "fallback_delivered_at": "2026-06-28T10:05:00",
     "notes": "WhatsApp gateway shows 'fatal' state with 'whatsapp_not_paired' error. Channel directory empty for WhatsApp. Jnr's phone number not in system contacts. Sent via Telegram fallback (topic 20). Remediation needed: (1) Run 'hermes whatsapp' to pair WhatsApp gateway, (2) Add Jnr's phone number to config.json or customer_leads.json for direct WhatsApp delivery."
+  },
+  {
+    "timestamp": "2026-07-13T10:15:00",
+    "task": "payment_reminder",
+    "recipient": "Jnr",
+    "channel": "whatsapp",
+    "status": "partial",
+    "reason": "WhatsApp gateway state 'fatal' with error 'whatsapp_not_paired' - not paired. Channel directory shows empty WhatsApp contacts. Jnr's phone number not stored in system contacts. Sent via Telegram fallback.",
+    "message_prepared": "Dear Jnr,\n\nThis is a professional reminder regarding the outstanding payment owed to 2Real Auto Parts.\n\nWe value our business relationship and would appreciate your prompt attention to this outstanding balance. Please let us know when we can expect payment or if there are any issues we should discuss.\n\nWe value our relationship and appreciate your prompt attention to this matter.\n\nBest regards,\n2Real Auto Parts",
+    "fallback_attempted": true,
+    "fallback_channel": "telegram",
+    "fallback_target": "telegram:-1003784520976:20",
+    "fallback_status": "delivered",
+    "fallback_delivered_at": "2026-07-13T10:15:00",
+    "notes": "WhatsApp gateway shows 'fatal' state with 'whatsapp_not_paired' error. Channel directory empty for WhatsApp. Jnr's phone number not in system contacts. Sent via Telegram fallback (topic 20). Remediation needed: (1) Run 'hermes whatsapp' to pair WhatsApp gateway, (2) Add Jnr's phone number to config.json or customer_leads.json for direct WhatsApp delivery."
   }
 ]

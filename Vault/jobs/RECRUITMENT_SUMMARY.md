@@ -4,10 +4,10 @@
 
 ### Totals
 
-- **61 total applicants** (updated 2026-07-04)
-- **Nurses: 45** (NMC certified: 24/45, 3-5yrs experience: 14/45, has car: 1/45, has licence: 7/45)
+- **64 total applicants** (updated 2026-07-19)
+- **Nurses: 47** (NMC certified: 30/47, NMC + 3–5yrs experience: 7/47, top pick: Charlotte Nortey — NMC + car + licence)
 - **Facilitators: 3** (Eyiah #1, Patrick Bediako #2, Kwaku #3)
-- **Construction: 11** (Awal #1, Kwame #2, Derrick #3, Amuzu #4, Bright Kwame #5 NEW)
+- **Construction: 12** (Awal #1, Kwame #2, Derrick #3, Amane John #4, Amuzu #5, Woedzagbagba #6, Eric #7)
 - **Financial Literacy: 2** (Felix Boateng #1, Benjamin Lolo #2)
 
 ### Top Candidates
@@ -16,13 +16,13 @@
 - NMC ✅ | 3-5yrs experience | Has car + licence
 - Phone: 0545995731
 
-**Nurse #2: Ida Abbey-Quaye** (NEW)
-- NMC ✅ | 3-5yrs experience | CNA | Evidence ✅
-- Phone: 0504867696
+**Nurse #2: Tetteh Dorcas Worlali**
+- NMC ✅ | 3-5yrs experience
+- Phone: 0543168947
 
-**Nurse #3: Mohammed Shaibu**
-- NMC ✅ | 3-5yrs experience | Licence ✅
-- Phone: — Tamale
+**Nurse #3: Helen Kwakye**
+- NMC ✅ | 3-5yrs experience
+- Phone: 0247-048-066
 
 **Financial Literacy #1: Felix Ayettey Boateng**
 - Bachelor's | 1-2yrs teaching | Digital comfort 10/10
@@ -33,40 +33,45 @@
 **Construction #1: AWAL MOHAMMED HASHIM**
 - Mason/Blockworker | 10+yrs | Foreman ✅
 
-**Construction #4: Amuzu David Lauren** (NEW)
-- Steel Bender/Fixer | 10+yrs | Foreman ✅
-
-**Construction #5: Woedzagbagba Bright Kwame** (NEW TODAY)
-- Mason/Blockworker | 6-10yrs | Foreman ✅ | East Legon Hills
-
 **Facilitator #1: Eyiah Michael Osardu**
 - BSc IT | mBot exp | Coding 5/5 | Mon-Fri avail
 
+### Latest New Applicant (2026-07-19 pull)
+
+**Pamela Ama Kyerewaa Peprah** — Nurse applicant (18/07/2026)
+- Accra | High school | Not NMC-registered | 0–2 yrs exp | Licence ✅ | Car ❌
+- Below priority threshold; retained in pipeline.
+
 ### Detailed Reports
 
+- [[jobs/APPLICATIONS-REPORT-2026-07-19.md]] (+1 nurse, below threshold)
+- [[jobs/APPLICATIONS-REPORT-2026-07-15.md]] (no new)
+- [[jobs/APPLICATIONS-REPORT-2026-07-14.md]] (no new)
+- [[jobs/APPLICATIONS-REPORT-2026-07-13.md]] (no new)
+- [[jobs/APPLICATIONS-REPORT-2026-07-12.md]] (no new)
+- [[jobs/APPLICATIONS-REPORT-2026-07-11.md]] (no new)
+- [[jobs/APPLICATIONS-REPORT-2026-07-10.md]] (no new)
+- [[jobs/APPLICATIONS-REPORT-2026-07-08.md]] (no new)
+- [[jobs/APPLICATIONS-REPORT-2026-07-07.md]] (no new)
 - [[jobs/APPLICATIONS-REPORT-2026-07-04.md]] (no new)
-- [[jobs/APPLICATIONS-REPORT-2026-07-03.md]] (+1 construction: Bright Kwame, Mason/Blockworker 6-10yrs, Foreman)
-- [[jobs/APPLICATIONS-REPORT-2026-07-02.md]] (+3 total: 2 nurses, 1 construction)
+- [[jobs/APPLICATIONS-REPORT-2026-07-03.md]] (no new)
+- [[jobs/APPLICATIONS-REPORT-2026-07-02.md]] (no new)
 - [[jobs/APPLICATIONS-REPORT-2026-06-29.md]] (+1 nurse)
 - [[jobs/APPLICATIONS-REPORT-2026-06-28.md]] (no new)
 - [[jobs/APPLICATIONS-REPORT-2026-06-26.md]] (+2 total: 1 nurse, 1 construction)
 - [[jobs/APPLICATIONS-REPORT-2026-06-23.md]] (no new)
 - [[jobs/APPLICATIONS-REPORT-2026-06-22.md]] (no new)
 - [[jobs/APPLICATIONS-REPORT-2026-06-20.md]] (+1 nurse)
-- [[jobs/APPLICATIONS-REPORT-2026-06-17.md]]
-- [[jobs/APPLICATIONS-REPORT-2026-06-16.md]]
-- [[jobs/APPLICATIONS-REPORT-2026-06-13.md]]
-- [[jobs/APPLICATIONS-REPORT-2026-06-11.md]]
 - [[jobs/APPLICATIONS-REPORT-2026-05-28.md]]
 - [[jobs/APPLICATIONS-REPORT-2026-05-27.md]]
 - [[jobs/APPLICATIONS-REPORT-2026-04-09.md]]
 
 ### Status
 
-- **Google Sheets Auth: ACTIVE** — Token refreshed 2026-07-04
-- Last successful pull: 2026-07-04
+- **Google Sheets Auth: ACTIVE** — Token refreshed 2026-07-19
+- Last successful pull: 2026-07-19
 - All 4 pipelines accessible
-- Next pull scheduled: 2026-07-05
+- Next pull scheduled: 2026-07-20
 
 ## Related
 

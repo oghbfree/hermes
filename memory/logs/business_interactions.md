@@ -18,73 +18,77 @@
   - Kingsford: email provided in thread
   - Magnus Duke Dadzie (`magnus.dadzie@gmail.com`) — appears to be Kingsford's relationship context or advisor
   - Lender contact: Agne / Danny at Black & White Bridging
-- **Registered office lender**: York House, 1300 Parkway North, Stoke Gifford, Bristol, BS34 8YU
-- **FCA status**: Lender not authorised/regulated for products/services; only supervised for AML
 
-## Relationship to H
-Unresolved — Kingsford may be a client, relative, or representative acting on H's behalf. The £400k purchase price and £150k gifted equity suggest this is a significant transaction for H's UK property interests.
+---
 
-## 2026-06-23 08:06 — John Morning Check-In
-- **Channel:** Telegram (WhatsApp offline)
-- **Recipient:** John (Sales & Marketing) — `0233352252`
-- **Status:** Delivered
-- **Topics:** School partnerships, Jiji listings, Zobase updates
-- **Notes:** WhatsApp bridge offline (fatal/whatsapp_not_paired). 20+ consecutive failures. Fallback to Telegram topic 20.
+## Morning Check-ins Log
 
-## 2026-06-25 07:04 — Morning Business Inquiry → Sammy (Kantamanto)
-- **Channel:** Telegram fallback (WhatsApp is not paired)
-- **Target:** telegram:-1003784520976:20
-- **Status:** Delivered ✅
-- **Type:** Morning check-in (store status, sales, stock, issues)
-- **Notes:** WhatsApp bridge in fatal/not_paired state, gateway stopped. Used last inventory snapshot from Jun 25.
-
-## 2026-06-26 07:04 — Morning Business Inquiry → Sammy (Kantamanto)
-- **Channel:** Telegram fallback (WhatsApp bridge offline)
-- **Target:** telegram:-1003784520976:20
-- **Status:** Delivered ✅
-- **Type:** Morning check-in (store status, sales, stock, issues)
-- **Notes:** WhatsApp bridge in fatal/not_paired state, gateway stopped. Used last inventory snapshot from Jun 25.
-
-## 2026-06-26 08:04 - Morning Check-in to John (Sales & Marketing)
-- **Channel:** Telegram (fallback from WhatsApp)
-- **WhatsApp status:** Error 503 - Not connected (bridge paired but not connected)
-- **Telegram delivery:** ✅ Delivered to topic telegram:-1003784520976:20
-- **Topics covered:** School partnerships, Jiji listings, Zobase updates
-- **Notes:** WhatsApp bridge has been unreliable since early June. 20+ consecutive failures.
-
-## 2026-06-29 07:14 - Morning Business Inquiry → Sammy (Kantamanto)
-- **Channel:** Telegram fallback (WhatsApp bridge offline)
-- **Target:** telegram:-1003784520976:20
-- **Status:** Delivered ✅
-- **Type:** Morning check-in (store status, sales, stock, issues)
-- **Notes:** WhatsApp bridge in fatal/not_paired state, gateway stopped. Used last inventory snapshot from Jun 25 (stale).
-
-## 2026-06-29 07:27 - Morning Business Inquiry → John (Sales & Marketing)
-- **Channel:** Telegram fallback (WhatsApp bridge offline)
-- **Target:** telegram:-1003784520976:20
-- **Status:** Delivered ✅
-- **Type:** Morning check-in (school partnerships, Jiji listings, Zobase updates, customer inquiries)
-- **Topics covered:**
-  1. School partnerships - any updates or new leads from Akoma Robotics outreach?
-  2. Jiji listings - how are they performing? Any new listings needed this week (target: 5+ with photos + posters)?
-  3. Zobase updates - inventory sync status, any sync issues or transaction discrepancies?
-  4. Any customer inquiries or sourcing requests pending?
-  5. Anything you need from me today?
-- **Notes:** WhatsApp bridge remains offline (state: fatal, error: whatsapp_not_paired). Fallback message delivered to Telegram topic 20 via hermes send. Inventory snapshot current as of 2026-06-29: 1049 total items, 665 in stock, 384 out of stock, 480 low stock (≤2).
-## 2026-07-02 08:05 — John Morning Check-In
-- **Channel:** Telegram (WhatsApp bridge offline — not paired since ~May 18)
-- **Recipient:** John (Sales & Marketing) — `0233352252`
+## 2026-07-08 07:06 — Sammy Morning Check-In (Wednesday)
+- **Channel:** Telegram (WhatsApp bridge offline — fatal/whatsapp_not_paired, Day 68+)
+- **Recipient:** Sammy (Kantamanto Store Manager) — 0575252253
 - **Status:** ✅ Delivered to telegram:-1003784520976:20
-- **Topics:** School partnerships, Jiji listings, Zobase updates, Customer inquiries
-- **Notes:** 14th consecutive WhatsApp failure. Logged to morning_inquiry_log.json (entry #14)
+- **Topics:** Store readiness, yesterday's sales, stock levels, customer issues, needs
+- **Inventory:** 1049 total, 665 in stock, 384 out of stock, 480 low stock (≤2)
+- **Notes:** 69th consecutive WhatsApp failure. Telegram fallback working reliably.
 
-## 2026-07-03 08:05 — John Morning Check-In (Friday)
-- **Channel:** Telegram (WhatsApp bridge offline — fatal/whatsapp_not_paired, 45+ days)
+## 2026-07-10 07:02 — Morning Business Inquiry → Sammy (Kantamanto)
+- **Channel:** Telegram fallback (WhatsApp bridge offline — fatal/whatsapp_not_paired, Day 70+)
+- **Target:** telegram:-1003784520976:20
+- **Status:** Delivered ✅
+- **Type:** Morning check-in (store status, sales, stock, issues, needs)
+- **Inventory:** 1049 total items, 665 in stock, 384 out of stock, 480 low stock (≤2)
+- **Low stock details:** Hydraulic Bottle Jack HBJ602 (1), Lithium-Ion aspirator blower CABLI2001 (1), Lithium-Ion battery pack 20V FBLI20011 (2), and 477 other items at ≤2 units
+- **Notes:** 71st consecutive WhatsApp failure. WhatsApp bridge remains in fatal/whatsapp_not_paired state since 2026-06-07. Telegram fallback via hermes send working reliably. Inventory snapshot from Vault/business/2real/2real-agent/inventory_agent.json (current).
+
+## 2026-07-10 08:02 — John Morning Check-In (Friday)
+- **Channel:** Telegram (WhatsApp bridge offline — fatal/whatsapp_not_paired, Day 70+)
 - **Recipient:** John (Sales & Marketing) — `0233352252`
 - **Status:** ✅ Delivered to telegram:-1003784520976:20
 - **Topics:** School partnerships, Jiji listings, Zobase updates, Customer inquiries
 - **Inventory:** 1049 total, 665 in stock, 384 out of stock, 480 low stock (≤2)
-- **Notes:** 30th+ consecutive WhatsApp failure. Telegram fallback working reliably.
+- **Notes:** 72nd consecutive WhatsApp failure. Telegram fallback working reliably. Message sent via hermes send.
 
-- **2026-07-03 11:47** — Morning check-in sent to Sammy (Kantamanto) via Telegram fallback (WhatsApp offline, Day 63+). Delivered to Telegram topic 20 via hermes send.
-- **2026-07-04 07:02** — Morning check-in sent to Sammy (Kantamanto) via Telegram fallback (WhatsApp offline — fatal/whatsapp_not_paired, Day 64+). Inventory: 1049 total, 665 in stock, 384 OOS, 480 low stock. Delivered to Telegram topic 20 via hermes send. ✅
+## 2026-07-13 07:04 — Morning Business Inquiry → Sammy (Kantamanto)
+- **Channel:** Telegram fallback (WhatsApp bridge offline — fatal/whatsapp_not_paired, Day 73+)
+- **Target:** telegram:-1003784520976:20
+- **Status:** Delivered ✅
+- **Type:** Morning check-in (store status, sales, stock, issues, needs)
+- **Inventory:** 1049 total items, 665 in stock, 384 out of stock, 480 low stock (≤2)
+- **Low stock details:** Hydraulic Bottle Jack HBJ602 (1), Lithium-Ion aspirator blower CABLI2001 (1), Lithium-Ion battery pack 20V FBLI20011 (2), and 477 other items at ≤2 units
+- **Notes:** 75th consecutive WhatsApp failure. WhatsApp bridge remains in fatal/whatsapp_not_paired state since 2026-06-07. Telegram fallback via hermes send working reliably. Inventory snapshot from Vault/business/2real/2real-agent/inventory_agent.json (current). Sent "Good morning Sammy! Quick check-in for Monday..." with 5-point checklist.
+
+## 2026-07-14 07:02 — Morning Business Inquiry → Sammy (Kantamanto)
+- **Channel:** Telegram fallback (WhatsApp bridge offline — fatal/whatsapp_not_paired, Day 74+)
+- **Target:** telegram:-1003784520976:20
+- **Status:** Delivered ✅
+- **Type:** Morning check-in (store status, sales, stock, issues, needs)
+- **Inventory:** 1049 total items, 665 in stock, 384 out of stock, 480 low stock (≤2)
+- **Low stock details:** Hydraulic Bottle Jack HBJ602 (1), Lithium-Ion aspirator blower CABLI2001 (1), Lithium-Ion battery pack 20V FBLI20011 (2), and 477 other items at ≤2 units
+- **Notes:** 76th consecutive WhatsApp failure. WhatsApp bridge remains in fatal/whatsapp_not_paired state since 2026-06-07. Telegram fallback via hermes send working reliably. Inventory snapshot from Vault/business/2real/2real-agent/inventory_agent.json (current). Sent "Good morning Sammy! Quick check-in for Tuesday..." with 5-point checklist.
+
+## 2026-07-14 07:04 — Morning Wellbeing Check-In → Kanzoni (Associate / Farm Visit) — Tuesday
+- **Channel:** Telegram fallback (WhatsApp bridge offline — fatal/whatsapp_not_paired, Day 74+)
+- **Target:** telegram:-1003784520976:20
+- **Status:** Delivered ✅
+- **Type:** Tuesday wellbeing check-in (personal wellbeing + farm visit coordination)
+- **Recipient:** Kanzoni — +233****7794 (shared with Mike/Ofori; NOT sent to WhatsApp per protocol)
+- **Topics:** How are you keeping? How are things going? When can you pass by the farm?
+- **Inventory:** 1049 total, 665 in stock, 384 out of stock, 480 low stock (≤2)
+- **Notes:** 77th consecutive WhatsApp failure. WhatsApp bridge remains in fatal/whatsapp_not_paired state since 2026-06-07. Kanzoni check-in follows farm-visit/associate protocol (wellbeing + farm coordination), not retail store ops. Telegram fallback via hermes send working reliably. Inventory snapshot from Vault/business/2real/2real-agent/inventory_agent.json (current). Sent "Good morning Kanzoni! How have you been keeping? Just checking in on you this Tuesday — how are things going on your end? When can you pass by the farm? Hope all is well with you. 🙏"
+
+## 2026-07-14 07:10 — Morning Business Inquiry → John (Sales & Marketing) — Tuesday
+- **Channel:** Telegram (WhatsApp bridge offline — fatal/whatsapp_not_paired, Day 74+)
+- **Recipient:** John (Sales & Marketing) — `0233352252`
+- **Target:** telegram:-1003784520976:20
+- **Status:** ✅ Delivered
+- **Topics:** School partnerships (Akoma Robotics), Jiji listings, Zobase updates, Customer inquiries/sourcing, Needs
+- **Inventory:** 1049 total items, 665 in stock, 384 out of stock, 480 low stock (≤2)
+- **Notes:** 78th consecutive WhatsApp failure. WhatsApp bridge remains in fatal/whatsapp_not_paired state since 2026-06-07. Telegram fallback via hermes send working reliably. Inventory snapshot from Vault/business/2real/2real-agent/inventory_agent.json (current). Sent "Good morning John! Quick check-in for Tuesday..." with 5-point checklist covering school partnerships, Jiji listings, Zobase, customer inquiries, and needs.
+
+## 2026-07-15 07:02 — Morning Business Inquiry → Sammy (Kantamanto) — Wednesday
+- **Channel:** Telegram fallback (WhatsApp bridge offline — fatal/whatsapp_not_paired, Day 75+)
+- **Target:** telegram:-1003784520976:20
+- **Status:** Delivered ✅
+- **Type:** Morning check-in (store status, sales, stock, issues, needs)
+- **Inventory:** 1049 total items, 665 in stock, 384 out of stock, 480 low stock (≤2)
+- **Notes:** 79th consecutive WhatsApp failure. WhatsApp bridge remains in fatal/whatsapp_not_paired state since 2026-06-07. Telegram fallback via hermes send working reliably. Inventory snapshot from Vault/business/2real/2real-agent/inventory_agent.json (current). Sent "Good morning Sammy! Quick check-in for Wednesday..." with 5-point checklist.| 2026-07-15 | 08:04:01 | John (Sales & Marketing) | Business morning check-in (school partnerships, Jiji, Zobase) | Delivered (Telegram fallback) | WhatsApp bridge offline (fatal/whatsapp_not_paired); inventory: 1049 total, 665 in stock, 384 OOS, 480 low stock |

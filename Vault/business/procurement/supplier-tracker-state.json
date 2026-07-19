@@ -1,13 +1,13 @@
 {
-  "last_check": "2026-07-03T09:16:00Z",
-  "next_pending_dashboard": 37,
-  "next_pending_steering": 3,
-  "total_inquiry_sent": 33,
-  "total_pending_dashboard": 1,
-  "total_pending_steering": 3,
+  "last_check": "2026-07-15T09:16:00Z",
+  "next_pending_dashboard": 0,
+  "next_pending_steering": 1,
+  "total_inquiry_sent": 36,
+  "total_pending_dashboard": 0,
+  "total_pending_steering": 1,
   "whatsapp_gateway": "disconnected",
-  "inquiry_prepared_for": "#36 +233 54 203 6757",
-  "last_report_sent": "2026-07-03T09:16:00Z",
+  "inquiry_prepared_for": "#4 +233 24 835 5104",
+  "last_report_sent": "2026-07-15T09:16:00Z",
   "last_report_channel": "telegram",
   "last_report_target": "telegram:-1003784520976:928"
 }

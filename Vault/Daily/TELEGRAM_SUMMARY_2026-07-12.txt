@@ -1,0 +1,36 @@
+📋 INTEGRATED DAILY SYNTHESIS — 2026-07-12
+
+🔴 CRITICAL (5):
+1. 87% cron failure rate — ~105/120 runs failed (systemic Connection error across 17+ job IDs)
+2. Gateway DEAD again — PID 26404 dead, crash loop 21+ days (Jul 7 recovery lost)
+3. WhatsApp unpaired 68+ days — blocks 6 mum-health, 3 2Real, 8 family, 2 finance, 5 ops jobs
+4. Telegram token INVALID (HTTP 404) — revoked by Telegram, must rotate via @BotFather
+5. Security audit Jul 11 CONFIRMED FAIL — 7 CRITICAL findings (DNS failure host-level, InvalidToken in logs, 49 backup .env copies, 18 workspace .env readers)
+
+⚠️ HEALTH ESCALATIONS:
+• H: Electrical shock (12 Jun) follow-up 29 days OVERDUE — no doctor visit confirmed
+• H: No vitals 41 days (since Jun 1), 3-day meal gap Jul 8-10, no entries Jul 8-10
+• Mum: Jul 9-11 full coverage with vitals (BP 134/65 Jul 9 AM), carer reporting active
+
+💼 BUSINESS:
+• 2Real inventory sync: STABLE — all runs successful, 1,049 items (665 in stock)
+• Akoma Robotics school pipeline: 5-phase plan active, Facebook Ads test budget $40 → $300
+• Junior ISA/SIPP: AJ Bell + Vanguard Global All Cap recommended, £700/mo for both kids
+• Dr Ferguson order BLOCKED — missing 7 critical details (herb names, brand, quantities, address, payment, deadline)
+
+🔒 SECURITY: FAIL — 7 CRITICAL, 3 FAIL, 4 WARN (see SECURITY_AUDIT_2026-07-12.md)
+Key: Telegram token 404, gateway PID dead, DNS failure, 49 backup .env copies, WhatsApp 65d unpaired
+
+🖥️ SYSTEM: 12.5% Cron SLA — ~15/120 runs ok. Jiji jobs 140+ failed/day (no value). Integrated-synthesis MISSING since Jun 23.
+
+✅ BACKUP VERIFIED — 27,553 files, 5 DBs byte-for-byte match. latest symlink correct. 586aebcd5e57 Jul 11 23:12.
+
+🎯 TODAY:
+1. Rotate Telegram token via @BotFather (current returns 404)
+2. Restart gateway: uv pip install concurrent-log-handler && hermes gateway run --replace (Python 3.11)
+3. Re-pair WhatsApp: openclaw channels login --channel whatsapp --account 233204252252
+4. Delete 49 backup .env copies + 18 workspace .env readers
+5. Restore integrated-daily-synthesis job (find ID via cron output dir)
+6. Confirm H saw doctor for electrical shock (29 days overdue)
+
+Full report: workspace/Vault/Daily/DAILY_PROCESSING_REPORT_2026-07-12.md

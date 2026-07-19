@@ -47,9 +47,9 @@
 | 34 | +233 54 203 8463 | | ? | | ✅ Inquiry Sent | 2026-07-02 09:16 UTC |
 | 35 | +233 53 012 1872 | | ? | 6,000 GHS | 💰 QUOTED | — |
 || 36 | +233 54 203 6757 | | ? | | ✅ Inquiry Sent | 2026-07-03 09:16 UTC |
-|| 37 | +233 54 203 9408 | | ? | | ⏳ Pending | — |
+|| 37 | +233 54 203 9408 | | ? | | ✅ Inquiry Sent | 2026-07-11 09:16 UTC |
 
-### Additional In-Person Quotes (Abossey Okai, 6/6/26)
+### Additional In-Person Quotes
 | # | Number | Name | Price | Notes |
 |---|--------|------|-------|-------|
 | 38 | +233 24 417 4778 | Emmanuel | 5,000 GHS | Abossey Okai |
@@ -64,36 +64,47 @@
 |---|--------|----------|---------------------|-------|-------|--------|
 | 1 | +233 24 824 4333 | ? | ? | | | ⏳ Pending |
 | 2 | +233 53 093 9891 | ✅ Yes | ✅ Yes | 2,000 GHS (rack + ends, NEW) | **Price confirmed** | ⚠️ Follow up |
-| 3 | +233 24 514 2732 | ? | ? | | | ⏳ Pending |
-| 4 | +233 24 835 5104 | ? | ? | | | ⏳ Pending |
+| 3 | +233 24 514 2732 | ? | ? | | | ✅ Inquiry Sent | 2026-07-14 09:16 UTC |
+| 4 | +233 24 835 5104 | ? | ? | | | ✅ Inquiry Sent | 2026-07-15 09:16 UTC |
 | 5 | +233 24 825 8011 | ❌ No | ❌ No | | Servicing/suspension only | 🔁 Skip |
 | 6 | +233 24 989 2219 | — | ✅ Yes | TBD | **Dan — also dashboard dealer** | 🔥 HOT LEAD |
 | 7 | +233 55 613 6140 | — | — | 1,700 GHS (rack) | Ebo — Abossey Okai | 💰 QUOTED |
 
 ---
 
-## Status Summary (as of 2026-07-03)
+## Status Summary (as of 2026-07-15)
 
-- **Dashboard**: 37 contacts | 33 inquiries sent | 1 pending | 1 confirmed stock | 1 quoted (6k GHS) | 3 in-person quotes (5k GHS)
-- **Steering**: 7 contacts | 1 price confirmed (2k GHS) | 1 hot lead (Dan - combo) | 1 in-person quote (1,700 GHS)
-- **WhatsApp Gateway**: DOWN since ~2026-05-23 (66+ days) — all inquiries queued, not delivered
+- **Dashboard**: 37 contacts | 34 inquiries sent | 0 pending | 1 confirmed stock | 1 quoted (6k GHS) | 3 in-person quotes (5k GHS)
+- **Steering**: 7 contacts | 2 inquiries sent | 2 pending | 1 price confirmed (2k GHS) | 1 hot lead (Dan - combo) | 1 in-person quote (1,700 GHS)
+- **WhatsApp Gateway**: DOWN since ~2026-05-23 (73+ days) — all inquiries queued, not delivered
 - **Critical Gap**: No single supplier confirmed for BOTH steering conversion AND dashboard
 
 ---
 
 ## Next Actions
-• Next run → Prepare inquiry for #37 (+233 54 203 9408)
-**Supplier #35: +233 53 012 1872** — QUOTED 6,000 GHS (awaiting verification/negotiation)
+• Next run → Prepare inquiry for steering #1 (+233 24 824 4333)
+**All dashboard suppliers contacted** — Dashboard inquiry phase complete
+**Supplier #37: +233 54 203 9408** — Inquiry prepared and queued for delivery
+**Supplier #3 (steering): +233 24 514 2732** — Inquiry sent, awaiting reply
+**Supplier #4 (steering): +233 24 835 5104** — Inquiry sent, queued for delivery when WhatsApp bridge restores
 
 Prepared message (casual Ghanaian English):
 > "Morning, I dey find Kia Rio dashboard. You get am for stock? I need price, whether na new or used, and how e take be. I ready to come collect if di price sweet me small. Kindly let me know ASAP."
 
 ---
 
-## Today's Inquiry Log (2026-07-03)
-**#36 (+233 54 203 6757)** — Inquiry prepared, queued for delivery when WhatsApp bridge restores
+## Today's Inquiry Log (2026-07-11)
+**#37 (+233 54 203 9408)** — Inquiry prepared, queued for delivery when WhatsApp bridge restores
 
 ---
+
+## Today's Inquiry Log (2026-07-14)
+**#3 Steering (+233 24 514 2732)** — Inquiry sent, queued for delivery when WhatsApp bridge restores
+
+---
+
+## Today's Inquiry Log (2026-07-15)
+**#4 Steering (+233 24 835 5104)** — Inquiry sent, queued for delivery when WhatsApp bridge restores
 
 ## Pending Follow-ups (Once Bridge Restored)
 

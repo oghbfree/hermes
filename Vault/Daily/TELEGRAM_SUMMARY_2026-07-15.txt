@@ -1,0 +1,36 @@
+📋 INTEGRATED DAILY SYNTHESIS — 2026-07-15
+
+🔴 CRITICAL (6):
+1. 92.5% cron failure rate — ~123/133 runs failed, systemic DNS/network
+2. Gateway DEAD — PID dead, crash loop 22 days, concurrent_log_handler missing on Python 3.14
+3. WhatsApp unpaired 69+ days — blocks 24+ high-priority jobs
+4. Security audit Jul 15 FAILED — rate limited, Jul 14 CRITICAL FAIL (7 CRITICAL)
+5. Telegram token REVOKED — HTTP 404 confirmed, must rotate via @BotFather
+6. Integrated-daily-synthesis job MISSING from jobs.json — no insights since Jun 23
+
+• H: Electrical shock (12 Jun) follow-up 32 days OVERDUE, no vitals 43 days, no entries Jul 13-14
+• Mum: Full coverage Jul 13-14 with vitals (AM BP 134/65 Jul 13, AM 122/68 Jul 14, Eve 129/63 Jul 14)
+• Dad: 3-day check Jul 13, next due Jul 16
+
+💼 BUSINESS:
+• 2Real Inventory: 1,049 items (665 in stock), sync stable
+• Jnr payments: Telegram fallback (WhatsApp dead)
+• Akoma: School pipeline active
+• Jiji jobs: 38eaa5d0ada1 + f9f90bd47965 = 140+ fails/day, zero value
+
+🔒 SECURITY: FAIL — 7 CRITICAL (token invalid, 49 .env backups, WhatsApp dead, gateway dead, DNS failure, 23 scripts read .env, AGENTS.md BOM)
+
+🖥️ SYSTEM: 7.5% Cron SLA — ~123/133 failed across 17+ jobs. Gateway dead. DNS systemic. Config drift v29→v33. Backup SUCCESS Jul 13 (27,567 files, 5 DBs verified). Integrated insights MISSING. Jiji jobs flooding.
+
+✅ BACKUP VERIFIED — 27,567 files, state.db 411.9MB, kanban.db 1.7MB, memory_store.db 323KB — byte-verified
+
+🎯 TODAY:
+1. Rotate Telegram token via @BotFather + update .env
+2. Fix host DNS (8.8.8.8, 1.1.1.1) — root cause of 92% failures
+3. Repair gateway: Python 3.11 venv + concurrent-log-handler
+4. Delete 49 backup .env copies, refactor 23 workspace scripts
+5. Re-pair WhatsApp (hermes whatsapp)
+6. Restore integrated-daily-synthesis job (schedule 5 22 * * *)
+7. Disable Jiji computer-use jobs (flooding logs)
+
+Full report: workspace/Vault/Daily/DAILY_PROCESSING_REPORT_2026-07-15.md

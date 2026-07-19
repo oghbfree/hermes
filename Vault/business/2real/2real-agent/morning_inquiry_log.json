@@ -25,7 +25,7 @@
     "type": "morning_business_inquiry",
     "status": "undeliverable",
     "reason": "WhatsApp bridge offline (port 18789 not listening, channels.whatsapp.enabled=false in openclaw.json)",
-    "message_drafted": "Good morning Sammy! 👋 Quick check-in for today:\n\n1. How's the store looking? Everything organized and ready for Tuesday?\n2. Any sales to report from yesterday?\n3. Stock levels — anything running low we should flag?\n4. Any customer issues or inquiries pending?\n5. Any problems or things you need from me?\n\nHave a great Tuesday! 💪",
+    "message_drafted": "Good morning Sammy! \ud83d\udc4b Quick check-in for today:\n\n1. How's the store looking? Everything organized and ready for Tuesday?\n2. Any sales to report from yesterday?\n3. Stock levels \u2014 anything running low we should flag?\n4. Any customer issues or inquiries pending?\n5. Any problems or things you need from me?\n\nHave a great Tuesday! \ud83d\udcaa",
     "inventory_summary": {
       "total_items": 1049,
       "in_stock": 665,
@@ -43,7 +43,7 @@
     "type": "morning_business_inquiry",
     "status": "undeliverable",
     "reason": "WhatsApp bridge offline (port 18789 not listening, channels.whatsapp.enabled=false in openclaw.json)",
-    "message_drafted": "Good morning Sammy! 👋 Quick check-in for Wednesday:\n\n1. How's the store looking? Everything organized and ready?\n2. Any sales to report from Tuesday?\n3. Stock levels — anything running low we should flag?\n4. Any customer issues or inquiries pending?\n5. Any problems or things you need from me?\n\nHave a great Wednesday! 💪",
+    "message_drafted": "Good morning Sammy! \ud83d\udc4b Quick check-in for Wednesday:\n\n1. How's the store looking? Everything organized and ready?\n2. Any sales to report from Tuesday?\n3. Stock levels \u2014 anything running low we should flag?\n4. Any customer issues or inquiries pending?\n5. Any problems or things you need from me?\n\nHave a great Wednesday! \ud83d\udcaa",
     "inventory_summary": {
       "total_items": 1049,
       "in_stock": 665,
@@ -51,17 +51,17 @@
       "low_stock": 480
     },
     "delivered": false,
-    "notes": "WhatsApp bridge remains offline. Message logged to Telegram topic 20. Inventory sync from 2026-06-13. 15+ consecutive failures. Action: Set channels.whatsapp.enabled=true in ~/.openclaw/openclaw.json and restart gateway."
+    "notes": "WhatsApp bridge is down (Day 47+). Message prepared but not delivered. H must restart OpenClaw gateway and set channels.whatsapp.enabled=true in openclaw.json. 15+ consecutive failures."
   },
   {
-    "date": "2026-06-16 08:10",
+    "date": "2026-06-18 07:00",
     "channel": "whatsapp",
-    "recipient": "John (Sales & Marketing)",
-    "recipient_phone": "0233352252",
+    "recipient": "Sammy (Kantamanto)",
+    "recipient_phone": "0575252253",
     "type": "morning_business_inquiry",
     "status": "undeliverable",
-    "reason": "WhatsApp bridge offline (whatsapp_not_paired - run hermes whatsapp to pair)",
-    "message_drafted": "Good morning John! Quick check-in for Monday:\n\n1. School partnerships - any updates or new leads?\n2. Jiji listings - how are they performing? Any new listings needed?\n3. Zobase updates - inventory sync status, any issues?\n4. Any customer inquiries or sourcing requests pending?\n5. Anything you need from me today?\n\nHave a great Monday!",
+    "reason": "WhatsApp bridge offline (port 18789 not listening, channels.whatsapp.enabled=false in openclaw.json)",
+    "message_drafted": "Good morning Sammy! \ud83d\udc4b Quick check-in for Thursday:\n\n1. How's the store looking? Everything organized and ready?\n2. Any sales to report from Wednesday?\n3. Stock levels \u2014 anything running low we should flag?\n4. Any customer issues or inquiries pending?\n5. Any problems or things you need from me?\n\nHave a great Thursday! \ud83d\udcaa",
     "inventory_summary": {
       "total_items": 1049,
       "in_stock": 665,
@@ -69,80 +69,25 @@
       "low_stock": 480
     },
     "delivered": false,
-    "notes": "WhatsApp bridge remains offline. WhatsApp not paired (state: fatal, error: whatsapp_not_paired). Fallback message delivered to Telegram topic 20. 16+ consecutive failures since 2026-06-03.",
-    "fallback_channel": "telegram",
-    "fallback_target": "telegram:-1003784520976:20",
-    "fallback_status": "delivered",
-    "fallback_delivered_at": "2026-06-16 08:10"
+    "notes": "WhatsApp bridge is down (Day 48+). Message prepared but not delivered. H must restart OpenClaw gateway and set channels.whatsapp.enabled=true in openclaw.json. 16+ consecutive failures."
   },
   {
-    "date": "2026-06-17 07:04",
-    "channel": "telegram",
+    "date": "2026-06-19 07:00",
+    "channel": "whatsapp",
     "recipient": "Sammy (Kantamanto)",
     "recipient_phone": "0575252253",
     "type": "morning_business_inquiry",
-    "status": "delivered",
-    "reason": "WhatsApp bridge offline (whatsapp_not_paired - run hermes whatsapp to pair). Fallback to Telegram.",
-    "message_drafted": "Good morning Sammy! 👋 Quick check-in for Wednesday:\n\n1. How's the store looking? Everything organized and ready for Wednesday?\n2. Any sales to report from yesterday?\n3. Stock levels — anything running low we should flag? (Current snapshot: 1049 total items, 665 in stock, 384 out of stock, 480 low stock ≤2)\n4. Any customer issues or inquiries pending?\n5. Any problems or things you need from me?\n\nHave a great Wednesday! 💪\n\n---\n*Note: WhatsApp bridge offline (whatsapp_not_paired). This message sent via Telegram fallback. Inventory snapshot from 2real-agent/inventory_agent.json*",
+    "status": "undeliverable",
+    "reason": "WhatsApp bridge offline (port 18789 not listening, channels.whatsapp.enabled=false in openclaw.json)",
+    "message_drafted": "Good morning Sammy! \ud83d\udc4b Quick check-in for Friday:\n\n1. How's the store looking? Everything organized and ready?\n2. Any sales to report from Thursday?\n3. Stock levels \u2014 anything running low we should flag?\n4. Any customer issues or inquiries pending?\n5. Any problems or things you need from me?\n\nHave a great Friday! \ud83d\udcaa",
     "inventory_summary": {
       "total_items": 1049,
       "in_stock": 665,
       "out_of_stock": 384,
       "low_stock": 480
     },
-    "delivered": true,
-    "delivered_at": "2026-06-17 07:04",
-    "fallback_channel": "telegram",
-    "fallback_target": "telegram:-1003784520976:20",
-    "fallback_status": "delivered",
-    "fallback_delivered_at": "2026-06-17 07:04",
-    "notes": "WhatsApp bridge remains offline (state: fatal, error: whatsapp_not_paired). Fallback message successfully delivered to Telegram topic 20. 17+ consecutive WhatsApp failures since 2026-06-03. Run 'hermes whatsapp' to pair dedicated number and restore WhatsApp delivery."
-  },
-  {
-    "date": "2026-06-17 08:07",
-    "channel": "telegram",
-    "recipient": "John (Sales & Marketing)",
-    "recipient_phone": "0233352252",
-    "type": "morning_business_inquiry",
-    "status": "delivered",
-    "reason": "WhatsApp bridge offline (whatsapp_not_paired - run hermes whatsapp to pair). Fallback to Telegram.",
-    "message_drafted": "Good morning John! Quick check-in for Wednesday:\n\n1. School partnerships - any updates or new leads?\n2. Jiji listings - how are they performing? Any new listings needed?\n3. Zobase updates - inventory sync status, any issues?\n4. Any customer inquiries or sourcing requests pending?\n5. Anything you need from me today?\n\nHave a great Wednesday!",
-    "inventory_summary": {
-      "total_items": 1049,
-      "in_stock": 665,
-      "out_of_stock": 384,
-      "low_stock": 480
-    },
-    "delivered": true,
-    "delivered_at": "2026-06-17 08:07",
-    "fallback_channel": "telegram",
-    "fallback_target": "telegram:-1003784520976:20",
-    "fallback_status": "delivered",
-    "fallback_delivered_at": "2026-06-17 08:07",
-    "notes": "WhatsApp bridge remains offline (state: fatal, error: whatsapp_not_paired). Fallback message successfully delivered to Telegram topic 20. 17+ consecutive WhatsApp failures since 2026-06-03. Run hermes whatsapp to pair dedicated number and restore WhatsApp delivery."
-  },
-  {
-    "date": "2026-06-18 07:33",
-    "channel": "telegram",
-    "recipient": "Sammy (Kantamanto)",
-    "recipient_phone": "0575252253",
-    "type": "morning_business_inquiry",
-    "status": "delivered",
-    "reason": "WhatsApp bridge offline (whatsapp_not_paired - run hermes whatsapp to pair). Fallback to Telegram.",
-    "message_drafted": "Good morning Sammy! 👋 Quick check-in for Thursday:\n\n1. How's the store looking? Everything organized and ready for Thursday?\n2. Any sales to report from yesterday?\n3. Stock levels — anything running low we should flag? (Current snapshot: 1049 total items, 665 in stock, 384 out of stock, 480 low stock ≤2)\n4. Any customer issues or inquiries pending?\n5. Any problems or things you need from me?\n\nHave a great Thursday! 💪\n\n---\n*Note: WhatsApp bridge offline (whatsapp_not_paired). This message sent via Telegram fallback. Inventory snapshot from 2real-agent/inventory_agent.json*",
-    "inventory_summary": {
-      "total_items": 1049,
-      "in_stock": 665,
-      "out_of_stock": 384,
-      "low_stock": 480
-    },
-    "delivered": true,
-    "delivered_at": "2026-06-18 07:33",
-    "fallback_channel": "telegram",
-    "fallback_target": "telegram:-1003784520976:20",
-    "fallback_status": "delivered",
-    "fallback_delivered_at": "2026-06-18 07:33",
-    "notes": "WhatsApp bridge remains offline (state: fatal, error: whatsapp_not_paired). Fallback message successfully delivered to Telegram topic 20. 18+ consecutive WhatsApp failures since 2026-06-03. Run hermes whatsapp to pair dedicated number and restore WhatsApp delivery."
+    "delivered": false,
+    "notes": "WhatsApp bridge is down (Day 49+). Message prepared but not delivered. H must restart OpenClaw gateway and set channels.whatsapp.enabled=true in openclaw.json. 17+ consecutive failures."
   },
   {
     "date": "2026-06-20 07:00",
@@ -152,7 +97,7 @@
     "type": "morning_business_inquiry",
     "status": "delivered",
     "reason": "WhatsApp bridge offline (gateway stopped, openclaw JSON parse error). Fallback to Telegram.",
-    "message_drafted": "Good morning Sammy! 👋 Quick check-in for Saturday:\n\n1. How's the store looking? Everything organized and ready for the weekend?\n2. Any sales to report from Friday?\n3. Stock levels — anything running low we should flag? (Current snapshot: 1049 total items, 665 in stock, 384 out of stock, 480 low stock ≤2)\n4. Any customer issues or inquiries pending?\n5. Any problems or things you need from me?\n\nHave a great Saturday! 💪\n\n---\n*Note: WhatsApp bridge offline. This message sent via Telegram fallback. Inventory snapshot from 2real-agent/inventory_agent.json*",
+    "message_drafted": "Good morning Sammy! \ud83d\udc4b Quick check-in for Saturday:\n\n1. How's the store looking? Everything organized and ready?\n2. Any sales to report from Friday?\n3. Stock levels \u2014 anything running low we should flag? (Current snapshot: 1049 total items, 665 in stock, 384 out of stock, 480 low stock \u22642)\n4. Any customer issues or inquiries pending?\n5. Any problems or things you need from me?\n\nHave a great Saturday! \ud83d\udcaa\n\n---\n*Note: WhatsApp bridge offline. This message sent via Telegram fallback. Inventory snapshot from Vault/business/2real/2real-agent/inventory_agent.json",
     "inventory_summary": {
       "total_items": 1049,
       "in_stock": 665,
@@ -165,17 +110,17 @@
     "fallback_target": "telegram:-1003784520976:20",
     "fallback_status": "delivered",
     "fallback_delivered_at": "2026-06-20 07:00",
-    "notes": "WhatsApp bridge remains offline (gateway stopped, openclaw JSON parse error on startup). Fallback message successfully delivered to Telegram topic 20 via hermes send. 19+ consecutive WhatsApp failures since 2026-06-03. Run hermes whatsapp to pair dedicated number and restore WhatsApp delivery."
+    "notes": "WhatsApp bridge remains offline. Fallback message delivered to Telegram topic 20 via hermes send. 18+ consecutive WhatsApp failures since 2026-06-03."
   },
   {
-    "date": "2026-06-23 04:13",
+    "date": "2026-07-10 07:02",
     "channel": "telegram",
     "recipient": "Sammy (Kantamanto)",
     "recipient_phone": "0575252253",
     "type": "morning_business_inquiry",
     "status": "delivered",
-    "reason": "WhatsApp bridge in fatal state (whatsapp_not_paired, gateway port 18789 not listening). Fallback to Telegram.",
-    "message_drafted": "Good morning Sammy! 👋 Quick check-in for Tuesday:\n\n1. How's the store looking? Everything organized and ready for Tuesday?\n2. Any sales to report from yesterday?\n3. Stock levels — anything running low we should flag? (Current snapshot: 1049 total items, 665 in stock, 384 out of stock, 480 low stock ≤2 — snapshot from backup, may be stale)\n4. Any customer issues or inquiries pending?\n5. Any problems or things you need from me?\n\nHave a great Tuesday! 💪\n\n---\n*Note: WhatsApp bridge offline (gateway port 18789 not listening; state: fatal/whatsapp_not_paired). Delivered via Telegram fallback.*",
+    "reason": "WhatsApp bridge offline (fatal/whatsapp_not_paired). Fallback to Telegram.",
+    "message_drafted": "Good morning Sammy! \ud83d\udc4b Quick check-in for Friday:\n\n1. How's the store looking? Everything organized and ready for Friday?\n2. Any sales to report from yesterday?\n3. Stock levels \u2014 anything running low we should flag? (Current snapshot: 1049 total items, 665 in stock, 384 out of stock, 480 low stock \u22642)\n4. Any customer issues or inquiries pending?\n5. Any problems or things you need from me?\n\nHave a great Friday! \ud83d\udcaa\n\n---\n*Note: WhatsApp bridge offline. This message sent via Telegram fallback. Inventory snapshot from Vault/business/2real/2real-agent/inventory_agent.json",
     "inventory_summary": {
       "total_items": 1049,
       "in_stock": 665,
@@ -183,22 +128,22 @@
       "low_stock": 480
     },
     "delivered": true,
-    "delivered_at": "2026-06-23 04:13",
+    "delivered_at": "2026-07-10 07:02",
     "fallback_channel": "telegram",
     "fallback_target": "telegram:-1003784520976:20",
     "fallback_status": "delivered",
-    "fallback_delivered_at": "2026-06-23 04:13",
-    "notes": "Inventory snapshot from backup (1049 total, 665 in stock, 384 out of stock, 480 low stock ≤2) — may be stale. WhatsApp bridge in fatal state since 2026-06-07. Telegram fallback working reliably."
+    "fallback_delivered_at": "2026-07-10 07:02",
+    "notes": "WhatsApp bridge remains offline (Day 70+). Fallback message delivered to Telegram topic 20 via hermes send. Inventory: 1049 total, 665 in stock, 384 OOS, 480 low stock. Low stock details: Hydraulic Bottle Jack HBJ602 (1), Lithium-Ion aspirator blower CABLI2001 (1), Lithium-Ion battery pack 20V FBLI20011 (2), and 477 other items at \u22642 units."
   },
   {
-    "date": "2026-06-23 08:06",
+    "date": "2026-07-10 08:02",
     "channel": "telegram",
     "recipient": "John (Sales & Marketing)",
     "recipient_phone": "0233352252",
     "type": "morning_business_inquiry",
     "status": "delivered",
-    "reason": "WhatsApp bridge offline (state: fatal, error: whatsapp_not_paired, port 18789 not listening). Fallback to Telegram.",
-    "message_drafted": "Good morning John! Quick check-in for Tuesday:\n\n1. School partnerships - any updates or new leads this week? Any demos scheduled?\n2. Jiji listings - how are they performing? Need any new listings or photo updates?\n3. Zobase updates - inventory sync status, any recent transactions to log?\n4. Any customer inquiries or sourcing requests pending?\n5. Anything you need from me today?\n\nHave a great Tuesday!",
+    "reason": "WhatsApp bridge offline (fatal/whatsapp_not_paired). Fallback to Telegram.",
+    "message_drafted": "Good morning John! \ud83d\udc4b Quick check-in for Friday:\n\n1. Any school partnership leads or demos scheduled this week? (Akoma Robotics curriculum outreach)\n2. Jiji listings \u2014 how many new/active listings this week? (Target: 5+)\n3. Zobase inventory & transactions \u2014 any discrepancies or items needing sync?\n4. Customer inquiries or sourcing requests pending?\n5. Anything you need from me?\n\nHave a great Friday! \ud83d\udcaa\n\n---\n*Note: WhatsApp bridge offline. This message sent via Telegram fallback. Inventory snapshot: 1049 total, 665 in stock, 384 OOS, 480 low stock.",
     "inventory_summary": {
       "total_items": 1049,
       "in_stock": 665,
@@ -206,22 +151,22 @@
       "low_stock": 480
     },
     "delivered": true,
-    "delivered_at": "2026-06-23 08:06",
+    "delivered_at": "2026-07-10 08:02",
     "fallback_channel": "telegram",
     "fallback_target": "telegram:-1003784520976:20",
     "fallback_status": "delivered",
-    "fallback_delivered_at": "2026-06-23 08:06",
-    "notes": "WhatsApp bridge remains offline (state: fatal, error: whatsapp_not_paired). 20+ consecutive WhatsApp failures since ~May 1, 2026. Fallback message delivered to Telegram topic 20. Run 'hermes whatsapp' to pair dedicated number and restore WhatsApp delivery."
+    "fallback_delivered_at": "2026-07-10 08:02",
+    "notes": "WhatsApp bridge remains offline (fatal/whatsapp_not_paired state). Fallback message delivered to Telegram topic 20 via hermes send. Inventory: 1049 total, 665 in stock, 384 OOS, 480 low stock. 72nd consecutive WhatsApp failure."
   },
   {
-    "date": "2026-06-25 07:03",
+    "date": "2026-07-13 07:04",
     "channel": "telegram",
     "recipient": "Sammy (Kantamanto)",
     "recipient_phone": "0575252253",
     "type": "morning_business_inquiry",
     "status": "delivered",
-    "reason": "WhatsApp bridge offline (gateway_state.json: fatal/whatsapp_not_paired since 2026-06-07). Fallback to Telegram.",
-    "message_drafted": "Good morning Sammy! 👋 Quick check-in for Thursday:\n\n1. How's the store looking? Everything organized and ready for Thursday?\n2. Any sales to report from yesterday?\n3. Stock levels — anything running low we should flag? (Current snapshot: 1049 total items, 665 in stock, 384 out of stock, 480 low stock ≤2)\n4. Any customer issues or inquiries pending?\n5. Any problems or things you need from me?\n\nHave a great Thursday! 💪\n\n---\n*Note: WhatsApp bridge offline. This message sent via Telegram fallback.*",
+    "reason": "WhatsApp bridge offline (gateway fatal/whatsapp_not_paired). Fallback to Telegram.",
+    "message_drafted": "Good morning Sammy! \ud83d\udc4b Quick check-in for Monday:\n\n1. How's the store looking? Everything organized and ready for Monday?\n2. Any sales to report from yesterday?\n3. Stock levels \u2014 anything running low we should flag? (Current snapshot: 1049 total items, 665 in stock, 384 out of stock, 480 low stock \u22642)\n4. Any customer issues or inquiries pending?\n5. Any problems or things you need from me?\n\nHave a great Monday! \ud83d\udcaa\n\n---\n*Note: WhatsApp bridge offline. This message sent via Telegram fallback. Inventory snapshot from Vault/business/2real/2real-agent/inventory_agent.json",
     "inventory_summary": {
       "total_items": 1049,
       "in_stock": 665,
@@ -229,22 +174,22 @@
       "low_stock": 480
     },
     "delivered": true,
-    "delivered_at": "2026-06-25 07:03",
+    "delivered_at": "2026-07-13 07:04",
     "fallback_channel": "telegram",
     "fallback_target": "telegram:-1003784520976:20",
     "fallback_status": "delivered",
-    "fallback_delivered_at": "2026-06-25 07:03",
-    "notes": "WhatsApp bridge remains offline since 2026-06-07 (not paired). Telegram fallback used."
+    "fallback_delivered_at": "2026-07-13 07:04",
+    "notes": "WhatsApp bridge remains offline (fatal/whatsapp_not_paired state). Fallback message delivered to Telegram topic 20 via hermes send. Inventory: 1049 total, 665 in stock, 384 OOS, 480 low stock. Consecutive WhatsApp failures continue."
   },
   {
-    "date": "2026-06-26 07:04",
+    "date": "2026-07-14 07:04",
     "channel": "telegram",
-    "recipient": "Sammy (Kantamanto)",
-    "recipient_phone": "0575252253",
-    "type": "morning_business_inquiry",
+    "recipient": "Kanzoni (Associate / Farm Visit)",
+    "recipient_phone": "+233****7794 (shared with Mike/Ofori)",
+    "type": "morning_wellbeing_checkin",
     "status": "delivered",
-    "reason": "WhatsApp bridge offline (fatal/whatsapp_not_paired, gateway stopped). Fallback to Telegram.",
-    "message_drafted": "Good morning Sammy! Quick check-in for Friday — store readiness, sales, stock levels, customer issues, needs.",
+    "reason": "WhatsApp bridge offline (gateway fatal/whatsapp_not_paired). Fallback to Telegram per protocol (Kanzoni shares number with Mike/Ofori \u2014 not sent to WhatsApp).",
+    "message_drafted": "Good morning Kanzoni! How have you been keeping?\n\nJust checking in on you this Tuesday \u2014 how are things going on your end? When can you pass by the farm?\n\nHope all is well with you. \ud83d\ude4f\n\n---\n*Note: WhatsApp bridge offline (fatal/whatsapp_not_paired, Day 70+). This message sent via Telegram fallback. Kanzoni shares number with Mike/Ofori (+233****7794) \u2014 not sent to WhatsApp per protocol. Inventory snapshot from Vault/business/2real/2real-agent/inventory_agent.json",
     "inventory_summary": {
       "total_items": 1049,
       "in_stock": 665,
@@ -252,45 +197,22 @@
       "low_stock": 480
     },
     "delivered": true,
-    "delivered_at": "2026-06-26 07:04",
+    "delivered_at": "2026-07-14 07:04",
     "fallback_channel": "telegram",
     "fallback_target": "telegram:-1003784520976:20",
     "fallback_status": "delivered",
-    "fallback_delivered_at": "2026-06-26 07:04",
-    "notes": "WhatsApp bridge remains offline (fatal/not_paired state, gateway not running). Fallback message delivered to Telegram topic 20 via hermes send. Inventory snapshot from Jun 25 (stale)."
+    "fallback_delivered_at": "2026-07-14 07:04",
+    "notes": "WhatsApp bridge remains offline (fatal/whatsapp_not_paired state, Day 70+). Tuesday Kanzoni wellbeing check-in delivered to Telegram topic 20 via hermes send. Kanzoni check-in follows farm-visit/associate protocol (wellbeing + farm coordination), not retail store ops. Inventory: 1049 total, 665 in stock, 384 OOS, 480 low stock."
   },
   {
-    "date": "2026-06-29 07:14",
-    "channel": "telegram",
-    "recipient": "Sammy (Kantamanto)",
-    "recipient_phone": "0575252253",
-    "type": "morning_business_inquiry",
-    "status": "delivered",
-    "reason": "WhatsApp bridge offline (fatal/whatsapp_not_paired, gateway stopped). Fallback to Telegram.",
-    "message_drafted": "Good morning Sammy! 👋 Quick check-in for Monday:\n\n1. How's the store looking? Everything organized and ready for Monday?\n2. Any sales to report from yesterday?\n3. Stock levels — anything running low we should flag? (Current snapshot: 1049 total items, 665 in stock, 384 out of stock, 480 low stock ≤2 — snapshot from Jun 25, may be stale)\n4. Any customer issues or inquiries pending?\n5. Any problems or things you need from me?\n\nHave a great Monday! 💪\n\n---\n*Note: WhatsApp bridge offline (fatal/whatsapp_not_paired). This message sent via Telegram fallback. Inventory snapshot from 2real-agent/inventory_agent.json*",
-    "inventory_summary": {
-      "total_items": 1049,
-      "in_stock": 665,
-      "out_of_stock": 384,
-      "low_stock": 480
-    },
-    "delivered": true,
-    "delivered_at": "2026-06-29 07:14",
-    "fallback_channel": "telegram",
-    "fallback_target": "telegram:-1003784520976:20",
-    "fallback_status": "delivered",
-    "fallback_delivered_at": "2026-06-29 07:14",
-    "notes": "WhatsApp bridge remains offline (fatal/not_paired state, gateway not running). Fallback message delivered to Telegram topic 20 via hermes send. Inventory snapshot from Jun 25 (stale)."
-  },
-  {
-    "date": "2026-06-29 07:27",
+    "date": "2026-07-14 07:10",
     "channel": "telegram",
     "recipient": "John (Sales & Marketing)",
     "recipient_phone": "0233352252",
     "type": "morning_business_inquiry",
     "status": "delivered",
-    "reason": "WhatsApp bridge offline (state: fatal, error: whatsapp_not_paired). Fallback to Telegram via hermes send.",
-    "message_drafted": "Good morning John! 👋 Quick check-in for Monday:\n\n1. School partnerships - any updates or new leads from Akoma Robotics outreach?\n2. Jiji listings - how are they performing? Any new listings needed this week (target: 5+ with photos + posters)?\n3. Zobase updates - inventory sync status, any sync issues or transaction discrepancies?\n4. Any customer inquiries or sourcing requests pending?\n5. Anything you need from me today?\n\nHave a great Monday! 💪\n\n---\n*Note: WhatsApp bridge offline (state: fatal, whatsapp_not_paired). This message sent via Telegram fallback. Inventory snapshot from 2026-06-29: 1049 total items, 665 in stock, 384 out of stock, 480 low stock (≤2)*",
+    "reason": "WhatsApp bridge offline (state: fatal, error: whatsapp_not_paired, Day 70+). Fallback to Telegram via hermes send.",
+    "message_drafted": "Good morning John! \ud83d\udc4b Quick check-in for Tuesday:\n\n1. School partnerships \u2014 any updates or new leads on the Akoma Robotics outreach?\n2. Jiji listings \u2014 how are they performing? Any new listings needed or pending?\n3. Zobase updates \u2014 inventory sync status, any issues with sales/transactions?\n4. Any customer inquiries or sourcing requests pending?\n5. Anything you need from me today?\n\nHave a great Tuesday! \ud83d\udcaa\n\n---\n*Note: WhatsApp bridge offline (fatal/whatsapp_not_paired). This message sent via Telegram fallback. Inventory snapshot: 1049 total items, 665 in stock, 384 out of stock, 480 low stock \u22642",
     "inventory_summary": {
       "total_items": 1049,
       "in_stock": 665,
@@ -298,22 +220,45 @@
       "low_stock": 480
     },
     "delivered": true,
-    "delivered_at": "2026-06-29 07:27",
+    "delivered_at": "2026-07-14 07:10",
     "fallback_channel": "telegram",
     "fallback_target": "telegram:-1003784520976:20",
     "fallback_status": "delivered",
-    "fallback_delivered_at": "2026-06-29 07:27",
-    "notes": "WhatsApp bridge remains offline (state: fatal, error: whatsapp_not_paired). Fallback message delivered to Telegram topic 20 via hermes send. Inventory snapshot current as of 2026-06-29."
+    "fallback_delivered_at": "2026-07-14 07:10",
+    "notes": "WhatsApp bridge remains offline (fatal/whatsapp_not_paired state, Day 70+). John check-in delivered to Telegram topic 20 via hermes send. Inventory: 1049 total, 665 in stock, 384 OOS, 480 low stock."
   },
   {
-    "date": "2026-07-03 08:05",
+    "date": "2026-07-15 07:03",
+    "channel": "telegram",
+    "recipient": "Sammy (Kantamanto)",
+    "recipient_phone": "0575252253",
+    "type": "morning_business_inquiry",
+    "status": "delivered",
+    "reason": "WhatsApp bridge offline (fatal/whatsapp_not_paired). Fallback to Telegram.",
+    "message_drafted": "Good morning Sammy! \ud83d\udc4b Quick check-in for Wednesday:\n\n1. How's the store looking? Everything organized and ready for Wednesday?\n2. Any sales to report from yesterday?\n3. Stock levels \u2014 anything running low we should flag? (Current snapshot: 1049 total items, 665 in stock, 384 out of stock, 480 low stock \u22642)\n4. Any customer issues or inquiries pending?\n5. Any problems or things you need from me?\n\nHave a great Wednesday! \ud83d\udcaa\n\n---\n*Note: WhatsApp bridge offline. This message sent via Telegram fallback. Inventory snapshot from Vault/business/2real/2real-agent/inventory_agent.json",
+    "inventory_summary": {
+      "total_items": 1049,
+      "in_stock": 665,
+      "out_of_stock": 384,
+      "low_stock": 480
+    },
+    "delivered": true,
+    "delivered_at": "2026-07-15 07:03",
+    "fallback_channel": "telegram",
+    "fallback_target": "telegram:-1003784520976:20",
+    "fallback_status": "delivered",
+    "fallback_delivered_at": "2026-07-15 07:03",
+    "notes": "WhatsApp bridge remains offline (fatal/whatsapp_not_paired state, Day 70+). Fallback message delivered to Telegram topic 20 via hermes send. Inventory: 1049 total, 665 in stock, 384 OOS, 480 low stock."
+  },
+  {
+    "date": "2026-07-15 08:03",
     "channel": "telegram",
     "recipient": "John (Sales & Marketing)",
     "recipient_phone": "0233352252",
     "type": "morning_business_inquiry",
     "status": "delivered",
-    "reason": "WhatsApp bridge offline (state: fatal, error: whatsapp_not_paired, unpaired since ~May 18, 45+ days). Fallback to Telegram via hermes send.",
-    "message_drafted": "Good morning John! Quick check-in for Friday: school partnerships, Jiji listings, Zobase updates, customer inquiries, needs.",
+    "reason": "WhatsApp bridge offline (fatal/whatsapp_not_paired). Fallback to Telegram.",
+    "message_drafted": "Good morning John! Quick check-in for Tuesday: 1. School partnerships \u2014 any new leads, demos booked, or meetings with Akoma Robotics curriculum prospects this week? 2. Jiji listings \u2014 how are the 5+ weekly listings performing? Any top performers or items needing fresh photos/posters? 3. Zobase \u2014 any sync issues, new transactions to review, or inventory discrepancies flagged? 4. Any customer inquiries or sourcing requests pending that need input?",
     "inventory_summary": {
       "total_items": 1049,
       "in_stock": 665,
@@ -321,57 +266,11 @@
       "low_stock": 480
     },
     "delivered": true,
-    "delivered_at": "2026-07-03 08:05",
+    "delivered_at": "2026-07-15 08:03",
     "fallback_channel": "telegram",
     "fallback_target": "telegram:-1003784520976:20",
     "fallback_status": "delivered",
-    "fallback_delivered_at": "2026-07-03 08:05",
-    "notes": "WhatsApp bridge remains offline (fatal/not_paired, 45+ days). Fallback message delivered to Telegram topic 20 via hermes send. Inventory snapshot from Vault copy (1049 total)."
-  },
-  {
-    "date": "2026-07-03 11:47",
-    "channel": "telegram",
-    "recipient": "Sammy (Kantamanto)",
-    "recipient_phone": "0575252253",
-    "type": "morning_business_inquiry",
-    "status": "delivered",
-    "reason": "WhatsApp bridge offline (state: fatal, error: whatsapp_not_paired). Fallback to Telegram via hermes send.",
-    "message_drafted": "Good morning Sammy! 👋 Quick check-in for Friday:\n\n1. How's the store looking? Everything organized and ready for Friday?\n2. Any sales to report from Thursday?\n3. Stock levels — anything running low we should flag? (Current snapshot: 1049 total items, 665 in stock, 384 out of stock, 480 low stock ≤2)\n4. Any customer issues or inquiries pending?\n5. Any problems or things you need from me?\n\nHave a great Friday! 💪\n\n---\n*Note: WhatsApp bridge offline (state: fatal, error: whatsapp_not_paired). This message sent via Telegram fallback. Inventory snapshot from 2026-06-29 (stale).*",
-    "inventory_summary": {
-      "total_items": 1049,
-      "in_stock": 665,
-      "out_of_stock": 384,
-      "low_stock": 480
-    },
-    "delivered": true,
-    "delivered_at": "2026-07-03 11:47",
-    "fallback_channel": "telegram",
-    "fallback_target": "telegram:-1003784520976:20",
-    "fallback_status": "delivered",
-    "fallback_delivered_at": "2026-07-03 11:47",
-    "notes": "WhatsApp bridge remains offline (state: fatal, error: whatsapp_not_paired, Day 63+). Fallback message delivered to Telegram topic 20 via hermes send. Inventory snapshot from 2026-06-29 (stale)."
-  },
-  {
-    "date": "2026-07-04 07:02",
-    "channel": "telegram",
-    "recipient": "Sammy (Kantamanto)",
-    "recipient_phone": "0575252253",
-    "type": "morning_business_inquiry",
-    "status": "delivered",
-    "reason": "WhatsApp bridge offline (fatal/whatsapp_not_paired, Day 64+). Fallback to Telegram.",
-    "message_drafted": "Good morning Sammy! Quick check-in for Saturday: Store status, sales, stock, customer issues, needs.",
-    "inventory_summary": {
-      "total_items": 1049,
-      "in_stock": 665,
-      "out_of_stock": 384,
-      "low_stock": 480
-    },
-    "delivered": true,
-    "delivered_at": "2026-07-04 07:02",
-    "fallback_channel": "telegram",
-    "fallback_target": "telegram:-1003784520976:20",
-    "fallback_status": "delivered",
-    "fallback_delivered_at": "2026-07-04 07:02",
-    "notes": "WhatsApp bridge remains offline (Day 64+). Fallback message delivered to Telegram topic 20 via hermes send. Inventory: 1049 total, 665 in stock, 384 OOS, 480 low stock."
+    "fallback_delivered_at": "2026-07-15 08:03",
+    "notes": "WhatsApp bridge remains offline (fatal/whatsapp_not_paired). Fallback message delivered to Telegram topic 20 via hermes send. 19+ consecutive WhatsApp failures since 2026-06-03."
   }
 ]
