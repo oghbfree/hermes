@@ -2,6 +2,8 @@
 Date: 2026-03-21
 Status: Active
 
+> **Kids registry:** All Kobena & Nenyi records consolidated under [`Vault/family/kids/KIDS_MASTER.md`](kids/KIDS_MASTER.md) (profiles, health, food, school).
+
 ## Household
 - [ ] Kitchen tap sets (mono)
 - [ ] Bathroom tap sets (mono)

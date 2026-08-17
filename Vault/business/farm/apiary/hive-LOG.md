@@ -20,8 +20,9 @@ linked_workflow: FARM_WORKFLOW.md
 | K-01 | Kanzoni shop | Langstroth | Active | Seen 2026-06-15 | 2026-06-15 | Strong, 8 frames brood |
 | K-02 | Kanzoni shop | Top-bar | Active | Not seen | 2026-06-15 | Needs inspection |
 | K-03 | Kanzoni shop | Langstroth | Weak | — | 2026-06-01 | Low stores, feed needed |
-| F-01 | Farm (planned) | — | — | — | — | Site selected, not built |
-| F-02 | Farm (planned) | — | — | — | — | — |
+| F-01 | Farm field (near lemon tree) | — | Active | — | 2026-08-09 | Brood present |
+| F-02 | Farm field (near lemon) | — | Active | — | 2026-08-09 | Swept, cleaned, rebaited |
+| F-03 | Farm field (open space) | — | Active — wax moth | — | 2026-08-09 | Moved to open space, wax moth attack |
 
 ---
 
@@ -73,6 +74,146 @@ linked_workflow: FARM_WORKFLOW.md
 ### Notes / Follow-up
 {{free text}}
 ```
+
+---
+
+## Inspection Log
+
+### 2026-08-09 — Kwesi Apiary Visit (Greensgold Agribusiness)
+
+**Inspector**: Kwesi (Greensgold Agri) | **Assisted by**: Kanzoni, Habib  
+**Weather**: — | **Time**: —
+
+---
+
+### Hive F-01 (Farm field)
+- **Status**: Brood present
+- **Condition**: Active
+- **Action**: Observation only
+
+### Hive F-02 (Farm field, near lemon tree)
+- **Status**: Absconded — bees swept out
+- **Condition**: Empty hive
+- **Action**: Cleaned hive, removed sponge, bristle, key soap. Rebaited.
+
+### Hive F-03 (Farm field — moved to open space)
+- **Status**: Wax moth attack
+- **Condition**: Damaged
+- **Action**: Moved hive to open space
+
+---
+
+### Overall Observation: POOR APIARY MANAGEMENT
+
+**Effects observed:**
+1. Absconding of bees
+2. Bee pest attack (wax moth)
+3. Deformation of comb
+4. Damage of hive frames — need new frames (36 × 69 cm)
+
+**Waterlogged area effects:**
+1. Fungi development
+2. Falling of hives
+3. Rotting of hives
+
+### Recommendations (from Kwesi)
+
+| # | Suggestion |
+|---|------------|
+| 1 | Selection of suitable site |
+| 2 | Relocation of hives to the boundary |
+| 3 | Plant acacia trees (sachet water, dry seeds hanging on tree → get the pod) |
+| 4 | Standardise hive dimensions for uniformity |
+| 5 | Construction of new frames (36 × 69 cm) |
+| 6 | Maintenance: wash all hives under mango tree |
+| 7 | Construct hive covers: plywood → aluminium roofing sheet |
+| 8 | Purchase bee suits |
+| 9 | Rabbit feeder (GHS 10) + dirty oil |
+| 10 | Bee feeders |
+| 11 | Consistent apiary management |
+| 12 | Label all hives |
+
+---
+
+### Invoice from Visit
+
+| Item | Qty | Unit Price | Total |
+|------|-----|-----------|-------|
+| Hive inspection, harvest & pressing | 4 (1) | GHS 200 | GHS 800 |
+| Transportation (2-way) | 1 | GHS 100 | GHS 100 |
+| **Total** | | | **GHS 900** |
+
+> **⚠️ Note**: Invoiced for 4 hives but only 3 were actually worked on (F-01, F-02, F-03). The 4th unit on the invoice corresponds to the pressing/harvest component. Raised with H — confirmed as Greensgold's standard billing structure.
+
+**Supplier**: Greensgold Agribusiness  
+**Invoice #**: INV-000004 | Date: 29/07/2026  
+**Payment**: GCB 5151250001511 (Turkson Amoako Jonathan) or MoMo 677338  
+**Notes**: Kwesi from Greensgold Agri conducted the visit. Invoice was issued 29 Jul 2026 for the inspection/harvest/pressing work.
+
+---
+
+## Follow-Up Actions (Instructed 12/8/26)
+
+### Habib — Immediate Tasks
+
+| # | Task | Detail | Status |
+|---|------|--------|--------|
+| 1 | **Wash absconded hives** | F-02 (lemon tree) + F-03 (open space) — clean thoroughly | 🔄 Due tomorrow |
+| 2 | **Bait & set 4 spare hives** | In the room — prepare and bait all 4, position on farm | 🔄 Due tomorrow |
+| 3 | **Find dirty oil** | Source for pest deterrent (per Kwesi) | 🔄 Pending |
+| 4 | **Find welder for hive stands** | Design: 14mm ribbed rod, 2 inverted U-frames + 2 cross rails. **Expanded to 42 cm width** (1 cm clearance each side for 40 × 60 cm hive). 448 cm/stand, ~GHS 55 ea from 1 rod. See specs below. | 🔄 Pending — design ready |
+
+### Freeman (Carpenter) — Hive Frames & Cover
+
+| # | Task | Detail | Status |
+|---|------|--------|--------|
+| 1 | **Inspect existing hive frames** | Visit farm, assess condition of damaged frames | ✅ Done |
+| 2 | **Quote for new frames** | Per Kwesi's spec: 36 × 69 cm frame dimensions — **GHS 600 total job** | ✅ Quoted |
+| 3 | **Sample build (in progress)** | 1 of each frame type (2 different sizes given) + 1 hive cover as sample | 🔄 In progress |
+| 4 | **Full production run** | If samples correct → 9 of each frame type | 🔄 Pending approval |
+| 5 | **Payment status** | GHS 300 advanced 14/8/26 (GHS 170 = 2×4 wood, GHS 130 = deposit). Balance GHS 300 on completion | 🟡 Partial paid |
+
+**Timeline**: GHS 300 sent 14/8/26 → samples due → approval → 9× each frame
+
+---
+
+### Hive Stand Design (Welder Brief)
+
+**Material**: 14 mm ribbed iron rod (rebar) — GHS 110 per 40 ft rod
+
+**Design**: Inverted U-frame construction
+- **2 Inverted U-Frames** — each from one continuous rod with 2 smooth 90° bends: 60 cm (leg) + 42 cm (top width) + 60 cm (leg) = **162 cm each**
+- **2 Horizontal Side Rails** — straight rods welded across top corners: **62 cm each** (60 cm hive + 1 cm clearance each side)
+- **Feet** — small metal flat plates/pads welded to base of each leg (prevents sinking in soft ground)
+
+**Per Stand**: 448 cm rebar
+- 2 U-frames × 162 cm = 324 cm
+- 2 side rails × 62 cm = 124 cm
+
+**Yield**:
+
+| Rods | Cost | Stands | Leftover | Cost/Stand |
+|:----:|:----:|:------:|:--------:|:----------:|
+| 1 | GHS 110 | **2** | 323 cm | GHS 55 |
+| 2 | GHS 220 | **5** | 146 cm | GHS 44 |
+| **3** | **GHS 330** | **8** | **~30 cm** | **~GHS 41** |
+
+**Note**: 3 rods (GHS 330) gives 8 stands with virtually no waste — best value.
+
+---
+
+### Pest Barrier — Rabbit Drinker Moats
+
+| Item | Qty | Unit Cost | Total |
+|------|:---:|:---------:|:-----:|
+| Rabbit drinkers (cups) | 32 | GHS 10 | GHS 320 |
+| Delivery | 1 | GHS 50 | GHS 50 |
+| **Total** | | | **GHS 370** |
+
+- **8 stands covered** (4 drinkers per stand — one on each leg)
+- **Cost per stand**: GHS 46.25
+- **Use**: Fill with dirty oil (per Kwesi's recommendation #9) or water to create ant/beetle barrier moats
+- **Status**: ✅ Purchased — ready for installation once stands are built
 
 ---
 

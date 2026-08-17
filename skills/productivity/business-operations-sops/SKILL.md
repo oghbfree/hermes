@@ -174,12 +174,12 @@ When asked to create or audit SOPs across ventures:
 business-operations-sops/
 ├── SKILL.md (this file)
 └── references/
-    ├── 2real-sales-order-processing.md
-    ├── 2real-cash-reconciliation.md
-    ├── 2real-inventory-management.md
-    ├── 2real-content-listing.md
-    ├── 2real-gra-tax-filing.md
-    ├── 2real-sop-compiled.md ← quick-reference summary of all 2 Real SOPs
+    ├── 2real-sales-order-processing.md     ← Canonical source: Vault/business/2real/SOP_SALES_ORDER_PROCESSING.md
+    ├── 2real-cash-reconciliation.md         ← Canonical source: Vault/business/2real/SOP_CASH_RECONCILIATION.md
+    ├── 2real-inventory-management.md        ← Canonical source: Vault/business/2real/SOP_INVENTORY_MANAGEMENT.md
+    ├── 2real-content-listing.md             ← Canonical source: Vault/business/2real/SOP_CONTENT_LISTING.md
+    ├── 2real-gra-tax-filing.md              ← Canonical source: Vault/business/2real/SOP_GRA_TAX_FILING.md
+    ├── 2real-sop-compiled.md               ← Canonical source: Vault/business/2real/SOP_COMPILED.md
     ├── 2real-returns-defects.md
     ├── 2real-pricing-authority.md
     ├── 2real-jiji-fb-listing-workflow.md
@@ -196,3 +196,5 @@ business-operations-sops/
     ├── all-ventures-sop-master.md ← master reference across all ventures
     └── jiji-ghana-scraping-notes.md
 ```
+
+> **Syncing SOPs:** The canonical source for all 2 Real SOPs is `Vault/business/2real/SOP_*.md`. When vault SOPs are updated, re-copy them to this skill's `references/` directory to keep the skill in sync.

@@ -1,1 +1,234 @@
-[]
+[
+  {
+    "timestamp": "2026-07-21 05:00",
+    "customer_msg": "Do you have the Slimlime LED Under Cabinet Light Kit?",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "stock_found_but_missed",
+    "age_hours": 573.3,
+    "priority": "CRITICAL",
+    "last_checked": "2026-08-14T02:20:04.251809",
+    "checked_count": 1,
+    "match": {
+      "name": "Under Cabinet Light Kit",
+      "price": 380.0,
+      "stock": 2,
+      "variant": "Cul 37805"
+    }
+  },
+  {
+    "timestamp": "2026-07-21 05:00",
+    "customer_msg": "Can you deliver a Samsung Galaxy phone?",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 573.3,
+    "priority": "CRITICAL",
+    "last_checked": "2026-08-14T02:20:04.256087",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-07-21 05:03",
+    "customer_msg": "Do you have the Flopro hose spray gun?",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "stock_found_but_missed",
+    "age_hours": 573.3,
+    "priority": "CRITICAL",
+    "last_checked": "2026-08-14T02:20:04.260191",
+    "checked_count": 1,
+    "match": {
+      "name": "Flopro 8 head Hose Spray Gun",
+      "price": 275.0,
+      "stock": 1,
+      "variant": "8 head Hose Spray Gun"
+    }
+  },
+  {
+    "timestamp": "2026-07-21 05:03",
+    "customer_msg": "Tell me about the Lg 42 inch tv",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 573.3,
+    "priority": "CRITICAL",
+    "last_checked": "2026-08-14T02:20:04.264646",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-07-21 05:03",
+    "customer_msg": "Can you do me a Samsung S25 ultra 512gb",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 573.3,
+    "priority": "CRITICAL",
+    "last_checked": "2026-08-14T02:20:04.268896",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-07-21 05:04",
+    "customer_msg": "Do you have the Flopro hose spray gun?",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "stock_found_but_missed",
+    "age_hours": 573.3,
+    "priority": "CRITICAL",
+    "last_checked": "2026-08-14T02:20:04.272962",
+    "checked_count": 1,
+    "match": {
+      "name": "Flopro 8 head Hose Spray Gun",
+      "price": 275.0,
+      "stock": 1,
+      "variant": "8 head Hose Spray Gun"
+    }
+  },
+  {
+    "timestamp": "2026-07-21 05:04",
+    "customer_msg": "Tell me about the Lg 42 inch tv",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 573.3,
+    "priority": "CRITICAL",
+    "last_checked": "2026-08-14T02:20:04.276983",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-07-21 05:04",
+    "customer_msg": "How much is hydraulic bottle jack?",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "stock_found_but_missed",
+    "age_hours": 573.3,
+    "priority": "CRITICAL",
+    "last_checked": "2026-08-14T02:20:04.282929",
+    "checked_count": 1,
+    "match": {
+      "name": "INGCO",
+      "price": 450.0,
+      "stock": 1,
+      "variant": "Hydraulic Bottle Jack HBJ602"
+    }
+  },
+  {
+    "timestamp": "2026-07-21 05:04",
+    "customer_msg": "Can you do me a Samsung S25 ultra 512gb",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 573.3,
+    "priority": "CRITICAL",
+    "last_checked": "2026-08-14T02:20:04.287703",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-07-21 05:08",
+    "customer_msg": "What is the price of Makita 6280d drill?",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "stock_found_but_missed",
+    "age_hours": 573.2,
+    "priority": "CRITICAL",
+    "last_checked": "2026-08-14T02:20:04.291812",
+    "checked_count": 1,
+    "match": {
+      "name": "Makita",
+      "price": 850.0,
+      "stock": 1,
+      "variant": "6280d w 1 batt 1 charger Cordless 3/8 Drill Driver 14.4v"
+    }
+  },
+  {
+    "timestamp": "2026-07-21 05:08",
+    "customer_msg": "I want to buy something not on your list",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 573.2,
+    "priority": "CRITICAL",
+    "last_checked": "2026-08-14T02:20:04.295918",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-07-21 05:10",
+    "customer_msg": "I am looking for a Samsung Galaxy S25",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 573.2,
+    "priority": "CRITICAL",
+    "last_checked": "2026-08-14T02:20:04.300222",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-07-21 05:10",
+    "customer_msg": "Assassin Creed",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 573.2,
+    "priority": "CRITICAL",
+    "last_checked": "2026-08-14T02:20:04.304184",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-07-21 05:11",
+    "customer_msg": "I am looking for a Samsung Galaxy S25",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 573.2,
+    "priority": "CRITICAL",
+    "last_checked": "2026-08-14T02:20:04.308225",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-07-21 05:11",
+    "customer_msg": "Assassin Creed",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 573.2,
+    "priority": "CRITICAL",
+    "last_checked": "2026-08-14T02:20:04.312185",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-07-21 05:11",
+    "customer_msg": "How much is the hydraulic bottle jack?",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "stock_found_but_missed",
+    "age_hours": 573.2,
+    "priority": "CRITICAL",
+    "last_checked": "2026-08-14T02:20:04.316467",
+    "checked_count": 1,
+    "match": {
+      "name": "INGCO",
+      "price": 450.0,
+      "stock": 1,
+      "variant": "Hydraulic Bottle Jack HBJ602"
+    }
+  },
+  {
+    "timestamp": "2026-07-21 05:22",
+    "customer_msg": "I want a Samsung S25 ultra",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 573.0,
+    "priority": "CRITICAL",
+    "last_checked": "2026-08-14T02:20:04.320471",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-07-21 05:22",
+    "customer_msg": "Tell me about your shop",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 573.0,
+    "priority": "CRITICAL",
+    "last_checked": "2026-08-14T02:20:04.324342",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-07-21 05:22",
+    "customer_msg": "How much is hydraulic bottle jack?",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "stock_found_but_missed",
+    "age_hours": 573.0,
+    "priority": "CRITICAL",
+    "last_checked": "2026-08-14T02:20:04.328541",
+    "checked_count": 1,
+    "match": {
+      "name": "INGCO",
+      "price": 450.0,
+      "stock": 1,
+      "variant": "Hydraulic Bottle Jack HBJ602"
+    }
+  }
+]

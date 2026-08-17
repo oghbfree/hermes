@@ -1,10 +1,10 @@
 # Recruitment Pipeline Summary
 
-## Update: July 2026
+## Update: August 2026
 
 ### Totals
 
-- **64 total applicants** (updated 2026-07-19)
+- **64 total applicants** (updated 2026-08-14)
 - **Nurses: 47** (NMC certified: 30/47, NMC + 3–5yrs experience: 7/47, top pick: Charlotte Nortey — NMC + car + licence)
 - **Facilitators: 3** (Eyiah #1, Patrick Bediako #2, Kwaku #3)
 - **Construction: 12** (Awal #1, Kwame #2, Derrick #3, Amane John #4, Amuzu #5, Woedzagbagba #6, Eric #7)
@@ -36,14 +36,13 @@
 **Facilitator #1: Eyiah Michael Osardu**
 - BSc IT | mBot exp | Coding 5/5 | Mon-Fri avail
 
-### Latest New Applicant (2026-07-19 pull)
+### Latest Pull (2026-08-14)
 
-**Pamela Ama Kyerewaa Peprah** — Nurse applicant (18/07/2026)
-- Accra | High school | Not NMC-registered | 0–2 yrs exp | Licence ✅ | Car ❌
-- Below priority threshold; retained in pipeline.
+**0 new applications** across all 4 roles since last reported pull (2026-07-19). The ~3.5-week gap produced no new form submissions. Token was expired since 2026-07-20 and was refreshed successfully on 2026-08-14.
 
 ### Detailed Reports
 
+- [[jobs/APPLICATIONS-REPORT-2026-08-14.md]] (no new apps; token refreshed after expiry)
 - [[jobs/APPLICATIONS-REPORT-2026-07-19.md]] (+1 nurse, below threshold)
 - [[jobs/APPLICATIONS-REPORT-2026-07-15.md]] (no new)
 - [[jobs/APPLICATIONS-REPORT-2026-07-14.md]] (no new)
@@ -68,10 +67,10 @@
 
 ### Status
 
-- **Google Sheets Auth: ACTIVE** — Token refreshed 2026-07-19
-- Last successful pull: 2026-07-19
+- **Google Sheets Auth: ACTIVE** — Token refreshed 2026-08-14 (was expired since 2026-07-20)
+- Last successful pull: 2026-08-14
 - All 4 pipelines accessible
-- Next pull scheduled: 2026-07-20
+- No new applications since 2026-07-19
 
 ## Related
 

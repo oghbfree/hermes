@@ -192,13 +192,25 @@ pond_level_cm: 85
 |------|------|---------|
 | Daily Logs | `farm/daily/YYYY-MM-DD.md` | Operations record |
 | Weekly Plans | `farm/weekly/YYYY-WW.md` | Task planning + review |
-| Crop Records | `farm/crops/[crop].md` | Variety, dates, yields, issues |
+| Crop Registry | `farm/crops/crop-registry.md` | Full crop inventory (53 crops) |
+| Seedings Log | `farm/crops/seedings-log.md` | Seeding & planting history |
 | Apiary Log | `farm/apiary/hive-LOG.md` | Hive inspections, harvests |
 | Livestock Log | `farm/livestock/goats.md` | Health, breeding, feed, sales |
+| Animal Registry | `farm/livestock/goats.md` (appended) | Full animal roster (farmOS export) |
+| Land & Plots | `farm/land/plots.md` | 14 plot registry with farmOS IDs |
 | Water System | `farm/infrastructure/water-system.md` | Pond specs, pump, irrigation layout |
-| Finance | `farm/finance/YYYY-MM.md` | Income, expenses, cash flow |
+| Structures | `farm/infrastructure/structures.md` | Goat pen, shed, farm room |
+| Maintenance | `farm/infrastructure/maintenance-log.md` | Equipment & infrastructure repairs |
+| Finance — Expenses | `farm/finance/expenses-2026.md` | Monthly expense tracking |
+| Finance — Purchases | `farm/finance/purchases-2026.md` | Detailed purchase history |
+| Finance — Harvests | `farm/finance/harvests-2026.md` | Harvest records |
+| Finance — Sales | `farm/finance/sales-2026.md` | Sales & income tracking |
 | Contacts | `farm/contacts.md` | Kwasi, Ben, Eastwood, vet, input suppliers, vetiver source |
-| Equipment | `farm/equipment.md` | Pump, tools, sprayers, PPE — condition, maintenance |
+| Equipment | `farm/equipment/equipment-register.md` | Full equipment inventory (53 items) |
+| Inputs | `farm/inputs/inputs-log.md` | Fertilizer, pesticide, feed inputs |
+| Observations | `farm/observations/observation-log.md` | Full observation history (53 entries) |
+| Activity Log | `farm/updates/activities-log.md` | Activity history (50 entries) |
+| Updates | `farm/updates/` | Occasional status updates |
 
 ---
 

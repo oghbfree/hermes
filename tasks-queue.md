@@ -114,6 +114,32 @@
   → Notes: Brain dump from Telegram topic 8 (2026-07-16)
   → Due: not specified
 
+* [ ] **[FAMILY | HIGH]** — Secure new housing for Mum before 17 Aug
+  → Notes: Current place's owners returning; must move Mum out by 17-20 Aug. Options: 3-bed estate nice road 4,200 GH₵/mo (best if 1-yr deal lands), 2-bed avail 17th ~2,400 GH₵, zongo 2,000 GH₵ (mosquito risk), Airbnb 4-5k emergency only. Kokomlemle build remains the endgame. Negotiation script for 3-bed 1-yr already drafted.
+  → Due: 2026-08-17
+  → Flags: [DECISION] [WAITING: landlord]
+
+* [ ] **[FAMILY | HIGH]** — Negotiate 1-year lease for estate 3-bed
+  → Notes: 4,200 GH₵/mo on nice road; landlord wants 2-yr. Negotiation script drafted (1-yr upfront cash, right of first refusal on year two). If stalls past 17th, take 2-bed as bridge.
+  → Due: 2026-08-17
+  → Flags: [WAITING: landlord]
+
+* [ ] **[BUSINESS | HIGH]** — Decide John's pay & role scope
+  → Notes: John currently 1,200 GH₵/mo + wants 80 GH₵/day expenses ≈ +2,400/mo AND share of goods sold. Let him name his number first, then counter with focused single-lane scope (sales/inventory lead OR China sourcing) in exchange for the raise. He was supposed to source China goods but isn't.
+  → Due: not specified
+  → Flags: [DECISION]
+
+* [ ] **[FINANCE | MEDIUM]** — Collect Nicholas container settlement
+  → Notes: Container (Maersk 26, Nicholas 3/8 - H 5/8). Nicholas owes 16,147.58 GH₵ (GOODS duty 25,504.50 + demurrage 16,443.08 + rent 4,200 = 46,147.58, paid only 30,000). H owes Nicholas £300 for UK contribution. Also separate/label mixed tools (in progress).
+  → Due: not specified
+  → Flags: [WAITING: Nicholas]
+
+* [ ] **[BUSINESS | MEDIUM]** — Decide on $400/mo warehouse
+  → Notes: Warehouse too large/expensive for online-only sales. Consider downsizing or exiting; keep only if needed for Dome clearance stock.
+  → Due: not specified
+  → Flags: [DECISION]
+
+
 * [ ] **[BUSINESS | MEDIUM]** — Call Julio to pick up heaters
   → Notes: Brain dump from Telegram topic 8 (2026-07-16)
   → Due: not specified

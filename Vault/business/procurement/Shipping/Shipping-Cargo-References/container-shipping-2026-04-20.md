@@ -1,4 +1,4 @@
-﻿# SHIPPING CONTAINER DETAILS - Kia Rio \& Goods
+﻿# &#x20;                                              SHIPPING CONTAINER DETAILS - Kia Rio \& Goods
 
 **Container:** CAAU 774679 4  
 **Shipping Status:** Official confirmation sent to UK agent  

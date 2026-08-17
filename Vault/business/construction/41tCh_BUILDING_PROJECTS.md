@@ -248,6 +248,7 @@
 | Matthias Site Check-in Skill | `skills/matthias_site_checkin/SKILL.md` |
 | Real Estate Insights (raw data) | `insights/real-estate-insights.md` |
 | Property Project Management System | `business/construction/PROPERTY_PROJECT_SYSTEM.md` |
+| **Master Portfolio File** | **`insights/real-estate-portfolio.md`** |
 | Care Protocols (travel rules) | `family/mum/health/daily-care-references/care-protocols-2026-06-24.md` |
 | Matthias Profile | `people/Matthais.md` |
 | Ben Profile | `people/Ben.md` |

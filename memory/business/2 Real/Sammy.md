@@ -1,5 +1,0 @@
-- **Sammy**: Employee. WhatsApp: +233575252253
-  - Build rapport along business lines, check on business performance and system updates
-  - Cron schedule: Mon-Sat at 16:00 UTC
-  - Exact message: "Good evening Sammy! How was business today? How were sales? Has everything been put on Zobase? Have you sent the money to h's MTN Momo?"
-  - **Daily responsibilities**: Log sales in Zobase, send money to h's MTN Momo (+233544252252)
