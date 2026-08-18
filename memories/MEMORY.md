@@ -2,7 +2,27 @@
 
 Durable facts from periodic daily-processing runs.
 
-_facts below are limited to verified findings. Last refreshed: 2026-08-16._
+_facts below are limited to verified findings. Last refreshed: 2026-08-18._
+
+## 2026-08-18 Daily Processing Run
+- 🟢 **Gateway RECOVERED (KEY POSITIVE)** — was DOWN day 4 (PID 5596 dead since 08-14). Now **UP PID 24152** (start 08-17 01:10), 2 ESTABLISHED TCP to Telegram 149.154.166.110:443, `hermes status` ✓ running. Telegram polling healthy.
+- **Security audit Aug 18 00:14 SUCCESS (overall FAIL)** — Telegram token **VALID** (@Ogaitchhermesbot, getMe ok), topic 20 present, delivered msg_id **10513**. **SQLite WAL-reset issue RESOLVED** (3.53.1, was 3.50.4). Credential debt WORSENED: **32 backup .env copies (+2)**, `bws_cache.json` plaintext (15 keys incl. GitHub PAT), ~25 live .py env-readers. WhatsApp unpaired. No new compromise; unauthorized user 5146706699 blocked 08-13 (working). Report `Vault/System/Assistant/SECURITY_AUDIT_2026-08-18.md`.
+- 2Real inventory auto-sync: OK, up to date (1,049 items, unchanged since Jun 7).
+- **Stephanie 60-day review DONE 17 Aug** (session 20260817_070037) — `STEPHANIE_REVIEW_60DAY_2026-08-17.md`; linked to NURSING_JOB_ROLE_MASTER.md. **90-day / probation-end review due 8 Sep 2026** (new house): probation→1yr fixed term, pay GH¢2,000→2,500, role expansion + travel notice + backup chain. Buy large-print Bible. Health follow-ups: report detail/accuracy, garlic per protocol, mushroom tea frequency, water, daily elevation, compression-stocking logging, log room visits.
+- **Akoma consolidated 17 Aug** (session 20260817_201940) — created `Vault/business/akoma/AKOMA_MASTER.md`; moved 4 orphans from `memory/business/Akoma/` → vault; 16 session IDs mapped. Flagged pricing inconsistency (₵1,000 vs 60 GHS pilot vs GH¢100/term) to reconcile before quoting schools.
+- Cron SLA: 71 cron outputs last 24h. No new request dumps to archive (0 active; 118 in .archive/).
+- Daily note written `Vault/Daily/2026-08-18.md`.
+
+## 2026-08-17 Daily Processing Run
+- **NEW systemic cron failure: TERMINAL_CWD read-lock timeout (#79768)** at 00:20–00:32 batch — integrated-daily-synthesis (ac813a924bbd), dad-health-weekly-review (16c8a6f32eb5), Dad 3-day check (5f6fafe0aba8), 2Real Daily Ops Check (5d80f08b4d6b). A workdir writer / long reader holds lock past 660s. FIX: stagger schedules / remove workdir holder.
+- **Security audit Aug 17 00:26 SUCCESS (overall FAIL)** — Telegram token VALID (@Ogaitchhermesbot), topic 20 present, msg_id 10461. **Gateway DOWN day 4** (PID 5596 dead since 08-14 09:44, AGENTS.md no auto-restart → alert H #urgent). WhatsApp unpaired ~70+ days. **Credential debt WORSENED: 29 backup .env copies (+4)**, bws_cache.json plaintext, 26 live .py env-readers. Report `Vault/System/Assistant/SECURITY_AUDIT_2026-08-17.md`.
+- **Daily backup Aug 17 00:27 SUCCESS** — 17,724 files, all DBs byte-verified (state.db 399M, appdata_state.db 943M ok). Dir `backup_20260817_002016`.
+- **Cron SLA ~41%** (17/41 OK). Two clusters: (1) connectivity outage 08-16 06:00–08:04 (~10 runs, recovered); (2) NEW TERMINAL_CWD lock timeouts at 00:20–00:32.
+- **drift_skip** (unpinned): Mom Evening (3ebd2dc4487c), Market Seller (fa1743e811ee), eric-property (b0a7c6c0fa03, d0651b16bab6), Mom Morning (aebf7e736923). Model drifted nemotron/hy3→deepseek-v4-flash. Pin jobs.
+- 2Real inventory auto-sync: OK, up to date (1,049 items). WhatsApp Mum/Dad check-ins FAILED (whatsapp_not_paired).
+- Mum health backfill through 16 Aug; **early-AM BP 166/79 spike (16 Aug) flagged** — highest reading, Furo given despite wake-since-3am; 3am insomnia recurring.
+- Content week 2026-08-17 produced via interactive session (25 images, logos overlaid).
+- Daily note written `Vault/Daily/2026-08-17.md`. No request dumps to archive (118 in .archive/).
 
 ## 2026-08-16 Daily Processing Run
 - **Security audit Aug 15 18:06 SUCCESS — KEY POSITIVE REVERSAL**: Telegram token now **VALID** (@Ogaitchhermesbot), **topic 20 present + verified** (msg_id 10443), report saved `Vault/System/Assistant/SECURITY_AUDIT_2026-08-15-evening.md`. This SUPERSEDES earlier "token INVALID(404)" findings — token works again.

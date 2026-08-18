@@ -1255,21 +1255,6 @@ garage sale listing bonus
 garage sale tools listing daily + sunday
 ---
 
-### Source: akoma confidential\Manager docs\manager package job description.txt
-Processed: 2026-03-13 08:10:07
-# JOB DESCRIPTION: TRAINEE OPERATIONS MANAGER
-
-## POSITION OVERVIEW
-- Role: Trainee Operations Manager (National Service Period)
-- Start Date: TBA, 2025
-- Duration: 12-month National Service with transition to permanent role
-- Location: Accra (Warehouse + School Locations)
-- Reporting To: Business Owner(s)
-
-
-### 2Real Enterprises (40% Time)
----
-
 ### Source: akoma confidential\DRAFT FACILITATOR INDEPENDENT CONTRACTOR AGREEMENT.txt
 Processed: 2026-03-13 08:10:07
 ### **DRAFT: FACILITATOR INDEPENDENT CONTRACTOR AGREEMENT**
@@ -1925,24 +1910,6 @@ sales from other places?? Commision?? if you bring items commision to us
     Jiji response rate monitoring (>90% within 24 hours)
 
     Content calendar 
----
-
-### Source: akoma confidential\Manager docs\manager package job description.txt
-Processed: 2026-03-13 08:14:11
-# JOB DESCRIPTION: TRAINEE OPERATIONS MANAGER
-
-## POSITION OVERVIEW
-- Role: Trainee Operations Manager (National Service Period)
-- Start Date: TBA, 2025
-- Duration: 12-month National Service with transition to permanent role
-- Location: Accra (Warehouse + School Locations)
-- Reporting To: Business Owner(s)
-
-
-### 2Real Enterprises (40% Time)
-
-## CORE RESPONSIBILITIES
-The operational backbone of 2Real Enterprises by ensuring all items, tools and equipment are sale-ready, accurately li
 ---
 
 ### Source: akoma confidential\DRAFT FACILITATOR INDEPENDENT CONTRACTOR AGREEMENT.txt

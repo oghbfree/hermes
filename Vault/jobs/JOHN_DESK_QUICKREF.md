@@ -151,4 +151,4 @@ Tab 2: Status = Completed
 ---
 
 *Print 2 copies: 1 for upstairs desk, 1 for downstairs stock room door*  
-*Spec: `/c/Users/User/.hermes/workspace/Vault/jobs/JOHN_DESK_REFERENCE.md`*
+*Full spec: `/c/Users/User/.hermes/workspace/Vault/jobs/JOHN_OFFICE_JOB_SPEC_2026-07-14.md`*
