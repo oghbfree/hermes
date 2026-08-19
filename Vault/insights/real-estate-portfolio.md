@@ -1,6 +1,6 @@
 # Real Estate Portfolio — Master File
 
-**Last updated:** 14/8/26
+**Last updated:** 15/8/26
 **Owner:** H (Oman Herbert Blankson)
 **Consolidated from:** archive/real-estate-insights.md, archive/property-deal-21-19.md, business/construction/*, handwritten notes
 
@@ -251,6 +251,12 @@
 **Wall completed:** 1 course of blockwork built by Matthias
 **Odoom organised:** Weeding, burning, and spraying to maintain
 
+**Site Visit (14/8/26):**
+- ✅ Odoom's weeding was **good**
+- ❌ Odoom **did not** burn and spray as agreed
+- H got matches from Odoom's mother and **burned what they could** on-site
+- **Next:** Contact Odoom to **spray** the site
+
 **Next steps for wall:**
 - Need **1 trip sand** + **1 trip stone** + **800 blocks** to complete **4 courses** for the wall
 - Chamber & Hall deferred — will be built **after Kokomlemle is completed**
@@ -279,16 +285,22 @@
 
 ### Takoradi — Borkro (Secondary Plot)
 
-**Status:** Registered in H's name — **prep not yet started** (14/8/26)
+**Status:** Registered in H's name — **site visit completed 14/8/26** (left 4am, back midnight)
 **Location:** Borkro, Takoradi
-**Site supervisor:** Matthias (same scope as New Amanful)
+**Site supervisor:** Matthias (mason from Agona)
 
-**To-Do (start process):**
-- [ ] Find the plot location
-- [ ] Start weed, burn, spray process
-- [ ] Register at the same time
-- [ ] Plant some crops
-- [ ] Find a caretaker
+**Site Visit (14/8/26):**
+- ✅ Found the plot — took 3–4 hours to locate
+- Someone had already **weeded** the land and **planted cassava**
+- Did not see the individual — need to find them
+- **Next step:** Find the person who weeded/planted, then **erect pillars**
+
+**To-Do:**
+- [ ] Find the person who weeded and planted cassava
+- [ ] Erect pillars
+- [ ] Start weed/burn/spray process
+- [ ] Register land
+- [ ] Find caretaker
 
 ---
 
@@ -532,14 +544,15 @@
 
 ### Ghana — Amanful (Wall Build in Progress) 🔥
 - [ ] Supply: 1 trip sand + 1 trip stone + 800 blocks (complete 4 courses)
+- [ ] **Contact Odoom to spray** — he weeded but didn't burn/spray
 - [ ] Matthias to continue block work for wall
 - [ ] Chamber & Hall deferred — after Kokomlemle
 
-### Ghana — Borkro (Prep Not Started)
-- [ ] Find the plot location
+### Ghana — Borkro (Found — Cassava planted)
+- [ ] **Find person who weeded and planted cassava**
+- [ ] Erect pillars
 - [ ] Start weed/burn/spray process
 - [ ] Register land
-- [ ] Plant crops
 - [ ] Find caretaker
 
 ### Ghana — Kokomlemle 🔥 BUILD STARTED

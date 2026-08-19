@@ -36,13 +36,14 @@
 **Facilitator #1: Eyiah Michael Osardu**
 - BSc IT | mBot exp | Coding 5/5 | Mon-Fri avail
 
-### Latest Pull (2026-08-14)
+### Latest Pull (2026-08-18)
 
-**0 new applications** across all 4 roles since last reported pull (2026-07-19). The ~3.5-week gap produced no new form submissions. Token was expired since 2026-07-20 and was refreshed successfully on 2026-08-14.
+**0 new applications** across all 4 roles since last reported pull (2026-08-17). Pipeline unchanged; token refreshed successfully on 2026-08-18.
 
 ### Detailed Reports
 
-- [[jobs/APPLICATIONS-REPORT-2026-08-14.md]] (no new apps; token refreshed after expiry)
+- [[jobs/APPLICATIONS-REPORT-2026-08-18.md]] (no new apps; token refreshed)
+- [[jobs/APPLICATIONS-REPORT-2026-08-17.md]] (no new apps; token refreshed)
 - [[jobs/APPLICATIONS-REPORT-2026-07-19.md]] (+1 nurse, below threshold)
 - [[jobs/APPLICATIONS-REPORT-2026-07-15.md]] (no new)
 - [[jobs/APPLICATIONS-REPORT-2026-07-14.md]] (no new)
@@ -67,8 +68,8 @@
 
 ### Status
 
-- **Google Sheets Auth: ACTIVE** — Token refreshed 2026-08-14 (was expired since 2026-07-20)
-- Last successful pull: 2026-08-14
+- **Google Sheets Auth: ACTIVE** — Token refreshed 2026-08-18
+- Last successful pull: 2026-08-18
 - All 4 pipelines accessible
 - No new applications since 2026-07-19
 

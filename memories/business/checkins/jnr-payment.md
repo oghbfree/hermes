@@ -1,5 +1,29 @@
 # Jnr Payment Reminder Log
 
+## 2026-08-17 | 10:05 UTC | Telegram Fallback (WhatsApp Gateway Stopped)
+
+**Status**: Sent via Telegram fallback
+**Channel**: telegram:-1003784520976:20 (Agent Hermes / topic 20)
+**Reason**: WhatsApp gateway stopped (`hermes status` → "Gateway Service: ✗ stopped"). Jnr (+44 7727 185361) not a discovered contact in `hermes send --list whatsapp`. AGENTS.md forbids `gateway start` from cron. `hermes send` to Telegram returned "sent" (exit 0).
+
+**Message Sent**:
+```
+Dear Jnr,
+
+Hope you're doing well. I'm reaching out regarding the outstanding balance from our previous discussion, which is still unsettled.
+
+I'd appreciate it if we could arrange settlement at your earliest convenience. If there's anything on your end, or you need clarity on the amount, just let me know and we'll sort it out.
+
+Kindly confirm a timeline for payment. I value our working relationship and want to keep this straightforward.
+
+Best regards,
+H
+```
+
+**Notes**: WhatsApp delivery to Jnr remains unavailable (gateway not running). For real WhatsApp delivery: gateway must be started by H (manual, external shell — AGENTS.md forbids it from cron) and Jnr added to a discoverable WhatsApp contact.
+
+---
+
 ## 2026-07-13 | 10:15 UTC | Telegram Fallback (WhatsApp Gateway Unavailable)
 
 **Status**: Sent via Telegram fallback

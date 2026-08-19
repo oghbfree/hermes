@@ -139,3 +139,30 @@
 ---
 
 *New entries appended here by cron jobs and weekly reviews. See also `Vault/family/H/health/H_FOOD_MASTER.md` for detailed meal records and `Vault/family/H/H_PROFILE.md` for personal/business profile.*
+
+---
+
+### 📊 Weekly Review — Aug 10–16, 2026
+**Generated:** Sun 17 Aug 2026
+
+🔴 **Red Flags:** Post-electrical-shock medical evaluation still NOT confirmed — **66 days overdue** (incident 12 Jun). Blood work stale 6+ years (FBC/renal/liver/B12/iron). Food diary gap now **15 days** (last logged 2 Aug) — longest on record. Manual health-logging stuck (0 entries this week).
+🟡 **Watch:** No vitals reading for **77 days** (last 1 Jun, BP 118/76 P80). Upper GI/achalasia follow-up open since May. Only a single auto-morning-check (15 Aug) logged this week — monitoring is spot-check, not systematic.
+🟢 **Good:** No acute symptoms reported (no chest pain, no dysphagia events, no headache/dizziness per 15 Aug). Eyes/vision stable. Pericarditis quiescent.
+📈 **Trends:** Shock overdue 64→66 days (🔴 worsening); vitals gap 75→77 days (🔴 worsening); food diary 0/7 days logged for a second consecutive week (🔴 collapsed); manual entries 0/7 (🔴 stuck); blood work unchanged (➡️). Week-over-week: all monitoring metrics continue to deteriorate with zero logging recovery.
+💡 **Top 3 Actions This Week:** 1. Book and confirm post-shock medical evaluation (66+ days overdue — highest priority). 2. Take a vitals reading (BP, pulse, weight) today. 3. Resume daily meal logging to close the 15-day food gap.
+
+---
+
+## 2026-08-17 (Mon)
+
+### 🌅 Morning Health Check
+- **Status:** No new acute symptoms (no chest pain, no dysphagia, no headache/dizziness). Active 🔴 CRITICAL: post-electrical-shock medical evaluation still NOT confirmed — **66 days overdue** (incident 12 Jun); 🔴 blood work stale 6+ yrs (FBC/renal/liver/B12/iron); 🟡 no vitals reading for **77 days** (last 1 Jun, BP 118/76 P80). Food diary gap now **15 days** (last logged 2 Aug) — longest on record. Stable: eyes/vision, no acute chest pain, pericarditis quiescent. URGENT: book shock evaluation + take vitals reading.
+- **Check-in:** Asked H about breakfast, energy, symptoms
+
+---
+
+## 2026-08-18 (Tue)
+
+### 🌅 Morning Health Check
+- **Status:** No new acute symptoms (no chest pain, no dysphagia, no headache/dizziness). Active 🔴 CRITICAL: post-electrical-shock medical evaluation still NOT confirmed — **67 days overdue** (incident 12 Jun); 🔴 blood work stale 6+ yrs (FBC/renal/liver/B12/iron); 🟡 no vitals reading for **78 days** (last 1 Jun, BP 118/76 P80). Food diary gap now **16 days** (last logged 2 Aug) — longest on record. Stable: eyes/vision, no acute chest pain, pericarditis quiescent. URGENT: book shock evaluation + take vitals reading.
+- **Check-in:** Asked H about breakfast, energy, symptoms

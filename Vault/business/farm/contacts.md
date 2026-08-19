@@ -9,7 +9,7 @@ created: 2026-06-29
 | Name | Role | Phone | WhatsApp | Notes |
 |------|------|-------|----------|-------|
 | **Ben** | Experienced farmer, on-site daily | +233 XX XXXXXXX | Yes | Knows farm inside out, fixed irrigation before |
-| **Eastwood** | Farm manager (2x/week) | +233 XX XXXXXXX | Yes | Erratic attendance, needs accountability |
+| **Eastwood** | **TERMINATED 2026-07-01** — Paid off 600 GHS, happy departure | — | — | **No longer on roster** |
 | **Kwasi** | Bee trainer / apiary specialist | +233 XX XXXXXXX | Yes | Fee: GHS 200–300/day + transport |
 
 ## Specialists

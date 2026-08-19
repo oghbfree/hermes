@@ -9,7 +9,9 @@ Append one line per day. The 4:30 AM briefing reads this file.
 | DATE | TARGET (GHS) | ACTUAL (GHS) | TOP 3 SKUs | NOTES |
 |------|--------------|--------------|------------|-------|
 | 12/07/26 |  |  |  | First entry — fill in after today's sales |
-|  |  |  |  |  |
+| 18/08/26 |  | 200 |  | Logged via 4:30 AM briefing |
+| 17/08/26 |  | — |  | Day off (with mum) |
+| 19/08/26 |  | — |  | Day off (property viewing) |
 |  |  |  |  |  |
 
 ## How to Use

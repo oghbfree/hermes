@@ -42,7 +42,8 @@ linked_workflow: FARM_WORKFLOW.md
 |------|------|-------|---------|--------------|
 | 2026-08-14 | Carpentry advance — hive frames + cover (GHS 170 of this = 2×4 wood) | Freeman (carpenter) | Hive frame construction: 2 sample frames (2 sizes) + 1 hive cover. Total job GHS 600. Balance GHS 300 on completion | 300 |
 | 2026-08-? | 32 rabbit drinkers + delivery | — | Pest barrier cups for 8 hive stands (4 per stand). Fill with dirty oil/water for ant/beetle moats | 370 |
-| | **August running total** | | | **670 GHS** |
+| 2026-08-17 | Weeding — extra acre (worker possibly permanent) | Habib (for weeder) | 5th acre weeded. Asked if worker will stay permanently | 400 |
+| | **August running total** | | | **1,070 GHS** |
 
 ---
 

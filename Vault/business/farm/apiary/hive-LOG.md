@@ -158,10 +158,10 @@ linked_workflow: FARM_WORKFLOW.md
 
 | # | Task | Detail | Status |
 |---|------|--------|--------|
-| 1 | **Wash absconded hives** | F-02 (lemon tree) + F-03 (open space) — clean thoroughly | 🔄 Due tomorrow |
-| 2 | **Bait & set 4 spare hives** | In the room — prepare and bait all 4, position on farm | 🔄 Due tomorrow |
-| 3 | **Find dirty oil** | Source for pest deterrent (per Kwesi) | 🔄 Pending |
-| 4 | **Find welder for hive stands** | Design: 14mm ribbed rod, 2 inverted U-frames + 2 cross rails. **Expanded to 42 cm width** (1 cm clearance each side for 40 × 60 cm hive). 448 cm/stand, ~GHS 55 ea from 1 rod. See specs below. | 🔄 Pending — design ready |
+| 1 | **Wash absconded hives** | F-02 (lemon tree) + F-03 (open space) — clean thoroughly | 🔄 Place now cleared — wash then move hives |
+| 2 | **Bait & set 4 spare hives** | In the room — prepare and bait all 4, position on farm | 🔄 Count, bait and set all empty hives |
+| 3 | **Find dirty oil** | Source for pest deterrent (per Kwesi) — **Habib got 1 gallon for free** ✅ | ✅ Free — 1 gallon secured |
+| 4 | **Find welder for hive stands** | Design: 14mm ribbed rod, 2 inverted U-frames + 2 cross rails. **Expanded to 42 cm width** (1 cm clearance each side for 40 × 60 cm hive). 448 cm/stand, ~GHS 55 ea from 1 rod. See specs below. | 🔄 Check iron rods, go with welder |
 
 ### Freeman (Carpenter) — Hive Frames & Cover
 
@@ -169,11 +169,11 @@ linked_workflow: FARM_WORKFLOW.md
 |---|------|--------|--------|
 | 1 | **Inspect existing hive frames** | Visit farm, assess condition of damaged frames | ✅ Done |
 | 2 | **Quote for new frames** | Per Kwesi's spec: 36 × 69 cm frame dimensions — **GHS 600 total job** | ✅ Quoted |
-| 3 | **Sample build (in progress)** | 1 of each frame type (2 different sizes given) + 1 hive cover as sample | 🔄 In progress |
+| 3 | **Sample build** | 1 of each frame type (2 different sizes given) + 1 hive cover as sample — **ready for pickup** | ✅ Done — pick up → send to farm → test fit |
 | 4 | **Full production run** | If samples correct → 9 of each frame type | 🔄 Pending approval |
-| 5 | **Payment status** | GHS 300 advanced 14/8/26 (GHS 170 = 2×4 wood, GHS 130 = deposit). Balance GHS 300 on completion | 🟡 Partial paid |
+| 5 | **Payment status** | GHS 300 advanced 14/8/26 (GHS 170 = 2×4 wood, GHS 130 = deposit). Balance GHS 300 on completion | 🟡 Partial paid — samples ready |
 
-**Timeline**: GHS 300 sent 14/8/26 → samples due → approval → 9× each frame
+**Timeline**: GHS 300 sent 14/8/26 → ✅ samples ready → pickup → farm test fit → approval → 9× each frame
 
 ---
 

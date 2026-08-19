@@ -230,5 +230,25 @@
       "stock": 1,
       "variant": "Hydraulic Bottle Jack HBJ602"
     }
+  },
+  {
+    "timestamp": "2026-08-18 20:38",
+    "source": "phone_call",
+    "customer_number": "unknown",
+    "customer_msg": "Customer inquiry from phone call",
+    "matched_items": [],
+    "call_id": "d1aef0d7f56f",
+    "status": "pending",
+    "priority": "MEDIUM"
+  },
+  {
+    "timestamp": "2026-08-18 20:41",
+    "source": "phone_call",
+    "customer_number": "unknown",
+    "customer_msg": "Customer wants a hydraulic bottle jack",
+    "matched_items": [],
+    "call_id": "7e1499e9eba5",
+    "status": "pending",
+    "priority": "MEDIUM"
   }
 ]

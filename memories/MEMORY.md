@@ -2,7 +2,17 @@
 
 Durable facts from periodic daily-processing runs.
 
-_facts below are limited to verified findings. Last refreshed: 2026-08-18._
+_facts below are limited to verified findings. Last refreshed: 2026-08-19._
+
+## 2026-08-19 Daily Processing Run
+- ✅ **CREDENTIAL CLEANUP PERFORMED 19/08** (user-authorized): `bws_cache.json` purged, `~/.hermes/.env.bak` deleted, **13 backup `.env` copies removed** (0 remaining across all backup trees). Security audit 19/08 FAIL→**PARTIAL**. Remaining debt: ~33 live `.env`-reader scripts + WhatsApp unpaired.
+- 🟢 **Telegram token VALID** (@Ogaitchhermesbot, getMe ok); **gateway UP PID 12896**. **NEW WARN: dual gateway process** (12896 uv + 17584 venv) → concurrent-polling/duplicate-delivery risk; keep one (approval required).
+- 🔴 **WhatsApp bridge DOWN** — port **3000 no listener, no node process**, watchdog frozen since **21 Jul**. ~12 scheduled WhatsApp agents silently failing (field intel/John, tax audit, Mom exercise reminders, Stephanie check-in, Kanzoni, Kwasi, Godfred, Eric property, Matthias logistics). Needs **manual gateway restart via Hermes desktop** (H action — same restart flagged 18 Aug, not holding).
+- **Duplicate `eric-property-check-in` deleted** (`d0651b16bab6`, kept `b0a7c6c0fa03`) → **55 cron jobs** confirmed.
+- **integrated-daily-synthesis (`ac813a924bbd`) STILL ABSENT** from jobs.json — no daily synthesis.
+- **2Real inventory auto-sync 18 Aug 04:00 FAILED** (provider unreachable) — transient, runs 2-hourly.
+- **2Real sales log**: 19/08 day off (property viewing); 18/08 logged 200; 17/08 day off (with mum).
+- Daily note written `Vault/Daily/2026-08-19.md`. No request dumps to archive (118 in .archive/).
 
 ## 2026-08-18 Daily Processing Run
 - 🟢 **Gateway RECOVERED (KEY POSITIVE)** — was DOWN day 4 (PID 5596 dead since 08-14). Now **UP PID 24152** (start 08-17 01:10), 2 ESTABLISHED TCP to Telegram 149.154.166.110:443, `hermes status` ✓ running. Telegram polling healthy.

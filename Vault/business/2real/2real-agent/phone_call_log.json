@@ -1,0 +1,20 @@
+[
+  {
+    "timestamp": "2026-08-18T20:38:03.903093",
+    "customer_number": "unknown",
+    "transcript": "Hi, I'm looking for a hydraulic bottle jack. How much is it and do you have it in stock?",
+    "summary": "Customer inquiry from phone call",
+    "items_found": [],
+    "action_needed": "TEAM_CHECK",
+    "call_id": "d1aef0d7f56f"
+  },
+  {
+    "timestamp": "2026-08-18T20:41:20.084619",
+    "customer_number": "unknown",
+    "transcript": "Hi I need a hydraulic bottle jack. How much is it and do you have it in stock?",
+    "summary": "Customer wants a hydraulic bottle jack",
+    "items_found": [],
+    "action_needed": "TEAM_CHECK",
+    "call_id": "7e1499e9eba5"
+  }
+]

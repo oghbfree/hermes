@@ -41,6 +41,8 @@
 - **`archive/raw-data/Fam/Dad/Dad taylors mark.md`** — tailor measurements (for clothing/affairs).
 - **`archive/raw-data/Fam/Dad/dad & today.txt`** — Blue Badge needs letter + scattered business ideas (ema, tuition, laser engraver).
 - **`archive/raw-data/Fam/Dad/Robertsville Hymnal Leaflet 2.docx`** + `Hymnal flyer.jpg` — hymnal leaflet source.
+- **`business-affairs/will/`** — ⚠️ SENSITIVE: scanned **Codicil to Dad's Last Will & Testament** (photos + `WILL_INDEX.md` transcription). Legal — access-restricted.
+- **`business-affairs/family-history/`** — heritage scans: Oman Ghan Blankson (1899–1974, dad's father, hymn composer) life-history pages + "Makers of Modern Ghana" Blankson family history pages (integrated 2026-08-19 from Telegram Downloads/dad).
 - Note: `building in ghana/.../Herbert Blankson.md` is a **power-of-attorney for H** (born 1974), not dad — keep in archive.
 
 ---

@@ -48,8 +48,13 @@
 | 10 Aug | Tom brown + 2 boiled eggs (left some) | Kokonte with okro stew | Rice with boiled beans and pear |
 | 11 Aug | Tiger-nut porridge + 2 boiled eggs (left some) | Banku with palm nut soup | Jollof with grilled chicken |
 | 13 Aug | Corn dough porridge + 2 boiled eggs | Boiled yam with light soup | Banku with pepper and fried fish |
+| 14 Aug | Tiger-nut porridge + 2 boiled eggs (left some) | Banku with light soup | Boiled beans with fried plantain |
+| 15 Aug | Corn dough porridge + 2 boiled eggs | Fufu with light soup | Boiled beans with rice |
+| 16 Aug | Ekoegbemi porridge + 2 boiled eggs | Banku with light soup (left some) | Boiled ripe plantain |
+| 17 Aug | Tom brown porridge + 2 boiled eggs | Kokonte with groundnut soup | Boiled beans with fried plantain |
+| 18 Aug | Corn dough porridge + 2 boiled eggs | Kokonte with groundnut soup | Boiled beans with rice |
 
-> **Backfill complete (13 Aug 26):** Meals added for the full 5–13 Aug range from topic-4 reports (7, 8, 10, 11 Aug recovered). Note: breakfasts on 8, 10, 11 Aug were left partially uneaten (appetite Fair / mild). See household errands & market list in `MUM_MEDICAL_MASTER.md`.
+> **Backfill complete (18 Aug 26):** Meals logged for the full 5–18 Aug range from topic-4 reports. Breakfasts on 8, 10, 11, 14 Aug left partially uneaten; 16 Aug lunch also left some. See household errands & market list in `MUM_MEDICAL_MASTER.md`.
 
 ---
 
