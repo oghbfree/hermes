@@ -55,7 +55,7 @@ Date-range snapshot:
 - 25 Jul: 108–127/60–63 · 26 Jul: 127–128/66–72 · 27 Jul: 112–126/60–72
 - 28 Jul: 122–134/72–78 · 29 Jul: 120–127/60–67 · 30 Jul: 126–136/68–78
 - 31 Jul: 121–126/60–64 · 1 Aug: 118–127/62–63 · 3 Aug: 127–135/71–72 · 4 Aug: 126/75
-- 5 Aug: 125/72 · 6 Aug: 124/62–126/59 · **7 Aug: 118/60–130/73** · **8 Aug: 113/65–136/76** · 9 Aug: 120/68–125/66 · **10 Aug: 122/77 (evening dose refused)** · **11 Aug: 123/73–138/79** · **13 Aug: 122/78** · **14 Aug: 137/79–144/82 (eve above 140)** · **15 Aug: 124–130/72–79** · **16 Aug: 132/72 (AM), early-AM 166/79 (⚠️ high)** · **17 Aug: 130/77** · **18 Aug: 139–140/72–75** — latest captured
+- 5 Aug: 125/72 · 6 Aug: 124/62–126/59 · **7 Aug: 118/60–130/73** · **8 Aug: 113/65–136/76** · 9 Aug: 120/68–125/66 · **10 Aug: 122/77 (evening dose refused)** · **11 Aug: 123/73–138/79** · **13 Aug: 122/78** · **14 Aug: 137/79–144/82 (eve above 140)** · **15 Aug: 124–130/72–79** · **16 Aug: 132/72 (AM), early-AM 166/79 (⚠️ high)** · **17 Aug: 130/77** · **18 Aug: 139–140/72–75** · **19 Aug: 132–136/72–75** — latest captured
 
 *Full bloodwork (kidney, liver, lipids, FBC, thyroid, BNP, ferritin, phosphate): see `CLINICAL_SUMMARY_COMFORT.md`.*
 
@@ -173,41 +173,24 @@ Date-range snapshot:
 - **Medication:** Furosemide 20mg given at 6:35pm.
 - **Dinner:** Boiled beans with rice (ate all). Warm milk before bed. Log: Mood Fair, Appetite Fair, Swelling Same, Bowel Normal, Skin Okay.
 
-### 17 Aug 2026 (Mon) — Afternoon
-- **Status:** Pending caregiver report — no new details captured yet this check-in.
-- **Vitals:** not captured.
-- **Medication:** Furosemide 20mg — to be confirmed via report. STOP if BP <100 or >140.
-- **Lunch:** not yet reported.
-- **Check-in:** Asked caregiver about lunch, afternoon meds, pain/discomfort, energy/mood, and any incidents since morning. Awaiting reply on topic 4.
+### 19 Aug 2026 (Wed) — Morning
+- **Status:** Feeling fine; warm bath 7:20am.
+- **Vitals:** BP 132/75, Pulse 81, Temp 36.3°C
+- **Medication:** Furosemide 20mg given at 9:05am.
+- **Check-in:** Breakfast tiger-nut porridge + 2 boiled eggs (ate all). Log: Mood Fair, Appetite Fair, **Swelling Reduced**, Urine Normal, Skin Okay.
 
-### 17 Aug 2026 (Mon) — Evening
-- **Status:** Evening check-in posted; pending caregiver report on dinner, meds, pain, energy/mood and overall day.
-- **Vitals:** not captured.
-- **Medication:** Furosemide 20mg — to be confirmed via evening report. STOP if BP <100 or >140.
-- **Dinner:** not yet reported.
-- **Check-in:** Asked caregiver about dinner, evening medications, pain/discomfort, energy/mood, and overall day summary. Awaiting reply on topic 4.
+### 19 Aug 2026 (Wed) — Afternoon
+- **Status:** Phone; chat with carer; nap on bed.
+- **Vitals:** none recorded.
+- **Lunch:** Banku with pepper and fish (left some). Log: Mood Fair, Appetite Fair, **Swelling Reduced**, Urine Normal, Skin Okay.
 
-### 18 Aug 2026 (Tue) — Morning
-- **Status:** Morning report not yet captured. ⚠️ 17 Aug (Mon) afternoon & evening reports also remain pending/unresolved. No new caregiver data retrievable at run time (Telegram topic 4 unavailable this session) — no vitals/meds inferred.
-- **Vitals:** not captured (BP/pulse/temp unknown for today).
-- **Medication:** Furosemide 20mg — pending confirmation from caregiver. STOP if BP <100 or >140; BP reading not available.
-- **Check-in:** Asked caregiver for morning report — breakfast, morning meds (esp. Furosemide 20mg), pain/discomfort, energy/mood, swelling, and any overnight incidents. Awaiting reply on topic 4.
+### 19 Aug 2026 (Wed) — Evening
+- **Status:** Radio; prayer leaves under feet + compression socks on.
+- **Vitals:** BP 136/72, Pulse 7* (reported "7" — assume 70s), Temp 36.2°C
+- **Medication:** Furosemide 20mg given at 7:05pm.
+- **Dinner:** Boiled yam with butter (ate all). Warm milk before bed. Log: Mood Fair, Appetite Fair, Swelling Same, Bowel Normal, Skin Okay.
 
-### 18 Aug 2026 (Tue) — Afternoon
-- **Status:** Pending caregiver report — no new details captured yet this check-in. ⚠️ Morning (18 Aug) report and 17 Aug (Mon) afternoon/evening reports also remain pending/unresolved.
-- **Vitals:** not captured.
-- **Medication:** Furosemide 20mg — to be confirmed via report. STOP if BP <100 or >140.
-- **Lunch:** not yet reported.
-- **Check-in:** Asked caregiver about lunch, afternoon medications (esp. Furosemide 20mg), pain/discomfort, energy/mood, and any incidents since morning. Awaiting reply on topic 4.
-
-### 18 Aug 2026 (Tue) — Evening
-- **Status:** Evening check-in posted; pending caregiver report on dinner, meds, pain, energy/mood and overall day. ⚠️ Earlier 18 Aug (Tue) morning & afternoon reports and 17 Aug (Mon) afternoon/evening reports also remain pending/unresolved — no new caregiver data retrievable at run time.
-- **Vitals:** not captured.
-- **Medication:** Furosemide 20mg — to be confirmed via evening report. STOP if BP <100 or >140.
-- **Dinner:** not yet reported.
-- **Check-in:** Asked caregiver about dinner, evening medications (esp. Furosemide 20mg), pain/discomfort, energy/mood, and overall day summary. Awaiting reply on topic 4.
-
-> **Backfill complete (13 Aug 26):** All of 5–13 Aug now captured from topic-4 reports. ⚠️ Flag for doctor: **10 Aug evening Furosemide dose refused** + occasional low-mood (11 Aug) + reduced swelling trending (11 & 13 Aug mornings).
+> **Backfill complete (19 Aug 26):** All of 5–19 Aug now captured from topic-4 reports. ⚠️ Flag for doctor: **10 Aug evening Furosemide dose refused** + occasional low-mood (11 Aug) + reduced swelling trending (11–19 Aug) + 16 Aug early-AM BP 166 + 18 Aug AM BP at 140 stop-threshold. Latest captured: 19 Aug (BP 132/75 AM, 136/72 eve).
 
 ---
 

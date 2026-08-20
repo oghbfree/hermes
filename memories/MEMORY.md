@@ -2,7 +2,15 @@
 
 Durable facts from periodic daily-processing runs.
 
-_facts below are limited to verified findings. Last refreshed: 2026-08-19._
+_facts below are limited to verified findings. Last refreshed: 2026-08-20._
+
+## 2026-08-20 Daily Processing Run
+- ✅ **Integrated-daily-synthesis PIPELINE OPERATIONAL AGAIN (POSITIVE)** — job `d719cd80fa5b` ran 19/08 23:40, produced `INTEGRATED_INSIGHTS_2026-08-19.md` (saved to both tree roots). Corrects prior "synthesis absent/drift-skipped" state from 19/08.
+- ✅ **Cron SLA 81.5%** (22/27 resolved OK, 5 failed) in the 24h window — major improvement over prior runaway-failure runs. ⚠️ All 5 failures = **model-drift skip** (unpinned jobs on `nemotron-3-ultra:free` / `nous/tencent hy3:free`): Mom Evening/Morning Exercise, eric-property-checkin, Monthly-Tax-Audit. Fix = re-pin to `deepseek-v4-flash-0731`.
+- 🔴 **NEW HIGH: dual-root `.env` token divergence** — `~/.hermes/.env` holds a corrupt **13-char** `TELEGRAM_BOT_TOKEN` → HTTP 404; the working 46-char token lives in `AppData\Local\hermes\.env` (gateway root). Repair/align.
+- 🟢 **2Real inventory auto-sync 20/08 02:00 SUCCESS** — already up to date, 0 new (file unchanged since 07-06). Credential cleanup holding: backup `.env` main trees at 0; legacy `~/hermes-backup` still 5 `.env` + 8 `gdrive_token.json`.
+- 🟡 Chat completion: 55 jobs (44 active/11 paused); 24 silent delivery persists; WhatsApp unpaired; dual-gateway PIDs (1280+1758) ongoing.
+- Daily note written `Vault/Daily/2026-08-20.md`. No request dumps to archive (118 in `.archive/`).
 
 ## 2026-08-19 Daily Processing Run
 - ✅ **CREDENTIAL CLEANUP PERFORMED 19/08** (user-authorized): `bws_cache.json` purged, `~/.hermes/.env.bak` deleted, **13 backup `.env` copies removed** (0 remaining across all backup trees). Security audit 19/08 FAIL→**PARTIAL**. Remaining debt: ~33 live `.env`-reader scripts + WhatsApp unpaired.

@@ -39,7 +39,10 @@ JIJI_REFRESH = False  # set True to refresh listings from live page
 
 # ─── BUSINESS FACTS (from content-director + reply bank) ─────────────────
 BUSINESS_HOURS = "Mon - Sat, 07:00 - 16:30 (Kantamanto); open most days 08:00 - 20:00 at the warehouse in Oyarifa."
-LOCATIONS = "We're in Kantamanto, Accra, with a warehouse in Oyarifa (opposite Kuo Tam Police Station)."
+LOCATIONS = "We have a retail walk-in shop at Dome with a warehouse in Oyarifa."
+COLLECTION = ("You're welcome to collect. To confirm which location has the "
+              "item (Dome walk-in or Oyarifa warehouse) and that it's still "
+              "available, message us and we'll arrange it before you come.")
 PAYMENT = "We accept MoMo on delivery or cash. No credit."
 BRANDS = "We stock quality new and used UK tools — DeWalt, Bosch, Makita, plus quality consumables."
 
@@ -245,12 +248,13 @@ def _intent_reply(text):
     # Delivery / shipping
     if any(k in low for k in ["deliver", "shipping", "ship", "delivery fee",
                               "send it", "how much to deliver", "transport"]):
-        return ("I'm based at Dome Market. You're welcome to collect in person, "
-                "or I can arrange delivery via Yango/Bolt at your cost. Which do you prefer?")
-    # Location / pickup
+        return ("Delivery is available at a fee. Would you be able to pay "
+                "for delivery before we send it?")
+    # Location / collection / pickup — offer collection, human confirms where
     if ("where" in words or "location" in low or "located" in low or
-            "pickup" in low or "pick up" in low or "collect" in low):
-        return LOCATIONS
+            "pickup" in low or "pick up" in low or "collect" in low or
+            "collection" in low):
+        return LOCATIONS + " " + COLLECTION
     # Hours / after hours / closed / time
     if any(k in low for k in ["open", "close", "closing", "hours", "time",
                               "morning", "evening", "today", "now open", "when are"]):

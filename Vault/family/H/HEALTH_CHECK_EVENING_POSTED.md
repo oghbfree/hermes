@@ -2,15 +2,16 @@
 
 Delivered via cron job `health-check-evening` (id c4818bab761b) → telegram:-1003784520976:2
 
+## Latest Post — 19 Aug 2026
+
 🌙 Evening Health Check
 
-Hey H, winding down for the day?
+Evening H — hope the day went well!
 
-Please log:
-• 🍽️ Dinner — have you eaten? What did you have?
-• ☕ Drinks — what have you had today?
-• 🩺 Symptoms — any aches, pains, or issues?
-• ⚡ Energy — how are you feeling out of 10?
-• 😴 Sleep — how did you sleep last night?
+Quick end-of-day log:
+• 🍽️ Dinner — what did you have?
+• 🩺 Symptoms today — anything to note?
+• ⚡ Energy out of 10?
+• 😴 How was your sleep last night?
 
-Rest well! 🌙
+Rest well! 🛌

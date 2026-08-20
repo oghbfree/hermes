@@ -255,7 +255,7 @@
 - ✅ Odoom's weeding was **good**
 - ❌ Odoom **did not** burn and spray as agreed
 - H got matches from Odoom's mother and **burned what they could** on-site
-- **Next:** Contact Odoom to **spray** the site
+- **Next:** Contact Odoom to **spray** the site (he called back — ✅ will spray, will also find someone to uproot all palm trees, and clear 1 metre around each coconut tree)
 
 **Next steps for wall:**
 - Need **1 trip sand** + **1 trip stone** + **800 blocks** to complete **4 courses** for the wall
@@ -486,7 +486,8 @@
 | **Kanzoni** | Farm Contact / Liaison | +233****7794 | Senya farm |
 | **George** | UK friend from Senya — Mum's host | +44 7946 856574 | Weija (during Kokomlemle build) |
 | **Nenyi Aroger** | Chief of Senya Beraku | +233 24 410 2535 | Senya |
-| **Odoom** | Neighbour — weeding crew | 0593750363 | Takoradi (New Amanful) |
+| **Odoom** | Neighbour — weeding/clearing crew | 0205459778 | Takoradi (New Amanful) |
+| **Odoom's mother** | Contact for Odoom | 0540267026 | Takoradi (New Amanful) |
 | **Maa Joyce** | Mum's companion | — | Weija |
 | **Kojo** | Photos/video for Peckham repairs | — | UK (Peckham) |
 | **Darren/Shona** | Southwark Council homeowner repairs | — | 21 Philip Walk |
@@ -544,7 +545,7 @@
 
 ### Ghana — Amanful (Wall Build in Progress) 🔥
 - [ ] Supply: 1 trip sand + 1 trip stone + 800 blocks (complete 4 courses)
-- [ ] **Contact Odoom to spray** — he weeded but didn't burn/spray
+- [ ] **Contact Odoom to spray** — he called back ✅ will spray, uproot all palm trees, and clear 1m around each coconut
 - [ ] Matthias to continue block work for wall
 - [ ] Chamber & Hall deferred — after Kokomlemle
 
