@@ -297,6 +297,14 @@
 | ☀️ Lunch | 1 pack shortbread biscuits |
 | 🌙 Dinner | Yam and egg with chicken stew |
 
+### Thu 20 Aug *(logged via chat)*
+| Meal | Items |
+|------|-------|
+| ☀️ Morning | 1 tsp activated charcoal with water, chopped garlic with water |
+| ☀️ Breakfast | 3 fried eggs with onion and pepper |
+| ☀️ Lunch | Banku with ground nut soup |
+| 🌙 Dinner | Hilltop fried rice with chicken |
+
 ---
 
 ## 📈 Nutritional Trends *(updated with gap-fill data)*

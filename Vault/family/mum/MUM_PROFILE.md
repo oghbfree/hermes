@@ -1,7 +1,7 @@
 # MUM PROFILE — Comfort Blankson
 
 > **Full name:** Ms Comfort Blankson
-> **DOB:** 28 Aug 1934 (Age 91) · **Born:** Senya, Ghana · **Home:** Weija, Accra, Ghana (housebound)
+> **DOB:** 28 Aug 1934 (Age 91) · **Born:** Senya, Ghana · **Home:** *(relocated 20 Aug 2026 to a new residence — previous Weija, Accra)* · Housebound
 > **Family:** Wife of Prof Robert Herbert-Blankson; children include Oman Herbert Blankson (H)
 > **Consolidated from:** `AUTOBIOGRAPHY_COMFORT.md` (written by Mum 05/04/2020), archived `mum bio.txt`, `mum.md`
 > **Last updated:** 13 Aug 2026 · **Original:** `Vault/family/mum/AUTOBIOGRAPHY_COMFORT.md`
