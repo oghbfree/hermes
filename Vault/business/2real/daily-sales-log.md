@@ -12,7 +12,8 @@ Append one line per day. The 4:30 AM briefing reads this file.
 | 18/08/26 |  | 200 |  | Logged via 4:30 AM briefing |
 | 17/08/26 |  | — |  | Day off (with mum) |
 | 19/08/26 |  | — |  | Day off (property viewing) |
-|  |  |  |  |  |
+| 20/08/26 |  | — |  | Day off |
+| 21/08/26 |  | 3,310 |  | Good day |
 
 ## How to Use
 Each evening (or next morning before 4:30 AM), add one line:

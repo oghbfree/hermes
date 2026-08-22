@@ -55,7 +55,7 @@ Date-range snapshot:
 - 25 Jul: 108–127/60–63 · 26 Jul: 127–128/66–72 · 27 Jul: 112–126/60–72
 - 28 Jul: 122–134/72–78 · 29 Jul: 120–127/60–67 · 30 Jul: 126–136/68–78
 - 31 Jul: 121–126/60–64 · 1 Aug: 118–127/62–63 · 3 Aug: 127–135/71–72 · 4 Aug: 126/75
-- 5 Aug: 125/72 · 6 Aug: 124/62–126/59 · **7 Aug: 118/60–130/73** · **8 Aug: 113/65–136/76** · 9 Aug: 120/68–125/66 · **10 Aug: 122/77 (evening dose refused)** · **11 Aug: 123/73–138/79** · **13 Aug: 122/78** · **14 Aug: 137/79–144/82 (eve above 140)** · **15 Aug: 124–130/72–79** · **16 Aug: 132/72 (AM), early-AM 166/79 (⚠️ high)** · **17 Aug: 130/77** · **18 Aug: 139–140/72–75** · **19 Aug: 132–136/72–75** · **20 Aug: 142/76 (AM, ⚠️ above 140)** — latest captured
+- 5 Aug: 125/72 · 6 Aug: 124/62–126/59 · **7 Aug: 118/60–130/73** · **8 Aug: 113/65–136/76** · 9 Aug: 120/68–125/66 · **10 Aug: 122/77 (evening dose refused)** · **11 Aug: 123/73–138/79** · **13 Aug: 122/78** · **14 Aug: 137/79–144/82 (eve above 140)** · **15 Aug: 124–130/72–79** · **16 Aug: 132/72 (AM), early-AM 166/79 (⚠️ high)** · **17 Aug: 130/77** · **18 Aug: 139–140/72–75** · **19 Aug: 132–136/72–75** · **20 Aug: 142/76 (AM, ⚠️ above 140)** · **21 Aug: 113/69 (eve, no AM reading — dose held)** — latest captured
 
 *Full bloodwork (kidney, liver, lipids, FBC, thyroid, BNP, ferritin, phosphate): see `CLINICAL_SUMMARY_COMFORT.md`.*
 
@@ -207,7 +207,24 @@ Date-range snapshot:
 - **Dinner:** Fried rice with coleslaw, shito and fried chicken (ate all, with son at dining table). TV evening; carer sat with her; bed ~8:38pm. Log: Mood Fair, Appetite Fair, Swelling Same, Bowel Normal, Skin Okay.
 - **Note:** New residence confirmed — track location change in Mum profile. The date on this report read "18/8" but content (arrival at new home, son's food order) clearly continues 20 Aug relocation.
 
-> **Backfill complete (20 Aug 26):** All of 5–20 Aug now captured from topic-4 reports. ⚠️ Flag for doctor: **10 Aug evening Furosemide dose refused** + occasional low-mood (11 Aug) + reduced swelling trending (11–19 Aug) + 16 Aug early-AM BP 166 + 18 Aug AM BP at 140 + **20 Aug AM BP 142 (>140, given anyway)** stop-threshold anomalies. Latest: 20 Aug relocation day (BP 142/76 AM). **Mum relocated to new home 20 Aug.**
+### 21 Aug 2026 (Fri) — Morning
+- **Status:** Feeling fine, good weather overnight; woke 3am then slept again. Mood Good.
+- **Vitals:** ⚠️ **No reading — sphygmomanometer low battery.**
+- **Medication:** **Furosemide 20mg NOT administered (AM)** — no BP reading available, so dose held (per stop-rule caution). This created a single-dose day.
+- **Check-in:** Breakfast tom brown (ate all). Log: Mood Good, Appetite Fair, Swelling Same, Urine Normal, Skin Okay.
+
+### 21 Aug 2026 (Fri) — Afternoon
+- **Status:** TV lunch; napped in bed; slept comfortably (no overheating).
+- **Vitals:** none recorded.
+- **Lunch:** Rice with groundnut soup and fried fish (left a little rice). Log: Mood Fair, Appetite Fair, **Swelling Reduced**, Urine Normal, Skin Okay.
+
+### 21 Aug 2026 (Fri) — Evening
+- **Status:** Room, bed; TV with bananas; prayer leaves under feet + compression socks on.
+- **Vitals:** BP 113/69, Pulse 76, Temp 36.4°C
+- **Medication:** Furosemide 20mg administered at 7:10pm (single dose for day, following AM hold).
+- **Dinner:** Baked beans with boiled yam (ate all). Warm milk before bed. Log: Mood Fair, Appetite Fair, Swelling Same, Bowel Normal, Skin Okay.
+
+> **Backfill complete (21 Aug 26):** All of 5–21 Aug now captured from topic-4 reports. ⚠️ Flag for doctor: **10 Aug evening Furosemide dose refused** + occasional low-mood (11 Aug) + reduced swelling trending (11–19 Aug) + 16 Aug early-AM BP 166 + 18 Aug AM BP at 140 + **20 Aug AM BP 142** stop-threshold anomalies + **21 Aug AM no dose** (low battery, dose held). Latest: 21 Aug (BP 113/69 eve). **Mum relocated to new home 20 Aug.**
 
 ---
 

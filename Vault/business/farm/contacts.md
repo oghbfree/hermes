@@ -1,22 +1,23 @@
 ---
 title: Farm Contacts
 created: 2026-06-29
+updated: 2026-08-17
 ---
 
 # 📞 Farm Contacts — Senya Beraku Operations
 
 ## Core Team
-| Name | Role | Phone | WhatsApp | Notes |
-|------|------|-------|----------|-------|
-| **Ben** | Experienced farmer, on-site daily | +233 XX XXXXXXX | Yes | Knows farm inside out, fixed irrigation before |
-| **Eastwood** | **TERMINATED 2026-07-01** — Paid off 600 GHS, happy departure | — | — | **No longer on roster** |
-| **Kwasi** | Bee trainer / apiary specialist | +233 XX XXXXXXX | Yes | Fee: GHS 200–300/day + transport |
+| Name | Role | Pay | Phone | WhatsApp | Notes |
+|------|------|-----|-------|----------|-------|
+| **Ben** | Experienced farmer, on-site daily | — | +233 XX XXXXXXX | Yes | Knows farm inside out, fixed irrigation before |
+| **Eastwood** | **TERMINATED 2026-07-01** — Paid off 600 GHS, happy departure | — | — | — | **No longer on roster** |
+| **Kwasi** | Bee trainer / apiary specialist | — | +233 XX XXXXXXX | Yes | Fee: GHS 200–300/day + transport |
+| **Habib** | Farm caretaker (on-site) | **GHS 750/month** | +233 55 845 7027 | Yes | Elder Muslim from mum's village. Samsung S7. No light/electricity at farm. |
+| **Kanzoni** | Apiary operator + transport | **GHS 300/trip** | +233 24 895 7794 | Yes | Uses his pickup (H has no car). Tuesday check-ins. |
 
 ## Specialists
 | Name | Role | Phone | WhatsApp | Notes |
 |------|------|-------|----------|-------|
-| **Kanzoni** | Apiary operator (shop) | +233 24 895 7794 | Yes | Tuesday check-ins, needs training |
-| **Habib** | Potential goat host | +233 XX XXXXXXX | ? | Verify: raised slatted floor, drain, shade, fence, daily check |
 | **Vetiver source** | MOFA Winneba / Senya | +233 XX XXXXXXX | ? | Ask for 100+ slips, GHS 2–5/slip |
 
 ## Input Suppliers
@@ -44,3 +45,9 @@ created: 2026-06-29
 ---
 
 *Update after every contact interaction. Log calls in daily notes.*
+
+**Staff Pay Summary (as of 17/8/26):**
+- **Habib**: GHS 750/month (caretaker)
+- **Kanzoni**: GHS 300/trip (pickup use + labour — H has no car)
+- **Freeman**: GHS 600 total job (hive frames + cover — GHS 300 paid, GHS 300 balance)
+- **Weeding crew**: GHS 750/acre (standard rate)

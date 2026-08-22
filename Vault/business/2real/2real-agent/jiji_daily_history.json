@@ -1,0 +1,86 @@
+[
+  {
+    "active": 992,
+    "reviewing": 10,
+    "draft": 1,
+    "declined": 0,
+    "closed": 98,
+    "followers": 325,
+    "feedback": 197,
+    "clients": 14,
+    "top_remaining": "500 of 500",
+    "top_expires": "19/09/26",
+    "whatsapp_ads_active": true,
+    "whatsapp_ads_until": "3 Sep 2026",
+    "balance_ghs": 0,
+    "top_items": [
+      {
+        "name": "DJI Mavic 3 Enterprise Drone",
+        "price": 45000,
+        "impressions": 76,
+        "visitors": 5,
+        "chats": 0
+      },
+      {
+        "name": "Performance Electric Planer",
+        "price": 1400,
+        "impressions": 5,
+        "visitors": 6,
+        "chats": 0
+      },
+      {
+        "name": "Gorilla Expanding Foam 353ml",
+        "price": 220,
+        "impressions": 21,
+        "visitors": 5,
+        "chats": 1
+      },
+      {
+        "name": "Blink Mini Smart Camera",
+        "price": 500,
+        "impressions": 30,
+        "visitors": 5,
+        "chats": 0
+      },
+      {
+        "name": "WD-40 Specialist Silicone Spray",
+        "price": 300,
+        "impressions": 20,
+        "visitors": 3,
+        "chats": 0
+      },
+      {
+        "name": "Gorilla Waterproof Coat 473ml",
+        "price": 250,
+        "impressions": 25,
+        "visitors": 3,
+        "chats": 0
+      },
+      {
+        "name": "INGCO Hydraulic Bottle Jack HBJ602",
+        "price": 450,
+        "impressions": 0,
+        "visitors": 0,
+        "chats": 0
+      },
+      {
+        "name": "INGCO 30m Fiberglass Tape HFMT8330",
+        "price": 160,
+        "impressions": 0,
+        "visitors": 0,
+        "chats": 0
+      }
+    ],
+    "needs_attention": [
+      "5 ads were previously declined \u2014 H says fixed now, confirm tomorrow",
+      "+14 new clients pending \u2014 John needs to reply",
+      "GH\u00a2 0 balance \u2014 recharge to use TOP+ effectively"
+    ],
+    "action_items": [
+      "Put TOP+ on Gorilla Expanding Foam \u2014 only item with active chat interest",
+      "Put TOP+ on DJI Mavic 3 Drone \u2014 highest impressions (76) but 0 chats, price/description may need work",
+      "Schedule WhatsApp ads to spotlight high-margin tools (Yale Lock, Bosch Drills)",
+      "Reply to +14 pending clients \u2014 first reply wins the sale"
+    ]
+  }
+]

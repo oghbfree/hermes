@@ -2,7 +2,16 @@
 
 Durable facts from periodic daily-processing runs.
 
-_facts below are limited to verified findings. Last refreshed: 2026-08-20._
+_facts below are limited to verified findings. Last refreshed: 2026-08-21._
+
+## 2026-08-21 Daily Processing Run
+- 🔴 **TERMINAL_CWD read-lock timeout (#79768) blocked the 03:00 batch 21 Aug** — both **integrated-daily-synthesis** (`d719cd80fa5b`) AND **nightly-consolidation** (`20e6fc5fe28c`) timed out waiting 660s (a workdir writer / long-running reader held the lock). Backfilled this daily note 22 Aug. No INTEGRATED_INSIGHTS for 20 Aug (synthesis down again after 19 Aug recovery). Fix: stagger schedules / remove the workdir holder.
+- 🔴 **~9 cron connectivity failures 08:00–15:00 21 Aug** ("Hermes can't reach the model provider") — mum-health morn/after, H health-check morn/afternoon, 2Real Daily Ops (also skill `2real-enterprises-agent` NOT FOUND — persistent), brain-dump, job-applications, cron-status, tasks-queue-sync, tasks-md-to-kanban, checkin-mum. Transient/systemic; nothing generated.
+- 🟡 **4 drift_skip** (unpinned, model drifted): Mom Morning (`aebf7e736923`), Mom Evening (`3ebd2dc4487c`), Matthias logistics (`ff2786a04f5f`), Monthly-Tax-Audit (`2610509d6f2a`). Fix: `hermes cron edit <id> --model deepseek/deepseek-v4-flash-0731`.
+- 🟢 **Security audit 21 Aug 07:06: PARTIAL, gateway/token healthy.** Gateway UP PID 26304, Telegram token VALID (46-char `@Ogaitchhermesbot`), main backup trees 0 `.env`, AGENTS.md no-BOM. ❌ Legacy `~/hermes-backup` **7 `.env` + 8 `gdrive_token.json` (worsened 5→7)**; `~/.hermes/.env` corrupt 13-char token persists (2nd cycle, dual-root divergence). WhatsApp unpaired. msg_id 10656.
+- 🟢 **GitHub backup 21 Aug 06:00 healthy** — commit `0d12829`, 9 files (H/mum health masters + 2real convo state), pushed origin/main, no errors.
+- 🟢 **2Real inventory auto-sync** up to date (0 changes, unchanged since 07-06). **Sales log gap: nothing for 20/08** (latest 18/08 GHS 200).
+- Daily note backfilled `Vault/Daily/2026-08-21.md`. 0 active request dumps (118 in `.archive/`).
 
 ## 2026-08-20 Daily Processing Run
 - ✅ **Integrated-daily-synthesis PIPELINE OPERATIONAL AGAIN (POSITIVE)** — job `d719cd80fa5b` ran 19/08 23:40, produced `INTEGRATED_INSIGHTS_2026-08-19.md` (saved to both tree roots). Corrects prior "synthesis absent/drift-skipped" state from 19/08.

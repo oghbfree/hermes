@@ -305,6 +305,14 @@
 | ☀️ Lunch | Banku with ground nut soup |
 | 🌙 Dinner | Hilltop fried rice with chicken |
 
+### Fri 21 Aug *(logged via chat)*
+| Meal | Items |
+|------|-------|
+| ☀️ Morning | 1 tsp activated charcoal with water, chopped garlic with water, Vitamin C |
+| ☀️ Breakfast | 3 fried eggs with onion and pepper |
+| ☀️ Lunch | Mango |
+| 🌙 Dinner | 3 fried eggs with kidney beans, Vitamin C |
+
 ---
 
 ## 📈 Nutritional Trends *(updated with gap-fill data)*

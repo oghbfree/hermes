@@ -55,8 +55,9 @@
 | 18 Aug | Corn dough porridge + 2 boiled eggs | Kokonte with groundnut soup | Boiled beans with rice |
 | 19 Aug | Tiger-nut porridge + 2 boiled eggs | Banku with pepper and fish (left some) | Boiled yam with butter |
 | 20 Aug | Ekoegbemi | Banku with groundnut soup | Fried rice with coleslaw, shito and fried chicken |
+| 21 Aug | Tom brown | Rice with groundnut soup and fried fish (left a little rice) | Baked beans with boiled yam |
 
-> **Backfill complete (20 Aug 26):** Meals logged for the full 5–20 Aug range. **20 Aug = relocation day** — breakfast ekoegbemi, lunch banku w/ groundnut soup, dinner fried rice + coleslaw + shito + fried chicken at new home. See household errands & market list in `MUM_MEDICAL_MASTER.md`.
+> **Backfill complete (21 Aug 26):** Meals logged for the full 5–21 Aug range. **20 Aug = relocation day** — dinner at new home. See household errands & market list in `MUM_MEDICAL_MASTER.md`.
 
 ---
 
