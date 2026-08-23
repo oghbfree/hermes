@@ -35,6 +35,9 @@ Consolidated registry for H's children (Kobena & Nenyi). Created 2026-08-14 by c
 | `food/KIDS_FOOD_MASTER.md` | GFCF diet, daily Kobe/Nenyi timetable, supplement schedule |
 | `food/Kobe timetable food details.docx` | Core family timetable + autism-intervention dietary notes |
 | `school/SCHOOL_MASTER.md` | School coordination, assistant-meeting plan, homework planner, letters |
+| `care/AUTISM_CARE_FRAMEWORK.md` | **All-rounded view** — 7 assessment lenses, communication (Makaton/sign), natural approach |
+| `care/KOBENA_CLINICAL_RECORD.md` | OCR digest + index of Kobena's scanned clinical records (2014–2018 baseline) |
+| `care/kobena-clinical-records/` | Original scanned records (genetics, hearing, SLT, OT, paediatrician, bloods) |
 | `kids-sizes-dated.md` | Clothing sizes tracker (last updated 2026-03-16) |
 | `homework-planner-dev.md` | Draft academic-planner spec (planning phase) |
 | `Info.txt` | Original brief notes |

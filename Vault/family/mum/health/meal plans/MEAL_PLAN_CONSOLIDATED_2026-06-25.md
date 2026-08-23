@@ -295,3 +295,36 @@
 ---
 
 *Consolidated plan follows Dr Ferguson’s alkaline/plant-based protocol, adapted for Ghanaian cuisine and Mum’s CKD 3b / Diabetes / HTN / obesity management. Uses current inventory as base; gaps listed above for next procurement run.*
+
+---
+
+## 📊 GAP ANALYSIS — PLAN vs REALITY (updated 22 Aug 2026)
+
+**Cross-reference:** actual meals logged in `MUM_FOOD_MASTER.md` (full record 5–21 Aug). This reconciles the intended 7-day menu with what's actually being served.
+
+### ✅ What's COMPLIANT in practice
+- Breakfast staple = porridge + 2 boiled eggs (corn-dough / tom-brown / tigernut / ekoegbemi) — matches "soft warm breakfast" principle
+- Frequent banku/fufu/kokonte with light protein soups (okro, groundnut, palm-nut) — plan-aligned
+- Boiled yam / boiled cocoyam dinners — soft-textured, plan-aligned
+- Fruits (watermelon, pear, banana) given — but **timing not always pre-noon**
+- Overall low added sugar, moderate portions
+
+### ❌ Violations / divergences observed (5–21 Aug)
+| Item served | Dates | Protocol issue |
+|---|---|---|
+| **Fried plantain** | 14, 16, 17 Aug | Banned (acid-forming) + fried |
+| **Fried fish** | 21 Aug, 9 Aug, 20 Aug | "No frying" rule + high sodium/saturated fat |
+| **Fried rice + fried chicken** | 20 Aug (relocation dinner) | "No frying" |
+| **Shito** (fish/prawn paste) | 20 Aug | High sodium; likely processed |
+| **Boiled yam with butter** | 19 Aug | Extra saturated fat (minor) |
+| **Fruit timing** | mixed | Rule = before noon only |
+
+### 🔧 Recommended corrections for the carer
+1. **Stop frying for Mum:** use steamed, baked, poached, or stewed. Replace fried fish → light boiled/stewed fresh fish; fried plantain/chicken → boiled or baked.
+2. **Plantain:** minimise/avoid (acid-forming + higher-carb for diabetes; see research note). Use yam/cocoyam/rice instead.
+3. **Shito:** swap for home-prepared low-salt pepper sauce (no fish-fried base).
+4. **Fruit strictly before noon.**
+5. **Breakfasts left uneaten (8, 10, 11, 14, 16, 19 Aug):** served plenty anyway — check appetite cues; don't force.
+6. **Use the Ferguson Master breakdown** (`MEAL_PLAN_FERGUSON_MASTER.md`) for drinks + rules at a glance.
+
+*Sodium / fried issue is the most clinically relevant flag given CKD 3b, HTN, and oedema. Furosemide management needs low-sodium support to be effective.*

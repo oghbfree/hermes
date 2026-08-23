@@ -2,7 +2,17 @@
 
 Durable facts from periodic daily-processing runs.
 
-_facts below are limited to verified findings. Last refreshed: 2026-08-21._
+_facts below are limited to verified findings. Last refreshed: 2026-08-23._
+
+## 2026-08-22 Daily Processing Run
+- 🟢 **Integrated-daily-synthesis SUCCESS 22 Aug 22:11** (`d719cd80fa5b`) — `INTEGRATED_INSIGHTS_2026-08-22.md` saved. ⚠️ **DUAL-TREE GAP: only written to `~/.hermes/memories/insights/`; workspace copy was MISSING** (manual sync in this run).
+- 🟢 **Security audit 22 Aug 07:06 PARTIAL (improving)** — Gateway UP PID 26336, Telegram token VALID (supergroup+forum verified), legacy backup `.env` **7 → 0 RESOLVED**. ❌ **`~/.hermes/.env` corrupt 13-char token persists (3rd cycle, 404)**; **18 legacy G/GDrive token copies** in `~/hermes-backup`; 25/56 cron silent delivery. WhatsApp unpaired. msg_id **10669**.
+- 🟢 **GitHub backup 22 Aug 06:00 healthy** — commit `406fa29`, 43 files (new jiji scripts, SECURITY_AUDIT_21; removed stale insights+audits), pushed origin/main.
+- 🟢 **2Real sales 22/08: GHS 3,020** (strong Sat: Casio CTK-1500/240, LG Home Theater, Iron). Inventory auto-sync up to date.
+- 🔴 **Content: 12th consecutive week 0 confirmed posts** (2026-08-17 week: 25 images, 43 captions, 0 MP4, 1/6 carousels). Blocker: no analytics/post-confirmation loop.
+- 🟡 **2Real Daily Ops Check** failed skill `2real-enterprises-agent` not found + 09:07 provider-reach batch failures (jobs-applications, tasks-sync, brain-dump). 30 jobs error flags.
+- 🟡 Last full daily-backup still **17 Aug**. 4 drift_skip (non-synthesis jobs). WhatsApp connected/unpaired state conflict.
+- Daily note written `Vault/Daily/2026-08-22.md`. 0 active request dumps (118 archived).
 
 ## 2026-08-21 Daily Processing Run
 - 🔴 **TERMINAL_CWD read-lock timeout (#79768) blocked the 03:00 batch 21 Aug** — both **integrated-daily-synthesis** (`d719cd80fa5b`) AND **nightly-consolidation** (`20e6fc5fe28c`) timed out waiting 660s (a workdir writer / long-running reader held the lock). Backfilled this daily note 22 Aug. No INTEGRATED_INSIGHTS for 20 Aug (synthesis down again after 19 Aug recovery). Fix: stagger schedules / remove the workdir holder.

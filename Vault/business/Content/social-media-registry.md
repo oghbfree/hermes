@@ -6,9 +6,9 @@ Status: Step 1 complete (handles). Step 2 complete (Bitwarden secrets). Step 3 p
 
 ## WhatsApp Business Numbers
 
-* John: +233 0233352252
-* Boss: +233 0204252252
-* Sammy: +233 0575252253
+* John: +233 233352252
+* Boss: +233 204252252
+* Sammy: +233 575252253
 
 ## Akoma Robotics
 

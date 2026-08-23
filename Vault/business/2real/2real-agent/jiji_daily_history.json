@@ -82,5 +82,106 @@
       "Schedule WhatsApp ads to spotlight high-margin tools (Yale Lock, Bosch Drills)",
       "Reply to +14 pending clients \u2014 first reply wins the sale"
     ]
+  },
+  {
+    "active": 1006,
+    "reviewing": 10,
+    "draft": 1,
+    "declined": 0,
+    "closed": 98,
+    "followers": 325,
+    "feedback": 197,
+    "clients": 31,
+    "top_remaining": "500 of 500",
+    "top_expires": "19/09/26",
+    "whatsapp_ads_active": true,
+    "whatsapp_ads_until": "Sep 3 2026",
+    "balance_ghs": 0,
+    "top_items": [
+      {
+        "name": "DJI Mavic 3 Enterprise (Mavic 3E) Commercial Drone",
+        "price": 45000,
+        "impressions": 76,
+        "visitors": 5,
+        "chats": 0
+      },
+      {
+        "name": "Blink Mini Indoor Plug-in HD Smart Security Camera",
+        "price": 500,
+        "impressions": 30,
+        "visitors": 5,
+        "chats": 0
+      },
+      {
+        "name": "Gorilla Waterproof Coat and Seal 473ml",
+        "price": 250,
+        "impressions": 25,
+        "visitors": 3,
+        "chats": 0
+      },
+      {
+        "name": "Peach Star Binder Pro",
+        "price": 800,
+        "impressions": 25,
+        "visitors": 5,
+        "chats": 0
+      },
+      {
+        "name": "CarPlan Flat Mate Emergency Puncture Repair 500ml",
+        "price": 130,
+        "impressions": 24,
+        "visitors": 2,
+        "chats": 0
+      },
+      {
+        "name": "Gorilla Black Tape Heavy Duty (32m X 48mm)",
+        "price": 280,
+        "impressions": 22,
+        "visitors": 2,
+        "chats": 0
+      },
+      {
+        "name": "CarPlan Flat Mate Emergency Puncture Repair 300ml",
+        "price": 80,
+        "impressions": 22,
+        "visitors": 1,
+        "chats": 0
+      },
+      {
+        "name": "Gorilla Heavy Duty Expanding Foam (353ml)",
+        "price": 220,
+        "impressions": 21,
+        "visitors": 5,
+        "chats": 1
+      },
+      {
+        "name": "WD-40 Specialist Silicone Spray (250ml)",
+        "price": 300,
+        "impressions": 20,
+        "visitors": 3,
+        "chats": 0
+      },
+      {
+        "name": "Performance Power Corded Electric Planer",
+        "price": 1400,
+        "impressions": 5,
+        "visitors": 6,
+        "chats": 0
+      }
+    ],
+    "needs_attention": [
+      "DJI Mavic 3: 76 impressions but 0 chats \u2014 price/description likely needs work",
+      "+31 new clients pending (up from +17) \u2014 first reply wins the sale",
+      "GH\u00a2 0 balance still \u2014 recharge to use TOP+/pro services effectively",
+      "Active listings jumped to 1006 (+14 since yesterday); reviewing/draft/declined counts not shown on overview (carried forward)"
+    ],
+    "action_items": [
+      "Put TOP+ on Gorilla Heavy Duty Expanding Foam \u2014 only item with active chat (1 chat, 21 imp)",
+      "Put TOP+ on DJI Mavic 3 \u2014 highest impressions (76) but 0 chats; rethink price/description",
+      "Reply to +31 pending clients this morning \u2014 first reply wins the sale",
+      "Review Blink Mini price (30 imp, 0 chats) since it has strong reach but no conversion"
+    ],
+    "date": "2026-08-22",
+    "saved_at": "2026-08-22T06:32:18.777173"
   }
 ]
