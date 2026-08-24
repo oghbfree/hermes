@@ -2,7 +2,17 @@
 
 Durable facts from periodic daily-processing runs.
 
-_facts below are limited to verified findings. Last refreshed: 2026-08-23._
+_facts below are limited to verified findings. Last refreshed: 2026-08-24._
+
+## 2026-08-23 Daily Processing Run
+- 🟢 **Integrated-daily-synthesis SUCCESS 23 Aug 22:08** (`d719cd80fa5b`) — `INTEGRATED_INSIGHTS_2026-08-23.md` saved to **BOTH trees** (workspace copy present, 9019B — dual-tree gap re-closed). **H: 🔴 NEW left-arm tremor** (unilateral, 72d post-shock → neurological red flag, book eval) + **NEW toenail fungus** (onychomycosis). Vitals 83d / post-shock eval 72d overdue; blood work 6+ yrs stale. Food diary resumed (granola/ampesie/rice-tomato-chicken).
+- 🟢 **Security audit 23 Aug PARTIAL — REGRESSION: gateway DOWN** (PID dead, was UP as of 22 Aug). Corrupt 13-char `~/.hermes/.env` token (5th cycle 404); valid 46-char AppData key ok. Legacy Google/GDrive tokens **18 → 9** (improving). 0 backup `.env`; WhatsApp unpaired; 25/56 silent. msg 10701. Report → `Vault/System/Assistant/SECURITY_AUDIT_2026-08-23.md`.
+- ⚠️ **GATEWAY STALE/UP DISCREPANCY:** audit+synthesis say gateway DOWN; **checkin-mum 10:18 reports live gateway PID 10260 delivered Mum WhatsApp**. Verify current gateway state (may have restarted mid-cycle).
+- 🟢 **Daily backup 23 Aug 23:21 SUCCESS** — 19,929 files, 2.5GB, 6 DBs byte-verified (state.db 418M), 0 secrets. Refreshes last-full (was 17 Aug). ⚠️ leftover dup `latest_dir_fallback_20260823` (~2.5GB) to remove manually.
+- 🟢 **Cron status 23 Aug: 56 jobs: 76.9% (40/52) success**, 0 stuck. 12 failures; 8-member incident cluster 22 Aug 09:07 (connectivity) + DNS `ConnectError` delivery warnings ×6.
+- 🟢 **2Real Daily Ops 23 Aug**: 442 low-stock (340 at 1); hydraulic-bottle-jack lead IN STOCK (close). 2 pending phone leads; sourcing clean. ⚠️ skill `2real-enterprises-agent` not found (2d). Inquiry loop auto-resolving.
+- 🟡 **Dad** 23 Aug weekly: 3-day cadence OK; diabetic-foot case outcome unrecorded (+5wks); PSA/aneurysm scan unconfirmed; master doc stale (19/05).
+- Daily note `Vault/Daily/2026-08-23.md` written. 0 active request dumps (118 archived).
 
 ## 2026-08-22 Daily Processing Run
 - 🟢 **Integrated-daily-synthesis SUCCESS 22 Aug 22:11** (`d719cd80fa5b`) — `INTEGRATED_INSIGHTS_2026-08-22.md` saved. ⚠️ **DUAL-TREE GAP: only written to `~/.hermes/memories/insights/`; workspace copy was MISSING** (manual sync in this run).

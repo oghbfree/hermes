@@ -57,8 +57,9 @@
 | 20 Aug | Ekoegbemi | Banku with groundnut soup | Fried rice with coleslaw, shito and fried chicken |
 | 21 Aug | Tom brown | Rice with groundnut soup and fried fish (left a little rice) | Baked beans with boiled yam |
 | 22 Aug | Corn dough porridge | Kokonte with tilapia soup | Oil rice with pepper and fried fish |
+| 23 Aug | — (AM pending) | Boiled yam with tilapia soup (left some) | Boiled beans with fried plantain |
 
-> **Backfill complete (22 Aug 26):** Meals logged for the full 5–22 Aug range. **22 Aug: corn-dough (grain, phased out), kokonte + tilapia, oil rice + fried fish (frying noted).** See household errands & market list in `MUM_MEDICAL_MASTER.md`.
+> **Backfill complete (23 Aug 26):** Meals logged for 5–23 Aug. **23 Aug: yam + tilapia**, dinner **boiled beans + fried plantain** (frying & plantain noted). Breakfast (AM) report pending. See household errands & market list in `MUM_MEDICAL_MASTER.md`.
 
 ---
 

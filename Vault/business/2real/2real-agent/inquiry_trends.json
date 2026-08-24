@@ -15,5 +15,58 @@
       "unknown_count": 0
     },
     "saved_at": "2026-08-22T06:32:18.815509"
+  },
+  {
+    "date": "2026-08-23",
+    "trends": {
+      "total_inquiries": 24,
+      "unresolved_count": 0,
+      "top_keywords": [
+        {
+          "word": "good",
+          "count": 2
+        },
+        {
+          "word": "image",
+          "count": 2
+        },
+        {
+          "word": "received",
+          "count": 2
+        },
+        {
+          "word": "kofi",
+          "count": 2
+        },
+        {
+          "word": "lego",
+          "count": 1
+        },
+        {
+          "word": "morning",
+          "count": 1
+        },
+        {
+          "word": "agency",
+          "count": 1
+        },
+        {
+          "word": "ready",
+          "count": 1
+        },
+        {
+          "word": "okay",
+          "count": 1
+        },
+        {
+          "word": "supplied",
+          "count": 1
+        }
+      ],
+      "items_in_stock_missed": [],
+      "items_customers_want_not_in_stock": [],
+      "unknown_count": 0
+    },
+    "saved_at": "2026-08-23T06:32:37.978798"
   }
 ]

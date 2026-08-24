@@ -321,6 +321,14 @@
 | ☀️ Lunch | 8 bananas, peanuts, 5 fried yam chips |
 | 🌙 Dinner | Spaghetti with 1 fried egg and kidney beans, Vitamin C |
 
+### Sun 23 Aug *(logged via chat)*
+| Meal | Items |
+|------|-------|
+| ☀️ Morning | 1 tsp activated charcoal with water, chopped garlic + lemon water, Vitamin C |
+| ☀️ Breakfast | Granola |
+| ☀️ Lunch | Ampesie (boiled green plantain) |
+| 🌙 Dinner | Rice with tomato gravy and chicken, Vitamin C |
+
 ---
 
 ## 📈 Nutritional Trends *(updated with gap-fill data)*

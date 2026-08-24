@@ -221,3 +221,82 @@ Wholesale
 - **Chat:** 14117708538079
 - **Customer:** Hello
 - **Reply:** 2Real Enterprises. Hello. We supply quality goods at competitive prices. What item are you looking for?
+
+## 2026-08-23 06:37
+- **Channel:** whatsapp
+- **Chat:** 3711623528500
+- **Customer:** Hi
+- **Reply:** 2Real Enterprises. Hello. We supply quality goods at competitive prices. What item are you looking for?
+
+## 2026-08-23 06:37
+- **Channel:** whatsapp
+- **Chat:** 3711623528500
+- **Customer:** [video received]
+- **Reply:** 2Real Enterprises. Uban Video Intercom And Outdoor Button is available at GHS 1,800. We have 1 in stock at Oyarifa. Payment: MoMo on delivery or cash. No credit. Want me to reserve it?
+
+## 2026-08-23 06:43
+- **Channel:** whatsapp
+- **Chat:** 3711623528500
+- **Customer:** How please kindly assist me
+- **Reply:** Thanks for your message. I've noted it — I'll confirm and get back to you shortly with the details.
+
+## 2026-08-23 06:48
+- **Channel:** whatsapp
+- **Chat:** 3711623528500
+- **Customer:** Ok
+- **Reply:** [acknowledgment - no reply sent]
+
+## 2026-08-23 12:03
+- **Channel:** whatsapp
+- **Chat:** 3711623528500
+- **Customer:** Fixed please
+- **Reply:** 2Real Enterprises. We have "Stanley Knife Folding Fixed Blade 10424" at Accra Metropolitan. Price: GH₵ 220. Message back to confirm availability and reserve.
+
+## 2026-08-23 12:05
+- **Channel:** whatsapp
+- **Chat:** 3711623528500
+- **Customer:** [image received]
+- **Reply:** Thanks for your message. I've noted it — I'll confirm and get back to you shortly with the details.
+
+## 2026-08-23 12:06
+- **Channel:** whatsapp
+- **Chat:** 3711623528500
+- **Customer:** Is wat
+- **Reply:** 2Real Enterprises. We have "Brita Water Filter Cartridges From Uk 3pcs" at Oyarifa. Price: GH₵ 400. Message back to confirm availability and reserve.
+
+## 2026-08-23 12:07
+- **Channel:** whatsapp
+- **Chat:** 3711623528500
+- **Customer:** New
+- **Reply:** 2Real Enterprises. We have "Honeywell Ear Defenders Almost New" at Dome. Price: GH₵ 300. Message back to confirm availability and reserve.
+
+## 2026-08-23 17:55
+- **Channel:** whatsapp
+- **Chat:** 210806172070044
+- **Customer:** https://www.facebook.com/share/r/1DAcC35dMt/
+- **Reply:** Thanks for your message. I've noted it — I'll confirm and get back to you shortly with the details.
+
+## 2026-08-23 19:31
+- **Channel:** whatsapp
+- **Chat:** 27045610414110
+- **Customer:** Hello is this available
+- **Reply:** Thanks for your message. I've noted it — I'll confirm and get back to you shortly with the details.
+
+## 2026-08-23 19:31
+- **Channel:** whatsapp
+- **Chat:** 27045610414110
+- **Customer:** Hello is this available
+- **Reply:** Thanks for your message. I've noted it — I'll confirm and get back to you shortly with the details.
+
+## 2026-08-23 20:26
+- **Channel:** whatsapp
+- **Chat:** 27045610414110
+- **Customer:** I need 2 any discount
+- **Reply:** Not quite sure which one you mean — do you mean: "2 Pin AC Power Cables", "Draper 24 Volt Cordless Combi Hammer Drill With 2 Batteries", "Freud Circular Saw 2 in One Blade Pack"? Reply with the one you want.
+
+## 2026-08-24 05:51
+- **Channel:** whatsapp
+- **Chat:** 215250993414351
+- **Customer:** Good morning, yes i will be available. Kindly let me know the time and place.
+Good morning, yes i will be available. Kindly let me know the time and place.
+- **Reply:** 2Real Enterprises. Mon - Sat, 07:00 - 16:30 (Kantamanto); open most days 08:00 - 20:00 at the warehouse in Oyarifa. If it's after hours, message me and I'll attend to it first thing in the morning.
