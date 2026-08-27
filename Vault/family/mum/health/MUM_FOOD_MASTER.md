@@ -58,8 +58,11 @@
 | 21 Aug | Tom brown | Rice with groundnut soup and fried fish (left a little rice) | Baked beans with boiled yam |
 | 22 Aug | Corn dough porridge | Kokonte with tilapia soup | Oil rice with pepper and fried fish |
 | 23 Aug | — (AM pending) | Boiled yam with tilapia soup (left some) | Boiled beans with fried plantain |
+| 24 Aug | Corn dough porridge | Boiled yam & plantain with kontomire stew | Boiled rice with boiled beans and pear |
+| 25 Aug | Obrayo | Banku with pepper and fried fish | — (eve at 26 Aug below; not yet reported separately) |
+| 26 Aug | Tom brown (left some) | Banku with tilapia soup | Boiled cocoyam with vegetable stew |
 
-> **Backfill complete (23 Aug 26):** Meals logged for 5–23 Aug. **23 Aug: yam + tilapia**, dinner **boiled beans + fried plantain** (frying & plantain noted). Breakfast (AM) report pending. See household errands & market list in `MUM_MEDICAL_MASTER.md`.
+> **Backfill complete (26 Aug 26):** Meals logged for 5–26 Aug. **26 Aug:** tom brown / banku + tilapia / boiled cocoyam + veg stew, pawpaw fruit. Frying & plantain reduced now; corn-dough/tom-brown still serve grains. Cocoa tea added (sweetened? monitor). See market list in `MUM_MEDICAL_MASTER.md`.
 
 ---
 

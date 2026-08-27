@@ -329,6 +329,30 @@
 | ☀️ Lunch | Ampesie (boiled green plantain) |
 | 🌙 Dinner | Rice with tomato gravy and chicken, Vitamin C |
 
+### Mon 24 Aug *(logged via chat)*
+| Meal | Items |
+|------|-------|
+| ☀️ Morning | Vitamin C, creatine, lemon & garlic water |
+| ☀️ Breakfast | None (doctor visit day) |
+| ☀️ Lunch | Gizzard kebab, omelette, meat pie |
+| 🌙 Dinner | Banku and tomato gravy |
+
+### Tue 25 Aug *(logged via chat)*
+| Meal | Items |
+|------|-------|
+| ☀️ Morning | Activated charcoal, Vitamin C, chopped garlic with lemon water |
+| ☀️ Breakfast | Mango |
+| ☀️ Lunch | Banana and peanuts |
+| 🌙 Dinner | Guinea fowl and goat kebab with Guinness and Origin |
+
+### Wed 26 Aug *(logged via chat)*
+| Meal | Items |
+|------|-------|
+| ☀️ Morning | Creatine, Vitamin C, chopped garlic with lemon water |
+| ☀️ Breakfast | Pineapple |
+| ☀️ Lunch | Jollof with fish |
+| 🌙 Dinner | Waakye with salad |
+
 ---
 
 ## 📈 Nutritional Trends *(updated with gap-fill data)*

@@ -2,7 +2,27 @@
 
 Durable facts from periodic daily-processing runs.
 
-_facts below are limited to verified findings. Last refreshed: 2026-08-24._
+_facts below are limited to verified findings. Last refreshed: 2026-08-27._
+
+## 2026-08-26 Daily Processing Run
+- 🟢 **Integrated-daily-synthesis 26 Aug 22:05 SUCCESS** (`d719cd80fa5b`) — `INTEGRATED_INSIGHTS_2026-08-26.md` saved to BOTH trees ✓ (workspace 10,322B). Prior 11:13 attempt failed (morning provider outage).
+- 🔴 **26 Aug MORNING PROVIDER OUTAGE (key event):** `Hermes can't reach the model provider` hit the whole 11:12 cron wave — **security-policy-check, 2Real daily ops, jiji report, mum-health-morning, cron-status all FAILED**. Evening wave (19:48–19:58) fully recovered. **No 26 Aug security audit** — posture baseline = 24 Aug IMPROVED (gateway recovered PID 20344, WhatsApp paired). Posture stable tho stale.
+- 🟢 **H food diary: 9 days running** (thru 26 Aug: jollof+fish lunch, waakye+salad dinner). Still on Renerve (B12) tremor treatment. 🔴 **Lab requisition photo (1,075 GH incl. PSA) STILL not re-sent → book Mon 31 Aug review** (P0, since 24 Aug). Vitals 86d + post-shock eval 75d overdue. Dental 12 Oct.
+- 🟡 **Comfort stable** — 25 Aug AM BP 126/74 ✅, Furo on time. **26 Aug + 25 Aug dinner not yet reported** (evening check posted to topic 4). Fried-food/plantain rule still breached.
+- 🟢 **2Real sales:** 26 Aug GHS 640 · 25 Aug 800 · 24+23 closed. **Customer loop (119 scanned): 3 warm in-stock leads to close** (Stanley Tape GHS 700 ×1, Arlec Power Socket GHS 120 ×2, replies drafted); **53 SLA-inquiry breaches** (top 3 at 35h); 49 unknown items; 1 OOS to source. **Jiji: 992 active, +14 clients pending reply (John), GH₵0 balance, TOP+→Gorilla Foam, 5 declined ads "fixed".**
+- 🟠 **System:** gateway RUNNING (PID 19936) but Telegram network DEGRADED 22:08 (DNS IPs failing, self-retrying) — static DNS (8.8.8.8/1.1.1.1) rec. Disk 38% (297G free).
+- ⚠️ **Evening health-check cron (`42d142d01603`)** lacks send_message/terminal/execute_code tools in-scope → **evening check NOT delivered to topic 2.** Recommend enabling messaging for it.
+- Daily note `Vault/Daily/2026-08-26.md` written. **No 2026-08-25.md daily note existed (gap)** — backfilled 08-26 only. 0 active request dumps (118 archived).
+
+## 2026-08-24 Daily Processing Run
+- 🟢 **H DOCTOR VISIT (24 Aug, Dr. Addo Danquah) — MAJOR POSITIVE:** L-arm tremor → prescribed **Renerve (B12/nerve) 295 GH**; **right-toe X-ray DONE** ✅ (results 48h, on record for Mon 31 Aug review); **labs ordered 1,075 GH** (LFT 210 / HbA1c 170 / BUE 170 / FBC 100 / Urine 85 / Lipid 170 / PSA 170) — 🔴 **photo failed to transmit, must re-send → book 31 Aug review**. Dental booked **12 Oct 10:30am**. Post-shock eval 73d + vitals 84d STILL overdue (Dr. took vitals, no concern). Food diary logged.
+- 🟢 **Comfort (Mum):** stable at new home; 23 Aug fully backfilled (eve BP **119/82** ✅, Furo 7:10pm). ⚠️ **24 Aug AM report missing/unreadable** in topic 4 (no fabrication) — capture at handover. BP stop-rule-at-140 persists (18/20/22 Aug).
+- 🟢 **Security 24 Aug IMPROVED:** **Gateway RECOVERED (PID 20344), WhatsApp PAIRED (creds.json live)** — back to service. 🟠 corrupt 13-char `~/.hermes/.env` token 6th cycle 404; legacy GDrive tokens in `~/hermes-backup` **WORSENED 9 → 26**; 25/57 silent.
+- 🟢 **Integrated-daily-synthesis 24 Aug SUCCESS** — saved to BOTH trees. Cron SLA **~77% (40/52)**, 0 stuck. Backup 23 Aug PASS (19,929 files/2.5GB/0 secrets/6 DBs).
+- 🟢 **2Real:** sales last **Sat 22 Aug GHS 3,020** (Sun+Mon not logged; Mon day off). **CRITICAL closing leads:** Ingco Bottle Jack GHS450 (3×), Flopro Spray Gun 275 (2×), Makita Drill 850, Under-Cab light 380. **480 low-stock** ≤2 units. Jiji: **31 clients pending reply**, GH₵ balance 0, TOP+ expired (best conversion Gorilla Expanding Foam). Sourcing clean.
+- 🟡 **Content still 0/7 posted — 12th+ wk** no verified publication. Dad foot-outcome 4+wks overdue; PSA/aneurysm unconfirmed.
+- **4:30 brief Tue 25 Aug:** WORK DAY — bar to beat GHS 3,020; log target tonight.
+- Daily note `Vault/Daily/2026-08-24.md` written (backfilled). 0 active request dumps (118 archived).
 
 ## 2026-08-23 Daily Processing Run
 - 🟢 **Integrated-daily-synthesis SUCCESS 23 Aug 22:08** (`d719cd80fa5b`) — `INTEGRATED_INSIGHTS_2026-08-23.md` saved to **BOTH trees** (workspace copy present, 9019B — dual-tree gap re-closed). **H: 🔴 NEW left-arm tremor** (unilateral, 72d post-shock → neurological red flag, book eval) + **NEW toenail fungus** (onychomycosis). Vitals 83d / post-shock eval 72d overdue; blood work 6+ yrs stale. Food diary resumed (granola/ampesie/rice-tomato-chicken).

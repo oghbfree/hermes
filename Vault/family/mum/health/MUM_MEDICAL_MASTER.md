@@ -55,7 +55,7 @@ Date-range snapshot:
 - 25 Jul: 108–127/60–63 · 26 Jul: 127–128/66–72 · 27 Jul: 112–126/60–72
 - 28 Jul: 122–134/72–78 · 29 Jul: 120–127/60–67 · 30 Jul: 126–136/68–78
 - 31 Jul: 121–126/60–64 · 1 Aug: 118–127/62–63 · 3 Aug: 127–135/71–72 · 4 Aug: 126/75
-- 5 Aug: 125/72 · 6 Aug: 124/62–126/59 · **7 Aug: 118/60–130/73** · **8 Aug: 113/65–136/76** · 9 Aug: 120/68–125/66 · **10 Aug: 122/77 (evening dose refused)** · **11 Aug: 123/73–138/79** · **13 Aug: 122/78** · **14 Aug: 137/79–144/82 (eve above 140)** · **15 Aug: 124–130/72–79** · **16 Aug: 132/72 (AM), early-AM 166/79 (⚠️ high)** · **17 Aug: 130/77** · **18 Aug: 139–140/72–75** · **19 Aug: 132–136/72–75** · **20 Aug: 142/76 (AM, ⚠️ above 140)** · **21 Aug: 113/69 (eve, no AM reading — dose held)** · **22 Aug: 140/77 (AM, ⚠️ at threshold)** · **23 Aug: 119/82 (eve, healthy)** — latest captured
+- 5 Aug: 125/72 · 6 Aug: 124/62–126/59 · **7 Aug: 118/60–130/73** · **8 Aug: 113/65–136/76** · 9 Aug: 120/68–125/66 · **10 Aug: 122/77 (evening dose refused)** · **11 Aug: 123/73–138/79** · **13 Aug: 122/78** · **14 Aug: 137/79–144/82 (eve above 140)** · **15 Aug: 124–130/72–79** · **16 Aug: 132/72 (AM), early-AM 166/79 (⚠️ high)** · **17 Aug: 130/77** · **18 Aug: 139–140/72–75** · **19 Aug: 132–136/72–75** · **20 Aug: 142/76 (AM, ⚠️ above 140)** · **21 Aug: 113/69 (eve, no AM reading — dose held)** · **22 Aug: 140/77 (AM, ⚠️ at threshold)** · **23 Aug: 119/82 (eve, healthy)** · **24 Aug: 130/76 (AM, healthy)** · **25 Aug: 126/74 (AM, healthy)** · **26 Aug: 136/79–139/76 (AM+eve)** — latest captured
 
 *Full bloodwork (kidney, liver, lipids, FBC, thyroid, BNP, ferritin, phosphate): see `CLINICAL_SUMMARY_COMFORT.md`.*
 
@@ -252,7 +252,52 @@ Date-range snapshot:
 - **Medication:** Furosemide 20mg given at 7:10pm.
 - **Dinner:** Boiled beans with fried plantain (ate all). Log: Mood Fair, Appetite Fair, Swelling Same, Bowel Normal, Skin Okay. *(note: fried plantain — no-fry + plantain being minimised)*
 
-> **Backfill complete (23 Aug 26):** All of 5–23 Aug now captured. ⚠️ Flag for doctor: **10 Aug evening Furosemide dose refused** + occasional low-mood (11 Aug) + reduced swelling trending (11–19 Aug) + 16 Aug early-AM BP 166 + 18/20/22 Aug AM BP at/above 140 stop-threshold anomalies + 21 Aug AM no dose. Latest: 23 Aug (BP 119/82 eve ✅). 23 Aug AM report still pending. **Mum relocated to new home 20 Aug.**
+### 25 Aug 2026 (Tue) — Morning *(24 Aug report not provided)*
+- **Status:** Feeling fine.
+- **Vitals:** BP 126/74, Pulse 87, Temp 36.2°C ✅ healthy
+- **Medication:** Furosemide 20mg given at 9:05am.
+- **Check-in:** Breakfast Obrayo (ate all). Log: Mood Fair, Appetite Fair, Swelling Same, Urine Normal, Skin Okay.
+
+### 24 Aug 2026 (Mon) — Morning *[received 25 Aug; inserted chronologically]*
+- **Status:** Feeling fine; lime water 7:35am.
+- **Vitals:** BP 130/76, Pulse 84, Temp 36.0°C ✅ healthy
+- **Medication:** Furosemide 20mg given at 9:05am.
+- **Check-in:** Breakfast corn dough porridge (ate all). Log: Mood Fair, Appetite Fair, Swelling Same, Urine Normal, Skin Okay. TV + interaction with carer in living room. *(note: corn-dough = grain phased out)*
+
+### 24 Aug 2026 (Mon) — Afternoon
+- **Status:** Rest in room; chat with carer; sofa w/ legs raised in living room.
+- **Vitals:** none recorded.
+- **Lunch:** Boiled yam and plantain with kontomire stew (ate all). Log: Mood Fair, Appetite Fair, Swelling Same, Urine Normal, Skin Okay. *(note: plantain served — being minimised)*
+
+### 24 Aug 2026 (Mon) — Evening
+- **Status:** TV; chat; **interacted with son + man planting her flowers**; carer watched TV with her; warm milk before bed.
+- **Vitals:** none recorded.
+- **Dinner:** Boiled rice with boiled beans and pear (ate all — pear = allowed fruit). Log: Mood Fair, Appetite Fair, Swelling Same, Bowel Normal, Skin Okay.
+
+### 25 Aug 2026 (Tue) — Afternoon
+- **Status:** Phone; chat with carer (45 min); sofa w/ legs raised; **walk around the compound** (good mobility).
+- **Vitals:** none recorded.
+- **Lunch:** Banku with pepper and fried fish (ate all). Fruit: **apple + pawpaw** mix (ate all — both allowed).
+- Log: Mood Fair, Appetite Fair, Swelling Same, Urine Normal, Skin Okay. *(note: fried fish — no-fry rule not followed)*
+
+### 26 Aug 2026 (Wed) — Morning ⚠️ INSOMNIA
+- **Status:** Feeling fine but **insomnia — woke carer 2:16am**; carer gave water, assisted to toilet & back to bed, covered/light off. Recurring night-time wake.
+- **Vitals:** BP 139/76, Pulse 88, Temp 36.1°C (systolic 139 — close to threshold, Furo given)
+- **Medication:** Furosemide 20mg given at 9:05am.
+- **Check-in:** Breakfast tom brown (left some). Log: Mood Fair, Appetite Fair, **Swelling Reduced**, Urine Normal, Skin Okay.
+
+### 26 Aug 2026 (Wed) — Afternoon
+- **Status:** Sofa w/ legs raised; kitchen chat; living-room chat.
+- **Vitals:** none recorded.
+- **Lunch:** Banku with tilapia soup (ate all). Fruit: **pawpaw** (ate all — allowed). Log: Mood Fair, Appetite Fair, Swelling Same, Urine Normal, Skin Okay.
+
+### 26 Aug 2026 (Wed) — Evening
+- **Status:** TV; turned off ~8:12pm; warm cocoa tea before bed.
+- **Vitals:** BP 136/79, Pulse 88, Temp 36.4°C
+- **Medication:** Furosemide 20mg given at 6:40pm.
+- **Dinner:** Boiled cocoyam with vegetable stew (ate all). **Cocoa tea** (drank all — note: sweetened? monitor re diabetes). Log: Mood Fair, Appetite Fair, Swelling Same, Bowel Normal, Skin Okay.
+
+> **Backfill complete (26 Aug 26):** All of 5–26 Aug now captured. ⚠️ Flag for doctor: **recurring insomnia** (2:16am on 26 Aug; recurring across period) + **10 Aug Furosemide dose refused** + occasional low-mood (11 Aug) + reduced swelling trending + 16 Aug early-AM BP 166 + 18/20/22/26 Aug AM BP at/above 140 stop-threshold anomalies + 21 Aug AM no dose. Latest: 26 Aug (BP 139/76 AM / 136/79 eve). **Mum relocated to new home 20 Aug.**
 
 ---
 

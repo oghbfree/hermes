@@ -250,5 +250,529 @@
     "call_id": "7e1499e9eba5",
     "status": "pending",
     "priority": "MEDIUM"
+  },
+  {
+    "timestamp": "2026-08-25 08:35",
+    "customer_msg": "Hello",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 0.7,
+    "priority": "LOW",
+    "last_checked": "2026-08-25T09:15:07.355765",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-08-25 08:36",
+    "customer_msg": "Please I just called you about the hammer",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 0.7,
+    "priority": "LOW",
+    "last_checked": "2026-08-25T09:15:07.359478",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-08-25 08:36",
+    "customer_msg": "[image received]",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 0.7,
+    "priority": "LOW",
+    "last_checked": "2026-08-25T09:15:07.363748",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-08-25 08:48",
+    "customer_msg": "Okay sir",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 0.5,
+    "priority": "LOW",
+    "last_checked": "2026-08-25T09:15:07.368206",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-08-25 08:48",
+    "customer_msg": "Please can you share a picture with me",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 0.5,
+    "priority": "LOW",
+    "last_checked": "2026-08-25T09:15:07.371803",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-08-25 09:06",
+    "customer_msg": "Okay sir I'm also selling it but currently it's a quotation I'm doing",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 0.2,
+    "priority": "LOW",
+    "last_checked": "2026-08-25T09:15:07.375618",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-08-25 09:06",
+    "customer_msg": "Please I see 300cedis",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "out_of_stock",
+    "age_hours": 0.2,
+    "priority": "MEDIUM",
+    "last_checked": "2026-08-25T09:15:07.380430",
+    "checked_count": 1,
+    "match": {
+      "name": "Irwin Saw",
+      "price": 260.0,
+      "stock": 0,
+      "cost": 0
+    }
+  },
+  {
+    "timestamp": "2026-08-25 09:07",
+    "customer_msg": "Please what's your wholesale price please I'm also going to sell",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 0.1,
+    "priority": "LOW",
+    "last_checked": "2026-08-25T09:15:07.384724",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-08-25 09:10",
+    "customer_msg": "Hello",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 0.1,
+    "priority": "LOW",
+    "last_checked": "2026-08-25T09:15:07.384778",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-08-25 09:10",
+    "customer_msg": "Yes please just the hammer",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 0.1,
+    "priority": "LOW",
+    "last_checked": "2026-08-25T09:15:07.389477",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-08-25 09:10",
+    "customer_msg": "Please can you assist me with the below",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 0.1,
+    "priority": "LOW",
+    "last_checked": "2026-08-25T09:15:07.395100",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-08-25 09:10",
+    "customer_msg": "Meauring tape (10 metres) Stanley",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "stock_found_but_missed",
+    "age_hours": 0.1,
+    "priority": "HIGH",
+    "last_checked": "2026-08-25T09:15:07.400584",
+    "checked_count": 1,
+    "match": {
+      "name": "Stanley Tape Measure",
+      "price": 700.0,
+      "stock": 1,
+      "variant": "10 M Stanley FatMax Extreme 33896"
+    }
+  },
+  {
+    "timestamp": "2026-08-25 09:11",
+    "customer_msg": "Yeh",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 0.1,
+    "priority": "LOW",
+    "last_checked": "2026-08-25T09:15:07.405166",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-08-25 09:11",
+    "customer_msg": "Let me chat a human instead of a bot.",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 0.1,
+    "priority": "LOW",
+    "last_checked": "2026-08-25T09:15:07.410150",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-08-25 09:13",
+    "customer_msg": "Yes i want 10m",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 0.0,
+    "priority": "LOW",
+    "last_checked": "2026-08-25T09:15:07.415270",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-08-25 09:13",
+    "customer_msg": "But lemme see what other ones have in",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 0.0,
+    "priority": "LOW",
+    "last_checked": "2026-08-25T09:15:07.420029",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-08-25 09:13",
+    "customer_msg": "Which one has a high power",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "stock_found_but_missed",
+    "age_hours": 0.0,
+    "priority": "HIGH",
+    "last_checked": "2026-08-25T09:15:07.424990",
+    "checked_count": 1,
+    "match": {
+      "name": "Arlec Power Socket",
+      "price": 120.0,
+      "stock": 1,
+      "variant": "Metal Screwless One Gang Double Pole"
+    }
+  },
+  {
+    "timestamp": "2026-08-25 09:15",
+    "customer_msg": "Yes",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 4.0,
+    "priority": "HIGH",
+    "last_checked": "2026-08-25T13:15:33.915387",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-08-25 09:17",
+    "customer_msg": "2600",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 4.0,
+    "priority": "LOW",
+    "last_checked": "2026-08-25T13:15:33.918885",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-08-25 09:18",
+    "customer_msg": "Ok sir",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 4.0,
+    "priority": "LOW",
+    "last_checked": "2026-08-25T13:15:33.922212",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-08-25 09:20",
+    "customer_msg": "its a request, then they need stanley",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 3.9,
+    "priority": "LOW",
+    "last_checked": "2026-08-25T13:15:33.926873",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-08-25 09:27",
+    "customer_msg": "how much is one?",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "stock_found_but_missed",
+    "age_hours": 3.8,
+    "priority": "HIGH",
+    "last_checked": "2026-08-25T13:15:33.933651",
+    "checked_count": 1,
+    "match": {
+      "name": "Arlec Power Socket",
+      "price": 120.0,
+      "stock": 1,
+      "variant": "Metal Screwless One Gang Double Pole"
+    }
+  },
+  {
+    "timestamp": "2026-08-25 09:27",
+    "customer_msg": "and can i have a look at it please",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 3.8,
+    "priority": "LOW",
+    "last_checked": "2026-08-25T13:15:33.937174",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-08-25 09:28",
+    "customer_msg": "I want 2 . How much are you giving it to me",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 3.8,
+    "priority": "LOW",
+    "last_checked": "2026-08-25T13:15:33.942773",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-08-25 09:29",
+    "customer_msg": "Am I chatting a human or bot. Let me know",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 3.8,
+    "priority": "LOW",
+    "last_checked": "2026-08-25T13:15:33.947404",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-08-25 09:31",
+    "customer_msg": "For?",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 3.7,
+    "priority": "LOW",
+    "last_checked": "2026-08-25T13:15:33.951379",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-08-25 09:31",
+    "customer_msg": "What about the price",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 3.7,
+    "priority": "LOW",
+    "last_checked": "2026-08-25T13:15:33.956067",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-08-25 09:32",
+    "customer_msg": ".",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 3.7,
+    "priority": "LOW",
+    "last_checked": "2026-08-25T13:15:33.956149",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-08-25 09:32",
+    "customer_msg": "Give me a discount. Make 1 80 cedis",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 3.7,
+    "priority": "LOW",
+    "last_checked": "2026-08-25T13:15:33.960646",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-08-25 09:32",
+    "customer_msg": "will wait for the picture in the evening",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 3.7,
+    "priority": "LOW",
+    "last_checked": "2026-08-25T13:15:33.964667",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-08-25 09:34",
+    "customer_msg": "Okay but the hammer I'm looking has this description  Steel Engineering Hammer: FIBERGLASS HANDLE, 4 LB HEAD WT",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 3.7,
+    "priority": "LOW",
+    "last_checked": "2026-08-25T13:15:33.968723",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-08-25 09:34",
+    "customer_msg": "No please sorry i got a different item because to much time had gone by",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 3.7,
+    "priority": "LOW",
+    "last_checked": "2026-08-25T13:15:33.973366",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-08-25 09:35",
+    "customer_msg": "okay Boss",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 3.7,
+    "priority": "LOW",
+    "last_checked": "2026-08-25T13:15:33.977795",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-08-25 09:36",
+    "customer_msg": "Okay sir please how much is it and would be glad if I get a picture as well",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 3.7,
+    "priority": "LOW",
+    "last_checked": "2026-08-25T13:15:33.981928",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-08-25 10:54",
+    "customer_msg": "Seen",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 2.4,
+    "priority": "LOW",
+    "last_checked": "2026-08-25T13:15:33.985931",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-08-25 10:58",
+    "customer_msg": "Pls hw much is it",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 2.3,
+    "priority": "LOW",
+    "last_checked": "2026-08-25T13:15:33.990834",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-08-25 11:36",
+    "customer_msg": "Please I will confirm the day with you when am ready?",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 1.7,
+    "priority": "LOW",
+    "last_checked": "2026-08-25T13:15:33.994929",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-08-25 11:42",
+    "customer_msg": "Pls reserv give me",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 1.6,
+    "priority": "LOW",
+    "last_checked": "2026-08-25T13:15:33.998922",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-08-25 11:54",
+    "customer_msg": "I need 100m surveyor's tape",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 1.4,
+    "priority": "LOW",
+    "last_checked": "2026-08-25T13:15:34.007701",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-08-25 11:56",
+    "customer_msg": "Hello boss",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 1.3,
+    "priority": "LOW",
+    "last_checked": "2026-08-25T13:15:34.011881",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-08-25 11:57",
+    "customer_msg": "I need some",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 1.3,
+    "priority": "LOW",
+    "last_checked": "2026-08-25T13:15:34.015902",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-08-25 11:58",
+    "customer_msg": "Oh ok",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 1.3,
+    "priority": "LOW",
+    "last_checked": "2026-08-25T13:15:34.020317",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-08-25 11:58",
+    "customer_msg": "The price",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 1.3,
+    "priority": "LOW",
+    "last_checked": "2026-08-25T13:15:34.020397",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-08-25 11:58",
+    "customer_msg": "1 need a longer one",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 1.3,
+    "priority": "LOW",
+    "last_checked": "2026-08-25T13:15:34.025061",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-08-25 12:05",
+    "customer_msg": "Please will you take 800GHC",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 1.2,
+    "priority": "LOW",
+    "last_checked": "2026-08-25T13:15:34.029065",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-08-25 12:07",
+    "customer_msg": "Please what is your last price",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 1.1,
+    "priority": "LOW",
+    "last_checked": "2026-08-25T13:15:34.032973",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-08-25 12:15",
+    "customer_msg": "Goodafternoon mr kofi",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 1.0,
+    "priority": "LOW",
+    "last_checked": "2026-08-25T13:15:34.038848",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-08-25 12:18",
+    "customer_msg": "Please how i dont understand",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 1.0,
+    "priority": "LOW",
+    "last_checked": "2026-08-25T13:15:34.043231",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-08-25 12:20",
+    "customer_msg": "So u mean how much are we going to pay every month?",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 0.9,
+    "priority": "LOW",
+    "last_checked": "2026-08-25T13:15:34.047406",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-08-25 12:32",
+    "customer_msg": "Pls can u call me and explain to me",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 0.7,
+    "priority": "LOW",
+    "last_checked": "2026-08-25T13:15:34.051716",
+    "checked_count": 1
   }
 ]

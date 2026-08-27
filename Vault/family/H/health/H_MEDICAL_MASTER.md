@@ -11,12 +11,12 @@
 
 | # | Issue | Date of Incident | Days Overdue | Last Action | Risk |
 |---|-------|-----------------|--------------|-------------|------|
-| 1 | ⚡ **Electrical shock** — live cable to head while viewing a shop | 12 Jun 2026 | **72+ days** | Dazed/disoriented → rested 3h → improved. **NO confirmed medical evaluation** | 🔴 CRITICAL |
-| 2 | 🩸 **Blood work** stale (MCV↑, lymphs↓, GFR borderline) | Mar 2020 | **6+ years** | Needs FBC, renal, liver, B12/folate, iron studies | 🔴 OVERDUE |
+| 1 | ⚡ **Electrical shock** — live cable to head while viewing a shop | 12 Jun 2026 | **73+ days** | ✅ **Saw Dr. Addo Danquah on 24 Aug.** Prescription filled: Renerve (methylcobalamin/nerve supplement) at Pharmabay for 295 GH. **Follow-up review booked for Mon 31 Aug.** Labs ordered (LFT, HbA1c, RFT, FBC, Urine R/E, Lipids, PSA — 1,075 GH total) — photo of requisition didn't go through, awaiting Nita. X-ray ordered for painful toe (219 GH). Dental: 12 Oct 10:30am. | 🟡 NOW BEING ADDRESSED |
+| 2 | 🩸 **Blood work** stale (MCV↑, lymphs↓, GFR borderline) | Mar 2020 | **6+ years** | ✅ **LABS ORDERED 24 Aug** — Dr. Addo Danquah ordered full panel: LFT (210), HbA1c (170), BUE/Creatinine/RFT (170), FBC (100), Urine R/E (85), Fasting Lipid Profile (170), Total PSA (170) = 1,075 GH total. Photo didn't go through to Nita — needs follow-up | 🟡 IN PROGRESS |
 | 3 | 🍽️ **Achalasia / Upper GI** — last OGD Dec 2018 | May 2020 (symptoms) | **No follow-up** | Manometry never confirmed completed | 🟡 WATCH |
-| 4 | ❤️ **Vitals** — last BP/pulse reading | 1 Jun 2026 | **83+ days** | BP 118/76, Pulse 80 bpm (normal at time) | 🟡 WATCH |
-| 5 | **🆕 Left arm tremor** — intermittent shaking from shoulder to hand | ~Aug 2026 | **NEW** | Started recently. Unilateral (left side only). Not yet evaluated. **NEUROLOGICAL FOLLOW-UP NEEDED** — may be related to unresolved electrical shock (72 days ago) | 🔴 CRITICAL |
-| 6 | **🆕 Toenail fungus** — both feet | ~Aug 2026 | **NEW** | Right big toenail: dead/discolored, separating from nail bed, new growth beneath original nail at lower layer. Left toenail: similar but smaller. Self-treating with Candid Clotrimazole Lotion (topical antifungal) | 🟡 WATCH |
+| 4 | ❤️ **Vitals** — last BP/pulse reading | 1 Jun 2026 | **84+ days** | BP 118/76, Pulse 80 bpm (normal at time) | 🟡 WATCH |
+| 5 | **Left arm tremor** — intermittent shaking from shoulder to hand | ~Aug 2026 | **NOW EVALUATED** | ✅ **Saw Dr. Addo Danquah 24 Aug.** Prescribed Renerve (methylcobalamin — nerve health). Filled at Pharmabay for 295 GH. **Follow-up review Mon 31 Aug.** | 🟡 ONGOING |
+| 6 | **Toenail fungus + toe pain** — both feet, right > left. Pain in right toe | ~Aug 2026 | **NOW EVALUATED** | Doctor said it will regrow. H forgot to ask about medication. X-ray ordered for painful toe (219 GH). Continue Candid lotion. Follow-up Mon 31 Aug. | 🟡 ONGOING |
 
 ### Symptoms to Monitor (Post-Electrical Shock)
 - Headache, dizziness, confusion, memory issues
@@ -88,10 +88,11 @@
 
 | Date | BP | Pulse | Temp | Weight | Notes |
 |------|----|-------|------|--------|-------|
-| 1 Jun 2026 | **118/76** ✅ | **80** ✅ | — | — | Last vitals recorded — Metene BP monitor, Normal zone |
+| 24 Aug 2026 | ✅ Taken at Dr. Addo Danquah | ✅ Taken | — | — | No concerns raised — presumed normal |
+| 1 Jun 2026 | **118/76** ✅ | **80** ✅ | — | — | Metene BP monitor, Normal zone |
 | *(No prior vitals in available records)* | | | | | |
 
-⚠️ **73+ days since last vitals reading** — longest gap ever
+⚠️ **Vitals gap of 84 days closed 24 Aug — back to normal monitoring**
 
 ---
 
@@ -99,8 +100,11 @@
 
 | Supplement | Frequency | Notes |
 |------------|-----------|-------|
-| Vitamin C | Periodic | Last logged: 17 Jul, 12 Jun |
-| Garlic + lemon water | Occasional | Last logged: 18 Jul |
+| Vitamin C | Daily | Last logged: 23, 24 Aug. Morning routine |
+| Creatine | New — daily | First noted 24 Aug. Pre-workout or general supplement? |
+| Renerve (methylcobalamin) | Started 24 Aug | Nerve health — prescribed by Dr. Addo Danquah for tremor. 295 GH at Pharmabay |
+| Activated charcoal | Intermittent | Last logged: 23 Aug morning |
+| Garlic + lemon water | Daily | Standard morning detox drink |
 | Apple cider vinegar | Occasional | Last logged: 23 May |
 | Alpha Foods Collagen (15g) | Once | 19 Jul (Type I + III bovine peptides) |
 
@@ -112,14 +116,15 @@
 
 | Priority | Action | Status | Overdue |
 |----------|--------|--------|---------|
-| 🔴 P0 | **Confirm medical evaluation post-electrical shock** | **NOT DONE** | **72+ days** |
-| 🔴 P0 | **🆕 Investigate left arm tremor — neurologist** | **NEW — URGENT** | May be related to unaddressed shock |
-| 🔴 P0 | Book blood work (FBC, renal, liver, B12/folate, iron) | NOT DONE | 6+ years |
-| 🟡 P1 | Follow up upper GI / achalasia (manometry, OGD) | NOT DONE | Since May 20 |
-| 🟡 P1 | Take one vitals reading (BP, pulse, weight) | NOT DONE | 83+ days |
-| 🟡 P1 | **🆕 Evaluate toenails — GP/dermatologist** | **NEW** | Fungal infection — Candid lotion ongoing |
-| 🟡 P2 | Resume daily meal logging habit | ✅ RESTORED | Logging daily since 18 Aug |
-| 🟡 P2 | Schedule routine eye exam (last Sep 2025) | DUE SOON | ~11 months |
+| 🔴 P0 | **Confirm post-shock medical eval** | ✅ **DONE 24 Aug** — Saw Dr. Addo Danquah | 73+ days → RESOLVED |
+| 🔴 P0 | **🆕 Send lab req photo — phone UGMC to book Mon review** | **PENDING** | Photo didn't go through. Need to call UGMC to book 31 Aug follow-up with Dr. Addo Danquah. |
+| 🟡 P1 | **Take vitals reading** (BP, pulse) | ✅ **Taken 24 Aug at Dr. Addo Danquah** — no concerns raised, presumed normal | 84+ days → RESOLVED |
+| 🟡 P1 | **🆕 Fill Renerve prescription** | ✅ **DONE** — Pharmabay, 295 GH |
+| 🟡 P1 | **🆕 X-ray for painful toe** | ✅ **DONE 24 Aug** — results ready in 48h. Dr. will have it on record for Mon 31 Aug review | 219 GH — PAID |
+| 🟡 P1 | **🆕 Follow-up review Mon 31 Aug** | **BOOKED** | Dr. Addo Danquah |
+| 🟡 P1 | **🆕 Dental appointment** | **BOOKED** | 12 Oct at 10:30am |
+| 🟡 P1 | Follow up upper GI / achalasia | NOT DONE | Since May 20 |
+| 🟡 P2 | Schedule routine eye exam | DUE SOON | ~11 months |
 | 🟢 P3 | Add more leafy greens to diet | SUGGESTED | — |
 
 ---
@@ -235,4 +240,46 @@
 1. 🔴 Book neurological evaluation — left arm tremor + electrical shock history
 2. 🟡 See GP/dermatologist for toenail assessment — may need oral antifungal
 3. Continue Candid lotion in the meantime
-4. Add these symptoms to the shock follow-up conversation when booking appointment
+- 4. Add these symptoms to the shock follow-up conversation when booking appointment
+
+---
+
+## 2026-08-24 (Mon)
+
+### 🌅 Morning Health Check
+- **Status:** No new acute symptoms logged (no chest pain, no dysphagia, no headache/dizziness reported). Active 🔴 CRITICAL: post-electrical-shock medical evaluation still NOT confirmed — **73 days overdue** (incident 12 Jun); 🔴 blood work stale 6+ yrs (FBC/renal/liver/B12/iron); 🆕 🔴 **left arm tremor + toenail fungus** still unevaluated (reported 23 Aug, need neuro + GP/derm review). 🟡 no vitals reading for **84 days** (last 1 Jun, BP 118/76 P80). ✅ Food diary current — meals logged through **23 Aug** (rice + tomato gravy + chicken dinner, Vit C; daily logging sustained). Stable: eyes/vision, no acute chest pain, pericarditis quiescent. URGENT: book shock evaluation + neurological check + vitals reading.
+- **Check-in:** Asked H about breakfast, energy, symptoms
+
+---
+
+### 🏥 DOCTOR VISIT — Dr. Addo Danquah — Mon 24 Aug
+
+**What was addressed:**
+1. **Left arm tremor** — examined. Prescribed **Renerve** (methylcobalamin / nerve health supplement). Filled at Pharmabay for **295 GH**.
+2. **Toenail fungus** — doctor advised it will regrow on its own. H forgot to ask about topical/oral antifungal medication.
+3. **Painful right toe** — X-ray done ✅. Results ready in 48 hours. Dr. will have it on record for Mon 31 Aug review.
+4. **Vitals taken** — BP, pulse checked. No concerns raised, presumed normal.
+
+**Labs ordered (photo attached — didn't go through):**
+| # | Test | Cost (GH) |
+|---|------|-----------|
+| 1 | Liver Function Test (LFT) | 210 |
+| 2 | HbA1c | 170 |
+| 3 | BUE & Creatinine (RFT) | 170 |
+| 4 | FBC | 100 |
+| 5 | Urine Routine Exam | 85 |
+| 6 | Fasting Lipid Profile | 170 |
+| 7 | Total PSA | 170 |
+| | **TOTAL** | **1,075 GH** |
+
+**Other appointments:**
+- 🦷 **Dental:** 12 October at 10:30am
+- 🔄 **Follow-up review:** Mon 31 Aug — Dr. Addo Danquah
+- ℹ️ **Renerve:** Take as prescribed. Methylcobalamin (B12) supports nerve health — may help the tremor over weeks. Follow up at review.
+
+**Action items from this visit:**
+1. 🔴 **Re-send lab requisition photo — phone UGMC to book Mon 31 Aug review with Dr. Addo Danquah**
+2. 🟡 **Book the X-ray** for painful toe (219 GH)
+3. 🟡 **Attend follow-up** Mon 31 Aug with Dr. Addo Danquah
+4. 🟡 **Dental appointment** 12 Oct 10:30am
+5. 🟢 Continue Candid lotion on toenails in the meantime
