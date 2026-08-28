@@ -121,5 +121,58 @@
       "unknown_count": 0
     },
     "saved_at": "2026-08-24T06:34:15.957883"
+  },
+  {
+    "date": "2026-08-27",
+    "trends": {
+      "total_inquiries": 119,
+      "unresolved_count": 0,
+      "top_keywords": [
+        {
+          "word": "received",
+          "count": 16
+        },
+        {
+          "word": "image",
+          "count": 16
+        },
+        {
+          "word": "okay",
+          "count": 11
+        },
+        {
+          "word": "morning",
+          "count": 4
+        },
+        {
+          "word": "let",
+          "count": 4
+        },
+        {
+          "word": "kofi",
+          "count": 4
+        },
+        {
+          "word": "location",
+          "count": 4
+        },
+        {
+          "word": "pls",
+          "count": 4
+        },
+        {
+          "word": "one",
+          "count": 4
+        },
+        {
+          "word": "sir",
+          "count": 4
+        }
+      ],
+      "items_in_stock_missed": [],
+      "items_customers_want_not_in_stock": [],
+      "unknown_count": 0
+    },
+    "saved_at": "2026-08-27T06:32:43.060327"
   }
 ]
