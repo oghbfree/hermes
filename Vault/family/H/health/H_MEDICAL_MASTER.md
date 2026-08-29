@@ -283,3 +283,11 @@
 3. 🟡 **Attend follow-up** Mon 31 Aug with Dr. Addo Danquah
 4. 🟡 **Dental appointment** 12 Oct 10:30am
 5. 🟢 Continue Candid lotion on toenails in the meantime
+
+---
+
+## 2026-08-28 (Fri)
+
+### 🌅 Morning Health Check
+- **Status:** No new acute symptoms reported (no chest pain, no dysphagia, no headache/dizziness). ✅ **MAJOR IMPROVEMENT:** post-shock medical evaluation **DONE** — saw Dr. Addo Danquah 24 Aug; labs ordered (1,075 GH), X-ray for painful toe done (219 GH), Renerve prescribed & filled (295 GH). Follow-up review **booked Mon 31 Aug** with Dr. Addo Danquah. Left arm tremor and toenail fungus now being addressed. 🔴 Active: blood-work labs still pending (photo of requisition didn't reach Nita — needs re-send). Vitals taken 24 Aug at doctor — back on normal monitoring (84-day gap closed). 🟡 Food diary logged through **26 Aug** — 27 Aug & today's breakfast not yet logged (gap reopening). Stable: eyes/vision, no acute chest pain, pericarditis quiescent. ACTION: re-send lab req photo / call UGMC to confirm 31 Aug review, resume meal logging.
+- **Check-in:** Asked H about breakfast, energy, symptoms

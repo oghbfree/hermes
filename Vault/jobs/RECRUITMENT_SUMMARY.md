@@ -4,7 +4,7 @@
 
 ### Totals
 
-- **66 total applicants** (updated 2026-08-24)
+- **66 total applicants** (updated 2026-08-28)
 - **Nurses: 49** (NMC certified: 31/49, NMC + 3–5yrs experience: 7/49, top pick: Charlotte Nortey — NMC + car + licence)
 - **Facilitators: 3** (Eyiah #1, Patrick Bediako #2, Kwaku #3)
 - **Construction: 12** (Awal #1, Kwame #2, Derrick #3, Amane John #4, Amuzu #5, Woedzagbagba #6, Eric #7)
@@ -36,12 +36,13 @@
 **Facilitator #1: Eyiah Michael Osardu**
 - BSc IT | mBot exp | Coding 5/5 | Mon-Fri avail
 
-### Latest Pull (2026-08-24)
+### Latest Pull (2026-08-28)
 
-**0 new applications** across all 4 roles since last reported pull (2026-08-23). Pipeline confirmed alive and monitored. Token refreshed 2026-08-24. Top candidates unchanged.
+**0 new applications** across all 4 roles since last reported pull (2026-08-24). Pipeline confirmed alive and monitored. Token refreshed 2026-08-28. Top candidates unchanged.
 
 ### Detailed Reports
 
+- [[jobs/APPLICATIONS-REPORT-2026-08-28.md]] (no new apps; token refreshed)
 - [[jobs/APPLICATIONS-REPORT-2026-08-24.md]] (no new apps; token refreshed)
 - [[jobs/APPLICATIONS-REPORT-2026-08-23.md]] (+2 nurses; token refreshed)
 - [[jobs/APPLICATIONS-REPORT-2026-08-18.md]] (no new apps; token refreshed)
@@ -70,10 +71,10 @@
 
 ### Status
 
-- **Google Sheets Auth: ACTIVE** — Token refreshed 2026-08-24
-- Last successful pull: 2026-08-24
+- **Google Sheets Auth: ACTIVE** — Token refreshed 2026-08-28
+- Last successful pull: 2026-08-28
 - All 4 pipelines accessible
-- 0 new applications since 2026-08-23
+- 0 new applications since 2026-08-24
 
 ## Related
 

@@ -61,8 +61,9 @@
 | 24 Aug | Corn dough porridge | Boiled yam & plantain with kontomire stew | Boiled rice with boiled beans and pear |
 | 25 Aug | Obrayo | Banku with pepper and fried fish | — (eve at 26 Aug below; not yet reported separately) |
 | 26 Aug | Tom brown (left some) | Banku with tilapia soup | Boiled cocoyam with vegetable stew |
+| 28 Aug 🎂 | Tom brown (ate all) | **Jollof + stew + plantain + dry salad** + **birthday cake** | Kenkey + gravy + shito + fried fish |
 
-> **Backfill complete (26 Aug 26):** Meals logged for 5–26 Aug. **26 Aug:** tom brown / banku + tilapia / boiled cocoyam + veg stew, pawpaw fruit. Frying & plantain reduced now; corn-dough/tom-brown still serve grains. Cocoa tea added (sweetened? monitor). See market list in `MUM_MEDICAL_MASTER.md`.
+> **Backfill complete (28 Aug 26):** Meals logged for 5–28 Aug. 🎂 **Birthday 28 Aug:** tom brown / jollof+plantain+salad + cake / kenkey+gravy+shito+fried fish — a celebratory day (not on the phase-out menu; one-off for the 92nd). Corn-dough/tom-brown grains, plantain, fried, shito, sugar (cake) all appeared on this special day. See market list in `MUM_MEDICAL_MASTER.md`.
 
 ---
 

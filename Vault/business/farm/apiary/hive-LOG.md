@@ -279,6 +279,9 @@ linked_workflow: FARM_WORKFLOW.md
 | Buckets (food grade) | 4 | Good | Kanzoni | |
 | Jars (500g) | 50 | New | Kanzoni | |
 | Labels | 100 | New | Kanzoni | |
+| Drink feeders | 3 | New | — | Purchased 16/8/26 from Gracent (GHS 90 ea) |
+| Bottle drink feeders | 3 | New | — | Purchased 16/8/26 from Gracent (GHS 35 ea) |
+| Head veil | 1 | New | — | Purchased 16/8/26 from Gracent (GHS 95) |
 
 ---
 

@@ -353,6 +353,21 @@
 | ☀️ Lunch | Jollof with fish |
 | 🌙 Dinner | Waakye with salad |
 
+### Thu 27 Aug *(logged via chat)*
+| Meal | Items |
+|------|-------|
+| ☀️ Breakfast | None |
+| ☀️ Lunch | Waakye with gravy and chicken |
+| 🌙 Dinner | Jollof stew with chicken |
+
+### Fri 28 Aug *(logged via chat)*
+| Meal | Items |
+|------|-------|
+| ☀️ Breakfast | None |
+| ☀️ Lunch | Waakye with gravy and chicken |
+| 🌙 Dinner | Jollof stew with chicken |
+| 💊 Supplement | Vitamin C at night |
+
 ---
 
 ## 📈 Nutritional Trends *(updated with gap-fill data)*

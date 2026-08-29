@@ -17,6 +17,8 @@ Append one line per day. The 4:30 AM briefing reads this file.
 | 22/08/26 |  | 3,020 | Casio CTK-1500, Casio CTK-240, LG Home Theater, Iron | John, Jiji, walk-in |
 | 25/08/26 |  | 800 |  | |
 | 26/08/26 |  | 640 |  | |
+| 27/08/26 |  | 400 |  | |
+| 28/08/26 |  | 2,200 |  | Paid Frederick 200gh for repairs on 3 items |
 | 23/08/26 |  | — |  | Closed |
 | 24/08/26 |  | — |  | Closed |
 

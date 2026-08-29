@@ -39,6 +39,7 @@ Consolidated registry for H's children (Kobena & Nenyi). Created 2026-08-14 by c
 | `care/KOBENA_CLINICAL_RECORD.md` | OCR digest + index of Kobena's scanned clinical records (2014–2018 baseline) |
 | `care/KOBENA_MOOD_FOOD_DAILY.md` | **Daily mood & food diary** (master) — links food to behaviour/sleep for the care team |
 | `care/DR_UMAR_DISCIPLINE_FRAMEWORK.md` | **Dr Umar Johnson model** — rewards & consequences, privilege-based, restorative, applied per child |
+| `care/REFERRAL_BRIEFING_NOTES.md` | **Referral briefings** — Kobe → Mission Clinic neuro-paed, Nenyi → psych + speech assessment |
 | `care/kobena-clinical-records/` | Original scanned records (genetics, hearing, SLT, OT, paediatrician, bloods) |
 | `kids-sizes-dated.md` | Clothing sizes tracker (last updated 2026-03-16) |
 | `homework-planner-dev.md` | Draft academic-planner spec (planning phase) |

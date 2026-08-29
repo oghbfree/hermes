@@ -148,6 +148,21 @@
   → Notes: Brain dump from Telegram topic 8 (2026-07-16)
   → Due: not specified
 
+* [ ] **[AKOMA | MEDIUM]** — Redesign Akoma 10-week program with facilitator for demo sessions
+  → Notes: John's feedback — needs face-to-face intro; bring a facilitator on for freelance demo presentations. Brain dump from Telegram topic 8 (2026-08-27).
+  → Due: not specified
+  → Flags: [DECISION]
+
+* [ ] **[BUSINESS | MEDIUM]** — Decide 2Real product specialisation and leverage point
+  → Notes: John says offerings too sporadic — decide which products to specialise in vs. chase big orders/company contracts. From brain dump Telegram topic 8 (2026-08-27).
+  → Due: not specified
+  → Flags: [DECISION]
+
+* [ ] **[BUSINESS | HIGH]** — Review John's contract & benchmark his development targets
+  → Notes: Told John he'll review his contract to benchmark progress (has he hit targets, what next). Wants more accountability. Wife reports John isn't working in her business — her 5-person team buys from China, John gets commission at second level only. From brain dump Telegram topic 8 (2026-08-27).
+  → Due: not specified
+  → Flags: [WAITING: John]
+
 ## Completed
 
 ## Archived

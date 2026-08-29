@@ -2,7 +2,28 @@
 
 Durable facts from periodic daily-processing runs.
 
-_facts below are limited to verified findings. Last refreshed: 2026-08-27._
+_facts below are limited to verified findings. Last refreshed: 2026-08-29._
+
+## 2026-08-28 Daily Processing Run
+- 🟢 **Integrated-daily-synthesis RECOVERED 28 Aug 22:07** (`d719cd80fa5b`) — `INTEGRATED_INSIGHTS_2026-08-28.md` saved to BOTH trees ✓. Corrects 27 Aug stuck status; master is now 28 Aug.
+- 🔴 **WhatsApp node bridge DOWN (28 Aug eve — REGRESSION from 24 Aug paired):** gateway/Telegram healthy (PID 19936) but the WhatsApp Web node bridge is dead (no `node.exe`, no port-3000 listener; `gateway_state` "connected" stale since 25 Aug). **Matthias Fri logistics check-in NOT delivered** (233544898392) → escalated to Topic 141 (#urgent) msg_id 10806. FIX: **restart Hermes desktop** to respawn the bridge. ~12 WhatsApp agents silently affected (field-intel/John, tax audit, Mom exercise reminders, Matthias, etc.).
+- 🎂 **Mum's 92nd — 28 Aug DONE:** celebratory meals logged in `MUM_FOOD_MASTER.md` (tom brown / jollof+stew+plantain+salad + cake / kenkey+gravy+shito+fried fish — one-off vs phase-out menu). Flags: BP ≥140 stop-rule anomalies (16/18/20/22/26 Aug), recurring insomnia (woke 2:16am 26 Aug), fried-fish/plantain breaches. 27–28 Aug reports still pending caregiver.
+- 🩺 **H — STABLE/IMPROVING:** post-shock follow-up DONE 24 Aug (Dr. Addo Danquah); Renerve (B12) for tremor; labs 1,075 GH + toe X-ray 219 GH ordered; **review booked Mon 31 Aug**. 🔴 re-send lab requisition photo (didn't reach Nita) / call UGMC. H food thru 28 Aug (waakye lunch, jollof dinner, vit C). Dad data gap (foot-case 4+ wks).
+- 💼 **2Real sales 28 Aug GH₵ 2,200** (Fri recovery; paid Frederick 200 repairs) · 27 Aug 400 · 26 Aug 640. 🔴 3 warm in-stock leads to close (Stanley Tape 700, Arlec Power Socket ×2 120); **53 SLA breaches** (oldest ~74–82h); "hammer" caller unanswered twice. 480 items low stock (≤2). Jiji stats stale since 24 Aug (Chrome "Allow" needs 1 click). GH₵0 TOP+ balance.
+- 📊 **Cron 28 Aug: 76.9% (10/13)**; 3 failures = 27 Aug network cluster. Host DNS flakiness persists (getaddrinfo/Errno 11001) — static DNS rec stands. **Backup 5 days stale** (last full 23 Aug). Disk 39% (295G free).
+- 🔒 **Security 28 Aug STABLE (fresh audit):** token VALID, legacy creds improved 26→9, 25/57 silent. Nous Portal token expiry hit today (refresh enabled).
+- 🧒 Kids: Mission Clinic recommended for neuro-paed (Kobena) + psych/PEERS (Nenyi). Barefoot-shoe guidance given (Vivo for Kobe's toe-walking, Altra for Nenyi).
+- 🐝 Farm apiary new kit (Gracent 16/8): drink feeders 3×90, bottle feeders 3×35, head veil 95 — logged in `hive-LOG.md`.
+- Daily note `Vault/Daily/2026-08-28.md` written (was missing). 0 active request dumps (118 archived). `sessions.json` intact.
+
+## 2026-08-27 Daily Processing Run
+- 🔴 **Morning provider outage 2nd DAY RUNNING (27 Aug):** `Hermes can't reach the model provider` hit 07:00–09:00 wave — **security-policy-check, job-applications-check, cron-status, field-intel-john all FAILED**. (Same failure as 26 Aug.) **No security audit 27 Aug** → posture baseline static at 24 Aug IMPROVED.
+- 🔴 **Integrated-daily-synthesis STUCK 27 Aug — NO INTEGRATED_INSIGHTS_2026-08-27 produced.** Last output 26 Aug 22:12. Master remains 26 Aug insight. Watch next cycle.
+- 🟠 **27–28 Aug network incident:** broad `httpx.ConnectError / Errno 11001` delivery failures across ~13 jobs (tasks-sync, brain-dump, security, cron-status, checkin-mum/dad, priority, payments, 2Real ops, farm) — connectivity/host issue, static-DNS rec stands.
+- 📊 **Cron status 28 Aug:** 57 jobs (45 active/12 paused), last-24h resolved 13 → **10 completed / 3 failed (76.9%)**, 3 stuck (integrated-daily-synthesis, Market Seller Briefing, Jiji Report). 11:34 cluster hit checkin-dad/mum + tasks-md-to-kanban.
+- 🎂 **28 Aug = Mum's 92nd birthday** — shopping/prep list at `Vault/family/mum/mum-birthday-92-shopping.md` (kidney/diabetes-friendly, no frying). Gentle small-scale celebration per preference.
+- 🟢 2Real sales 26 Aug GH₵ 640 · 25 Aug GH₵ 800 (no 27 Aug line yet). H/Mum health entries for 27 Aug sparse — only Mum afternoon checkin script wrote 13:02.
+- Daily note `Vault/Daily/2026-08-27.md` written (retroactive — was missing from 28 Aug 03:00 run). 0 active request dumps (118 archived).
 
 ## 2026-08-26 Daily Processing Run
 - 🟢 **Integrated-daily-synthesis 26 Aug 22:05 SUCCESS** (`d719cd80fa5b`) — `INTEGRATED_INSIGHTS_2026-08-26.md` saved to BOTH trees ✓ (workspace 10,322B). Prior 11:13 attempt failed (morning provider outage).
