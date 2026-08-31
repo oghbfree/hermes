@@ -117,4 +117,5 @@ Useful to trace the full hire history. Locate in session DB via `@session:defaul
 - **Siblings:** `jobs/RECRUITMENT_SUMMARY.md` · `family/mum/health/MUM_MEDICAL_MASTER.md`
 - **Skill:** `elder-care-operations` (templates live there)
 - **Stephanie duties/task list:** `Vault/business/2real/Nursing/STEPHANIE_DUTIES_AND_TASKS.md` (household duties, cooking = copper pots only + Himalayan salt + local rice, daily window/radio checks, packing/move checklist)
+- **Stephanie morning routine (new house):** `Vault/business/2real/Nursing/STEPHANIE_MORNING_ROUTINE.md` (compound cleaning, security morning→evening, sofa/cushion setup, no-flies, bins, windows/doors)
 - **Stephanie 60-day review (17 Aug 26):** `Vault/business/2real/Nursing/STEPHANIE_REVIEW_60DAY_2026-08-17.md`

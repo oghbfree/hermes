@@ -11,6 +11,7 @@
 | **Primary Channel** | WhatsApp / email (nudge window: days 1–7 of current month) |
 
 ## Audit trail
+- **2026-08-29 07:00** — **Re-audit run.** Reporting period still **July 2026**. Re-checked reachable sources: no submission confirmation for Form 10-M July 2026 (no GRA TRIPS portal integration in cron env; no mailbox/email integration; internal check-in log unchanged since 2026-07-19). **No valid submission confirmed.** Today (29 Aug) is after the 7th → past-the-7th branch; NO nudge sent (escalation handled elsewhere). Overdue remains.
 - **2026-08-28 09:56** — **Re-audit run.** Reporting period still **July 2026**. Re-checked reachable sources: no submission confirmation for Form 10-M July 2026. Tax portal (GRA TRIPS) not integrated in this cron environment; no mailbox/email integration configured; internal check-in log unchanged since 2026-07-19. **No valid submission confirmed.** Today (28 Aug) is after the 7th → past-the-7th branch; NO nudge sent (escalation handled elsewhere). Overdue remains logged.
 - **2026-08-24 07:00** — Monthly Tax Submission Audit ran.
 - Reporting period calculated as previous calendar month = **July 2026**.

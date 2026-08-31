@@ -1,6 +1,6 @@
 # Real Estate Portfolio — Master File
 
-**Last updated:** 15/8/26
+**Last updated:** 29/8/26
 **Owner:** H (Oman Herbert Blankson)
 **Consolidated from:** archive/real-estate-insights.md, archive/property-deal-21-19.md, business/construction/*, handwritten notes
 
@@ -255,7 +255,12 @@
 - ✅ Odoom's weeding was **good**
 - ❌ Odoom **did not** burn and spray as agreed
 - H got matches from Odoom's mother and **burned what they could** on-site
-- **Next:** Contact Odoom to **spray** the site (he called back — ✅ will spray, will also find someone to uproot all palm trees, and clear 1 metre around each coconut tree)
+
+**Odoom follow-up (29/8/26):**
+- ✅ Sent Odoom **150 GHS** for clearing rings around coconut trees — **completed ✅** (sent photos)
+- ✅ Sent **50 GHS** for the pig/cow farmer to get the toilet (up to 4 sacks)
+- ✅ Sent **20 GHS** for transport
+- ⏳ Odoom to confirm spraying finished by **Monday**
 
 **Next steps for wall:**
 - Need **1 trip sand** + **1 trip stone** + **800 blocks** to complete **4 courses** for the wall
@@ -545,7 +550,7 @@
 
 ### Ghana — Amanful (Wall Build in Progress) 🔥
 - [ ] Supply: 1 trip sand + 1 trip stone + 800 blocks (complete 4 courses)
-- [ ] **Contact Odoom to spray** — he called back ✅ will spray, uproot all palm trees, and clear 1m around each coconut
+- [ ] **Odoom to confirm spraying finished by Monday** — paid 150+50+20 GHS (rings done ✅, toilet/transport handled)
 - [ ] Matthias to continue block work for wall
 - [ ] Chamber & Hall deferred — after Kokomlemle
 

@@ -31,7 +31,15 @@ STOP_WORDS = {
     "whom","this","that","these","those","please","thanks","thank","hi","hello",
     "hey","dear","sir","madam","want","need","looking","tell","ask","get","got",
     "see","send","give","call","reply","message","msg","price","cost","much",
-    "available","stock","sell","buy","interested","do","does","did","please"
+    "available","stock","sell","buy","interested","do","does","did","please",
+    # Conversation closers / vague words — NEVER auto-reply on these
+    "ok","okay","kk","fine","sure","alright","alrighty","great","good","thanks",
+    "thank","bye","later","tomorrow","today","soon","maybe","perhaps","no",
+    "yes","yeah","yep","nope","noted","done","sold","deal","perfect","back",
+    "call","called","phone","ring","missed","again","now","right","left",
+    "there","here","them","those","these","come","coming","went","come",
+    "collect","collection","pickup","pick","arrange","arranging","later",
+    "okay","fine","sure",
 }
 
 # ─── COMMON MISTAKES / ABBREVIATIONS ─────────────────────────────────────
@@ -155,6 +163,24 @@ def get_keywords(text):
     words = normalize(text).split()
     return [w for w in words if w not in STOP_WORDS and len(w) > 1]
 
+
+def query_acceptable(q_words):
+    """A query is only auto-answerable if it has enough signal.
+
+    Rules:
+    - 0 keywords -> never auto-reply (silence)
+    - 1 keyword  -> only if it's distinctive: >= 5 chars OR contains a digit
+                    (e.g. "hacksaw", "hbj602", "6280d"). Vague single words
+                    like "jack", "ok", "back", "saw" must NOT auto-reply.
+    - 2+ keywords -> always acceptable (they describe a product)
+    """
+    if not q_words:
+        return False
+    if len(q_words) == 1:
+        w = q_words[0]
+        return len(w) >= 5 or any(ch.isdigit() for ch in w)
+    return True
+
 # ─── STRICT PRODUCT MATCHING ──────────────────────────────────────────────
 def _expand_compounds(word):
     """Try splitting a compound word at boundaries. 'hacksaw' -> ['hack', 'saw']"""
@@ -175,7 +201,7 @@ def match_jiji(query, titles):
     - Handles compounds: "hacksaw" matches titles with "hack" AND "saw"
     """
     q_words = get_keywords(query)
-    if not q_words:
+    if not q_words or not query_acceptable(q_words):
         return None, 0.0
     
     # Expand query keywords: "hacksaw" -> {"hacksaw", "hack", "saw"}
@@ -227,7 +253,7 @@ def match_inventory(query, items):
     Returns (matched_item, score).
     """
     q_words = get_keywords(query)
-    if not q_words:
+    if not q_words or not query_acceptable(q_words):
         return None, 0.0
     
     required = len(q_words) if len(q_words) <= 2 else max(2, int(len(q_words) * 0.66))

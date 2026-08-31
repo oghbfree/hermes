@@ -27,18 +27,23 @@ linked_workflow: FARM_WORKFLOW.md
 
 ---
 
-## Current Harvest Status (per FARM_WORKFLOW)
+## 🌾 Harvest Status — 30/8/26
 
-| Crop | Status | Notes |
-|------|--------|-------|
-| Coconuts | 🟢 Growing | Old fronds fallen — need clearing |
-| Plantain | 🟢 Growing | Bunches forming |
-| Chilli pepper | 🟢 Active | Habib carrying on Bike #1 |
-| Noni | 🟢 Producing | Production started |
-| Honey | 🟢 2 harvests done | Kanzoni shop hives (5 active) |
-| Sweet potato | 🔴 Loss | Most rotten at last harvest |
+| Crop | Status | Details |
+|------|--------|---------|
+| **Coconuts** | 🟢 **230 trees** | Mature count confirmed. Ready for harvest assessment per tree. |
+| **Plantain** | 🟢 **4 bunches in 3 weeks** | ~20 Sept first harvest window. |
+| Chilli pepper | 🟡 | Awaiting update |
 | Tomatoes | 🟡 | Awaiting update |
 | Maize | 🟡 | Awaiting update |
+| Noni | 🟡 | Awaiting update |
+
+> **Coconut Fertilizer Protocol (from research):**
+> - Ring distance: 1.5–2m from trunk (feeder roots are under the frond canopy, not at the base)
+> - Add **wood ash** + **1–1.5 kg coarse salt per tree/year** (palms are salt-loving)
+> - Mulch with dried fronds/husks over the manure ring
+> - Work manure into top 5–10cm soil — don't leave exposed
+> - Do this before heavy rain hits so nutrients don't wash away
 
 ---
 

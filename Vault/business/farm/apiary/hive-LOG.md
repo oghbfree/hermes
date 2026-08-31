@@ -161,7 +161,7 @@ linked_workflow: FARM_WORKFLOW.md
 | 1 | **Wash absconded hives** | F-02 (lemon tree) + F-03 (open space) — clean thoroughly | 🔄 Place now cleared — wash then move hives |
 | 2 | **Bait & set 4 spare hives** | In the room — prepare and bait all 4, position on farm | 🔄 Count, bait and set all empty hives |
 | 3 | **Find dirty oil** | Source for pest deterrent (per Kwesi) — **Habib got 1 gallon for free** ✅ | ✅ Free — 1 gallon secured |
-| 4 | **Find welder for hive stands** | Design: 14mm ribbed rod, 2 inverted U-frames + 2 cross rails. **Expanded to 42 cm width** (1 cm clearance each side for 40 × 60 cm hive). 448 cm/stand, ~GHS 55 ea from 1 rod. See specs below. | 🔄 Check iron rods, go with welder |
+| 4 | **Find welder for hive stands** | Design: 14mm ribbed rod, 2 inverted U-frames + 2 cross rails. **Expanded to 42 cm width** (1 cm clearance each side for 40 × 60 cm hive). 448 cm/stand, ~GHS 55 ea from 1 rod. See specs below. | 🔄 Welder quoted **GHS 400 total job** — confirm |
 
 ### Freeman (Carpenter) — Hive Frames & Cover
 
@@ -169,7 +169,7 @@ linked_workflow: FARM_WORKFLOW.md
 |---|------|--------|--------|
 | 1 | **Inspect existing hive frames** | Visit farm, assess condition of damaged frames | ✅ Done |
 | 2 | **Quote for new frames** | Per Kwesi's spec: 36 × 69 cm frame dimensions — **GHS 600 total job** | ✅ Quoted |
-| 3 | **Sample build** | 1 of each frame type (2 different sizes given) + 1 hive cover as sample — **ready for pickup** | ✅ Done — pick up → send to farm → test fit |
+| 3 | **Sample build** | 1 of each frame type (2 different sizes given) + 1 hive cover as sample — **ready for pickup** | ✅ Done — picked up, **needs test fit at farm** |
 | 4 | **Full production run** | If samples correct → 9 of each frame type | 🔄 Pending approval |
 | 5 | **Payment status** | GHS 300 advanced 14/8/26 (GHS 170 = 2×4 wood, GHS 130 = deposit). Balance GHS 300 on completion | 🟡 Partial paid — samples ready |
 
@@ -282,6 +282,8 @@ linked_workflow: FARM_WORKFLOW.md
 | Drink feeders | 3 | New | — | Purchased 16/8/26 from Gracent (GHS 90 ea) |
 | Bottle drink feeders | 3 | New | — | Purchased 16/8/26 from Gracent (GHS 35 ea) |
 | Head veil | 1 | New | — | Purchased 16/8/26 from Gracent (GHS 95) |
+| Plastic snow scraper (hive tool) | 1 | Good | — | Repurposed — brought to farm 30/8/26 |
+| Rabbit drinkers (pest moats) | 32 | New | — | For ant/beetle barriers on hive stands |
 
 ---
 
