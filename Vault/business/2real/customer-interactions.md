@@ -1502,3 +1502,165 @@ I'm the one who just talk to you
 - **Customer:** That's good
 [owner reply] The money is ready
 - **Reply:** We will get back to you shortly.
+
+## 2026-08-31 00:36
+- **Channel:** whatsapp
+- **Chat:** 8474440261854
+- **Customer:** Hello
+- **Reply:** We will get back to you shortly.
+
+## 2026-08-31 00:36
+- **Channel:** whatsapp
+- **Chat:** 8474440261854
+- **Customer:** Boss, please how much
+- **Reply:** We will get back to you shortly.
+
+## 2026-08-31 11:09
+- **Channel:** whatsapp
+- **Chat:** 59326634979471
+- **Customer:** Hi
+- **Reply:** We will get back to you shortly.
+
+## 2026-08-31 11:10
+- **Channel:** whatsapp
+- **Chat:** 272387144704141
+- **Customer:** Hi
+- **Reply:** We will get back to you shortly.
+
+## 2026-08-31 11:10
+- **Channel:** whatsapp
+- **Chat:** 107211594449040
+- **Customer:** I’m still waiting for the video u said you’ll send
+[owner reply] Ok
+[owner reply] I opened it and the computer is missing
+[owner reply] Therefore the price has been reduced
+To what’s
+[owner reply] 800
+Is pick up allowed
+[owner reply] Yes
+Ok
+So please what is the use of the computer that is missing
+[owner reply] the computer to see  speed, how many miles & calories burnt.
+- **Reply:** We will get back to you shortly.
+
+## 2026-08-31 11:10
+- **Channel:** whatsapp
+- **Chat:** 107211594449040
+- **Customer:** So without it you can still on and off it
+[owner reply] Yes is not motorized
+- **Reply:** We will get back to you shortly.
+
+## 2026-08-31 11:10
+- **Channel:** whatsapp
+- **Chat:** 14882850214114
+- **Customer:** [image received]
+- **Reply:** We will get back to you shortly.
+
+## 2026-08-31 11:10
+- **Channel:** whatsapp
+- **Chat:** 165502454333639
+- **Customer:** [image received]
+- **Reply:** We will get back to you shortly.
+
+## 2026-08-31 11:10
+- **Channel:** whatsapp
+- **Chat:** 165502454333639
+- **Customer:** [image received]
+- **Reply:** We will get back to you shortly.
+
+## 2026-08-31 11:10
+- **Channel:** whatsapp
+- **Chat:** 59326634979471
+- **Customer:** [image received]
+- **Reply:** We will get back to you shortly.
+
+## 2026-08-31 11:10
+- **Channel:** whatsapp
+- **Chat:** 246758823182345
+- **Customer:** [image received]
+- **Reply:** We will get back to you shortly.
+
+## 2026-08-31 11:10
+- **Channel:** whatsapp
+- **Chat:** 57260638224557
+- **Customer:** 650
+- **Reply:** We will get back to you shortly.
+
+## 2026-08-31 11:10
+- **Channel:** whatsapp
+- **Chat:** 8474440261854
+- **Customer:** Ok
+- **Reply:** We will get back to you shortly.
+
+## 2026-08-31 11:10
+- **Channel:** whatsapp
+- **Chat:** 278322772762741
+- **Customer:** This one I don't have
+- **Reply:** We will get back to you shortly.
+
+## 2026-08-31 11:10
+- **Channel:** whatsapp
+- **Chat:** 125886028357798
+- **Customer:** Yes
+[owner reply] Do you have the number
+[owner reply] Have you been to the chemist
+[owner reply] Can you come around
+Still my stomach
+[owner reply] Have you been to the chemist
+- **Reply:** We will get back to you shortly.
+
+## 2026-08-31 11:10
+- **Channel:** whatsapp
+- **Chat:** 14882850214114
+- **Customer:** Hi
+Pls can I see the pictures of the Xbox one
+How many games
+[owner reply] We have this
+I chat you on jiji
+Yes
+Send me good pictures to view
+Just always boring at home so I want buy some game down and play myself
+How many games on it
+[owner reply] Just the sensor
+[owner reply] We have one which needs repairing
+[owner reply] And my colleague has one of games on it for 3,000 GH
+How much
+- **Reply:** We will get back to you shortly.
+
+## 2026-08-31 11:10
+- **Channel:** whatsapp
+- **Chat:** 165502454333639
+- **Customer:** Hello
+Hello
+Have you seen it
+[owner reply] It's available
+- **Reply:** We will get back to you shortly.
+
+## 2026-08-31 11:10
+- **Channel:** whatsapp
+- **Chat:** 59326634979471
+- **Customer:** Hi
+We just talked 
+
+Looking for blink mini camera
+[owner reply] Ok it's available today
+Boss she said she can't come so I will come to Accra next month. I will contact you soon
+- **Reply:** We will get back to you shortly.
+
+## 2026-08-31 11:10
+- **Channel:** whatsapp
+- **Chat:** 249301896810516
+- **Customer:** I not forget u boss
+- **Reply:** We will get back to you shortly.
+
+## 2026-08-31 11:11
+- **Channel:** whatsapp
+- **Chat:** 249301896810516
+- **Customer:** What’s ur liter
+- **Reply:** We will get back to you shortly.
+
+## 2026-08-31 11:14
+- **Channel:** whatsapp
+- **Chat:** 165502454333639
+- **Customer:** Ok
+- **Reply:** [acknowledgment - no reply sent]

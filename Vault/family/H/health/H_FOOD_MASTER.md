@@ -368,6 +368,20 @@
 | 🌙 Dinner | Jollof stew with chicken |
 | 💊 Supplement | Vitamin C at night |
 
+### Sat 29 Aug *(logged via chat)*
+| Meal | Items |
+|------|-------|
+| ☀️ Breakfast | Mango |
+| ☀️ Lunch | Yam chips |
+| 🌙 Dinner | Jollof and chicken |
+
+### Sun 30 Aug *(logged via chat)*
+| Meal | Items |
+|------|-------|
+| ☀️ Breakfast | None |
+| ☀️ Lunch | Brown bread, banana and peanuts |
+| 🌙 Dinner | Yam & kontomire stew |
+
 ---
 
 ## 📈 Nutritional Trends *(updated with gap-fill data)*

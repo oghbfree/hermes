@@ -1,6 +1,6 @@
 # Real Estate Portfolio — Master File
 
-**Last updated:** 29/8/26
+**Last updated:** 31/8/26
 **Owner:** H (Oman Herbert Blankson)
 **Consolidated from:** archive/real-estate-insights.md, archive/property-deal-21-19.md, business/construction/*, handwritten notes
 
@@ -262,6 +262,12 @@
 - ✅ Sent **20 GHS** for transport
 - ⏳ Odoom to confirm spraying finished by **Monday**
 
+**Additional instructions for Odoom:**
+- Check the burning of dry weeds — does it need to be done again?
+- Mix ashes from burning **with the fertiliser**
+- When finished, put **dried coconut leaves or husks** around the ring to cover the fertiliser
+- **Urgent:** Check on the person uprooting palm trees — want the ground clear ASAP
+
 **Next steps for wall:**
 - Need **1 trip sand** + **1 trip stone** + **800 blocks** to complete **4 courses** for the wall
 - Chamber & Hall deferred — will be built **after Kokomlemle is completed**
@@ -328,10 +334,25 @@
 
 ### Kroboano — Land Swap Deal
 
-**Status:** ✅ FOUNDATION DONE — site cleared, wall materials identified (14/8/26)
-**Location:** Kroboano (Eastern Region, Ghana)
+**Status:** ✅ FOUNDATION DONE — site cleared, Abu to finish spraying 31/8/26
+**Location:** Kroboekyir (Ekyir/Senya Beraku area, Awutu Senya District, Central Region)
 **Origin:** Swap deal with **Nenyi Oliver Mensah** — 9 plots of land for H's Ford Ranger
 **Indenture:** Paid 5,000 GHS twice (first one was lost)
+**Survey:** Completed July 2023 by licensed surveyor ADOO-TAWIAH (Approved — ref: 023072249)
+**Area (surveyed):** 0.375 Acres (0.152 ha)
+
+**Survey Coordinates (Beacons):**
+
+| Beacon | X (Eastings) | Y (Northings) |
+|--------|-------------|-------------|
+| SGC K877\23\1 | 266283.15 | 1087312.73 |
+| SGC K877\23\2 | 266208.56 | 1087385.97 |
+| SGC K877\23\3 | 266072.55 | 1087299.51 |
+| SGC K877\23\4 | 266144.22 | 1087226.81 |
+
+**Reference Point:** SGC G296\09\1A (X: 305714.43, Y: 1076360.05) — bearing 164°29', distance 40,924.2' to beacon K877\23\1
+
+**Scale:** 1:2500 | **District:** Awutu Senya | **Region:** Central Region | **Certified by:** Licensed Surveyor
 
 **Deal History:**
 
@@ -357,6 +378,7 @@
 - ✅ Paid Abu **200 GHS** initial, balance **500 GHS** for weeding 2 plots (starting 1st Aug 2026)
 - ✅ They burned/sprayed and finished in the evening — balance paid
 - ✅ Abu will spray and burn the site
+- ⏳ **Abu to finish spraying 31/8/26**
 
 **Next steps:**
 - Need **1 trip sand** + **1 trip stone** + **800 blocks** (4 courses)

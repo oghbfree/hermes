@@ -1278,5 +1278,87 @@
     "priority": "LOW",
     "last_checked": "2026-08-31T00:32:46.567539",
     "checked_count": 1
+  },
+  {
+    "timestamp": "2026-08-31 00:33",
+    "customer_msg": "I see.",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "out_of_stock",
+    "age_hours": 0.2,
+    "priority": "MEDIUM",
+    "last_checked": "2026-08-31T00:45:43.653582",
+    "checked_count": 1,
+    "match": {
+      "name": "Irwin Saw",
+      "price": 260.0,
+      "stock": 0,
+      "cost": 0
+    }
+  },
+  {
+    "timestamp": "2026-08-31 00:33",
+    "customer_msg": "Sent the money yesterday",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 0.2,
+    "priority": "LOW",
+    "last_checked": "2026-08-31T00:45:43.661097",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-08-31 00:33",
+    "customer_msg": "This one. How much",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "stock_found_but_missed",
+    "age_hours": 0.2,
+    "priority": "HIGH",
+    "last_checked": "2026-08-31T00:45:43.672584",
+    "checked_count": 1,
+    "match": {
+      "name": "Arlec Power Socket",
+      "price": 120.0,
+      "stock": 1,
+      "variant": "Metal Screwless One Gang Double Pole"
+    }
+  },
+  {
+    "timestamp": "2026-08-31 00:33",
+    "customer_msg": "I can offer you 600 ghc for it. Then I buy a tracker for myself.",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 0.2,
+    "priority": "LOW",
+    "last_checked": "2026-08-31T00:45:43.678500",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-08-31 00:33",
+    "customer_msg": "[video could not be downloaded]",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 0.2,
+    "priority": "LOW",
+    "last_checked": "2026-08-31T00:45:43.683747",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-08-31 00:34",
+    "customer_msg": "That's good",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 0.2,
+    "priority": "LOW",
+    "last_checked": "2026-08-31T00:45:43.688951",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-08-31 00:36",
+    "customer_msg": "Boss, please how much",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 0.2,
+    "priority": "LOW",
+    "last_checked": "2026-08-31T00:45:43.694958",
+    "checked_count": 1
   }
 ]

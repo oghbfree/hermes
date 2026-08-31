@@ -2,7 +2,18 @@
 
 Durable facts from periodic daily-processing runs.
 
-_facts below are limited to verified findings. Last refreshed: 2026-08-29._
+_facts below are limited to verified findings. Last refreshed: 2026-08-31._
+
+## 2026-08-31 Daily Processing Run
+- 🟢 **Integrated-daily-synthesis 31 Aug 00:51 SUCCESS** (`d719cd80fa5b`) — `INTEGRATED_INSIGHTS_2026-08-31.md` saved to BOTH trees (10,514B each) ✓.
+- 🔴 **NEW: HTTP 402 credit-exhaustion wave (31 Aug 00:32–00:53):** security-policy-check, nightly-consolidation, daily-backup + ~6 jobs FAILED `HTTP 402: exceed available credits (in-flight)`. NEW failure pattern distinct from prior DNS/429. **Action: add OpenRouter credits or wait for in-flight to settle; retry failed jobs.**
+- 🟠 **Mum 29–30 Aug vitals NOT captured:** mum-health-evening idle timeout (106,170s > 600s) + mum-health-afternoon TERMINAL_CWD lock (#79768). Cron SLA 31 Aug wave ~66% (21/32 OK, 11 fail).
+- 🩺 **H: 31 Aug follow-up with Dr. Addo Danquah DUE** — labs (1,075 GH) + toe X-ray (219 GH) pending; re-send requisition photo / call UGMC. Renerve tremor treatment ongoing. Food diary thru 28 Aug.
+- 🎂 **Mum: NEW 28 Aug back/hip pain → paracetamol 6:30pm — watch recurrence.** Last vitals 28 Aug (BP **142/71 >140 stop-rule**, Furo given).
+- 💼 **2Real Sat 29/08 GHS 3,000** (2× iMac, Yamaha PSR-175, 2× baby laptops). ⚠️ **Inquiry backlog 131 unresolved / 119 critical** (entries ~200) — close warm leads (Stanley Tape, sockets). Content week-2026-08-31 built.
+- 🏥 Kids: **Mission Clinic apps NOT yet booked** (Kobena neuro-paed + Nenyi psych/PEERS, +233 20 329 5292).
+- ⚠️ **Gateway discrepancy:** audit GREEN (PID 19936 AppData) vs home-root `gateway_state.json` stale 22 Aug (`startup_failed`/WA unpaired) — verify AppData gateway is live.
+- Daily note `Vault/Daily/2026-08-31.md` written. 0 active request dumps (118 archived).
 
 ## 2026-08-28 Daily Processing Run
 - 🟢 **Integrated-daily-synthesis RECOVERED 28 Aug 22:07** (`d719cd80fa5b`) — `INTEGRATED_INSIGHTS_2026-08-28.md` saved to BOTH trees ✓. Corrects 27 Aug stuck status; master is now 28 Aug.

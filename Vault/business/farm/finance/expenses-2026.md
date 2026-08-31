@@ -44,7 +44,11 @@ linked_workflow: FARM_WORKFLOW.md
 | 2026-08-? | 32 rabbit drinkers + delivery | — | Pest barrier cups for 8 hive stands (4 per stand). Fill with dirty oil/water for ant/beetle moats | 370 |
 | 2026-08-17 | Weeding — extra acre (worker possibly permanent) | Habib (for weeder) | 5th acre weeded. Asked if worker will stay permanently | 400 |
 | 2026-08-16 | Apiary equipment — 3 drink feeders, 3 bottle feeders, 1 head veil + delivery | Gracent | Drink feeders ×3 (GHS 90 ea), bottle feeders ×3 (GHS 35 ea), head veil (GHS 95). Delivery GHS 65 | 535 |
-| | **August running total** | | | **1,605 GHS** |
+| 2026-08-30 | Hive clean/bait crew (×3) + Kanzoni trip | Kobby, Ahinful, Habib, Kanzoni | Kobby 50, Ahinful 50, Habib 50, Kanzoni 400 | 550 |
+| 2026-08-30 | Habib monthly wages (August) | Habib | Farm caretaker — GHS 750/month | 750 |
+| 2026-08-30 | Weeding advance — Yaw | Yaw | GHS 400 deposit on GHS 1,350 to finish remaining 1.5 acres. Balance GHS 950 on completion | 400 |
+| 2026-08-30 | Hive stand fabrication deposit | Welder | GHS 200 deposit for 4 stands (14mm rebar, 60×42×62cm). Balance due on completion | 200 |
+| | **August running total** | | | **3,505 GHS** |
 
 ---
 

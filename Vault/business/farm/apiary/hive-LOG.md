@@ -15,14 +15,15 @@ linked_workflow: FARM_WORKFLOW.md
 
 ## Hive Registry
 
-| Hive ID | Location | Type | Status | Queen | Last Inspection | Notes |
-|---------|----------|------|--------|-------|-----------------|-------|
-| K-01 | Kanzoni shop | Langstroth | Active | Seen 2026-06-15 | 2026-06-15 | Strong, 8 frames brood |
-| K-02 | Kanzoni shop | Top-bar | Active | Not seen | 2026-06-15 | Needs inspection |
-| K-03 | Kanzoni shop | Langstroth | Weak | — | 2026-06-01 | Low stores, feed needed |
-| F-01 | Farm field (near lemon tree) | — | Active | — | 2026-08-09 | Brood present |
-| F-02 | Farm field (near lemon) | — | Active | — | 2026-08-09 | Swept, cleaned, rebaited |
-| F-03 | Farm field (open space) | — | Active — wax moth | — | 2026-08-09 | Moved to open space, wax moth attack |
+| Hive ID | Location | Type | Status | Queen | Last Inspection | GPS | Notes |
+|---------|----------|------|--------|-------|-----------------|-----|-------|
+| K-01 | Kanzoni shop | Langstroth | Active | Seen 2026-06-15 | 2026-06-15 | — | Strong, 8 frames brood |
+| K-02 | Kanzoni shop | Top-bar | Active | Not seen | 2026-06-15 | — | Needs inspection |
+| K-03 | Kanzoni shop | Langstroth | Weak | — | 2026-06-01 | — | Low stores, feed needed |
+| F-01 | Farm field (near lemon tree) | — | Active | — | 2026-08-30 | 🟡 Needs GPS | Brood present |
+| F-02 | Farm field (near lemon) | — | Active | — | 2026-08-30 | 🟡 Needs GPS | Swept, cleaned, rebaited |
+| F-03 | Farm field (open space) | — | Active — wax moth | — | 2026-08-30 | 🟡 Needs GPS | Moved to open space, wax moth attack |
+| F-04 to F-07 | Farm | — | Baited & set | — | 2026-08-30 | 🟡 Needs GPS | New hives from room — cleaned, baited, set |
 
 ---
 
@@ -158,10 +159,10 @@ linked_workflow: FARM_WORKFLOW.md
 
 | # | Task | Detail | Status |
 |---|------|--------|--------|
-| 1 | **Wash absconded hives** | F-02 (lemon tree) + F-03 (open space) — clean thoroughly | 🔄 Place now cleared — wash then move hives |
-| 2 | **Bait & set 4 spare hives** | In the room — prepare and bait all 4, position on farm | 🔄 Count, bait and set all empty hives |
-| 3 | **Find dirty oil** | Source for pest deterrent (per Kwesi) — **Habib got 1 gallon for free** ✅ | ✅ Free — 1 gallon secured |
-| 4 | **Find welder for hive stands** | Design: 14mm ribbed rod, 2 inverted U-frames + 2 cross rails. **Expanded to 42 cm width** (1 cm clearance each side for 40 × 60 cm hive). 448 cm/stand, ~GHS 55 ea from 1 rod. See specs below. | 🔄 Welder quoted **GHS 400 total job** — confirm |
+| 1 | **Wash absconded hives** | F-02 (lemon tree) + F-03 (open space) — clean thoroughly | ✅ Done — all 7 hives cleaned, baited & set |
+| 2 | **Bait & set spare hives** | 7 hives + 4 drinkers. Team: Kobby, Ahinful, Habib, Kanzoni | ✅ Done — 30/8/26 |
+| 3 | **Find dirty oil** | 1 gallon free ✅. **Need more** — Habib said he'll get some | 🟡 More needed |
+| 4 | **Find welder for hive stands** | Design: 14mm ribbed rod, 2 inverted U-frames + 2 cross rails. **Expanded to 42 cm width** (1 cm clearance each side for 40 × 60 cm hive). 448 cm/stand. | ✅ **Done** — GHS 200 paid, 4 stands collected & in use at farm |
 
 ### Freeman (Carpenter) — Hive Frames & Cover
 
@@ -169,17 +170,79 @@ linked_workflow: FARM_WORKFLOW.md
 |---|------|--------|--------|
 | 1 | **Inspect existing hive frames** | Visit farm, assess condition of damaged frames | ✅ Done |
 | 2 | **Quote for new frames** | Per Kwesi's spec: 36 × 69 cm frame dimensions — **GHS 600 total job** | ✅ Quoted |
-| 3 | **Sample build** | 1 of each frame type (2 different sizes given) + 1 hive cover as sample — **ready for pickup** | ✅ Done — picked up, **needs test fit at farm** |
-| 4 | **Full production run** | If samples correct → 9 of each frame type | 🔄 Pending approval |
+| 3 | **Sample build** | 1 of each frame type (2 different sizes given) + 1 hive cover — **tested fit: good** ✅ | ✅ Done — **only need 5 of the bigger frames**, awaiting quotation |
+| 4 | **Full production run** | Samples fit ✅ — **only 5 of the bigger frames needed**, not 9 of each. Awaiting Freeman's quote for 5 frames only. | 🔄 Awaiting revised quote |
 | 5 | **Payment status** | GHS 300 advanced 14/8/26 (GHS 170 = 2×4 wood, GHS 130 = deposit). Balance GHS 300 on completion | 🟡 Partial paid — samples ready |
 
-**Timeline**: GHS 300 sent 14/8/26 → ✅ samples ready → pickup → farm test fit → approval → 9× each frame
+**Timeline**: GHS 300 sent 14/8/26 → ✅ samples tested (fit good) → awaiting Freeman's quote for 5 bigger frames → pay balance
 
 ---
 
-### Hive Stand Design (Welder Brief)
+### Next Time Bring to Farm
+- 🪵 **Wood frame ×5** from Freeman — use roofing sheets + stones on top for now
+- 🎨 **Spray paint** — for labeling hives
+- 📍 **GPS location of hives** — mark each of the 7 hives with coordinates
+- 🛢️ **More dirty oil** — Habib said he'll get some
+- 🫙 **2× empty Voltic bottles** — for feeders
 
-**Material**: 14 mm ribbed iron rod (rebar) — GHS 110 per 40 ft rod
+---
+
+## 📅 Apiary Check Schedule (from 30/8/26)
+
+**Three-tier: Habib (daily) + Kanzoni (weekly, own trips) + H visits (fortnightly)**
+
+| Tier | Who | Task | Frequency | When | Compensation |
+|------|-----|------|-----------|------|:------------:|
+| 👁️ Visual + feed | Habib | Bees active? Drinkers full? Ants? Top up sugar water. Weed 1m around hives with veil. | **Every 2 days** | Part of caretaker routine | Included in GHS 750/month |
+| 🔍 Full inspection | Kanzoni | Open hives — brood, queen, pests, frames, honey stores. Own initiative — doesn't wait for H. | **Weekly (one weekday)** | Kanzoni goes to farm alone for just the inspections | ? |
+| 🚗 H + Kanzoni trip | Kanzoni drives H | Pickup + labour for general farm work | **Fortnightly (Sunday)** | When H goes to farm | GHS 300/trip |
+| 🧠 Advanced | Kwasi | Training, disease, swarm, frame repair | **Monthly** | Scheduled separately | GHS 200–300/day |
+
+### Kanzoni's Two Roles
+
+| Role | When | Pay |
+|------|------|:---:|
+| 🚗 Driver + labour (picks H up, they go together) | Fortnightly Sunday | GHS 300 |
+| 🐝 Beekeeper (inspects hives alone during the week) | Weekly on a weekday | Needs separate rate |
+
+### Suggested Rate for Kanzoni's Weekly Inspection
+
+He's on-site just for the hives — 7 hives × ~5 min inspection = ~35–45 min work + travel:
+
+- **GHS 100–150 per weekly inspection trip** (separate from his GHS 300 fortnightly trips with you)
+- That's **GHS 400–600/month** for all 4 weekly inspections
+- Plus his existing **GHS 300** per fortnightly Sunday when he drives you = **~GHS 600 on trip Sundays**
+
+### Habib's Visual Check (Every 2 Days — No Hive Opening)
+1. ✅ Bees entering/exiting = active
+2. ❌ No bees at entrance = absconded — **report immediately**
+3. 🐜 Ant trail on legs? Apply dirty oil in rabbit drinker cups
+4. 💧 Sugar water drinkers topped up?
+5. 🪹 Hives still level? Not sunken/tilted?
+
+### Kanzoni's Full Inspection (Weekly — Tuesday)
+1. Hives active: [count of 7]
+2. Honey ready to harvest: [kg estimate / none]
+3. Queen status: [seen / not seen / queen cells]
+4. Pests: [wax moth / ants / beetles / none]
+5. Water source: [ok / need refill]
+6. Kwasi training needed: [yes / no — what topic]
+
+---
+
+## ☀️ Hive Placement Principle (Kwesi + H's Setup)
+
+**Morning sun → shade by 11 AM → oil moats → tree cover**
+
+| Factor | Ideal Setup | Why |
+|--------|-------------|-----|
+| ☀️ Morning sun | Hives face east, catch early rays | Wakes bees early → start foraging sooner |
+| 🌳 Shade from 11 AM | Under natural tree cover | Protects from peak heat, prevents overheating |
+| 🔩 Iron stands | 60×42×62 cm on legs with oil moats | Keeps ants/termites out |
+
+**The rabbit drinker cups on each leg (4 per stand) get filled with dirty oil** — this is your barrier against driver ants and termites. Combined with the tree canopy for afternoon shade, this setup keeps hives cool, pests out, and bees foraging early for maximum honey production.
+
+---
 
 **Design**: Inverted U-frame construction
 - **2 Inverted U-Frames** — each from one continuous rod with 2 smooth 90° bends: 60 cm (leg) + 42 cm (top width) + 60 cm (leg) = **162 cm each**

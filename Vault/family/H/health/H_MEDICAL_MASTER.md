@@ -291,3 +291,21 @@
 ### 🌅 Morning Health Check
 - **Status:** No new acute symptoms reported (no chest pain, no dysphagia, no headache/dizziness). ✅ **MAJOR IMPROVEMENT:** post-shock medical evaluation **DONE** — saw Dr. Addo Danquah 24 Aug; labs ordered (1,075 GH), X-ray for painful toe done (219 GH), Renerve prescribed & filled (295 GH). Follow-up review **booked Mon 31 Aug** with Dr. Addo Danquah. Left arm tremor and toenail fungus now being addressed. 🔴 Active: blood-work labs still pending (photo of requisition didn't reach Nita — needs re-send). Vitals taken 24 Aug at doctor — back on normal monitoring (84-day gap closed). 🟡 Food diary logged through **26 Aug** — 27 Aug & today's breakfast not yet logged (gap reopening). Stable: eyes/vision, no acute chest pain, pericarditis quiescent. ACTION: re-send lab req photo / call UGMC to confirm 31 Aug review, resume meal logging.
 - **Check-in:** Asked H about breakfast, energy, symptoms
+
+---
+
+## 2026-08-31 (Mon)
+
+### 🌅 Morning Health Check
+- **Status:** No new acute symptoms reported (no chest pain, no dysphagia, no headache/dizziness). 🔔 **REVIEW DAY TODAY:** Post-shock follow-up **booked Mon 31 Aug** with Dr. Addo Danquah — Renerve (nerve/tremor) and toe X-ray results to review. 🔴 Active: **blood-work labs still pending** — requisition photo didn't reach Nita; re-send photo / call UGMC to confirm today's review. Left arm tremor & toenail fungus under treatment (Renerve + Candid lotion). Vitals taken 24 Aug at doctor — monitoring back to normal (was 84+ days overdue). 🟡 Food diary **gap reopening** — logged through **28 Aug**; 29–30 Aug & today's breakfast not yet logged. Stable: eyes/vision, no acute chest pain, pericarditis quiescent. ACTION: attend/confirm today's 31 Aug review, re-send lab photo, take Renerve as prescribed, resume meal logging.
+
+---
+
+### 📊 Weekly Review — Aug 24–31, 2026
+**Generated:** Sun 31 Aug 2026
+
+🔴 **Red Flags:** Blood-work labs ordered 24 Aug (1,075 GH) but **NOT yet run** — requisition photo failed to reach Nita; pending re-send / UGMC booking. Today's **Mon 31 Aug follow-up review** with Dr. Addo Danquah must be confirmed & attended (lg review of Renerve response + toe X-ray result). Blood work itself still 6+ yrs stale until samples are actually collected.
+🟡 **Watch:** Left arm tremor under Renerve (methylcobalamin) — confirm response at review. Toenail fungus on topical Candid lotion only (H forgot to ask about oral antifungal — revisit). Food diary gap reopening (28→31 Aug). Upper GI / achalasia follow-up still open since May. Weekend alcohol (Guinness/Origin with kebabs 25 Aug) — keep moderate.
+🟢 **Good:** ✅ **Post-shock medical evaluation DONE** (73-day overdue → resolved 24 Aug). ✅ **Vitals taken** — 84-day gap closed, BP/pulse normal. Food diary logged 5/7 days (24–28 Aug). No acute symptoms all week (no chest pain, no dysphagia, no headache/dizziness). Renerve filled (295 GH); X-ray for painful toe done (219 GH). Monitoring is now ACTIVE and doctor-led after months of passive decline.
+📈 **Trends:** The two dominant structural risks collapsed this week — shock follow-up 72 days → **RESOLVED**; vitals gap 83 days → **CLOSED**. Blood work upgraded from "stale 6+ yrs" to **ordered & in progress** (🔴→🟡). Food diary steady at ~5/7 with end-of-week gap reopening. Week-over-week: a decisive turnaround from passive monitoring to medical engagement.
+💡 **Top 3 Actions This Week:** 1. Confirm & attend today's 31 Aug follow-up; re-send lab-req photo / call UGMC so the 1,075 GH panel (LFT, HbA1c, RFT, FBC, urine, lipids, PSA) is actually run. 2. At review, confirm tremor response to Renerve and toe X-ray result; ask about an oral antifungal for the toenails. 3. Resume daily meal logging (gap since 28 Aug) and re-open the long-dormant upper GI / achalasia follow-up.

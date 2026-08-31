@@ -578,5 +578,106 @@
     ],
     "date": "2026-08-28",
     "saved_at": "2026-08-28T10:06:57.232031"
+  },
+  {
+    "active": 1061,
+    "reviewing": 10,
+    "draft": 1,
+    "declined": 1,
+    "closed": 103,
+    "followers": 327,
+    "feedback": 198,
+    "clients": 35,
+    "top_remaining": "500 of 500",
+    "top_expires": "19/09/26",
+    "whatsapp_ads_active": true,
+    "whatsapp_ads_until": "3 Sep 2026",
+    "balance_ghs": 0,
+    "top_items": [
+      {
+        "name": "DJI Mavic 3 Enterprise (Mavic 3E) Commercial Drone",
+        "price": 45000,
+        "impressions": 280,
+        "visitors": 24,
+        "chats": 1
+      },
+      {
+        "name": "Gorilla Waterproof Coat and Seal 473ml",
+        "price": 250,
+        "impressions": 87,
+        "visitors": 12,
+        "chats": 0
+      },
+      {
+        "name": "CarPlan Flat Mate Emergency Puncture Repair 500ml",
+        "price": 130,
+        "impressions": 82,
+        "visitors": 4,
+        "chats": 0
+      },
+      {
+        "name": "Gorilla Black Tape Heavy Duty (32m X 48mm)",
+        "price": 280,
+        "impressions": 80,
+        "visitors": 18,
+        "chats": 0
+      },
+      {
+        "name": "CarPlan Flat Mate Emergency Puncture Repair 300ml",
+        "price": 80,
+        "impressions": 72,
+        "visitors": 15,
+        "chats": 0
+      },
+      {
+        "name": "Black and Decker Circular Saw 1200W",
+        "price": 800,
+        "impressions": 66,
+        "visitors": 11,
+        "chats": 0
+      },
+      {
+        "name": "Performance Power Corded Electric Planer",
+        "price": 1400,
+        "impressions": 64,
+        "visitors": 14,
+        "chats": 0
+      },
+      {
+        "name": "Black and Decker Heavy Duty Circular Saw 960W",
+        "price": 700,
+        "impressions": 64,
+        "visitors": 11,
+        "chats": 1
+      },
+      {
+        "name": "VTech KidiGear / KidiTech Walkie Talkies (Blue Edition)",
+        "price": 350,
+        "impressions": 43,
+        "visitors": 11,
+        "chats": 0
+      },
+      {
+        "name": "Ryobi Drill Battery Charger",
+        "price": 750,
+        "impressions": 19,
+        "visitors": 10,
+        "chats": 0
+      }
+    ],
+    "needs_attention": [
+      "1 new ad was declined - edit and resubmit",
+      "GH\u00a2 0 balance - recharge to use TOP+ effectively",
+      "B&D Circular Saw 1200W has 66 impressions but 0 chats - price/description may need work",
+      "Gorilla Waterproof Coat + Gorilla Black Tape: high impressions (87/80) but 0 chats"
+    ],
+    "action_items": [
+      "Put TOP+ on DJI Mavic 3 Drone - highest impressions (280) now has 1 live chat",
+      "Put TOP+ on B&D Heavy Duty Circular Saw 960W - has active chat interest",
+      "Fix and resubmit the 1 declined ad",
+      "Recharge balance to funnel TOP+ credits"
+    ],
+    "date": "2026-08-31",
+    "saved_at": "2026-08-31T00:47:58.398864"
   }
 ]

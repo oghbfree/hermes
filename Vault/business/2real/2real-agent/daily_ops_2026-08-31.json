@@ -1,0 +1,28 @@
+{
+  "date": "2026-08-31",
+  "run_at": "2026-08-31T00:46",
+  "status": "completed",
+  "summary": {
+    "pending_inquiries_24h": 8,
+    "overdue_sourcing": 0,
+    "low_stock_count_in_stock_le2": 480
+  },
+  "inquiries_24h_notes": "8 leads logged 00:32-00:36 on 2026-08-31 (minutes before this run) - active conversation fragments likely already handled by hourly inquiry loop. One HIGH: Arlec Power Socket 'This one. How much' - in stock GHS 120, stock 1.",
+  "sourcing_notes": "sourcing_log.json is empty [] - no open requests, nothing overdue on 24h SLA.",
+  "low_stock_highlights": [
+    "Blyss Uban Video Intercom + Outdoor Button - GHS 1800 (stock 1)",
+    "Bosch GBH 2-26 DRE SDS Rotary Hammer - GHS 2300 (stock 1)",
+    "Bosch GBM 13-2 RE Rotary Drill - GHS 1800 (stock 1)",
+    "Black+Decker BCD001C1 Cordless Drill - GHS 1700 (stock 1)",
+    "Parkside Torque Wrench - GHS 1450 (stock 1)",
+    "Era Doorcam Video Doorbell - GHS 930 (stock 2)"
+  ],
+  "featured_items": [
+    {"name": "Spray Paint", "price": 30, "stock": "50+", "note": "wide colour range"},
+    {"name": "INGCO Bi-Metal Hacksaw Blade Set HSBKT12185", "price": 80, "stock": 50},
+    {"name": "Master Lock 140t (2 padlocks, 1 key)", "price": 100, "stock": 27},
+    {"name": "INGCO Acetic Silicone Sealant (Black)", "price": 50, "stock": 22},
+    {"name": "Cable Ties Bundle", "price": 15, "stock": 20}
+  ],
+  "business_rules_applied": true
+}
