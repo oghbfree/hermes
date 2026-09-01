@@ -382,6 +382,15 @@
 | ☀️ Lunch | Brown bread, banana and peanuts |
 | 🌙 Dinner | Yam & kontomire stew |
 
+### Mon 31 Aug *(logged via chat)*
+| Meal | Items |
+|------|-------|
+| ☀️ Morning | Vitamin C, chopped garlic with water |
+| ☀️ Breakfast | 3 fried eggs with onion |
+| ☀️ Lunch | Egg pizza |
+| 🌙 Dinner | Spaghetti bolognaise |
+| 🍪 Snack | 2 shortbread fingers, 1 Trek bar |
+
 ---
 
 ## 📈 Nutritional Trends *(updated with gap-fill data)*

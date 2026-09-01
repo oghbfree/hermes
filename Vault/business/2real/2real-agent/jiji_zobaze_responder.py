@@ -343,8 +343,8 @@ def draft_reply(customer_message, items, jiji_titles):
         return (f"2Real Enterprises. {variant} is currently out of stock. "
                 f"Price when restocked: GHS {price:,.0f}. I'll get back to you when it's back.")
     
-    # 4) No match
-    return PLACEHOLDER
+    # 4) No match — return None so the hook stays silent
+    return None
 
 # ─── LOG INTERACTION ──────────────────────────────────────────────────────
 def log_interaction(customer_msg, reply, channel="whatsapp"):

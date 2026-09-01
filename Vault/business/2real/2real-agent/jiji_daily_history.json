@@ -666,10 +666,10 @@
       }
     ],
     "needs_attention": [
-      "1 new ad was declined - edit and resubmit",
-      "GH\u00a2 0 balance - recharge to use TOP+ effectively",
-      "B&D Circular Saw 1200W has 66 impressions but 0 chats - price/description may need work",
-      "Gorilla Waterproof Coat + Gorilla Black Tape: high impressions (87/80) but 0 chats"
+      "Live data blocked - Chrome remote-debugging approval pending, reporting last known data from 2026-08-31 collection",
+      "1 new ad declined - edit and resubmit",
+      "GH\u00a20 balance - recharge to use TOP+ effectively",
+      "B&D Circular Saw 1200W: 66 impressions but 0 chats - price/description may need work"
     ],
     "action_items": [
       "Put TOP+ on DJI Mavic 3 Drone - highest impressions (280) now has 1 live chat",
@@ -678,6 +678,7 @@
       "Recharge balance to funnel TOP+ credits"
     ],
     "date": "2026-08-31",
-    "saved_at": "2026-08-31T00:47:58.398864"
+    "saved_at": "2026-08-31T00:47:58.398864",
+    "updated_at": "2026-08-31T11:28:04.120440"
   }
 ]

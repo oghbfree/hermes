@@ -33,6 +33,9 @@
 **Canonical copies (source of truth):** `Vault/business/2real/Nursing/`
 **Editable templates (source markdown):** `skills/productivity/elder-care-operations/templates/`
 
+> **📋 To present to Stephanie — role & expectations (combined):** `Vault/business/2real/Nursing/STEPHANIE_ROLE_AND_EXPECTATIONS.md`
+> *(Combines the daily routine + household duties + cooking + cleaning-standard + attitude into one document for managing expectations. The individual files below remain for reference.)*
+
 | Document | PDF (Nursing/) | Source MD (templates/) |
 |----------|----------------|-------------------------|
 | Employment Offer Letter | `employment-offer-stephanie.pdf` | `employment-offer-stephanie.md` |

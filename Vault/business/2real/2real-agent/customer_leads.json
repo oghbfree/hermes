@@ -1360,5 +1360,417 @@
     "priority": "LOW",
     "last_checked": "2026-08-31T00:45:43.694958",
     "checked_count": 1
+  },
+  {
+    "timestamp": "2026-08-31 11:10",
+    "customer_msg": "I’m still waiting for the video u said you’ll send",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 0.3,
+    "priority": "LOW",
+    "last_checked": "2026-08-31T11:26:21.422181",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-08-31 11:10",
+    "customer_msg": "So without it you can still on and off it",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 0.3,
+    "priority": "LOW",
+    "last_checked": "2026-08-31T11:26:21.426289",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-08-31 11:10",
+    "customer_msg": "650",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "stock_found_but_missed",
+    "age_hours": 0.3,
+    "priority": "HIGH",
+    "last_checked": "2026-08-31T11:26:21.451104",
+    "checked_count": 1,
+    "match": {
+      "name": "Bosch",
+      "price": 550.0,
+      "stock": 1,
+      "variant": "PST 650 500W Jigsaw"
+    }
+  },
+  {
+    "timestamp": "2026-08-31 11:10",
+    "customer_msg": "Ok",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 0.3,
+    "priority": "LOW",
+    "last_checked": "2026-08-31T11:26:21.454562",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-08-31 11:10",
+    "customer_msg": "This one I don't have",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 0.3,
+    "priority": "LOW",
+    "last_checked": "2026-08-31T11:26:21.458172",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-08-31 11:10",
+    "customer_msg": "I not forget u boss",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 0.3,
+    "priority": "LOW",
+    "last_checked": "2026-08-31T11:26:21.469606",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-08-31 11:11",
+    "customer_msg": "What’s ur liter",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 0.3,
+    "priority": "LOW",
+    "last_checked": "2026-08-31T11:26:21.511722",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-08-31 11:26",
+    "customer_msg": "But Jiji it as been written 1200",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 9.5,
+    "priority": "HIGH",
+    "last_checked": "2026-08-31T20:55:06.050918",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-08-31 11:29",
+    "customer_msg": "I got  toothache",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 9.4,
+    "priority": "HIGH",
+    "last_checked": "2026-08-31T20:55:06.055097",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-08-31 11:41",
+    "customer_msg": "Oh okay am waiting",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 9.2,
+    "priority": "HIGH",
+    "last_checked": "2026-08-31T20:55:06.059090",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-08-31 14:40",
+    "customer_msg": "Good morning how are you doing please",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 6.3,
+    "priority": "HIGH",
+    "last_checked": "2026-08-31T20:55:06.094058",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-08-31 14:40",
+    "customer_msg": "Hello sir",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 6.3,
+    "priority": "HIGH",
+    "last_checked": "2026-08-31T20:55:06.097949",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-08-31 14:40",
+    "customer_msg": "Hi boss can I get two more laptops",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 6.3,
+    "priority": "HIGH",
+    "last_checked": "2026-08-31T20:55:06.102651",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-08-31 14:41",
+    "customer_msg": "Ok is urs 16pin",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 6.2,
+    "priority": "HIGH",
+    "last_checked": "2026-08-31T20:55:06.107839",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-08-31 14:41",
+    "customer_msg": "Find out for me",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 6.2,
+    "priority": "HIGH",
+    "last_checked": "2026-08-31T20:55:06.112742",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-08-31 14:42",
+    "customer_msg": "Okay",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 6.2,
+    "priority": "HIGH",
+    "last_checked": "2026-08-31T20:55:06.117718",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-08-31 14:42",
+    "customer_msg": "U remove urs",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 6.2,
+    "priority": "HIGH",
+    "last_checked": "2026-08-31T20:55:06.122429",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-08-31 14:43",
+    "customer_msg": "I mean have ur transaction been remove",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 6.2,
+    "priority": "HIGH",
+    "last_checked": "2026-08-31T20:55:06.126415",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-08-31 14:43",
+    "customer_msg": "So u send a pic so I check",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 6.2,
+    "priority": "HIGH",
+    "last_checked": "2026-08-31T20:55:06.130332",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-08-31 14:46",
+    "customer_msg": "Well noted",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 6.2,
+    "priority": "HIGH",
+    "last_checked": "2026-08-31T20:55:06.136299",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-08-31 14:46",
+    "customer_msg": "Okey please",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 6.2,
+    "priority": "HIGH",
+    "last_checked": "2026-08-31T20:55:06.142021",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-08-31 14:49",
+    "customer_msg": "Please your location",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 6.1,
+    "priority": "HIGH",
+    "last_checked": "2026-08-31T20:55:06.146238",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-08-31 14:56",
+    "customer_msg": "[Reaction: 👍 to 3EB004F19FE2D54D09D31A]",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 6.0,
+    "priority": "HIGH",
+    "last_checked": "2026-08-31T20:55:06.154035",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-08-31 14:56",
+    "customer_msg": "Sure but not today let say by Friday",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 6.0,
+    "priority": "HIGH",
+    "last_checked": "2026-08-31T20:55:06.158119",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-08-31 14:57",
+    "customer_msg": "Am at Kasoa so if I do delivering it will cost I will come for it my self",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 6.0,
+    "priority": "HIGH",
+    "last_checked": "2026-08-31T20:55:06.162249",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-08-31 14:58",
+    "customer_msg": "The transparent one ☝️",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "stock_found_but_missed",
+    "age_hours": 6.0,
+    "priority": "HIGH",
+    "last_checked": "2026-08-31T20:55:06.168272",
+    "checked_count": 1,
+    "match": {
+      "name": "Arlec Power Socket",
+      "price": 120.0,
+      "stock": 1,
+      "variant": "Metal Screwless One Gang Double Pole"
+    }
+  },
+  {
+    "timestamp": "2026-08-31 14:59",
+    "customer_msg": "I will need 11 pieces 7 indoor and 4 outdoor",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 5.9,
+    "priority": "HIGH",
+    "last_checked": "2026-08-31T20:55:06.173986",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-08-31 14:59",
+    "customer_msg": "Okk",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 5.9,
+    "priority": "HIGH",
+    "last_checked": "2026-08-31T20:55:06.178185",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-08-31 14:59",
+    "customer_msg": "What’s the brand name pls",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 5.9,
+    "priority": "HIGH",
+    "last_checked": "2026-08-31T20:55:06.182035",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-08-31 15:07",
+    "customer_msg": "Transmission sorry",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 5.8,
+    "priority": "HIGH",
+    "last_checked": "2026-08-31T20:55:06.185859",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-08-31 15:10",
+    "customer_msg": "Friday",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 5.8,
+    "priority": "HIGH",
+    "last_checked": "2026-08-31T20:55:06.189682",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-08-31 20:54",
+    "customer_msg": "Good afternoon. Please, is your geo mouse available?",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 0.0,
+    "priority": "LOW",
+    "last_checked": "2026-08-31T20:55:06.208690",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-08-31 20:54",
+    "customer_msg": "This type some ?",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 0.0,
+    "priority": "LOW",
+    "last_checked": "2026-08-31T20:55:06.212733",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-08-31 20:54",
+    "customer_msg": "Do you have something like this",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 0.0,
+    "priority": "LOW",
+    "last_checked": "2026-08-31T20:55:06.216660",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-08-31 20:54",
+    "customer_msg": "I want to come it like tomorrow so I want to see the pictures of it well so  we can talk about the price well",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 0.0,
+    "priority": "LOW",
+    "last_checked": "2026-08-31T20:55:06.220720",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-08-31 20:54",
+    "customer_msg": "Okk",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 0.0,
+    "priority": "LOW",
+    "last_checked": "2026-08-31T20:55:06.224596",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-08-31 20:54",
+    "customer_msg": "Okay",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 0.0,
+    "priority": "LOW",
+    "last_checked": "2026-08-31T20:55:06.229876",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-08-31 20:54",
+    "customer_msg": "hi",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 0.0,
+    "priority": "LOW",
+    "last_checked": "2026-08-31T20:55:06.229965",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-08-31 20:54",
+    "customer_msg": "He needed 72 pieces so let him inform him first",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 0.0,
+    "priority": "LOW",
+    "last_checked": "2026-08-31T20:55:06.235823",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-08-31 20:54",
+    "customer_msg": "Please what of the solar one",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 0.0,
+    "priority": "LOW",
+    "last_checked": "2026-08-31T20:55:06.240424",
+    "checked_count": 1
   }
 ]

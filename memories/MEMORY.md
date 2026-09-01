@@ -2,7 +2,18 @@
 
 Durable facts from periodic daily-processing runs.
 
-_facts below are limited to verified findings. Last refreshed: 2026-08-31._
+_facts below are limited to verified findings. Last refreshed: 2026-09-01._
+
+## 2026-09-01 Daily Processing Run
+- 🟢 **Integrated-daily-synthesis 2026-09-01** — `INTEGRATED_INSIGHTS_2026-09-01.md` saved to Vault/insights + both memory insight trees (10,918B) ✓. Window bridges 31 Aug close + early Sep 1.
+- 🔴 **NEW: HTTP 402 OpenRouter credit-exhaustion wave (31 Aug 00:32–00:45):** 9 jobs failed (weekly-intel, Dad weekly-review, mom exercise, priority, job-applications, daily-backup, security-policy-check, sunday-content-engine, +1) — wholesale credit exhaustion. **Action: top up credits; re-run failed jobs + daily-backup.** 1 TimeoutError (mum-health-afternoon, CWD lock).
+- 🩺 **H: Mon 31 Aug follow-up with Dr. Addo Danquah outcome NOT yet logged** — confirm attended/re-booked. Labs (1,075 GH) + toe X-ray (219 GH) STILL pending run; re-send requisition photo / call UGMC. 🟢 **H food diary gap CLOSED** (logged thru 31 Aug).
+- 👵 **Mum: ⚠️ NEW SYMPTOM — regurgitation (31 Aug eve ~8:10pm**, possibly linked to fried lunch). 31 Aug BP **138/92 (diastolic ⚠️ high)**, P78, T36.1; Furo 20mg 9:05am. Persistent: insomnia, back/hip pain (watch), BP ≥140 stop-rule anomalies.
+- 💼 **2Real Sat 29/08 GHS 3,000** (iMac, Yamaha, baby laptops); Sun 30 closed. ⚠️ **Inquiry backlog ~200 / 131 unresolved / 119 critical** — #1 op risk, growing faster than conversion. 480 low-stock items. Content week-2026-08-31 built; MP4 renders pending. Jiji stale (1-click Chrome popup); GH₵0 TOP+.
+- 🏥 Kids: **Mission Clinic apps STILL NOT booked** (Kobena neuro-paed + Nenyi psych/PEERS, +233 20 329 5292).
+- 🔒 **Security 31 Aug STABLE/GREEN:** gateway PID 868 running, TG token VALID (Ogaitchhermesbot), WA paired. **Home-root `~/.hermes/.env` token now CONFIRMED REVOKED (getMe 404)** — dual-root divergence; retire dormant root. 25/55 silent cron. Legacy google tokens 9+2.
+- 🖥️ Cron SLA 31 Aug ~76.7% (33/43). **Daily-backup 31 Aug FAILED (402)** — confirm latest valid full backup. Disk ~42%. DNS flakiness persists.
+- Daily note `Vault/Daily/2026-09-01.md` written. 0 active request dumps (118 archived). `sessions.json` intact.
 
 ## 2026-08-31 Daily Processing Run
 - 🟢 **Integrated-daily-synthesis 31 Aug 00:51 SUCCESS** (`d719cd80fa5b`) — `INTEGRATED_INSIGHTS_2026-08-31.md` saved to BOTH trees (10,514B each) ✓.

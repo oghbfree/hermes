@@ -8,11 +8,12 @@
 
 ---
 
-## ⏱ MORNING ROUTINE (start the day right)
+## ⏱ MORNING ROUTINE (the day starts at 6:00am)
 
-### 1. OPEN & SECURE THE HOUSE (first thing)
-- [ ] Unlock main door / check gates are opening properly
-- [ ] Open windows/doors to air the house (morning air)
+### 1. OPEN & SECURE THE HOUSE — 6:00am (first thing)
+- [ ] **Unlock** main door / check gates are opening properly
+- [ ] **Open windows/doors** to air the house (morning air)
+- [ ] **Sweep the compound** (front + around the house) while it's still cool in the morning
 - [ ] **Do a security walk-through** of the compound — gates, doors, perimeter
 - [ ] Confirm **all windows can close & lock properly**; note any that stick/move for fixing
 
@@ -49,13 +50,27 @@
 - [ ] Close windows/doors while spraying so the spray works; ventilate afterwards
 - [ ] Confirm Mum is comfortable outside during the wait (shade, water, company)
 
-### 6. EVENING — SECURE THE HOUSE (end of day)
-- [ ] **Windows shut & latched**
-- [ ] **Doors locked** (all external doors + gates)
-- [ ] Mosquito/Mum's-room check — spray/protection as needed before night
-- [ ] Bins emptied or covered for the night
-- [ ] Final tidy: cushions/flat surfaces presentable for the morning
-- [ ] Confirm Mum settled, night light on, her window closed/locked
+### 6. EVENING — SECURITY CHECK & SECURE THE HOUSE (end of day)
+
+Do a **full evening security check**, top to bottom, before settling Mum for the night.
+
+**6a. INSIDE the house**
+- [ ] **Windows — ALL shut & latched** (every room, including Mum's)
+- [ ] **Doors — ALL locked**, inside doors too
+- [ ] Final mosquito check — spray/protection as needed for the night
+- [ ] Bins **emptied or covered** for the night (no flies, no smells)
+- [ ] Final tidy — cushions/flat surfaces presentable for the morning
+
+**6b. OUTSIDE / compound**
+- [ ] **Gates & external doors locked**
+- [ ] Walk the **perimeter** — check gates, fences, any access points
+- [ ] Bring in anything left outside (clothes line, chairs, tools) that could fly away or get taken
+- [ ] Confirm outside lights / security lights on if needed
+
+**6c. MUM settled**
+- [ ] Confirm Mum in bed, comfortable, night light on
+- [ ] Her window **closed & locked**; any care/log needs done
+- [ ] Confirm the house is **secure overnight** before you rest
 
 ---
 

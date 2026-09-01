@@ -63,8 +63,9 @@
 | 26 Aug | Tom brown (left some) | Banku with tilapia soup | Boiled cocoyam with vegetable stew |
 | 28 Aug 🎂 | Tom brown (ate all) | **Jollof + stew + plantain + dry salad** + **birthday cake** | Kenkey + gravy + shito + fried fish |
 | 30 Aug | Tom brown (ate all) | Waakye + shito + gravy stew + salad | Fried plantain with boiled beans |
+| 31 Aug | Pawpaw + scrambled eggs | Kenkey + gravy stew + shito + fried fish | Boiled yam with kontomire stew |
 
-> **Backfill complete (30 Aug 26):** Meals logged for 5–30 Aug. 🎂 **Birthday 28 Aug** logged (celebratory jollof/plantain/cake). **30 Aug:** tom brown / waakye+shito+gravy+salad / fried plantain+beans — shito, fried plantain, tom-brown (grains) still appearing (phase-out ongoing). Left some fruit mix (appetite soft). See market list in `MUM_MEDICAL_MASTER.md`.
+> **Backfill complete (31 Aug 26):** Meals logged for 5–31 Aug. 🎂 **Birthday 28 Aug** logged. **31 Aug:** pawpaw+scrambled eggs (good breakfast), kenkey+shito+fried fish lunch, boiled yam+kontomire dinner. Shito, fried fish, grains still appearing (phase-out ongoing). Left some fruit mix (appetite soft). New: **regurgitation 31 Aug eve** — see medical master. See market list in `MUM_MEDICAL_MASTER.md`.
 
 ---
 

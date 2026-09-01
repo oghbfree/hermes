@@ -55,7 +55,7 @@ Date-range snapshot:
 - 25 Jul: 108–127/60–63 · 26 Jul: 127–128/66–72 · 27 Jul: 112–126/60–72
 - 28 Jul: 122–134/72–78 · 29 Jul: 120–127/60–67 · 30 Jul: 126–136/68–78
 - 31 Jul: 121–126/60–64 · 1 Aug: 118–127/62–63 · 3 Aug: 127–135/71–72 · 4 Aug: 126/75
-- 5 Aug: 125/72 · 6 Aug: 124/62–126/59 · **7 Aug: 118/60–130/73** · **8 Aug: 113/65–136/76** · 9 Aug: 120/68–125/66 · **10 Aug: 122/77 (evening dose refused)** · **11 Aug: 123/73–138/79** · **13 Aug: 122/78** · **14 Aug: 137/79–144/82 (eve above 140)** · **15 Aug: 124–130/72–79** · **16 Aug: 132/72 (AM), early-AM 166/79 (⚠️ high)** · **17 Aug: 130/77** · **18 Aug: 139–140/72–75** · **19 Aug: 132–136/72–75** · **20 Aug: 142/76 (AM, ⚠️ above 140)** · **21 Aug: 113/69 (eve, no AM reading — dose held)** · **22 Aug: 140/77 (AM, ⚠️ at threshold)** · **23 Aug: 119/82 (eve, healthy)** · **24 Aug: 130/76 (AM, healthy)** · **25 Aug: 126/74 (AM, healthy)** · **26 Aug: 136/79–139/76 (AM+eve)** · **28 Aug: 142/71 (AM, ⚠️ above 140, birthday)** · **30 Aug: 127/72 (AM, healthy; eve no BP)** — latest captured
+- 5 Aug: 125/72 · 6 Aug: 124/62–126/59 · **7 Aug: 118/60–130/73** · **8 Aug: 113/65–136/76** · 9 Aug: 120/68–125/66 · **10 Aug: 122/77 (evening dose refused)** · **11 Aug: 123/73–138/79** · **13 Aug: 122/78** · **14 Aug: 137/79–144/82 (eve above 140)** · **15 Aug: 124–130/72–79** · **16 Aug: 132/72 (AM), early-AM 166/79 (⚠️ high)** · **17 Aug: 130/77** · **18 Aug: 139–140/72–75** · **19 Aug: 132–136/72–75** · **20 Aug: 142/76 (AM, ⚠️ above 140)** · **21 Aug: 113/69 (eve, no AM reading — dose held)** · **22 Aug: 140/77 (AM, ⚠️ at threshold)** · **23 Aug: 119/82 (eve, healthy)** · **24 Aug: 130/76 (AM, healthy)** · **25 Aug: 126/74 (AM, healthy)** · **26 Aug: 136/79–139/76 (AM+eve)** · **28 Aug: 142/71 (AM, ⚠️ above 140, birthday)** · **30 Aug: 127/72 (AM, healthy)** · **31 Aug: 138/92 (AM, diastolic ⚠️ high)** — latest captured
 
 *Full bloodwork (kidney, liver, lipids, FBC, thyroid, BNP, ferritin, phosphate): see `CLINICAL_SUMMARY_COMFORT.md`.*
 
@@ -333,7 +333,24 @@ Date-range snapshot:
 - **Dinner:** Fried plantain with boiled beans (ate all — fried plantain = phase-out not followed). Warm milk before bed.
 - Log: Mood Fair, Appetite Fair, Swelling Same, Bowel Normal, Skin Okay.
 
-> **Backfill complete (30 Aug 26):** All of 5–30 Aug captured. 🎂 **28 Aug = Madam Comfort's 92nd birthday.** ⚠️ Flags for doctor: recurring insomnia + back/hip pain (28 Aug) + 10 Aug dose refused + 16 Aug AM BP 166 + 18/20/22/28 Aug AM BP at/above 140 + 21 Aug AM no dose. Latest: 30 Aug (BP 127/72 AM ✅). **Relocated to new home 20 Aug.**
+### 31 Aug 2026 (Mon) — Morning
+- **Status:** Feeling fine; grandson visited with his dad (son).
+- **Vitals:** BP 138/92, Pulse 78, Temp 36.1°C ⚠️ **diastolic 92 high** (systolic 138 near threshold) — Furo given.
+- **Medication:** Furosemide 20mg given at 9:05am.
+- **Check-in:** Breakfast **pawpaw + scrambled eggs** (ate all — good, protein + allowed fruit). Log: Mood Fair, Appetite Fair, **Swelling Reduced**, Urine Normal, Skin Okay.
+
+### 31 Aug 2026 (Mon) — Afternoon
+- **Status:** Grandson visited; watched TV together; ate lunch together.
+- **Vitals:** none recorded.
+- **Lunch:** Kenkey with gravy stew + **shito + fried fish** (ate all). Fruit mix (left some — appetite soft). Log: Mood Fair, Appetite Fair, Swelling Same, Urine Normal, Skin Okay.
+
+### 31 Aug 2026 (Mon) — Evening ⚠️ REGURGITATION (new symptom)
+- **Status:** Dinner then rested on bed. **Carer found her sitting up ~8:10pm — she reported REGURGITATION, choosing to sit a while.** Carer checked ~9:25pm — she'd gone to sleep. First episode recorded in this period.
+- **Vitals:** none recorded.
+- **Dinner:** Boiled yam with kontomire stew (ate all). Log: Mood Fair, Appetite Fair, Swelling Same, Bowel Normal, Skin Okay.
+- **Note (potentially relevant):** lunch contained fried fish + shito (fried/processed) — may relate to the evening regurgitation. Monitor recurrence; consider smaller portions / earlier dinner / more upright after meals.
+
+> **Backfill complete (31 Aug 26):** All of 5–31 Aug captured. 🎂 **28 Aug = 92nd birthday.** ⚠️ Flags for doctor: recurring insomnia + back/hip pain (28 Aug) + **new: regurgitation (31 Aug eve)** + 10 Aug dose refused + 16 Aug AM BP 166 + 18/20/22/28 Aug AM BP at/above 140 + 31 Aug diastolic 92 + 21 Aug AM no dose. Latest: 31 Aug (BP 138/92 AM, hypertensive-diastolic). **Relocated to new home 20 Aug.**
 
 ---
 

@@ -24,3 +24,9 @@ Logged: 2026-08-23 07:00 (cron run `monthly-tax-submission-audit`)
 - **Eligibility window (1-7 Aug):** elapsed → **no nudge sent** (post-7th; escalation handled elsewhere)
 - **Checked sources:** Internal submission tracking (no `tax_audit_2026-07.md`; no Submitted timestamp); no confirmation receipt located
 - **Result:** July 2026 Form 10-M remains OVERDUE. No action dispatched.
+## Audit Run — 2026-08-31 07:00
+- **Reference ID:** TAX-OVD-202607-20260831-0700
+- **Status:** MISSING / INCOMPLETE — NO valid submission confirmed for Form 10-M (July 2026) as of this run
+- **Eligibility window (1-7 Aug):** elapsed → **no nudge sent** (post-7th; escalation handled elsewhere)
+- **Checked sources:** Internal submission tracking (no `tax_audit_2026-07.md`; no Submitted timestamp); no confirmation receipt located
+- **Result:** July 2026 Form 10-M remains OVERDUE. No action dispatched.

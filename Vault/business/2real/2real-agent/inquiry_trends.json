@@ -231,16 +231,16 @@
   {
     "date": "2026-08-31",
     "trends": {
-      "total_inquiries": 200,
+      "total_inquiries": 221,
       "unresolved_count": 0,
       "top_keywords": [
         {
           "word": "received",
-          "count": 36
+          "count": 41
         },
         {
           "word": "image",
-          "count": 35
+          "count": 40
         },
         {
           "word": "okay",
@@ -259,11 +259,11 @@
           "count": 7
         },
         {
-          "word": "location",
-          "count": 6
+          "word": "one",
+          "count": 7
         },
         {
-          "word": "one",
+          "word": "location",
           "count": 6
         },
         {
@@ -279,6 +279,6 @@
       "items_customers_want_not_in_stock": [],
       "unknown_count": 0
     },
-    "saved_at": "2026-08-31T00:47:58.438593"
+    "saved_at": "2026-08-31T11:28:04.149508"
   }
 ]
