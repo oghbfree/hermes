@@ -74,4 +74,16 @@
     "fallback_delivered_at": "2026-07-13T10:15:00",
     "notes": "WhatsApp gateway shows 'fatal' state with 'whatsapp_not_paired' error. Channel directory empty for WhatsApp. Jnr's phone number not in system contacts. Sent via Telegram fallback (topic 20). Remediation needed: (1) Run 'hermes whatsapp' to pair WhatsApp gateway, (2) Add Jnr's phone number to config.json or customer_leads.json for direct WhatsApp delivery."
   }
-]
+  ,
+    {
+      "timestamp": "2026-09-01T10:05:00",
+      "task": "payment_reminder",
+      "recipient": "Hughie",
+      "channel": "whatsapp",
+      "status": "delivered",
+      "reason": "WhatsApp bridge live (node PID 9380 port 3000 ↔ gateway PID 14576). `hermes send --to whatsapp:+447940081651` returned \"sent\" (exit 0). First successful run of `hughie-payment-reminder` cron (bcc20c0ac526, schedule 5 10 */25 * *); prior runs (2026-07-27,2026-08-26) failed pre-send (model unreachable / config-drift блок).",
+      "message_prepared": "Dear Hughie,\n\nHope you're doing well. Just a gentle reminder about the outstanding payment we discussed, which is still unsettled.\n\nI'd appreciate it if we could arrange settlement at your earliest convenience,and if there's anything on your end or you need clarity, just let me know and we'll sort it out.\n\nKindly confirm a timeline for payment when you get a chance. Appreciate you authentically.\n\nBest regards,\nH",
+      "fallback_attempted": false,
+      "notes": "Tone per CONTACTS.md — Associate, polite and professional, gentle reminders. No precise amount on record for Hughie's debt, so kept generic. Number +447940081651 in config.yaml allow_from. Next scheduled run 2026-09-26."
+    }
+  ]

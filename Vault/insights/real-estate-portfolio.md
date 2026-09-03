@@ -1,6 +1,6 @@
 # Real Estate Portfolio — Master File
 
-**Last updated:** 31/8/26
+**Last updated:** 2/9/26
 **Owner:** H (Oman Herbert Blankson)
 **Consolidated from:** archive/real-estate-insights.md, archive/property-deal-21-19.md, business/construction/*, handwritten notes
 
@@ -12,36 +12,43 @@
 
 ### 19 Melford Court — East Dulwich SE22
 
-**Status:** ❌ NOT SELLING — now rented out (14/8/26 update)
-**Tenants:** Dennis & Precious — paying **£1,800** (paying today)
-**Tenancy starts:** 10th of the month
-**Terms:** H pays bills, council tax included, **no deposit**
-**Needed:** Washing machine — £70 (unit) + £70 (delivery)
+**Status:** ❌ TENANTS MOVING OUT — Dennis & Precious leaving 10th Sept 2026
+**Reason:** Ongoing issues — gas, electric, water, no hot water (3 weeks), no washing machine
 
-**Mortgage & Utilities:**
+**Tenancy Issues:**
+- No signed tenancy agreement
+- No inventory done on move-in
+- No washing machine provided
+- Outstanding gas/electric debt + standing charge on the meters
+- No hot water for first **3 weeks**
+- No proper water for **almost the whole of last month**
+- 4th floor walk-up — tenant is pregnant
+- Tenants bought beds/mattresses themselves (unfurnished property — H did not instruct them to buy)
+
+**Tenant's demands (message received):**
+- Moving out **10th Sept 2026**
+- Refund of gas/electric debt husband paid (was to be deducted from rent)
+- Compensation for prolonged lack of water and inconvenience
+
+**Financials (current status):**
+
 | Item | Amount |
 |------|--------|
-| **Mortgage payment** | £1,305.95/month |
-| **Towards arrears** | +£100/month |
-| **Scottish Power — Gas** | A/C: 16168274124 |
-| **Scottish Power — Elec** | A/C: 16164603627 |
-| **British Gas Home Care** | A/C: 911001097446 — £34/month |
-| **Replacement card/key** | ~£10 (spoke to Southern Power) |
-| **Replacement key fob** | £20 (should get 2nd from key cutting shop) |
-| **WiFi washing machine** | £70 + £70 delivery |
+| Mortgage payment | £1,305.95/month |
+| Towards arrears | +£100/month |
+| Scottish Power — Gas | A/C: 16168274124 |
+| Scottish Power — Elec | A/C: 16164603627 |
+| British Gas Home Care | A/C: 911001097446 — £34/month |
+| Replacement card/key | ~£10 (sorted) |
+| Replacement key fob | £20 (sorted) |
 
-**Financial Table (historical for reference):**
+**Rental Income History:**
+| Period | Rent | Status |
+|--------|------|--------|
+| Since move-in | £1,800 reduced rent | No deposit taken |
+| Sept 2026 | — | Tenants leaving 10th |
 
-| Item | Amount |
-|------|--------|
-| Original purchase price | £200,000 |
-| Mortgage owing | £268,000 |
-| Market value | £280,000 |
-| Service charge arrears | £6,000 |
-| Seller's lowest accept | £275,000 |
-
-**Utilities (historical):**
-- Central / Plumbing / Land cert: Oct 26 renewal ~£34
+**Action:** Respond to tenant — decide on refund/compensation, prepare for vacancy, consider next tenant or re-sale
 
 ---
 
@@ -271,6 +278,7 @@
 **Next steps for wall:**
 - Need **1 trip sand** + **1 trip stone** + **800 blocks** to complete **4 courses** for the wall
 - Chamber & Hall deferred — will be built **after Kokomlemle is completed**
+- ~~Block wall~~ → **Budget option: Wood poles at 25ft gaps** (money limited — applies to Amanful, Borkro & Kroboekyir)
 
 **Land Details:**
 - 2 plots — 200 ft × 80 ft (100 ft × 80 ft each)
@@ -308,7 +316,7 @@
 
 **To-Do:**
 - [ ] Find the person who weeded and planted cassava
-- [ ] Erect pillars
+- [ ] Erect **wood poles at 25ft gaps** (budget option — same strategy as Amanful & Kroboekyir)
 - [ ] Start weed/burn/spray process
 - [ ] Register land
 - [ ] Find caretaker
@@ -383,6 +391,7 @@
 **Next steps:**
 - Need **1 trip sand** + **1 trip stone** + **800 blocks** (4 courses)
 - Continuation deferred — will be built **after Kokomlemle is completed**
+- ~~Block wall~~ → **Budget option: Wood poles at 25ft gaps** (same strategy as Amanful & Borkro)
 
 **Key Issues:**
 - Title dispute — Uncle **Prof Assibu** (Ideal College) advanced commission on the land
@@ -495,7 +504,7 @@
 | Unit | Monthly Income |
 |------|--------------|
 | 21 — Rental units | £2,300 (1100+690+600) |
-| 19 — Melford | **£1,800** (Dennis & Precious) |
+| 19 — Melford | ~~£1,800~~ **Ending 10th Sept** (Dennis & Precious leaving) |
 | 14/Croydon — Room 1 | £550/568 |
 | 14/Croydon — Room 2 | £872 |
 | 14/Croydon — Room 3 | £872 |
@@ -523,7 +532,7 @@
 | **Stephen Jones** | Property manager/fee | £1,200 | 14 Croydon |
 | **Evan** | Legal (cancelled) | — | 14 Croydon |
 | **Colin** | — | 0800 8766098 | Legal |
-| **Dennis & Precious** | Tenants — 19 Melford | Paying £1,800 | 19 Melford Court |
+| **Dennis & Precious** | Tenants — leaving 10th Sept 2026 | Paying £1,800 | 19 Melford Court |
 | **Nenyi Oliver Mensah** | Land swap counterparty | TBC | Kroboano |
 | **Prof Assibu** | Uncle — on indenture (Ideal College) | TBC | Kroboano (title dispute) |
 | **Uncle Kevin** | Tenancy agreement typing & formulation | — | Kantamanto (mum's rental) |
@@ -537,16 +546,14 @@
 ## KEY ACTION ITEMS
 
 ### Immediate Priority
-- [ ] **Approve this updated portfolio** (14/8/26)
-- [ ] **Get washing machine for 19 Melford** — £70 + £70 delivery (tenants moving in 10th)
-- [ ] **Arrange replacement key fob** for 19 Melford (2nd from key cutting shop)
-- [ ] **21 Philip Walk — Peckham repairs** — work through 7-item list (door lock, taps, shower rail, wardrobe, paint, window)
+- [ ] **Respond to Dennis & Precious (19 Melford)** — decide on gas/electric refund + compensation claim
+- [ ] **Prepare 19 Melford for vacancy** (after 10th Sept)
 
-### 19 Melford (Tenanted)
-- [ ] Buy & install WiFi-enabled washing machine
-- [ ] Sort replacement gas/elec card + key fob
-- [ ] Confirm Scottish Power accounts active (Gas: 16168274124, Elec: 16164603627)
-- [ ] Get second key fob from key cutting shop
+### 19 Melford (Tenants Leaving 10th Sept)
+- [ ] **Respond to tenant** — decide on gas/electric refund + compensation claim
+- [ ] **Inspect property** after move-out (condition, any damage)
+- [ ] **Decide next step** — re-let (with proper agreement + inventory) or reconsider sale
+- [ ] Settle gas/electric accounts — confirm no outstanding debt on meters
 
 ### 21 Philip Walk — Peckham Repairs
 - [ ] #1 — Main door lock: top or bottom lock?
@@ -572,13 +579,14 @@
 
 ### Ghana — Amanful (Wall Build in Progress) 🔥
 - [ ] Supply: 1 trip sand + 1 trip stone + 800 blocks (complete 4 courses)
-- [ ] **Odoom to confirm spraying finished by Monday** — paid 150+50+20 GHS (rings done ✅, toilet/transport handled)
-- [ ] Matthias to continue block work for wall
+- [ ] **↳ Wall changed to budget option: Wood poles at 25ft gaps** (block wall cancelled)
+- [ ] **Odoom to confirm spraying finished** — paid 150+50+20 GHS (rings done ✅)
+- [ ] Matthias to continue work
 - [ ] Chamber & Hall deferred — after Kokomlemle
 
 ### Ghana — Borkro (Found — Cassava planted)
 - [ ] **Find person who weeded and planted cassava**
-- [ ] Erect pillars
+- [ ] Erect **wood poles at 25ft gaps** (budget option)
 - [ ] Start weed/burn/spray process
 - [ ] Register land
 - [ ] Find caretaker
@@ -588,8 +596,9 @@
 - [ ] Supply: 1 trip sand + 1 trip stone + 800 blocks (4 courses)
 - [ ] Mum stays at George's house STC Weija with Maa Joyce
 
-### Ghana — Kroboano ✅ Foundation done
+### Ghana — Kroboekyir ✅ Foundation done
 - [ ] Supply: 1 trip sand + 1 trip stone + 800 blocks (4 courses)
+- [ ] **↳ Wall changed to budget option: Wood poles at 25ft gaps** (block wall cancelled)
 - [ ] Build deferred — after Kokomlemle completed
 - [ ] Monitor title dispute — Prof Assibu + another person
 

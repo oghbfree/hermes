@@ -55,7 +55,7 @@ Date-range snapshot:
 - 25 Jul: 108–127/60–63 · 26 Jul: 127–128/66–72 · 27 Jul: 112–126/60–72
 - 28 Jul: 122–134/72–78 · 29 Jul: 120–127/60–67 · 30 Jul: 126–136/68–78
 - 31 Jul: 121–126/60–64 · 1 Aug: 118–127/62–63 · 3 Aug: 127–135/71–72 · 4 Aug: 126/75
-- 5 Aug: 125/72 · 6 Aug: 124/62–126/59 · **7 Aug: 118/60–130/73** · **8 Aug: 113/65–136/76** · 9 Aug: 120/68–125/66 · **10 Aug: 122/77 (evening dose refused)** · **11 Aug: 123/73–138/79** · **13 Aug: 122/78** · **14 Aug: 137/79–144/82 (eve above 140)** · **15 Aug: 124–130/72–79** · **16 Aug: 132/72 (AM), early-AM 166/79 (⚠️ high)** · **17 Aug: 130/77** · **18 Aug: 139–140/72–75** · **19 Aug: 132–136/72–75** · **20 Aug: 142/76 (AM, ⚠️ above 140)** · **21 Aug: 113/69 (eve, no AM reading — dose held)** · **22 Aug: 140/77 (AM, ⚠️ at threshold)** · **23 Aug: 119/82 (eve, healthy)** · **24 Aug: 130/76 (AM, healthy)** · **25 Aug: 126/74 (AM, healthy)** · **26 Aug: 136/79–139/76 (AM+eve)** · **28 Aug: 142/71 (AM, ⚠️ above 140, birthday)** · **30 Aug: 127/72 (AM, healthy)** · **31 Aug: 138/92 (AM, diastolic ⚠️ high)** — latest captured
+- 5 Aug: 125/72 · 6 Aug: 124/62–126/59 · **7 Aug: 118/60–130/73** · **8 Aug: 113/65–136/76** · 9 Aug: 120/68–125/66 · **10 Aug: 122/77 (evening dose refused)** · **11 Aug: 123/73–138/79** · **13 Aug: 122/78** · **14 Aug: 137/79–144/82 (eve above 140)** · **15 Aug: 124–130/72–79** · **16 Aug: 132/72 (AM), early-AM 166/79 (⚠️ high)** · **17 Aug: 130/77** · **18 Aug: 139–140/72–75** · **19 Aug: 132–136/72–75** · **20 Aug: 142/76 (AM, ⚠️ above 140)** · **21 Aug: 113/69 (eve, no AM reading — dose held)** · **22 Aug: 140/77 (AM, ⚠️ at threshold)** · **23 Aug: 119/82 (eve, healthy)** · **24 Aug: 130/76 (AM, healthy)** · **25 Aug: 126/74 (AM, healthy)** · **26 Aug: 136/79–139/76 (AM+eve)** · **28 Aug: 142/71 (AM, ⚠️ above 140, birthday)** · **30 Aug: 127/72 (AM, healthy)** · **31 Aug: 138/92 (AM, diastolic ⚠️ high)** · **1 Sep: 131/67 (AM, healthy)** · **2 Sep: 129/69 (AM, healthy)** — latest captured
 
 *Full bloodwork (kidney, liver, lipids, FBC, thyroid, BNP, ferritin, phosphate): see `CLINICAL_SUMMARY_COMFORT.md`.*
 
@@ -350,7 +350,40 @@ Date-range snapshot:
 - **Dinner:** Boiled yam with kontomire stew (ate all). Log: Mood Fair, Appetite Fair, Swelling Same, Bowel Normal, Skin Okay.
 - **Note (potentially relevant):** lunch contained fried fish + shito (fried/processed) — may relate to the evening regurgitation. Monitor recurrence; consider smaller portions / earlier dinner / more upright after meals.
 
-> **Backfill complete (31 Aug 26):** All of 5–31 Aug captured. 🎂 **28 Aug = 92nd birthday.** ⚠️ Flags for doctor: recurring insomnia + back/hip pain (28 Aug) + **new: regurgitation (31 Aug eve)** + 10 Aug dose refused + 16 Aug AM BP 166 + 18/20/22/28 Aug AM BP at/above 140 + 31 Aug diastolic 92 + 21 Aug AM no dose. Latest: 31 Aug (BP 138/92 AM, hypertensive-diastolic). **Relocated to new home 20 Aug.**
+### 1 Sep 2026 (Tue) — Morning
+- **Status:** Feeling fine, slept well.
+- **Vitals:** BP 131/67, Pulse 82, Temp 36.2°C ✅ healthy
+- **Medication:** Furosemide 20mg given at 9:05am.
+- **Check-in:** Breakfast corn dough porridge (ate all). Log: Mood Fair, Appetite Fair, **Swelling Reduced**, Urine Normal, Skin Okay.
+
+### 1 Sep 2026 (Tue) — Afternoon
+- **Status:** Nephew visited; interactions with him. *(corrected: no out-of-home trip occurred on 1 Sep — earlier note of an outing was in error.)*
+- **Vitals:** none recorded.
+- **Lunch:** Jollof with fried plantain (ate all — jollof/plantain not on plan, but special day). Log: Mood Fair, Appetite Fair, Swelling Same, Urine Normal, Skin Okay.
+
+### 1 Sep 2026 (Tue) — Evening
+- **Status:** TV; room. *(no outing that day — corrected.)*
+- **Vitals:** none recorded.
+- **Dinner:** Boiled yam with salad (ate all except some salad — appetite a little soft). Warm milk before bed. Log: Mood Fair, Appetite Fair, Swelling Same, Bowel Normal, Skin Okay.
+
+### 2 Sep 2026 (Wed) — Morning
+- **Status:** Feeling fine, slept well; chat with carer (30 min); window opened.
+- **Vitals:** BP 129/69, Pulse 77, Temp 36.0°C ✅ healthy
+- **Medication:** Furosemide 20mg given at 9:05am.
+- **Check-in:** Breakfast **pawpaw + 2 boiled eggs** (ate all — good, protein + allowed fruit). ⚠️ **Urine: YELLOWISH** (new log-key descriptor — possible mild dehydration; note). Log: Mood Fair, Appetite Fair, Swelling Same, Urine Yellowish, Skin Okay.
+
+### 2 Sep 2026 (Wed) — Afternoon
+- **Status:** Grandson + son visited; watched TV with grandsons. 😔 **Complained she does not go out** — **called her sister Felicia** to plan an outing; decided on **LEGON BOTANICAL GARDENS** (she'd first considered Oyarifa Mall, then Aburi — settled on Legon).
+- **Vitals:** none recorded.
+- **Lunch:** **Ɛtɔ (mashed yam/plantain) with groundnut + boiled eggs** (ate all with grandsons), then **Banku with gravy + shito + fried fish** (ate all). Fruit: **pear** (ate all — allowed). Log: Mood Fair, Appetite Fair, Swelling Same, Urine Normal, Skin Okay. *(note: generous lunch — groundnut + shito + fried fish — high sodium; may relate to prior regurgitation pattern)*
+- **Planned outing:** **3 Sep — LEGON BOTANICAL GARDENS** (with sister Felicia + family). Encourage — great for mood/wellbeing. Watch stamina, hydration (urine was yellowish), and keep a comfortable pace.
+
+### 2 Sep 2026 (Wed) — Evening
+- **Status:** TV with grandsons + son; **insecticide room spray** (windows closed, reopened 15 min); **foot soak** — lukewarm water + Epsom salt (15 min bubble), dried between toes, **Cetraben cream foot massage** (3 min). ⚠️ **Carer offered a back massage — she declined.**
+- **Vitals:** none recorded.
+- **Dinner:** Jacket potatoes (ate all). Log: Mood Fair, Appetite Fair, Swelling Same, Bowel Normal, Skin Okay.
+
+> **Backfill complete (2 Sep 26):** All of 4 Aug–2 Sep captured. 🎂 **28 Aug = 92nd birthday.** ⚠️ Flags for doctor: recurring insomnia + back/hip pain (28 Aug) + regurgitation (31 Aug) + 10 Aug dose refused + 16 Aug AM BP 166 + 18/20/22/28 Aug AM BP at/above 140 + 31 Aug diastolic 92 + 21 Aug AM no dose. Latest: 2 Sep (BP 129/69 AM ✅). 2 Sep: urine yellowish (dehydration note). **Relocated 20 Aug. 2 Sep: Mum complained she doesn't go out → planned 3 Sep trip to LEGON BOTANICAL GARDENS with sister Felicia.** *(Corrected: no 1 Sep outing; earlier McCarthy Hill note removed.)*
 
 ---
 

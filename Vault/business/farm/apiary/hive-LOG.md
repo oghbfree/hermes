@@ -161,8 +161,10 @@ linked_workflow: FARM_WORKFLOW.md
 |---|------|--------|--------|
 | 1 | **Wash absconded hives** | F-02 (lemon tree) + F-03 (open space) — clean thoroughly | ✅ Done — all 7 hives cleaned, baited & set |
 | 2 | **Bait & set spare hives** | 7 hives + 4 drinkers. Team: Kobby, Ahinful, Habib, Kanzoni | ✅ Done — 30/8/26 |
-| 3 | **Find dirty oil** | 1 gallon free ✅. **Need more** — Habib said he'll get some | 🟡 More needed |
+| 3 | **Find dirty oil** | 1 gallon free ✅. **Need more** — Habib said he'll get some | 🟡 More needed — Habib sourcing |
 | 4 | **Find welder for hive stands** | Design: 14mm ribbed rod, 2 inverted U-frames + 2 cross rails. **Expanded to 42 cm width** (1 cm clearance each side for 40 × 60 cm hive). 448 cm/stand. | ✅ **Done** — GHS 200 paid, 4 stands collected & in use at farm |
+| 5 | **Move sun-exposed hives to shade** | Afternoon sun exposed hives — relocate under tree cover | ✅ **Done** — Habib moved them |
+| 6 | **New door locks** | 2 locks bought 2/9 — GHS 150 each | ✅ Done |
 
 ### Freeman (Carpenter) — Hive Frames & Cover
 
@@ -171,7 +173,7 @@ linked_workflow: FARM_WORKFLOW.md
 | 1 | **Inspect existing hive frames** | Visit farm, assess condition of damaged frames | ✅ Done |
 | 2 | **Quote for new frames** | Per Kwesi's spec: 36 × 69 cm frame dimensions — **GHS 600 total job** | ✅ Quoted |
 | 3 | **Sample build** | 1 of each frame type (2 different sizes given) + 1 hive cover — **tested fit: good** ✅ | ✅ Done — **only need 5 of the bigger frames**, awaiting quotation |
-| 4 | **Full production run** | Samples fit ✅ — **only 5 of the bigger frames needed**, not 9 of each. Awaiting Freeman's quote for 5 frames only. | 🔄 Awaiting revised quote |
+| 4 | **Full production run** | Samples fit ✅ — **only 5 of the bigger frames needed**. Freeman has the sample — awaiting his quote. | 🔄 Awaiting Freeman's quote — sample dropped at gate for him to pick up |
 | 5 | **Payment status** | GHS 300 advanced 14/8/26 (GHS 170 = 2×4 wood, GHS 130 = deposit). Balance GHS 300 on completion | 🟡 Partial paid — samples ready |
 
 **Timeline**: GHS 300 sent 14/8/26 → ✅ samples tested (fit good) → awaiting Freeman's quote for 5 bigger frames → pay balance

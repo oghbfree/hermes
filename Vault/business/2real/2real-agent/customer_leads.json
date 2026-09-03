@@ -1772,5 +1772,151 @@
     "priority": "LOW",
     "last_checked": "2026-08-31T20:55:06.240424",
     "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-01 06:29",
+    "customer_msg": "Yes sir",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 1.0,
+    "priority": "LOW",
+    "last_checked": "2026-09-01T07:29:13.516324",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-01 08:52",
+    "customer_msg": "Xbox 360 CD for GTA V",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 2.6,
+    "priority": "LOW",
+    "last_checked": "2026-09-01T11:30:06.129147",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-01 08:59",
+    "customer_msg": "86714 is your Facebook confirmation code",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 2.5,
+    "priority": "LOW",
+    "last_checked": "2026-09-01T11:30:06.133106",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-01 09:07",
+    "customer_msg": "Fine",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "stock_found_but_missed",
+    "age_hours": 2.4,
+    "priority": "HIGH",
+    "last_checked": "2026-09-01T11:30:06.137505",
+    "checked_count": 1,
+    "match": {
+      "name": "Darlac",
+      "price": 285.0,
+      "stock": 1,
+      "variant": "Bypass Pruners Fine Expert"
+    }
+  },
+  {
+    "timestamp": "2026-09-01 09:49",
+    "customer_msg": "Hi Kofi",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 1.7,
+    "priority": "LOW",
+    "last_checked": "2026-09-01T11:30:06.149578",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-01 09:50",
+    "customer_msg": "This is Krystal, I just spoke with you please about the treadmill.",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 1.7,
+    "priority": "LOW",
+    "last_checked": "2026-09-01T11:30:06.153576",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-01 09:58",
+    "customer_msg": "El medad guest house",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 1.5,
+    "priority": "LOW",
+    "last_checked": "2026-09-01T11:30:06.157622",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-01 10:46",
+    "customer_msg": "Ok I’m waiting",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 0.7,
+    "priority": "LOW",
+    "last_checked": "2026-09-01T11:30:06.162120",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-01 10:50",
+    "customer_msg": "[audio could not be downloaded]",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 0.7,
+    "priority": "LOW",
+    "last_checked": "2026-09-01T11:30:06.166128",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-01 11:03",
+    "customer_msg": "Yes he’s on his way to your place",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 0.5,
+    "priority": "LOW",
+    "last_checked": "2026-09-01T11:30:06.170054",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-01 11:06",
+    "customer_msg": "Should I give him this number to call you?",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 0.4,
+    "priority": "LOW",
+    "last_checked": "2026-09-01T11:30:06.173880",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-01 11:07",
+    "customer_msg": "He’ll call you shortly",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 0.4,
+    "priority": "LOW",
+    "last_checked": "2026-09-01T11:30:06.177412",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-01 11:21",
+    "customer_msg": "Yes I’m sending the money now",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 0.2,
+    "priority": "LOW",
+    "last_checked": "2026-09-01T11:30:06.180899",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-01 11:25",
+    "customer_msg": "[document received]",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 0.1,
+    "priority": "LOW",
+    "last_checked": "2026-09-01T11:30:06.184422",
+    "checked_count": 1
   }
 ]

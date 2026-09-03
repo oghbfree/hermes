@@ -50,6 +50,11 @@
 ## 2014 high-fever GP consultation (context)
 - 22/12/2014 (8 months old): high fever overnight, irritable, temp 38.7 post-Calpol, "? sepsis", vomiting — acute illness, managed by GP. (No long-term bearing.)
 
+## Handwriting baseline (2026)
+- **Sample (01/09/2026):** `care/handwriting-samples/` — video (process, pencil grip) + photo (coloured-in end product). Wrote full name **"Robert Kobena Blankson" legibly**, vertical column; letters C, G, 1, 2 correctly formed; **no reversals** (c/g reversal from 2020 resolved).
+- **Trajectory:** OT Jan 2018 = "not motivated by mark-making, 4-finger grip, emerging scribbles" → Sep 2026 = full name legible. **Major fine-motor/ literacy progress.**
+- Use as the pre-assessment baseline for the **11 Sept UGMC neuropsych** appointment; collect a new sample ~every 6 months.
+
 ## Age & school context now
 - DOB 29/04/2014 → **~12 years old (2026)**. This is the "12-year-old with autism" (as stated in the advert).
 - Historical school: Edmund Waller Primary (London). Present-day: **Kansview Montessori, Oyarifa, Ghana** (see `kids/KIDS_MASTER.md`).

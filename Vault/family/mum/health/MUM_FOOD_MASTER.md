@@ -64,8 +64,10 @@
 | 28 Aug 🎂 | Tom brown (ate all) | **Jollof + stew + plantain + dry salad** + **birthday cake** | Kenkey + gravy + shito + fried fish |
 | 30 Aug | Tom brown (ate all) | Waakye + shito + gravy stew + salad | Fried plantain with boiled beans |
 | 31 Aug | Pawpaw + scrambled eggs | Kenkey + gravy stew + shito + fried fish | Boiled yam with kontomire stew |
+| 1 Sep | Corn dough porridge | Jollof with fried plantain | Boiled yam with salad (left some) |
+| 2 Sep | Pawpaw + 2 boiled eggs | Ɛtɔ w/ groundnut + boiled eggs, then Banku + gravy + shito + fried fish | Jacket potatoes |
 
-> **Backfill complete (31 Aug 26):** Meals logged for 5–31 Aug. 🎂 **Birthday 28 Aug** logged. **31 Aug:** pawpaw+scrambled eggs (good breakfast), kenkey+shito+fried fish lunch, boiled yam+kontomire dinner. Shito, fried fish, grains still appearing (phase-out ongoing). Left some fruit mix (appetite soft). New: **regurgitation 31 Aug eve** — see medical master. See market list in `MUM_MEDICAL_MASTER.md`.
+> **Backfill complete (2 Sep 26):** Meals logged for 5 Aug–2 Sep. 🎂 **Birthday 28 Aug** logged. **1 Sep:** corn-dough / jollof+fried plantain / yam+salad (no outing — corrected). **2 Sep:** pawpaw+eggs / Ɛtɔ-groundnut-eggs + banku-shito-fried fish / jacket potatoes — generous high-sodium lunch (shito/fried/groundnut). Shito, fried, grains still appearing (phase-out ongoing). Urine yellowish 2 Sep (hydration note). **Planned 3 Sep — Legon Botanical Gardens (sister Felicia).** See medical master for flags.
 
 ---
 

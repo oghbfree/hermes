@@ -122,3 +122,4 @@ Useful to trace the full hire history. Locate in session DB via `@session:defaul
 - **Stephanie duties/task list:** `Vault/business/2real/Nursing/STEPHANIE_DUTIES_AND_TASKS.md` (household duties, cooking = copper pots only + Himalayan salt + local rice, daily window/radio checks, packing/move checklist)
 - **Stephanie morning routine (new house):** `Vault/business/2real/Nursing/STEPHANIE_MORNING_ROUTINE.md` (compound cleaning, security morning→evening, sofa/cushion setup, no-flies, bins, windows/doors)
 - **Stephanie 60-day review (17 Aug 26):** `Vault/business/2real/Nursing/STEPHANIE_REVIEW_60DAY_2026-08-17.md`
+- **New-house security/camera (17 Aug 26):** `Vault/business/2real/Nursing/NEW_HOUSE_SECURITY_CAMERA.md` — VM380 Pro solar camera (installed by Frederick), MTN SIM GH¢25 (15 sim/7 data/3 airtime)

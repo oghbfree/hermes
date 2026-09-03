@@ -2046,3 +2046,177 @@ Ok
 - **Chat:** 8474440261854
 - **Customer:** Ok
 - **Reply:** We will get back to you shortly.
+
+## 2026-09-01 06:29
+- **Channel:** whatsapp
+- **Chat:** 153391149879495
+- **Customer:** Yes sir
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-01 06:37
+- **Channel:** whatsapp
+- **Chat:** 184576219562185
+- **Customer:** [image received]
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-01 06:37
+- **Channel:** whatsapp
+- **Chat:** 184576219562185
+- **Customer:** [image received]
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-01 06:38
+- **Channel:** whatsapp
+- **Chat:** 184576219562185
+- **Customer:** Oh ok
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-01 06:42
+- **Channel:** whatsapp
+- **Chat:** 184576219562185
+- **Customer:** Ok
+- **Reply:** [acknowledgment - no reply sent]
+
+## 2026-09-01 06:43
+- **Channel:** whatsapp
+- **Chat:** 195563416994045
+- **Customer:** Good morning
+Well noted
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-01 08:31
+- **Channel:** whatsapp
+- **Chat:** 132582016569364
+- **Customer:** Hi
+Hi
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-01 08:52
+- **Channel:** whatsapp
+- **Chat:** 132582016569364
+- **Customer:** Xbox 360 CD for GTA V
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-01 08:59
+- **Channel:** whatsapp
+- **Chat:** 78971597271125
+- **Customer:** 86714 is your Facebook confirmation code
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-01 09:07
+- **Channel:** whatsapp
+- **Chat:** 101920278614030
+- **Customer:** Fine
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-01 09:29
+- **Channel:** whatsapp
+- **Chat:** 153391149879495
+- **Customer:** Yes 
+I was a bit tight
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-01 09:42
+- **Channel:** whatsapp
+- **Chat:** 102147358212326
+- **Customer:** Yes sir
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-01 09:42
+- **Channel:** whatsapp
+- **Chat:** 102147358212326
+- **Customer:** Cool
+- **Reply:** [acknowledgment - no reply sent]
+
+## 2026-09-01 09:49
+- **Channel:** whatsapp
+- **Chat:** 150242553004256
+- **Customer:** Hi Kofi
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-01 09:50
+- **Channel:** whatsapp
+- **Chat:** 150242553004256
+- **Customer:** This is Krystal, I just spoke with you please about the treadmill.
+[Reaction: 👍 to 3EB0EA6B43C30B43CC7061]
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-01 09:50
+- **Channel:** whatsapp
+- **Chat:** 150242553004256
+- **Customer:** Sure
+- **Reply:** [acknowledgment - no reply sent]
+
+## 2026-09-01 09:58
+- **Channel:** whatsapp
+- **Chat:** 150242553004256
+- **Customer:** El medad guest house
+Sector 5 Millennium city
+Kasoa.
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-01 10:10
+- **Channel:** whatsapp
+- **Chat:** 150242553004256
+- **Customer:** Ok
+- **Reply:** [acknowledgment - no reply sent]
+
+## 2026-09-01 10:46
+- **Channel:** whatsapp
+- **Chat:** 150242553004256
+- **Customer:** Ok I’m waiting
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-01 10:50
+- **Channel:** whatsapp
+- **Chat:** 150242553004256
+- **Customer:** [audio could not be downloaded]
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-01 11:03
+- **Channel:** whatsapp
+- **Chat:** 150242553004256
+- **Customer:** Yes he’s on his way to your place
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-01 11:05
+- **Channel:** whatsapp
+- **Chat:** 150242553004256
+- **Customer:** Ok
+- **Reply:** [acknowledgment - no reply sent]
+
+## 2026-09-01 11:06
+- **Channel:** whatsapp
+- **Chat:** 150242553004256
+- **Customer:** Should I give him this number to call you?
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-01 11:07
+- **Channel:** whatsapp
+- **Chat:** 150242553004256
+- **Customer:** Ok
+- **Reply:** [acknowledgment - no reply sent]
+
+## 2026-09-01 11:07
+- **Channel:** whatsapp
+- **Chat:** 150242553004256
+- **Customer:** He’ll call you shortly
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-01 11:21
+- **Channel:** whatsapp
+- **Chat:** 150242553004256
+- **Customer:** Yes I’m sending the money now
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-01 11:25
+- **Channel:** whatsapp
+- **Chat:** 150242553004256
+- **Customer:** [document received]
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-01 11:25
+- **Channel:** whatsapp
+- **Chat:** 150242553004256
+- **Customer:** Ok
+- **Reply:** [acknowledgment - no reply sent]

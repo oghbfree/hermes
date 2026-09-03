@@ -680,5 +680,107 @@
     "date": "2026-08-31",
     "saved_at": "2026-08-31T00:47:58.398864",
     "updated_at": "2026-08-31T11:28:04.120440"
+  },
+  {
+    "active": 1078,
+    "reviewing": 10,
+    "draft": 1,
+    "declined": 0,
+    "closed": 103,
+    "followers": 327,
+    "feedback": 198,
+    "clients": 35,
+    "top_remaining": "500 of 500",
+    "top_expires": "19/09/26",
+    "whatsapp_ads_active": true,
+    "whatsapp_ads_until": "3 Sep 2026",
+    "balance_ghs": 0,
+    "top_items": [
+      {
+        "name": "Apple iPhone 12 Pro Max 128 GB",
+        "price": 3400,
+        "impressions": 2768,
+        "visitors": 515,
+        "chats": 20
+      },
+      {
+        "name": "Panasonic Lumix Digital Camera w/ battery",
+        "price": 980,
+        "impressions": 1336,
+        "visitors": 177,
+        "chats": 13
+      },
+      {
+        "name": "Apple Mac Mini 2GB HDD",
+        "price": 700,
+        "impressions": 1219,
+        "visitors": 228,
+        "chats": 3
+      },
+      {
+        "name": "Shop/Warehouse for Rent",
+        "price": 200000,
+        "impressions": 1143,
+        "visitors": 147,
+        "chats": 0
+      },
+      {
+        "name": "Kids Cycling Skating Helmet",
+        "price": 150,
+        "impressions": 1137,
+        "visitors": 81,
+        "chats": 8
+      },
+      {
+        "name": "42v 2a AC Adapter (Balance Scooter)",
+        "price": 700,
+        "impressions": 1136,
+        "visitors": 43,
+        "chats": 4
+      },
+      {
+        "name": "Bicycle Stands",
+        "price": 300,
+        "impressions": 1107,
+        "visitors": 53,
+        "chats": 2
+      },
+      {
+        "name": "Leapfrog 2-in-1 Touch Tablet & Laptop",
+        "price": 250,
+        "impressions": 1091,
+        "visitors": 378,
+        "chats": 1
+      },
+      {
+        "name": "Nintendo Wii + Pokemon Battle",
+        "price": 1150,
+        "impressions": 1079,
+        "visitors": 392,
+        "chats": 8
+      },
+      {
+        "name": "Yamaha PSR-150 61-Key Keyboard",
+        "price": 1400,
+        "impressions": 1026,
+        "visitors": 177,
+        "chats": 8
+      }
+    ],
+    "needs_attention": [
+      "Browser live-capture blocked (Chrome remote-debugging approval pending) - reporting fresh 04:36 scrape of all listings instead",
+      "Shop/Warehouse for Rent: 1143 impressions, 147 visitors, 0 chats - price/description problem",
+      "Only 1 product chat today (Panasonic Lumix) - engagement very low across the shop",
+      "0 balance - recharge to use TOP+ effectively"
+    ],
+    "action_items": [
+      "Put TOP+ on Panasonic Lumix Camera - only item getting chats today (1 today, 13 total)",
+      "Put TOP+ on Apple iPhone 12 Pro Max - top product impressions (2768), 515 visitors, 20 chats",
+      "Watch Shop/Warehouse for Rent - high traffic, zero chats, review pricing",
+      "WhatsApp ads expire 3 Sep - renew today"
+    ],
+    "date": "2026-09-01",
+    "saved_at": "2026-09-01T06:33:27.919007",
+    "updated_at": "2026-09-01T06:33:33.306430"
   }
 ]

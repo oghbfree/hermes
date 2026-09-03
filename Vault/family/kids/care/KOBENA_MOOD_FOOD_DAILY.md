@@ -62,3 +62,35 @@ I'll append the matching `### 2026-08-XX` section under the current month.
 | 🧩 Self-directed | **Slapping himself**; banged bed with fist when reaching for laptop while lying down |
 | 🧩 Play/soothe | Singing nursery rhymes |
 | 📝 Interpretation for care team | Refusal cue is consistent & clear (hand-shake + "no"); echolalia + self-slapping increase in stressful/asked-demand moments → supports the "advanced warning / low-demand / de-escalation" approach in the care framework |
+
+### 2026-08-24 (Mon)
+| Field | Notes |
+|-------|-------|
+| 💊 Morning | Activated charcoal with water |
+| 🍽️ ☀️ Breakfast (~1hr later) | Fried egg with onion |
+| ✍️ Handwriting task | Wrote name + letters for grandad (Dad's request — baseline sample for 11 Sept neuropsych) |
+| ✍️ Result | **He did well** — video captured. Photo available but is the COLOURED-IN version (couldn't photograph before he coloured it). Video is the better record |
+| 📝 Note | Video saved for dad + baseline record. Next time: photograph BEFORE offering crayons/colouring |
+
+### 2026-09-01 (Tue)
+| Field | Notes |
+|-------|-------|
+| 💊 Morning | Teaspoon activated charcoal with water · 💊 Vitamin C with water (later) |
+| 🍽️ ☀️ Breakfast | 3 eggs with onion and tomato |
+| 🍽️ ☀️ Lunch | Banku with gravy and fish |
+| 🍽️ 🌙 Dinner | Jacket potato with cheese and butter |
+| ✍️ Assessment of sample | **Wrote full name "Robert Kobena Blankson" legibly** in a vertical column — 3 words, correct letter forms, consistent sizing. Individual letters C, G, 1, 2 all correctly formed. **No letter reversals visible** — the c/g reversal issue from 2020 appears resolved |
+| ✍️ vs 2018 baseline | OT (Jan 2018) recorded "not motivated by mark-making, 4-fingered grip, scribbles with emerging circular patterns" → now writes full name legibly = major progress over ~4 years |
+| 📌 Use | Baseline sample for **11 Sept UGMC neuropsych appointment** + sent to grandad as requested |
+| 🏃 Outdoor / gross motor | Played on trampoline outside · rode Nerf scooter · kicked football around (good motor/varied activity session) |
+| 🧩 Self-lockout incident | Went out the gate, it shut behind him, **locked himself out**. He recognised he was in trouble — as soon as the door opened he **went straight inside and stood in the corner** (self-directed "time-out") |
+| 📝 Interpretation | Two positives worth noting: (1) **cause-and-effect awareness** — he connected his action (going out) to the outcome (locked out, trouble); (2) **self-regulation** — he removed himself to the corner unprompted, which mirrors the calm-down-corner strategy. Opportunity: use this as a gentle teaching moment (Dr Umar restorative style — "what happened? what do we do next time?") rather than extra punishment; the self-removal shows he already understands consequence |
+
+### 2026-09-02 (Wed)
+| Field | Notes |
+|-------|-------|
+| 💊 Morning | Teaspoon **activated charcoal with water** |
+| 🍽️ ☀️ Breakfast | 3 eggs, onion & tomato |
+| 🍽️ ☀️ Lunch | Banku, gravy & fish |
+| 🍽️ 🌙 Dinner | Jacket potato with cheese & butter |
+| 💊 Evening | Vitamin C with water |

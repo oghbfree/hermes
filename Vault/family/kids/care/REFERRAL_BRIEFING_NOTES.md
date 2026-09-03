@@ -125,7 +125,81 @@ There is **no known developmental diagnosis**. His motor milestones (per brother
 | **Phone** | +233 (0) 20 329 5292 / +233 (0) 24 724 1447 |
 | **Email** | info@missionclinicgh.com |
 | **Both seen same trip?** | Yes — different departments same location. Book Kobe with Neuro-paed + Nenyi with Psych (separate, back-to-back) |
-| **UGMC** | Keep registration active for routine/emergency care |
+| UGMC | Legon | Keep registration active for routine/emergency care |
+| **LHC Ghana (Life Healthcare Center)** | Central Accra ([lhcgh.com](https://lhcgh.com/)) | **Complementary resource** — dental, optical (vision checks), ENT, dietetics (natural/GFCF support). NOT a neurodevelopmental centre. Use for: 👁️ Kobe's vision check, 🦷 both boys' dental, 🥗 dietetics |
+
+## 📋 Useful contacts
+
+| Resource | Address/Contact | Best for |
+|---|---|---|
+| **Mission Clinic** | 50 Olympics St, Caprice · 020 329 5292 · info@missionclinicgh.com | 🅰️ Kobe → neuropsych · 🅱️ Nenyi → psych + PEERS® + speech |
+| **UGMC** | Legon · ugmedicalcentre.org | 🅰️ Kobe → Rare Disease Clinic (11 Sept) · 🅱️ Nenyi → Clinical Psychology (1 Sept) · Emergency backup |
+| **LHC Ghana** | [lhcgh.com](https://lhcgh.com/) · Central Accra | 👁️ Vision checks · 🦷 Dental · 🥗 Dietetics · General ENT |
+
+## 💰 Mission Clinic — booking status & costs (from their reply, 2 Sept)
+
+**Their message:** Forms reviewed → will be booked with the **Neuro Developmental Paediatrician**.
+
+| Option | Days | Consultation | Registration | Deposit before booking |
+|---|---|---|---|---|
+| **Fast track** | **Thursdays only** | **GH¢1,500** | GH¢120 | GH¢800 |
+| **Standard** | Mon / Tue / Wed / Fri | **GH¢850** | GH¢120 | GH¢500 |
+
+**Action taken (H):** Paid **GH¢1,000** (GH¢500 × 2 — Kobena + Nenyi) on 2/9/26 → targeting a **Monday appointment for both boys**.
+**Still owed at visit (per child, standard rate):** GH¢850 − 500 = **GH¢350 consultation balance + GH¢120 registration** = **GH¢470 each** (≈GH¢940 total outstanding).
+**Thursday fast-track = +GH¢650 per child** vs standard — not worth it unless timing is urgent.
+
+**Clinic contacts:** 020 329 5292 / 024 724 1447 · info@missionclinicgh.com
+
+---
+
+## 💰 Mission Clinic — Booking & Costs (confirmed 02/09/2026)
+
+Response after forms: **"Per forms filled out, we will book you to see the Neuro Developmental Paediatrician."**
+
+| Option | Days | Consultation | Registration | Deposit before booking |
+|---|---|---|---|---|
+| **Fast-track** | Thursdays only | **GH₵ 1,500** | GH₵ 120 | GH₵ 800 |
+| **Standard** | Mon, Tue, Wed, Fri | **GH₵ 850** | GH₵ 120 | GH₵ 500 |
+
+**Action taken:** Paid **GH₵ 1,000** (02/09/26) toward a **Monday (standard) appointment** for Kobena — Neuro Developmental Paediatrician. Expected remaining balance at visit: GH₵ 850 + 120 registration − 1,000 deposit ≈ **GH₵ 0 (covered)** — confirm with clinic whether the extra GH₵ 150 rolls over to the registration fee or is credited.
+
+> ⚠️ Note: Nenyi's PEERS®/psych pathway at Mission Clinic would be a **separate booking & cost** — confirm pricing when you call.
+
+---
+
+## 🏫 School Fees — Kansview 2026/27 Term 1 (paid 02/09/2026)
+
+**Bill:** Nenyi Essel & Kobena Herbert Blankson — resumes **9 September 2026**
+
+| Item | GH₵ | Status |
+|---|---|---|
+| Tuition | 6,000 | ✅ **PAID 02/09/26** |
+| Books | 2,000 | ⏳ cash |
+| Feeding | 2,000 | ⏳ cash |
+| Abacus | 1,000 | ⏳ cash |
+| Exams fee | 500 | ⏳ cash |
+| Maintenance | 200 | ⏳ cash |
+| Toiletries | 200 | ⏳ cash |
+| **TOTAL** | **11,900** | 6,000 paid → **5,900 cash outstanding** |
+
+Payment options: Cash at admin · MoMo 0241778605 (Obaahemaa Ntim-Barimah, ref "FEES + ward names", include withdrawal charges) · Bank (tuition only): Kansview Montessori School, Prudential Bank Adenta, A/C 0264004230014.
+
+---
+
+## 🏥 i-Able REHABILITATION — 4th provider (lead from Cornell, 02/09/26)
+
+**Location:** Adenta Rd, 25 Branter St, **Amrahia** (Dodowa side) · [Maps link](https://maps.app.goo.gl/6HMT2GbLfuEs7geK7)
+**Contact:** peepgy@yahoo.com · **+233 209 865 603**
+**Services seen at their Jan 2026 opening:** speech therapy, physiotherapy, OT, hearing (otoscopy) + visual acuity screening, BP/sugar/mobility/cognition checks.
+
+**Why it's interesting for us:**
+- **Cornell says an old consultant who has already assessed Kobena now works there** — continuity of clinical knowledge without repeating history. That's the single biggest advantage; the doctor already has the baseline.
+- On-site **speech + OT** = the two therapies both boys need, potentially in one place closer to Oyarifa than Mission (Caprice).
+- **Hearing + vision screening on-site** → could tick off the two outstanding checks (vision confirmation, hearing follow-up) cheaply.
+- Caveat: newer/smaller centre (opened Jan 2026) — verify the consultant's name/qualifications and their ASD experience before committing therapy hours.
+
+**Suggested action:** Call **+233 209 865 603**, ask for the consultant by name, and book an exploratory chat. If the consultant confirms they assessed Kobena before, request their records/notes to carry into the 11 Sept UGMC appointment.
 
 ---
 

@@ -17,3 +17,4 @@
 | Month | Date | Status | Notes |
 |-------|------|--------|-------|
 | July 2026 | 2026-07-04 | ✅ Sent | First logged check-in via this cron job |
+| August 2026 | 2026-09-01 | ✅ Nudge sent | Form 10-M (Aug 2026) not submitted — URGENT nudge sent to Agent Hermes group (John) per DoD (day ≤ 7). Ref TAX-AUD-202608-20260901-0705. |

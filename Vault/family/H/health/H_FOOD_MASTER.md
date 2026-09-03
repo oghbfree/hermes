@@ -393,6 +393,27 @@
 
 ---
 
+## September 2026
+
+### Tue 1 Sep *(logged via chat)*
+| Meal | Items |
+|------|-------|
+| ☀️ Morning | Activated charcoal with water (then waited 1 hour before eating) |
+| ☀️ Breakfast | Fried egg with onion |
+| ☀️ Lunch | Salad |
+| 🌙 Dinner | Oxtail stew with rice |
+
+### Wed 2 Sep *(logged via chat)*
+| Meal | Items |
+|------|-------|
+| ☀️ Morning | Activated charcoal with water |
+| ☀️ Breakfast | 3 eggs with onion and tomato |
+| ☀️ Lunch | Banku with gravy and fish |
+| 🌙 Dinner | Jacket potato with cheese and butter |
+| 💊 Supplement | Vitamin C (pm) |
+
+---
+
 ## 📈 Nutritional Trends *(updated with gap-fill data)*
 
 | Metric | Observation |

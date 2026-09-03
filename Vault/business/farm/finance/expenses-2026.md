@@ -52,6 +52,14 @@ linked_workflow: FARM_WORKFLOW.md
 
 ---
 
+## September 2026
+
+| Date | Item | Payee | Purpose | Amount (GHS) |
+|------|------|-------|---------|--------------|
+| 2026-09-02 | 2× door locks | — | New locks for farm door — GHS 150 each | 300 |
+
+---
+
 ## Notes
 - Habib claims glyphosate spray DONE — verify before planting
 - All amounts are approximate where (—) shown

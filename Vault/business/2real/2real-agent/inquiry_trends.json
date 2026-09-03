@@ -280,5 +280,58 @@
       "unknown_count": 0
     },
     "saved_at": "2026-08-31T11:28:04.149508"
+  },
+  {
+    "date": "2026-09-01",
+    "trends": {
+      "total_inquiries": 275,
+      "unresolved_count": 0,
+      "top_keywords": [
+        {
+          "word": "received",
+          "count": 50
+        },
+        {
+          "word": "image",
+          "count": 49
+        },
+        {
+          "word": "okay",
+          "count": 14
+        },
+        {
+          "word": "good",
+          "count": 12
+        },
+        {
+          "word": "pls",
+          "count": 9
+        },
+        {
+          "word": "one",
+          "count": 9
+        },
+        {
+          "word": "morning",
+          "count": 8
+        },
+        {
+          "word": "let",
+          "count": 7
+        },
+        {
+          "word": "location",
+          "count": 7
+        },
+        {
+          "word": "send",
+          "count": 6
+        }
+      ],
+      "items_in_stock_missed": [],
+      "items_customers_want_not_in_stock": [],
+      "unknown_count": 0
+    },
+    "saved_at": "2026-09-01T06:33:33.338581"
   }
 ]

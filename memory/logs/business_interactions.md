@@ -92,3 +92,13 @@
 - **Type:** Morning check-in (store status, sales, stock, issues, needs)
 - **Inventory:** 1049 total items, 665 in stock, 384 out of stock, 480 low stock (≤2)
 - **Notes:** 79th consecutive WhatsApp failure. WhatsApp bridge remains in fatal/whatsapp_not_paired state since 2026-06-07. Telegram fallback via hermes send working reliably. Inventory snapshot from Vault/business/2real/2real-agent/inventory_agent.json (current). Sent "Good morning Sammy! Quick check-in for Wednesday..." with 5-point checklist.| 2026-07-15 | 08:04:01 | John (Sales & Marketing) | Business morning check-in (school partnerships, Jiji, Zobase) | Delivered (Telegram fallback) | WhatsApp bridge offline (fatal/whatsapp_not_paired); inventory: 1049 total, 665 in stock, 384 OOS, 480 low stock |
+
+## 2026-09-01 07:02 — Weekly Tuesday Check-In → Kanzoni (Farm/Beekeeping Associate)
+- **Channel:** WhatsApp (bridge live)
+- **Target:** whatsapp:233248957794
+- **Status:** Delivered ✅ (hermes send exit 0)
+- **Type:** Weekly Tuesday rapport check-in
+- **Variation:** Template A (ISO week 36 — even)
+- **Message:** "Hey Kanzoni! How are you doing? How's the family? Hope everything is going well. Any updates on your end?"
+- **Confirmation:** ✅ sent to Telegram topic 2
+- **Notes:** WhatsApp bridge restored and paired — first direct WhatsApp Kanzoni check-in after the long fatal/whatsapp_not_paired stretch. Kanzoni is the farm/beekeeping associate (230 coconut trees, plantain, hive coordination).
