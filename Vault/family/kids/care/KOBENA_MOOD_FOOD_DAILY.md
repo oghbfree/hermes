@@ -94,3 +94,15 @@ I'll append the matching `### 2026-08-XX` section under the current month.
 | 🍽️ ☀️ Lunch | Banku, gravy & fish |
 | 🍽️ 🌙 Dinner | Jacket potato with cheese & butter |
 | 💊 Evening | Vitamin C with water |
+
+### 2026-09-03 (Thu)
+| Field | Notes |
+|-------|-------|
+| ☀️ Breakfast | **3 fried eggs** (Kobena) · Crunchy Nut cornflakes (Nenyi) |
+| 🍽️ ☀️ Lunch | **Brown basmati rice with lamb stew** (both boys) |
+| 🍽️ 🌙 Dinner | TBD |
+| 🏃 Morning block | Outdoor obstacle course (trampoline → scooter → ball target) — done with both |
+| 🧱 Mid-morning block | Lego build-then-dismantle (Kobe) + drawing-the-build (Nenyi) — done |
+| 📚 **NEW — Nenyi reading aloud** | Read out loud **nicely** — clear and confident. Big step for the articulation work — acknowledge it specifically |
+| 🎮 **NEW — Kobena: LeapFrog RocketTwist** | New game, engaged and playing. Handheld/interactive — good fine-motor + cause-effect fit for him |
+| 📝 Note | Crunchy Nut = sugared cereal — fine occasionally, but the diet direction prefers lower-sugar breakfasts for Nenyi (e.g. oats, eggs). Not a battle today, just watch frequency |

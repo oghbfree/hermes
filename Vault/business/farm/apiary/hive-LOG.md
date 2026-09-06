@@ -23,7 +23,7 @@ linked_workflow: FARM_WORKFLOW.md
 | F-01 | Farm field (near lemon tree) | — | Active | — | 2026-08-30 | 🟡 Needs GPS | Brood present |
 | F-02 | Farm field (near lemon) | — | Active | — | 2026-08-30 | 🟡 Needs GPS | Swept, cleaned, rebaited |
 | F-03 | Farm field (open space) | — | Active — wax moth | — | 2026-08-30 | 🟡 Needs GPS | Moved to open space, wax moth attack |
-| F-04 to F-07 | Farm | — | Baited & set | — | 2026-08-30 | 🟡 Needs GPS | New hives from room — cleaned, baited, set |
+| F-04 to F-07 | Farm | — | Baited & set — awaiting swarm | — | 2026-08-30 | 🟡 Needs GPS | New hives from room — cleaned, baited, set. If unpopulated, Kwasi has 2 populated hives to buy |
 
 ---
 
@@ -165,6 +165,7 @@ linked_workflow: FARM_WORKFLOW.md
 | 4 | **Find welder for hive stands** | Design: 14mm ribbed rod, 2 inverted U-frames + 2 cross rails. **Expanded to 42 cm width** (1 cm clearance each side for 40 × 60 cm hive). 448 cm/stand. | ✅ **Done** — GHS 200 paid, 4 stands collected & in use at farm |
 | 5 | **Move sun-exposed hives to shade** | Afternoon sun exposed hives — relocate under tree cover | ✅ **Done** — Habib moved them |
 | 6 | **New door locks** | 2 locks bought 2/9 — GHS 150 each | ✅ Done |
+| 7 | **Habib absent 4/9–5/9** | Funeral | 🔄 Back 6/9 |
 
 ### Freeman (Carpenter) — Hive Frames & Cover
 
@@ -173,10 +174,10 @@ linked_workflow: FARM_WORKFLOW.md
 | 1 | **Inspect existing hive frames** | Visit farm, assess condition of damaged frames | ✅ Done |
 | 2 | **Quote for new frames** | Per Kwesi's spec: 36 × 69 cm frame dimensions — **GHS 600 total job** | ✅ Quoted |
 | 3 | **Sample build** | 1 of each frame type (2 different sizes given) + 1 hive cover — **tested fit: good** ✅ | ✅ Done — **only need 5 of the bigger frames**, awaiting quotation |
-| 4 | **Full production run** | Samples fit ✅ — **only 5 of the bigger frames needed**. Freeman has the sample — awaiting his quote. | 🔄 Awaiting Freeman's quote — sample dropped at gate for him to pick up |
+| 4 | **Full production run** | Samples fit ✅ — **only 5 of the bigger frames needed**. Freeman has the sample — awaiting his quote. | 🔄 **Freeman quoted GHS 480** (180 wood+cut, 50 nails, 250 workmanship). H says 250 workmanship too much — told him to come down. |
 | 5 | **Payment status** | GHS 300 advanced 14/8/26 (GHS 170 = 2×4 wood, GHS 130 = deposit). Balance GHS 300 on completion | 🟡 Partial paid — samples ready |
 
-**Timeline**: GHS 300 sent 14/8/26 → ✅ samples tested (fit good) → awaiting Freeman's quote for 5 bigger frames → pay balance
+**Timeline**: GHS 300 sent 14/8/26 → ✅ samples tested (fit good) → awaiting Freeman's revised quote for 5 bigger frames (quoted 480, workmanship too high) → pay balance
 
 ---
 

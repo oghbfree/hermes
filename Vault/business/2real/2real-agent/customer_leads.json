@@ -1918,5 +1918,503 @@
     "priority": "LOW",
     "last_checked": "2026-09-01T11:30:06.184422",
     "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-03 08:38",
+    "customer_msg": "I checked i didnt see it,so am waiting for my husband to come and check it the evening please",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 4.9,
+    "priority": "HIGH",
+    "last_checked": "2026-09-03T13:33:41.104037",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-03 08:38",
+    "customer_msg": "Oh",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 4.9,
+    "priority": "HIGH",
+    "last_checked": "2026-09-03T13:33:41.112050",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-03 08:38",
+    "customer_msg": "Yeah do you have some",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 4.9,
+    "priority": "HIGH",
+    "last_checked": "2026-09-03T13:33:41.115971",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-03 08:38",
+    "customer_msg": "I will pay and it willl be given to my husband",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 4.9,
+    "priority": "HIGH",
+    "last_checked": "2026-09-03T13:33:41.119970",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-03 08:38",
+    "customer_msg": "Helloo",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 4.9,
+    "priority": "HIGH",
+    "last_checked": "2026-09-03T13:33:41.123814",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-03 08:38",
+    "customer_msg": "There's a little bit difference in the packaging... Is your blink camera original",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 4.9,
+    "priority": "HIGH",
+    "last_checked": "2026-09-03T13:33:41.131910",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-03 08:38",
+    "customer_msg": "Can we do the delivery today",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 4.9,
+    "priority": "HIGH",
+    "last_checked": "2026-09-03T13:33:41.135845",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-03 08:38",
+    "customer_msg": "Will you be available on Saturday?",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 4.9,
+    "priority": "HIGH",
+    "last_checked": "2026-09-03T13:33:41.143871",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-03 08:38",
+    "customer_msg": "Pls the video",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "stock_found_but_missed",
+    "age_hours": 4.9,
+    "priority": "HIGH",
+    "last_checked": "2026-09-03T13:33:41.151598",
+    "checked_count": 1,
+    "match": {
+      "name": "Blyss",
+      "price": 1800.0,
+      "stock": 1,
+      "variant": "Uban Video Intercom And Outdoor Button"
+    }
+  },
+  {
+    "timestamp": "2026-09-03 08:38",
+    "customer_msg": "Happy new month",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 4.9,
+    "priority": "HIGH",
+    "last_checked": "2026-09-03T13:33:41.155477",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-03 08:38",
+    "customer_msg": "What time does your shop close? I'll leave Dansoman in about 30 minutes.",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 4.9,
+    "priority": "HIGH",
+    "last_checked": "2026-09-03T13:33:41.159820",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-03 08:39",
+    "customer_msg": "Okay boss",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 4.9,
+    "priority": "HIGH",
+    "last_checked": "2026-09-03T13:33:41.185884",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-03 08:39",
+    "customer_msg": "Is available",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 4.9,
+    "priority": "HIGH",
+    "last_checked": "2026-09-03T13:33:41.190295",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-03 08:39",
+    "customer_msg": "Sup?",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 4.9,
+    "priority": "HIGH",
+    "last_checked": "2026-09-03T13:33:41.194352",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-05 11:31",
+    "customer_msg": "This what I want to make enquiries about",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 3.6,
+    "priority": "LOW",
+    "last_checked": "2026-09-05T15:06:05.433924",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-05 11:31",
+    "customer_msg": "pls do u have this same size ?",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 3.6,
+    "priority": "LOW",
+    "last_checked": "2026-09-05T15:06:05.437917",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-05 11:31",
+    "customer_msg": "hi how are u",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 3.6,
+    "priority": "LOW",
+    "last_checked": "2026-09-05T15:06:05.465876",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-05 11:31",
+    "customer_msg": "School bill for both kids is",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 3.6,
+    "priority": "LOW",
+    "last_checked": "2026-09-05T15:06:05.470071",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-05 11:32",
+    "customer_msg": "At work cant talk",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 3.6,
+    "priority": "LOW",
+    "last_checked": "2026-09-05T15:06:05.474418",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-05 11:32",
+    "customer_msg": "No please",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "out_of_stock",
+    "age_hours": 3.6,
+    "priority": "MEDIUM",
+    "last_checked": "2026-09-05T15:06:05.490580",
+    "checked_count": 1,
+    "match": {
+      "name": "Bosch",
+      "price": 300.0,
+      "stock": 0,
+      "cost": 60.0
+    }
+  },
+  {
+    "timestamp": "2026-09-05 11:32",
+    "customer_msg": "Good evening",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 3.6,
+    "priority": "LOW",
+    "last_checked": "2026-09-05T15:06:05.494557",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-05 11:32",
+    "customer_msg": "Please i will like to apply for the robotic job",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 3.6,
+    "priority": "LOW",
+    "last_checked": "2026-09-05T15:06:05.502837",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-05 11:32",
+    "customer_msg": "https://jiji.com.gh/accra-metropolitan/stationery/stanley-tr250-sharpshooter-plus-heavy-duty-staple-nail-gun-xrqvaka8fDq0OIXasZx2vyv0.html",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 3.6,
+    "priority": "LOW",
+    "last_checked": "2026-09-05T15:06:05.506854",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-05 11:32",
+    "customer_msg": "The breakdown is in this letter and they stated in the letter that when you buy the pay as you go is when they will take your debt,meaning All these while is me and my husband who has bern paying that your debt and it will not happen again  period",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 3.6,
+    "priority": "LOW",
+    "last_checked": "2026-09-05T15:06:05.514652",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-05 11:32",
+    "customer_msg": "Good to hear",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 3.6,
+    "priority": "LOW",
+    "last_checked": "2026-09-05T15:06:05.518776",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-05 11:32",
+    "customer_msg": "This is the issue now",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 3.6,
+    "priority": "LOW",
+    "last_checked": "2026-09-05T15:06:05.526784",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-05 11:32",
+    "customer_msg": "At Burma Camp Accra.",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 3.6,
+    "priority": "LOW",
+    "last_checked": "2026-09-05T15:06:05.534880",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-05 11:32",
+    "customer_msg": "I have this screenshot from my bank account which shows i bought gas and electric from Edf 2 days ago,so screenshot your proof and date from your bank account and let me see,if you give me that proof i will give you back your £30 period",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 3.6,
+    "priority": "LOW",
+    "last_checked": "2026-09-05T15:06:05.539028",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-05 11:32",
+    "customer_msg": "Digital Spirit level",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "stock_found_but_missed",
+    "age_hours": 3.6,
+    "priority": "HIGH",
+    "last_checked": "2026-09-05T15:06:05.542979",
+    "checked_count": 1,
+    "match": {
+      "name": "Ingco",
+      "price": 30.0,
+      "stock": 20,
+      "variant": "Mini Spirit Level 225mm HMSL01030"
+    }
+  },
+  {
+    "timestamp": "2026-09-05 11:32",
+    "customer_msg": "Okay,",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 3.6,
+    "priority": "LOW",
+    "last_checked": "2026-09-05T15:06:05.551177",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-05 11:32",
+    "customer_msg": "Okay will call u",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 3.6,
+    "priority": "LOW",
+    "last_checked": "2026-09-05T15:06:05.555044",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-05 11:32",
+    "customer_msg": "i need the dimension",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 3.6,
+    "priority": "LOW",
+    "last_checked": "2026-09-05T15:06:05.558887",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-05 11:32",
+    "customer_msg": "Why there is holes ?",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 3.6,
+    "priority": "LOW",
+    "last_checked": "2026-09-05T15:06:05.562712",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-05 11:33",
+    "customer_msg": "pls",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 3.6,
+    "priority": "LOW",
+    "last_checked": "2026-09-05T15:06:05.570880",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-05 11:33",
+    "customer_msg": "Good morning sir",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 3.6,
+    "priority": "LOW",
+    "last_checked": "2026-09-05T15:06:05.574714",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-05 11:33",
+    "customer_msg": "https://jiji.com.gh/accra-metropolitan/stationery/stanley-tr250-sharpshooter-plus-heavy-duty-staple-nail-gun-xrqvaka8fDq0OIXasZx2vyv0.html",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 3.6,
+    "priority": "LOW",
+    "last_checked": "2026-09-05T15:06:05.578721",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-05 11:33",
+    "customer_msg": "Alright I will wait for him",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 3.6,
+    "priority": "LOW",
+    "last_checked": "2026-09-05T15:06:05.583027",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-05 11:36",
+    "customer_msg": "Yes I'm female",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 3.5,
+    "priority": "LOW",
+    "last_checked": "2026-09-05T15:06:05.587031",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-05 11:37",
+    "customer_msg": "The payment number",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 3.5,
+    "priority": "LOW",
+    "last_checked": "2026-09-05T15:06:05.591011",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-05 11:45",
+    "customer_msg": "Save my number",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 3.4,
+    "priority": "LOW",
+    "last_checked": "2026-09-05T15:06:05.599572",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-05 11:45",
+    "customer_msg": "I'll call you when i get to Kumasi",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 3.4,
+    "priority": "LOW",
+    "last_checked": "2026-09-05T15:06:05.603470",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-05 11:46",
+    "customer_msg": "The name is",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 3.3,
+    "priority": "LOW",
+    "last_checked": "2026-09-05T15:06:05.607331",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-05 11:46",
+    "customer_msg": "Do you sell starlink",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 3.3,
+    "priority": "LOW",
+    "last_checked": "2026-09-05T15:06:05.611348",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-05 11:56",
+    "customer_msg": "[Reaction: 👍🏽 to A5F7F2A587152BD32ECF251E763097FD]",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 3.2,
+    "priority": "LOW",
+    "last_checked": "2026-09-05T15:06:05.624590",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-05 12:54",
+    "customer_msg": "I have received it.",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 2.2,
+    "priority": "LOW",
+    "last_checked": "2026-09-05T15:06:05.631873",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-05 12:57",
+    "customer_msg": "I have a computer science diploma",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 2.2,
+    "priority": "LOW",
+    "last_checked": "2026-09-05T15:06:05.635245",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-05 13:09",
+    "customer_msg": "What number did u want me to call",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 2.0,
+    "priority": "LOW",
+    "last_checked": "2026-09-05T15:06:05.638701",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-05 14:04",
+    "customer_msg": "Thanks I just received the mifi",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 1.0,
+    "priority": "LOW",
+    "last_checked": "2026-09-05T15:06:05.646010",
+    "checked_count": 1
   }
 ]

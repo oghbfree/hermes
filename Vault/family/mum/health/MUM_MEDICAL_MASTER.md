@@ -55,7 +55,7 @@ Date-range snapshot:
 - 25 Jul: 108–127/60–63 · 26 Jul: 127–128/66–72 · 27 Jul: 112–126/60–72
 - 28 Jul: 122–134/72–78 · 29 Jul: 120–127/60–67 · 30 Jul: 126–136/68–78
 - 31 Jul: 121–126/60–64 · 1 Aug: 118–127/62–63 · 3 Aug: 127–135/71–72 · 4 Aug: 126/75
-- 5 Aug: 125/72 · 6 Aug: 124/62–126/59 · **7 Aug: 118/60–130/73** · **8 Aug: 113/65–136/76** · 9 Aug: 120/68–125/66 · **10 Aug: 122/77 (evening dose refused)** · **11 Aug: 123/73–138/79** · **13 Aug: 122/78** · **14 Aug: 137/79–144/82 (eve above 140)** · **15 Aug: 124–130/72–79** · **16 Aug: 132/72 (AM), early-AM 166/79 (⚠️ high)** · **17 Aug: 130/77** · **18 Aug: 139–140/72–75** · **19 Aug: 132–136/72–75** · **20 Aug: 142/76 (AM, ⚠️ above 140)** · **21 Aug: 113/69 (eve, no AM reading — dose held)** · **22 Aug: 140/77 (AM, ⚠️ at threshold)** · **23 Aug: 119/82 (eve, healthy)** · **24 Aug: 130/76 (AM, healthy)** · **25 Aug: 126/74 (AM, healthy)** · **26 Aug: 136/79–139/76 (AM+eve)** · **28 Aug: 142/71 (AM, ⚠️ above 140, birthday)** · **30 Aug: 127/72 (AM, healthy)** · **31 Aug: 138/92 (AM, diastolic ⚠️ high)** · **1 Sep: 131/67 (AM, healthy)** · **2 Sep: 129/69 (AM, healthy)** — latest captured
+- 5 Aug: 125/72 · 6 Aug: 124/62–126/59 · **7 Aug: 118/60–130/73** · **8 Aug: 113/65–136/76** · 9 Aug: 120/68–125/66 · **10 Aug: 122/77 (evening dose refused)** · **11 Aug: 123/73–138/79** · **13 Aug: 122/78** · **14 Aug: 137/79–144/82 (eve above 140)** · **15 Aug: 124–130/72–79** · **16 Aug: 132/72 (AM), early-AM 166/79 (⚠️ high)** · **17 Aug: 130/77** · **18 Aug: 139–140/72–75** · **19 Aug: 132–136/72–75** · **20 Aug: 142/76 (AM, ⚠️ above 140)** · **21 Aug: 113/69 (eve, no AM reading — dose held)** · **22 Aug: 140/77 (AM, ⚠️ at threshold)** · **23 Aug: 119/82 (eve, healthy)** · **24 Aug: 130/76 (AM, healthy)** · **25 Aug: 126/74 (AM, healthy)** · **26 Aug: 136/79–139/76 (AM+eve)** · **28 Aug: 142/71 (AM, ⚠️ above 140, birthday)** · **30 Aug: 127/72 (AM, healthy)** · **31 Aug: 138/92 (AM, diastolic ⚠️ high)** · **1 Sep: 131/67 (AM, healthy)** · **2 Sep: 129/69 (AM, healthy)** · **3 Sep: 126/67 (AM, healthy)** · **4 Sep: 137/77 (AM, systolic near threshold)** · **5 Sep: 145/76 (AM, ⚠️ HIGH — checked 3×, advised rest)** — latest captured
 
 *Full bloodwork (kidney, liver, lipids, FBC, thyroid, BNP, ferritin, phosphate): see `CLINICAL_SUMMARY_COMFORT.md`.*
 
@@ -383,7 +383,57 @@ Date-range snapshot:
 - **Vitals:** none recorded.
 - **Dinner:** Jacket potatoes (ate all). Log: Mood Fair, Appetite Fair, Swelling Same, Bowel Normal, Skin Okay.
 
-> **Backfill complete (2 Sep 26):** All of 4 Aug–2 Sep captured. 🎂 **28 Aug = 92nd birthday.** ⚠️ Flags for doctor: recurring insomnia + back/hip pain (28 Aug) + regurgitation (31 Aug) + 10 Aug dose refused + 16 Aug AM BP 166 + 18/20/22/28 Aug AM BP at/above 140 + 31 Aug diastolic 92 + 21 Aug AM no dose. Latest: 2 Sep (BP 129/69 AM ✅). 2 Sep: urine yellowish (dehydration note). **Relocated 20 Aug. 2 Sep: Mum complained she doesn't go out → planned 3 Sep trip to LEGON BOTANICAL GARDENS with sister Felicia.** *(Corrected: no 1 Sep outing; earlier McCarthy Hill note removed.)*
+*Note: 3 Sep = the Legon Botanical Gardens trip with sister Felicia was planned but did NOT go ahead — 3 Sep report (below) shows she stayed home with back pain. Trip outcome: deferred/cancelled.*
+
+### 3 Sep 2026 (Thu) — Morning
+- **Status:** 😔 **Back pain — she took Paracetamol 500mg BY HERSELF** (self-medicated before carer's check 7am). Lime water. Recurring back pain (also 3 Aug, 28 Aug).
+- **Vitals:** BP 126/67, Pulse 74, Temp 36.3°C ✅ healthy
+- **Medication:** Furosemide 20mg given at 9:05am (note: she'd self-administered paracetamol that morning — flag re self-medication).
+- **Check-in:** Breakfast tom brown (ate all). Log: Mood Fair, Appetite Fair, Swelling Same, Skin Okay.
+
+### 3 Sep 2026 (Thu) — Afternoon
+- **Status:** Sofa/phone; sat on corridor ~30 min; resting. *No outing — the planned Legon trip didn't happen.*
+- **Vitals:** none recorded.
+- **Lunch:** Waakye with gravy stew and salad (ate all except salad). Fruit mix (left some). Log: Mood Fair, Appetite Fair, Swelling Same, Urine Normal, Skin Okay.
+
+### 3 Sep 2026 (Thu) — Evening
+- **Status:** TV; **Epsom-salt foot soak** (15 min bubble), dried between toes, **Cetraben foot massage** (3 min); room; bed early.
+- **Vitals:** none recorded.
+- **Dinner:** Boiled yam with kontomire stew (ate all). Log: Mood Fair, Appetite Fair, Swelling Same, Bowel Normal, Skin Okay.
+
+### 4 Sep 2026 (Fri) — Morning
+- **Status:** Feeling okay (was still asleep at 7am check). 
+- **Vitals:** BP 137/77, Pulse 90, Temp 36.0°C (systolic near threshold — Furo given)
+- **Medication:** Furosemide 20mg given at 9:10am.
+- **Check-in:** Breakfast corn dough porridge (ate all). Log: Mood Fair, Appetite Fair, Swelling Same, Urine Normal, Skin Okay.
+
+### 4 Sep 2026 (Fri) — Afternoon
+- **Status:** Sofa; chat with carer (dozed after); rested in bed; fruit mix 3:25pm; rooms sprayed (sat outside).
+- **Vitals:** none recorded.
+- **Lunch:** Baked beans with two boiled eggs (ate all — good protein). Log: Mood Fair, Appetite Fair, Swelling Same, Urine Normal, Skin Okay.
+
+### 4 Sep 2026 (Fri) — Evening
+- **Status:** TV; **chose warm bath over foot soak** (asked for hot water, bathed); TV with carer; warm drink before bed.
+- **Vitals:** none recorded.
+- **Dinner:** Jacket potatoes (ate all). Log: Mood Fair, Appetite Fair, Swelling Same, Bowel Normal, Skin Okay.
+
+### 5 Sep 2026 (Sat) — Morning ⚠️ HIGH BP
+- **Status:** Feeling okay, but **BP HIGH — 145/76, checked 3×; carer advised good rest for the day.** (Reading above the 140 stop-threshold.)
+- **Vitals:** BP **145/76**, Pulse 79, Temp 36.2°C ⚠️ systolic 145 (high; >140 threshold). Furosemide given.
+- **Medication:** Furosemide 20mg given at 8:45am. *(Note: given despite BP 145 > 140 stop-rule.)*
+- **Check-in:** Breakfast **pawpaw + scrambled eggs** (ate all — good). Log: Mood Fair, Appetite Fair, **Swelling Reduced**, Skin Okay.
+
+### 5 Sep 2026 (Sat) — Afternoon
+- **Status:** Sofa/chat; **tended her flowers (changed water) with carer** (loves gardening); grandsons visited, she gave them assignments.
+- **Vitals:** none recorded.
+- **Lunch:** Boiled yam with kontomire stew (ate all). Fruit: **pear** (ate all). Log: Mood Fair, Appetite Fair, Swelling Same, Urine Normal, Skin Okay.
+
+### 5 Sep 2026 (Sat) — Evening
+- **Status:** Grandsons picked up; TV; **she told carer NOT to lay her bed again (especially evenings)** (preference/independence); Epsom foot soak + Cetraben massage; warm milk before bed.
+- **Vitals:** none recorded.
+- **Dinner:** Kenkey with pepper and **sardine** (ate all — sardine high-salt note). Log: Mood Fair, Appetite Fair, Swelling Same, Bowel Normal, Skin Okay.
+
+> **Backfill complete (5 Sep 26):** All of 4 Aug–5 Sep captured. 🎂 **28 Aug = 92nd birthday.** ⚠️ Flags for doctor: **HIGH BP 5 Sep (145/76, checked 3×)** + recurring back pain (3 Aug, 28 Aug, 3 Sep) + self-medicated paracetamol 3 Sep + recurring insomnia + regurgitation (31 Aug) + 10 Aug dose refused + 16 Aug AM BP 166 + 18/20/22/28/5-Sep BP at/above 140 + 31 Aug diastolic 92 + 21 Aug AM no dose. Latest: 5 Sep (BP 145/76 HIGH). **Relocated 20 Aug. Legon trip deferred** (back pain). **Consider urgent BP review — several >140 readings recently.**
 
 ---
 

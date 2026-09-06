@@ -1,6 +1,6 @@
 # Real Estate Portfolio — Master File
 
-**Last updated:** 2/9/26
+**Last updated:** 4/9/26
 **Owner:** H (Oman Herbert Blankson)
 **Consolidated from:** archive/real-estate-insights.md, archive/property-deal-21-19.md, business/construction/*, handwritten notes
 
@@ -253,10 +253,26 @@
 ### Takoradi — New Amanful (Primary Build)
 
 **Status:** 🔥 ACTIVE — wall build in progress (14/8/26 update)
-**Location:** Near airport, other side of lagoon
+**Location:** Near airport, other side of lagoon — **Education Ridge corridor, Takoradi**
 **Site supervisor:** Matthias (mason from Agona)
 **Wall completed:** 1 course of blockwork built by Matthias
 **Odoom organised:** Weeding, burning, and spraying to maintain
+
+**Market Context (Early 2026):**
+- New Amanful sits on the **Education Ridge** corridor — transforming from quiet residential to student/professional hub
+- **Takoradi Technical University (TTU)** expansion (new B.Tech & PhD programs) → massive student spillover seeking self-contained hostels in New Amanful & Anaji
+- **GCTU Takoradi campus** active — driving student housing demand
+- Oil & gas boom driving vocational/professional rental demand
+- Takoradi-Cape Coast Highway dualization (broke ground Oct 2025) → land values rising along corridor
+- **Rent prices surged:** Self-contained rooms now **GH₵700-1,200/month** in Anaji & New Amanful
+- Port expansion operational → expatriates & skilled technicians seeking secure, high-tech housing
+- "Oil City" economy resilient — but building materials expensive (import UK fittings strategy confirmed smart)
+- 24-hour economy push → better street lighting, security patrols, CCTV more viable
+
+**Strategic implication for Amanful:**
+- **Chamber & hall** (deferred for now) can later be built as **high-end student/expat hostels** — premium rental yields
+- Budget wood-pole fencing now secures the land; the block wall was unnecessary for this phase
+- Long-term hostel with living quarters is **well-timed** — demand is rising and will continue
 
 **Site Visit (14/8/26):**
 - ✅ Odoom's weeding was **good**
@@ -273,7 +289,12 @@
 - Check the burning of dry weeds — does it need to be done again?
 - Mix ashes from burning **with the fertiliser**
 - When finished, put **dried coconut leaves or husks** around the ring to cover the fertiliser
-- **Urgent:** Check on the person uprooting palm trees — want the ground clear ASAP
+
+**Palm tree removal (abé) — 3/9/26:**
+- Re-evaluated: ~**40+ mature palm trees** — better to **tap for palm wine** rather than remove
+- Odoom found someone who could remove all for 2,000 GHS (last price 1,500 GHS)
+- ✅ Already paid **200 GHS advance** (can redirect to tapping costs instead)
+- 🔥 **Palm wine tapping strategy being explored** (see below)
 
 **Next steps for wall:**
 - Need **1 trip sand** + **1 trip stone** + **800 blocks** to complete **4 courses** for the wall
@@ -301,6 +322,57 @@
 | **Current** | Complete 4-course wall |
 | **Later** | Chamber & hall (after Kokomlemle) |
 | **Long-term** | Hostel with living quarters for H |
+
+**Cross-Site Strategy — Acacia Boundary Planting (all sites):**
+- Collect acacia pods/seeds → dry → nurse seedlings → transplant to all boundaries
+- Fast-growing natural boundary marker — secures land lines
+- Can prune and sell as **firewood or charcoal** — ongoing revenue stream
+- Low-cost, low-maintenance, works on all 3 sites (Amanful, Borkro, Kroboekyir)
+
+**Amanful-Specific — Palm Wine Strategy (from ~40+ mature palm trees):**
+
+Rather than removing the ~40+ mature palm trees for 1,500-2,000 GHS, tap them for palm wine instead. These are already mature and ideal for tapping.
+
+| Aspect | Detail |
+|--------|--------|
+| **Tree age needed** | 5+ years old — ✅ these are mature, fruiting |
+| **Best trees** | Check size, colour, strength |
+| **Method** | Fell tree → tap near roots/stem → sap flows into container |
+| **Yield per tree** | ~10L/day for 35-45 days |
+| **40 trees × 10L** | ~400L/day at peak, tapering over ~5-6 weeks |
+| **Fresh wine price** | GH₵5-15 per bottle locally |
+| **Fermented/akpeteshie** | Higher value — can distill for premium |
+
+**Process (traditional Ghanaian method):**
+1. Fell the tree (hire hands ~GH₵20/tree)
+2. Make incision near roots, peel outer bark
+3. Apply heat (lit bamboo) — softens inner wood, speeds flow, keeps insects away
+4. Insert tap stick, place container under
+5. Collect twice daily — morning and late afternoon
+6. Filter to remove debris
+
+**What happens after tapping:**
+- After **35-45 days** the sap stops flowing
+- The tree is now dry/dead — still valuable for:
+
+| Use | Value |
+|-----|-------|
+| **Timber/Planks** | Palm timber is termite-proof — planks sawn from trunk sell well |
+| **Firewood** | Dry palm wood burns hot — sell as firewood |
+| **Charcoal** | Can be carbonised into charcoal |
+| **Acacia nursery** | Dead trunk area becomes nursery bed for acacia seedlings |
+| **Boundary marker** | Leave trunk on boundary line as physical marker |
+
+**Bottom line economics (40 trees):**
+
+| Item | Amount |
+|------|--------|
+| Wine yield @ 40 trees × ~35 days active | ~14,000L total |
+| Fresh palm wine @ ~GH₵5-10/L | **GH₵70,000-140,000 revenue** |
+| Akpeteshie distillation (value-added) | 2-3× higher margin |
+| Timber/planks after tapping | Additional revenue |
+| **Compare: removal cost saved** | **1,500-2,000 GHS not spent** |
+| **Net advantage over removal** | **~GH₵70,000+ gained + timber** |
 
 ### Takoradi — Borkro (Secondary Plot)
 
@@ -580,9 +652,11 @@
 ### Ghana — Amanful (Wall Build in Progress) 🔥
 - [ ] Supply: 1 trip sand + 1 trip stone + 800 blocks (complete 4 courses)
 - [ ] **↳ Wall changed to budget option: Wood poles at 25ft gaps** (block wall cancelled)
-- [ ] **Odoom to confirm spraying finished** — paid 150+50+20 GHS (rings done ✅)
+- [ ] **↳ All abé (palm trees) — STRATEGY CHANGE: Tap for palm wine instead of remove** (~40 trees, ~GH₵70-140k potential revenue)
+- [ ] Odoom to confirm spraying finished
 - [ ] Matthias to continue work
 - [ ] Chamber & Hall deferred — after Kokomlemle
+- [ ] **🌱 Acacia boundary planting** — collect seeds, dry, nurse seedlings, transplant boundaries (firewood/charcoal revenue later)
 
 ### Ghana — Borkro (Found — Cassava planted)
 - [ ] **Find person who weeded and planted cassava**
@@ -590,6 +664,7 @@
 - [ ] Start weed/burn/spray process
 - [ ] Register land
 - [ ] Find caretaker
+- [ ] **🌱 Acacia boundary planting** — collect seeds, dry, nurse, transplant boundaries
 
 ### Ghana — Kokomlemle 🔥 BUILD STARTED
 - [ ] Going with Uncle Kobena to start building process
@@ -601,6 +676,7 @@
 - [ ] **↳ Wall changed to budget option: Wood poles at 25ft gaps** (block wall cancelled)
 - [ ] Build deferred — after Kokomlemle completed
 - [ ] Monitor title dispute — Prof Assibu + another person
+- [ ] **🌱 Acacia boundary planting** — collect seeds, dry, nurse, transplant boundaries
 
 ### Warehouse
 - [ ] Confirm $400/month cost and budget for it

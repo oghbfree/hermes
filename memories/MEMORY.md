@@ -2,7 +2,18 @@
 
 Durable facts from periodic daily-processing runs.
 
-_facts below are limited to verified findings. Last refreshed: 2026-09-01._
+_facts below are limited to verified findings. Last refreshed: 2026-09-05._
+
+## 2026-09-05 Daily Processing Run
+- 🟢 **Integrated-daily-synthesis 05/09 22:06** — `INTEGRATED_INSIGHTS_2026-09-05.md` saved to Vault/insights + both memory trees ✓. ⚠️ **Vault/Daily 2026-09-04.md MISSING** (gap) — 09-05 note only.
+- 🔴 **11:04–11:05 provider/DNS outage — ~20 cron jobs FAILED** `RuntimeError: can't reach the model provider` (morning wave incl. security audit 1b7107630fe3). Afternoon/evening (13:01/15:06/20:04–20:06) recovered. **Cron SLA today ~26% (7/27).** Gateway TG DNS flaky (getaddrinfo fail), sticky-IP recovery.
+- 🩺 **H: 31 Aug post-shock follow-up outcome STILL undocumented (as of 5 Sep).** Labs (1,075 GH) + toe X-ray (219 GH) not yet run — re-send requisition photo / call UGMC. Food diary current thru 4 Sep. Renerve (tremor) ongoing.
+- 👵 **Mum: master contiguous 4 Aug–4 Sep ✓ full month.** Latest 4 Sep BP 137/77 AM (Furo given). Flags for Dr Ferguson: recurring back pain (3/28 Aug, 3 Sep) + **self-medicated paracetamol 500mg 3 Sep**; regurgitation 31 Aug; BP ≥140 stop-rule anomalies; Legon Botanical Gardens trip (planned 3 Sep) DEFERRED. 5 Sep vitals not yet captured.
+- 💼 **2Real Sat 05/09 GHS 4,680** (Yamaha YPT200 900, Hitachi drill 350, TP-Link MiFi 300/extender 550/Ring doorbell 1200 online, Stanley TR250 430, LG TV 450, sink, light). **3-day total 05+04+03 = 10,930.** Customer loop: 10 in-stock hook-missed (Stanley Tape 700, Arlec Socket 120×3, Blyss 1800), 6 OOS to source.
+- 🌴 **Farm: Amanful palm strategy CHANGED — tap ~40 mature palm trees for palm wine (~GHS 70–140k) instead of removing; 200 GH advance paid.** Habib tasks: spray, clear coconut 50cm radius, redo pepper beds, builder/chief check, bees, coconut theft.
+- 🔒 **Security 05/09 audit FAILED (provider outage); posture baseline = 03/09 DEGRADED** (gateway down, DNS root cause; token VALID Ogaitchhermesbot; WA paired; 0 backup .env; ~18 .env scripts / revoked home token; 25/55 silent).
+- 🏥 Kids: Mission Clinic apps (Kobena neuro-paed + Nenyi psych/PEERS) still not booked. Content 0/7 posts. Dad foot-case/PSA unconfirmed.
+- Disk 296G free (38%). Backup last-full 23 Aug (verify daily-backup).
 
 ## 2026-09-01 Daily Processing Run
 - 🟢 **Integrated-daily-synthesis 2026-09-01** — `INTEGRATED_INSIGHTS_2026-09-01.md` saved to Vault/insights + both memory insight trees (10,918B) ✓. Window bridges 31 Aug close + early Sep 1.

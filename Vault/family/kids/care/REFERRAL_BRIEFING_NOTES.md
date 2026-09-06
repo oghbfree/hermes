@@ -133,8 +133,21 @@ There is **no known developmental diagnosis**. His motor milestones (per brother
 | Resource | Address/Contact | Best for |
 |---|---|---|
 | **Mission Clinic** | 50 Olympics St, Caprice · 020 329 5292 · info@missionclinicgh.com | 🅰️ Kobe → neuropsych · 🅱️ Nenyi → psych + PEERS® + speech |
-| **UGMC** | Legon · ugmedicalcentre.org | 🅰️ Kobe → Rare Disease Clinic (11 Sept) · 🅱️ Nenyi → Clinical Psychology (1 Sept) · Emergency backup |
+| **UGMC** | Legon · ugmedicalcentre.org | ~~11 Sept (Kobe) + 1 Sept (Nenyi)~~ **CANCELLED** — both rebooked at Mission Clinic. Keep registration for emergency/routine backup |
 | **LHC Ghana** | [lhcgh.com](https://lhcgh.com/) · Central Accra | 👁️ Vision checks · 🦷 Dental · 🥗 Dietetics · General ENT |
+
+## 📅 CONFIRMED APPOINTMENTS (updated 4 Sept — Mission confirmations received)
+
+| Date | Time | Child | Clinic | Dept | Status |
+|---|---|---|---|---|---|
+| **Mon 7 Sept 2026** | **2:00pm** (arrive 1:45pm) | **Kobena** | Mission Pediatrics | Neuro Developmental Paediatrician | ✅ CONFIRMED by clinic |
+| **Wed 9 Sept 2026** | **8:30am** (arrive 8:15am) | **Nenyi** | Mission Pediatrics | Neuro Developmental Paediatrician | ✅ CONFIRMED by clinic |
+| ~~1 Sept~~ | — | Nenyi | UGMC Clinical Psychology | — | ❌ Cancelled (rebooked at Mission) |
+| ~~11 Sept~~ | — | Kobena | UGMC Rare Disease Clinic | — | ❌ Cancelled (rebooked at Mission) |
+
+> ⚠️ **Appointment rules (from Mission):** Late arrival → rescheduled + deposit forfeited. Cancelling/rescheduling within **48 hrs** → deposit forfeited. Kobe: arrive **1:45pm Mon 7 Sept**. Nenyi: arrive **8:15am Wed 9 Sept**. Separate trips, one child per day.
+
+**Outstanding at each visit:** ≈GH¢470 per child (consultation balance GH¢350 + registration GH¢120).
 
 ## 💰 Mission Clinic — booking status & costs (from their reply, 2 Sept)
 

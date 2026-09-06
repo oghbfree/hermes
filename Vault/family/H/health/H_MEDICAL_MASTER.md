@@ -102,8 +102,9 @@
 |------------|-----------|-------|
 | Vitamin C | Daily | Last logged: 23, 24 Aug. Morning routine |
 | Creatine | New — daily | First noted 24 Aug. Pre-workout or general supplement? |
-| Renerve (methylcobalamin) | Started 24 Aug | Nerve health — prescribed by Dr. Addo Danquah for tremor. 295 GH at Pharmabay |
-| Activated charcoal | Intermittent | Last logged: 23 Aug morning |
+| Renerve (methylcobalamin) | Started 24 Aug | Nerve health — prescribed by Dr. Addo Danquah for tremor. 295 GH at Pharmabay. Now taking Renerve Plus |
+| Activated charcoal | Intermittent | Last logged: 5 Sep morning |
+| CBD gummy | New — 5 Sep | Sleep & anxiety. Single dose logged. |
 | Garlic + lemon water | Daily | Standard morning detox drink |
 | Apple cider vinegar | Occasional | Last logged: 23 May |
 | Alpha Foods Collagen (15g) | Once | 19 Jul (Type I + III bovine peptides) |
@@ -316,3 +317,11 @@
 
 ### 🌅 Morning Health Check
 - **Status:** No new acute symptoms reported (no chest pain, no dysphagia, no headache/dizziness). 🔔 **Post-shock follow-up review was booked Mon 31 Aug with Dr. Addo Danquah** (Renerve/tremor response + toe X-ray result) — **outcome NOT yet documented; confirm it was attended & log results.** 🔴 Active: **blood-work labs still pending** (1,075 GH panel — requisition photo never reached Nita; re-send / call UGMC so samples are actually run). Left arm tremor under Renerve (methylcobalamin); toenail fungus on Candid lotion — revisit oral antifungal at review. Vitals taken 24 Aug at doctor — monitoring back to normal. 🟡 Food diary **current through 31 Aug** (3 fried eggs B, egg pizza L, spaghetti bolognaise D + 2 shortbread/1 Trek snack) — today's breakfast not yet logged. Stable: eyes/vision, no acute chest pain, pericarditis quiescent. ACTION: confirm 31 Aug review outcome (tremor/X-ray/labs), re-send lab photo, take Renerve as prescribed, log today's meals.
+
+---
+
+## 2026-09-03 (Thu)
+
+### 🌅 Morning Health Check
+ - **Status:** No new acute symptoms reported (no chest pain, no dysphagia, no headache/dizziness.) 🔴 Open: post-shock follow-up **booked Mon 31 Aug** with Dr. Addo Danquah (tremor on Renerve + toe X-ray result) — **outcome NOT yet documented; confirm it was attended & log results.** Blood-work labs**(1,075 GH panel) still PENDING — requisition photo never reached Nita; re-send / call UGMC so samples are run. 🟡 Watch: left arm tremor under Renerve (methylcobalamin; toenail fungus on Candid lotion️ (revisit oral antifungal at review); food diary **current through 2 Sep** (3 eggs B, banku+gravy+fish L, jacket potato+cheese+butter D, Vit C pm) — today's(3 Sep) breakfast not yet logged. 🟢 Stable: vitals taken 24 Aug at doctor — normal; eyes/vision, no chest pain, pericarditis quiescent. ACTION: confirm 31 Aug review outcome, re-send lab photo / call UGMC, take Renerve as prescribed, log today's meals.
+- **Check-in:** Asked H about breakfast, energy, symptoms

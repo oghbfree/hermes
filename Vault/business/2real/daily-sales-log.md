@@ -20,6 +20,11 @@ Append one line per day. The 4:30 AM briefing reads this file.
 | 27/08/26 |  | 400 |  | |
 | 28/08/26 |  | 2,200 |  | Paid Frederick 200gh for repairs on 3 items |
 | 29/08/26 |  | 3,000 | 2x Apple iMac, Yamaha PSR 175, 2x baby laptops | Good day |
+| 01/10/26 |  | 1,000 |  | |
+| 02/10/26 |  | 1,000 | Skate 280, Used toys online 720 | Water 100, Food/soap 200, Taxi home 100 = net 600 |
+| 03/09/26 |  | 6,200 | Cutter 300, Baby travel cot 800, Laptop plugs+wires 4,000, Tennis racket 600, Lego 400, Damaged wires 100 | Gross 6,200. Less: cash given 300, house shopping 360, taxi 100, bus 18, lunch 33. Net takings ~5,400. Rain damage to soft toys noted |
+| 04/09/26 |  | 50 | 12V adapter 40, 3-pin cable 10 | Quiet day after the big one |
+| 05/09/26 |  | 4,680 | Yamaha YPT 200 (900), Hitachi Direct drill (350), 3-pin cable (20), TP-Link MiFi M7200 (300), TP-Link range extender (550), Ring doorbell (1,200), Stanley TR250 (430), LG TV (450), Single sink (250), Light (230) | Online + walk-in mixed |
 | 23/08/26 |  | — |  | Closed |
 | 24/08/26 |  | — |  | Closed |
 

@@ -21,6 +21,7 @@ updated: 2026-08-17
 ## Specialists
 | Name | Role | Phone | WhatsApp | Notes |
 |------|------|-------|----------|-------|
+| **Maize neighbour** | Adjacent farm — border maize | ? | ? | Unknown — ask Habib or Chief Nenyi Aroger |
 | **Vetiver source** | MOFA Winneba / Senya | +233 XX XXXXXXX | ? | Ask for 100+ slips, GHS 2–5/slip |
 
 ## Input Suppliers

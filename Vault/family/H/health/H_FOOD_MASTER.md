@@ -412,6 +412,28 @@
 | 🌙 Dinner | Jacket potato with cheese and butter |
 | 💊 Supplement | Vitamin C (pm) |
 
+### Thu 3 Sep *(logged via chat)*
+| Meal | Items |
+|------|-------|
+| ☀️ Breakfast | Crunchy Nut Cornflakes with granola |
+| ☀️ Lunch | Brown basmati rice with lamb stew |
+| 🌙 Dinner | Brown basmati rice with lamb stew |
+
+### Fri 4 Sep *(logged via chat)*
+| Meal | Items |
+|------|-------|
+| ☀️ Breakfast | 3 eggs, Malta Guinness, banana with peanut, mixed nuts (M&S) |
+| 🌙 Dinner | Yam with kontomire |
+
+### Sat 5 Sep *(logged via chat)*
+| Meal | Items |
+|------|-------|
+| ☀️ Morning | Chopped garlic with Vitamin C, took Renerve Plus tablet |
+| ☀️ Breakfast | Scrambled eggs, Malta Guinness |
+| ☀️ Lunch | 5 yam chips with meko |
+| 🌙 Dinner | Kenkey with sardine |
+| 💊 Supplement | CBD gummy |
+
 ---
 
 ## 📈 Nutritional Trends *(updated with gap-fill data)*

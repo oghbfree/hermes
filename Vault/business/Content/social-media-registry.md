@@ -7,7 +7,7 @@ Status: Step 1 complete (handles). Step 2 complete (Bitwarden secrets). Step 3 p
 ## WhatsApp Business Numbers
 
 * John: +233 233352252
-* Boss: +233 204252252
+* Boss (H): +233 204252252
 * Sammy: +233 575252253
 
 ## Akoma Robotics
@@ -16,11 +16,11 @@ Status: Step 1 complete (handles). Step 2 complete (Bitwarden secrets). Step 3 p
 * **Facebook:** https://web.facebook.com/profile.php?id=61584809765435
 * Facebook (official page): not\_created
 * TikTok: https://www.tiktok.com/@akoma\_roboticsgh
-* Instagram: \[pending]
+* Instagram: https://www.instagram.com/2real\_ents/
 * LinkedIn: https://www.linkedin.com/in/oman-herbert-blankson-4a10152b8/ (personal profile, posts for both brands)
 * Snapchat: \[pending]
 * Reddit: \[pending]
-* Jiji Ghana: \[pending]
+* Jiji Ghana: same as 2 real
 
 ## 2Real Enterprises
 
@@ -30,6 +30,7 @@ Status: Step 1 complete (handles). Step 2 complete (Bitwarden secrets). Step 3 p
 * Jiji Ghana: https://jiji.com.gh/sellerpage-rbPd2oROVhelYWPjYkQWbhpx
 * LinkedIn: https://www.linkedin.com/in/oman-herbert-blankson-4a10152b8/ (personal profile, posts for both brands)
 * Facebook Marketplace: \[pending, linked to boss FB profile? confirm]
+* Facebook: https://www.facebook.com/profile.php?id=61594175033436
 * Snapchat: \[pending]
 * Reddit: \[pending]
 

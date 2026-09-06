@@ -1,9 +1,9 @@
 ---
-date: 2026-08-31
+date: 2026-09-02
 status: active
 ---
 
-# Habib's Weekly Tasks — Week of 31/8/26
+# Habib's Weekly Tasks — Updated 2/9/26
 
 ## 🌴 New Tasks (from H)
 
@@ -18,6 +18,27 @@ status: active
 - **Purpose**: Base for fertilizer application — per the coconut protocol (wood ash + coarse salt + manure in a ring 1.5-2m from trunk)
 - **Priority**: Start with the areas already weeded
 
+### 3. Redo the pepper beds
+- Expand pepper beds ready for shito production
+- Use nursery for seedlings (Scotch Bonnet, Long Red)
+- Prepare soil, plant
+
+### 4. Check — is the person building on site?
+- The builder who was **summoned by the chief** — is he there? Is work continuing?
+- Any update on why he was summoned?
+
+### 5. Check — anything new coming?
+- Any new developments, structures, or changes happening on the farm?
+
+### 6. Check the bees
+- Visual check on all 7 hives
+- Any new activity in F-04 to F-07 (baited & set, waiting for swarms)
+- F-03 wax moth — still an issue?
+
+### 7. Check coconuts — still there?
+- Theft is ongoing — check if any more nuts taken
+- Remind Habib to spray-mark the remaining nuts
+
 ## 🔄 Recurring Tasks (Built into GHS 750/month)
 
 ### Daily/Every 2 Days
@@ -31,12 +52,13 @@ status: active
 - [ ] Apply dirty oil in rabbit drinker cups on hive legs
 
 ## 📦 Other Open Items
-- [ ] **More dirty oil** — still need additional supply beyond the 1 free gallon
-- [ ] **Check on welder** — GHS 200 paid, 4 stands being made
-- [ ] **Test fit Freeman's frame samples** — bring to farm, check if they fit the hives
-- [ ] **Spray paint** — label hives F-01 to F-07
+- [ ] **More dirty oil** — still need additional supply
+- [ ] **Acacia program** — pluck seeds, dry, nurse, transplant to boundaries
+- [ ] **Line & peg coconut trees** — mark which to keep vs remove
+- [ ] **Spray paint hives** — F-01 to F-07
+- [ ] **Freeman** — awaiting quote for 5 bigger frames
 
-## 👷 Yaw's Work (Starts Tuesday)
+## 👷 Yaw's Work
 - [ ] Finish remaining 1.51 acres — GHS 400 paid, GHS 950 on completion
 - [ ] Habib to do the circles around the coconut trees (separate from Yaw's weeding)
 

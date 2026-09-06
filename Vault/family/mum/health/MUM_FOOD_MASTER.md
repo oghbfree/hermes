@@ -66,8 +66,11 @@
 | 31 Aug | Pawpaw + scrambled eggs | Kenkey + gravy stew + shito + fried fish | Boiled yam with kontomire stew |
 | 1 Sep | Corn dough porridge | Jollof with fried plantain | Boiled yam with salad (left some) |
 | 2 Sep | Pawpaw + 2 boiled eggs | Ɛtɔ w/ groundnut + boiled eggs, then Banku + gravy + shito + fried fish | Jacket potatoes |
+| 3 Sep | Tom brown | Waakye + gravy stew + salad (not salad) | Boiled yam with kontomire stew |
+| 4 Sep | Corn dough porridge | Baked beans + 2 boiled eggs | Jacket potatoes |
+| 5 Sep | Pawpaw + scrambled eggs | Boiled yam with kontomire stew | Kenkey with pepper and sardine |
 
-> **Backfill complete (2 Sep 26):** Meals logged for 5 Aug–2 Sep. 🎂 **Birthday 28 Aug** logged. **1 Sep:** corn-dough / jollof+fried plantain / yam+salad (no outing — corrected). **2 Sep:** pawpaw+eggs / Ɛtɔ-groundnut-eggs + banku-shito-fried fish / jacket potatoes — generous high-sodium lunch (shito/fried/groundnut). Shito, fried, grains still appearing (phase-out ongoing). Urine yellowish 2 Sep (hydration note). **Planned 3 Sep — Legon Botanical Gardens (sister Felicia).** See medical master for flags.
+> **Backfill complete (5 Sep 26):** Meals logged for 5 Aug–5 Sep. 🎂 **Birthday 28 Aug** logged. **5 Sep:** pawpaw+eggs / yam+kontomire / kenkey+sardine (sardine = high-salt note). Good protein breakfast; grains/kenkey still at times. **High BP day (145/76) — see medical master.** See market list in `MUM_MEDICAL_MASTER.md`.
 
 ---
 

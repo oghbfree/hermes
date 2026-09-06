@@ -2220,3 +2220,976 @@ Kasoa.
 - **Chat:** 150242553004256
 - **Customer:** Ok
 - **Reply:** [acknowledgment - no reply sent]
+
+## 2026-09-03 08:38
+- **Channel:** whatsapp
+- **Chat:** 93575056490607
+- **Customer:** I checked i didnt see it,so am waiting for my husband to come and check it the evening please
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-03 08:38
+- **Channel:** whatsapp
+- **Chat:** 132582016569364
+- **Customer:** Ok
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-03 08:38
+- **Channel:** whatsapp
+- **Chat:** 168350487449635
+- **Customer:** Oh
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-03 08:38
+- **Channel:** whatsapp
+- **Chat:** 186878842114258
+- **Customer:** Yeah do you have some
+This type?
+[owner reply] No
+okay but let me see the one you have
+[owner reply] Ok soon
+price
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-03 08:38
+- **Channel:** whatsapp
+- **Chat:** 243353031540910
+- **Customer:** I will pay and it willl be given to my husband
+He willl pick up
+[owner reply] Ok when
+Plz I want two working ones
+[owner reply] Ok
+Neat
+I beg
+[owner reply] Okay
+Blue and pink
+[owner reply] Ok
+With cover
+[owner reply] Of course
+Am sending momo now
+[owner reply] When
+[owner reply] When is your husband coming
+In some minutes
+Time
+[owner reply] Oh
+[owner reply] Ok
+[owner reply] 👍🏿
+Pls do a video for me and let me seee with the keys working
+And sending the momo
+Momo  sent
+[owner reply] Received
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-03 08:38
+- **Channel:** whatsapp
+- **Chat:** 168638267060461
+- **Customer:** Helloo
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-03 08:38
+- **Channel:** whatsapp
+- **Chat:** 243353031540910
+- **Customer:** [image received]
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-03 08:38
+- **Channel:** whatsapp
+- **Chat:** 59326634979471
+- **Customer:** There's a little bit difference in the packaging... Is your blink camera original
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-03 08:38
+- **Channel:** whatsapp
+- **Chat:** 107211594449040
+- **Customer:** Can we do the delivery today
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-03 08:38
+- **Channel:** whatsapp
+- **Chat:** 122634989772982
+- **Customer:** Hello boss
+How are you doing
+[owner reply] Fine how may I help
+My name is Bernard from Africamtech
+We are wholesalers and main distributors for Dahua cctv and cudy networking products
+We wanted to see how we can be in business with you by supplying you some cables at a very massive discounted prices please
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-03 08:38
+- **Channel:** whatsapp
+- **Chat:** 180642046341188
+- **Customer:** Will you be available on Saturday?
+[owner reply] Yes or you can get yours today
+I am not in Accra at the moment that's why
+But on Saturday ,I will come around
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-03 08:38
+- **Channel:** whatsapp
+- **Chat:** 122634989772982
+- **Customer:** [document received]
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-03 08:38
+- **Channel:** whatsapp
+- **Chat:** 243353031540910
+- **Customer:** Pls the video
+Pls
+[owner reply] I thought your husband was coming
+Yes but I want to see it first
+[owner reply] Ok
+Because he didn't know thing abt toys
+[owner reply] Ahh ok
+[owner reply] I've told my boys to do so and send it to you
+Pls did he test the keyboard
+He said he won't pick
+So am ordering a ride
+Which number should I use
+[owner reply] Wait I'll send you pictures shortening and video
+[owner reply] They will
+Ok
+[owner reply] How far
+Will pick it
+Up
+[owner reply] Ok
+Plz how muc
+[owner reply] Same
+Ooooo
+Pls reduce
+Am ordering atide
+Ride
+Pls the location
+Pls
+Bank of Ghana
+Or
+[owner reply] Opposite needs microfinance
+[owner reply] Under the mango tree
+[owner reply] Can do 130 if you want to take it
+[owner reply] Last one
+Ok
+Pls am paying
+Thanks
+. Paid
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-03 08:38
+- **Channel:** whatsapp
+- **Chat:** 238504466452494
+- **Customer:** Happy new month
+Are you interested in scaling up your business with awesome marketing plans?
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-03 08:38
+- **Channel:** whatsapp
+- **Chat:** 57260638224557
+- **Customer:** What time does your shop close? I'll leave Dansoman in about 30 minutes.
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-03 08:39
+- **Channel:** whatsapp
+- **Chat:** 93575056490607
+- **Customer:** [image received]
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-03 08:39
+- **Channel:** whatsapp
+- **Chat:** 93575056490607
+- **Customer:** [image received]
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-03 08:39
+- **Channel:** whatsapp
+- **Chat:** 93575056490607
+- **Customer:** [image received]
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-03 08:39
+- **Channel:** whatsapp
+- **Chat:** 93575056490607
+- **Customer:** [image received]
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-03 08:39
+- **Channel:** whatsapp
+- **Chat:** 89258094256190
+- **Customer:** [image received]
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-03 08:39
+- **Channel:** whatsapp
+- **Chat:** 107211594449040
+- **Customer:** Ok sure
+- **Reply:** [acknowledgment - no reply sent]
+
+## 2026-09-03 08:39
+- **Channel:** whatsapp
+- **Chat:** 122634989772982
+- **Customer:** Okay boss
+We will be waiting patiently for you
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-03 08:39
+- **Channel:** whatsapp
+- **Chat:** 52600581967873
+- **Customer:** Is available
+Is available
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-03 08:39
+- **Channel:** whatsapp
+- **Chat:** 89258094256190
+- **Customer:** Hi
+[owner reply] I would have to check may have similar?
+Ok
+Please send price and location
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-03 08:39
+- **Channel:** whatsapp
+- **Chat:** 168638267060461
+- **Customer:** Sup?
+How far
+[owner reply] Your number
+[owner reply] WhatsApp
+Same number u are chatting me
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-05 11:31
+- **Channel:** whatsapp
+- **Chat:** 253321533247643
+- **Customer:** This what I want to make enquiries about
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-05 11:31
+- **Channel:** whatsapp
+- **Chat:** 134286816632999
+- **Customer:** pls do u have this same size ?
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-05 11:31
+- **Channel:** whatsapp
+- **Chat:** 177451053379703
+- **Customer:** [image received]
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-05 11:31
+- **Channel:** whatsapp
+- **Chat:** 33638737543314
+- **Customer:** [image received]
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-05 11:31
+- **Channel:** whatsapp
+- **Chat:** 33638737543314
+- **Customer:** [image received]
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-05 11:31
+- **Channel:** whatsapp
+- **Chat:** 33638737543314
+- **Customer:** [image received]
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-05 11:31
+- **Channel:** whatsapp
+- **Chat:** 33638737543314
+- **Customer:** [image received]
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-05 11:31
+- **Channel:** whatsapp
+- **Chat:** 202564247245043
+- **Customer:** [image received]
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-05 11:31
+- **Channel:** whatsapp
+- **Chat:** 104076268327008
+- **Customer:** Hi
+[owner reply] Greetings
+Please I am the one who just called you
+[owner reply] Ok
+[owner reply] CONSTRUCTION TEAM FORM: https://forms.gle/dFUQiMPwhQRrh1cP9
+Julius Antwi is my name, and  I am a painter 🎨
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-05 11:31
+- **Channel:** whatsapp
+- **Chat:** 134286816632999
+- **Customer:** hi how are u
+and what are the available colors pls
+[owner reply] I have only white and it's the same as what you see in the picture
+[owner reply] Comes with hooks and inserts
+can u pls send pic showing the board dimension
+what is the hook size and how many pcs come with it?
+[owner reply] I don't have the dimensions here
+[owner reply] roughly 70 to 80 cm
+[owner reply] Hook is about 15 cm long over 100 pieces
+[owner reply] Selling all together
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-05 11:31
+- **Channel:** whatsapp
+- **Chat:** 177451053379703
+- **Customer:** School bill for both kids is
+11900 in total i have paid 5000gh to the school
+Left with 6900
+Bank transfer
+To the school
+[owner reply] I've paid 6,000 in the bank
+[owner reply] Is only 900 left
+Okay
+[owner reply] They have a earlier booking for Kobena on Monday and Nenyi on Wednesday
+[owner reply] This is in the new small shelf Gray box please charge and see if it's working
+[owner reply] Circle
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-05 11:32
+- **Channel:** whatsapp
+- **Chat:** 93575056490607
+- **Customer:** At work cant talk
+[owner reply] Evening Ethel please call
+[owner reply] Ok
+U told me yesterday that if i text u again u will block me ? Isnt it
+And also the arguement i had with u yesterday shoot my blood pressure to 185 and  i felt very sick yesterday so i dont want to stresss myself at all,so please watever u want to tell me,u can text me thank u
+[owner reply] I was not arguing with you I kept telling you to calm down and be patient
+Please i didnt like the way u talked to me yesteday,i only came to rent a room,i make sure i pay u every month,my only sin is to send u money to buy electric n gas since we dont have the access to do it ourselves and what i recieved from u was so much stress,please i dont want to do die my family needs me so i dont want to stress myself,watever u want to say just say it here when i get chance will respond thank you
+[owner reply] I didn't talk to you only messages. Everything is on the chat here I told you and I also told you to be patient but you don't want to listen so I have to keep repeating myself and you're saying it here again now
+[owner reply] Basically I'm saying I've put 30£ on the electric already and I sent you the money back. So if you send me the 70 pounds ill also put the 40£ gas on. Simple as that.
+[owner reply] I'm not going to respond to what you've put here because I also don't want to stress and I've told you many many many many many many many times.
+[owner reply] Look I tried to call to make peace and now you're sending all this.
+[owner reply] If you can't accept or understand let me just speak to your husband. I'm still waiting for his number
+There wasnt any £30 please
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-05 11:32
+- **Channel:** whatsapp
+- **Chat:** 27750152798262
+- **Customer:** [image received]
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-05 11:32
+- **Channel:** whatsapp
+- **Chat:** 135618608787548
+- **Customer:** [image received]
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-05 11:32
+- **Channel:** whatsapp
+- **Chat:** 49413733019896
+- **Customer:** [image received]
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-05 11:32
+- **Channel:** whatsapp
+- **Chat:** 93575056490607
+- **Customer:** No please
+[owner reply] Lol ok
+[owner reply] When I spoke to EDF the first time it was minus 2£
+[owner reply] After put the first £30 on
+[owner reply] Then they gave me £30 credit
+U topped up 50 pound electric on the 24th of August and is not even 2weeks and you mean the £50 pound got finish? Wat do we use in the house that we have to buy electric £50 every 11 days for it to finish ??
+[owner reply] 1 thing at a time
+Check the date u bought 50 pounds electric and  today is 11 days u bought the electric and u want to tell me it was only £2 left ,wat do we do with electric in this house??
+I cant type again am sick thank u
+[owner reply] This is not only affecting you.
+[owner reply] Are you sure you want to continue as I've said many times let me speak to your husband
+[owner reply] I'll send you a full breakdown from June 1st
+[owner reply] There was okay it was actually put on twice
+[owner reply] Unfortunately I didn't record telephone conversations with edf
+We dont need any breakdown Mr kofi
+And also i have been the one dealing with u ever since i met u so please leave my husband out of this and deal with me,is not my husband who pay u at the end of every month so deal with me
+What i know is in this letter is that u are suppose to pay £5 every week and they will take it anytime u buy the electric,so meaning every month u will have to pay £20,and ever since we started buying the electric they take that money from what we buy which u will even have to give us our money,
+[owner reply] A breakdown is needed as money is owed and money has been paid
+[owner reply] Please look at the messages from this day
+Every month u have to buy £20 to settle ur week debt,before we will also do our top up,we are not the one going to pay the debt for u please
+[owner reply] Wait for the breakdown... But you need to understand this first
+We dont have any thing to do with that breakdown okay
+[owner reply] ?
+[owner reply] I don't understand
+[owner reply] Sorry for shouting at you. It is obvious there is no understanding between us. This is affecting me too much I think someone has to come in and be intermediary between us.
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-05 11:32
+- **Channel:** whatsapp
+- **Chat:** 136932197662886
+- **Customer:** Good evening
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-05 11:32
+- **Channel:** whatsapp
+- **Chat:** 261001639403561
+- **Customer:** [image received]
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-05 11:32
+- **Channel:** whatsapp
+- **Chat:** 135618608787548
+- **Customer:** Please i will like to apply for the robotic job
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-05 11:32
+- **Channel:** whatsapp
+- **Chat:** 27750152798262
+- **Customer:** https://jiji.com.gh/accra-metropolitan/stationery/stanley-tr250-sharpshooter-plus-heavy-duty-staple-nail-gun-xrqvaka8fDq0OIXasZx2vyv0.html
+Is this available?
+[owner reply] Yes
+I need one.
+But I have 400 cedis please.
+Can you deliver it today to me?
+[owner reply] Bring 430 where are you located
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-05 11:32
+- **Channel:** whatsapp
+- **Chat:** 261001639403561
+- **Customer:** Good morning
+I text you on WhatsApp
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-05 11:32
+- **Channel:** whatsapp
+- **Chat:** 93575056490607
+- **Customer:** The breakdown is in this letter and they stated in the letter that when you buy the pay as you go is when they will take your debt,meaning All these while is me and my husband who has bern paying that your debt and it will not happen again  period
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-05 11:32
+- **Channel:** whatsapp
+- **Chat:** 253321533247643
+- **Customer:** Good to hear
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-05 11:32
+- **Channel:** whatsapp
+- **Chat:** 187282216726540
+- **Customer:** [image received]
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-05 11:32
+- **Channel:** whatsapp
+- **Chat:** 93575056490607
+- **Customer:** This is the issue now
+1.After you sent my £70 to me i called the Edf and i bought the electric and gas from them using the address and your name
+[owner reply] Don't worry I'll speak to EDF and get them to write me and all the money which was spend so you can see
+[owner reply] And as you don't believe me I will want my money back
+[owner reply] I do not wish to speak about this matter anymore
+Secondly,u said you pay  71 p everhday to the Edf which is £20 every month,so what you need to do is provide your £20 every month so that the Edf can take it from your debt thank you
+Which money ?
+[owner reply] Don't worry I'll speak to EDF and get them to write to me and all the money which was spent so you can see. .71pence per day included
+[owner reply] It's okay you don't believe me so EDF will send a letter or email
+[owner reply] You can hold the money till they send proof
+For each of us to get our peace of mind ,every month i will take that 71pence u pay everyday to the Edf from ur monthly rent making it £20 then i will add it to wat we will buy so that they can take the debt,thank u
+[owner reply] Don't worry I'll speak to EDF and get them to write to me and all the money which was spent so you can see. .71pence per day included
+Am no more going to talk about this electic and gas issue again thank u
+[owner reply] Don't worry I'll speak to EDF and get them to write to me and all the money which was spent so you can see. .71pence per day included
+[owner reply] Look you don't trust me and you're stressing me EDF are the company let's wait for them simple
+Mr kofi i swear to God that ever since we started buying the the electric from the Edf,we are the one paying that your 71 pence,because they always take it from what we buy
+[owner reply] There's nothing else to talk about it
+[owner reply] Look I've been telling you for over a week to read your messages and now you're telling me this please read the messages
+[owner reply] Don't worry I'll speak to EDF and get them to write to me and all the money which was spent so you can see. .71pence per day included
+[owner reply] What don't you understand
+[owner reply] Edf are the company which is provide gas in electric
+[owner reply] Because of what you've been doing I'm going to get them to write a breakdown of everything so it's clear for you and you can see finished
+I put it to you that we are the the one paying the 71 pence everyday is not you who pay
+[owner reply] What is the issue again please
+[owner reply] I've told you before I will pay and now I'm going to get a breakdown because you don't understand
+[owner reply] I'm going to get a breakdown so you know everything and it's clear
+[owner reply] I was doing it and it's a problem no patience no calmness
+[owner reply] So let ref do it then you can't say anything again
+[owner reply] Look you're stressing me I'm doing my best and who let you know thank you
+And am telking you that i and my husband are the ons paying that break down the Edf gave you,is not you who pays
+[owner reply] It's clear you haven't been reading any of the messages I've sent you don't worry edf will do it now
+[owner reply] Then when everything's clear and clean you will see simple as that please
+Bye plss u insulted and shouted me as if i am ur child or slave ,i came to rent ur house and i pay u so you have no right to shout at me as if i am kid bye
+No more text thsnks
+[owner reply] I'm said I'm sorry but you don't listen and still you want to continue
+[owner reply] I should be saying to you no more text I told you how many times EDF will send the breakdown and then you will see
+[owner reply] Like I've been doing our ignore your insults, but everyone has a limit
+Show me where i insulted you i will apologise to u? U are the one who has been insulting me and talking to me anyhow like i am you kid,
+[owner reply] I'm not going to go into this you know what you've done let's just wait for the EDF
+Can u even shout at your own kids like u did to me yesterday? But like i said i have bought the gas and electric,everymonth i will use £20  of ur rent to buy the electric simple ,
+[owner reply] Is like you want to continue to argue
+[owner reply] Look I think it's best you leave. Because whatever happens you not going to be happy
+[owner reply] And I've repeated myself many times and you don't understand so I think it's best because it's too much and you're still not getting it
+[owner reply] I tried to speak to your husband before it gets to this point but you're blocking it too
+[owner reply] And now you're bringing my children into it
+[owner reply] So let's just leave it like this because you've taken it too far
+[owner reply] Thank you
+Leave where? Am not leaving from this house untill the 1 year agreement is over,then i will give your keys to you and leave  and thats on period
+I promise you that after the 1year agreement i will not even stay in this house again okay,is a promise to u
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-05 11:32
+- **Channel:** whatsapp
+- **Chat:** 187282216726540
+- **Customer:** [image received]
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-05 11:32
+- **Channel:** whatsapp
+- **Chat:** 27750152798262
+- **Customer:** At Burma Camp Accra.
+Try for me, 400.
+[owner reply] 430 let me know and it can be delivered today
+Sure 430.
+Please let me also know the delivery fee.
+[owner reply] 40
+Ok, please he should bring it.
+Does it come with the pins?
+[owner reply] No I don't think so
+[owner reply] Should have told me because now I've left the warehouse.
+[owner reply] If you need pins I'll have to get a delivery rider to send it to me
+Oh ok.
+Then bring it.
+We shall arrange for the pins later.
+[owner reply] Ok
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-05 11:32
+- **Channel:** whatsapp
+- **Chat:** 93575056490607
+- **Customer:** I have this screenshot from my bank account which shows i bought gas and electric from Edf 2 days ago,so screenshot your proof and date from your bank account and let me see,if you give me that proof i will give you back your £30 period
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-05 11:32
+- **Channel:** whatsapp
+- **Chat:** 170501662109860
+- **Customer:** Digital Spirit level
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-05 11:32
+- **Channel:** whatsapp
+- **Chat:** 179860915937470
+- **Customer:** [image received]
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-05 11:32
+- **Channel:** whatsapp
+- **Chat:** 49413733019896
+- **Customer:** Okay, 
+thank you
+[owner reply] So I'll be at dome born again
+[owner reply] Let me know when coming
+Okay sir
+Alright
+[owner reply] Extender 550
+Ring 1200
+On my way
+[owner reply] Ok
+Can you send me your live location
+[owner reply] Opposite needs finance
+Okay thank you
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-05 11:32
+- **Channel:** whatsapp
+- **Chat:** 33638737543314
+- **Customer:** Okay will call u
+[owner reply] People are calling so let me know
+[owner reply] As you was the first person
+Okay
+Will call u
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-05 11:32
+- **Channel:** whatsapp
+- **Chat:** 134286816632999
+- **Customer:** i need the dimension 
+and what is the color
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-05 11:32
+- **Channel:** whatsapp
+- **Chat:** 134286816632999
+- **Customer:** Why there is holes ?
+[owner reply] They are just marks
+[owner reply] However there may be one or two holes
+[owner reply] Maybe you should come to inspect
+what is the hanging hook size pls?
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-05 11:32
+- **Channel:** whatsapp
+- **Chat:** 202564247245043
+- **Customer:** [image received]
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-05 11:33
+- **Channel:** whatsapp
+- **Chat:** 104076268327008
+- **Customer:** Hi
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-05 11:33
+- **Channel:** whatsapp
+- **Chat:** 134286816632999
+- **Customer:** pls
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-05 11:33
+- **Channel:** whatsapp
+- **Chat:** 41945271427224
+- **Customer:** Good morning sir
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-05 11:33
+- **Channel:** whatsapp
+- **Chat:** 27750152798262
+- **Customer:** https://jiji.com.gh/accra-metropolitan/stationery/stanley-tr250-sharpshooter-plus-heavy-duty-staple-nail-gun-xrqvaka8fDq0OIXasZx2vyv0.html
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-05 11:33
+- **Channel:** whatsapp
+- **Chat:** 253321533247643
+- **Customer:** Alright thanks
+- **Reply:** [acknowledgment - no reply sent]
+
+## 2026-09-05 11:33
+- **Channel:** whatsapp
+- **Chat:** 170501662109860
+- **Customer:** Hi
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-05 11:33
+- **Channel:** whatsapp
+- **Chat:** 253321533247643
+- **Customer:** Alright I will wait for him
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-05 11:36
+- **Channel:** whatsapp
+- **Chat:** 253321533247643
+- **Customer:** Alright
+- **Reply:** [acknowledgment - no reply sent]
+
+## 2026-09-05 11:36
+- **Channel:** whatsapp
+- **Chat:** 261001639403561
+- **Customer:** Yes I'm female
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-05 11:37
+- **Channel:** whatsapp
+- **Chat:** 49413733019896
+- **Customer:** Hi
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-05 11:37
+- **Channel:** whatsapp
+- **Chat:** 49413733019896
+- **Customer:** The payment number
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-05 11:42
+- **Channel:** whatsapp
+- **Customer:** hydraulic bottle jack
+- **Reply:** 2Real Enterprises. Yes, we have "Ingco Hydraulic Bottle Jack Hbj602" on our Jiji shop. Message back for price and availability and I'll confirm stock for you.
+
+## 2026-09-05 11:42
+- **Channel:** whatsapp
+- **Customer:** bottle jack
+- **Reply:** 2Real Enterprises. Yes, we have "Halfords 4 Tonne Bottle Jack" on our Jiji shop. Message back for price and availability and I'll confirm stock for you.
+
+## 2026-09-05 11:42
+- **Channel:** whatsapp
+- **Customer:** hydraulic bottle jack
+- **Reply:** [suppressed — cooldown] would have sent: 2Real Enterprises. Yes, we have "Ingco Hydraulic Bottle Jack [SUPPRESSED — cooldown]
+
+## 2026-09-05 11:42
+- **Channel:** whatsapp
+- **Chat:** 49413733019896
+- **Customer:** [document received]
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-05 11:44
+- **Channel:** whatsapp
+- **Customer:** Do you have samsung s25?
+- **Reply:** Thanks for your message. I've noted it — I'll confirm and get back to you shortly with the details.
+
+## 2026-09-05 11:44
+- **Channel:** whatsapp
+- **Customer:** Do you have samsung s25?
+- **Reply:** [silenced — already replied recently] [SUPPRESSED — cooldown]
+
+## 2026-09-05 11:44
+- **Channel:** whatsapp
+- **Customer:** Do you have samsung s25?
+- **Reply:** [silenced — already replied recently] [SUPPRESSED — cooldown]
+
+## 2026-09-05 11:44
+- **Channel:** whatsapp
+- **Customer:** hydraulic bottle jack
+- **Reply:** [suppressed — cooldown] would have sent: 2Real Enterprises. Yes, we have "Ingco Hydraulic Bottle Jack [SUPPRESSED — cooldown]
+
+## 2026-09-05 11:44
+- **Channel:** whatsapp
+- **Customer:** hydraulic bottle jack
+- **Reply:** [suppressed — cooldown] would have sent: 2Real Enterprises. Yes, we have "Ingco Hydraulic Bottle Jack [SUPPRESSED — cooldown]
+
+## 2026-09-05 11:44
+- **Channel:** whatsapp
+- **Customer:** bottle jack
+- **Reply:** [suppressed — cooldown] would have sent: 2Real Enterprises. Yes, we have "Halfords 4 Tonne Bottle Jac [SUPPRESSED — cooldown]
+
+## 2026-09-05 11:44
+- **Channel:** whatsapp
+- **Customer:** makita drill
+- **Reply:** [suppressed — cooldown] would have sent: 2Real Enterprises. Yes, we have "Makita 6280d 14,4v Drill Dr [SUPPRESSED — cooldown]
+
+## 2026-09-05 11:45
+- **Channel:** whatsapp
+- **Customer:** Do you have samsung s25?
+- **Reply:** Thanks for your message. I've noted it — I'll confirm and get back to you shortly with the details.
+
+## 2026-09-05 11:45
+- **Channel:** whatsapp
+- **Customer:** samsung s25 ultra
+- **Reply:** [silenced — already replied recently] [SUPPRESSED — cooldown]
+
+## 2026-09-05 11:45
+- **Channel:** whatsapp
+- **Customer:** s25
+- **Reply:** [suppressed — cooldown] would have sent: 2Real Enterprises. Yes, we have "Draper Venom Vts250 Double- [SUPPRESSED — cooldown]
+
+## 2026-09-05 11:45
+- **Channel:** whatsapp
+- **Customer:** hydraulic bottle jack
+- **Reply:** [suppressed — cooldown] would have sent: 2Real Enterprises. Yes, we have "Ingco Hydraulic Bottle Jack [SUPPRESSED — cooldown]
+
+## 2026-09-05 11:45
+- **Channel:** whatsapp
+- **Customer:** hydraulic bottle jack
+- **Reply:** [suppressed — cooldown] would have sent: 2Real Enterprises. Yes, we have "Ingco Hydraulic Bottle Jack [SUPPRESSED — cooldown]
+
+## 2026-09-05 11:45
+- **Channel:** whatsapp
+- **Customer:** bottle jack
+- **Reply:** [suppressed — cooldown] would have sent: 2Real Enterprises. Yes, we have "Halfords 4 Tonne Bottle Jac [SUPPRESSED — cooldown]
+
+## 2026-09-05 11:45
+- **Channel:** whatsapp
+- **Customer:** makita drill
+- **Reply:** [suppressed — cooldown] would have sent: 2Real Enterprises. Yes, we have "Makita 6280d 14,4v Drill Dr [SUPPRESSED — cooldown]
+
+## 2026-09-05 11:45
+- **Channel:** whatsapp
+- **Customer:** makita drill
+- **Reply:** [suppressed — cooldown] would have sent: 2Real Enterprises. Yes, we have "Makita 6280d 14,4v Drill Dr [SUPPRESSED — cooldown]
+
+## 2026-09-05 11:45
+- **Channel:** whatsapp
+- **Chat:** 49413733019896
+- **Customer:** Save my number
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-05 11:45
+- **Channel:** whatsapp
+- **Chat:** 49413733019896
+- **Customer:** I'll call you when i get to Kumasi
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-05 11:45
+- **Channel:** whatsapp
+- **Customer:** Do you have samsung s25?
+- **Reply:** Thanks for your message. I've noted it — I'll confirm and get back to you shortly with the details.
+
+## 2026-09-05 11:45
+- **Channel:** whatsapp
+- **Customer:** samsung s25 ultra
+- **Reply:** [silenced — already replied recently] [SUPPRESSED — cooldown]
+
+## 2026-09-05 11:45
+- **Channel:** whatsapp
+- **Customer:** hydraulic bottle jack
+- **Reply:** 2Real Enterprises. Yes, we have "Ingco Hydraulic Bottle Jack Hbj602" on our Jiji shop. Message back for price and availability and I'll confirm stock for you.
+
+## 2026-09-05 11:45
+- **Channel:** whatsapp
+- **Customer:** hydraulic bottle jack
+- **Reply:** [suppressed — cooldown] would have sent: 2Real Enterprises. Yes, we have "Ingco Hydraulic Bottle Jack [SUPPRESSED — cooldown]
+
+## 2026-09-05 11:45
+- **Channel:** whatsapp
+- **Customer:** makita drill
+- **Reply:** [suppressed — cooldown] would have sent: 2Real Enterprises. Yes, we have "Makita 6280d 14,4v Drill Dr [SUPPRESSED — cooldown]
+
+## 2026-09-05 11:45
+- **Channel:** whatsapp
+- **Customer:** makita drill
+- **Reply:** [suppressed — cooldown] would have sent: 2Real Enterprises. Yes, we have "Makita 6280d 14,4v Drill Dr [SUPPRESSED — cooldown]
+
+## 2026-09-05 11:45
+- **Channel:** whatsapp
+- **Customer:** hydraulic bottle jack
+- **Reply:** 2Real Enterprises. Yes, we have "Ingco Hydraulic Bottle Jack Hbj602" on our Jiji shop. Message back for price and availability and I'll confirm stock for you.
+
+## 2026-09-05 11:46
+- **Channel:** whatsapp
+- **Chat:** 49413733019896
+- **Customer:** The name is 
+Bency Mills
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-05 11:46
+- **Channel:** whatsapp
+- **Customer:** hydraulic bottle jack
+- **Reply:** 2Real Enterprises. Yes, we have "Ingco Hydraulic Bottle Jack Hbj602" on our Jiji shop. Message back for price and availability and I'll confirm stock for you.
+
+## 2026-09-05 11:46
+- **Channel:** whatsapp
+- **Chat:** 49413733019896
+- **Customer:** Do you sell starlink
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-05 11:46
+- **Channel:** whatsapp
+- **Customer:** Do you have samsung s25?
+- **Reply:** Thanks for your message. I've noted it — I'll confirm and get back to you shortly with the details.
+
+## 2026-09-05 11:46
+- **Channel:** whatsapp
+- **Customer:** samsung s25 ultra
+- **Reply:** [silenced — already replied recently] [SUPPRESSED — cooldown]
+
+## 2026-09-05 11:46
+- **Channel:** whatsapp
+- **Customer:** hydraulic bottle jack
+- **Reply:** 2Real Enterprises. Yes, we have "Ingco Hydraulic Bottle Jack Hbj602" on our Jiji shop. Message back for price and availability and I'll confirm stock for you.
+
+## 2026-09-05 11:46
+- **Channel:** whatsapp
+- **Customer:** hydraulic bottle jack
+- **Reply:** [suppressed — cooldown] would have sent: 2Real Enterprises. Yes, we have "Ingco Hydraulic Bottle Jack [SUPPRESSED — cooldown]
+
+## 2026-09-05 11:46
+- **Channel:** whatsapp
+- **Customer:** makita drill
+- **Reply:** [suppressed — cooldown] would have sent: 2Real Enterprises. Yes, we have "Makita 6280d 14,4v Drill Dr [SUPPRESSED — cooldown]
+
+## 2026-09-05 11:46
+- **Channel:** whatsapp
+- **Customer:** makita drill
+- **Reply:** [suppressed — cooldown] would have sent: 2Real Enterprises. Yes, we have "Makita 6280d 14,4v Drill Dr [SUPPRESSED — cooldown]
+
+## 2026-09-05 11:46
+- **Channel:** whatsapp
+- **Customer:** gorilla expanding foam
+- **Reply:** [suppressed — cooldown] would have sent: 2Real Enterprises. Yes, we have "Gorilla Heavy Duty Expandin [SUPPRESSED — cooldown]
+
+## 2026-09-05 11:46
+- **Channel:** whatsapp
+- **Customer:** hydraulic bottle jack
+- **Reply:** 2Real Enterprises. Yes, we have "Ingco Hydraulic Bottle Jack Hbj602" on our Jiji shop. Message back for price and availability and I'll confirm stock for you.
+
+## 2026-09-05 11:47
+- **Channel:** whatsapp
+- **Customer:** hydraulic bottle jack
+- **Reply:** 2Real Enterprises. Yes, we have "Ingco Hydraulic Bottle Jack Hbj602" on our Jiji shop. Message back for price and availability and I'll confirm stock for you.
+
+## 2026-09-05 11:48
+- **Channel:** whatsapp
+- **Customer:** Do you have samsung s25?
+- **Reply:** Thanks for your message. I've noted it — I'll confirm and get back to you shortly with the details.
+
+## 2026-09-05 11:48
+- **Channel:** whatsapp
+- **Customer:** samsung s25 ultra
+- **Reply:** [silenced — already replied recently] [SUPPRESSED — cooldown]
+
+## 2026-09-05 11:48
+- **Channel:** whatsapp
+- **Customer:** hydraulic bottle jack
+- **Reply:** 2Real Enterprises. Yes, we have "Ingco Hydraulic Bottle Jack Hbj602" on our Jiji shop. Message back for price and availability and I'll confirm stock for you.
+
+## 2026-09-05 11:48
+- **Channel:** whatsapp
+- **Customer:** hydraulic bottle jack
+- **Reply:** [suppressed — cooldown] would have sent: 2Real Enterprises. Yes, we have "Ingco Hydraulic Bottle Jack [SUPPRESSED — cooldown]
+
+## 2026-09-05 11:48
+- **Channel:** whatsapp
+- **Customer:** makita drill
+- **Reply:** 2Real Enterprises. Yes, we have "Makita 6280d 14,4v Drill Driver Plus Charger 1 Battery" on our Jiji shop. Message back for price and availability and I'll confirm stock for you.
+
+## 2026-09-05 11:48
+- **Channel:** whatsapp
+- **Customer:** makita drill
+- **Reply:** [suppressed — cooldown] would have sent: 2Real Enterprises. Yes, we have "Makita 6280d 14,4v Drill Dr [SUPPRESSED — cooldown]
+
+## 2026-09-05 11:48
+- **Channel:** whatsapp
+- **Customer:** gorilla expanding foam
+- **Reply:** 2Real Enterprises. Yes, we have "Gorilla Heavy Duty Expanding Foam (353ml)" on our Jiji shop. Message back for price and availability and I'll confirm stock for you.
+
+## 2026-09-05 11:48
+- **Channel:** whatsapp
+- **Customer:** gorilla expanding foam
+- **Reply:** [suppressed — cooldown] would have sent: 2Real Enterprises. Yes, we have "Gorilla Heavy Duty Expandin [SUPPRESSED — cooldown]
+
+## 2026-09-05 11:48
+- **Channel:** whatsapp
+- **Customer:** hydraulic bottle jack
+- **Reply:** 2Real Enterprises. Yes, we have "Ingco Hydraulic Bottle Jack Hbj602" on our Jiji shop. Message back for price and availability and I'll confirm stock for you.
+
+## 2026-09-05 11:48
+- **Channel:** whatsapp
+- **Customer:** makita drill
+- **Reply:** 2Real Enterprises. Yes, we have "Makita 6280d 14,4v Drill Driver Plus Charger 1 Battery" on our Jiji shop. Message back for price and availability and I'll confirm stock for you.
+
+## 2026-09-05 11:48
+- **Channel:** whatsapp
+- **Chat:** 253321533247643
+- **Customer:** Alright
+- **Reply:** [acknowledgment - no reply sent]
+
+## 2026-09-05 11:56
+- **Channel:** whatsapp
+- **Chat:** 49413733019896
+- **Customer:** [Reaction: 👍🏽 to A5F7F2A587152BD32ECF251E763097FD]
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-05 11:59
+- **Channel:** whatsapp
+- **Chat:** 27750152798262
+- **Customer:** Okay
+- **Reply:** [acknowledgment - no reply sent]
+
+## 2026-09-05 12:28
+- **Channel:** whatsapp
+- **Chat:** 27750152798262
+- **Customer:** Ok
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-05 12:54
+- **Channel:** whatsapp
+- **Chat:** 27750152798262
+- **Customer:** I have received it.
+Thanks
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-05 12:57
+- **Channel:** whatsapp
+- **Chat:** 135618608787548
+- **Customer:** I have a computer science diploma
+With 4 years experience as a customer service
+I can create an Ai orb with orb that sees with phone camera and speak to respond to interactions..woeking with your firm will enable me insights on how to bring Ai minds or orbs into a robotic body to create a fully conscious robot that can help interact and complete complex task..
+Am 25 years ..not really flawless with coding..but with the help of Ai integration i can deploy a code..working with your firm will elevate my understanding to fuel my passion for Robitics
+Am 25 years old and i stay at Tudo accra
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-05 13:09
+- **Channel:** whatsapp
+- **Chat:** 177451053379703
+- **Customer:** What number did u want me to call
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-05 13:58
+- **Channel:** whatsapp
+- **Chat:** 104076268327008
+- **Customer:** Okay
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-05 14:04
+- **Channel:** whatsapp
+- **Chat:** 253321533247643
+- **Customer:** Thanks I just received the mifi
+- **Reply:** We will get back to you shortly.

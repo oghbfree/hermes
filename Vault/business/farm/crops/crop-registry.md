@@ -27,8 +27,8 @@ linked_workflow: FARM_WORKFLOW.md
 | 8 | Teak | ae001f31-2ea8-461e-973c-0e82f4507081 |
 | 9 | Castor | ff8e9abb-1d09-43d5-8118-78e1cf4d3792 |
 | 10 | Okra | c7b015de-1c22-42d1-9660-20ab0430c404 |
-| 11 | Pepper | 629633ea-3677-43a2-8d29-066697340ea8 |
-| 12 | 2024 Coconut | 6af51689-4280-45e8-9482-c8f2560a1901 |
+| 11 | Pepper (Scotch Bonnet, Long Red) | 629633ea-3677-43a2-8d29-066697340ea8 | 🟢 **Ramping up for shito production** — expand beds, use nursery |
+| 12 | 2024 Coconut | 6af51689-4280-45e8-9482-c8f2560a1901 | 🟢 **230 trees — theft ongoing** — mark, patrol, process into value-added |
 | 13 | Saffron | 6f98b6ed-ec8f-480e-b1bb-325d599bed08 |
 | 14 | Cabbage | 7dbf40e8-dc61-46f2-9f43-4337189198bd |
 | 15 | Mint | 450252ac-e36f-4250-8f13-386a388bcde7 |
