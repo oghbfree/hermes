@@ -2,7 +2,16 @@
 
 Durable facts from periodic daily-processing runs.
 
-_facts below are limited to verified findings. Last refreshed: 2026-09-05._
+_facts below are limited to verified findings. Last refreshed: 2026-09-06._
+
+## 2026-09-06 Daily Processing Run
+- 🟢 **Integrated-daily-synthesis 06-09 (late run 07 Sep 01:5x)** — `INTEGRATED_INSIGHTS_2026-09-06.md` saved to workspace/Vault/insights + both memory trees ✓; `Vault/Daily/2026-09-06.md` written (fills 06-09 gap — last insight was 05-09).
+- 🩺 **H: 31 Aug post-shock follow-up outcome STILL undocumented (as of 6 Sep).** Labs (1,075 GH) + toe X-ray (219 GH) not yet run — re-send requisition / call UGMC. Food diary current thru 5 Sep. Renerve Plus tablet taken 5 Sep; CBD gummy + creatine accumulating ahead of HbA1c.
+- 👵 **Mum: 5 Sep AM BP 145/76 ⚠️ HIGH** (checked 3×, rest advised, Furo given) — BP ≥140 trend worsening. 6 Sep vitals not captured (evening check posted). Recurring back pain + self-medicated paracetamol; Legon trip deferred.
+- 💼 **2Real:** no 06/09 sales line (05/09 GHS 4,680; 03–05 total 10,930). 5 actionable low-stock (Light Kit, Bottle Jack, Stanley Tape, Arlec Socket, Spray Gun). **299 SLA breaches** (stale 25–31 Aug). **WhatsApp ads expired 3 Sep**; Jiji live-capture blocked since 03 Sep; TOP+ → iPhone 12 Pro Max + Lumix.
+- 🐝 **Farm: "Senya Coastal Bloom Honey" branding FINALISED** — multi-floral (drop "Certified"), 100/250/500g, GHS 15-20/35-45/60-75, "Batch #001, Sept 2026" convention. Kwasi hives GHS 2,500 (2 colonised + 1 service chg); Freeman frames 480 (recon 300 paid).
+- 🔒 **Security 06/09 DEGRADED — gateway DOWN ~34h** (Telegram token rejection 05/09 20:26 + WhatsApp unpaired regression; creds.json absent). AppData token valid at probe (contradictory). 0 backup .env; 19 .env scripts; 25/55 silent.
+- 🖥️ **Cron 06-09 healthy** — no bulk outage (vs 05-09 ~20-job failure). **Backup stale ~31 Aug** (verify). Disk 39% (293G free).
 
 ## 2026-09-05 Daily Processing Run
 - 🟢 **Integrated-daily-synthesis 05/09 22:06** — `INTEGRATED_INSIGHTS_2026-09-05.md` saved to Vault/insights + both memory trees ✓. ⚠️ **Vault/Daily 2026-09-04.md MISSING** (gap) — 09-05 note only.

@@ -377,21 +377,45 @@ Rather than removing the ~40+ mature palm trees for 1,500-2,000 GHS, tap them fo
 ### Takoradi — Borkro (Secondary Plot)
 
 **Status:** Registered in H's name — **site visit completed 14/8/26** (left 4am, back midnight)
-**Location:** Borkro, Takoradi
+**Location:** Borkro (Bokro), Ahanta West District, Western Region
+**Official address:** Plot No. 11, Maduba III Street, Bokro
+**Area:** **0.23 Acres (0.09 Ha)** — per certified survey plan
+**Zoning:** Residential (per Town & Country Planning Dept — **RESIDENTIAL PURPOSES ONLY**)
+**Application also made for:** Mixed Use (Residential, Commercial & Educational) — per Lands Commission letter 22/4/20
 **Site supervisor:** Matthias (mason from Agona)
+
+**Documentation on file (all found in downloads):**
+
+| Document | Date | Issuer | Key Details |
+|----------|------|--------|-------------|
+| **Survey Plan** | 16/10/2015 (approved 20/10/2015) | John Kofi Borsah, Licensed Surveyor No. 220 | Certified plan, 0.23 acres, coordinates, bearings, boundary markers — Plot 11, Bokro, Ahanta West |
+| **Planning Comments** | 16/3/2020 | Isaac Nakoja, Municipal Town Planning Officer | Land falls under Bokro Planning Scheme, zoned residential, site inspected and suitable |
+| **Lands Commission letter** | 22/4/2020 | Michal L. Holder, Asst. Land Admin Officer | Requests planning comments for **Mixed Use** (Residential, Commercial & Educational) |
+| **Lease/Indenture** | — | Nana Nwinwa Nwinwa IV (Divisional Chief of Hotopo, Lessor) | Legal description of No. 11 Maduba III Street, Bokro — signed, sealed, delivered |
+| **Witnesses Deed** | — | Nana Moduba III (Queenmother of Hotopo) + Ebusuapanyin Kofi Awenzi | Witnessed by Ian Herbert-Blankson (Commissioner for Oaths) |
+| **WhatsApp record** | 7/10/2022 | Conversation with "Adwoba" | Registration **stalled** — "a problem that needs to be resolved. Until then it can't be registered" |
+
+**Key Issue:** As of October 2022, registration was **stalled** — WhatsApp contact "Adwoba" confirmed "a problem that needs to be resolved. Until then it can't be registered." This needs follow-up with Lands Commission.
+
+**Traditional Authorities on lease/indenture:**
+- **Nana Nwinwa Nwinwa IV** — Divisional Chief of Hotopo, Nifahene - Ahantahene, Lessor for Plot 11
+- **Nana Moduba III** — Queenmother of Hotopo (witness)
+- **Ebusuapanyin Kofi Awenzi** — Family head (witness)
 
 **Site Visit (14/8/26):**
 - ✅ Found the plot — took 3–4 hours to locate
 - Someone had already **weeded** the land and **planted cassava**
 - Did not see the individual — need to find them
-- **Next step:** Find the person who weeded/planted, then **erect pillars**
+- **Next step:** Find the person who weeded/planted, then **erect wood poles at 25ft gaps** (budget option)
 
 **To-Do:**
+- [ ] **Resolve registration stall** — follow up with Lands Commission / Adwoba on what problem needs resolving ✅ docs at `Borkro_docs/`
 - [ ] Find the person who weeded and planted cassava
 - [ ] Erect **wood poles at 25ft gaps** (budget option — same strategy as Amanful & Kroboekyir)
 - [ ] Start weed/burn/spray process
-- [ ] Register land
+- [ ] Register land (complete stalled registration)
 - [ ] Find caretaker
+- [ ] **🌱 Acacia boundary planting** — collect seeds, dry, nurse, transplant boundaries
 
 ---
 
@@ -609,6 +633,10 @@ Rather than removing the ~40+ mature palm trees for 1,500-2,000 GHS, tap them fo
 | **Prof Assibu** | Uncle — on indenture (Ideal College) | TBC | Kroboano (title dispute) |
 | **Uncle Kevin** | Tenancy agreement typing & formulation | — | Kantamanto (mum's rental) |
 | **Uncle Kobena** | Building partner — Kokomlemle build | — | Kokomlemle |
+| **Adwoba** | Lands Commission contact — registration stalled | — | Borkro |
+| **Nana Nwinwa Nwinwa IV** | Divisional Chief of Hotopo, Lessor (Plot 11) | — | Borkro |
+| **Nana Moduba III** | Queenmother of Hotopo (witness) | — | Borkro |
+| **John Kofi Borsah** | Licensed Surveyor No. 220 | — | Borkro survey 2015 |
 | **Abu** | Mason (digging/levelling contractor) | TBC | Kroboano |
 | **John** | NSS Trainee Ops Manager | +233****2252 | 2Real operations |
 | **Sammy** | Transaction recording & sales | +233****2253 | 2Real operations |
@@ -740,6 +768,7 @@ When a contractor quotes you:
 | Handwritten notes | `Vault/business/construction/2026-04-01-handwritten-notes-organized.md` |
 | People directory | `Vault/people/CONTACTS.md` |
 | Construction site SOP | `skills/productivity/business-operations-sops/references/construction-site-management.md` |
+| Borkro docs (survey, planning, deeds) | `business/construction/Borkro_docs/` |
 
 ---
 

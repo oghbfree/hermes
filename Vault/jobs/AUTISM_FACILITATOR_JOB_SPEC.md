@@ -106,3 +106,13 @@ Weight behavioural Qs (overstimulation handling, simplifying instructions, socia
 - Recruitment pipeline: `Vault/jobs/RECRUITMENT_SUMMARY.md` (this role = separate)
 
 *Logged 2026-08-14 · Updated 2026-08-22 (added sign-language & natural-approach form sections + interview bank).*
+
+## Candidate progress
+- **Ebenezer Kwadzo Afetsi** — SpEd Edu Coordinator (Ghana Education Service). Family has worked with him for years. **Pre-empted:** says no OT, no sign-language tutor, no speech therapist needed because of Kobena's current advancement level.
+- **Candidate (lady)** — 3 children, 2nd born has special needs (lived experience). Previously worked in a role supporting children; gave real scenarios in interview. **Wife likes her.**
+- **Trial scheduled:** **Tuesday (this week)**, 30–60 min, supervised with **Kobe at home** (wife present, CCTV on, H at work). No commitment until after.
+
+### Parallel in-school support
+- **Rita (teacher, Kansview Montessori)** — 1 hour **1-on-1 after school** with Kobena. Results of tomorrow's **7 Sept neuropsych review** will be shared with the school to coordinate.
+
+*Updated 5/9/26.*

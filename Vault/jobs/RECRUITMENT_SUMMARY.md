@@ -36,12 +36,13 @@
 **Facilitator #1: Eyiah Michael Osardu**
 - BSc IT | mBot exp | Coding 5/5 | Mon-Fri avail
 
-### Latest Pull (2026-09-03)
+### Latest Pull (2026-09-06)
 
-**0 new applications** across all 4 roles since last reported pull (2026-09-01). Pipeline confirmed alive and monitored. Token refreshed 2026-09-03. Top candidates unchanged.
+**0 new applications** across all 4 roles since last reported pull (2026-09-03). Pipeline confirmed alive and monitored. Token refreshed 2026-09-06. Top candidates unchanged.
 
 ### Detailed Reports
 
+- [[jobs/APPLICATIONS-REPORT-2026-09-06.md]] (no new apps; token refreshed)
 - [[jobs/APPLICATIONS-REPORT-2026-09-03.md]] (no new apps; token refreshed)
 - [[jobs/APPLICATIONS-REPORT-2026-09-01.md]] (no new apps; token refreshed)
 - [[jobs/APPLICATIONS-REPORT-2026-08-31.md]] (no new apps; token refreshed)
@@ -74,10 +75,10 @@
 
 ### Status
 
-- **Google Sheets Auth: ACTIVE** — Token refreshed 2026-09-03
-- Last successful pull: 2026-09-03
+- **Google Sheets Auth: ACTIVE** — Token refreshed 2026-09-06
+- Last successful pull: 2026-09-06
 - All 4 pipelines accessible
-- 0 new applications since 2026-09-01
+- 0 new applications since 2026-09-03
 
 ## Related
 
