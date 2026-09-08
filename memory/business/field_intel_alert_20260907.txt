@@ -1,0 +1,6 @@
+🚨 WhatsApp Delivery Failure Alert
+Job: field-intel-ground-updates-john
+Target: John (233233352252)
+Error: Cannot connect to host localhost:3000 (connection refused) — no gateway process; WhatsApp bridge DOWN
+Time: 2026-09-07 08:06 UTC
+Action Required: WhatsApp bridge recovery needed — whatsapp-bridge-watchdog should auto-respawn the gateway; if it does not recover, bounce the Hermes desktop app.

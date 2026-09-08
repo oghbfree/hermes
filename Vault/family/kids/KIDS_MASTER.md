@@ -41,6 +41,8 @@ Consolidated registry for H's children (Kobena & Nenyi). Created 2026-08-14 by c
 | `care/ACTIVITY_PLANS.md` | **Weekend/week activity plans** — Sat/Sun themes + appointment-day plans |
 | `care/DR_UMAR_DISCIPLINE_FRAMEWORK.md` | **Dr Umar Johnson model** — rewards & consequences, privilege-based, restorative, applied per child |
 | `care/REFERRAL_BRIEFING_NOTES.md` | **Referral briefings** — Kobe → Mission Clinic neuro-paed, Nenyi → psych + speech assessment |
+| `care/MISSION_FINDINGS_KOBENA.md` | **Mission Clinic findings** — actual 7 Sept consult directives (sign+speech together, facilitator observe-in-class protocol, story comprehension) |
+| `care/MISSION_FINDINGS_NENYI.md` | **Mission Clinic findings** — monthly speech therapy, social-checking normal, separate classes at school |
 | `care/kobena-clinical-records/` | Original scanned records (genetics, hearing, SLT, OT, paediatrician, bloods) |
 | `kids-sizes-dated.md` | Clothing sizes tracker (last updated 2026-03-16) |
 | `homework-planner-dev.md` | Draft academic-planner spec (planning phase) |

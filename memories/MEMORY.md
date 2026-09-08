@@ -2,7 +2,16 @@
 
 Durable facts from periodic daily-processing runs.
 
-_facts below are limited to verified findings. Last refreshed: 2026-09-06._
+_facts below are limited to verified findings. Last refreshed: 2026-09-07._
+
+## 2026-09-07 Daily Processing Run
+- 🟢 **Integrated-daily-synthesis 07/09 22:05** (`d719cd80fa5b`) — `INTEGRATED_INSIGHTS_2026-09-07.md` saved to Vault/insights + both memory trees ✓; `Vault/Daily/2026-09-07.md` written.
+- 🩺 **H: 31 Aug post-shock follow-up outcome STILL undocumented (as of 7 Sep).** Labs (1,075 GH) + toe X-ray (219 GH) not yet run — re-send requisition / call UGMC. Food diary current thru 6 Sep. Renerve Plus + CBD gummy + creatine ahead of HbA1c.
+- 👵 **Mum: 7 Sep full coverage — AM BP 128/68 ✅ back to healthy** (after 2 high days; Furo resumed 9:10am). ⚠️ **Mild diarrhoea eve 7 Sep** (possible sardine/kenkey link) — monitor. Sammy visited. 6 Sep no report. Flags: BP ≥140 anomalies, back pain, self-med paracetamol.
+- 💼 **2Real:** 05/09 GHS 4,680 (03–05 total 10,930); **no weekend sales line**; WhatsApp ads expired 3 Sep; 299 SLA breaches; **Daily Ops Check FAILED** (provider).
+- 🐝 **Farm:** apiary hive-log refreshed (equipment Good/New; Sep task = build winter stores, feed 2:1 syrup). Palm-wine tapping strategy stand. **Borkro construction site photos 03:21–04:06** (H 4am visit).
+- 🔒 **Security 07/09 DEGRADED** — gateway DOWN ~37h (last log 09/05); AppData token VALID, home-root **REVOKED (404)** dual-.env; ~38 .env-reader scripts; 25/55 silent cron; WhatsApp creds PRESENT at AppData (improved). No compromise. Delivered topic 20 (msg 10989).
+- 🖥️ **Cron 07-09 ~63% OK** (morning provider/DNS wave ~13 fail-tagged: Daily Ops, checkin-{mum,dad}, Dad 3-Day, cron-status, tasks-queue/md, weekly-review, eric, godfred, field-intel, inquiry loop). **Backup ✅ 02:05** (19,562 files, 0 secrets); quarantine dir in `$LOCALAPPDATA/Temp/hermes_quarantine_platforms_20260907/` needs manual delete. Disk 40% (290G free).
 
 ## 2026-09-06 Daily Processing Run
 - 🟢 **Integrated-daily-synthesis 06-09 (late run 07 Sep 01:5x)** — `INTEGRATED_INSIGHTS_2026-09-06.md` saved to workspace/Vault/insights + both memory trees ✓; `Vault/Daily/2026-09-06.md` written (fills 06-09 gap — last insight was 05-09).

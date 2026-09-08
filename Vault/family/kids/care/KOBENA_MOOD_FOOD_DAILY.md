@@ -106,3 +106,13 @@ I'll append the matching `### 2026-08-XX` section under the current month.
 | 📚 **NEW — Nenyi reading aloud** | Read out loud **nicely** — clear and confident. Big step for the articulation work — acknowledge it specifically |
 | 🎮 **NEW — Kobena: LeapFrog RocketTwist** | New game, engaged and playing. Handheld/interactive — good fine-motor + cause-effect fit for him |
 | 📝 Note | Crunchy Nut = sugared cereal — fine occasionally, but the diet direction prefers lower-sugar breakfasts for Nenyi (e.g. oats, eggs). Not a battle today, just watch frequency |
+
+### 2026-09-07 (Mon) — MISSION CLINIC DAY (both boys seen back-to-back)
+| Field | Notes |
+|-------|-------|
+| 🍽️ ☀️ Breakfast | Banku with stew |
+| 🍽️ ☀️ Lunch | Plantain and stew |
+| 🍽️ 🌙 Dinner | Fried rice and chicken (Boheneko) |
+| 💊 Medication | **Liquid dewormer — BOTH boys**, taken on Mission Clinic advice (7/9) |
+| 🏥 Appointments | Kobena seen 1st — directives: sign+speech together, facilitator observe-in-class, story comprehension (see `MISSION_FINDINGS_KOBENA.md`) · Nenyi seen after — monthly speech therapy, social-checking normal, separate classes at school (see `MISSION_FINDINGS_NENYI.md`) |
+| 📝 Note | Dewormer logged as one-off medication (not supplement). Watch for any tummy/behaviour changes over the next 48hrs and note here |

@@ -4,3 +4,4 @@
 |------|------|--------|--------|--------|-------|
 | 2026-09-01 |08:02| John | Field check-in sent (WhatsApp) | Sent | Monitoring for ground updates |
 | 2026-09-03 |08:04| John | Field check-in NOT sent — WhatsApp bridge DOWN | Action Required | Escalated to TG #urgent |
+| 2026-09-07 |08:06| John | Field check-in NOT sent — WhatsApp bridge DOWN (conn refused :3000) | Action Required | Escalated to TG #urgent |

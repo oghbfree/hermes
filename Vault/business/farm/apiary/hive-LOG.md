@@ -22,8 +22,13 @@ linked_workflow: FARM_WORKFLOW.md
 | K-03 | Kanzoni shop | Langstroth | Weak | — | 2026-06-01 | — | Low stores, feed needed |
 | F-01 | Farm field (near lemon tree) | — | Active | — | 2026-08-30 | 🟡 Needs GPS | Brood present |
 | F-02 | Farm field (near lemon) | — | Active | — | 2026-08-30 | 🟡 Needs GPS | Swept, cleaned, rebaited |
-| F-03 | Farm field (open space) | — | Active — wax moth | — | 2026-08-30 | 🟡 Needs GPS | Moved to open space, wax moth attack |
-| F-04 to F-07 | Farm | — | Baited & set — awaiting swarm | — | 2026-08-30 | 🟡 Needs GPS | New hives from room — cleaned, baited, set. If unpopulated, Kwasi has 2 populated hives to buy |
+| F-03 | Farm field (open space) | — | Vacated | — | 2026-08-30 | 🟡 Needs GPS | Bees left — clean, rebait, watch for re-entry |
+| F-04 | Farm | — | **Newly populated** | — | 2026-09-07 | 🟡 Needs GPS | Bees entered ~6/9/26 ✅ |
+| F-05 | Farm | — | Baited & set — awaiting swarm | — | 2026-08-30 | 🟡 Needs GPS | Cleaned, baited, set |
+| F-06 | Farm | — | Baited & set — awaiting swarm | — | 2026-08-30 | 🟡 Needs GPS | Cleaned, baited, set |
+| F-07 | Farm | — | Baited & set — awaiting swarm | — | 2026-08-30 | 🟡 Needs GPS | Cleaned, baited, set |
+| K-NEW1 | From Kwasi (Saltpond, colonised 4+ mo) | Top-bar ×20 | Purchase planned | — | — | — | GHS 1,000 + shared GHS 500 service |
+| K-NEW2 | From Kwasi (Saltpond, colonised 4+ mo) | Top-bar ×20 | Purchase planned | — | — | — | GHS 1,000 + shared GHS 500 service |
 
 ---
 
@@ -79,6 +84,14 @@ linked_workflow: FARM_WORKFLOW.md
 ---
 
 ## Inspection Log
+
+### 2026-09-07 — Movement Update (via H)
+- **F-03 (open space)**: Bees **vacated** — clean the hive, rebait, leave set. Watch for re-entry.
+- **F-04**: Bees **entered** on ~6/9/26 ✅ — first naturally-colonised farm hive beyond F-01.
+- Net position: still counting active colonies; the swarm circuit is working (abscond here = populate there).
+- **Action**: Habib to check F-04 entrance activity every 2 days; no lid opening for 2 weeks to let them settle. Kanzoni to confirm on weekly round.
+
+---
 
 ### 2026-08-09 — Kwesi Apiary Visit (Greensgold Agribusiness)
 

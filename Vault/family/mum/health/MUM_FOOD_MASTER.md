@@ -69,8 +69,10 @@
 | 3 Sep | Tom brown | Waakye + gravy stew + salad (not salad) | Boiled yam with kontomire stew |
 | 4 Sep | Corn dough porridge | Baked beans + 2 boiled eggs | Jacket potatoes |
 | 5 Sep | Pawpaw + scrambled eggs | Boiled yam with kontomire stew | Kenkey with pepper and sardine |
+| 6 Sep | — (no report) | — (no report) | — (no report) |
+| 7 Sep | Baked beans + scrambled eggs | Kenkey with gravy and sardine | Boiled yam with light soup |
 
-> **Backfill complete (5 Sep 26):** Meals logged for 5 Aug–5 Sep. 🎂 **Birthday 28 Aug** logged. **5 Sep:** pawpaw+eggs / yam+kontomire / kenkey+sardine (sardine = high-salt note). Good protein breakfast; grains/kenkey still at times. **High BP day (145/76) — see medical master.** See market list in `MUM_MEDICAL_MASTER.md`.
+> **Backfill complete (7 Sep 26):** Meals logged for 5 Aug–7 Sep (6 Sep: no report). 🎂 **Birthday 28 Aug** logged. **7 Sep:** baked beans+scrambled eggs / kenkey+sardine / yam+light soup — sardine again (high-salt note). Mild diarrhoea 7 Sep eve (possible food link — sardine/kenkey). See medical master for flags.
 
 ---
 

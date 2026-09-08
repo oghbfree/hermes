@@ -434,6 +434,13 @@
 | 🌙 Dinner | Kenkey with sardine |
 | 💊 Supplement | CBD gummy |
 
+### Sun 6 Sep *(logged via chat)*
+| Meal | Items |
+|------|-------|
+| ☀️ Lunch | Plantain and stew |
+| 🌙 Dinner | Jollof with fish and chicken (from Boheneko) |
+| 🍪 Late night | Cake and ice cream |
+
 ---
 
 ## 📈 Nutritional Trends *(updated with gap-fill data)*
