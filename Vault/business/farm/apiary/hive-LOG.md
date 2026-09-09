@@ -230,11 +230,41 @@ He's on-site just for the hives — 7 hives × ~5 min inspection = ~35–45 min 
 - Plus his existing **GHS 300** per fortnightly Sunday when he drives you = **~GHS 600 on trip Sundays**
 
 ### Habib's Visual Check (Every 2 Days — No Hive Opening)
-1. ✅ Bees entering/exiting = active
-2. ❌ No bees at entrance = absconded — **report immediately**
-3. 🐜 Ant trail on legs? Apply dirty oil in rabbit drinker cups
-4. 💧 Sugar water drinkers topped up?
-5. 🪹 Hives still level? Not sunken/tilted?
+
+**Full checklist — copy to Habib:**
+
+---
+
+**🟡 HIVE CHECK (all 8 hives: F-01 to F-07 + K-01 if at shop)**
+1. **F-04 (new bees)** — are they still inside? Bees flying in and out of entrance? Don't open the lid.
+2. **F-01, F-02** — bees active at entrance? Same numbers as before, more, or fewer?
+3. **F-03, F-05, F-06, F-07** — any new bees moved in? Look for bees at entrance.
+4. Any hive fallen, tilted, or sinking into the ground?
+5. Any ants crawling on the hive or stand legs?
+6. Any wax moth signs — webbing, cocoons at the entrance?
+
+**💧 DRINKERS & FEEDING**
+7. Water/sugar water drinkers — still have liquid? Top up if low.
+8. Dirty oil in the leg cups — still there? Top up if dried out.
+
+**🌳 PLACEMENT**
+9. Are any hives now in afternoon sun (shadow moved)? Note which ones.
+
+**📱 REPORT FORMAT (send as WhatsApp text)**
+"Hive check [date]:
+F-01: [active/quiet] | F-02: [active/quiet] | F-04: [active/quiet]
+F-03/05/06/07: [any new bees? yes/no which]
+Drinkers: [topped up / need refill]
+Ants: [none / where]
+Problems: [anything odd]"
+
+---
+
+**Rules for Habib:**
+- **Never open a hive lid** — visual only
+- **Photo of anything unusual** — send on WhatsApp
+- **If bees are gone from a hive** — report immediately, don't touch anything else
+- **If strangers/surveyors on the land** — photo + call immediately (Flycotech watch)
 
 ### Kanzoni's Full Inspection (Weekly — Tuesday)
 1. Hives active: [count of 7]

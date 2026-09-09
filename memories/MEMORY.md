@@ -317,7 +317,13 @@ _facts below are limited to verified findings. Last refreshed: 2026-09-07._
 - **Missing from User**: Exact herb names, multivitamin brand, quantities for trip, supplier preference (clinic/UK/Ghana), Ghana delivery address, payment method, trip departure deadline
 - **Task**: t_2098e55f blocked pending details
 
+## Stephanie Nursing Trial (08 Sep 2026 — EXTENDED)
+- Trial **extended 1 month on performance grounds** (companionship alone isn't enough) — explicitly NOT a soft extension. 8 watchlist: reporting detail/accuracy, garlic protocol, mushroom tea consistency, hydration, daily leg elevation + Epsom soaks, evening-meds + BP stop-rule, proactive day-off prep, room visits+logging.
+- **Pending decisions:** firm review date (~early Oct) and whether salary step **2,000→2,500** moves with extension or is the passing reward.
+- Track in `Vault/business/2real/Nursing/STEPHANIE_TRIAL_REVIEW.md` (to be created) + `NURSING_JOB_ROLE_MASTER.md`.
+
 ## Confirmed Operational Flags
+- **Stephanie trial extended 1 month (08 Sep, performance-based)** — see above.
 - 2Real agent system fully operational — stable cron loops, all syncs successful.
 - WhatsApp gateway UNPAIRED 68 days — creds.json missing. Manual QR re-pair required.
 - **Gateway RECOVERED** (after 19 days dead) — PID 17112 confirmed running Jul 7 00:04, Telegram polling mode healthy.

@@ -113,6 +113,6 @@ I'll append the matching `### 2026-08-XX` section under the current month.
 | 🍽️ ☀️ Breakfast | Banku with stew |
 | 🍽️ ☀️ Lunch | Plantain and stew |
 | 🍽️ 🌙 Dinner | Fried rice and chicken (Boheneko) |
-| 💊 Medication | **Liquid dewormer — BOTH boys**, taken on Mission Clinic advice (7/9) |
+| 💊 Medication | **Albendazole (liquid) — BOTH boys**, taken on Mission Clinic advice (7/9) |
 | 🏥 Appointments | Kobena seen 1st — directives: sign+speech together, facilitator observe-in-class, story comprehension (see `MISSION_FINDINGS_KOBENA.md`) · Nenyi seen after — monthly speech therapy, social-checking normal, separate classes at school (see `MISSION_FINDINGS_NENYI.md`) |
 | 📝 Note | Dewormer logged as one-off medication (not supplement). Watch for any tummy/behaviour changes over the next 48hrs and note here |

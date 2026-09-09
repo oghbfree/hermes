@@ -115,4 +115,26 @@ Weight behavioural Qs (overstimulation handling, simplifying instructions, socia
 ### Parallel in-school support
 - **Rita (teacher, Kansview Montessori)** — 1 hour **1-on-1 after school** with Kobena. Results of tomorrow's **7 Sept neuropsych review** will be shared with the school to coordinate.
 
-*Updated 5/9/26.*
+## CANDIDATE: BERNICE DARKO (docs received 8/9/26)
+
+**Certificate — Ghana Education Service, National Nursery Teachers' Training Centre:**
+- **Bernice Darko** — awarded certificate for **Early Childhood Education**, Part I (7–17 Apr 2026) & Part II (27 Jul – 4 Sep 2026)
+- Issued 4 Sept 2026 · Officer-in-Charge: National Nursery Teachers' Training Centre, Accra
+
+**Course contents (directly relevant to the facilitator role):**
+Child Development · Language & Literacy · Numeracy · OWOP · Creative Art · Music/Movement & Drama · **Working with Parents** · Assessment · Classroom Management · Learning Through Play · **Children with Special Needs** · Child Rights & ECE Policy · ECE Curriculum · **Health, Nutrition & Safety** · Lesson Plan · Establishing/Operating ECD Centres
+
+**Practicals:** Observation & Teaching Practice · Preparation of play/teaching & learning resources
+
+**Assessment vs Kobena's needs:**
+| Doctor's directive | Bernice's training covers |
+|---|---|
+| Sign/gesture + speech together | Not Makaton-trained, but "Language & Literacy" + special-needs coursework is the right base; willing-to-learn is the test |
+| Facilitator observe-in-class protocol | "Assessment", "Classroom Management", "Observation & Teaching Practice" — direct match |
+| Story comprehension routine | "Language & Literacy" + play-based learning |
+| Life-skills (shopping, golf, sports) | "Learning Through Play", "Health, Nutrition & Safety" |
+| Working with YOU (parents) | **"Working with Parents" was an examined module** — rare and valuable |
+
+**Fresh certification (Sept 2026) + lived experience (her own 2nd child has special needs) + wife's positive interview impression = strong candidate. Green-light the Tuesday trial.**
+
+*Updated 8/9/26 (Bernice docs) · dewormer = **Albendazole** (liquid, both boys, 7/9/26).*

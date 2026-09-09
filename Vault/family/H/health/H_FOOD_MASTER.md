@@ -441,6 +441,20 @@
 | 🌙 Dinner | Jollof with fish and chicken (from Boheneko) |
 | 🍪 Late night | Cake and ice cream |
 
+### Mon 7 Sep *(logged via chat)*
+| Meal | Items |
+|------|-------|
+| ☀️ Breakfast | None |
+| ☀️ Lunch | Egg |
+| 🌙 Dinner | Green plantain and stew |
+
+### Tue 8 Sep *(logged via chat)*
+| Meal | Items |
+|------|-------|
+| ☀️ Breakfast | Mixed nuts, Pineapple |
+| ☀️ Lunch | 5 yam chips with pepper |
+| 🌙 Dinner | Jollof with fried chicken |
+
 ---
 
 ## 📈 Nutritional Trends *(updated with gap-fill data)*

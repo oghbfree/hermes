@@ -71,8 +71,9 @@
 | 5 Sep | Pawpaw + scrambled eggs | Boiled yam with kontomire stew | Kenkey with pepper and sardine |
 | 6 Sep | — (no report) | — (no report) | — (no report) |
 | 7 Sep | Baked beans + scrambled eggs | Kenkey with gravy and sardine | Boiled yam with light soup |
+| 8 Sep | Tom brown + 2 boiled eggs | Kokonte with groundnut soup — **NO SALT** (left some soup) | Jacket potatoes |
 
-> **Backfill complete (7 Sep 26):** Meals logged for 5 Aug–7 Sep (6 Sep: no report). 🎂 **Birthday 28 Aug** logged. **7 Sep:** baked beans+scrambled eggs / kenkey+sardine / yam+light soup — sardine again (high-salt note). Mild diarrhoea 7 Sep eve (possible food link — sardine/kenkey). See medical master for flags.
+> **Backfill complete (8 Sep 26):** Meals logged for 5 Aug–8 Sep (6 Sep: no report). 🎂 **Birthday 28 Aug** logged. **8 Sep:** tom brown+eggs / kokonte+groundnut soup **with NO SALT** (👏 carer adopting the low-salt rule) / jacket potatoes — a good, gentle day for the bowels too. Diarrhoea (7–8 Sep) resolved by evening. See medical master for flags.
 
 ---
 

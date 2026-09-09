@@ -25,6 +25,7 @@ Append one line per day. The 4:30 AM briefing reads this file.
 | 03/09/26 |  | 6,200 | Cutter 300, Baby travel cot 800, Laptop plugs+wires 4,000, Tennis racket 600, Lego 400, Damaged wires 100 | Gross 6,200. Less: cash given 300, house shopping 360, taxi 100, bus 18, lunch 33. Net takings ~5,400. Rain damage to soft toys noted |
 | 04/09/26 |  | 50 | 12V adapter 40, 3-pin cable 10 | Quiet day after the big one |
 | 05/09/26 |  | 4,680 | Yamaha YPT 200 (900), Hitachi Direct drill (350), 3-pin cable (20), TP-Link MiFi M7200 (300), TP-Link range extender (550), Ring doorbell (1,200), Stanley TR250 (430), LG TV (450), Single sink (250), Light (230) | Online + walk-in mixed |
+| 08/09/26 |  | 1,963 | Jigsaw (420), DeWalt tool (1,000), Kettle (150), Suitcase (200), Staples (193) | Expenses: Yango van moving spray paint (408), taxi home (77). Net ~1,478. Buyer for condemned items stopped by |
 | 23/08/26 |  | — |  | Closed |
 | 24/08/26 |  | — |  | Closed |
 
