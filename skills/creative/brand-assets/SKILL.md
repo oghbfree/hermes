@@ -183,8 +183,9 @@ Do NOT invent new brand hashtags. Use only from these sets.
 ```
 content-assets/
   akoma/
-    AKOMA_ROBOTICS_LOGO.png — Heart+gears logo
-    AKOMA_ROBOTICS_LOGO_OFFICIAL.jpg — Official high-res logo
+  AKOMA_ROBOTICS_LOGO_TRANSPARENT.png — Overlay logo (ALWAYS use for compositing)
+  AKOMA_ROBOTICS_LOGO.png — Source logo (NO alpha; needs preprocessing before overlay)
+  AKOMA_ROBOTICS_LOGO_OFFICIAL.jpg — Official high-res reference
     site_style.css — Website CSS (DO NOT use colors from this for content)
     General Marketing/ — 5 marketing images
   2real/

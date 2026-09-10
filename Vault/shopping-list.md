@@ -1,8 +1,35 @@
 ﻿# Shopping List (Running)
 
-*Last updated: 2026-05-24*
+*Last updated: 2026-09-10*
 
 ---
+
+## 🛒 Shopping List — 10/9/26 (BOTH households)
+
+**Budget sent: 3,000 GH₵**
+**Covers:** Mum + Nurse Stephanie's house · H's house (H, Ebony, Kids K & N)
+**Status:** To buy
+
+### Produce & Fresh Food
+- Apple · Avocado · Beans (Niger) · Cabbage · Cauliflower · Carrot · Cocoyam · Cucumber
+- Dawadawa · Garden eggs (50 GH₵) · Garlic (30 GH₵) · Ginger (50 GH₵) · Green pepper
+- Greens / Spinach / Lettuce / Carrots / Cucumber batch (100 GH₵)
+- Kontomire · Lemon · Mango · Onions (50 GH₵) · Pawpaw · Pear · Pepper · Pineapple · Prekese · Spinach · Tomatoes · Watermelon
+
+### Proteins & Dairy
+- Dry fish mixed (50 GH₵) · Eggs · Fresh mackerel · Fresh salmon / other fish
+
+### Flours, Grains & Staples
+- Brown rice — 3 cups (45 GH₵) · Ekoegbemi flour · Gari (40 GH₵) · Neat plantain · Obrayo · Tigernut flour · Tom brown flour (80 GH₵)
+
+### Pantry & Spices
+- Black pepper · Coconut oil (150 GH₵)
+
+### Household & Toiletries
+- Bin bags (100 GH₵) · Mosquito spray ×2 (80 GH₵) · Power zone box (200 GH₵) · Toilet roll ×1 (30 GH₵) · Washing liquid box (200 GH₵) · Washing powder ×1 (40 GH₵) · Wipes box (200 GH₵)
+
+---
+
 
 ## Mum's Building Materials (1-Bedroom Apartment - Weija/Senya)
 **Status**: Building in progress. Stone and sand at site. Need remaining materials.

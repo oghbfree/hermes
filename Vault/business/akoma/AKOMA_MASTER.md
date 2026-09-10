@@ -27,9 +27,9 @@
 | **Robotics Explorer** (after-school) | 10 weeks | ₵1,000 / £100 | Intro: build, block coding, sensors, final project |
 | **Young Innovator** (year-long) | Year | ₵2,000 / £200 | Holiday camps, advanced projects, competition |
 | **Autism-Inclusive STEM** | 12 weeks | ₵2,000 | Max 4 students, 1:2 facilitator ratio, visual supports |
-| **School-Integrated** (Royal Zion model) | 12-week term | GH¢100/student/term | Rolled into school fees, whole-class |
+| **School-Integrated** (Royal Zion model) | 12-week term | **Tiered by size (17/8/26):** GH¢60 @ 33+ students · GH¢80 @ 25–32 · GH¢100–120 @ 17–24 | Rolled into school fees, whole-class; commission negotiable (open 10%, accept 5–15%) |
 
-**Important pricing tension:** the 60 GHS pilot math (30 students breakeven) in the pricing file vs. the school-integrated GH¢100/term model in the Royal Zion proposal. Reconcile before quoting new schools.
+**Important pricing tension:** the 60 GHS pilot math (30 students breakeven) in the pricing file vs. the school-integrated GH¢100/term model in the Royal Zion proposal. **RESOLVED 17/8/26 — see `akoma-term-time-economics.md`:** fee is now tiered by school size (GH¢60 @ 33+ students · GH¢80 @ 25–32 · GH¢100–120 @ 17–24; single class of 15 @ GH¢60 is not viable). School commission is NEGOTIABLE (open 10%, accept 5–15%), traded against free secure storage — never quoted as fixed.
 
 ---
 
@@ -43,6 +43,7 @@
 | `social.md` | Facebook page links (2 profiles) |
 | `whatsapp-link-log.md` | 48-hr WhatsApp link renewal tracker |
 | `akomarobotics-site.md` | Website scrape (moved from `memory/business/Akoma/`) |
+| `akoma-term-time-economics.md` | Term-time economics: Mobile Lab vs On-Site Hub decision matrix + break-even analysis (17/8/26) |
 | `akoma marketing strategy.txt` | School-admin acquisition + social media + LinkedIn strategy (moved from `memory/business/Akoma/`) |
 | `Autism-Inclusive STEM Program.txt` | Autism track program (moved from `memory/business/Akoma/`) |
 | `gem-akoma-content-director.md` | Gemini Gem "Akoma Content Director" persona + weekly content rotation (moved from `memory/business/Akoma/`) |
@@ -87,11 +88,11 @@ Location: **`Vault/business/Content/content-assets/akoma/`**
 
 ## 🛠️ Related Skills
 
-- `productivity/akoma-school-proposals/` — school proposal generation (uses `regenerate_proposal.py`)
-- `akoma_content_planner/` — weekly content planner
-- `creative/brand-assets/references/akoma-brand.md`
-- `productivity/business-content-pipeline/references/akoma-brand-director.md`
-- `productivity/ai-influencer-content-pipeline/templates/manim-akoma-script.py`
+- **`productivity/akoma-robotics`** — ⭐ UMBRELLA SKILL (created 17/8/26): proposals, pricing rules, content engine rules, canonical paths, PDF workflow. Read this first for any Akoma procedure.
+- `productivity/ai-influencer-content-pipeline` — weekly asset generation (logo refs updated to TRANSPARENT.png)
+- `creative/brand-assets` — brand specs (file map updated with transparent-logo rule)
+- `productivity/business-operations-sops/references/akoma-*.md` — 4 ops SOPs
+- RETIRED (folded into umbrella): `akoma_content_planner`, `productivity/akoma-school-proposals` — RETIRED.md pointers left in place
 
 ---
 

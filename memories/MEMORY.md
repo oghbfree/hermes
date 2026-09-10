@@ -2,7 +2,17 @@
 
 Durable facts from periodic daily-processing runs.
 
-_facts below are limited to verified findings. Last refreshed: 2026-09-07._
+_facts below are limited to verified findings. Last refreshed: 2026-09-10._
+
+## 2026-09-10 Daily Processing Run
+- 🟢 **Integrated-daily-synthesis 10/09** (`d719cd80fa5b`) — `INTEGRATED_INSIGHTS_2026-09-10.md` saved to Vault/insights; backfilled missing `Vault/Daily/2026-09-09.md` + wrote `2026-09-10.md`.
+- 🩺 **H: 31 Aug post-shock follow-up outcome STILL undocumented (10 days).** Labs (1,075 GH) + toe X-ray (219 GH) not run — re-send requisition / call UGMC. Food diary current thru 8 Sep (mixed nuts+pineapple B, 5 yam chips w/ pepper L). Renerve+ tremor treatment ongoing.
+- 👵 **Mum: 8 Sep full coverage — AM BP 145/72 HIGH → recheck 136/67; diarrhoea 7-8 Sep RESOLVED by 8 Sep eve (Imodium stock gap flagged).** 9 Sep no report captured. 8 Sep kokonte NO SALT 👏 (diet working). Flags: BP instability (5 & 8 Sep 145 highs), back pain, self-med paracetamol.
+- 💼 **2Real:** 08/09 GHS 1,963 (Jigsaw 420, DeWalt 1,000, Kettle 150, Suitcase 200, Staples 193; net ~1,478). No 09/09-10 lines. Inquiry loop clean — 10 in-stock-missed, 6 OOS, **299 SLA breaches**, wholesale hammer lead ~2wks. **Daily Ops Check FAILED** (provider + skill `2real-enterprises-agent` not found).
+- 👩 **Nursing:** Stephanie trial EXTENDED 1 month (performance-based, 8 Sep) — **`STEPHANIE_TRIAL_REVIEW.md` STILL NOT created**; review date + salary-step unresolved (ACTION).
+- 🐝 **Farm:** F-04 newly populated (bees ~6/9, needs GPS); Sep = build winter stores / feed 2:1 syrup.
+- 🔒 **Security: audits 08 + 09 Sep FAILED** (provider `can't reach the model provider`) — **07 Sep DEGRADED stands**. Gateway DOWN ~5 days + WhatsApp bridge (port-3000 refusal). AppData token VALID, home-root REVOKED (404); ~38 .env-reader scripts; 25/55 silent. No compromise.
+- 🖥️ **Cron 09-09 ~30%** (16/23 failed, morning provider/DNS wave). **github-memory-backup 09-09 ✅** (commit d396e6a, 14 files). **Local backup stale 3 days** (last full 07/09 01:54). Disk 41% (282G free).
 
 ## 2026-09-07 Daily Processing Run
 - 🟢 **Integrated-daily-synthesis 07/09 22:05** (`d719cd80fa5b`) — `INTEGRATED_INSIGHTS_2026-09-07.md` saved to Vault/insights + both memory trees ✓; `Vault/Daily/2026-09-07.md` written.

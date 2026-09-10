@@ -37,6 +37,7 @@ Consolidated registry for H's children (Kobena & Nenyi). Created 2026-08-14 by c
 | `school/SCHOOL_MASTER.md` | School coordination, assistant-meeting plan, homework planner, letters |
 | `care/AUTISM_CARE_FRAMEWORK.md` | **All-rounded view** — 7 assessment lenses, communication (Makaton/sign), natural approach |
 | `care/KOBENA_CLINICAL_RECORD.md` | OCR digest + index of Kobena's scanned clinical records (2014–2018 baseline) |
+| `care/KOBENA_EARLY_OBSERVATION_LOG.md` | **2017–18 parental daily log** (transcribed) — pattern baseline + "how far he's come" reference |
 | `care/KOBENA_MOOD_FOOD_DAILY.md` | **Daily mood & food diary** (master) — links food to behaviour/sleep for the care team |
 | `care/ACTIVITY_PLANS.md` | **Weekend/week activity plans** — Sat/Sun themes + appointment-day plans |
 | `care/DR_UMAR_DISCIPLINE_FRAMEWORK.md` | **Dr Umar Johnson model** — rewards & consequences, privilege-based, restorative, applied per child |

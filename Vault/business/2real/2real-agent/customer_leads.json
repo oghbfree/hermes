@@ -2416,5 +2416,231 @@
     "priority": "LOW",
     "last_checked": "2026-09-05T15:06:05.646010",
     "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-10 01:57",
+    "customer_msg": "Okay. No problem.",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 3.5,
+    "priority": "LOW",
+    "last_checked": "2026-09-10T05:27:12.951176",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-10 01:57",
+    "customer_msg": "Do u have this",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 3.5,
+    "priority": "LOW",
+    "last_checked": "2026-09-10T05:27:12.957936",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-10 01:57",
+    "customer_msg": "Please, do you still have this machine available?",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 3.5,
+    "priority": "LOW",
+    "last_checked": "2026-09-10T05:27:12.975971",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-10 01:57",
+    "customer_msg": "So waiting for your call sir",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 3.5,
+    "priority": "LOW",
+    "last_checked": "2026-09-10T05:27:13.024096",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-10 01:57",
+    "customer_msg": "This one",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "stock_found_but_missed",
+    "age_hours": 3.5,
+    "priority": "HIGH",
+    "last_checked": "2026-09-10T05:27:13.042331",
+    "checked_count": 1,
+    "match": {
+      "name": "Arlec Power Socket",
+      "price": 120.0,
+      "stock": 1,
+      "variant": "Metal Screwless One Gang Double Pole"
+    }
+  },
+  {
+    "timestamp": "2026-09-10 01:57",
+    "customer_msg": "Who posted this on Tonaton? Your number is there and you say what?",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 3.5,
+    "priority": "LOW",
+    "last_checked": "2026-09-10T05:27:13.055469",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-10 01:57",
+    "customer_msg": "[Contact: Becky Facilitator +233 55 666 0889]",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 3.5,
+    "priority": "LOW",
+    "last_checked": "2026-09-10T05:27:13.068379",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-10 01:58",
+    "customer_msg": "Master, why are you deceiving the public if you don't have the item in stock. Take the post out immediately please",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 3.5,
+    "priority": "LOW",
+    "last_checked": "2026-09-10T05:27:13.105043",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-10 01:58",
+    "customer_msg": "Emmanuel Amoesi. Tell. 0244453252",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 3.5,
+    "priority": "LOW",
+    "last_checked": "2026-09-10T05:27:13.145576",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-10 01:58",
+    "customer_msg": "2 REAL ENTERPRISES",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 3.5,
+    "priority": "LOW",
+    "last_checked": "2026-09-10T05:27:13.166442",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-10 01:58",
+    "customer_msg": "Hello please my colleague made an enquiry for walkie talkie",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 3.5,
+    "priority": "LOW",
+    "last_checked": "2026-09-10T05:27:13.175174",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-10 01:58",
+    "customer_msg": "🤝",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 3.5,
+    "priority": "LOW",
+    "last_checked": "2026-09-10T05:27:13.175325",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-10 01:58",
+    "customer_msg": "Good morning. I am assuming that you don’t have the item. Thanks for trying.",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 3.5,
+    "priority": "LOW",
+    "last_checked": "2026-09-10T05:27:13.185945",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-10 01:58",
+    "customer_msg": "Pls buy milk when coming",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 3.5,
+    "priority": "LOW",
+    "last_checked": "2026-09-10T05:27:13.230371",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-10 01:59",
+    "customer_msg": "??",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 3.5,
+    "priority": "LOW",
+    "last_checked": "2026-09-10T05:27:13.238446",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-10 01:59",
+    "customer_msg": "Yes please",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 3.5,
+    "priority": "LOW",
+    "last_checked": "2026-09-10T05:27:13.249036",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-10 01:59",
+    "customer_msg": "I saw a keyboard on my website",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 3.5,
+    "priority": "LOW",
+    "last_checked": "2026-09-10T05:27:13.259543",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-10 01:59",
+    "customer_msg": "Ohh",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 3.5,
+    "priority": "LOW",
+    "last_checked": "2026-09-10T05:27:13.269258",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-10 01:59",
+    "customer_msg": "Pleas last price of this machine",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 3.5,
+    "priority": "LOW",
+    "last_checked": "2026-09-10T05:27:13.279796",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-10 02:00",
+    "customer_msg": "🤝",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 3.5,
+    "priority": "LOW",
+    "last_checked": "2026-09-10T05:27:13.289707",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-10 02:00",
+    "customer_msg": "Thank you, I’m really looking forward to discussing this with you.",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 3.5,
+    "priority": "LOW",
+    "last_checked": "2026-09-10T05:27:13.297815",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-10 02:00",
+    "customer_msg": "Here is a small selection from the catalogue; if you can’t find anything that takes your fancy, please send me a photo.",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 3.5,
+    "priority": "LOW",
+    "last_checked": "2026-09-10T05:27:13.351800",
+    "checked_count": 1
   }
 ]

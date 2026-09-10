@@ -72,8 +72,9 @@
 | 6 Sep | — (no report) | — (no report) | — (no report) |
 | 7 Sep | Baked beans + scrambled eggs | Kenkey with gravy and sardine | Boiled yam with light soup |
 | 8 Sep | Tom brown + 2 boiled eggs | Kokonte with groundnut soup — **NO SALT** (left some soup) | Jacket potatoes |
+| 9 Sep | Baked beans + scrambled eggs | Fufu with light soup | Boiled beans with rice |
 
-> **Backfill complete (8 Sep 26):** Meals logged for 5 Aug–8 Sep (6 Sep: no report). 🎂 **Birthday 28 Aug** logged. **8 Sep:** tom brown+eggs / kokonte+groundnut soup **with NO SALT** (👏 carer adopting the low-salt rule) / jacket potatoes — a good, gentle day for the bowels too. Diarrhoea (7–8 Sep) resolved by evening. See medical master for flags.
+> **Backfill complete (9 Sep 26):** Meals logged for 5 Aug–9 Sep (6 Sep: no report). **9 Sep:** baked beans+eggs / fufu+light soup / beans+rice — good, gentle day, bowels normal. **Outing planned 10 Sep** (clothes ironed). Evening: neck pain + self-medicated paracetamol + emotional episode (see medical master). See medical master for all flags.
 
 ---
 

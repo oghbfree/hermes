@@ -321,7 +321,7 @@ Until H completes steps 2-5, content remains in the "ready to post" state and mu
 Every piece of visual content MUST include the correct brand logo. This is non-negotiable.
 
 ### Logo Files
-- **Akoma Robotics:** `content-assets/akoma/AKOMA_ROBOTICS_LOGO_OFFICIAL.jpg` — Heart + robotic arms handshake, purple (#6A0DAD) + gold (#FFD700)
+- **Akoma Robotics:** `content-assets/akoma/AKOMA_ROBOTICS_LOGO_TRANSPARENT.png` (overlay composite — do NOT generate or describe the logo in prompts) + hi-res reference `AKOMA_ROBOTICS_LOGO_OFFICIAL.jpg` — Heart + robotic arms handshake, purple (#6A0DAD) + gold (#FFD700)
 - **2 Real Enterprises:** `content-assets/2real/2REAL_LOGO.jpg` — Stylized tree forming "2", green (#4CAF50) + yellow (#FFC107)
 
 ### Logo Application Rules

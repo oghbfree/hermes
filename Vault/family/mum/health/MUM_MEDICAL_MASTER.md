@@ -55,7 +55,7 @@ Date-range snapshot:
 - 25 Jul: 108–127/60–63 · 26 Jul: 127–128/66–72 · 27 Jul: 112–126/60–72
 - 28 Jul: 122–134/72–78 · 29 Jul: 120–127/60–67 · 30 Jul: 126–136/68–78
 - 31 Jul: 121–126/60–64 · 1 Aug: 118–127/62–63 · 3 Aug: 127–135/71–72 · 4 Aug: 126/75
-- 5 Aug: 125/72 · 6 Aug: 124/62–126/59 · **7 Aug: 118/60–130/73** · **8 Aug: 113/65–136/76** · 9 Aug: 120/68–125/66 · **10 Aug: 122/77 (evening dose refused)** · **11 Aug: 123/73–138/79** · **13 Aug: 122/78** · **14 Aug: 137/79–144/82 (eve above 140)** · **15 Aug: 124–130/72–79** · **16 Aug: 132/72 (AM), early-AM 166/79 (⚠️ high)** · **17 Aug: 130/77** · **18 Aug: 139–140/72–75** · **19 Aug: 132–136/72–75** · **20 Aug: 142/76 (AM, ⚠️ above 140)** · **21 Aug: 113/69 (eve, no AM reading — dose held)** · **22 Aug: 140/77 (AM, ⚠️ at threshold)** · **23 Aug: 119/82 (eve, healthy)** · **24 Aug: 130/76 (AM, healthy)** · **25 Aug: 126/74 (AM, healthy)** · **26 Aug: 136/79–139/76 (AM+eve)** · **28 Aug: 142/71 (AM, ⚠️ above 140, birthday)** · **30 Aug: 127/72 (AM, healthy)** · **31 Aug: 138/92 (AM, diastolic ⚠️ high)** · **1 Sep: 131/67 (AM, healthy)** · **2 Sep: 129/69 (AM, healthy)** · **3 Sep: 126/67 (AM, healthy)** · **4 Sep: 137/77 (AM, systolic near threshold)** · **5 Sep: 145/76 (AM, ⚠️ HIGH — checked 3×, advised rest)** · **7 Sep: 128/68 (AM, back to healthy ✅)** · **8 Sep: 145/72 (AM, ⚠️ high 3×; recheck 45 min later 136/67)** — latest captured *(6 Sep: no report)*
+- 5 Aug: 125/72 · 6 Aug: 124/62–126/59 · **7 Aug: 118/60–130/73** · **8 Aug: 113/65–136/76** · 9 Aug: 120/68–125/66 · **10 Aug: 122/77 (evening dose refused)** · **11 Aug: 123/73–138/79** · **13 Aug: 122/78** · **14 Aug: 137/79–144/82 (eve above 140)** · **15 Aug: 124–130/72–79** · **16 Aug: 132/72 (AM), early-AM 166/79 (⚠️ high)** · **17 Aug: 130/77** · **18 Aug: 139–140/72–75** · **19 Aug: 132–136/72–75** · **20 Aug: 142/76 (AM, ⚠️ above 140)** · **21 Aug: 113/69 (eve, no AM reading — dose held)** · **22 Aug: 140/77 (AM, ⚠️ at threshold)** · **23 Aug: 119/82 (eve, healthy)** · **24 Aug: 130/76 (AM, healthy)** · **25 Aug: 126/74 (AM, healthy)** · **26 Aug: 136/79–139/76 (AM+eve)** · **28 Aug: 142/71 (AM, ⚠️ above 140, birthday)** · **30 Aug: 127/72 (AM, healthy)** · **31 Aug: 138/92 (AM, diastolic ⚠️ high)** · **1 Sep: 131/67 (AM, healthy)** · **2 Sep: 129/69 (AM, healthy)** · **3 Sep: 126/67 (AM, healthy)** · **4 Sep: 137/77 (AM, systolic near threshold)** · **5 Sep: 145/76 (AM, ⚠️ HIGH — checked 3×, advised rest)** · **7 Sep: 128/68 (AM, back to healthy ✅)** · **8 Sep: 145/72 (AM, ⚠️ high 3×; recheck 45 min later 136/67)** · **9 Sep: 136/67 (AM, settled ✅)** — latest captured *(6 Sep: no report)*
 
 *Full bloodwork (kidney, liver, lipids, FBC, thyroid, BNP, ferritin, phosphate): see `CLINICAL_SUMMARY_COMFORT.md`.*
 
@@ -464,7 +464,24 @@ Date-range snapshot:
 - **Vitals:** none recorded.
 - **Dinner:** Jacket potatoes (ate all). Log: Mood Fair, Appetite Fair, Swelling Same, **Bowel: Normal** (resolved), Skin Okay.
 
-> **Backfill complete (8 Sep 26):** All of 4 Aug–8 Sep captured (6 Sep: NO report — gap noted). 🎂 **28 Aug = 92nd birthday.** ⚠️ Flags for doctor: **BP instability — 5 & 8 Sep 145 highs; rechecks settle to ~136** + **diarrhoea 7–8 Sep (resolved by 8 Sep eve; Imodium stock gap noted)** + recurring back pain (3 Aug, 28 Aug, 3 Sep) + self-medicated paracetamol 3 Sep + recurring insomnia + regurgitation (31 Aug) + 10 Aug dose refused + 16 Aug AM BP 166 + 18/20/22/28/5/8-Sep BP at/above 140 + 31 Aug diastolic 92 + 21 Aug AM no dose. Latest: **8 Sep (BP 145→136 after recheck; bowels normal by evening)**. **Furosemide continued during diarrhoea — ask doctor about dehydration risk.** 👏 8 Sep kokonte cooked NO SALT (diet plan working). **Consider BP review — several >140 readings recently.**
+### 9 Sep 2026 (Wed) — Morning
+- **Status:** Feeling okay; warm bath 10:20am; **plumber fixed the water heater** (the fixture that fell earlier — now repaired).
+- **Vitals:** BP 136/67, Pulse 81, Temp 36.2°C ✅ settled
+- **Medication:** Furosemide 20mg given at 9:35am.
+- **Check-in:** Declined lemon water. Breakfast **baked beans + scrambled eggs** (ate all — good protein). Log: Mood Fair, Appetite Fair, Swelling Same, **Bowel: Normal**, Skin Okay.
+
+### 9 Sep 2026 (Wed) — Afternoon
+- **Status:** Fufu lunch; long chat with carer; wanted to be ALONE in her room (asked carer to leave — respectable boundary, carer agreed; she chose to come to living room when awake rather than be checked on). **4pm: asked carer to iron her clothes for TOMORROW'S OUTING** 🚗 (outing planned for 10 Sep).
+- **Vitals:** none recorded.
+- **Lunch:** Fufu with light soup (ate all). Log: Mood Fair, Appetite Fair, Swelling Same, Urine Normal, Skin Okay.
+
+### 9 Sep 2026 (Wed) — Evening ⚠️ neck pain + self-medication + emotional episode
+- **Status:** Dinner, TV. Then: **declined socks/leaf AND Epsom foot soak**; **neck pain** (new site — previously back/hip) — **refused pain-relief gel massage (2×)**; **frustrated about not hearing from her son** → called him, spoke with him; carer gave her ~30 min alone to calm from aggression/frustration. She then went to bed, told carer she'd taken **Paracetamol 500mg herself** (self-medication — 3rd instance: 3 Sep, 9 Sep + earlier), said she'd be fine and asked carer not to worry.
+- **Vitals:** none recorded.
+- **Dinner:** Boiled beans with rice (ate all). Log: Mood Fair, Appetite Fair, Swelling Same, Bowel Normal, Skin Okay.
+- **Note:** Neck pain is a NEW pain site; repeated self-medication (paracetamol without carer knowledge); and an emotional/agitation episode this evening — worth noting for the doctor and for carer approach (give her autonomy where safe, keep the reassurance approach that worked).
+
+> **Backfill complete (9 Sep 26):** All of 4 Aug–9 Sep captured (6 Sep: NO report — gap noted). 🎂 **28 Aug = 92nd birthday.** ⚠️ Flags for doctor: **BP instability — 5 & 8 Sep 145 highs; rechecks settle to ~136** + **neck pain NEW site (9 Sep) + self-medicated paracetamol (3 Sep, 9 Sep)** + emotional/agitation episode (9 Sep eve, resolved after speaking to son) + diarrhoea 7–8 Sep (resolved; **Imodium stock gap**) + recurring back pain + recurring insomnia + regurgitation (31 Aug) + 10 Aug dose refused + 16 Aug AM BP 166 + 18/20/22/28/5/8-Sep BP at/above 140 + 31 Aug diastolic 92 + 21 Aug AM no dose. Latest: **9 Sep (BP 136/67 ✅ settled)**. **Heater fixed 9 Sep. OUTING PLANNED 10 Sep (clothes ironed 9 Sep evening).** 👏 Low-salt cooking working (8 Sep). **Consider BP review — several >140 readings recently.**
 
 ---
 

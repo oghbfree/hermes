@@ -3193,3 +3193,630 @@ Am 25 years old and i stay at Tudo accra
 - **Chat:** 253321533247643
 - **Customer:** Thanks I just received the mifi
 - **Reply:** We will get back to you shortly.
+
+## 2026-09-10 01:57
+- **Channel:** whatsapp
+- **Chat:** 256929624543282
+- **Customer:** [document received]
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 01:57
+- **Channel:** whatsapp
+- **Chat:** 109818354356275
+- **Customer:** [image received]
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 01:57
+- **Channel:** whatsapp
+- **Chat:** 256929624543282
+- **Customer:** [image received]
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 01:57
+- **Channel:** whatsapp
+- **Chat:** 256929624543282
+- **Customer:** [image received]
+
+Hello
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 01:57
+- **Channel:** whatsapp
+- **Chat:** 24726177095900
+- **Customer:** Okay. No problem.
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 01:57
+- **Channel:** whatsapp
+- **Chat:** 155091755606170
+- **Customer:** Do u have this
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 01:57
+- **Channel:** whatsapp
+- **Chat:** 253875667922963
+- **Customer:** [image received]
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 01:57
+- **Channel:** whatsapp
+- **Chat:** 119757009383512
+- **Customer:** Please, do you still have this machine available?
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 01:57
+- **Channel:** whatsapp
+- **Chat:** 21444872405153
+- **Customer:** [image received]
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 01:57
+- **Channel:** whatsapp
+- **Chat:** 73632952909976
+- **Customer:** [image received]
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 01:57
+- **Channel:** whatsapp
+- **Chat:** 177451053379703
+- **Customer:** [image received]
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 01:57
+- **Channel:** whatsapp
+- **Chat:** 177451053379703
+- **Customer:** [image received]
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 01:57
+- **Channel:** whatsapp
+- **Chat:** 177451053379703
+- **Customer:** [image received]
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 01:57
+- **Channel:** whatsapp
+- **Chat:** 256929624543282
+- **Customer:** So waiting for your call sir
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 01:57
+- **Channel:** whatsapp
+- **Chat:** 155091755606170
+- **Customer:** Goodmorning
+[owner reply] Greetings
+Plss last price
+[owner reply] Just give someone electric shock
+[owner reply] Or taser
+[owner reply] ?
+Yhh that’s what am asking
+[owner reply] You don't know?
+Plss I said do u have some
+I need it together with the walkie talkie
+[owner reply] What is it?
+Plss am in Dunkwa n I need a delivery of it
+[owner reply] No
+[owner reply] I have the walkie talkies how many pieces do you want
+4 pieces plss
+So how much for it
+[owner reply] I only have 2 Boxes left
+[owner reply] Each with two pieces inside
+[owner reply] 800 each
+Plss reduce it
+[owner reply] 790
+Plss I will give 760
+[owner reply] Too low
+Cus am a seller n I like to patronize from u n sell it if only it reaches 8km
+[owner reply] It's on the box
+Ohk boss
+Plss let me knock ur price
+[owner reply] Bring 780
+Okay 
+Boss
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 01:57
+- **Channel:** whatsapp
+- **Chat:** 47576023871627
+- **Customer:** Hi
+I just called u
+[owner reply] Ok
+So morrow I will call u pls
+[owner reply] Ohk
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 01:57
+- **Channel:** whatsapp
+- **Chat:** 253875667922963
+- **Customer:** Hi
+Please does it shows the frequency?
+[owner reply] Yes
+Best price for 8 pcs
+[owner reply] I have different types
+I need with small screen for frequency
+[owner reply] Ok
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 01:57
+- **Channel:** whatsapp
+- **Chat:** 191955141181666
+- **Customer:** This one
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 01:57
+- **Channel:** whatsapp
+- **Chat:** 256929624543282
+- **Customer:** [image received]
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 01:57
+- **Channel:** whatsapp
+- **Chat:** 215144038715477
+- **Customer:** Hi
+[owner reply] Greetings
+Yes sir
+Please about used keyboards
+[owner reply] Ok
+[owner reply] You will come tomorrow or
+Nooo
+Price
+I want two oo
+[owner reply] Ok
+?
+[owner reply] 1,200 going
+Both
+[owner reply] Yes let's see
+2 keyboards for 1200
+Eii
+[owner reply] No
+One
+[owner reply] 1200+
+Ok
+Which one will be good for starting up a studio for rehearsals
+Does it come with it adapter
+[owner reply] Yes
+How much
+???
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 01:57
+- **Channel:** whatsapp
+- **Chat:** 191955141181666
+- **Customer:** Who posted this on Tonaton? Your number is there and you say what?
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 01:57
+- **Channel:** whatsapp
+- **Chat:** 73632952909976
+- **Customer:** Hi
+[owner reply] You want one which is mounted on a wall
+Yes please
+Can you help me get one
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 01:57
+- **Channel:** whatsapp
+- **Chat:** 177451053379703
+- **Customer:** [Contact: Becky Facilitator +233 55 666 0889]
+[owner reply] Ok Just tell her to come for interview
+[owner reply] But I don't know when maybe evening
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 01:57
+- **Channel:** whatsapp
+- **Chat:** 66422172602422
+- **Customer:** Hi
+Please the number
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 01:58
+- **Channel:** whatsapp
+- **Chat:** 41945271427224
+- **Customer:** Good morning sir
+[owner reply] Greetings
+[owner reply] Are you ready
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 01:58
+- **Channel:** whatsapp
+- **Chat:** 119757009383512
+- **Customer:** Hi
+Good evening
+Please, I got your number on jiji
+[owner reply] Ok
+[owner reply] Greetings
+[Reaction: 🙏 to A5BE291D5070895CB720FC8D4AB000D2]
+[owner reply] Yes
+Please, how much and where are you located?
+[owner reply] 680
+Please, can you give me a discount?
+Does it vibrate the body?
+[owner reply] 665
+[Reaction: 👍 to A584065AC8F06C1AD87C772D77390639]
+[owner reply] It's a foot massager
+Yes, but some have vibration effects or?
+[owner reply] Yes
+I am looking for such one
+[owner reply] Okay it's available
+Which is the above or a different one?
+[owner reply] That is the only one we have now
+[Reaction: 👍 to A5E5B951593B2292A1C70BA8379EC832]
+Your location please
+How does your delivery works
+[owner reply] Where are you located
+[owner reply] Dome
+Santeo, Yellow Container
+Okay
+I will communicate with my superior and get back to you.
+[owner reply] Ok
+[Reaction: 👍 to A50D40EA5250CD829D5973241BFFF643]
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 01:58
+- **Channel:** whatsapp
+- **Chat:** 219575991955698
+- **Customer:** Hello
+Trust you are doing g well
+I just called you concerning the Motorola walkie talkie
+The name of the company is Drobonso Carbon
+Kindly write the invoice in the company's name
+Thank you
+[owner reply] Greetings should I put your number on the invoice
+No just the company's name
+[owner reply] pay with momo ?
+Drobonso Carbon
+Yeah sure
+[owner reply] Ok
+Make it 2 pieces please 🙏
+[owner reply] ?
+Please I was just informed I should make it 2 pairs
+So the quantity should be 2 n the total  1600gh
+Kindly add a picture of it
+[owner reply] Dear Drobonso Carbon, 
+
+Total Bill Amount is ₵‎1,600 Get a copy of digital invoice
+https://pos.zobaze.com/invoice/5T9SvOKUZtUG2Rvq16Sx/I1GhXOYfazrYT8WQaoZD
+Thank you
+[owner reply] Only have the picture from the listing or unless later or tomorrow
+Ok
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 01:58
+- **Channel:** whatsapp
+- **Chat:** 47576023871627
+- **Customer:** Ok
+Prices
+[owner reply] 1450
+Ok
+But negotiable????
+[owner reply] 1200
+[owner reply] 1450
+👆
+[owner reply] 1200
+This one
+Can o give u 800
+[owner reply] Too low
+Ok
+Let me come there
+[owner reply] Ok
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 01:58
+- **Channel:** whatsapp
+- **Chat:** 191955141181666
+- **Customer:** Master, why are you deceiving the public if you don't have the item in stock. Take the post out immediately please
+[owner reply] Lol
+[owner reply] Did you see me advertise this
+[owner reply] Check well
+Hi
+[owner reply] Will will have to check
+[owner reply] I have White lithium Grease
+[owner reply] Motorcycle cleaner
+[owner reply] We'll check the others
+This is an example is sent to you. But you also posted one
+[owner reply] No I never sent you this please check well and stop accusing
+If you have it, why don't you want to sell?
+[owner reply] Oh ok
+[owner reply] This is a different advert that's one
+Do you have it?
+[owner reply] Yes
+I need one. How can I get it
+[owner reply] Where are you located
+I am at Dawhenya
+[owner reply] My riders are saying it's too far
+[owner reply] Okaka 142
+[owner reply] Can you come to accra
+I was in Accra today. I called you but you didn't call back again
+I can come to Accra tomorrow
+[owner reply] It will be ready for pick up in Oyarifa, I'll send you pictures later
+Ok
+How much
+Do you have CRC contact cleaner also?
+[owner reply] I'll check
+Please I want to come for it early because of vehicular traffic. Can you confirm it please.
+Thank you. I will  call early
+Can I come now
+[owner reply] Yes what time would you be here
+Good morning
+It depends because I don't know there very well.
+But I am leaving home now
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 01:58
+- **Channel:** whatsapp
+- **Chat:** 103599292022881
+- **Customer:** Hello
+[owner reply] Greetings how may I help
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 01:58
+- **Channel:** whatsapp
+- **Chat:** 190203264241825
+- **Customer:** [image received]
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 01:58
+- **Channel:** whatsapp
+- **Chat:** 190203264241825
+- **Customer:** [image received]
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 01:58
+- **Channel:** whatsapp
+- **Chat:** 90241977323733
+- **Customer:** [image received]
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 01:58
+- **Channel:** whatsapp
+- **Chat:** 191955141181666
+- **Customer:** Emmanuel Amoesi. Tell. 0244453252
+[owner reply] Also please send here your name and telephone number
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 01:58
+- **Channel:** whatsapp
+- **Chat:** 90241977323733
+- **Customer:** [image received]
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 01:58
+- **Channel:** whatsapp
+- **Chat:** 190203264241825
+- **Customer:** 2 REAL ENTERPRISES
+morning
+[owner reply] Greetings
+hi
+Are you in the lifting equipment business?
+I noticed you on the website
+I am currently responsible for the Ghanaian market and the African market
+Do you have your own shop?
+We are a Chinese supplier and look forward to meeting more partners.
+[owner reply] I'm looking for power tool batteries and car interior plastic mouldings
+This is my business card
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 01:58
+- **Channel:** whatsapp
+- **Chat:** 113730834673774
+- **Customer:** Hello please my colleague made an enquiry for walkie talkie
+Please how do I make payment for it
+[owner reply] Greetings How many do you want ?
+Two please
+[owner reply] Okay where are you located
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 01:58
+- **Channel:** whatsapp
+- **Chat:** 90241977323733
+- **Customer:** 🤝
+That's it
+[owner reply] Ok
+Pls your final price
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 01:58
+- **Channel:** whatsapp
+- **Chat:** 24726177095900
+- **Customer:** Good morning. I am assuming that you don’t have the item. Thanks for trying.
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 01:58
+- **Channel:** whatsapp
+- **Chat:** 272550370218058
+- **Customer:** Hello
+This is my WhatsApp
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 01:58
+- **Channel:** whatsapp
+- **Chat:** 90241977323733
+- **Customer:** [image received]
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 01:58
+- **Channel:** whatsapp
+- **Chat:** 107211594449040
+- **Customer:** Good afternoon
+Please you said you’ll get back to me
+[owner reply] Afternoon so sorry
+[owner reply] It has been sold
+[owner reply] Apologies
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 01:58
+- **Channel:** whatsapp
+- **Chat:** 190203264241825
+- **Customer:** [video received]
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 01:58
+- **Channel:** whatsapp
+- **Chat:** 177451053379703
+- **Customer:** Pls buy milk when coming
+Pls buy milk
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 01:58
+- **Channel:** whatsapp
+- **Chat:** 103599292022881
+- **Customer:** [image received]
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 01:59
+- **Channel:** whatsapp
+- **Chat:** 215144038715477
+- **Customer:** ??
+[owner reply] https://jiji.com.gh/dome/musical-instruments/vintage-yamaha-dx21-programmable-algorithm-synthesizer-61-keys-z5F5GlxBx4FVRl7VfNDil3iz.html
+1950
+Ohk
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 01:59
+- **Channel:** whatsapp
+- **Chat:** 19882024403050
+- **Customer:** Yes please
+[owner reply] Robotics are you still interested
+Yes please
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 01:59
+- **Channel:** whatsapp
+- **Chat:** 103599292022881
+- **Customer:** I saw a keyboard on my website
+[owner reply] Ok yes we have some
+Ok
+I need the angelet one
+How can i get it
+[owner reply] Do not have and cannot get
+Ok which ones are  available
+[owner reply] For studio
+[owner reply] Only
+[owner reply] https://jiji.com.gh/dome/musical-instruments/vintage-yamaha-dx21-programmable-algorithm-synthesizer-61-keys-z5F5GlxBx4FVRl7VfNDil3iz.html
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 01:59
+- **Channel:** whatsapp
+- **Chat:** 107211594449040
+- **Customer:** Ohh
+Will u bring some again
+[owner reply] Yes
+Ok
+Please when
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 01:59
+- **Channel:** whatsapp
+- **Chat:** 90241977323733
+- **Customer:** Pleas last price of this machine
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 02:00
+- **Channel:** whatsapp
+- **Chat:** 21444872405153
+- **Customer:** [image received]
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 02:00
+- **Channel:** whatsapp
+- **Chat:** 73632952909976
+- **Customer:** Hi
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 02:00
+- **Channel:** whatsapp
+- **Chat:** 90241977323733
+- **Customer:** 🤝
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 02:00
+- **Channel:** whatsapp
+- **Chat:** 253875667922963
+- **Customer:** Hi
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 02:00
+- **Channel:** whatsapp
+- **Chat:** 219575991955698
+- **Customer:** Hello
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 02:00
+- **Channel:** whatsapp
+- **Chat:** 190203264241825
+- **Customer:** Thank you, I’m really looking forward to discussing this with you.
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 02:00
+- **Channel:** whatsapp
+- **Chat:** 272550370218058
+- **Customer:** Hello
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 02:00
+- **Channel:** whatsapp
+- **Chat:** 191955141181666
+- **Customer:** Hi
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 02:00
+- **Channel:** whatsapp
+- **Chat:** 119757009383512
+- **Customer:** Hi
+Good evening
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 02:00
+- **Channel:** whatsapp
+- **Chat:** 190203264241825
+- **Customer:** [document received]
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 02:00
+- **Channel:** whatsapp
+- **Chat:** 190203264241825
+- **Customer:** [document received]
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 02:00
+- **Channel:** whatsapp
+- **Chat:** 190203264241825
+- **Customer:** [document received]
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 02:00
+- **Channel:** whatsapp
+- **Chat:** 190203264241825
+- **Customer:** [image received]
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 02:00
+- **Channel:** whatsapp
+- **Chat:** 190203264241825
+- **Customer:** [image received]
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 02:00
+- **Channel:** whatsapp
+- **Chat:** 190203264241825
+- **Customer:** Here is a small selection from the catalogue; if you can’t find anything that takes your fancy, please send me a photo.
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 02:07
+- **Channel:** whatsapp
+- **Chat:** 190203264241825
+- **Customer:** ok
+。。
+- **Reply:** [acknowledgment - no reply sent]
+
+## 2026-09-10 04:32
+- **Channel:** whatsapp
+- **Chat:** 253875667922963
+- **Customer:** Ok
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 05:26
+- **Channel:** whatsapp
+- **Chat:** 19882024403050
+- **Customer:** Okay
+- **Reply:** We will get back to you shortly.
