@@ -492,5 +492,58 @@
       "unknown_count": 0
     },
     "saved_at": "2026-09-07T06:32:24.495061"
+  },
+  {
+    "date": "2026-09-10",
+    "trends": {
+      "total_inquiries": 503,
+      "unresolved_count": 0,
+      "top_keywords": [
+        {
+          "word": "received",
+          "count": 101
+        },
+        {
+          "word": "image",
+          "count": 90
+        },
+        {
+          "word": "okay",
+          "count": 21
+        },
+        {
+          "word": "good",
+          "count": 20
+        },
+        {
+          "word": "bottle",
+          "count": 20
+        },
+        {
+          "word": "jack",
+          "count": 20
+        },
+        {
+          "word": "hydraulic",
+          "count": 17
+        },
+        {
+          "word": "morning",
+          "count": 13
+        },
+        {
+          "word": "pls",
+          "count": 13
+        },
+        {
+          "word": "s25",
+          "count": 12
+        }
+      ],
+      "items_in_stock_missed": [],
+      "items_customers_want_not_in_stock": [],
+      "unknown_count": 0
+    },
+    "saved_at": "2026-09-10T06:32:07.244598"
   }
 ]

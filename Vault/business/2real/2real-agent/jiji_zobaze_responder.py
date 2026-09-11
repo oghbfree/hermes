@@ -4,10 +4,11 @@ Jiji + Zobaze WhatsApp Response Draft for 2Real Enterprises
 ============================================================
 STRICT matching only. No fuzzy, no synonyms, no LLM fallback.
 - If the customer's query tokens are ALL contained in an item name/variant -> reply with price
-- Otherwise -> safe placeholder
+- Otherwise -> safe placeholder (ONCE per customer only)
 """
 import json
 import re
+import os
 from pathlib import Path
 from datetime import datetime
 
@@ -16,6 +17,56 @@ ZOBaze_INVENTORY_PATH = Path(r"C:\Users\User\.hermes\workspace\Vault\business\2r
 JIJI_TITLES_PATH = Path(r"C:\Users\User\.hermes\workspace\Vault\business\2real\2real-agent\jiji_page_listings.json")
 REPLY_LOG_PATH = Path(r"C:\Users\User\.hermes\workspace\Vault\business\2real\customer-interactions.md")
 PLACEHOLDER = "Thanks for your message. I've noted it — I'll confirm and get back to you shortly with the details."
+
+# ─── DEDUP TRACKER (message-hash based, no customer number needed) ────────
+REPLY_TRACKER_PATH = Path(r"C:\Users\User\.hermes\workspace\Vault\business\2real\2real-agent\sent_replies.json")
+PLACEHOLDER_COOLDOWN_MINUTES = 30  # Don't send placeholder twice in this window
+
+def load_tracker():
+    if not REPLY_TRACKER_PATH.exists():
+        return {"hashes": {}, "last_placeholder_at": 0}
+    try:
+        return json.loads(REPLY_TRACKER_PATH.read_text(encoding="utf-8"))
+    except:
+        return {"hashes": {}, "last_placeholder_at": 0}
+
+def save_tracker(tracker):
+    # Prune old hashes (keep only last 72h)
+    now = datetime.now().timestamp()
+    cutoff = now - 259200  # 72 hours
+    tracker["hashes"] = {k: v for k, v in tracker["hashes"].items() if v > cutoff}
+    if len(tracker["hashes"]) > 1000:
+        keys = sorted(tracker["hashes"].keys(), key=lambda k: tracker["hashes"][k])
+        for k in keys[:-1000]:
+            del tracker["hashes"][k]
+    REPLY_TRACKER_PATH.write_text(json.dumps(tracker, indent=2), encoding="utf-8")
+
+def get_message_hash(text):
+    """Create a stable hash of the normalized message text."""
+    norm = normalize(text)
+    # Use first 40 chars of normalized text as key (catches identical/similar queries)
+    return norm[:60]
+
+def already_handled(message_text):
+    """Check if this exact message already got a placeholder reply."""
+    tracker = load_tracker()
+    key = get_message_hash(message_text)
+    return key in tracker["hashes"]
+
+def is_in_cooldown():
+    """Check if we sent a placeholder within the cooldown window."""
+    tracker = load_tracker()
+    now = datetime.now().timestamp()
+    elapsed = now - tracker.get("last_placeholder_at", 0)
+    return elapsed < PLACEHOLDER_COOLDOWN_MINUTES * 60
+
+def mark_handled(message_text):
+    """Mark this message as handled (placeholder sent)."""
+    tracker = load_tracker()
+    key = get_message_hash(message_text)
+    tracker["hashes"][key] = datetime.now().timestamp()
+    tracker["last_placeholder_at"] = datetime.now().timestamp()
+    save_tracker(tracker)
 
 STOP_WORDS = {
     "a","an","the","is","are","was","were","be","been","being","have","has","had",
@@ -314,23 +365,23 @@ def detect_intent(text):
     return None
 
 # ─── REPLY GENERATOR ──────────────────────────────────────────────────────
-def draft_reply(customer_message, items, jiji_titles):
+def draft_reply(customer_message, items, jiji_titles, customer_number=None):
     text = str(customer_message or "").strip()
     if not text:
-        return PLACEHOLDER
+        return ""
     
     # 1) Check intent (non-product)
     intent = detect_intent(text)
     if intent:
         return intent
     
-    # 2) JIJI — PRIMARY source (being phased in, Zobaze phased out)
+    # 2) JIJI — PRIMARY source
     jiji_title, j_score = match_jiji(text, jiji_titles)
     if jiji_title:
         return (f"2Real Enterprises. Yes, we have \"{jiji_title}\" on our Jiji shop. "
                 "Message back for price and availability and I'll confirm stock for you.")
     
-    # 3) ZOBaZE — SECONDARY / legacy (being phased out)
+    # 3) ZOBaZE — SECONDARY
     matched, m_score = match_inventory(text, items)
     if matched:
         price = float(matched.get("price", 0))
@@ -343,11 +394,18 @@ def draft_reply(customer_message, items, jiji_titles):
         return (f"2Real Enterprises. {variant} is currently out of stock. "
                 f"Price when restocked: GHS {price:,.0f}. I'll get back to you when it's back.")
     
-    # 4) No match — return None so the hook stays silent
-    return None
+    # 4) No match — dedup check
+    if already_handled(text):
+        return ""  # Same message already got a placeholder — stay silent
+    if is_in_cooldown():
+        return ""  # Recently sent a placeholder — conversation active, stay silent
+    mark_handled(text)
+    return PLACEHOLDER
 
 # ─── LOG INTERACTION ──────────────────────────────────────────────────────
 def log_interaction(customer_msg, reply, channel="whatsapp"):
+    if not reply:
+        return  # Don't log silent responses
     ts = datetime.now().strftime("%Y-%m-%d %H:%M")
     entry = f"\n## {ts}\n- **Channel:** {channel}\n- **Customer:** {customer_msg}\n- **Reply:** {reply}\n"
     with open(REPLY_LOG_PATH, "a", encoding="utf-8") as f:
@@ -359,9 +417,10 @@ if __name__ == "__main__":
     if len(sys.argv) < 2:
         print("Usage: python jiji_zobaze_responder.py '<customer message>'")
         sys.exit(1)
-    customer_message = " ".join(sys.argv[1:])
+    customer_message = sys.argv[1]
     items = load_zobaze()
     jiji_titles = load_jiji_titles()
     reply = draft_reply(customer_message, items, jiji_titles)
     log_interaction(customer_message, reply)
-    print(reply)
+    if reply:
+        print(reply)

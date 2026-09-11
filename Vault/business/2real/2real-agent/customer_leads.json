@@ -2642,5 +2642,699 @@
     "priority": "LOW",
     "last_checked": "2026-09-10T05:27:13.351800",
     "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-10 06:14",
+    "customer_msg": "No problem",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "out_of_stock",
+    "age_hours": 3.2,
+    "priority": "MEDIUM",
+    "last_checked": "2026-09-10T09:28:21.384679",
+    "checked_count": 1,
+    "match": {
+      "name": "Bosch",
+      "price": 300.0,
+      "stock": 0,
+      "cost": 60.0
+    }
+  },
+  {
+    "timestamp": "2026-09-10 07:46",
+    "customer_msg": "good morning",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 1.7,
+    "priority": "LOW",
+    "last_checked": "2026-09-10T09:28:21.388845",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-10 07:46",
+    "customer_msg": "[image could not be downloaded]",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 1.7,
+    "priority": "LOW",
+    "last_checked": "2026-09-10T09:28:21.399942",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-10 07:47",
+    "customer_msg": "is it still available",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 1.7,
+    "priority": "LOW",
+    "last_checked": "2026-09-10T09:28:21.404412",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-10 07:55",
+    "customer_msg": "What is it please",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 1.6,
+    "priority": "LOW",
+    "last_checked": "2026-09-10T09:28:21.409233",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-10 08:00",
+    "customer_msg": "Send a list pls",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 1.5,
+    "priority": "LOW",
+    "last_checked": "2026-09-10T09:28:21.413377",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-10 09:09",
+    "customer_msg": "How much is one box?",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "out_of_stock",
+    "age_hours": 0.3,
+    "priority": "MEDIUM",
+    "last_checked": "2026-09-10T09:28:21.432802",
+    "checked_count": 1,
+    "match": {
+      "name": "Saber",
+      "price": 1300.0,
+      "stock": 0,
+      "cost": 0
+    }
+  },
+  {
+    "timestamp": "2026-09-10 09:22",
+    "customer_msg": "Please, before that, what will be the delivery fee to Ogbodzo, Joyland Minimarket?",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 0.1,
+    "priority": "LOW",
+    "last_checked": "2026-09-10T09:28:21.437490",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-10 09:28",
+    "customer_msg": "Just wanted to know the keyboard prices and their pics",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 0.0,
+    "priority": "LOW",
+    "last_checked": "2026-09-10T09:28:21.446178",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-10 09:29",
+    "customer_msg": "Ogbodzo near Adjiriganor",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 4.0,
+    "priority": "HIGH",
+    "last_checked": "2026-09-10T13:31:04.433390",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-10 09:29",
+    "customer_msg": "[Reaction: 👍 to 3EB0AA52D99A2D73FF7D7E]",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 4.0,
+    "priority": "HIGH",
+    "last_checked": "2026-09-10T13:31:04.441469",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-10 09:30",
+    "customer_msg": "Interested in this",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 4.0,
+    "priority": "HIGH",
+    "last_checked": "2026-09-10T13:31:04.445318",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-10 09:30",
+    "customer_msg": "Price pls",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 4.0,
+    "priority": "HIGH",
+    "last_checked": "2026-09-10T13:31:04.449423",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-10 09:32",
+    "customer_msg": "6",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "stock_found_but_missed",
+    "age_hours": 4.0,
+    "priority": "HIGH",
+    "last_checked": "2026-09-10T13:31:04.453657",
+    "checked_count": 1,
+    "match": {
+      "name": "Diablo",
+      "price": 290.0,
+      "stock": 1,
+      "variant": "6 Piece Bi Metal Saw Blade"
+    }
+  },
+  {
+    "timestamp": "2026-09-10 09:35",
+    "customer_msg": "yes please",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 3.9,
+    "priority": "LOW",
+    "last_checked": "2026-09-10T13:31:04.457538",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-10 09:35",
+    "customer_msg": "Aoneky Long Portable Tennis, Pickleball Net and Post",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 3.9,
+    "priority": "LOW",
+    "last_checked": "2026-09-10T13:31:04.461596",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-10 09:36",
+    "customer_msg": "And please whats the length ?",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 3.9,
+    "priority": "LOW",
+    "last_checked": "2026-09-10T13:31:04.465776",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-10 09:36",
+    "customer_msg": "[Reaction: 👍 to 3EB0B5604CBF3D839FE868]",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 3.9,
+    "priority": "LOW",
+    "last_checked": "2026-09-10T13:31:04.469855",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-10 09:37",
+    "customer_msg": "Pls can u accept 1000?",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 3.9,
+    "priority": "LOW",
+    "last_checked": "2026-09-10T13:31:04.473810",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-10 09:43",
+    "customer_msg": "East Legon",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 3.8,
+    "priority": "LOW",
+    "last_checked": "2026-09-10T13:31:04.477655",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-10 09:44",
+    "customer_msg": "Ok, I am currently on assignment at Tamale and will be back on Sunday so Monday we can do business.",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 3.8,
+    "priority": "LOW",
+    "last_checked": "2026-09-10T13:31:04.482690",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-10 09:52",
+    "customer_msg": "How are you doing",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 3.7,
+    "priority": "LOW",
+    "last_checked": "2026-09-10T13:31:04.489466",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-10 09:59",
+    "customer_msg": "Does it have transpose function",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 3.5,
+    "priority": "LOW",
+    "last_checked": "2026-09-10T13:31:04.496497",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-10 10:00",
+    "customer_msg": "[Reaction: 🙏 to 3EB09E51325E248452FAD9]",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 3.5,
+    "priority": "LOW",
+    "last_checked": "2026-09-10T13:31:04.500049",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-10 10:20",
+    "customer_msg": "I'm  coming coming",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 3.2,
+    "priority": "LOW",
+    "last_checked": "2026-09-10T13:31:04.503356",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-10 10:26",
+    "customer_msg": "How much the pinck cutting machine",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 3.1,
+    "priority": "LOW",
+    "last_checked": "2026-09-10T13:31:04.506714",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-10 10:27",
+    "customer_msg": "And the drill machine ie the concrete one",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 3.1,
+    "priority": "LOW",
+    "last_checked": "2026-09-10T13:31:04.510141",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-10 10:54",
+    "customer_msg": "Shilth cutting machine",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 2.6,
+    "priority": "LOW",
+    "last_checked": "2026-09-10T13:31:04.513989",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-10 10:56",
+    "customer_msg": "Please, the delivery has been confirmed. But I would like to know the delivery fee first.",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 2.6,
+    "priority": "LOW",
+    "last_checked": "2026-09-10T13:31:04.517577",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-10 11:01",
+    "customer_msg": "You told me about à Kobe",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 2.5,
+    "priority": "LOW",
+    "last_checked": "2026-09-10T13:31:04.520974",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-10 11:27",
+    "customer_msg": "Just ended a call with you about me asking about Parkside driller battery charger",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "stock_found_but_missed",
+    "age_hours": 2.1,
+    "priority": "HIGH",
+    "last_checked": "2026-09-10T13:31:04.524531",
+    "checked_count": 1,
+    "match": {
+      "name": "Parkside",
+      "price": 1300.0,
+      "stock": 1,
+      "variant": "USED Parkside Drill With Battery Charger"
+    }
+  },
+  {
+    "timestamp": "2026-09-10 12:03",
+    "customer_msg": "[Reaction: 👍 to A509A8F5EEF7F1D1F88AB05DDC34AD2B]",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 1.5,
+    "priority": "LOW",
+    "last_checked": "2026-09-10T13:31:04.538094",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-10 12:04",
+    "customer_msg": "Nice",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 1.5,
+    "priority": "LOW",
+    "last_checked": "2026-09-10T13:31:04.541328",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-10 12:10",
+    "customer_msg": "Alright, I will get back to you shortly.",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 1.4,
+    "priority": "LOW",
+    "last_checked": "2026-09-10T13:31:04.544975",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-10 12:17",
+    "customer_msg": "Please, you can proceed with the order.",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 1.2,
+    "priority": "LOW",
+    "last_checked": "2026-09-10T13:31:04.548341",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-10 12:19",
+    "customer_msg": "Please, sorry for the change in location. The person who will be receiving the order has just left the first location.",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 1.2,
+    "priority": "LOW",
+    "last_checked": "2026-09-10T13:31:04.551797",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-10 13:46",
+    "customer_msg": "Hi 👋 I came across your listing on Jiji and noticed you have a good number of products available. Do you currently have a separate website or online store where customers can view your products, check prices, and place orders?",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 3.8,
+    "priority": "LOW",
+    "last_checked": "2026-09-10T17:33:05.526210",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-10 13:49",
+    "customer_msg": "Alright, no problem 😊 I’ll look forward to hearing from you. Thank you.",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 3.7,
+    "priority": "LOW",
+    "last_checked": "2026-09-10T17:33:05.531597",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-10 13:50",
+    "customer_msg": "Alright, no problem 😊 I’ll look forward to hearing from you. Thank you.",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 3.7,
+    "priority": "LOW",
+    "last_checked": "2026-09-10T17:33:05.536704",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-10 13:54",
+    "customer_msg": "[Reaction: 🙏 to A5B219C42ED7D353F511571E230A1B92]",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 3.7,
+    "priority": "LOW",
+    "last_checked": "2026-09-10T17:33:05.546291",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-10 14:04",
+    "customer_msg": "Send her number",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 3.5,
+    "priority": "LOW",
+    "last_checked": "2026-09-10T17:33:05.553268",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-10 15:03",
+    "customer_msg": "Yes, I know about the prices",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 2.5,
+    "priority": "LOW",
+    "last_checked": "2026-09-10T17:33:05.562352",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-10 15:04",
+    "customer_msg": "So I should give it to the rider?",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 2.5,
+    "priority": "LOW",
+    "last_checked": "2026-09-10T17:33:05.567958",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-10 15:12",
+    "customer_msg": "Please, he already made payment to the rider through cash out.",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 2.4,
+    "priority": "LOW",
+    "last_checked": "2026-09-10T17:33:05.582803",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-10 15:13",
+    "customer_msg": "[Reaction: 👍 to A546034CF097E7DD83551D29FCD73093]",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 2.3,
+    "priority": "LOW",
+    "last_checked": "2026-09-10T17:33:05.587165",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-10 15:13",
+    "customer_msg": "boss",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 2.3,
+    "priority": "LOW",
+    "last_checked": "2026-09-10T17:33:05.591619",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-10 15:14",
+    "customer_msg": "?",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 2.3,
+    "priority": "LOW",
+    "last_checked": "2026-09-10T17:33:05.591700",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-10 15:14",
+    "customer_msg": "e still dey available?",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 2.3,
+    "priority": "LOW",
+    "last_checked": "2026-09-10T17:33:05.597593",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-10 15:15",
+    "customer_msg": "just one? or i can get 2",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 2.3,
+    "priority": "LOW",
+    "last_checked": "2026-09-10T17:33:05.602314",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-10 15:15",
+    "customer_msg": "Sorry for the delay and the back and forth.",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 2.3,
+    "priority": "LOW",
+    "last_checked": "2026-09-10T17:33:05.606788",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-10 15:15",
+    "customer_msg": "same price? can i see pics?",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 2.3,
+    "priority": "LOW",
+    "last_checked": "2026-09-10T17:33:05.616461",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-10 15:17",
+    "customer_msg": "Alright, I will",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 2.3,
+    "priority": "LOW",
+    "last_checked": "2026-09-10T17:33:05.632853",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-10 15:34",
+    "customer_msg": "[Reaction: 👍 to A5685E64A0EBEBBB92875D4AC3437F87]",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 2.0,
+    "priority": "LOW",
+    "last_checked": "2026-09-10T17:33:05.652435",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-10 16:08",
+    "customer_msg": "They have added me",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 1.4,
+    "priority": "LOW",
+    "last_checked": "2026-09-10T17:33:05.659504",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-10 16:22",
+    "customer_msg": "Good Afternoon",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 1.2,
+    "priority": "LOW",
+    "last_checked": "2026-09-10T17:33:05.664581",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-10 17:49",
+    "customer_msg": "Yes please Good evening then I wanted the glue",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 9.4,
+    "priority": "HIGH",
+    "last_checked": "2026-09-11T03:12:38.341678",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-10 17:51",
+    "customer_msg": "This one place",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 9.4,
+    "priority": "HIGH",
+    "last_checked": "2026-09-11T03:12:38.357135",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-10 17:51",
+    "customer_msg": "Any day, even if it is today please, where is your location?",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 9.4,
+    "priority": "HIGH",
+    "last_checked": "2026-09-11T03:12:38.370801",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-10 17:53",
+    "customer_msg": "I’m in Kasoa",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 9.3,
+    "priority": "HIGH",
+    "last_checked": "2026-09-11T03:12:38.384757",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-10 17:53",
+    "customer_msg": "So Boss please what is your last price?",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 9.3,
+    "priority": "HIGH",
+    "last_checked": "2026-09-11T03:12:38.398163",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-10 17:56",
+    "customer_msg": "Because I’m from Kasoa coming ooo boss",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 9.3,
+    "priority": "HIGH",
+    "last_checked": "2026-09-11T03:12:38.413259",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-10 17:58",
+    "customer_msg": "No please it is very late the time I will leave home . I think I will get there around 8 are probably 9 because of the traffic",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 9.2,
+    "priority": "HIGH",
+    "last_checked": "2026-09-11T03:12:38.427424",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-10 17:58",
+    "customer_msg": "Please tomorrow if I will meet you, which side can I meet you at oyarifa I don’t really know there. Can we meet at MADINA?",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 9.2,
+    "priority": "HIGH",
+    "last_checked": "2026-09-11T03:12:38.441353",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-10 18:00",
+    "customer_msg": "So, where is the warehouse?",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 9.2,
+    "priority": "HIGH",
+    "last_checked": "2026-09-11T03:12:38.454292",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-10 18:01",
+    "customer_msg": "Hmmm oyarifa is a big place so where is the landmark?",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 9.2,
+    "priority": "HIGH",
+    "last_checked": "2026-09-11T03:12:38.468007",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-10 18:01",
+    "customer_msg": "Because I’ll be using public transport",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 9.2,
+    "priority": "HIGH",
+    "last_checked": "2026-09-11T03:12:38.482031",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-10 18:03",
+    "customer_msg": "Please is it closer to the roadside",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 9.2,
+    "priority": "HIGH",
+    "last_checked": "2026-09-11T03:12:38.496702",
+    "checked_count": 1
   }
 ]

@@ -4,7 +4,7 @@
 > **Updated**: 2026-05-24.
 
 ## 🇬🇭 Ghana Trip
-- [ ] Book hotel for mum on arrival
+- [x] Book hotel for mum on arrival
 - [x] Arrange Plan B accommodation for mum
 - [x] Engage Edwin from airport for daily driving (until shipped Kia fixed) — **Initiated via Telegram topic 20 (Agent Hermes) on 2026-07-10; called Edwin at +233 54 919 8237 to confirm availability/rates for daily airport driving while shipped Kia fixed**
 - [ ] Ford Ranger gearbox repair

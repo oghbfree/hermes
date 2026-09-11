@@ -73,8 +73,9 @@
 | 7 Sep | Baked beans + scrambled eggs | Kenkey with gravy and sardine | Boiled yam with light soup |
 | 8 Sep | Tom brown + 2 boiled eggs | Kokonte with groundnut soup — **NO SALT** (left some soup) | Jacket potatoes |
 | 9 Sep | Baked beans + scrambled eggs | Fufu with light soup | Boiled beans with rice |
+| 10 Sep | Corn dough porridge | Kokonte with groundnut soup | Boiled beans with fried plantain (ate plantain, not all beans) |
 
-> **Backfill complete (9 Sep 26):** Meals logged for 5 Aug–9 Sep (6 Sep: no report). **9 Sep:** baked beans+eggs / fufu+light soup / beans+rice — good, gentle day, bowels normal. **Outing planned 10 Sep** (clothes ironed). Evening: neck pain + self-medicated paracetamol + emotional episode (see medical master). See medical master for all flags.
+> **Backfill complete (10 Sep 26):** Meals logged for 5 Aug–10 Sep (6 Sep: no report). 🎂 **Birthday 28 Aug** logged. 🚗 **10 Sep OUTING with sister Felicia** (no carer; returned 2:20pm, lunch at home after). Evening fried plantain again (phase-out drift). See medical master for flags.
 
 ---
 

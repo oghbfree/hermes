@@ -3820,3 +3820,679 @@ Good evening
 - **Chat:** 19882024403050
 - **Customer:** Okay
 - **Reply:** We will get back to you shortly.
+
+## 2026-09-10 06:13
+- **Channel:** whatsapp
+- **Chat:** 215144038715477
+- **Customer:** Ok sir
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 06:14
+- **Channel:** whatsapp
+- **Chat:** 215144038715477
+- **Customer:** No problem
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 06:14
+- **Channel:** whatsapp
+- **Chat:** 215144038715477
+- **Customer:** Ok
+- **Reply:** [acknowledgment - no reply sent]
+
+## 2026-09-10 07:28
+- **Channel:** whatsapp
+- **Chat:** 37671829274753
+- **Customer:** Hi
+https://jiji.com.gh/accra-metropolitan/hand-and-power-tools/draper-screwdriver-x12-bc209222-dvWpXQKUkiWGOwlb8k2PEeu9.html
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 07:46
+- **Channel:** whatsapp
+- **Chat:** 241690879217833
+- **Customer:** good morning
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 07:46
+- **Channel:** whatsapp
+- **Chat:** 89082185162870
+- **Customer:** Yes
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 07:46
+- **Channel:** whatsapp
+- **Chat:** 241690879217833
+- **Customer:** [image could not be downloaded]
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 07:47
+- **Channel:** whatsapp
+- **Chat:** 241690879217833
+- **Customer:** is it still available
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 07:48
+- **Channel:** whatsapp
+- **Chat:** 89082185162870
+- **Customer:** Ok
+- **Reply:** [acknowledgment - no reply sent]
+
+## 2026-09-10 07:48
+- **Channel:** whatsapp
+- **Chat:** 241690879217833
+- **Customer:** okay
+- **Reply:** [acknowledgment - no reply sent]
+
+## 2026-09-10 07:55
+- **Channel:** whatsapp
+- **Chat:** 191955141181666
+- **Customer:** What is it please
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 08:00
+- **Channel:** whatsapp
+- **Chat:** 177451053379703
+- **Customer:** Send a list pls
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 08:05
+- **Channel:** whatsapp
+- **Chat:** 31495095869569
+- **Customer:** Yes please
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 08:06
+- **Channel:** whatsapp
+- **Chat:** 31495095869569
+- **Customer:** Ok
+- **Reply:** [acknowledgment - no reply sent]
+
+## 2026-09-10 08:38
+- **Channel:** whatsapp
+- **Chat:** 107211594449040
+- **Customer:** Ok
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 08:53
+- **Channel:** whatsapp
+- **Chat:** 119757009383512
+- **Customer:** Alright
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 09:09
+- **Channel:** whatsapp
+- **Chat:** 27750152798262
+- **Customer:** How much is one box?
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 09:22
+- **Channel:** whatsapp
+- **Chat:** 119757009383512
+- **Customer:** Please, before that, what will be the delivery fee to Ogbodzo, Joyland Minimarket?
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 09:26
+- **Channel:** whatsapp
+- **Chat:** 30752100061201
+- **Customer:** Good morning
+Good morning
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 09:27
+- **Channel:** whatsapp
+- **Chat:** 30752100061201
+- **Customer:** Okay
+- **Reply:** [acknowledgment - no reply sent]
+
+## 2026-09-10 09:28
+- **Channel:** whatsapp
+- **Chat:** 30752100061201
+- **Customer:** Just wanted to know the keyboard prices and their pics
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 09:29
+- **Channel:** whatsapp
+- **Chat:** 119757009383512
+- **Customer:** Ogbodzo near Adjiriganor
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 09:29
+- **Channel:** whatsapp
+- **Chat:** 30752100061201
+- **Customer:** Okay
+- **Reply:** [acknowledgment - no reply sent]
+
+## 2026-09-10 09:29
+- **Channel:** whatsapp
+- **Chat:** 30752100061201
+- **Customer:** [image received]
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 09:29
+- **Channel:** whatsapp
+- **Chat:** 119757009383512
+- **Customer:** [Reaction: 👍 to 3EB0AA52D99A2D73FF7D7E]
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 09:30
+- **Channel:** whatsapp
+- **Chat:** 30752100061201
+- **Customer:** Interested in this
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 09:30
+- **Channel:** whatsapp
+- **Chat:** 30752100061201
+- **Customer:** Price pls
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 09:30
+- **Channel:** whatsapp
+- **Chat:** 30752100061201
+- **Customer:** Okay
+- **Reply:** [acknowledgment - no reply sent]
+
+## 2026-09-10 09:32
+- **Channel:** whatsapp
+- **Chat:** 253875667922963
+- **Customer:** 6
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 09:35
+- **Channel:** whatsapp
+- **Chat:** 152501605150942
+- **Customer:** yes please
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 09:35
+- **Channel:** whatsapp
+- **Chat:** 152501605150942
+- **Customer:** Aoneky Long Portable Tennis, Pickleball Net and Post
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 09:36
+- **Channel:** whatsapp
+- **Chat:** 152501605150942
+- **Customer:** And please whats the length ?
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 09:36
+- **Channel:** whatsapp
+- **Chat:** 152501605150942
+- **Customer:** [Reaction: 👍 to 3EB0B5604CBF3D839FE868]
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 09:37
+- **Channel:** whatsapp
+- **Chat:** 90241977323733
+- **Customer:** Pls can u accept 1000?
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 09:43
+- **Channel:** whatsapp
+- **Chat:** 119757009383512
+- **Customer:** East Legon
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 09:44
+- **Channel:** whatsapp
+- **Chat:** 27750152798262
+- **Customer:** Ok, I am currently on assignment at Tamale and will be back on Sunday so Monday we can do business.
+Thanks
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 09:49
+- **Channel:** whatsapp
+- **Chat:** 11626577150023
+- **Customer:** Goodmorning
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 09:52
+- **Channel:** whatsapp
+- **Chat:** 144891342516301
+- **Customer:** Hello
+Good morning
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 09:52
+- **Channel:** whatsapp
+- **Chat:** 144891342516301
+- **Customer:** How are you doing
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 09:52
+- **Channel:** whatsapp
+- **Chat:** 144891342516301
+- **Customer:** Yes please
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 09:59
+- **Channel:** whatsapp
+- **Chat:** 89082185162870
+- **Customer:** Does it have transpose function
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 10:00
+- **Channel:** whatsapp
+- **Chat:** 253875667922963
+- **Customer:** [Reaction: 🙏 to 3EB09E51325E248452FAD9]
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 10:20
+- **Channel:** whatsapp
+- **Chat:** 29399218962649
+- **Customer:** I'm  coming coming
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 10:26
+- **Channel:** whatsapp
+- **Chat:** 44865261969477
+- **Customer:** How much the pinck cutting machine
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 10:27
+- **Channel:** whatsapp
+- **Chat:** 44865261969477
+- **Customer:** And the drill machine ie the concrete one
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 10:39
+- **Channel:** whatsapp
+- **Chat:** 41945271427224
+- **Customer:** Hi
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 10:54
+- **Channel:** whatsapp
+- **Chat:** 44865261969477
+- **Customer:** Shilth cutting machine
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 10:56
+- **Channel:** whatsapp
+- **Chat:** 119757009383512
+- **Customer:** Please, the delivery has been confirmed. But I would like to know the delivery fee first.
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 11:01
+- **Channel:** whatsapp
+- **Chat:** 272550370218058
+- **Customer:** You told me about à Kobe
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 11:26
+- **Channel:** whatsapp
+- **Chat:** 179787834355738
+- **Customer:** Hello
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 11:27
+- **Channel:** whatsapp
+- **Chat:** 179787834355738
+- **Customer:** Just ended a call with you about me asking about Parkside driller battery charger
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 11:28
+- **Channel:** whatsapp
+- **Chat:** 179787834355738
+- **Customer:** [image received]
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 11:28
+- **Channel:** whatsapp
+- **Chat:** 179787834355738
+- **Customer:** [image received]
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 11:48
+- **Channel:** whatsapp
+- **Chat:** 266021751513320
+- **Customer:** Yes sir
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 12:03
+- **Channel:** whatsapp
+- **Chat:** 119757009383512
+- **Customer:** [Reaction: 👍 to A509A8F5EEF7F1D1F88AB05DDC34AD2B]
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 12:04
+- **Channel:** whatsapp
+- **Chat:** 119757009383512
+- **Customer:** Nice 
+Now, let's finalise the delivery fee and proceed with the order.
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 12:10
+- **Channel:** whatsapp
+- **Chat:** 119757009383512
+- **Customer:** Alright, I will get back to you shortly.
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 12:17
+- **Channel:** whatsapp
+- **Chat:** 119757009383512
+- **Customer:** Please, you can proceed with the order. 
+Location: Helemays Foods Limited, Ogbojo.
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 12:19
+- **Channel:** whatsapp
+- **Chat:** 119757009383512
+- **Customer:** Please, sorry for the change in location. The person who will be receiving the order has just left the first location. 
+
+But it's the same locality.
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 13:39
+- **Channel:** whatsapp
+- **Chat:** 177451053379703
+- **Customer:** [video received]
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 13:46
+- **Channel:** whatsapp
+- **Chat:** 74308051333374
+- **Customer:** Hi 👋 I came across your listing on Jiji and noticed you have a good number of products available. Do you currently have a separate website or online store where customers can view your products, check prices, and place orders?
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 13:49
+- **Channel:** whatsapp
+- **Chat:** 74308051333374
+- **Customer:** Alright, no problem 😊 I’ll look forward to hearing from you. Thank you.
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 13:50
+- **Channel:** whatsapp
+- **Chat:** 74308051333374
+- **Customer:** Alright, no problem 😊 I’ll look forward to hearing from you. Thank you.
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 13:53
+- **Channel:** whatsapp
+- **Chat:** 119757009383512
+- **Customer:** Okay 
+But please, you said you would give it to me at a discount price of Ghc 665.
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 13:54
+- **Channel:** whatsapp
+- **Chat:** 119757009383512
+- **Customer:** Alright, thanks
+- **Reply:** [acknowledgment - no reply sent]
+
+## 2026-09-10 13:54
+- **Channel:** whatsapp
+- **Chat:** 119757009383512
+- **Customer:** [Reaction: 🙏 to A5B219C42ED7D353F511571E230A1B92]
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 14:04
+- **Channel:** whatsapp
+- **Chat:** 177451053379703
+- **Customer:** Send her number
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 14:54
+- **Channel:** whatsapp
+- **Chat:** 77592979869834
+- **Customer:** Hi
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 14:54
+- **Channel:** whatsapp
+- **Chat:** 77592979869834
+- **Customer:** [image received]
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 15:03
+- **Channel:** whatsapp
+- **Chat:** 119757009383512
+- **Customer:** Yes, I know about the prices
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 15:03
+- **Channel:** whatsapp
+- **Chat:** 119757009383512
+- **Customer:** ??
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 15:04
+- **Channel:** whatsapp
+- **Chat:** 119757009383512
+- **Customer:** So I should give it to the rider?
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 15:05
+- **Channel:** whatsapp
+- **Chat:** 119757009383512
+- **Customer:** Kk
+- **Reply:** [acknowledgment - no reply sent]
+
+## 2026-09-10 15:05
+- **Channel:** whatsapp
+- **Chat:** 119757009383512
+- **Customer:** Alright
+- **Reply:** [acknowledgment - no reply sent]
+
+## 2026-09-10 15:09
+- **Channel:** whatsapp
+- **Chat:** 119757009383512
+- **Customer:** [image received]
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 15:11
+- **Channel:** whatsapp
+- **Chat:** 119757009383512
+- **Customer:** [image received]
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 15:12
+- **Channel:** whatsapp
+- **Chat:** 119757009383512
+- **Customer:** Please, he already made payment to the rider through cash out.
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 15:13
+- **Channel:** whatsapp
+- **Chat:** 119757009383512
+- **Customer:** [Reaction: 👍 to A546034CF097E7DD83551D29FCD73093]
+Thank you very much 🙏
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 15:13
+- **Channel:** whatsapp
+- **Chat:** 6790913724503
+- **Customer:** boss
+afternoon oh
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 15:14
+- **Channel:** whatsapp
+- **Chat:** 6790913724503
+- **Customer:** ?
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 15:14
+- **Channel:** whatsapp
+- **Chat:** 6790913724503
+- **Customer:** e still dey available?
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 15:15
+- **Channel:** whatsapp
+- **Chat:** 6790913724503
+- **Customer:** just one? or i can get 2
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 15:15
+- **Channel:** whatsapp
+- **Chat:** 119757009383512
+- **Customer:** Sorry for the delay and the back and forth.
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 15:15
+- **Channel:** whatsapp
+- **Chat:** 6790913724503
+- **Customer:** same price? can i see pics?
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 15:16
+- **Channel:** whatsapp
+- **Chat:** 30752100061201
+- **Customer:** Okay
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 15:17
+- **Channel:** whatsapp
+- **Chat:** 119757009383512
+- **Customer:** Alright, I will
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 15:32
+- **Channel:** whatsapp
+- **Chat:** 119757009383512
+- **Customer:** [image received]
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 15:33
+- **Channel:** whatsapp
+- **Chat:** 119757009383512
+- **Customer:** 😊
+- **Reply:** [acknowledgment - no reply sent]
+
+## 2026-09-10 15:34
+- **Channel:** whatsapp
+- **Chat:** 119757009383512
+- **Customer:** Alright 
+I did that already
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 15:34
+- **Channel:** whatsapp
+- **Chat:** 119757009383512
+- **Customer:** [Reaction: 👍 to A5685E64A0EBEBBB92875D4AC3437F87]
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 16:08
+- **Channel:** whatsapp
+- **Chat:** 177451053379703
+- **Customer:** They have added me
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 16:22
+- **Channel:** whatsapp
+- **Chat:** 112185032355900
+- **Customer:** Hello
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 16:22
+- **Channel:** whatsapp
+- **Chat:** 112185032355900
+- **Customer:** Good Afternoon
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 17:49
+- **Channel:** whatsapp
+- **Chat:** 69673110507697
+- **Customer:** Yes please Good evening then I wanted the glue
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 17:51
+- **Channel:** whatsapp
+- **Chat:** 69673110507697
+- **Customer:** This one place
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 17:51
+- **Channel:** whatsapp
+- **Chat:** 69673110507697
+- **Customer:** Any day, even if it is today please, where is your location?
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 17:53
+- **Channel:** whatsapp
+- **Chat:** 69673110507697
+- **Customer:** I’m in Kasoa
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 17:53
+- **Channel:** whatsapp
+- **Chat:** 69673110507697
+- **Customer:** So Boss please what is your last price?
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 17:56
+- **Channel:** whatsapp
+- **Chat:** 69673110507697
+- **Customer:** Because I’m from Kasoa coming ooo boss
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 17:58
+- **Channel:** whatsapp
+- **Chat:** 69673110507697
+- **Customer:** No please it is very late the time I will leave home . I think I will get there around 8 are probably 9 because of the traffic
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 17:58
+- **Channel:** whatsapp
+- **Chat:** 69673110507697
+- **Customer:** Please tomorrow if I will meet you, which side can I meet you at oyarifa I don’t really know there. Can we meet at MADINA?
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 18:00
+- **Channel:** whatsapp
+- **Chat:** 69673110507697
+- **Customer:** So, where is the warehouse?
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 18:01
+- **Channel:** whatsapp
+- **Chat:** 69673110507697
+- **Customer:** Hmmm oyarifa is a big place so where is the landmark?
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 18:01
+- **Channel:** whatsapp
+- **Chat:** 69673110507697
+- **Customer:** Because I’ll be using public transport
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-10 18:03
+- **Channel:** whatsapp
+- **Chat:** 69673110507697
+- **Customer:** Please is it closer to the roadside
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-11 03:13
+- **Channel:** whatsapp
+- **Chat:** 146810773459032
+- **Customer:** Good evening
+Pls ,m58
+[owner reply] Thanks
+[owner reply] How much to Tema ?
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-11 03:13
+- **Channel:** whatsapp
+- **Chat:** 201537716539426
+- **Customer:** 3ds
+Yes Nintendo 3ds games.
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-11 03:28
+- **Channel:** whatsapp
+- **Chat:** 146810773459032
+- **Customer:** Tema which community
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-11 04:55
+- **Channel:** whatsapp
+- **Chat:** 179787834355738
+- **Customer:** I need only the charger
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-11 05:15
+- **Channel:** whatsapp
+- **Chat:** 253656507093128
+- **Customer:** Not yet please.
+- **Reply:** We will get back to you shortly.

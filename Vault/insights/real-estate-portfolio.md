@@ -1,6 +1,6 @@
 # Real Estate Portfolio — Master File
 
-**Last updated:** 4/9/26
+**Last updated:** 8/9/26
 **Owner:** H (Oman Herbert Blankson)
 **Consolidated from:** archive/real-estate-insights.md, archive/property-deal-21-19.md, business/construction/*, handwritten notes
 
@@ -290,11 +290,10 @@
 - Mix ashes from burning **with the fertiliser**
 - When finished, put **dried coconut leaves or husks** around the ring to cover the fertiliser
 
-**Palm tree removal (abé) — 3/9/26:**
-- Re-evaluated: ~**40+ mature palm trees** — better to **tap for palm wine** rather than remove
-- Odoom found someone who could remove all for 2,000 GHS (last price 1,500 GHS)
-- ✅ Already paid **200 GHS advance** (can redirect to tapping costs instead)
-- 🔥 **Palm wine tapping strategy being explored** (see below)
+**Palm tree removal (abé) — decision update:**
+- ✅ **No longer cutting down the palm trees** — keeping them for future potential (palm wine, timber)
+- Odoom was told the decision — he has **200 GHS** on hand (the advance)
+- **Keep the 200 GHS with Odoom** — deduct from the next job instead of chasing refund
 
 **Next steps for wall:**
 - Need **1 trip sand** + **1 trip stone** + **800 blocks** to complete **4 courses** for the wall
@@ -329,50 +328,14 @@
 - Can prune and sell as **firewood or charcoal** — ongoing revenue stream
 - Low-cost, low-maintenance, works on all 3 sites (Amanful, Borkro, Kroboekyir)
 
-**Amanful-Specific — Palm Wine Strategy (from ~40+ mature palm trees):**
+**Amanful-Specific — Palm Trees (kept as-is):**
 
-Rather than removing the ~40+ mature palm trees for 1,500-2,000 GHS, tap them for palm wine instead. These are already mature and ideal for tapping.
-
-| Aspect | Detail |
-|--------|--------|
-| **Tree age needed** | 5+ years old — ✅ these are mature, fruiting |
-| **Best trees** | Check size, colour, strength |
-| **Method** | Fell tree → tap near roots/stem → sap flows into container |
-| **Yield per tree** | ~10L/day for 35-45 days |
-| **40 trees × 10L** | ~400L/day at peak, tapering over ~5-6 weeks |
-| **Fresh wine price** | GH₵5-15 per bottle locally |
-| **Fermented/akpeteshie** | Higher value — can distill for premium |
-
-**Process (traditional Ghanaian method):**
-1. Fell the tree (hire hands ~GH₵20/tree)
-2. Make incision near roots, peel outer bark
-3. Apply heat (lit bamboo) — softens inner wood, speeds flow, keeps insects away
-4. Insert tap stick, place container under
-5. Collect twice daily — morning and late afternoon
-6. Filter to remove debris
-
-**What happens after tapping:**
-- After **35-45 days** the sap stops flowing
-- The tree is now dry/dead — still valuable for:
-
-| Use | Value |
-|-----|-------|
-| **Timber/Planks** | Palm timber is termite-proof — planks sawn from trunk sell well |
-| **Firewood** | Dry palm wood burns hot — sell as firewood |
-| **Charcoal** | Can be carbonised into charcoal |
-| **Acacia nursery** | Dead trunk area becomes nursery bed for acacia seedlings |
-| **Boundary marker** | Leave trunk on boundary line as physical marker |
-
-**Bottom line economics (40 trees):**
+Rather than removing the ~40+ mature palm trees for 1,500-2,000 GHS, they're being left standing. If the opportunity comes later to tap for palm wine or sell as timber, the option remains open. No action needed now.
 
 | Item | Amount |
 |------|--------|
-| Wine yield @ 40 trees × ~35 days active | ~14,000L total |
-| Fresh palm wine @ ~GH₵5-10/L | **GH₵70,000-140,000 revenue** |
-| Akpeteshie distillation (value-added) | 2-3× higher margin |
-| Timber/planks after tapping | Additional revenue |
-| **Compare: removal cost saved** | **1,500-2,000 GHS not spent** |
-| **Net advantage over removal** | **~GH₵70,000+ gained + timber** |
+| Trees | ~40+ mature palms kept standing |
+| 200 GHS advance | Held by Odoom — deduct from next job |
 
 ### Takoradi — Borkro (Secondary Plot)
 
@@ -438,7 +401,7 @@ Rather than removing the ~40+ mature palm trees for 1,500-2,000 GHS, tap them fo
 
 ### Kroboano — Land Swap Deal
 
-**Status:** ✅ FOUNDATION DONE — site cleared, Abu to finish spraying 31/8/26
+**Status:** ✅ FOUNDATION DONE — site cleared, Abu finished weeding (waiting on chemical effect)
 **Location:** Kroboekyir (Ekyir/Senya Beraku area, Awutu Senya District, Central Region)
 **Origin:** Swap deal with **Nenyi Oliver Mensah** — 9 plots of land for H's Ford Ranger
 **Indenture:** Paid 5,000 GHS twice (first one was lost)
@@ -482,7 +445,7 @@ Rather than removing the ~40+ mature palm trees for 1,500-2,000 GHS, tap them fo
 - ✅ Paid Abu **200 GHS** initial, balance **500 GHS** for weeding 2 plots (starting 1st Aug 2026)
 - ✅ They burned/sprayed and finished in the evening — balance paid
 - ✅ Abu will spray and burn the site
-- ⏳ **Abu to finish spraying 31/8/26**
+- ✅ **Abu finished weeding** — now waiting for chemical to take effect (7/9/26)
 
 **Next steps:**
 - Need **1 trip sand** + **1 trip stone** + **800 blocks** (4 courses)
@@ -680,7 +643,7 @@ Rather than removing the ~40+ mature palm trees for 1,500-2,000 GHS, tap them fo
 ### Ghana — Amanful (Wall Build in Progress) 🔥
 - [ ] Supply: 1 trip sand + 1 trip stone + 800 blocks (complete 4 courses)
 - [ ] **↳ Wall changed to budget option: Wood poles at 25ft gaps** (block wall cancelled)
-- [ ] **↳ All abé (palm trees) — STRATEGY CHANGE: Tap for palm wine instead of remove** (~40 trees, ~GH₵70-140k potential revenue)
+- [ ] **↳ All palm trees kept as-is** — Odoom has 200 GHS advance to deduct from next job
 - [ ] Odoom to confirm spraying finished
 - [ ] Matthias to continue work
 - [ ] Chamber & Hall deferred — after Kokomlemle

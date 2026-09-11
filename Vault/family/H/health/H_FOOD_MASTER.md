@@ -455,6 +455,18 @@
 | ☀️ Lunch | 5 yam chips with pepper |
 | 🌙 Dinner | Jollof with fried chicken |
 
+### Wed 9 Sep *(logged via chat)*
+| Meal | Items |
+|------|-------|
+| ☀️ Breakfast | Vitamin C, banana, ground nuts |
+| 🌙 Dinner | Yam and stew |
+
+### Thu 10 Sep *(logged via chat)*
+| Meal | Items |
+|------|-------|
+| ☀️ Breakfast | Pineapple |
+| 🌙 Dinner | Boiled plantain, jollof rice and stew |
+
 ---
 
 ## 📈 Nutritional Trends *(updated with gap-fill data)*

@@ -20,15 +20,25 @@ linked_workflow: FARM_WORKFLOW.md
 | K-01 | Kanzoni shop | Langstroth | Active | Seen 2026-06-15 | 2026-06-15 | — | Strong, 8 frames brood |
 | K-02 | Kanzoni shop | Top-bar | Active | Not seen | 2026-06-15 | — | Needs inspection |
 | K-03 | Kanzoni shop | Langstroth | Weak | — | 2026-06-01 | — | Low stores, feed needed |
-| F-01 | Farm field (near lemon tree) | — | Active | — | 2026-08-30 | 🟡 Needs GPS | Brood present |
-| F-02 | Farm field (near lemon) | — | Active | — | 2026-08-30 | 🟡 Needs GPS | Swept, cleaned, rebaited |
-| F-03 | Farm field (open space) | — | Vacated | — | 2026-08-30 | 🟡 Needs GPS | Bees left — clean, rebait, watch for re-entry |
-| F-04 | Farm | — | **Newly populated** | — | 2026-09-07 | 🟡 Needs GPS | Bees entered ~6/9/26 ✅ |
-| F-05 | Farm | — | Baited & set — awaiting swarm | — | 2026-08-30 | 🟡 Needs GPS | Cleaned, baited, set |
-| F-06 | Farm | — | Baited & set — awaiting swarm | — | 2026-08-30 | 🟡 Needs GPS | Cleaned, baited, set |
-| F-07 | Farm | — | Baited & set — awaiting swarm | — | 2026-08-30 | 🟡 Needs GPS | Cleaned, baited, set |
-| K-NEW1 | From Kwasi (Saltpond, colonised 4+ mo) | Top-bar ×20 | Purchase planned | — | — | — | GHS 1,000 + shared GHS 500 service |
-| K-NEW2 | From Kwasi (Saltpond, colonised 4+ mo) | Top-bar ×20 | Purchase planned | — | — | — | GHS 1,000 + shared GHS 500 service |
+| F-01 | Farm — under small mango | — | **Populated** | — | 2026-09-08 | 🟡 Needs GPS | Brood present since Aug; was already populated |
+| F-02 | Farm — under small mango | — | **Populated** | — | 2026-09-08 | 🟡 Needs GPS | Bees returned — absconded Aug, re-entered |
+| F-03 | Farm — under big mango | — | **Populated** | — | 2026-09-08 | 🟡 Needs GPS | Bees returned after vacating; moved from open space to shade |
+| F-04 | Farm — under big mango | — | **Populated** | — | 2026-09-08 | 🟡 Needs GPS | Bees entered ~6/9/26 ✅ |
+| F-05 | Farm — in the bush (new spot) | — | **Populated** | — | 2026-09-08 | 🟡 Needs GPS | Newly placed & populated ✅ |
+| F-01 | Farm — under small mango | — | **Populated** | — | 2026-09-08 | 🟡 Needs GPS | Brood present since Aug; was already populated |
+| F-02 | Farm — under small mango | — | **Populated** | — | 2026-09-08 | 🟡 Needs GPS | Bees returned — absconded Aug, re-entered |
+| F-03 | Farm — under big mango | — | **Populated** | — | 2026-09-08 | 🟡 Needs GPS | Bees returned after vacating; moved from open space to shade |
+| F-04 | Farm — under big mango | — | **Populated** | — | 2026-09-08 | 🟡 Needs GPS | Bees entered ~6/9/26 ✅ |
+| F-05 | Farm — in the bush (new spot) | — | **Populated** | — | 2026-09-08 | 🟡 Needs GPS | Newly placed & populated ✅ |
+| F-06 | Farm field | — | Empty — baited & set | — | 2026-09-08 | 🟡 Needs GPS | On field, awaiting swarm |
+| F-07 | Farm field | — | Empty — baited & set | — | 2026-09-08 | 🟡 Needs GPS | On field, awaiting swarm |
+| F-08 | Farm — being baited | — | From room — bait & set in progress | — | 2026-09-08 | 🟡 Needs GPS | Habib instructed 8/9: bait & set 2 of the 3 room hives |
+| F-09 | Farm — being set | — | Empty — bait & set in progress | — | 2026-09-08 | 🟡 Needs GPS | Habib instructed 8/9: bait & set 2 of the 3 room hives |
+| F-10 | Farm room (in storage) | — | Empty — spare | — | — | — | 1 hive remaining in room as spare |
+| K-NEW1 | From Kwasi (Saltpond, colonised 4+ mo) | Top-bar ×20 | Purchase planned (optional now) | — | — | — | GHS 1,000 + shared GHS 500 service |
+| K-NEW2 | From Kwasi (Saltpond, colonised 4+ mo) | Top-bar ×20 | Purchase planned (optional now) | — | — | — | GHS 1,000 + shared GHS 500 service |
+
+**Fleet summary (8/9/26)**: **11 hives total** — 6 populated on field, 2 empty baited on field (F-06, F-07), 2 being baited & set from room (F-08, F-09), 1 spare in room (F-10). Plus 3 hives at Kanzoni shop (K-01 to K-03).
 
 ---
 
@@ -84,6 +94,33 @@ linked_workflow: FARM_WORKFLOW.md
 ---
 
 ## Inspection Log
+
+### 2026-09-08 — Habib Farm Update: 6 HIVES POPULATED ✅
+
+**From Habib (Farm)**: 6 hives now occupied after the earlier abscond issues — bees moving back well.
+
+| Location | Hives Populated |
+|----------|:---------------:|
+| Under small mango | 2 |
+| Under big mango | 2 |
+| New spot in the bush | 1 |
+| Already populated (original) | 1 |
+| **Total on farm** | **6** |
+
+- **Registry updated**: F-01 to F-05 populated; F-03 recovered from abscond (was the wax-moth hive — bees returned once moved to shade); F-05 placed in a new bush spot and caught bees.
+- **Still empty**: F-06, F-07 (baited, waiting)
+- **Placement confirms Kwesi's principle**: shade + quiet bush spots = colonisation. The two hives moved under mango shade repopulated fastest.
+- **Implication for Kwasi purchase**: 6 of 11 farm hives now self-populated (fleet: 6 populated + 2 baited on field + 2 being set from room + 1 spare). Buying 2 colonised hives (GHS 2,500) looks less urgent — consider 1 or hold.
+
+---
+
+### 2026-09-08 (b) — Fleet Correction & New Instructions
+
+- **Fleet count corrected**: 11 hives total on farm (previously tracked as 7). 2 empty baited on field, 3 in the room.
+- **Habib instructed**: bait and set **2 of the 3 room hives** out on the field (now F-08, F-09). One hive (F-10) stays in the room as spare.
+- Fleet target once done: 8 hives set on field (6 populated + 2 baited) + 2 being placed + 1 spare.
+
+---
 
 ### 2026-09-07 — Movement Update (via H)
 - **F-03 (open space)**: Bees **vacated** — clean the hive, rebait, leave set. Watch for re-entry.

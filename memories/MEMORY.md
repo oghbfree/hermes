@@ -2,7 +2,17 @@
 
 Durable facts from periodic daily-processing runs.
 
-_facts below are limited to verified findings. Last refreshed: 2026-09-10._
+_facts below are limited to verified findings. Last refreshed: 2026-09-11._
+
+## 2026-09-11 Daily Processing Run
+- 🟢 **Integrated-daily-synthesis 11/09** (`d719cd80fa5b`) — `INTEGRATED_INSIGHTS_2026-09-11.md` + `Vault/Daily/2026-09-11.md` written.
+- ✅ **GATEWAY RECOVERED 11/09** — PID 14576 alive ~03:12, Telegram polling healthy (getUpdates gen 2), **WhatsApp customer gate LIVE** (gated replies + owner-skips firing). Reverses ~5-day down. ⚠️ DNS flutter persists (`getaddrinfo failed`) but sticky-IP auto-recovers → add static DNS (8.8.8.8/1.1.1.1).
+- 🩺 **H: 31 Aug post-shock follow-up outcome STILL undocumented (11 days).** Labs (1,075 GH) + toe X-ray not run. Food diary current thru 8 Sep.
+- 👵 **Mum: 9 Sep full — ⚠️ NEW neck pain site + self-medicated paracetamol (3rd: 3 Sep, 9 Sep) + emotional/agitation eve (resolved via son).** BP settled 136/67, bowels normal. **10 Sep OUTING day — reports NOT captured** (topic-4 read unavailable in cron). 11 Sep check logged but not delivered. Flags: BP instability, neck pain, repeated self-med, Imodium gap.
+- 💼 **2Real:** 09/09 GHS 1,900 (lithium grease 300 + 2× walkie-talkies 1,600, Jiji). **Shop rent 38,400 (H 28,400 + Faustie 10,000) 2yrs from 8/8/26.** Inquiry loop LIVE — **364 SLA breaches** (oldest 403h), **15 stock-missed (+43%)**, **Arlec socket ×6 demand vs stock 1**. No 10/09 sales line. 480 low-stock breadth (10 Sep ops).
+- 👩 **Nursing:** Stephanie trial extended 1 mo (performance) — **`STEPHANIE_TRIAL_REVIEW.md` STILL NOT created** (since 8 Sep); review date + salary-step unresolved.
+- 🔒 **Security: audits 08+09+10 Sep FAILED** (provider `can't reach the model provider`) — **07 Sep DEGRADED stands**. AppData token VALID, home-root REVOKED; ~38 .env-reader scripts; 25/55 silent. No compromise.
+- 🖥️ **Cron 09-10: 36 outputs** (healthy vs prior). ⚠️ health-check-evening + mum-health-evening still CANNOT POST (job sessions lack terminal/connector) — enable execution tool. **Local backup stale ~4 days** (last full 07/09). Disk 41% (282G free). github-memory-backup 09-09 ✅.
 
 ## 2026-09-10 Daily Processing Run
 - 🟢 **Integrated-daily-synthesis 10/09** (`d719cd80fa5b`) — `INTEGRATED_INSIGHTS_2026-09-10.md` saved to Vault/insights; backfilled missing `Vault/Daily/2026-09-09.md` + wrote `2026-09-10.md`.
