@@ -35,8 +35,11 @@ linked_workflow: FARM_WORKFLOW.md
 | F-08 | Farm — being baited | — | From room — bait & set in progress | — | 2026-09-08 | 🟡 Needs GPS | Habib instructed 8/9: bait & set 2 of the 3 room hives |
 | F-09 | Farm — being set | — | Empty — bait & set in progress | — | 2026-09-08 | 🟡 Needs GPS | Habib instructed 8/9: bait & set 2 of the 3 room hives |
 | F-10 | Farm room (in storage) | — | Empty — spare | — | — | — | 1 hive remaining in room as spare |
-| K-NEW1 | From Kwasi (Saltpond, colonised 4+ mo) | Top-bar ×20 | Purchase planned (optional now) | — | — | — | GHS 1,000 + shared GHS 500 service |
-| K-NEW2 | From Kwasi (Saltpond, colonised 4+ mo) | Top-bar ×20 | Purchase planned (optional now) | — | — | — | GHS 1,000 + shared GHS 500 service |
+| K-NEW1 | From Kwasi (Saltpond, colonised 4+ mo) | Top-bar ×20 | **PURCHASE CONFIRMED** | — | — | — | GHS 1,000. Kanzoni to drive to Winneba for pickup → farm |
+| K-NEW2 | From Kwasi (Saltpond, colonised 4+ mo) | Top-bar ×20 | **PURCHASE CONFIRMED** | — | — | — | GHS 1,000. Kanzoni to drive to Winneba for pickup → farm |
+| K-NEW3 | Future purchase — Kwasi standard build | Top-bar ×20 | Future — uniform standard | — | — | — | GHS 600 each going forward — **includes queen excluder + front hive gate**. All future hives uniform in size. |
+
+**🤝 Kwasi Partnership (decided 8/9/26)**: Kwasi is now the **exclusive hive constructor & maintenance provider** for the apiary. Standard purchase price going forward: **GHS 600 per empty hive**, built with **queen excluder + front hive gate**, uniform dimensions across the fleet. Colonised hives at GHS 1,000.
 
 **Fleet summary (8/9/26)**: **11 hives total** — 6 populated on field, 2 empty baited on field (F-06, F-07), 2 being baited & set from room (F-08, F-09), 1 spare in room (F-10). Plus 3 hives at Kanzoni shop (K-01 to K-03).
 
@@ -248,8 +251,8 @@ linked_workflow: FARM_WORKFLOW.md
 |------|-----|------|-----------|------|:------------:|
 | 👁️ Visual + feed | Habib | Bees active? Drinkers full? Ants? Top up sugar water. Weed 1m around hives with veil. | **Every 2 days** | Part of caretaker routine | Included in GHS 750/month |
 | 🔍 Full inspection | Kanzoni | Open hives — brood, queen, pests, frames, honey stores. Own initiative — doesn't wait for H. | **Weekly (one weekday)** | Kanzoni goes to farm alone for just the inspections | ? |
-| 🚗 H + Kanzoni trip | Kanzoni drives H | Pickup + labour for general farm work | **Fortnightly (Sunday)** | When H goes to farm | GHS 300/trip |
-| 🧠 Advanced | Kwasi | Training, disease, swarm, frame repair | **Monthly** | Scheduled separately | GHS 200–300/day |
+| 🚗 H + Kanzoni trip | Kanzoni drives H | Pickup + labour for general farm work | **Fortnightly (Sunday)** + special runs (e.g. Winneba hive pickup from Kwasi) | When H goes to farm / errands | GHS 300/trip (long runs like Winneba may cost more — agree before departure) |
+| 🧠 Advanced / hive build | Kwasi | **Exclusive hive constructor & maintenance** — all future hive builds & maintenance. Empty hives GHS 600 (queen excluder + front gate, uniform size). Colonised GHS 1,000. | **Ongoing partnership** | Scheduled separately | Per build + GHS 200–300/day services |
 
 ### Kanzoni's Two Roles
 

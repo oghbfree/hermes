@@ -74,8 +74,9 @@
 | 8 Sep | Tom brown + 2 boiled eggs | Kokonte with groundnut soup — **NO SALT** (left some soup) | Jacket potatoes |
 | 9 Sep | Baked beans + scrambled eggs | Fufu with light soup | Boiled beans with rice |
 | 10 Sep | Corn dough porridge | Kokonte with groundnut soup | Boiled beans with fried plantain (ate plantain, not all beans) |
+| 11 Sep | Tigernut porridge + 2 boiled eggs | Rice ball with palm nut soup (left some) | Boiled yam with grinded pepper |
 
-> **Backfill complete (10 Sep 26):** Meals logged for 5 Aug–10 Sep (6 Sep: no report). 🎂 **Birthday 28 Aug** logged. 🚗 **10 Sep OUTING with sister Felicia** (no carer; returned 2:20pm, lunch at home after). Evening fried plantain again (phase-out drift). See medical master for flags.
+> **Backfill complete (11 Sep 26):** Meals logged for 5 Aug–11 Sep (6 Sep: no report). 🎂 **Birthday 28 Aug** logged. 🚗 **10 Sep outing.** 🚨 **11 Sep FALL near toilet (morning)** — see medical master. **11 Sep meals:** tigernut+eggs / rice ball+palm nut soup (left some) / yam+grinded pepper. See medical master for all flags (fall, BP).
 
 ---
 

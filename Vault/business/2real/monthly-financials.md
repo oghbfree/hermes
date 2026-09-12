@@ -12,7 +12,7 @@
 | Speech therapist (both kids) | TBD | |
 | Warehouse ($400) | ~5,800 | |
 | Jiji Elite | 5,059 | Paid 3,600 discounted this month; normal price from 20/9 |
-| Transport (200 × 22 days) | 4,400 | |
+| Transport (170 × 22 days) | 3,740 | 85 GH₵ each way by Uber/Bolt/Yango (standard) |
 | Dome rent (your share/24mo) | 1,183 | 28,400 upfront + 10k Faustie |
 | Your personal/living | 5,000 | |
 | Mum's new housing | 5,000 | |

@@ -4496,3 +4496,413 @@ Yes Nintendo 3ds games.
 - **Chat:** 253656507093128
 - **Customer:** Not yet please.
 - **Reply:** We will get back to you shortly.
+
+## 2026-09-11 06:13
+- **Channel:** whatsapp
+- **Chat:** 51046256787651
+- **Customer:** Yes please
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-11 06:13
+- **Channel:** whatsapp
+- **Chat:** 51046256787651
+- **Customer:** Can I see a pic of it
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-11 06:13
+- **Channel:** whatsapp
+- **Chat:** 51046256787651
+- **Customer:** And the price please
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-11 06:14
+- **Channel:** whatsapp
+- **Chat:** 201631551479939
+- **Customer:** Good morning
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-11 06:15
+- **Channel:** whatsapp
+- **Chat:** 201631551479939
+- **Customer:** Available and in good condition?
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-11 07:14
+- **Channel:** whatsapp
+- **Chat:** 262418827575458
+- **Customer:** Good morning
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-11 07:14
+- **Channel:** whatsapp
+- **Chat:** 262418827575458
+- **Customer:** Interested in the Xbox one s on jiji
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-11 07:14
+- **Channel:** whatsapp
+- **Chat:** 262418827575458
+- **Customer:** Is it 1tb?
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-11 14:49
+- **Channel:** whatsapp
+- **Chat:** 43349121712368
+- **Customer:** [image received]
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-11 14:49
+- **Channel:** whatsapp
+- **Chat:** 178752982114558
+- **Customer:** Let me check
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-11 14:49
+- **Channel:** whatsapp
+- **Chat:** 266021751513320
+- **Customer:** Good morning sir
+[owner reply] I was looking for CBG bank
+[owner reply] Where is the closest one
+At the roundabout
+[owner reply] Atomic down?
+Yes
+[owner reply] Or atomic madina?
+Atomic down
+Not Madina
+[owner reply] Ok thanks
+Round about connecting to kwabenya and estate.
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-11 14:49
+- **Channel:** whatsapp
+- **Chat:** 51046256787651
+- **Customer:** Will be waiting
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-11 14:49
+- **Channel:** whatsapp
+- **Chat:** 246758823182345
+- **Customer:** Yes . If available
+[owner reply] It's available
+And the used ones ? With batteries
+A tree they available?
+Are they available?
+[owner reply] Yes we have some
+Pictures with prices pls ?
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-11 14:49
+- **Channel:** whatsapp
+- **Chat:** 41945271427224
+- **Customer:** Good morning sir
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-11 14:49
+- **Channel:** whatsapp
+- **Chat:** 77592979869834
+- **Customer:** Hello
+[owner reply] We do not have electric pickaxes
+Oh okay what about the rest ?
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-11 14:50
+- **Channel:** whatsapp
+- **Chat:** 43349121712368
+- **Customer:** [image received]
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-11 15:07
+- **Channel:** whatsapp
+- **Chat:** 43349121712368
+- **Customer:** I'll update soon
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-11 15:07
+- **Channel:** whatsapp
+- **Chat:** 43349121712368
+- **Customer:** Really?
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-11 15:07
+- **Channel:** whatsapp
+- **Chat:** 43349121712368
+- **Customer:** Its same
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-11 15:11
+- **Channel:** whatsapp
+- **Chat:** 43349121712368
+- **Customer:** I hope its same
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-11 15:11
+- **Channel:** whatsapp
+- **Chat:** 43349121712368
+- **Customer:** Looking at this but not sure how good they can play
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-11 15:12
+- **Channel:** whatsapp
+- **Chat:** 43349121712368
+- **Customer:** [image received]
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-11 15:12
+- **Channel:** whatsapp
+- **Chat:** 43349121712368
+- **Customer:** [image received]
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-11 15:15
+- **Channel:** whatsapp
+- **Chat:** 43349121712368
+- **Customer:** [image received]
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-11 15:15
+- **Channel:** whatsapp
+- **Chat:** 43349121712368
+- **Customer:** Yes
+- **Reply:** [acknowledgment - no reply sent]
+
+## 2026-09-11 15:18
+- **Channel:** whatsapp
+- **Chat:** 43349121712368
+- **Customer:** 😊
+- **Reply:** [acknowledgment - no reply sent]
+
+## 2026-09-11 15:18
+- **Channel:** whatsapp
+- **Chat:** 242073332670588
+- **Customer:** Please I'm waiting for the form
+Please I'm waiting for the form
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-11 15:20
+- **Channel:** whatsapp
+- **Chat:** 43349121712368
+- **Customer:** Ah means it doesn't play too good....I
+Sure
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-11 15:22
+- **Channel:** whatsapp
+- **Chat:** 242073332670588
+- **Customer:** Okay
+- **Reply:** [acknowledgment - no reply sent]
+
+## 2026-09-11 15:25
+- **Channel:** whatsapp
+- **Chat:** 43349121712368
+- **Customer:** Are they available?
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-11 15:25
+- **Channel:** whatsapp
+- **Chat:** 113730834673774
+- **Customer:** Hello 
+Good afternoon
+Trust you well
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-11 15:25
+- **Channel:** whatsapp
+- **Chat:** 113730834673774
+- **Customer:** Please I have received my package
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-11 15:26
+- **Channel:** whatsapp
+- **Chat:** 113730834673774
+- **Customer:** Can you please give us a receipt for our purchase
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-11 15:36
+- **Channel:** whatsapp
+- **Chat:** 43349121712368
+- **Customer:** Hello
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-11 15:45
+- **Channel:** whatsapp
+- **Chat:** 43349121712368
+- **Customer:** Okay...
+- **Reply:** [acknowledgment - no reply sent]
+
+## 2026-09-11 15:45
+- **Channel:** whatsapp
+- **Chat:** 43349121712368
+- **Customer:** Last price for this pls?
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-11 15:46
+- **Channel:** whatsapp
+- **Chat:** 43349121712368
+- **Customer:** Kindly take out the speaker...and give my bill
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-11 15:47
+- **Channel:** whatsapp
+- **Chat:** 43349121712368
+- **Customer:** With this do you have the charging unit also?
+[owner reply] If you're buying all at once I'll come down
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-11 15:47
+- **Channel:** whatsapp
+- **Chat:** 43349121712368
+- **Customer:** If you give me a good price I may get all
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-11 15:50
+- **Channel:** whatsapp
+- **Chat:** 43349121712368
+- **Customer:** Yes... if you have the charging unit for the AA batteries I'll be glad...if not we can hold on to that also...
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-11 15:51
+- **Channel:** whatsapp
+- **Chat:** 43349121712368
+- **Customer:** Just realised it has no back 😟
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-11 16:22
+- **Channel:** whatsapp
+- **Chat:** 248764958773287
+- **Customer:** Hello sir
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-11 16:22
+- **Channel:** whatsapp
+- **Chat:** 248764958773287
+- **Customer:** Still available please
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-11 16:22
+- **Channel:** whatsapp
+- **Chat:** 248764958773287
+- **Customer:** Okay boss waiting
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-11 16:26
+- **Channel:** whatsapp
+- **Chat:** 43349121712368
+- **Customer:** Hello, can I get these for today?
+Xbox controller 
+Belkin power bank 
+Cooling pad
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-11 16:30
+- **Channel:** whatsapp
+- **Chat:** 43349121712368
+- **Customer:** Oops...okay well noted
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-11 16:33
+- **Channel:** whatsapp
+- **Chat:** 41945271427224
+- **Customer:** Business isn't there to wait for you.
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-11 16:51
+- **Channel:** whatsapp
+- **Chat:** 248764958773287
+- **Customer:** Oh okay sir
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-11 16:52
+- **Channel:** whatsapp
+- **Chat:** 248764958773287
+- **Customer:** Can you send me the pictures sir
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-11 16:58
+- **Channel:** whatsapp
+- **Chat:** 43349121712368
+- **Customer:** Ablekuma Manhean
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-11 17:42
+- **Channel:** whatsapp
+- **Chat:** 43349121712368
+- **Customer:** Its fine
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-11 20:37
+- **Channel:** whatsapp
+- **Chat:** 246758823182345
+- **Customer:** Ok
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-11 20:37
+- **Channel:** whatsapp
+- **Chat:** 248764958773287
+- **Customer:** I have 150 boss
+Please do you do delivery
+[owner reply] Too low
+Sorry I mean 450
+[owner reply] Oh I've reduced to 460
+Help me with 450 sir
+What is your location boss
+[owner reply] 460 is ok
+[owner reply] Oyarifa
+Oh okay boss
+[owner reply] Yes
+You do deliver my
+I am at kasoa
+[owner reply] Tomorrow night will be at Dome are you coming
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-11 20:37
+- **Channel:** whatsapp
+- **Chat:** 43349121712368
+- **Customer:** This is what I'm asking for...the charger for the batteries
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-11 20:37
+- **Channel:** whatsapp
+- **Chat:** 248764958773287
+- **Customer:** No sir
+I would make you deliver it
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-11 20:37
+- **Channel:** whatsapp
+- **Chat:** 112185032355900
+- **Customer:** I need the white lithium grease
+[owner reply] How many pieces
+I need one
+[owner reply] Okay are you coming or delivery at a fee
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-11 20:37
+- **Channel:** whatsapp
+- **Chat:** 51046256787651
+- **Customer:** How much please?
+[owner reply] 300
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-11 20:38
+- **Channel:** whatsapp
+- **Chat:** 112185032355900
+- **Customer:** Delivery
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-11 22:10
+- **Channel:** whatsapp
+- **Chat:** 6790913724503
+- **Customer:** wey side you dey boss
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-11 22:11
+- **Channel:** whatsapp
+- **Chat:** 6790913724503
+- **Customer:** i want the first 2
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-11 22:11
+- **Channel:** whatsapp
+- **Chat:** 6790913724503
+- **Customer:** can i come buy your place and pick up
+- **Reply:** We will get back to you shortly.

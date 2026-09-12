@@ -57,6 +57,7 @@ linked_workflow: FARM_WORKFLOW.md
 | Date | Item | Payee | Purpose | Amount (GHS) |
 |------|------|-------|---------|--------------|
 | 2026-09-02 | 2× door locks | — | New locks for farm door — GHS 150 each | 300 |
+| 2026-09-08 | 2× colonised hives (Saltpond, 4+ months, 20 topbars) — purchase agreed | Kwasi | GHS 1,000 each. Kanzoni to pick up from Winneba and deliver to farm. Service charge GHS 500 (shared for both) | 2,500 |
 
 ---
 

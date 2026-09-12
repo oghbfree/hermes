@@ -28,6 +28,7 @@ Append one line per day. The 4:30 AM briefing reads this file.
 | 08/09/26 |  | 1,963 | Jigsaw (420), DeWalt tool (1,000), Kettle (150), Suitcase (200), Staples (193) | Expenses: Yango van moving spray paint (408), taxi home (77). Net ~1,478. Buyer for condemned items stopped by |
 | 09/09/26 |  | 1,900 | White lithium grease (300), 2x walkie-talkies (1,600) | Via Jiji online |
 | 10/09/26 |  | 4,230 | 2x Erbauer angle grinders + 4-plug extension (1,150), 3x petrol + 1x electric lawnmowers (2,400 cheque), Vibra Power Wave online (680) | Mixed walk-in + online |
+| 11/09/26 |  | 1,820 | Samsonite suitcase walk-in (280), Pink Leapfrog 2in1 laptop Jiji (240), 3x grass cutting machines to Ben (1,300) | Ben from farm bought 3 grass cutters |
 | 23/08/26 |  | — |  | Closed |
 | 24/08/26 |  | — |  | Closed |
 

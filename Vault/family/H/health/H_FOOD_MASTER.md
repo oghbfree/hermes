@@ -467,6 +467,15 @@
 | ☀️ Breakfast | Pineapple |
 | 🌙 Dinner | Boiled plantain, jollof rice and stew |
 
+### Fri 11 Sep *(logged via chat)*
+| Meal | Items |
+|------|-------|
+| ☀️ Morning | Chopped garlic |
+| ☀️ Breakfast | 2 fried eggs and beans |
+| ☀️ Lunch | 2 bananas and peanuts |
+| 🌙 Dinner | Dirty cabbage and flat bread |
+| 💊 Supplement | Vitamin C |
+
 ---
 
 ## 📈 Nutritional Trends *(updated with gap-fill data)*
