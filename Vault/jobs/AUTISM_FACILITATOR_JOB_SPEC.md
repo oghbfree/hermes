@@ -116,7 +116,6 @@ Weight behavioural Qs (overstimulation handling, simplifying instructions, socia
 - **Rita (teacher, Kansview Montessori)** — 1 hour **1-on-1 after school** with Kobena. Results of tomorrow's **7 Sept neuropsych review** will be shared with the school to coordinate.
 
 ## CANDIDATE: BERNICE DARKO (docs received 8/9/26)
-
 **Certificate — Ghana Education Service, National Nursery Teachers' Training Centre:**
 - **Bernice Darko** — awarded certificate for **Early Childhood Education**, Part I (7–17 Apr 2026) & Part II (27 Jul – 4 Sep 2026)
 - Issued 4 Sept 2026 · Officer-in-Charge: National Nursery Teachers' Training Centre, Accra
@@ -138,3 +137,53 @@ Child Development · Language & Literacy · Numeracy · OWOP · Creative Art · 
 **Fresh certification (Sept 2026) + lived experience (her own 2nd child has special needs) + wife's positive interview impression = strong candidate. Green-light the Tuesday trial.**
 
 *Updated 8/9/26 (Bernice docs) · dewormer = **Albendazole** (liquid, both boys, 7/9/26).*
+
+## CANDIDATE 2: JOCELYN ABEKAH ASOMANIWAA (CV reviewed, met family at school)
+
+**Contact:** 0240251899 / 0242334417 · joycelynabekah4@gmail.com · GM-075-403 (Ghana card)
+
+**Profile:** Dynamic Early Childhood **Special Needs Educator** — current role: **Special Needs Educator (Early Childhood), LiveWell Rehab Consult, Oct 2023–present**. Prior: preschool teacher Phil Academy Adenta (2022–23), Ikare Montessori Adenta (2019–21).
+
+**Qualifications:** Diploma Special Education · Diploma Early Childhood (Montessori, UMCG) · Certificate Special Needs Education · Certificate Jolly Phonics + **Cognitive Learning Disability training** · classroom-skills pedagogy module · Degree in Early Childhood **in view** · WASSCE (2009–12).
+
+**Skills (from CV):** assessment strategies · collaborative teamwork · parent-teacher collaboration · **sensory integration** · **data collection** · **applied behaviour analysis (ABA)** · **visual supports** · motor-skills development · **literacy intervention**.
+
+**References:** Marble Educational College (0551497440) · United Montessori College (0541011815) · **LiveWell Rehab Consult (0549807606)** · Ikare Montessori (0553017373) · Phil Academy (059569906).
+
+**Assessment vs the doctor's directives:**
+| Directive | Joycelyn |
+|---|---|
+| Sign/gesture + speech (weekly, Kobe) | Speech-adjacent (Jolly Phonics, literacy intervention) — but she is an **educator, not an SLP**. Advanced speech therapy still needs Mission Clinic's therapist. She can *deliver* the daily practice the therapist prescribes |
+| Facilitator observe-in-class protocol | **Strong fit** — ABA, data collection, assessment strategies are exactly the observe/measure/reintegrate skillset |
+| Story comprehension + reading aloud | **Literacy intervention + Jolly Phonics** — direct match |
+| Sensory needs | **Sensory integration** explicitly on CV |
+| Parent collaboration | "Parent-teacher collaboration" + current LiveWell role involves parent/specialist coordination |
+
+**vs Bernice:** Joycelyn is the **stronger paper candidate** (special-needs diploma, current SN educator role, ABA + data collection, 6+ yrs experience, references in special education). Bernice is fresher-certified but ECE-general. **Both could be used: Joycelyn as lead facilitator/senior support; Bernice as support/backup — but that doubles cost. Decide one.**
+
+## 💰 Salary negotiation (Joycelyn)
+- **Her ask: GH¢2,500/mo · Your offer: GH¢2,000/mo**
+- Middle ground options: **GH¢2,200–2,300** with a **3-month review** that rises to 2,500 on demonstrated outcomes (Kobe's facilitator-report milestones + Nenyi's speech-practice compliance), or **GH¢2,000 + transport/phone allowance** (~GH¢200–300 value).
+- Scope leverage: the role covers **BOTH children** (Kobe facilitation + Nenyi's monthly speech practice + story comprehension for both) — that dual scope justifies the higher end; a single-child rate doesn't.
+
+## ✅ CAN SHE DO THE ADVANCED SPEECH WORK? (both boys need it)
+**Honest answer: she can *run the programme*; Mission Clinic's SLP must *design* it.**
+- She is NOT a speech-language pathologist — no one without an SLP licence should be branded "advanced speech therapy."
+- But her **Jolly Phonics + literacy intervention + special-needs diploma** is exactly the profile that executes a **home/school speech programme** designed by the Mission Clinic SLP: articulation drills, phonics, comprehension Q&A, sign-supported speech.
+- **Structure to insist on:** Mission SLP assesses + writes the programme → Joycelyn delivers it daily (Kobe weekly-focus, Nenyi monthly-check cadence) → she reports data back → SLP adjusts. That gives you the doctor's plan AND daily delivery without paying SLP rates for every session.
+
+## 🔍 What to look for (before/within first 2 weeks)
+1. **References actually called** — at minimum LiveWell (current employer) + one Montessori head. Ask each: "would you rehire her?"
+2. **Data habit** — she claims data collection; test it: "Show me how you'd track Kobena's week." She should propose a simple daily log (she should plug into YOUR mood/food diary).
+3. **Sensory knowledge in practice** — ask what she'd do when Kobe hand-shakes + says no; correct answer is respect + redirect, not compliance-forcing (ABA-schooled people can go compliance-heavy — watch for this).
+4. **Ghana-card/ID + start date + transport** to Oyarifa.
+
+## 🚀 First 30 days — hit-the-ground-running plan
+**Week 1 — observe only:** school days with Kobe (in-class, then the doctor's **pull-out → step back → observe-in-class** protocol); watch Nenyi at home reading/drawing. No changes. Produce a written baseline.
+**Week 2 — routines:** own the now/next board, timer transitions, the **story-comprehension loop** (read → question → correct answer → praise — for BOTH boys, different levels), and take over the daily diary entries.
+**Week 3 — speech programme delivery:** start the Mission SLP's programme (Kobe: sign-supported speech drills; Nenyi: articulation reps via reading aloud). Track % correct daily.
+**Week 4 — review with you:** data summary → salary review conversation → term-plan for Kansview coordination (Rita, separate classes per the doctor).
+
+**Success metrics at 4 weeks:** Kobe — facilitator pulls back and he still engages in class; 3+ independent comprehension answers/week. Nenyi — clearer articulation in recorded samples week 1 vs week 4; fewer mom-checks per day (you count them).
+
+*Updated 8/9/26 — Joycelyn CV added; negotiation GH¢2,000 vs 2,500 open.*

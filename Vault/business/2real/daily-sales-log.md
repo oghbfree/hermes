@@ -29,6 +29,7 @@ Append one line per day. The 4:30 AM briefing reads this file.
 | 09/09/26 |  | 1,900 | White lithium grease (300), 2x walkie-talkies (1,600) | Via Jiji online |
 | 10/09/26 |  | 4,230 | 2x Erbauer angle grinders + 4-plug extension (1,150), 3x petrol + 1x electric lawnmowers (2,400 cheque), Vibra Power Wave online (680) | Mixed walk-in + online |
 | 11/09/26 |  | 1,820 | Samsonite suitcase walk-in (280), Pink Leapfrog 2in1 laptop Jiji (240), 3x grass cutting machines to Ben (1,300) | Ben from farm bought 3 grass cutters |
+| 12/09/26 |  | 3,790 | Blessed: VTech baby walker (200), Frozen karaoke (120), VTech 2in1 laptop (120), LeapFrog 100 Words (120), Clementoni kit + karaoke + puzzles (950). Hajia: bag of animals (230), 2in1 laptop (150). Jiji: Belkin power bank (600), AA charger (200), Energizer AAs (200), cooling pad (450), Xbox gamepad (150). Extra: Gorilla Glue (300) | Big toy day — 2 regular toy customers (Blessed + Hajia) + strong Jiji |
 | 23/08/26 |  | — |  | Closed |
 | 24/08/26 |  | — |  | Closed |
 

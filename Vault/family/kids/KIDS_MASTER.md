@@ -44,6 +44,8 @@ Consolidated registry for H's children (Kobena & Nenyi). Created 2026-08-14 by c
 | `care/REFERRAL_BRIEFING_NOTES.md` | **Referral briefings** — Kobe → Mission Clinic neuro-paed, Nenyi → psych + speech assessment |
 | `care/MISSION_FINDINGS_KOBENA.md` | **Mission Clinic findings** — actual 7 Sept consult directives (sign+speech together, facilitator observe-in-class protocol, story comprehension) |
 | `care/MISSION_FINDINGS_NENYI.md` | **Mission Clinic findings** — monthly speech therapy, social-checking normal, separate classes at school |
+| `care/SPEECH_PROGRAMME_KOBENA.md` | **Bespoke SLP programme** — Total Communication (sign+speech), 12-week goals, daily structure, data sheet |
+| `care/SPEECH_PROGRAMME_NENYI.md` | **Bespoke SLP programme** — "say it like a storyteller" 4-step ladder, comprehension→confidence engine, clarity metrics |
 | `care/kobena-clinical-records/` | Original scanned records (genetics, hearing, SLT, OT, paediatrician, bloods) |
 | `kids-sizes-dated.md` | Clothing sizes tracker (last updated 2026-03-16) |
 | `homework-planner-dev.md` | Draft academic-planner spec (planning phase) |

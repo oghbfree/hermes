@@ -3814,5 +3814,517 @@
     "priority": "LOW",
     "last_checked": "2026-09-12T02:02:13.654357",
     "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-12 06:11",
+    "customer_msg": "Lake side hills, community 9 sports complex",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 9.5,
+    "priority": "HIGH",
+    "last_checked": "2026-09-12T15:41:50.468426",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-12 06:11",
+    "customer_msg": "The closest landmark is the Sweden Ghana medical centre",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 9.5,
+    "priority": "HIGH",
+    "last_checked": "2026-09-12T15:41:50.474767",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-12 11:54",
+    "customer_msg": "[Sticker]",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 3.8,
+    "priority": "LOW",
+    "last_checked": "2026-09-12T15:41:50.484260",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-12 11:54",
+    "customer_msg": "Please where are you located",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 3.8,
+    "priority": "LOW",
+    "last_checked": "2026-09-12T15:41:50.500602",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-12 11:54",
+    "customer_msg": "[Location: 5.6588157,-0.3412577]",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 3.8,
+    "priority": "LOW",
+    "last_checked": "2026-09-12T15:41:50.506887",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-12 11:54",
+    "customer_msg": "unless i look for  extra money cause i thought it was 200 and i have exactly 400 for 2",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 3.8,
+    "priority": "LOW",
+    "last_checked": "2026-09-12T15:41:50.517222",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-12 11:54",
+    "customer_msg": "Good morning where I am as far so I have to leave home very early and yesterday I had things doing after I finish time was gone, so I couldn’t come… so God willing today I will come for it",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 3.8,
+    "priority": "LOW",
+    "last_checked": "2026-09-12T15:41:50.523928",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-12 11:54",
+    "customer_msg": "I know its tight bro",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 3.8,
+    "priority": "LOW",
+    "last_checked": "2026-09-12T15:41:50.548058",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-12 11:54",
+    "customer_msg": "[Contact: Joycely New Teacher +233 24 025 1899]",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 3.8,
+    "priority": "LOW",
+    "last_checked": "2026-09-12T15:41:50.557313",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-12 11:54",
+    "customer_msg": "Thank you for contacting MONDIAL ENTERPRISE! Please let us know how we can help you.",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 3.8,
+    "priority": "LOW",
+    "last_checked": "2026-09-12T15:41:50.566765",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-12 11:55",
+    "customer_msg": "[audio received]",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 3.8,
+    "priority": "LOW",
+    "last_checked": "2026-09-12T15:41:50.577677",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-12 11:55",
+    "customer_msg": "Yeah Good Morning",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 3.8,
+    "priority": "LOW",
+    "last_checked": "2026-09-12T15:41:50.588660",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-12 12:27",
+    "customer_msg": "900W is too small.... I have same there.",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 3.2,
+    "priority": "LOW",
+    "last_checked": "2026-09-12T15:41:50.598314",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-12 12:46",
+    "customer_msg": "Can we do the yango?...time is ticking fast",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 2.9,
+    "priority": "LOW",
+    "last_checked": "2026-09-12T15:41:50.617841",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-12 13:27",
+    "customer_msg": "Can you use your delivery guy then pls",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 2.2,
+    "priority": "LOW",
+    "last_checked": "2026-09-12T15:41:50.627138",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-12 13:38",
+    "customer_msg": "I'm one who called about irrigation systems",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 2.1,
+    "priority": "LOW",
+    "last_checked": "2026-09-12T15:41:50.635790",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-12 13:45",
+    "customer_msg": "Sorry I missed your call I'm driving",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 1.9,
+    "priority": "LOW",
+    "last_checked": "2026-09-12T15:41:50.645774",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-12 13:58",
+    "customer_msg": "Your riders didn't come...if this is the only option left. ..that's fine",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 1.7,
+    "priority": "LOW",
+    "last_checked": "2026-09-12T15:41:50.703264",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-12 14:11",
+    "customer_msg": "No pls. I can only pay cash or momo on delivery. Thanks",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 1.5,
+    "priority": "LOW",
+    "last_checked": "2026-09-12T15:41:50.710213",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-12 14:15",
+    "customer_msg": "Hello boss please am coming",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 1.4,
+    "priority": "LOW",
+    "last_checked": "2026-09-12T15:41:50.718283",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-12 14:16",
+    "customer_msg": "I will be there around four",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 1.4,
+    "priority": "LOW",
+    "last_checked": "2026-09-12T15:41:50.738143",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-12 14:26",
+    "customer_msg": "How much",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 1.3,
+    "priority": "LOW",
+    "last_checked": "2026-09-12T15:41:50.738318",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-12 14:27",
+    "customer_msg": "And your number for momo",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 1.2,
+    "priority": "LOW",
+    "last_checked": "2026-09-12T15:41:50.744798",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-12 14:31",
+    "customer_msg": "I no…  but please Dash me something lol 😂",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 1.2,
+    "priority": "LOW",
+    "last_checked": "2026-09-12T15:41:50.753669",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-12 14:32",
+    "customer_msg": "I’m in the car so I’ll get to MADINA soon",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 1.2,
+    "priority": "LOW",
+    "last_checked": "2026-09-12T15:41:50.766163",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-12 14:45",
+    "customer_msg": "Yes in the house",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 0.9,
+    "priority": "LOW",
+    "last_checked": "2026-09-12T15:41:50.775109",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-12 15:33",
+    "customer_msg": "[Location: OneWorld Apartments and Events Centre 5.65846627,-0.34004172]",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 0.1,
+    "priority": "LOW",
+    "last_checked": "2026-09-12T15:41:50.800898",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-12 15:33",
+    "customer_msg": "I’m still here",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 0.1,
+    "priority": "LOW",
+    "last_checked": "2026-09-12T15:41:50.807559",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-12 15:33",
+    "customer_msg": "The cost is high",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "out_of_stock",
+    "age_hours": 0.1,
+    "priority": "MEDIUM",
+    "last_checked": "2026-09-12T15:41:50.814911",
+    "checked_count": 1,
+    "match": {
+      "name": "Auto Glym",
+      "price": 1200.0,
+      "stock": 0,
+      "cost": 400.0
+    }
+  },
+  {
+    "timestamp": "2026-09-12 15:36",
+    "customer_msg": "will you take the 400?",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 0.1,
+    "priority": "LOW",
+    "last_checked": "2026-09-12T15:41:50.822614",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-12 15:41",
+    "customer_msg": "Do we sale this",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 6.0,
+    "priority": "HIGH",
+    "last_checked": "2026-09-12T21:42:44.908381",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-12 15:47",
+    "customer_msg": "When do they want it to be delivered?",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 5.9,
+    "priority": "HIGH",
+    "last_checked": "2026-09-12T21:42:44.928110",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-12 16:01",
+    "customer_msg": "This one will cost 180",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 5.7,
+    "priority": "HIGH",
+    "last_checked": "2026-09-12T21:42:44.947635",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-12 16:02",
+    "customer_msg": "130",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "stock_found_but_missed",
+    "age_hours": 5.7,
+    "priority": "HIGH",
+    "last_checked": "2026-09-12T21:42:44.979937",
+    "checked_count": 1,
+    "match": {
+      "name": "Day Plus",
+      "price": 500.0,
+      "stock": 1,
+      "variant": "130 W Detail Palm Sander QD6301"
+    }
+  },
+  {
+    "timestamp": "2026-09-12 16:18",
+    "customer_msg": "Please is it in?",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "out_of_stock",
+    "age_hours": 5.4,
+    "priority": "MEDIUM",
+    "last_checked": "2026-09-12T21:42:45.008406",
+    "checked_count": 1,
+    "match": {
+      "name": "Ingco",
+      "price": 100.0,
+      "stock": 0,
+      "cost": 0
+    }
+  },
+  {
+    "timestamp": "2026-09-12 16:33",
+    "customer_msg": "Chale Chale chale",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 5.2,
+    "priority": "HIGH",
+    "last_checked": "2026-09-12T21:42:45.037639",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-12 16:33",
+    "customer_msg": "Chale your goods be solid I tell you...",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 5.2,
+    "priority": "HIGH",
+    "last_checked": "2026-09-12T21:42:45.054019",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-12 16:34",
+    "customer_msg": "I see",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "out_of_stock",
+    "age_hours": 5.1,
+    "priority": "MEDIUM",
+    "last_checked": "2026-09-12T21:42:45.084521",
+    "checked_count": 1,
+    "match": {
+      "name": "Irwin Saw",
+      "price": 260.0,
+      "stock": 0,
+      "cost": 0
+    }
+  },
+  {
+    "timestamp": "2026-09-12 16:34",
+    "customer_msg": "The power bank to be nice",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "stock_found_but_missed",
+    "age_hours": 5.1,
+    "priority": "HIGH",
+    "last_checked": "2026-09-12T21:42:45.105910",
+    "checked_count": 1,
+    "match": {
+      "name": "Arlec Two-in-one Power Bank And Utility Light",
+      "price": 220.0,
+      "stock": 2,
+      "variant": "300"
+    }
+  },
+  {
+    "timestamp": "2026-09-12 16:34",
+    "customer_msg": "Aside the controller which be odd small..everything be sharp",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 5.1,
+    "priority": "HIGH",
+    "last_checked": "2026-09-12T21:42:45.130360",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-12 21:42",
+    "customer_msg": "👆, I responded",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "out_of_stock",
+    "age_hours": 4.0,
+    "priority": "MEDIUM",
+    "last_checked": "2026-09-13T01:44:13.848596",
+    "checked_count": 1,
+    "match": {
+      "name": "Irwin Saw",
+      "price": 260.0,
+      "stock": 0,
+      "cost": 0
+    }
+  },
+  {
+    "timestamp": "2026-09-12 21:42",
+    "customer_msg": "But seem this one doesn't have the phone holder 😞😞",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 4.0,
+    "priority": "HIGH",
+    "last_checked": "2026-09-13T01:44:13.852688",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-12 21:43",
+    "customer_msg": "The controller isn't pairing boss...",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 4.0,
+    "priority": "HIGH",
+    "last_checked": "2026-09-13T01:44:13.860974",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-12 21:44",
+    "customer_msg": "So how much is the Stanley",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "out_of_stock",
+    "age_hours": 4.0,
+    "priority": "MEDIUM",
+    "last_checked": "2026-09-13T01:44:13.864946",
+    "checked_count": 1,
+    "match": {
+      "name": "Blade",
+      "price": 300.0,
+      "stock": 0,
+      "cost": 80.0
+    }
+  },
+  {
+    "timestamp": "2026-09-12 22:32",
+    "customer_msg": "Monday sir",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 3.2,
+    "priority": "LOW",
+    "last_checked": "2026-09-13T01:44:13.869025",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-13 04:13",
+    "customer_msg": "What time are you open?",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 1.5,
+    "priority": "LOW",
+    "last_checked": "2026-09-13T05:44:55.321652",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-13 05:23",
+    "customer_msg": "Please kindly ignore the transport and installation",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 0.4,
+    "priority": "LOW",
+    "last_checked": "2026-09-13T05:44:55.335877",
+    "checked_count": 1
   }
 ]

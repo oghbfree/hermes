@@ -476,6 +476,15 @@
 | 🌙 Dinner | Dirty cabbage and flat bread |
 | 💊 Supplement | Vitamin C |
 
+### Sat 12 Sep *(logged via chat)*
+| Meal | Items |
+|------|-------|
+| ☀️ Morning | Chopped garlic |
+| ☀️ Breakfast | Pineapple |
+| ☀️ Lunch | None |
+| 🌙 Dinner | 1 chicken and goat kebab |
+| 💊 Supplements | Vitamin C, CBD gummy |
+
 ---
 
 ## 📈 Nutritional Trends *(updated with gap-fill data)*

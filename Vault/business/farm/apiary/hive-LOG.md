@@ -35,13 +35,13 @@ linked_workflow: FARM_WORKFLOW.md
 | F-08 | Farm — being baited | — | From room — bait & set in progress | — | 2026-09-08 | 🟡 Needs GPS | Habib instructed 8/9: bait & set 2 of the 3 room hives |
 | F-09 | Farm — being set | — | Empty — bait & set in progress | — | 2026-09-08 | 🟡 Needs GPS | Habib instructed 8/9: bait & set 2 of the 3 room hives |
 | F-10 | Farm room (in storage) | — | Empty — spare | — | — | — | 1 hive remaining in room as spare |
-| K-NEW1 | From Kwasi (Saltpond, colonised 4+ mo) | Top-bar ×20 | **PURCHASE CONFIRMED** | — | — | — | GHS 1,000. Kanzoni to drive to Winneba for pickup → farm |
-| K-NEW2 | From Kwasi (Saltpond, colonised 4+ mo) | Top-bar ×20 | **PURCHASE CONFIRMED** | — | — | — | GHS 1,000. Kanzoni to drive to Winneba for pickup → farm |
-| K-NEW3 | Future purchase — Kwasi standard build | Top-bar ×20 | Future — uniform standard | — | — | — | GHS 600 each going forward — **includes queen excluder + front hive gate**. All future hives uniform in size. |
+| K-NEW1 | From Kwasi (Saltpond, colonised 4+ mo) | Top-bar ×20 | **PURCHASE CONFIRMED** — with stand | — | — | — | GHS 1,000. Kanzoni to drive to Winneba for pickup → farm. Stand price TBC |
+| K-NEW2 | From Kwasi (Saltpond, colonised 4+ mo) | Top-bar ×20 | **PURCHASE CONFIRMED** — with stand | — | — | — | GHS 1,000. Kanzoni to drive to Winneba for pickup → farm. Stand price TBC |
+| K-NEW3 | From Kwasi (Saltpond, colonised 4+ mo) | Top-bar ×20 | **PURCHASE CONFIRMED** — with stand | — | — | — | GHS 1,000. Kanzoni to drive to Winneba for pickup → farm. Stand price TBC |
 
-**🤝 Kwasi Partnership (decided 8/9/26)**: Kwasi is now the **exclusive hive constructor & maintenance provider** for the apiary. Standard purchase price going forward: **GHS 600 per empty hive**, built with **queen excluder + front hive gate**, uniform dimensions across the fleet. Colonised hives at GHS 1,000.
+**🤝 Kwasi Partnership (decided 8/9/26)**: Kwasi is now the **exclusive hive constructor & maintenance provider** for the apiary. **3 colonised hives + hive stands being purchased now** (stands priced separately — TBC). Standard purchase price going forward: **GHS 600 per empty hive**, built with **queen excluder + front hive gate**, uniform dimensions across the fleet. Colonised hives at GHS 1,000. Single service charge of GHS 500 for the batch.
 
-**Fleet summary (8/9/26)**: **11 hives total** — 6 populated on field, 2 empty baited on field (F-06, F-07), 2 being baited & set from room (F-08, F-09), 1 spare in room (F-10). Plus 3 hives at Kanzoni shop (K-01 to K-03).
+**Fleet summary (8/9/26)**: **11 hives on farm** — 6 populated, 2 empty baited on field (F-06, F-07), 2 being baited & set from room (F-08, F-09), 1 spare in room (F-10). Plus 3 hives at Kanzoni shop (K-01 to K-03). **+3 Kwasi colonised hives incoming** → projected **9 populated colonies** on farm.
 
 ---
 
@@ -97,6 +97,68 @@ linked_workflow: FARM_WORKFLOW.md
 ---
 
 ## Inspection Log
+
+### 2026-09-08 (c) — APIARY STRATEGY DECISION: KWASI IS OFFICIAL HIVEMASTER
+
+**Decision made by H**: All future hive construction, purchase, and maintenance goes through **Kwasi (Greensgold Agribusiness)**.
+
+**The Deal — 3 Populated Hives + Stands:**
+
+| Item | Detail |
+|------|--------|
+| Hives | **3 colonised/populated hives** from Kwasi (Saltpond, 4+ months) |
+| Stands | Hive stands included — **price TBC** (Kwasi to quote) |
+| Future standard | All hives bought from Kwasi henceforth: **GHS 600 each**, uniform size, with **queen excluder** + **front hive gate** |
+| Logistics | **Kanzoni drives** to Winneba to collect the 3 hives from Kwasi and deliver to farm |
+| Fleet effect | 6 populated + 3 Kwasi = **9 populated colonies** on farm |
+
+**Terms noted**:
+- Empty hives from Kwasi: GHS 600 (with excluder + gate, uniform dimensions)
+- Colonised hives: GHS 1,000 each (4+ months established)
+- Service charge: GHS 500 (single charge for the batch, as negotiated)
+- ⚠️ **To confirm with Kwasi**: cost of the 3 hive stands, and whether the 3 colonised hives include the excluder/gate fittings or those come with the GHS 600 standard only
+
+**Why this structure works**:
+- **Uniformity** (Kwesi's recommendation #4) — all hives same size makes inspection, harvesting, and moving standardised
+- **Queen excluder** — keeps queen in brood box → honey supers stay clean for harvest
+- **Front hive gate** — controls robbing, absconding, and can lock hives against theft at night
+- **Single supplier** — one accountable person for hive quality, repairs, and replacements
+
+**Follow-ups**:
+- [ ] Ask Kwasi: hive stand price for the 3 units
+- [ ] Confirm transport arrangement with Kanzoni (Winneba → farm) — trip rate
+- [ ] Budget update once stand price confirmed
+
+### 2026-09-08 (c) — APIARY STRATEGY DECISION: KWASI IS OFFICIAL HIVEMASTER
+
+**Decision made by H**: All future hive construction, purchase, and maintenance goes through **Kwasi (Greensgold Agribusiness)**.
+
+**The Deal — 3 Populated Hives + Stands:**
+
+| Item | Detail |
+|------|--------|
+| Hives | **3 colonised/populated hives** from Kwasi (Saltpond, 4+ months) |
+| Stands | Hive stands included — **price TBC** (Kwasi to quote) |
+| Future standard | All hives bought from Kwasi henceforth: **GHS 600 each**, uniform size, with **queen excluder** + **front hive gate** |
+| Logistics | **Kanzoni drives** to Winneba to collect the 3 hives from Kwasi and deliver to farm |
+| Fleet effect | 6 populated + 3 Kwasi = **9 populated colonies** on farm |
+
+**Terms noted**:
+- Empty hives from Kwasi: GHS 600 (with excluder + gate, uniform dimensions)
+- Colonised hives: GHS 1,000 each (4+ months established)
+- Service charge: GHS 500 (single charge for the batch, as negotiated)
+- ⚠️ **To confirm with Kwasi**: cost of the 3 hive stands, and whether the 3 colonised hives include the excluder/gate fittings or those come with the GHS 600 standard only
+
+**Why this structure works**:
+- **Uniformity** (Kwesi's recommendation #4) — all hives same size makes inspection, harvesting, and moving standardised
+- **Queen excluder** — keeps queen in brood box → honey supers stay clean for harvest
+- **Front hive gate** — controls robbing, absconding, and can lock hives against theft at night
+- **Single supplier** — one accountable person for hive quality, repairs, and replacements
+
+**Follow-ups**:
+- [ ] Ask Kwasi: hive stand price for the 3 units
+- [ ] Confirm transport arrangement with Kanzoni (Winneba → farm) — trip rate
+- [ ] Budget update once stand price confirmed
 
 ### 2026-09-08 — Habib Farm Update: 6 HIVES POPULATED ✅
 
@@ -215,7 +277,7 @@ linked_workflow: FARM_WORKFLOW.md
 | 1 | **Wash absconded hives** | F-02 (lemon tree) + F-03 (open space) — clean thoroughly | ✅ Done — all 7 hives cleaned, baited & set |
 | 2 | **Bait & set spare hives** | 7 hives + 4 drinkers. Team: Kobby, Ahinful, Habib, Kanzoni | ✅ Done — 30/8/26 |
 | 3 | **Find dirty oil** | 1 gallon free ✅. **Need more** — Habib said he'll get some | 🟡 More needed — Habib sourcing |
-| 4 | **Find welder for hive stands** | Design: 14mm ribbed rod, 2 inverted U-frames + 2 cross rails. **Expanded to 42 cm width** (1 cm clearance each side for 40 × 60 cm hive). 448 cm/stand. | ✅ **Done** — GHS 200 paid, 4 stands collected & in use at farm |
+| 4 | **Find welder for hive stands** | Design: 14mm ribbed rod, 2 inverted U-frames + 2 cross rails. **Expanded to 42 cm width** (1 cm clearance each side for 40 × 60 cm hive). 448 cm/stand. | ✅ **Done** — GHS 200 paid, 4 stands collected & in use at farm. *Note: future hive stands now sourced via Kwasi as part of partnership* |
 | 5 | **Move sun-exposed hives to shade** | Afternoon sun exposed hives — relocate under tree cover | ✅ **Done** — Habib moved them |
 | 6 | **New door locks** | 2 locks bought 2/9 — GHS 150 each | ✅ Done |
 | 7 | **Habib absent 4/9–5/9** | Funeral | 🔄 Back 6/9 |

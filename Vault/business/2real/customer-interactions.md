@@ -4906,3 +4906,576 @@ I need one
 - **Chat:** 6790913724503
 - **Customer:** can i come buy your place and pick up
 - **Reply:** We will get back to you shortly.
+
+## 2026-09-12 06:11
+- **Channel:** whatsapp
+- **Chat:** 112185032355900
+- **Customer:** Lake side hills, community 9 sports complex
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-12 06:11
+- **Channel:** whatsapp
+- **Chat:** 112185032355900
+- **Customer:** The closest landmark is the Sweden Ghana medical centre
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-12 11:54
+- **Channel:** whatsapp
+- **Chat:** 43349121712368
+- **Customer:** [Sticker]
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-12 11:54
+- **Channel:** whatsapp
+- **Chat:** 264209610838130
+- **Customer:** [image received]
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-12 11:54
+- **Channel:** whatsapp
+- **Chat:** 51046256787651
+- **Customer:** Please where are you located
+Okay
+[owner reply] Oyarifa
+Please can you send me your location
+[owner reply] What time will you be coming
+[owner reply] As I've just left the warehouse
+Please this is exactly what I need
+Around 10am
+[owner reply] I don't have
+So none of this can do the same work?
+[owner reply] You need to do your own research as I'm not sure not an expert
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-12 11:54
+- **Channel:** whatsapp
+- **Chat:** 43349121712368
+- **Customer:** [Location: 5.6588157,-0.3412577]
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-12 11:54
+- **Channel:** whatsapp
+- **Chat:** 6790913724503
+- **Customer:** unless i look for  extra money cause i thought it was 200 and i have exactly 400 for 2
+[owner reply] Starting from 200
+meaning you have different ones there which is 200? im a bit confused
+[owner reply] We did have different ones but sold out of most only have 3 left
+arhn oh💔
+[owner reply] Yes you came late
+[owner reply] But still are you ready
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-12 11:54
+- **Channel:** whatsapp
+- **Chat:** 69673110507697
+- **Customer:** Good morning where I am as far so I have to leave home very early and yesterday I had things doing after I finish time was gone, so I couldn’t come… so God willing today I will come for it
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-12 11:54
+- **Channel:** whatsapp
+- **Chat:** 177451053379703
+- **Customer:** [document received]
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-12 11:54
+- **Channel:** whatsapp
+- **Chat:** 43349121712368
+- **Customer:** I know its tight bro
+[owner reply] Yeah
+[owner reply] Every where
+So how we go do am...make I take the Cooling pad and later come for the rest?
+[owner reply] Can do 1600
+[owner reply] Yh
+[owner reply] I've tried bro
+Sure...you have
+Cool
+Do you have a delivery arrangement?
+[owner reply] Yes where are you located   and I'll see if there available and how much
+Ablekuma Manhean
+You sell cameras before?
+Okay cool
+What about the controller now, the back?
+[owner reply] Didn't come with a back
+😞
+Then you'd have to give me a good price for that
+[owner reply] Ok
+Kindly share my total
+[owner reply] Yes
+Okay...you've some currently?
+[owner reply] Only Panasonic point and shoot
+[owner reply] https://jiji.com.gh/dome/cameras-video-cameras-and-accessories/panasonic-lumix-digital-camera-with-battery-and-charger-muXoqAK7ysWTN29ETn1V8ECr.html
+Okay cool...
+If yiu get more pro ones make I know..
+[owner reply] Ok
+With good discount boss
+Xbox controller 
+Belkin power bank 
+AA battery charger
+Energizer AA batteries
+Cooling pad
+[owner reply] Belkin power bank 600
+AA battery charger 200
+Energizer AA batteries 200
+Cooling pad 450
+Xbox gamepad no cover 350
+[owner reply] Giving you discount on the cooling pad and game pad no cover
+Hmmm.... is the controller the type c kind?
+It's the old model type...micro usb
+[owner reply] Ok
+This de3 the price has to come down kraa
+[owner reply] Ok
+[owner reply] So
+My bill is gh1800 from here...
+[owner reply] I gave you good discount on the cooling pad also
+[owner reply] So bring 1700
+Gh1400
+Let me know when you get the rider?
+[owner reply] Seems like everyone is off today
+Oops
+I could share my location for a third party delivery if that's fine
+[owner reply] Third party like yango you would have to pay before delivery.... Like when the yango rider gets here. He calls you make payment send you picture then he takes it away to you
+Okay
+Uber courier is cheaper as I checked
+[owner reply] What's your nearest landmark
+[owner reply] And are you okay to pay before delivery
+One world event centre
+Not entirely though...if I could pay at least half when i get the items I top up....that's more comfortable
+With the assurance that all the items are neat and functional from your side...
+[owner reply] Let's just wait till my rider comes
+Okay..if that option is available...
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-12 11:54
+- **Channel:** whatsapp
+- **Chat:** 201631551479939
+- **Customer:** Hello
+[owner reply] it's payment before delivery if using a third party delivery company
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-12 11:54
+- **Channel:** whatsapp
+- **Chat:** 177451053379703
+- **Customer:** [Contact: Joycely New Teacher +233 24 025 1899]
+[owner reply] She messaged me from a different number
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-12 11:54
+- **Channel:** whatsapp
+- **Chat:** 174423621550317
+- **Customer:** Thank you for contacting MONDIAL ENTERPRISE! Please let us know how we can help you.
+Thank you for your message. We’re unavailable right now, but will respond as soon as possible.
+Let us know what you would like to request so we get back to you once we are available😊
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-12 11:55
+- **Channel:** whatsapp
+- **Chat:** 177451053379703
+- **Customer:** [audio received]
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-12 11:55
+- **Channel:** whatsapp
+- **Chat:** 43405660930182
+- **Customer:** Yeah Good Morning
+[owner reply] Skateboard
+Yes
+Do you have pictures of the ones available
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-12 12:27
+- **Channel:** whatsapp
+- **Chat:** 37495215542386
+- **Customer:** 900W is too small.... I have same there.
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-12 12:31
+- **Channel:** whatsapp
+- **Chat:** 43349121712368
+- **Customer:** Hello
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-12 12:32
+- **Channel:** whatsapp
+- **Chat:** 225713533767926
+- **Customer:** Hello
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-12 12:45
+- **Channel:** whatsapp
+- **Chat:** 43349121712368
+- **Customer:** Oh
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-12 12:46
+- **Channel:** whatsapp
+- **Chat:** 43349121712368
+- **Customer:** Can we do the yango?...time is ticking fast
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-12 13:27
+- **Channel:** whatsapp
+- **Chat:** 201631551479939
+- **Customer:** Can you use your delivery guy then pls
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-12 13:38
+- **Channel:** whatsapp
+- **Chat:** 225713533767926
+- **Customer:** I'm one who called about irrigation systems
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-12 13:45
+- **Channel:** whatsapp
+- **Chat:** 105385897812070
+- **Customer:** Sorry I missed your call I'm driving
+Sorry I missed your call I'm driving
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-12 13:53
+- **Channel:** whatsapp
+- **Chat:** 225713533767926
+- **Customer:** [document received]
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-12 13:54
+- **Channel:** whatsapp
+- **Chat:** 225713533767926
+- **Customer:** [document received]
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-12 13:55
+- **Channel:** whatsapp
+- **Chat:** 225713533767926
+- **Customer:** [document received]
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-12 13:55
+- **Channel:** whatsapp
+- **Chat:** 225713533767926
+- **Customer:** [document received]
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-12 13:56
+- **Channel:** whatsapp
+- **Chat:** 225713533767926
+- **Customer:** [document received]
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-12 13:58
+- **Channel:** whatsapp
+- **Chat:** 43349121712368
+- **Customer:** Your riders didn't come...if this is the only option left. ..that's fine
+Let's hit it
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-12 14:11
+- **Channel:** whatsapp
+- **Chat:** 201631551479939
+- **Customer:** No pls. I can only pay cash or momo on delivery. Thanks
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-12 14:15
+- **Channel:** whatsapp
+- **Chat:** 69673110507697
+- **Customer:** Hello boss please am coming
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-12 14:15
+- **Channel:** whatsapp
+- **Chat:** 177451053379703
+- **Customer:** Okay
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-12 14:16
+- **Channel:** whatsapp
+- **Chat:** 69673110507697
+- **Customer:** I will be there around four
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-12 14:26
+- **Channel:** whatsapp
+- **Chat:** 177451053379703
+- **Customer:** Okay
+- **Reply:** [acknowledgment - no reply sent]
+
+## 2026-09-12 14:26
+- **Channel:** whatsapp
+- **Chat:** 177451053379703
+- **Customer:** How much
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-12 14:27
+- **Channel:** whatsapp
+- **Chat:** 177451053379703
+- **Customer:** And your number for momo
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-12 14:31
+- **Channel:** whatsapp
+- **Chat:** 69673110507697
+- **Customer:** I no…  but please Dash me something lol 😂
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-12 14:32
+- **Channel:** whatsapp
+- **Chat:** 69673110507697
+- **Customer:** I’m in the car so I’ll get to MADINA soon
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-12 14:34
+- **Channel:** whatsapp
+- **Chat:** 69673110507697
+- **Customer:** Okay thanks
+- **Reply:** [acknowledgment - no reply sent]
+
+## 2026-09-12 14:45
+- **Channel:** whatsapp
+- **Chat:** 177451053379703
+- **Customer:** Yes in the house
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-12 14:45
+- **Channel:** whatsapp
+- **Chat:** 177451053379703
+- **Customer:** [image received]
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-12 15:33
+- **Channel:** whatsapp
+- **Chat:** 43349121712368
+- **Customer:** [image received]
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-12 15:33
+- **Channel:** whatsapp
+- **Chat:** 43349121712368
+- **Customer:** [Location: OneWorld Apartments and Events Centre 5.65846627,-0.34004172]
+
+[owner reply] [image received]
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-12 15:33
+- **Channel:** whatsapp
+- **Chat:** 37014162419822
+- **Customer:** I’m still here
+[owner reply] Waiting for someone to get back to me then I will get back to you
+Noted
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-12 15:33
+- **Channel:** whatsapp
+- **Chat:** 43349121712368
+- **Customer:** The cost is high
+Uber courier is cheaper
+I'm not sure of the methodist church though...
+[owner reply] Ok opposite needs microfinance
+Okay looks like i know the area
+[owner reply] Okay come around
+Oh no I can't come today...if you don't have uber app...yango is fine...kindly order...
+[owner reply] Is this the right area
+Yes...but not exact
+[Reaction: 👍🏾 to A556DEE6A430CBE2B480169504369749]
+[owner reply] Ok
+[owner reply] Your number
+[owner reply] ?
+0545330325
+[owner reply] Mtn Momo number 0544252252 oman Herbert-blankson
+[owner reply] The package is on its way. Follow the delivery: https://trip.uber.com/zVUmes4OuBa
+[owner reply] Are you going to be by your phone?
+Okay
+I'm with it
+Already on his way?
+[owner reply] No pickup soon
+Just seeing the cool pad and cobtroller...I trust the others are inside somewhere 😊
+Okay...I trust you
+[owner reply] [Reaction: 👍🏿 to A50F3E9AD9CF0F4CE64BE52BFCAFD5D8]
+[owner reply] Okay the rider is here
+Okay
+Gj1600 right
+[owner reply] Yh
+Kindly confirm
+[owner reply] Received
+[Reaction: 👍🏾 to A58C5F2B54EBE2C81CAB71F304164799]
+Thanks
+[owner reply] Your welcome
+[Reaction: 👍🏾 to A5E00F241209E8D55617516FF237CD11]
+I'll give feedback when I receive them...
+[owner reply] https://jiji.com.gh/opinions/rbPd2oROVhelYWPjYkQWbhpx
+[owner reply] Medasse
+Sure...I'll do so
+You sell softbox and led lights for photography?
+[owner reply] No.
+[owner reply] I have some light maybe I'll show you pictures
+Okay cool
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-12 15:36
+- **Channel:** whatsapp
+- **Chat:** 6790913724503
+- **Customer:** will you take the 400?
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-12 15:41
+- **Channel:** whatsapp
+- **Chat:** 177451053379703
+- **Customer:** [image received]
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-12 15:41
+- **Channel:** whatsapp
+- **Chat:** 177451053379703
+- **Customer:** Do we sale this
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-12 15:47
+- **Channel:** whatsapp
+- **Chat:** 105385897812070
+- **Customer:** When do they want it to be delivered?
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-12 16:01
+- **Channel:** whatsapp
+- **Chat:** 105385897812070
+- **Customer:** This one will cost 180
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-12 16:02
+- **Channel:** whatsapp
+- **Chat:** 105385897812070
+- **Customer:** 130
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-12 16:18
+- **Channel:** whatsapp
+- **Chat:** 264209610838130
+- **Customer:** Please is it in?
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-12 16:33
+- **Channel:** whatsapp
+- **Chat:** 43349121712368
+- **Customer:** Chale Chale chale
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-12 16:33
+- **Channel:** whatsapp
+- **Chat:** 43349121712368
+- **Customer:** Chale your goods be solid I tell you...
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-12 16:34
+- **Channel:** whatsapp
+- **Chat:** 43349121712368
+- **Customer:** [video received]
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-12 16:34
+- **Channel:** whatsapp
+- **Chat:** 43349121712368
+- **Customer:** I see
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-12 16:34
+- **Channel:** whatsapp
+- **Chat:** 43349121712368
+- **Customer:** The power bank to be nice
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-12 16:34
+- **Channel:** whatsapp
+- **Chat:** 43349121712368
+- **Customer:** Aside the controller which be odd small..everything be sharp
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-12 21:42
+- **Channel:** whatsapp
+- **Chat:** 264209610838130
+- **Customer:** 👆, I responded
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-12 21:42
+- **Channel:** whatsapp
+- **Chat:** 43349121712368
+- **Customer:** But seem this one doesn't have the phone holder 😞😞
+Waiting for these
+[owner reply] Oh ok
+[owner reply] Will not be till Tuesday
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-12 21:43
+- **Channel:** whatsapp
+- **Chat:** 43349121712368
+- **Customer:** [video received]
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-12 21:43
+- **Channel:** whatsapp
+- **Chat:** 43349121712368
+- **Customer:** The controller isn't pairing boss...
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-12 21:44
+- **Channel:** whatsapp
+- **Chat:** 174423621550317
+- **Customer:** So how much is the Stanley
+[owner reply] This is the only one I can find right now 950gh
+[owner reply] Erbauer 450gh
+Ohk so how do I get it?
+[owner reply] Delivery Monday with my rider. If yango cash before delivery and can get it now
+Please reframe your statement I’m kinda not getting the understanding
+[owner reply] When do you need it
+Monday payment after delivery
+Or upon delivery ?
+[owner reply] On Monday my rider will bring it and you pay him when he brings it
+[owner reply] Where are you located
+Mind you I still don’t have the price for the Stanley
+[owner reply] You said you only want Stanley 950gh
+Is it the box?
+[owner reply] No on its backing card
+[owner reply] How it originally is packaged
+??
+950 is too expensive for a tape measure boss
+[owner reply] I have other Stanley I'll let you know
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-12 22:32
+- **Channel:** whatsapp
+- **Chat:** 248764958773287
+- **Customer:** Monday sir
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-12 22:32
+- **Channel:** whatsapp
+- **Chat:** 174423621550317
+- **Customer:** Ok
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-13 04:13
+- **Channel:** whatsapp
+- **Chat:** 197392485896444
+- **Customer:** Yes
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-13 04:13
+- **Channel:** whatsapp
+- **Chat:** 197392485896444
+- **Customer:** What time are you open?
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-13 05:22
+- **Channel:** whatsapp
+- **Chat:** 237004935676153
+- **Customer:** [document received]
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-13 05:22
+- **Channel:** whatsapp
+- **Chat:** 237004935676153
+- **Customer:** [document received]
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-13 05:23
+- **Channel:** whatsapp
+- **Chat:** 237004935676153
+- **Customer:** Please kindly ignore the transport and installation
+- **Reply:** We will get back to you shortly.
