@@ -4326,5 +4326,309 @@
     "priority": "LOW",
     "last_checked": "2026-09-13T05:44:55.335877",
     "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-13 09:09",
+    "customer_msg": "I’ll come around at 9am",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 0.6,
+    "priority": "LOW",
+    "last_checked": "2026-09-13T09:46:11.563965",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-13 09:13",
+    "customer_msg": "Okayyy",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 0.6,
+    "priority": "LOW",
+    "last_checked": "2026-09-13T09:46:11.591292",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-13 09:15",
+    "customer_msg": "Maybe Tuesday",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 0.5,
+    "priority": "LOW",
+    "last_checked": "2026-09-13T09:46:11.598533",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-13 09:15",
+    "customer_msg": "Good morning,  we just received a mail you viewed our advert on jiji",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 0.5,
+    "priority": "LOW",
+    "last_checked": "2026-09-13T09:46:11.604693",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-13 09:15",
+    "customer_msg": "Hope it can play GTA5",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 0.5,
+    "priority": "LOW",
+    "last_checked": "2026-09-13T09:46:11.611442",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-13 09:18",
+    "customer_msg": "5 litres",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "stock_found_but_missed",
+    "age_hours": 0.5,
+    "priority": "HIGH",
+    "last_checked": "2026-09-13T09:46:11.648342",
+    "checked_count": 1,
+    "match": {
+      "name": "Hamilton 5 Brush Set",
+      "price": 230.0,
+      "stock": 3,
+      "variant": "None"
+    }
+  },
+  {
+    "timestamp": "2026-09-13 09:34",
+    "customer_msg": "I’m infront of the police station",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 0.2,
+    "priority": "LOW",
+    "last_checked": "2026-09-13T09:46:11.653641",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-13 09:37",
+    "customer_msg": "It’s locked",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 0.2,
+    "priority": "LOW",
+    "last_checked": "2026-09-13T09:46:11.659589",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-13 09:53",
+    "customer_msg": "Do you still have the gorilla glue available",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "stock_found_but_missed",
+    "age_hours": 12.3,
+    "priority": "HIGH",
+    "last_checked": "2026-09-13T22:09:56.424992",
+    "checked_count": 1,
+    "match": {
+      "name": "Gorilla",
+      "price": 180.0,
+      "stock": 5,
+      "variant": "Gorilla Glue Clear 50ml"
+    }
+  },
+  {
+    "timestamp": "2026-09-13 09:55",
+    "customer_msg": "At the moment I am at church at Ashley Botwe school junction",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 12.2,
+    "priority": "HIGH",
+    "last_checked": "2026-09-13T22:09:56.462958",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-13 10:02",
+    "customer_msg": "Do you have it available?",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 12.1,
+    "priority": "HIGH",
+    "last_checked": "2026-09-13T22:09:56.477247",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-13 10:03",
+    "customer_msg": "Okay please deliver it to my location",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 12.1,
+    "priority": "HIGH",
+    "last_checked": "2026-09-13T22:09:56.484751",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-13 10:04",
+    "customer_msg": "How much?",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 12.1,
+    "priority": "HIGH",
+    "last_checked": "2026-09-13T22:09:56.485097",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-13 10:15",
+    "customer_msg": "Okay please send",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 11.9,
+    "priority": "HIGH",
+    "last_checked": "2026-09-13T22:09:56.499033",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-13 10:15",
+    "customer_msg": "Bells international school Adjei Kojo",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 11.9,
+    "priority": "HIGH",
+    "last_checked": "2026-09-13T22:09:56.506798",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-13 10:19",
+    "customer_msg": "Okay then tomorrow",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 11.8,
+    "priority": "HIGH",
+    "last_checked": "2026-09-13T22:09:56.513991",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-13 10:21",
+    "customer_msg": "If you don’t trust me to pay on arrival then let use your rider tomorrow because I’m also doubtful paying before delivery",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 11.8,
+    "priority": "HIGH",
+    "last_checked": "2026-09-13T22:09:56.523866",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-13 10:21",
+    "customer_msg": "Tomorrow is okay with me",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 11.8,
+    "priority": "HIGH",
+    "last_checked": "2026-09-13T22:09:56.530740",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-13 10:29",
+    "customer_msg": "I can’t tomorrow so that we are both safe.",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 11.7,
+    "priority": "HIGH",
+    "last_checked": "2026-09-13T22:09:56.538308",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-13 11:08",
+    "customer_msg": "No pls",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "out_of_stock",
+    "age_hours": 11.0,
+    "priority": "MEDIUM",
+    "last_checked": "2026-09-13T22:09:56.545038",
+    "checked_count": 1,
+    "match": {
+      "name": "Bosch",
+      "price": 300.0,
+      "stock": 0,
+      "cost": 60.0
+    }
+  },
+  {
+    "timestamp": "2026-09-13 22:10",
+    "customer_msg": "[Location: 5.6794328689575195,-0.12299218773841858]",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 4.0,
+    "priority": "HIGH",
+    "last_checked": "2026-09-14T02:10:39.517653",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-13 22:10",
+    "customer_msg": "Nice meeting you too.I’ll definitely get back to you 🙏",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 4.0,
+    "priority": "HIGH",
+    "last_checked": "2026-09-14T02:10:39.534944",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-13 22:10",
+    "customer_msg": "Yeah",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 4.0,
+    "priority": "HIGH",
+    "last_checked": "2026-09-14T02:10:39.540262",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-13 22:10",
+    "customer_msg": "That’s fine with me",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "out_of_stock",
+    "age_hours": 4.0,
+    "priority": "MEDIUM",
+    "last_checked": "2026-09-14T02:10:39.551620",
+    "checked_count": 1,
+    "match": {
+      "name": "Makita",
+      "price": 2300.0,
+      "stock": 0,
+      "cost": 0
+    }
+  },
+  {
+    "timestamp": "2026-09-13 22:10",
+    "customer_msg": "[Contact: Prince Security  +233 59 807 9421]",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 4.0,
+    "priority": "HIGH",
+    "last_checked": "2026-09-14T02:10:39.556727",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-13 22:10",
+    "customer_msg": "Good afternoon. I said I need an original MAF sensor for my Toyota corolla 2014 but you did not answer my request",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 4.0,
+    "priority": "HIGH",
+    "last_checked": "2026-09-14T02:10:39.564974",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-13 22:10",
+    "customer_msg": "Okay, so how can it now?",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 4.0,
+    "priority": "HIGH",
+    "last_checked": "2026-09-14T02:10:39.570926",
+    "checked_count": 1
+  },
+  {
+    "timestamp": "2026-09-13 22:11",
+    "customer_msg": "I’m 10mins away",
+    "reply_sent": "We will get back to you shortly.",
+    "status": "unknown_item",
+    "age_hours": 4.0,
+    "priority": "LOW",
+    "last_checked": "2026-09-14T02:10:39.576805",
+    "checked_count": 1
   }
 ]

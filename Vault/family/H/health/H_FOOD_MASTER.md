@@ -485,6 +485,16 @@
 | 🌙 Dinner | 1 chicken and goat kebab |
 | 💊 Supplements | Vitamin C, CBD gummy |
 
+### Sun 13 Sep *(logged via chat)*
+| Meal | Items |
+|------|-------|
+| ☀️ Morning | Chopped garlic, lemon, energy elixir |
+| ☀️ Breakfast | 3 eggs with onion |
+| ☀️ Lunch | Rice with egg and salad |
+| 🌙 Dinner | None — cake and ice cream instead |
+| 🍹 Drink | Desperados |
+| 💊 Supplement | CBD gummy |
+
 ---
 
 ## 📈 Nutritional Trends *(updated with gap-fill data)*

@@ -360,3 +360,22 @@
 ### 🌅 Morning Health Check
 - **Status:** No new acute symptoms reported (no chest pain, no dysphagia, no headache/dizziness). 🔔 Open: post-shock follow-up **booked Mon 31 Aug** with Dr. Addo Danquah (Renerve/tremor response + toe X-ray result) — **outcome still NOT documented; confirm it was attended & log results.** 🔴 Blood-work labs (1,075 GH panel) still PENDING — requisition photo never reached Nita; re-send / call UGMC so samples are run. 🟡 Watch: left arm tremor under Renerve (Renerve Plus tablet taken 5 Sep) — confirm response at review; toenail fungus on Candid lotion (revisit oral antifungal). Food diary **current through 8 Sep** (mixed nuts + pineapple B, 5 yam chips L, jollof + fried chicken D) — 9 Sep & today's breakfast not yet logged. 🟢 Stable: vitals taken 24 Aug at doctor (normal); eyes/vision, no acute chest pain, pericarditis quiescent. ACTION: confirm 31 Aug review outcome (tremor/X-ray/labs), re-send lab photo / call UGMC, take Renerve as prescribed, log today's meals.
 - **Check-in:** Asked H about breakfast, energy, symptoms
+
+---
+
+## 2026-09-13 (Sun)
+
+### 🌅 Morning Health Check
+- **Status:** No new acute symptoms reported (no chest pain, no dysphagia, no headache/dizziness). 🔔 Open: post-shock follow-up **booked Mon 31 Aug** with Dr. Addo Danquah (Renerve/tremor response + toe X-ray result) — **outcome still NOT documented, 13 days past; confirm it was attended & log results.** 🔴 Blood-work labs (1,075 GH panel) still PENDING — requisition photo never reached Nita; re-send / call UGMC so samples are run (blood work stays 6+ yrs stale until drawn). 🟡 Watch: left arm tremor under Renerve (Renerve Plus tablet last logged 5 Sep) — confirm response at review; toenail fungus on Candid lotion (revisit oral antifungal). Food diary **current through 12 Sep** (garlic B, pineapple B, none L, chicken+goat kebab D, Vit C+CBD gummy) — today's breakfast not yet logged. 🟢 Stable: vitals taken 24 Aug at doctor (normal); eyes/vision, no acute chest pain, pericarditis quiescent. ACTION: confirm 31 Aug review outcome (tremor/X-ray/labs), re-send lab photo / call UGMC, take Renerve as prescribed, log today's meals.
+- **Check-in:** Asked H about breakfast, energy, symptoms
+
+---
+
+### 📊 Weekly Review — Sep 7–13, 2026
+**Generated:** Sun 13 Sep 2026
+
+🔴 **Red Flags:** The Mon 31 Aug follow-up with Dr. Addo Danquah — **outcome still NOT documented, 13 days past** (tremor response to Renerve + toe X-ray result unrecorded — unblocks everything else). Blood-work labs (1,075 GH panel) **still not run since 24 Aug** — requisition photo never reached Nita; blood work remains 6+ yrs stale until samples collected. Both structural items show **zero progress for a second consecutive week** — documentation stall is now the dominant risk.
+🟡 **Watch:** Tremor response to Renerve (Plus tablet taken 5 Sep) unconfirmed pending review log. Toenail fungus on topical Candid lotion only — oral antifungal still not revisited. **No fresh vitals reading since 24 Aug (20 days)** — monitoring drifting. Last documented morning check-in is 10 Sep (11–13 Sep not logged).
+🟢 **Good:** **Food diary complete — logged 6 of 7 days (7–12 Sep)**, best sustained run on record following the Aug collapse. No acute symptoms all week (no chest pain, no dysphagia episodes, no headache/dizziness). Daily Vit C + garlic routine consistent; Renerve active. Stable: eyes/vision, no acute chest pain, pericarditis quiescent.
+📈 **Trends:** Food logging holds strong (~6–7/7 vs collapsed 0/7 early Aug) — 🔴→🟢 recovery sustained. But the two structural follow-ups remain frozen: 31 Aug review outcome (now 13 days undocumented) and labs, both unchanged from last week. Vitals freshness is regressing (24 Aug → now 20 days). The entire care pipeline stays gated on recording the 31 Aug review and actually running the blood panel.
+💡 **Top 3 Actions This Week:** 1. Confirm & log the Mon 31 Aug follow-up outcome with Dr. Addo Danquah (tremor response + toe X-ray + labs) — it is 13 days undocumented and blocks all onward steps. 2. Re-send the lab requisition photo / call UGMC so the 1,075 GH panel (LFT, HbA1c, RFT, FBC, urine, lipids, PSA) actually runs. 3. Take a fresh BP/pulse reading (20 days since last) and ask about an oral antifungal for the toenails at the next contact.

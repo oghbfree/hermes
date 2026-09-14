@@ -5479,3 +5479,349 @@ Is it the box?
 - **Chat:** 237004935676153
 - **Customer:** Please kindly ignore the transport and installation
 - **Reply:** We will get back to you shortly.
+
+## 2026-09-13 09:09
+- **Channel:** whatsapp
+- **Chat:** 197392485896444
+- **Customer:** I’ll come around at 9am
+You said opposite the kuottam police station right?
+[owner reply] Yes
+Sure
+[owner reply] Ok
+[owner reply] Did you call earlier
+Nope
+[owner reply] Ok
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-13 09:13
+- **Channel:** whatsapp
+- **Chat:** 252828182425774
+- **Customer:** [image received]
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-13 09:13
+- **Channel:** whatsapp
+- **Chat:** 252828182425774
+- **Customer:** [image received]
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-13 09:13
+- **Channel:** whatsapp
+- **Chat:** 252828182425774
+- **Customer:** [image received]
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-13 09:13
+- **Channel:** whatsapp
+- **Chat:** 252828182425774
+- **Customer:** Okayyy
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-13 09:15
+- **Channel:** whatsapp
+- **Chat:** 252828182425774
+- **Customer:** Maybe Tuesday
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-13 09:15
+- **Channel:** whatsapp
+- **Chat:** 123888549814489
+- **Customer:** Good morning,  we just received a mail you viewed our advert on jiji
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-13 09:15
+- **Channel:** whatsapp
+- **Chat:** 252828182425774
+- **Customer:** Hope it can play GTA5
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-13 09:17
+- **Channel:** whatsapp
+- **Chat:** 123888549814489
+- **Customer:** [image received]
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-13 09:17
+- **Channel:** whatsapp
+- **Chat:** 123888549814489
+- **Customer:** [image received]
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-13 09:17
+- **Channel:** whatsapp
+- **Chat:** 123888549814489
+- **Customer:** [image received]
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-13 09:17
+- **Channel:** whatsapp
+- **Chat:** 123888549814489
+- **Customer:** [image received]
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-13 09:18
+- **Channel:** whatsapp
+- **Chat:** 123888549814489
+- **Customer:** [image received]
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-13 09:18
+- **Channel:** whatsapp
+- **Chat:** 123888549814489
+- **Customer:** [image received]
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-13 09:18
+- **Channel:** whatsapp
+- **Chat:** 123888549814489
+- **Customer:** 5 litres
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-13 09:19
+- **Channel:** whatsapp
+- **Chat:** 123888549814489
+- **Customer:** Alright 👍
+- **Reply:** [acknowledgment - no reply sent]
+
+## 2026-09-13 09:34
+- **Channel:** whatsapp
+- **Chat:** 197392485896444
+- **Customer:** Hello
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-13 09:34
+- **Channel:** whatsapp
+- **Chat:** 197392485896444
+- **Customer:** I’m infront of the police station
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-13 09:37
+- **Channel:** whatsapp
+- **Chat:** 197392485896444
+- **Customer:** It’s locked
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-13 09:53
+- **Channel:** whatsapp
+- **Chat:** 165691432910911
+- **Customer:** Do you still have the gorilla glue available
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-13 09:53
+- **Channel:** whatsapp
+- **Chat:** 165691432910911
+- **Customer:** Ok
+[owner reply] Yes send me a screenshot of which one you need
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-13 09:53
+- **Channel:** whatsapp
+- **Chat:** 165691432910911
+- **Customer:** [image received]
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-13 09:54
+- **Channel:** whatsapp
+- **Chat:** 165691432910911
+- **Customer:** Delivery
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-13 09:55
+- **Channel:** whatsapp
+- **Chat:** 165691432910911
+- **Customer:** At the moment I am at church at Ashley Botwe school junction
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-13 10:02
+- **Channel:** whatsapp
+- **Chat:** 165691432910911
+- **Customer:** Do you have it available?
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-13 10:03
+- **Channel:** whatsapp
+- **Chat:** 165691432910911
+- **Customer:** Okay please deliver it to my location
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-13 10:04
+- **Channel:** whatsapp
+- **Chat:** 165691432910911
+- **Customer:** How much?
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-13 10:15
+- **Channel:** whatsapp
+- **Chat:** 165691432910911
+- **Customer:** Okay please send
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-13 10:15
+- **Channel:** whatsapp
+- **Chat:** 165691432910911
+- **Customer:** Bells international school Adjei Kojo
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-13 10:19
+- **Channel:** whatsapp
+- **Chat:** 165691432910911
+- **Customer:** Okay then tomorrow
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-13 10:21
+- **Channel:** whatsapp
+- **Chat:** 165691432910911
+- **Customer:** If you don’t trust me to pay on arrival then let use your rider tomorrow because I’m also doubtful paying before delivery
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-13 10:21
+- **Channel:** whatsapp
+- **Chat:** 165691432910911
+- **Customer:** Tomorrow is okay with me
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-13 10:29
+- **Channel:** whatsapp
+- **Chat:** 165691432910911
+- **Customer:** I can’t tomorrow so that we are both safe.
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-13 11:08
+- **Channel:** whatsapp
+- **Chat:** 146810773459032
+- **Customer:** No pls
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-13 22:09
+- **Channel:** whatsapp
+- **Chat:** 152454477946911
+- **Customer:** No please
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-13 22:09
+- **Channel:** whatsapp
+- **Chat:** 87424461975788
+- **Customer:** Hi
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-13 22:09
+- **Channel:** whatsapp
+- **Chat:** 241969968214064
+- **Customer:** Hello
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-13 22:10
+- **Channel:** whatsapp
+- **Chat:** 87424461975788
+- **Customer:** [image received]
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-13 22:10
+- **Channel:** whatsapp
+- **Chat:** 87424461975788
+- **Customer:** [image received]
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-13 22:10
+- **Channel:** whatsapp
+- **Chat:** 165691432910911
+- **Customer:** [Location: 5.6794328689575195,-0.12299218773841858]
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-13 22:10
+- **Channel:** whatsapp
+- **Chat:** 165691432910911
+- **Customer:** [image received]
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-13 22:10
+- **Channel:** whatsapp
+- **Chat:** 241969968214064
+- **Customer:** [image received]
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-13 22:10
+- **Channel:** whatsapp
+- **Chat:** 197392485896444
+- **Customer:** Nice meeting you too.I’ll definitely get back to you 🙏
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-13 22:10
+- **Channel:** whatsapp
+- **Chat:** 87424461975788
+- **Customer:** Hi
+This only need the battery pack
+I'm in Kumasi
+[owner reply] Unavailable at the moment
+Ok👍
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-13 22:10
+- **Channel:** whatsapp
+- **Chat:** 165691432910911
+- **Customer:** Yeah
+Please I’m leaving the church so let’s make it tomorrow. Thanks
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-13 22:10
+- **Channel:** whatsapp
+- **Chat:** 241969968214064
+- **Customer:** Hello
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-13 22:10
+- **Channel:** whatsapp
+- **Chat:** 248764958773287
+- **Customer:** Hello boss
+Please tomorrow i will order for you mini combo
+[owner reply] Greetings will not be at the shop tomorrow so Tuesday
+Oh okay sir
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-13 22:10
+- **Channel:** whatsapp
+- **Chat:** 165691432910911
+- **Customer:** That’s fine with me
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-13 22:10
+- **Channel:** whatsapp
+- **Chat:** 177451053379703
+- **Customer:** [Contact: Prince Security  +233 59 807 9421]
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-13 22:10
+- **Channel:** whatsapp
+- **Chat:** 191955141181666
+- **Customer:** Good afternoon. I said I need an original MAF sensor for my Toyota corolla 2014 but you did not answer my request
+[owner reply] 👆🏿
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-13 22:10
+- **Channel:** whatsapp
+- **Chat:** 37014162419822
+- **Customer:** Okay, so how can it now?
+[owner reply] I am an oyarifa now
+Send me the location, I’m on my way.
+[owner reply] How long before you get here
+I’ll get there before 6pm
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-13 22:11
+- **Channel:** whatsapp
+- **Chat:** 37014162419822
+- **Customer:** I’m 10mins away
+I’m here
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-13 22:12
+- **Channel:** whatsapp
+- **Chat:** 37014162419822
+- **Customer:** Thank you
+- **Reply:** We will get back to you shortly.
+
+## 2026-09-14 05:56
+- **Channel:** whatsapp
+- **Chat:** 165691432910911
+- **Customer:** [Location: 5.676486015319824,-0.0679398849606514]
+- **Reply:** We will get back to you shortly.

@@ -2,7 +2,18 @@
 
 Durable facts from periodic daily-processing runs.
 
-_facts below are limited to verified findings. Last refreshed: 2026-09-11._
+_facts below are limited to verified findings. Last refreshed: 2026-09-13._
+
+## 2026-09-13 Daily Processing Run
+- 🟢 **Integrated-daily-synthesis 13/09** — `INTEGRATED_INSIGHTS_2026-09-13.md` (Vault/insights + memories/insights synced) + `Vault/Daily/2026-09-13.md` written. 397 stale session request dumps archived.
+- 👵 **Mum: 13 Sep NO morning care report received** (caregiver gap; last confirmed 12 Sep BP 142/78 >140 + insomnia 1–5am). **11 Sep FIRST FALL + critical 189/128→recheck 136/72** remains top flag for Dr Ferguson (fall + BP instability 5/8/12 Sep ≥140, self-med paracetamol, Imodium gap). 💡 No-evening-bed-laying rule (12 Sep) — monitor sleep.
+- 🩺 **H: 31 Aug post-shock follow-up STILL undocumented (13 days).** Labs 1,075 GH + toe X-ray not run (re-send photo / call UGMC). No fresh vitals since 24 Aug (20d). Food diary strong (6/7 days, thru 12 Sep).
+- 👨 **Dad check-ins RECOVERED:** 3-day check posted topic 16 (`DAD_WELLBEING_2026-09-13.md`); **WhatsApp check-in SENT 13/09** — first success since 10/09 failures, bridge holding. Diabetic-foot + aneurysm scan still to confirm.
+- 💼 **2Real:** mer 12/09 GHS 3,790 (big toy day); Sept ≈24,633 across 8 days (~74k/mo pace). **2 live HIGH sales pending** (Day Plus palm sander GHS500 stock1, Arlec power bank GHS220 stock2) + controller pairing issue (12/09). **583 SLA breaches** (legacy-heavy — cleanup). **sunday-content-engine FAILED HTTP 402 (credits)** — top up; week 09-14 not generated.
+- 👩 **Nursing:** Stephanie trial extended 1 mo — `STEPHANIE_TRIAL_REVIEW.md` STILL not created (since 8 Sep); review date + salary step unresolved.
+- 🐝 **Farm:** 2× colonised Saltpond hives (GHS 2,500) ordered — Kanzoni pickup pending. F-04 populated. Sep = build winter stores / feed 2:1.
+- 🔒 **Security 13/09 STABLE/RECOVERED:** Gateway PID 24272 UP, Telegram healthy, WhatsApp connected/paired (check-ins verified all day). Home-root .env REVOKED; ~22 .env-reader scripts + **NEW godmode/jailbreak tooling** (`auto_jailbreak.py`, `parseltongue.py`, `godmode_race.py` since 31/05) flagged; 25/55 silent cron; backup .env=0.
+- 🖥️ **Cron 13/09 53.1%** (14 fails = single 12/09 11:40 outage + 1 sunday-content 402). ⚠️ 9× `send_path_degraded` — gateway delivery path may be degraded. **Backup stale ~6 days** (last full 07/09). github-memory-backup ✅ (56bf59c, 25 files). Disk 45% (264G free). DNS flutter persists.
 
 ## 2026-09-11 Daily Processing Run
 - 🟢 **Integrated-daily-synthesis 11/09** (`d719cd80fa5b`) — `INTEGRATED_INSIGHTS_2026-09-11.md` + `Vault/Daily/2026-09-11.md` written.

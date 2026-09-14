@@ -55,7 +55,7 @@ Date-range snapshot:
 - 25 Jul: 108–127/60–63 · 26 Jul: 127–128/66–72 · 27 Jul: 112–126/60–72
 - 28 Jul: 122–134/72–78 · 29 Jul: 120–127/60–67 · 30 Jul: 126–136/68–78
 - 31 Jul: 121–126/60–64 · 1 Aug: 118–127/62–63 · 3 Aug: 127–135/71–72 · 4 Aug: 126/75
-- 5 Aug: 125/72 · 6 Aug: 124/62–126/59 · **7 Aug: 118/60–130/73** · **8 Aug: 113/65–136/76** · 9 Aug: 120/68–125/66 · **10 Aug: 122/77 (evening dose refused)** · **11 Aug: 123/73–138/79** · **13 Aug: 122/78** · **14 Aug: 137/79–144/82 (eve above 140)** · **15 Aug: 124–130/72–79** · **16 Aug: 132/72 (AM), early-AM 166/79 (⚠️ high)** · **17 Aug: 130/77** · **18 Aug: 139–140/72–75** · **19 Aug: 132–136/72–75** · **20 Aug: 142/76 (AM, ⚠️ above 140)** · **21 Aug: 113/69 (eve, no AM reading — dose held)** · **22 Aug: 140/77 (AM, ⚠️ at threshold)** · **23 Aug: 119/82 (eve, healthy)** · **24 Aug: 130/76 (AM, healthy)** · **25 Aug: 126/74 (AM, healthy)** · **26 Aug: 136/79–139/76 (AM+eve)** · **28 Aug: 142/71 (AM, ⚠️ above 140, birthday)** · **30 Aug: 127/72 (AM, healthy)** · **31 Aug: 138/92 (AM, diastolic ⚠️ high)** · **1 Sep: 131/67 (AM, healthy)** · **2 Sep: 129/69 (AM, healthy)** · **3 Sep: 126/67 (AM, healthy)** · **4 Sep: 137/77 (AM, systolic near threshold)** · **5 Sep: 145/76 (AM, ⚠️ HIGH — checked 3×, advised rest)** · **7 Sep: 128/68 (AM, back to healthy ✅)** · **8 Sep: 145/72 (AM, ⚠️ high 3×; recheck 45 min later 136/67)** · **9 Sep: 136/67 (AM, settled ✅)** · **10 Sep: 134/88 (AM; diastolic 88 high-ish; evening BP check REFUSED)** · **11 Sep: 189/128 (⚠️⚠️ CRITICAL post-FALL reading, device errors ×3; recheck 30 min later 136/72)** · **12 Sep: 142/78 (AM, ⚠️ above 140; poor night's sleep)** — latest captured *(6 Sep: no report)*
+- 5 Aug: 125/72 · 6 Aug: 124/62–126/59 · **7 Aug: 118/60–130/73** · **8 Aug: 113/65–136/76** · 9 Aug: 120/68–125/66 · **10 Aug: 122/77 (evening dose refused)** · **11 Aug: 123/73–138/79** · **13 Aug: 122/78** · **14 Aug: 137/79–144/82 (eve above 140)** · **15 Aug: 124–130/72–79** · **16 Aug: 132/72 (AM), early-AM 166/79 (⚠️ high)** · **17 Aug: 130/77** · **18 Aug: 139–140/72–75** · **19 Aug: 132–136/72–75** · **20 Aug: 142/76 (AM, ⚠️ above 140)** · **21 Aug: 113/69 (eve, no AM reading — dose held)** · **22 Aug: 140/77 (AM, ⚠️ at threshold)** · **23 Aug: 119/82 (eve, healthy)** · **24 Aug: 130/76 (AM, healthy)** · **25 Aug: 126/74 (AM, healthy)** · **26 Aug: 136/79–139/76 (AM+eve)** · **28 Aug: 142/71 (AM, ⚠️ above 140, birthday)** · **30 Aug: 127/72 (AM, healthy)** · **31 Aug: 138/92 (AM, diastolic ⚠️ high)** · **1 Sep: 131/67 (AM, healthy)** · **2 Sep: 129/69 (AM, healthy)** · **3 Sep: 126/67 (AM, healthy)** · **4 Sep: 137/77 (AM, systolic near threshold)** · **5 Sep: 145/76 (AM, ⚠️ HIGH — checked 3×, advised rest)** · **7 Sep: 128/68 (AM, back to healthy ✅)** · **8 Sep: 145/72 (AM, ⚠️ high 3×; recheck 45 min later 136/67)** · **9 Sep: 136/67 (AM, settled ✅)** · **10 Sep: 134/88 (AM; diastolic 88 high-ish; evening BP check REFUSED)** · **11 Sep: 189/128 (⚠️⚠️ CRITICAL post-FALL reading, device errors ×3; recheck 30 min later 136/72)** · **12 Sep: 142/78 (AM, ⚠️ above 140; poor night's sleep)** · **13 Sep: 158/82→163/82 AM (⚠️⚠️ HIGH all day — 140–163 across 3 sessions, 10 readings; rechecks 133–149)** — latest captured *(6 Sep: no report)*
 
 *Full bloodwork (kidney, liver, lipids, FBC, thyroid, BNP, ferritin, phosphate): see `CLINICAL_SUMMARY_COMFORT.md`.*
 
@@ -529,7 +529,43 @@ Date-range snapshot:
 - **Vitals:** none recorded.
 - **Dinner:** Banku with pepper and **fried fish** (ate all — fried fish again). Log: Mood Fair, Appetite Fair, Swelling Same, Skin Okay.
 
-> **Backfill complete (12 Sep 26):** All of 4 Aug–12 Sep captured (6 Sep: NO report — gap noted). 🎂 **28 Aug = 92nd birthday.** 🚨 **11 Sep: FIRST RECORDED FALL (near toilet) + critical BP reading 189/128 (reliable recheck 136/72).** 🚗 **10 Sep outing with sister Felicia.** 💡 **12 Sep INSOMNIA INSIGHT: evening bed-laying disturbs her sleep — she asked the carer to STOP laying her bed in the evenings (respected).** ⚠️ Flags for doctor: **THE FALL** (cause, injuries, bathroom safety) + **BP recurring highs (5/8/12 Sep at/above 140; 12 Sep = 142/78 after poor sleep)** + insomnia (12 Sep: awake 1am–5am) + self-medicated paracetamol + emotional episode + regurgitation + Imodium stock gap. Latest: **12 Sep (BP 142/78)**. 👏 Low-salt cooking working; **no-evening-bed-laying rule adopted (12 Sep) — monitor sleep improvement.**
+### 13 Sep 2026 (Sun) — Morning ⚠️⚠️ SUSTAINED HIGH BP DAY
+- **Status:** Feeling okay. ⚠️⚠️ **BP SUSTAINED HIGH: 158/82 → 148/74 → 163/82 (three readings, all high).** Carer urged 1 hour rest → recheck 10:30am: **149/75, 143/80, 140/69** (three consecutive — still high). This is the **most BP-intensive day of the record** so far.
+- **Vitals:** BP 158/82 / 148/74 / 163/82 → rechecks 149/75, 143/80, 140/69. Pulse 81, Temp 36.0°C
+- **Neck pain:** mild recurrence — **Diclolex ointment applied by carer 10:48am** (accepted this time, unlike 9 Sep).
+- **Check-in:** Declined lemon water. Breakfast **pawpaw + scrambled eggs** (ate all — good). Tea 11am. Log: Mood Fair, Appetite Fair, Swelling Same, Skin Okay.
+
+### 13 Sep 2026 (Sun) — Afternoon ⚠️ BP still high
+- **Status:** Resting (carer urging rest); 1:30pm recheck: **138/79, 144/82, 147/74** (still above 140). Toileting normal; resting in bed.
+- **Vitals:** 138/79, 144/82, 147/74.
+- **Lunch:** Kokonte with groundnut soup (ate all). **Sobolo offered — not yet drunk.** Log: Mood Fair, Appetite Fair, Swelling Same, Urine Normal, Skin Okay.
+
+### 13 Sep 2026 (Sun) — Evening
+- **Status:** TV in room (lights off); **6:10pm BP: 143/80, 133/69** (one high, one normal — beginning to settle); chat; goodnight 8:10pm.
+- **Vitals:** 143/80, 133/69 (improving through the day).
+- **Dinner:** Baked beans with **fried plantain** (ate all). Log: Mood Fair, Appetite Fair, Swelling Same, Skin Okay.
+
+### 13 Sep 2026 (Sun) — Morning
+- **Status:** ⚠️ **NO MORNING CARE REPORT RECEIVED** — morning check-in ran (09:09) and no caregiver report had been posted to topic 4 yet (last topic-4 activity was 12 Sep). No vitals or medication recorded.
+- **Vitals:** not captured (no report)
+- **Medication:** Furosemide 20mg — not reported; do not assume given. If BP was captured, hold if <100 or >140.
+- **Check-in:** Reminder not posted (no outbound access this run). Asked caregiver for breakfast, morning meds, pain, energy/mood, mobility — pending.
+
+### 13 Sep 2026 (Sun) — Afternoon
+- **Status:** ⚠️ **No afternoon caregiver report received** — afternoon check-in prompt prepared but NOT delivered (no outbound/terminal access this run). *(Evening run 22:11 subsequently posted a full day check-in to topic 4 — see Evening entry. Caregiver reply still pending.)*
+- **Vitals:** not captured (no report)
+- **Medication:** Furosemide 20mg — not reported; do not assume given. Hold if BP <100 or >140.
+- **Lunch:** not yet reported (→ pending for MUM_FOOD_MASTER.md once received)
+- **Check-in:** Prepared prompt asking about breakfast+lunch, Furosemide 20mg (BP before dosing), pain/discomfort (esp. after 11 Sep fall), energy/mood, last night's sleep (12 Sep insomnia ~1am–5am; no-evening-bed-laying rule), and any incidents. Delivery pending / superseded by evening check-in.
+
+### 13 Sep 2026 (Sun) — Evening
+- **Status:** ⏰ **Evening check-in prompt POSTED to topic 4** — awaiting caregiver reply on dinner, evening medications, pain/discomfort, energy/mood, and overall day summary.
+- **Vitals:** not captured (pending caregiver report)
+- **Medication:** Furosemide 20mg — not yet reported; if BP captured, hold if <100 or >140.
+- **Dinner:** not yet reported (pending — to be logged in MUM_FOOD_MASTER.md once received)
+- **Check-in:** Posted evening check-in to topic 4 asking about dinner, evening medications, pain/discomfort, energy/mood, and an overall day summary — pending caregiver response.
+
+> **Backfill complete (13 Sep 26):** All of 4 Aug–13 Sep captured (6 Sep: NO report — gap noted). 🎂 **28 Aug = 92nd birthday.** 🚨 **11 Sep: FIRST RECORDED FALL (near toilet) + critical BP 189/128 (recheck 136/72).** 🚗 **10 Sep outing.** 💡 **12 Sep: evening bed-laying disturbs sleep — carer stopped (adopted).** ⚠️⚠️ **13 Sep: SUSTAINED HIGH BP ALL DAY — 10 readings 140–163 across 3 sessions (AM 158/82→163/82; rechecks 140–149; settled to 133–147 by evening). Carer ran excellent rest+recheck protocol.** ⚠️ Other flags for doctor: the FALL (cause, injuries, bathroom safety) + insomnia (12 Sep awake 1am–5am) + self-medicated paracetamol + emotional episode + regurgitation + neck pain (13 Sep mild, Diclolex applied) + Imodium stock gap. Latest: **13 Sep (BP 133–163 — HIGHEST BP day of record; doctor review now pressing)**. 👏 Low-salt cooking + no-evening-bed-laying adopted.
 
 ---
 

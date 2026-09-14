@@ -76,8 +76,9 @@
 | 10 Sep | Corn dough porridge | Kokonte with groundnut soup | Boiled beans with fried plantain (ate plantain, not all beans) |
 | 11 Sep | Tigernut porridge + 2 boiled eggs | Rice ball with palm nut soup (left some) | Boiled yam with grinded pepper |
 | 12 Sep | Corn dough porridge | Baked beans with fried plantain · orange (1 piece) · mushroom tea | Banku with pepper and fried fish |
+| 13 Sep | Pawpaw + scrambled eggs · tea | Kokonte with groundnut soup · sobolo (not yet drunk) | Baked beans with fried plantain |
 
-> **Backfill complete (12 Sep 26):** Meals logged for 5 Aug–12 Sep (6 Sep: no report). 🎂 **Birthday 28 Aug** logged. 🚨 **11 Sep fall.** **12 Sep:** corn-dough / beans+fried plantain + mushroom tea / banku+fried fish — fried items still frequent. See medical master (fall, BP, insomnia insight).
+> **Backfill complete (13 Sep 26):** Meals logged for 5 Aug–13 Sep (6 Sep: no report). 🎂 **Birthday 28 Aug** logged. 🚨 **11 Sep fall.** **13 Sep:** pawpaw+eggs / kokonte+groundnut / beans+fried plantain — good food day; **BP HIGH all day (see medical master — doctor review pressing)**.
 
 ---
 
