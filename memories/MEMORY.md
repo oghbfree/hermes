@@ -2,9 +2,19 @@
 
 Durable facts from periodic daily-processing runs.
 
-_facts below are limited to verified findings. Last refreshed: 2026-09-13._
+_facts below are limited to verified findings. Last refreshed: 2026-09-14._
 
-## 2026-09-13 Daily Processing Run
+## 2026-09-14 Daily Processing Run
+- 🟢 **Integrated-daily-synthesis 14/09** — `INTEGRATED_INSIGHTS_2026-09-14.md` (Vault/insights + memories/insights + ~/.hermes/memories/insights synced) + `Vault/Daily/2026-09-14.md` written. Session archive clean (no new request dumps).
+- 👵 **Mum: BP NORMALISED 14/09** — **123/72 AM → 131/73 eve** (down from 158–163 on 13 Sep) — rest protocol worked. Furosemide given; corn-dough / yam+palm nut soup / beans+rice; long afternoon sleep. Record contiguous 4 Aug–14 Sep. 🩺 **DOCTOR WED 16 Sep 12:00 — Focos (¢350), bring MUM_DOCTOR_SUMMARY_13SEP.pdf** (fall + BP arc + 6 asks incl. travel). Kantamanto trip deferred until doctor-cleared.
+- 🩺 **H: 31 Aug post-shock follow-up STILL undocumented (14 days).** Labs 1,075 GH + toe X-ray not run (since 24 Aug). No fresh vitals (21d). Food diary strong — logged 13 & 14 Sep; no acute symptoms.
+- 👨 **Dad ✅:** WhatsApp check-in SENT 14/09 (msg `3EB0C91…`, bridge live — 23 WA targets). Awaiting reply. Diabetic-foot + aneurysm scan unconfirmed.
+- 💼 **2Real 14/09: GHS 1,230** (laminator 500+50 owes; Jiji CO detector+smoke alarm 450, Gorilla Grab 280; Eben delivery 70). ⚠️ **Laminator overheating — Frederick to fix.** Daily Ops: OOS misses Bosch (300)+Makita (2300); **480 low-stock flagged**; Adjei Kojo MoMo-up-front only; sourcing Toyota Corolla MAF sensor. 2 HIGH sales + controller issue (12/09) still pending. Content week 09-14 not generated (HTTP 402 credits — top up).
+- 👩 **Nursing:** Stephanie trial extended 1 mo — `STEPHANIE_TRIAL_REVIEW.md` STILL not created (since 8 Sep); review date + salary step unresolved.
+- 🐝 **Farm:** F-08 + F-09 hives set (drinkers filled); fleet 11 (6 pop + 4 baited + 1 spare) + **3 Kwasi colonised incoming → 9 populated**. Chicken manure 10 bags delivered. Gramazole ×4 (GHS 300) + dirty oil — Habib receipt 16/9. Habib crops-walk list awaited.
+- 🧒 **Kids:** SPEECH_PROGRAMME Kobena + Nenyi (13 Sep). **Joycelyn facilitator contract effective 14 Sep** (GHS 2,500/mo, 3-mo probation, monthly child reviews).
+- 🔒 **Security 14/09 STABLE/RECOVERED:** Gateway PID 13848 UP, Telegram+WhatsApp connected, AppData token VALID (set_my_commands OK). Backup .env=0, ACLs secure. Persistent debt: dual-`.env` divergence (home-root stale 13-char), ~550 .env-reader scripts + godmode tooling, 25/55 silent cron. Vercel MCP 401 (4× persists).
+- 🖥️ **Cron 14/09 ~79%** (33 outputs, 7 FAILED — 08:00–08:04 provider offline: mum/health morning, job-apps, brain-dump, godfred, mom-exercise, field-intel; data recovered via backfill). **Daily backup ✅ 08:57** (backup_20260914_084604: 16,916/876/24 files). Dad check-in ✅ (bridge live). DNS flutter persists.
 - 🟢 **Integrated-daily-synthesis 13/09** — `INTEGRATED_INSIGHTS_2026-09-13.md` (Vault/insights + memories/insights synced) + `Vault/Daily/2026-09-13.md` written. 397 stale session request dumps archived.
 - 👵 **Mum: 13 Sep NO morning care report received** (caregiver gap; last confirmed 12 Sep BP 142/78 >140 + insomnia 1–5am). **11 Sep FIRST FALL + critical 189/128→recheck 136/72** remains top flag for Dr Ferguson (fall + BP instability 5/8/12 Sep ≥140, self-med paracetamol, Imodium gap). 💡 No-evening-bed-laying rule (12 Sep) — monitor sleep.
 - 🩺 **H: 31 Aug post-shock follow-up STILL undocumented (13 days).** Labs 1,075 GH + toe X-ray not run (re-send photo / call UGMC). No fresh vitals since 24 Aug (20d). Food diary strong (6/7 days, thru 12 Sep).

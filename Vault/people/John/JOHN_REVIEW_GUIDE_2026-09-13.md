@@ -16,6 +16,36 @@
 
 ---
 
+## 0.5 THE CONTRACT GIVES YOU WRITTEN AMMUNITION — quote these exact clauses
+The full Employment Contract (dated 24 Nov 2025; NSS period = 12 months → ends ~24 Nov 2026) contains clauses that **directly defeat** his arguments. Have these ready.
+
+**🔴 SOCIAL MEDIA — kills his "I own the rights" claim.**
+> **Section 7.4:** "All social media accounts created for business purposes (Facebook, Instagram, TikTok, LinkedIn, YouTube, WhatsApp Business) are **created, maintained, and owned by Employer.** Upon employment termination, all account access, passwords, and ownership are **transferred to Employer.**"
+
+Hand him that line. Any account/content he made for the business is **the company's, in writing.** And since he never signed the contract, he can't claim rights to a document he rejected while still working under the employer it defines.
+
+**🔴 NON-COMPETE — covers the competing line.**
+> **Section 8.1 (during):** not engage in a competing robotics education business, not offer alternative STEM/educational services to schools he has business relationships with, not solicit Akoma facilitators, not use company processes/curriculum for personal advantage.
+> **Section 8.2 (post, 6 months):** not start/work for a competing robotics education business in Ghana, not solicit/contact Akoma client schools, not recruit Akoma facilitators, not use curriculum/processes to compete.
+
+⚠️ *Honest scope note: 8.1/8.2 are written around **robotics education**. His Wife's line is China goods/electronics — the non-compete as drafted may NOT bite there. But **Section 7.1** (confidentiality: procurement/supplier relationships, pricing, business strategies) + **7.2** (no disclosure/use of confidential info for personal business advantage) DO cover the drill-battery / competing-page / sourcing-to-Wife conduct during employment.* Lead with 7.1/7.2, not 8.1, for the China conduct.
+
+**🔴 TRANSITION — you are NOT obligated to keep or promote him.**
+> **Section 1.3–1.4:** Phase 2 (full employment, ₵2,000/mo) is **automatic only if** he completes 12 months + achieves performance targets + **1+ signed school partnership with sustained operations** + **zero material breaches** + Employer's **written confirmation of continuation.** He has none of these. Section 1.4 expressly lets you: *"offer alternative position at different compensation level OR terminate employment with appropriate notice."*
+
+So "we're ending unless he earns a continuation" is **exactly what the contract permits.** The ~2-month NSS end IS his own contract's review point.
+
+**🔴 TERMINATION PATHS — both fit.**
+> **Section 9.2 (2 weeks notice):** "continued underperformance after multiple warnings," "pattern of missing deadlines," "business restructuring / program reduction," "change in business priorities." You already gave the "no focus like before" warning → the paper trail for 9.2 exists.
+> **Section 9.1 (immediate, for cause):** disclosure of confidential info to third parties, gross insubordination, unauthorized solicitation of clients. (Use only with documented, provable breach — otherwise 9.2 is the safer, cleaner lane.)
+
+**🔴 THE REPORTING-LINE REVELATION — you should notice this.**
+> **Section 2.2:** for 2Real Enterprises he reports to the **Operational Lead = Ebony Herbert-Blankson** (his secondary supervisor, Section 2.1); for Akoma he reports to **you (Strategic Lead)**.
+
+**John already reports to your Wife for 2Real — under the very contract he never signed.** Given he's been sourcing into her inventory and running her competing page, the "reporting to Wife" line is already in his contract. This makes Path A (clean transfer to her) structurally natural **and** makes his behind-your-back conduct worse (he was working under her while ostensibly yours, and concealing it). Keep this in view during the meeting — it's the contractual skeleton of the divided loyalty.
+
+---
+
 ## 1. YOUR PRIVATE DECISION FIRST — decide BEFORE he walks in.
 **This is the most important step. Resolve it alone, now, before the meeting.**
 
@@ -49,7 +79,7 @@ That single answer determines which "open" you use, which line you lead with, an
 ## 3. THE CORE CONFLICT — divided loyalty (yes/no list, no deflection)
 1. You sourced **drill batteries** into my wife's inventory after my container import (knew the brands/models).
 2. You know her **Jiji page competes** with mine — and you help run it.
-3. You're building your **own social media** and say you **own the rights** — while barely doing the social media you're paid for.
+3. You're building your **own social media** and say you **own the rights** — while barely doing the social media you're paid for. ***(Contract §7.4: business accounts are owned by Employer, full stop — see §0.5.)***
 4. You used **"we haven't met"** as a blocker to sourcing Chinese goods — but you'd already sourced for her line.
 5. You're on my **NSS registration** but **haven't signed the contract**.
 6. **You have a stake in the China business.** Nobody has said no.
@@ -69,8 +99,8 @@ Since the term ends in ~2 months, frame it as **the renewal decision**:
 ---
 
 ## 5. PERFORMANCE — audit the Tracker + channels, don't argue
-**2 Real Office Coordinator (job spec 2026-07-14):** 100% enquiry logging · <5 min responses · **Digital Presence = 3+ posts/week across platforms AND WhatsApp Business catalog AND Facebook Marketplace** · Jiji 20 listings fresh · OOS sourcing 3 quotes/24h · 100% delivery confirmation.
-**Bonuses = ₵0:** Digital Presence ₵100 · Listing ₵100 · School Partnership ₵400/₵250 · Operational Efficiency ₵150.
+**2 Real Office Coordinator (job spec 2026-07-14 + Employment Contract §3.1.3):** 100% enquiry logging · <5 min responses · **Digital Presence = 3+ posts/week (12+/mo) AND daily WhatsApp status AND WhatsApp Business catalog AND Facebook Marketplace** · Jiji 5+ listings/week & FB Marketplace 5+/week (20+/mo) · WhatsApp Sales Group daily + Sunday bulk · OOS sourcing 3 quotes/24h · 100% delivery confirmation.
+**Phase-1 bonuses he's earning ≈ ₵0 (contract §3.1.3):** Digital Presence ₵100 (−₵50 penalty) · Listing ₵100 (−₵50) · Operational Efficiency ₵100/course (−₵50) · School Partnership ₵400 first / ₵250 each (signed contract + 8+ paid) · plus 10% LEGO add-on commission. **Base ₵900 + operational budget ₵300 = ₵1,200/mo.**
 > "Show me the Tracker. If it's not there, it didn't happen. And you know this role — you're not learning it, you're coasting in it. I'm supposed to be training you to be a manager and I'm seeing minimum-effort, not trainee-manager energy."
 
 ---

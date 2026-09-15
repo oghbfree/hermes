@@ -77,8 +77,9 @@
 | 11 Sep | Tigernut porridge + 2 boiled eggs | Rice ball with palm nut soup (left some) | Boiled yam with grinded pepper |
 | 12 Sep | Corn dough porridge | Baked beans with fried plantain · orange (1 piece) · mushroom tea | Banku with pepper and fried fish |
 | 13 Sep | Pawpaw + scrambled eggs · tea | Kokonte with groundnut soup · sobolo (not yet drunk) | Baked beans with fried plantain |
+| 14 Sep | Corn dough porridge (left some) · lemon+ACV · tea | Boiled yam with palm nut soup | Boiled beans with boiled rice (left salad) |
 
-> **Backfill complete (13 Sep 26):** Meals logged for 5 Aug–13 Sep (6 Sep: no report). 🎂 **Birthday 28 Aug** logged. 🚨 **11 Sep fall.** **13 Sep:** pawpaw+eggs / kokonte+groundnut / beans+fried plantain — good food day; **BP HIGH all day (see medical master — doctor review pressing)**.
+> **Backfill complete (14 Sep 26):** Meals logged for 5 Aug–14 Sep (6 Sep: no report). 🎂 **Birthday 28 Aug** logged. 🚨 **11 Sep fall.** **14 Sep:** corn-dough / yam+palm nut soup / beans+rice — gentle, compliant food day; **BP normalised (123/72 → 131/73)** — rest protocol worked. See medical master (Wed 16 Sep doctor appt booked — Focos).
 
 ---
 

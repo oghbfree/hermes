@@ -5825,3 +5825,214 @@ I’m here
 - **Chat:** 165691432910911
 - **Customer:** [Location: 5.676486015319824,-0.0679398849606514]
 - **Reply:** We will get back to you shortly.
+
+## 2026-09-14 10:05
+- **Channel:** whatsapp
+- **Chat:** 155091755606170
+- **Customer:** Good morning
+- **Reply:** Thanks for your message. I've noted it — I'll confirm and get back to you shortly with the details.
+
+## 2026-09-14 10:15
+- **Channel:** whatsapp
+- **Chat:** 165691432910911
+- **Customer:** Please did you get my location?
+- **Reply:** Thanks for your message. I've noted it — I'll confirm and get back to you shortly with the details.
+
+## 2026-09-14 10:20
+- **Channel:** whatsapp
+- **Chat:** 115968697180169
+- **Customer:** Hey
+- **Reply:** Thanks for your message. I've noted it — I'll confirm and get back to you shortly with the details.
+
+## 2026-09-14 10:20
+- **Channel:** whatsapp
+- **Chat:** 115968697180169
+- **Customer:** Alright
+- **Reply:** [acknowledgment - no reply sent]
+
+## 2026-09-14 10:23
+- **Channel:** whatsapp
+- **Chat:** 83472840405132
+- **Customer:** Hi
+- **Reply:** Thanks for your message. I've noted it — I'll confirm and get back to you shortly with the details.
+
+## 2026-09-14 10:27
+- **Channel:** whatsapp
+- **Chat:** 205183623663841
+- **Customer:** I am all right. I have had my breakfast and waiting for the carer.
+Please send the report to me via email. I am glad this is a positive first step. Congratulations! You are doing a jolly good job for my boys.
+Please, always treat both those above you and below you with respect. Don't look down on anybody.
+- **Reply:** Thanks for your message. I've noted it — I'll confirm and get back to you shortly with the details.
+
+## 2026-09-14 10:50
+- **Channel:** whatsapp
+- **Chat:** 115968697180169
+- **Customer:** The skateboard
+- **Reply:** Thanks for your message. I've noted it — I'll confirm and get back to you shortly with the details.
+
+## 2026-09-14 10:51
+- **Channel:** whatsapp
+- **Chat:** 146810773459032
+- **Customer:** 70gh
+- **Reply:** Thanks for your message. I've noted it — I'll confirm and get back to you shortly with the details.
+
+## 2026-09-14 10:53
+- **Channel:** whatsapp
+- **Chat:** 115968697180169
+- **Customer:** Yeah
+- **Reply:** [acknowledgment - no reply sent]
+
+## 2026-09-14 10:54
+- **Channel:** whatsapp
+- **Chat:** 83472840405132
+- **Customer:** Depends on your location so I know when to set off
+- **Reply:** Thanks for your message. I've noted it — I'll confirm and get back to you shortly with the details.
+
+## 2026-09-14 10:58
+- **Channel:** whatsapp
+- **Chat:** 159553941426416
+- **Customer:** Good morning
+- **Reply:** Thanks for your message. I've noted it — I'll confirm and get back to you shortly with the details.
+
+## 2026-09-14 10:58
+- **Channel:** whatsapp
+- **Chat:** 62079625109518
+- **Customer:** Hello
+Hello
+Kindly send me your location
+- **Reply:** Thanks for your message. I've noted it — I'll confirm and get back to you shortly with the details.
+
+## 2026-09-14 10:59
+- **Channel:** whatsapp
+- **Chat:** 115968697180169
+- **Customer:** Alright
+- **Reply:** [acknowledgment - no reply sent]
+
+## 2026-09-14 11:04
+- **Channel:** whatsapp
+- **Chat:** 165691432910911
+- **Customer:** Okay no problem
+- **Reply:** Thanks for your message. I've noted it — I'll confirm and get back to you shortly with the details.
+
+## 2026-09-14 11:29
+- **Channel:** whatsapp
+- **Chat:** 62079625109518
+- **Customer:** Where in Oyarifa
+- **Reply:** Thanks for your message. I've noted it — I'll confirm and get back to you shortly with the details.
+
+## 2026-09-14 11:55
+- **Channel:** whatsapp
+- **Chat:** 146810773459032
+- **Customer:** I didn't hear from u again oooooo
+- **Reply:** Thanks for your message. I've noted it — I'll confirm and get back to you shortly with the details.
+
+## 2026-09-14 12:01
+- **Channel:** whatsapp
+- **Chat:** 210806172070044
+- **Customer:** GOOD MORNING 🙏
+- **Reply:** Thanks for your message. I've noted it — I'll confirm and get back to you shortly with the details.
+
+## 2026-09-14 12:30
+- **Channel:** whatsapp
+- **Chat:** 165691432910911
+- **Customer:** Okay
+- **Reply:** Thanks for your message. I've noted it — I'll confirm and get back to you shortly with the details.
+
+## 2026-09-14 12:45
+- **Channel:** whatsapp
+- **Chat:** 115968697180169
+- **Customer:** Ok
+- **Reply:** Thanks for your message. I've noted it — I'll confirm and get back to you shortly with the details.
+
+## 2026-09-14 12:50
+- **Channel:** whatsapp
+- **Chat:** 191955141181666
+- **Customer:** Hi
+- **Reply:** Thanks for your message. I've noted it — I'll confirm and get back to you shortly with the details.
+
+## 2026-09-14 12:59
+- **Channel:** whatsapp
+- **Chat:** 165691432910911
+- **Customer:** Okay
+- **Reply:** [acknowledgment - no reply sent]
+
+## 2026-09-14 13:07
+- **Channel:** whatsapp
+- **Chat:** 89907036983423
+- **Customer:** Hello
+Hello
+- **Reply:** Thanks for your message. I've noted it — I'll confirm and get back to you shortly with the details.
+
+## 2026-09-14 14:13
+- **Channel:** whatsapp
+- **Chat:** 227294031397060
+- **Customer:** Hello Sir
+Please
+The line is bad
+Please kindly take a video for me please
+[owner reply] There's a water leak in the bathroom
+- **Reply:** Thanks for your message. I've noted it — I'll confirm and get back to you shortly with the details.
+
+## 2026-09-14 14:13
+- **Channel:** whatsapp
+- **Chat:** 83472840405132
+- **Customer:** Hello
+[owner reply] Its available Ill send you a picture
+450
+[owner reply] Red 320. Other 450
+[owner reply] I was going to say if you can leave us a review please https://jiji.com.gh/opinions/rbPd2oROVhelYWPjYkQWbhpx
+- **Reply:** Thanks for your message. I've noted it — I'll confirm and get back to you shortly with the details.
+
+## 2026-09-14 14:38
+- **Channel:** whatsapp
+- **Chat:** 89907036983423
+- **Customer:** Construction firm
+- **Reply:** Thanks for your message. I've noted it — I'll confirm and get back to you shortly with the details.
+
+## 2026-09-14 17:01
+- **Channel:** whatsapp
+- **Chat:** 188776714363107
+- **Customer:** Good afternoon Sir
+- **Reply:** Thanks for your message. I've noted it — I'll confirm and get back to you shortly with the details.
+
+## 2026-09-14 17:01
+- **Channel:** whatsapp
+- **Chat:** 182454556033206
+- **Customer:** [image received]
+- **Reply:** Thanks for your message. I've noted it — I'll confirm and get back to you shortly with the details.
+
+## 2026-09-14 17:01
+- **Channel:** whatsapp
+- **Chat:** 207868481552390
+- **Customer:** [image received]
+- **Reply:** Thanks for your message. I've noted it — I'll confirm and get back to you shortly with the details.
+
+## 2026-09-14 17:26
+- **Channel:** whatsapp
+- **Chat:** 188776714363107
+- **Customer:** OK
+- **Reply:** [acknowledgment - no reply sent]
+
+## 2026-09-14 17:40
+- **Channel:** whatsapp
+- **Chat:** 155091755606170
+- **Customer:** Ohk
+- **Reply:** Thanks for your message. I've noted it — I'll confirm and get back to you shortly with the details.
+
+## 2026-09-14 20:51
+- **Channel:** whatsapp
+- **Chat:** 89907036983423
+- **Customer:** Hello
+- **Reply:** Thanks for your message. I've noted it — I'll confirm and get back to you shortly with the details.
+
+## 2026-09-14 21:56
+- **Channel:** whatsapp
+- **Chat:** 120645715267634
+- **Customer:** Ok
+- **Reply:** Thanks for your message. I've noted it — I'll confirm and get back to you shortly with the details.
+
+## 2026-09-14 21:56
+- **Channel:** whatsapp
+- **Chat:** 120645715267634
+- **Customer:** Ok
+- **Reply:** [acknowledgment - no reply sent]

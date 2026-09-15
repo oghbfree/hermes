@@ -495,6 +495,16 @@
 | 🍹 Drink | Desperados |
 | 💊 Supplement | CBD gummy |
 
+### Mon 14 Sep *(logged via chat)*
+| Meal | Items |
+|------|-------|
+| ☀️ Morning | Chopped garlic, lemon, energy elixir |
+| ☀️ Breakfast | 2 eggs with onion |
+| 🥗 Brunch | Lettuce, cucumber, onion, carrot, tuna salad |
+| ☀️ Lunch | Yam & kontomire stew |
+| 🌙 Dinner | Spaghetti bolognaise |
+| 💊 Supplements | CBD gummy, Vitamin C with water |
+
 ---
 
 ## 📈 Nutritional Trends *(updated with gap-fill data)*

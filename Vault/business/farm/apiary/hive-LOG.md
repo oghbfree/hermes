@@ -25,15 +25,10 @@ linked_workflow: FARM_WORKFLOW.md
 | F-03 | Farm — under big mango | — | **Populated** | — | 2026-09-08 | 🟡 Needs GPS | Bees returned after vacating; moved from open space to shade |
 | F-04 | Farm — under big mango | — | **Populated** | — | 2026-09-08 | 🟡 Needs GPS | Bees entered ~6/9/26 ✅ |
 | F-05 | Farm — in the bush (new spot) | — | **Populated** | — | 2026-09-08 | 🟡 Needs GPS | Newly placed & populated ✅ |
-| F-01 | Farm — under small mango | — | **Populated** | — | 2026-09-08 | 🟡 Needs GPS | Brood present since Aug; was already populated |
-| F-02 | Farm — under small mango | — | **Populated** | — | 2026-09-08 | 🟡 Needs GPS | Bees returned — absconded Aug, re-entered |
-| F-03 | Farm — under big mango | — | **Populated** | — | 2026-09-08 | 🟡 Needs GPS | Bees returned after vacating; moved from open space to shade |
-| F-04 | Farm — under big mango | — | **Populated** | — | 2026-09-08 | 🟡 Needs GPS | Bees entered ~6/9/26 ✅ |
-| F-05 | Farm — in the bush (new spot) | — | **Populated** | — | 2026-09-08 | 🟡 Needs GPS | Newly placed & populated ✅ |
 | F-06 | Farm field | — | Empty — baited & set | — | 2026-09-08 | 🟡 Needs GPS | On field, awaiting swarm |
 | F-07 | Farm field | — | Empty — baited & set | — | 2026-09-08 | 🟡 Needs GPS | On field, awaiting swarm |
-| F-08 | Farm — being baited | — | From room — bait & set in progress | — | 2026-09-08 | 🟡 Needs GPS | Habib instructed 8/9: bait & set 2 of the 3 room hives |
-| F-09 | Farm — being set | — | Empty — bait & set in progress | — | 2026-09-08 | 🟡 Needs GPS | Habib instructed 8/9: bait & set 2 of the 3 room hives |
+| F-08 | Farm — under big coconut trees (away from waterlogged area) | — | **Set — baited, awaiting swarm** | — | 2026-09-14 | 🟡 Needs GPS | Set by Habib 14/9/26 |
+| F-09 | Farm — under small coconut tree near big mango | — | **Set — baited, awaiting swarm** | — | 2026-09-14 | 🟡 Needs GPS | Set by Habib 14/9/26 |
 | F-10 | Farm room (in storage) | — | Empty — spare | — | — | — | 1 hive remaining in room as spare |
 | K-NEW1 | From Kwasi (Saltpond, colonised 4+ mo) | Top-bar ×20 | **PURCHASE CONFIRMED** — with stand | — | — | — | GHS 1,000. Kanzoni to drive to Winneba for pickup → farm. Stand price TBC |
 | K-NEW2 | From Kwasi (Saltpond, colonised 4+ mo) | Top-bar ×20 | **PURCHASE CONFIRMED** — with stand | — | — | — | GHS 1,000. Kanzoni to drive to Winneba for pickup → farm. Stand price TBC |
@@ -97,6 +92,29 @@ linked_workflow: FARM_WORKFLOW.md
 ---
 
 ## Inspection Log
+
+### 2026-09-14 — Habib Visual Check + 2 New Hives Set + Kanzoni Delivery
+
+**Inspector**: Habib (visual check) | **Type**: Routine every-2-days visual
+
+**Hives Set (2 new from room):**
+| Hive | Location | Notes |
+|------|----------|-------|
+| F-08 | Under big coconut trees — away from waterlogged area | Dry ground, good drainage |
+| F-09 | Under small coconut tree near big mango | Shade + near forage |
+
+**Visual Check**: Done — drinkers filled where necessary.
+
+**Crops**: Habib instructed to walk around and report what's ready / coming up for harvest.
+
+**Supplies run planned 16/9** (money to be sent): 4× Gramazole weedicide @ GHS 75 = GHS 300 + more dirty oil (free/cheap sourcing).
+
+**Kanzoni delivery**: 10 bags of chicken manure ("chicken toilet") dropped at farm — for coconut circles / crop beds.
+
+**Fleet after 14/9**: 11 hives — 6 populated, 4 set & baited awaiting swarms (F-06–F-09), 1 spare in room (F-10). +3 Kwasi colonised incoming.
+
+---
+
 
 ### 2026-09-08 (c) — APIARY STRATEGY DECISION: KWASI IS OFFICIAL HIVEMASTER
 

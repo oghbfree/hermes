@@ -31,6 +31,7 @@ Append one line per day. The 4:30 AM briefing reads this file.
 | 11/09/26 |  | 1,820 | Samsonite suitcase walk-in (280), Pink Leapfrog 2in1 laptop Jiji (240), 3x grass cutting machines to Ben (1,300) | Ben from farm bought 3 grass cutters |
 | 12/09/26 |  | 3,790 | Blessed: VTech baby walker (200), Frozen karaoke (120), VTech 2in1 laptop (120), LeapFrog 100 Words (120), Clementoni kit + karaoke + puzzles (950). Hajia: bag of animals (230), 2in1 laptop (150). Jiji: Belkin power bank (600), AA charger (200), Energizer AAs (200), cooling pad (450), Xbox gamepad (150). Extra: Gorilla Glue (300) | Big toy day — 2 regular toy customers (Blessed + Hajia) + strong Jiji |
 | 13/09/26 Sun |  | 970 | Jiji Oyarifa pickup: Naa — dog leash (70). Louis — Trend C253 router cutter + Erbauer 6× 1/4" shank router bits + Stanley wide hacksaw + Stanley blue strike hammer + Magnusson sash clamp (900 total) | Sunday — unexpected Oyarifa sales via Jiji |
+| 14/09/26 |  | 1,230 | Walk-in Oyarifa: Stephen — laminator (500 paid, 50 owes by 25/9). Jiji: carbon monoxide detector + smoke alarm (450), Gorilla Grab adhesive clear (280). Eben delivered to customer — charged customer 70 delivery | Laminator overheating — Frederick to check and fix |
 | 23/08/26 |  | — |  | Closed |
 | 24/08/26 |  | — |  | Closed |
 
