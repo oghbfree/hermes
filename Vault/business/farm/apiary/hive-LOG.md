@@ -27,7 +27,7 @@ linked_workflow: FARM_WORKFLOW.md
 | F-05 | Farm — in the bush (new spot) | — | **Populated** | — | 2026-09-08 | 🟡 Needs GPS | Newly placed & populated ✅ |
 | F-06 | Farm field | — | Empty — baited & set | — | 2026-09-08 | 🟡 Needs GPS | On field, awaiting swarm |
 | F-07 | Farm field | — | Empty — baited & set | — | 2026-09-08 | 🟡 Needs GPS | On field, awaiting swarm |
-| F-08 | Farm — under big coconut trees (away from waterlogged area) | — | **Set — baited, awaiting swarm** | — | 2026-09-14 | 🟡 Needs GPS | Set by Habib 14/9/26 |
+| F-08 | Farm — under big coconut trees (away from waterlogged area) | — | **POPULATED** ✅ 15/9 | — | 2026-09-15 | 🟡 Needs GPS | Baited 14/9, bees entered 15/9 — 1 day! |
 | F-09 | Farm — under small coconut tree near big mango | — | **Set — baited, awaiting swarm** | — | 2026-09-14 | 🟡 Needs GPS | Set by Habib 14/9/26 |
 | F-10 | Farm room (in storage) | — | Empty — spare | — | — | — | 1 hive remaining in room as spare |
 | K-NEW1 | From Kwasi (Saltpond, colonised 4+ mo) | Top-bar ×20 | **PURCHASE CONFIRMED** — with stand | — | — | — | GHS 1,000. Kanzoni to drive to Winneba for pickup → farm. Stand price TBC |
@@ -36,7 +36,7 @@ linked_workflow: FARM_WORKFLOW.md
 
 **🤝 Kwasi Partnership (decided 8/9/26)**: Kwasi is now the **exclusive hive constructor & maintenance provider** for the apiary. **3 colonised hives + hive stands being purchased now** (stands priced separately — TBC). Standard purchase price going forward: **GHS 600 per empty hive**, built with **queen excluder + front hive gate**, uniform dimensions across the fleet. Colonised hives at GHS 1,000. Single service charge of GHS 500 for the batch.
 
-**Fleet summary (8/9/26)**: **11 hives on farm** — 6 populated, 2 empty baited on field (F-06, F-07), 2 being baited & set from room (F-08, F-09), 1 spare in room (F-10). Plus 3 hives at Kanzoni shop (K-01 to K-03). **+3 Kwasi colonised hives incoming** → projected **9 populated colonies** on farm.
+**Fleet summary (15/9/26)**: **11 hives on farm** — **7 populated** (F-01–F-05, F-08), 3 baited & set awaiting swarms (F-06, F-07, F-09), 1 spare in room (F-10). Plus 3 hives at Kanzoni shop (K-01 to K-03). **+3 Kwasi colonised hives incoming** → projected **10 populated colonies** on farm.
 
 ---
 
@@ -92,6 +92,17 @@ linked_workflow: FARM_WORKFLOW.md
 ---
 
 ## Inspection Log
+
+### 2026-09-15 — F-08 POPULATED (1 day after baiting!)
+
+**Source**: Habib report | **Type**: Visual
+
+- **F-08** (under big coconut trees, away from waterlogged area): **bees entered 15/9** — baited 14/9, populated within ~1 day. Fast catch = strong local swarm pressure / good baiting.
+
+**Fleet after 15/9 (11 hives on farm)**: 7 populated (F-01–F-05, F-08), 3 set & baited awaiting swarms (F-06, F-07, F-09), 1 spare in room (F-10). Plus 3 Kwasi colonised hives incoming → **10 populated projected**.
+
+---
+
 
 ### 2026-09-14 — Habib Visual Check + 2 New Hives Set + Kanzoni Delivery
 

@@ -1601,5 +1601,119 @@
     ],
     "date": "2026-09-14",
     "saved_at": "2026-09-14T06:38:36.285776"
+  },
+  {
+    "active": 1111,
+    "reviewing": 10,
+    "draft": 1,
+    "declined": 1,
+    "closed": 116,
+    "followers": 332,
+    "feedback": 199,
+    "clients": 36,
+    "top_remaining": "500 of 500",
+    "top_expires": "19/09/26",
+    "whatsapp_ads_active": false,
+    "whatsapp_ads_until": "expired 3 Sep 2026 - renewal unconfirmed",
+    "balance_ghs": 0,
+    "top_items": [
+      {
+        "name": "Oversized LEGO Building Blocks",
+        "price": 700,
+        "impressions": 567,
+        "visitors": 95,
+        "phone_views": 7,
+        "chats": 1
+      },
+      {
+        "name": "Ring 8A Smart Battery Charger and Maintainer 12V 24V Cars",
+        "price": 1200,
+        "impressions": 546,
+        "visitors": 59,
+        "phone_views": 0,
+        "chats": 0
+      },
+      {
+        "name": "Parkside Cutting Disc Set 12 Pack Metal 125mm",
+        "price": 470,
+        "impressions": 442,
+        "visitors": 95,
+        "phone_views": 0,
+        "chats": 0
+      },
+      {
+        "name": "Kia/Hyundai Motor Starter",
+        "price": 630,
+        "impressions": 406,
+        "visitors": 34,
+        "phone_views": 2,
+        "chats": 2
+      },
+      {
+        "name": "Recessed Ceiling Emergency Led Exit Sign From Uk",
+        "price": 350,
+        "impressions": 123,
+        "visitors": 9,
+        "phone_views": 1,
+        "chats": 0
+      },
+      {
+        "name": "Stanley Staple Pins 8mm",
+        "price": 100,
+        "impressions": 106,
+        "visitors": 18,
+        "phone_views": 1,
+        "chats": 2
+      },
+      {
+        "name": "Stanley Staple Pins 10mm Type A",
+        "price": 100,
+        "impressions": 72,
+        "visitors": 6,
+        "phone_views": 1,
+        "chats": 1
+      },
+      {
+        "name": "Portwest 2 Point Comfort Harness",
+        "price": 600,
+        "impressions": 67,
+        "visitors": 31,
+        "phone_views": 0,
+        "chats": 0
+      },
+      {
+        "name": "Bosch GBH 24 VRE Professional Cordless Rotary Hammer Drill",
+        "price": 1350,
+        "impressions": 49,
+        "visitors": 7,
+        "phone_views": 0,
+        "chats": 0
+      },
+      {
+        "name": "Meccano Turbo Construction Set Model 2350B",
+        "price": 250,
+        "impressions": 39,
+        "visitors": 5,
+        "phone_views": 0,
+        "chats": 0
+      }
+    ],
+    "needs_attention": [
+      "LIVE CAPTURE BLOCKED - Chrome remote-debugging approval pending (no user to click Allow); reporting last known data from 14 Sep",
+      "1 declined ad (unchanged from 14 Sep) - find and resubmit",
+      "Ring 8A Smart Battery Charger: 546 imp, 59 visitors, 0 chats - price/description problem",
+      "Parkside Cutting Disc Set: 442 imp, 95 visitors, 0 chats - price/description problem",
+      "WhatsApp ads expired 3 Sep - renewal unconfirmed",
+      "GH 0 balance - recharge to use TOP+ effectively"
+    ],
+    "action_items": [
+      "Put TOP+ on Kia/Hyundai Motor Starter - 406 imp, 34 visitors, 2 active chats",
+      "Put TOP+ on Ring 8A Smart Battery Charger - high traffic (546 imp) but 0 chats",
+      "5 discounts available - apply to top movers",
+      "Resubmit the 1 declined ad",
+      "Confirm WhatsApp ads renewal - expired 3 Sep"
+    ],
+    "date": "2026-09-15",
+    "saved_at": "2026-09-15T12:14:46.798985"
   }
 ]

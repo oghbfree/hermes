@@ -102,3 +102,14 @@
 - **Message:** "Hey Kanzoni! How are you doing? How's the family? Hope everything is going well. Any updates on your end?"
 - **Confirmation:** ✅ sent to Telegram topic 2
 - **Notes:** WhatsApp bridge restored and paired — first direct WhatsApp Kanzoni check-in after the long fatal/whatsapp_not_paired stretch. Kanzoni is the farm/beekeeping associate (230 coconut trees, plantain, hive coordination).
+
+## 2026-09-15 12:15 — Weekly Tuesday Check-In → Kanzoni (Farm/Beekeeping Associate)
+- **Channel:** WhatsApp
+- **Target:** whatsapp:233248957794
+- **Status:** ❌ FAILED — NOT SENT (hermes send exit: "Platform 'whatsapp' is not configured. Set up credentials in config.yaml or environment variables.")
+- **Type:** Weekly Tuesday rapport check-in
+- **Variation:** Template A (ISO week 38 — even)
+- **Message (intended):** "Hey Kanzoni! How are you doing? How's the family? Hope everything is going well. Any updates on your end?"
+- **Confirmation to topic 2:** NOT sent (success only)
+- **Urgent alert:** sent to Telegram topic 141
+- **Notes:** WhatsApp adapter explicitly disabled (`platforms.whatsapp.enabled: false` in config.yaml); no gateway process detected; WhatsApp absent from `hermes send --list`. Job `last_status` was already `error` on 2026-09-08. Per WhatsApp-only protocol for Kanzoni, NO Telegram fallback used. Requires re-enabling WhatsApp platform (`platforms.whatsapp.enabled: true`) + gateway restart to restore.

@@ -78,8 +78,9 @@
 | 12 Sep | Corn dough porridge | Baked beans with fried plantain · orange (1 piece) · mushroom tea | Banku with pepper and fried fish |
 | 13 Sep | Pawpaw + scrambled eggs · tea | Kokonte with groundnut soup · sobolo (not yet drunk) | Baked beans with fried plantain |
 | 14 Sep | Corn dough porridge (left some) · lemon+ACV · tea | Boiled yam with palm nut soup | Boiled beans with boiled rice (left salad) |
+| 15 Sep | Pawpaw + scrambled eggs | Rice balls with palm nut soup (left a little) · pineapple (left some) | Jacket potatoes |
 
-> **Backfill complete (14 Sep 26):** Meals logged for 5 Aug–14 Sep (6 Sep: no report). 🎂 **Birthday 28 Aug** logged. 🚨 **11 Sep fall.** **14 Sep:** corn-dough / yam+palm nut soup / beans+rice — gentle, compliant food day; **BP normalised (123/72 → 131/73)** — rest protocol worked. See medical master (Wed 16 Sep doctor appt booked — Focos).
+> **Backfill complete (15 Sep 26):** Meals logged for 5 Aug–15 Sep (6 Sep: no report). 🎂 **Birthday 28 Aug** logged. 🚨 **11 Sep fall.** **15 Sep:** pawpaw+eggs / rice balls+palm nut / jacket potatoes — good day; **BP normal 2nd consecutive day (122–135)** — resting well ahead of **Wed 16 Sep doctor appointment (Focos)**. See medical master.
 
 ---
 

@@ -2,9 +2,21 @@
 
 Durable facts from periodic daily-processing runs.
 
-_facts below are limited to verified findings. Last refreshed: 2026-09-14._
+_facts below are limited to verified findings. Last refreshed: 2026-09-15._
+
+## 2026-09-15 Daily Processing Run
+- 🟢 **Integrated-daily-synthesis 15/09** — `INTEGRATED_INSIGHTS_2026-09-15.md` (Vault/insights + both memories/insights synced) + `Vault/Daily/2026-09-15.md` written. Session archive clean (no new request dumps).
+- 🔴 **SECURITY CRITICAL REGRESSION — Telegram token REVOKED/INVALID.** Token `827724…1UJE` rejected 05:45 today — **4th rejection (31 Aug, 05 Sep, 09 Sep, 15 Sep).** Gateway `stopped`; **CORRECTS 14/09 "recovered/valid"** (that audit used stale state files; live startup log is authoritative — never trust state files for token validity). **ALL Telegram delivery down incl. topic 20.** WhatsApp unpaired (adapter wants `platforms\whatsapp\session\creds.json`; creds only at legacy `credentials\whatsapp\`). Credential exposure otherwise CLEAN (.env=0, ACLs secure). **Action: rotate token via @BotFather → single TELEGRAM_BOT_TOKEN → gateway restart.** Nous key expiry 13:06 (auto-refresh).
+- ⚠️🚨 **Mum: NO caregiver reports 15 Sep** (topic 4 unreachable — token revoked). Last data 14 Sep BP normalised 123/72→131/73. 🩺 **DOCTOR TOMORROW Wed 16 Sep 12:00 Focos (¢350) — bring MUM_DOCTOR_SUMMARY_13SEP.pdf.** Kantamanto deferred until doctor-cleared.
+- 🩺 **H: 31 Aug post-shock follow-up STILL undocumented (15 days).** Labs 1,075 GH + toe X-ray not run. No fresh vitals (22d). Food diary strong thru 14 Sep.
+- 🐝 **Farm: F-08 POPULATED 15/9 (bees within a day of baiting).** Fleet 7 pop + 3 baited + 1 spare + 3 Kwasi incoming → **projected 10 colonies.** NEW **beeswax value-add** (wax sells per-kg > honey → ~3× per-hive income; SOP write-up pending). Habib crops-walk + Gramazole receipt due 16/9.
+- 💼 **2Real:** 15/09 sales NOT logged (14/09: GHS 1,230). **Negative stock (Ingco Rotary Hammer -1, B&D Bag -1) — fix in Zobaze.** Inquiry loop: **643 SLA breaches, 2 live in-stock leads (Blyss intercom 1,800, Stanley tape 700) unbought 17–21 days.** Palm sander/Hamilton brushes/Gorilla Glue quotes open; sourcing Corolla MAF. Laminator overheating — Frederick.
+- 👩 **Nursing:** Stephanie trial review doc STILL missing (since 8 Sep). 🧒 Joycelyn facilitator effective 14 Sep (2,500/mo).
+- 📋 **Recruitment:** 0 new (pipeline 66); Charlotte Nortey top; Sheets auth ACTIVE (refreshed 15/09). Content week 09-14 not generated (402 credits).
+- 🖥️ **Cron 15/09:** 100% reported success in window (13/0/12) BUT delivery layer down enterprise-wide. github-memory-backup ✅ (ed9c3c7, 30 files). Kanban 230 cards in sync. DNS flutter persists.
 
 ## 2026-09-14 Daily Processing Run
+
 - 🟢 **Integrated-daily-synthesis 14/09** — `INTEGRATED_INSIGHTS_2026-09-14.md` (Vault/insights + memories/insights + ~/.hermes/memories/insights synced) + `Vault/Daily/2026-09-14.md` written. Session archive clean (no new request dumps).
 - 👵 **Mum: BP NORMALISED 14/09** — **123/72 AM → 131/73 eve** (down from 158–163 on 13 Sep) — rest protocol worked. Furosemide given; corn-dough / yam+palm nut soup / beans+rice; long afternoon sleep. Record contiguous 4 Aug–14 Sep. 🩺 **DOCTOR WED 16 Sep 12:00 — Focos (¢350), bring MUM_DOCTOR_SUMMARY_13SEP.pdf** (fall + BP arc + 6 asks incl. travel). Kantamanto trip deferred until doctor-cleared.
 - 🩺 **H: 31 Aug post-shock follow-up STILL undocumented (14 days).** Labs 1,075 GH + toe X-ray not run (since 24 Aug). No fresh vitals (21d). Food diary strong — logged 13 & 14 Sep; no acute symptoms.

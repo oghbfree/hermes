@@ -505,6 +505,15 @@
 | 🌙 Dinner | Spaghetti bolognaise |
 | 💊 Supplements | CBD gummy, Vitamin C with water |
 
+### Tue 15 Sep *(logged via chat)*
+| Meal | Items |
+|------|-------|
+| ☀️ Morning | Chopped garlic, lemon, sipped energy elixir through the day |
+| ☀️ Breakfast | Papaya and pineapple |
+| ☀️ Lunch | Waakye with egg, salad and stew with shito |
+| 🌙 Dinner | Jollof with 2 chicken drumsticks |
+| 💊 Supplements | CBD gummy, Vitamin C |
+
 ---
 
 ## 📈 Nutritional Trends *(updated with gap-fill data)*
