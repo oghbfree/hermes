@@ -2,7 +2,18 @@
 
 Durable facts from periodic daily-processing runs.
 
-_facts below are limited to verified findings. Last refreshed: 2026-09-15._
+_facts below are limited to verified findings. Last refreshed: 2026-09-16._
+
+## 2026-09-16 Daily Processing Run
+- 🟢 **Integrated-daily-synthesis 16/09** — `INTEGRATED_INSIGHTS_2026-09-16.md` (Vault/insights + workspace/memories/insights + ~/.hermes/memories/insights synced) + `Vault/Daily/2026-09-16.md` written. Session archive clean (source dir has no request dumps; 118 already archived).
+- ✅ **TELECOM RECONNECTED — CORRECTS 15/09 "token revoked, all delivery down".** Gateway **reconnected 20:04 today** (Telegram polling healthy, getUpdates progressing); token **VALID (getMe OK — Ogaitchhermesbot)**; **cron-status-report delivered msg 11227 to topic 20** (topic 20 + 28 live). DNS flutter persists (IPv4 failover 149.154.166.110↔149.154.167.220 cycling). WhatsApp STILL unpaired (creds path mismatch).
+- 🩺👵 **Mum: DOCTOR VISIT 16 Sep Focos 12:00 (¢350) HAPPENED — outcome NOT yet captured** (caregiver unreachable via Telegram). Last data 15 Sep: BP 122–135 ✅ (2nd normal day). Action: caregiver update 17 Sep (BP/meds/doctor result). Flags unchanged (Kantamanto deferred, Furosemide hold <100/>140, Imodium gap).
+- 🩺 **H: 31 Aug post-shock follow-up STILL undocumented (16 days); labs 1,075 GH PENDING.** No fresh vitals 23 days (since 24 Aug). Food diary current thru 15 Sep (papaya+pineapple / waakye+egg+shito / jollof+2 drumsticks). No acute symptoms.
+- 💼 **2Real 16/09: GHS 200** (standing fan). Sept-to-date ~30,783 (12 selling days). ⚠️ Low stock: Bosch rotary hammer 2,300, Blyss intercom 1,800, B&D drill 1,600, Stanley 10M tape 700, INGCO jack 450. **643 SLA breaches** (suggest purging pre-Sep threads) + 22 in-stock-quoted to check. **Stephen owes 50 by 25/9**; laminator fix overdue.
+- 🐝 **Farm: F-08 POPULATED 15/9 → 7 colonies on field, ~10 projected** (3 Kwasi incoming). **Scaling roadmap** (break-even ~9, self-sustain 15–20 nets 5.5k–10k/yr; **nuc/swarm trade margin 350–500/unit**) — offer Kwasi supply partnership (consign nucs @350–400) before direct-selling. Beeswax value-add pending SOP. Habib crops-walk + Gramazole receipt due 16/9 (OVERDUE).
+- 👩 **Nursing:** Stephanie trial review doc STILL not created (since 8 Sep). 🧒 Joycelyn contract effective 14 Sep (2,500/mo).
+- 📋 **Recruitment:** 0 new (nurses 49, 7 priority); Sheets auth ACTIVE. Content week 09-14 not generated (402 credits — top up).
+- 🖥️ **Cron 16/09: 88.6% SLA** (39 done / 5 failed / 46 runs). 5 failures clustered 06:00–07:00 **model-provider outage (openrouter deepseek-v4-flash unreachable)** — incl. **security-policy-check 16/09 FAILED (→ audit gap)**. No stuck jobs. Backup not independently re-verified this run.
 
 ## 2026-09-15 Daily Processing Run
 - 🟢 **Integrated-daily-synthesis 15/09** — `INTEGRATED_INSIGHTS_2026-09-15.md` (Vault/insights + both memories/insights synced) + `Vault/Daily/2026-09-15.md` written. Session archive clean (no new request dumps).

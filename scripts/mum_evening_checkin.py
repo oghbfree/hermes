@@ -18,12 +18,13 @@ chat_id = '-1003784520976'
 message_thread_id = 4  # Mum Health topic
 
 text = (
-    "Evening check-in \u2014 Mum (Sun 06/09)\n\n"
+    "Evening check-in \u2014 Mum (Wed 16/09)\n\n"
     "\u2022 **Dinner:** what did she have, and did she finish it?\n"
     "\u2022 **Evening meds:** BP reading for the check. If BP is 100\u2013140, give Furosemide 20mg. **Stop if BP is below 100 or above 140** \u2014 let me know either way.\n"
+    "\u2022 **Today\u2019s doctor visit (Focos, 12:00):** how did it go \u2014 any advice or new medication from the doctor?\n"
     "\u2022 **Pain/discomfort:** any back pain or anything troubling her?\n"
     "\u2022 **Energy & mood:** how was she through the day?\n"
-    "\u2022 **Brief day summary** \u2014 anything out of the ordinary.\n\n"
+    "\u2022 **Brief day summary** \u2014 anything out of the ordinary (falls, dizziness, missed meals).\n\n"
     "Reply when you\u2019re settled."
 )
 

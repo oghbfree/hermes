@@ -79,8 +79,9 @@
 | 13 Sep | Pawpaw + scrambled eggs · tea | Kokonte with groundnut soup · sobolo (not yet drunk) | Baked beans with fried plantain |
 | 14 Sep | Corn dough porridge (left some) · lemon+ACV · tea | Boiled yam with palm nut soup | Boiled beans with boiled rice (left salad) |
 | 15 Sep | Pawpaw + scrambled eggs | Rice balls with palm nut soup (left a little) · pineapple (left some) | Jacket potatoes |
+| 16 Sep | Obrayo | Rice with beans (left cold salad — prefers WARM salad) · pear | Boiled yam with pepper |
 
-> **Backfill complete (15 Sep 26):** Meals logged for 5 Aug–15 Sep (6 Sep: no report). 🎂 **Birthday 28 Aug** logged. 🚨 **11 Sep fall.** **15 Sep:** pawpaw+eggs / rice balls+palm nut / jacket potatoes — good day; **BP normal 2nd consecutive day (122–135)** — resting well ahead of **Wed 16 Sep doctor appointment (Focos)**. See medical master.
+> **Backfill complete (16 Sep 26):** Meals logged for 5 Aug–16 Sep (6 Sep: no report). 🎂 **Birthday 28 Aug.** 🚨 **11 Sep fall.** **16 Sep:** Obrayo / rice+beans / yam+pepper — good day; **🩺 DR MORRIS HOME VISIT** (wellbeing check; tests scheduled Thu 17 Sep). Swelling REDUCED. Mum's tip: prefers WARM salad. See medical master.
 
 ---
 

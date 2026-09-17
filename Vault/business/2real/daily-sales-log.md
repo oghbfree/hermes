@@ -33,6 +33,7 @@ Append one line per day. The 4:30 AM briefing reads this file.
 | 13/09/26 Sun |  | 970 | Jiji Oyarifa pickup: Naa — dog leash (70). Louis — Trend C253 router cutter + Erbauer 6× 1/4" shank router bits + Stanley wide hacksaw + Stanley blue strike hammer + Magnusson sash clamp (900 total) | Sunday — unexpected Oyarifa sales via Jiji |
 | 14/09/26 |  | 1,230 | Walk-in Oyarifa: Stephen — laminator (500 paid, 50 owes by 25/9). Jiji: carbon monoxide detector + smoke alarm (450), Gorilla Grab adhesive clear (280). Eben delivered to customer — charged customer 70 delivery | Laminator overheating — Frederick to check and fix |
 | 15/09/26 |  | 3,750 | Walk-in: Sony radio (150), Casio CT636 (900 MoMo), Casio CT390 (900 MoMo). Online: Stanley 6mm staples (100), Stanley 10mm staples (100), 2-man tent (1,150), sleeping bag (450). All via MoMo | Strong day — Casios + camping gear + online staples |
+| 16/09/26 |  | 200 | Standing fan (200) | |
 | 23/08/26 |  | — |  | Closed |
 | 24/08/26 |  | — |  | Closed |
 

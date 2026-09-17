@@ -36,18 +36,20 @@
 
 ## 3. Remuneration
 
-3.1 **Term-time monthly fee: GH¢2,500** (two thousand five hundred Ghana cedis), payable by mobile money or bank transfer on the **14th day of each month**.
+3.1 **Term-time monthly fee: GH¢2,500** (two thousand five hundred Ghana cedis), payable by mobile money or bank transfer on the **last day of each calendar month** (month-end; if the last day falls on a weekend/public holiday, payment is made on the last working day before it).
 
 3.2 **Holiday-period pay (pro rata):** For any school holiday, payment is **pro-rated** to the actual days worked:
 - **Holiday rate = GH¢2,500 ÷ 30 days × days worked.** At 3 days/week, a **full month-long holiday** works out to approximately **GH¢1,250** for that month.
-- Shorter holidays: (holiday days worked ÷ 30) × GH¢2,500, paid on the normal 14th of the month following the holiday period.
+- Shorter holidays: (holiday days worked ÷ 30) × GH¢2,500, paid at the month-end following the holiday period.
 - Holiday days are scheduled and agreed with the Family before each holiday begins.
 
-3.3 **Annual pay review:** The fee is reviewed **once every 12 months** from the effective date, with any adjustment agreed in writing by both parties. Monthly child-progress reviews (clause 6) inform the annual review but do not themselves change the fee.
+3.3 **First (part) month — September 2026:** The Facilitator starts on **14 September 2026**. September pay is pro-rated: **17 days (14–30 Sept) × (GH¢2,500 ÷ 30) = GH¢1,417**, paid on **30 September 2026** with the normal month-end run.
 
-3.4 The first month is payable on the 14th of October 2026.
+3.4 **From 31 October 2026** the Facilitator receives her **full monthly wage of GH¢2,500** at each month-end.
 
-3.5 The Family will provide, at no cost to the Facilitator: training materials and programme documents.
+3.5 **Annual pay review:** The fee is reviewed **once every 12 months** from the effective date, with any adjustment agreed in writing by both parties. Monthly child-progress reviews (clause 6) inform the annual review but do not themselves change the fee.
+
+3.6 The Family will provide, at no cost to the Facilitator: training materials and programme documents.
 
 ## 4. Duties of the Facilitator
 

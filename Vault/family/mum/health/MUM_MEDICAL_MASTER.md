@@ -55,7 +55,7 @@ Date-range snapshot:
 - 25 Jul: 108–127/60–63 · 26 Jul: 127–128/66–72 · 27 Jul: 112–126/60–72
 - 28 Jul: 122–134/72–78 · 29 Jul: 120–127/60–67 · 30 Jul: 126–136/68–78
 - 31 Jul: 121–126/60–64 · 1 Aug: 118–127/62–63 · 3 Aug: 127–135/71–72 · 4 Aug: 126/75
-- 5 Aug: 125/72 · 6 Aug: 124/62–126/59 · **7 Aug: 118/60–130/73** · **8 Aug: 113/65–136/76** · 9 Aug: 120/68–125/66 · **10 Aug: 122/77 (evening dose refused)** · **11 Aug: 123/73–138/79** · **13 Aug: 122/78** · **14 Aug: 137/79–144/82 (eve above 140)** · **15 Aug: 124–130/72–79** · **16 Aug: 132/72 (AM), early-AM 166/79 (⚠️ high)** · **17 Aug: 130/77** · **18 Aug: 139–140/72–75** · **19 Aug: 132–136/72–75** · **20 Aug: 142/76 (AM, ⚠️ above 140)** · **21 Aug: 113/69 (eve, no AM reading — dose held)** · **22 Aug: 140/77 (AM, ⚠️ at threshold)** · **23 Aug: 119/82 (eve, healthy)** · **24 Aug: 130/76 (AM, healthy)** · **25 Aug: 126/74 (AM, healthy)** · **26 Aug: 136/79–139/76 (AM+eve)** · **28 Aug: 142/71 (AM, ⚠️ above 140, birthday)** · **30 Aug: 127/72 (AM, healthy)** · **31 Aug: 138/92 (AM, diastolic ⚠️ high)** · **1 Sep: 131/67 (AM, healthy)** · **2 Sep: 129/69 (AM, healthy)** · **3 Sep: 126/67 (AM, healthy)** · **4 Sep: 137/77 (AM, systolic near threshold)** · **5 Sep: 145/76 (AM, ⚠️ HIGH — checked 3×, advised rest)** · **7 Sep: 128/68 (AM, back to healthy ✅)** · **8 Sep: 145/72 (AM, ⚠️ high 3×; recheck 45 min later 136/67)** · **9 Sep: 136/67 (AM, settled ✅)** · **10 Sep: 134/88 (AM; diastolic 88 high-ish; evening BP check REFUSED)** · **11 Sep: 189/128 (⚠️⚠️ CRITICAL post-FALL reading, device errors ×3; recheck 30 min later 136/72)** · **12 Sep: 142/78 (AM, ⚠️ above 140; poor night's sleep)** · **13 Sep: 158/82→163/82 AM (⚠️⚠️ HIGH all day — 140–163 across 3 sessions, 10 readings; rechecks 133–149)** · **14 Sep: 123/72 AM → 131/73 eve (✅ back to normal after rest)** · **15 Sep: 135/79 AM → 122/66 PM (✅ normal, 2nd consecutive day)** — latest captured *(6 Sep: no report)*
+- 5 Aug: 125/72 · 6 Aug: 124/62–126/59 · **7 Aug: 118/60–130/73** · **8 Aug: 113/65–136/76** · 9 Aug: 120/68–125/66 · **10 Aug: 122/77 (evening dose refused)** · **11 Aug: 123/73–138/79** · **13 Aug: 122/78** · **14 Aug: 137/79–144/82 (eve above 140)** · **15 Aug: 124–130/72–79** · **16 Aug: 132/72 (AM), early-AM 166/79 (⚠️ high)** · **17 Aug: 130/77** · **18 Aug: 139–140/72–75** · **19 Aug: 132–136/72–75** · **20 Aug: 142/76 (AM, ⚠️ above 140)** · **21 Aug: 113/69 (eve, no AM reading — dose held)** · **22 Aug: 140/77 (AM, ⚠️ at threshold)** · **23 Aug: 119/82 (eve, healthy)** · **24 Aug: 130/76 (AM, healthy)** · **25 Aug: 126/74 (AM, healthy)** · **26 Aug: 136/79–139/76 (AM+eve)** · **28 Aug: 142/71 (AM, ⚠️ above 140, birthday)** · **30 Aug: 127/72 (AM, healthy)** · **31 Aug: 138/92 (AM, diastolic ⚠️ high)** · **1 Sep: 131/67 (AM, healthy)** · **2 Sep: 129/69 (AM, healthy)** · **3 Sep: 126/67 (AM, healthy)** · **4 Sep: 137/77 (AM, systolic near threshold)** · **5 Sep: 145/76 (AM, ⚠️ HIGH — checked 3×, advised rest)** · **7 Sep: 128/68 (AM, back to healthy ✅)** · **8 Sep: 145/72 (AM, ⚠️ high 3×; recheck 45 min later 136/67)** · **9 Sep: 136/67 (AM, settled ✅)** · **10 Sep: 134/88 (AM; diastolic 88 high-ish; evening BP check REFUSED)** · **11 Sep: 189/128 (⚠️⚠️ CRITICAL post-FALL reading, device errors ×3; recheck 30 min later 136/72)** · **12 Sep: 142/78 (AM, ⚠️ above 140; poor night's sleep)** · **13 Sep: 158/82→163/82 AM (⚠️⚠️ HIGH all day — 140–163 across 3 sessions, 10 readings; rechecks 133–149)** · **14 Sep: 123/72 AM → 131/73 eve (✅ back to normal after rest)** · **15 Sep: 135/79 AM → 122/66 PM (✅ normal, 2nd consecutive day)** · **16 Sep: 137–144 AM (borderline; first checks high 143/77, 140/62)** — latest captured *(6 Sep: no report)*
 
 *Full bloodwork (kidney, liver, lipids, FBC, thyroid, BNP, ferritin, phosphate): see `CLINICAL_SUMMARY_COMFORT.md`.*
 
@@ -629,12 +629,33 @@ Date-range snapshot:
 - **Vitals:** BP **122/66**, Pulse 88 (1pm) ✅ healthy — 2nd consecutive normal day
 - **Lunch:** Rice balls with palm nut soup (left a little). Fruit: pineapple (left some). Log: Mood Fair, Appetite Fair, **Swelling Reduced**, Skin Okay.
 
-### 15 Sep 2026 (Tue) — Evening
-- **Status:** Jacket potatoes dinner; TV; **declined Epsom soak AND evening BP check** (carer explained why, she still refused — her pattern when feeling well). Warm milk; bed 7:52pm.
-- **Vitals:** not taken (she declined).
-- **Dinner:** Jacket potatoes (ate all). Log: Mood Fair, Appetite Fair, Swelling Same, Skin Okay.
+### 16 Sep 2026 (Wed) — Morning 🩺 DOCTOR DAY
+- **Status:** Feeling okay. Obrayo breakfast. *(Note: the planned Focos 12:00 appointment did not happen as scheduled — instead a doctor came to the house, see below.)*
+- **Vitals:** BP first two checks HIGH (143/77, 140/62) → settled 137/68. Pulse 82, Temp 36.6°C. Later 10:30am: 144/72, 142/88 (borderline; diastolic 88 high).
+- **Check-in:** Breakfast Obrayo (ate all). Log: Mood Fair, Appetite Fair, **Swelling Reduced**, Skin Okay.
 
-> **Backfill complete (15 Sep 26):** All of 4 Aug–15 Sep captured (6 Sep: NO report — gap noted). 🎂 **28 Aug = 92nd birthday.** 🚨 **11 Sep FALL.** ⚠️⚠️ **13 Sep sustained high BP (140–163, 10 readings).** ✅ **14–15 Sep: BP NORMAL two consecutive days (122–135 systolic) — rest protocol working.** 💡 **No evening bed-laying (adopted 12 Sep).** 🚗 **Kantamanto trip — defer until doctor-cleared.** 🩺 **DOCTOR APPT TOMORROW: Wed 16 Sep 12:00 — Focos (¢350). MUM_DOCTOR_SUMMARY_13SEP.pdf ready.** Other flags: insomnia, self-medicated paracetamol, regurgitation, Imodium stock gap, evening BP-check refusals (10/15 Sep). Latest: **15 Sep (BP 122–135 ✅)**.
+### 16 Sep 2026 (Wed) — Afternoon — 🩺 DR MORRIS HOME VISIT
+- **Status:** Son visited 1:50pm. **Dr Morris arrived 2:20pm — a doctor invited specifically for Mum's wellbeing (home visit).** He interacted with Mum, her son and the carer, and **gave wellbeing tips**. Left 3:30pm with son. *(The Focos clinic appointment appears superseded/replaced by this home visit — Dr Morris is now her doctor contact.)*
+- **Vitals:** none recorded during visit.
+- **Lunch:** Rice with beans (ate all; left salad — **she said she prefers WARM salad** — good feedback for the carer!). Fruit: **pear** (ate all). Log: Mood Fair, Appetite Fair, **Swelling Reduced**, Skin Okay.
+
+### 16 Sep 2026 (Wed) — Evening
+- **Status:** Dinner; phone scrolling; declined Epsom soak; bedroom swept; **asked the carer what time they'll be LEAVING FOR THE TEST TOMORROW** — so **tests are scheduled for Thursday 17 Sep** (likely ordered by Dr Morris). Goodnight 8:35pm.
+- **Vitals:** not taken.
+- **Dinner:** Boiled yam with pepper (ate all). Log: Mood Fair, Appetite Fair, **Swelling Reduced**, Skin Okay.
+
+> **Backfill complete (16 Sep 26):** All of 4 Aug–16 Sep captured (6 Sep: NO report — gap noted). 🎂 **28 Aug = 92nd birthday.** 🚨 **11 Sep FALL.** ⚠️⚠️ **13 Sep sustained high BP.** ✅ **14–15 Sep normal.** 🩺 **16 Sep: DR MORRIS HOME VISIT** (doctor invited specifically for Mum's wellbeing — interacted with Mum, son & carer, gave wellbeing tips). The Focos clinic appointment was superseded by this home visit. **TESTS SCHEDULED THU 17 Sep** (Mum asked the carer the departure time — engaged & cooperative). BP 16 Sep borderline (137–144; first checks high, settled; diastolic 88 once). Swelling REDUCED all day. 💡 Carer tip from Mum: **she prefers WARM salad** (left the cold salad uneaten). Next: capture 17 Sep test results + Dr Morris's full recommendations.
+
+### 16 Sep 2026 (Wed) — Care team update (H) — 💆 MASSEUSE ADDED
+- **New service:** A **masseuse will start coming over** (H arranged). Welcome for the recurring back/neck pain (3 Sep, 10 Sep, 13 Sep episodes) and swollen feet.
+- **Safety rules for 92yo, CKD 3b, HTN, post-fall (share with masseuse + Stephanie):**
+  1. **No deep/forceful neck massage** (neck pain site 9–13 Sep; post-fall caution).
+  2. **Light-to-moderate pressure only**; no aggressive deep-tissue work.
+  3. **Feet/legs: gentle upward strokes only** (oedema/CKD — avoid hard squeezing; no massage over swollen-shin skin broken or fragile areas).
+  4. **Always ask consent first** — she has refused back massage (2 Sep) and pain-gel before; if she says no, skip.
+  5. After massage: water, rest; note BP next day — watch for any spike or dizziness.
+  6. Schedule away from meals (not right after eating; reflux history 31 Aug).
+- **Log what works:** carer to note pain relief level after each session so we track benefit.
 
 ---
 

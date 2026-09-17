@@ -30,7 +30,7 @@ linked_workflow: FARM_WORKFLOW.md
 | F-08 | Farm — under big coconut trees (away from waterlogged area) | — | **POPULATED** ✅ 15/9 | — | 2026-09-15 | 🟡 Needs GPS | Baited 14/9, bees entered 15/9 — 1 day! |
 | F-09 | Farm — under small coconut tree near big mango | — | **Set — baited, awaiting swarm** | — | 2026-09-14 | 🟡 Needs GPS | Set by Habib 14/9/26 |
 | F-10 | Farm room (in storage) | — | Empty — spare | — | — | — | 1 hive remaining in room as spare |
-| K-NEW1 | From Kwasi (Saltpond, colonised 4+ mo) | Top-bar ×20 | **PURCHASE CONFIRMED** — with stand | — | — | — | GHS 1,000. Kanzoni to drive to Winneba for pickup → farm. Stand price TBC |
+| K-NEW1 | From Kwasi (Saltpond, colonised 4+ mo) | Top-bar ×20 | **PURCHASE CONFIRMED** — with stand — **PICKUP POSTPONED to next week** | — | — | — | GHS 1,000. Kanzoni to drive to Winneba for pickup → farm. Stand price TBC |
 | K-NEW2 | From Kwasi (Saltpond, colonised 4+ mo) | Top-bar ×20 | **PURCHASE CONFIRMED** — with stand | — | — | — | GHS 1,000. Kanzoni to drive to Winneba for pickup → farm. Stand price TBC |
 | K-NEW3 | From Kwasi (Saltpond, colonised 4+ mo) | Top-bar ×20 | **PURCHASE CONFIRMED** — with stand | — | — | — | GHS 1,000. Kanzoni to drive to Winneba for pickup → farm. Stand price TBC |
 
