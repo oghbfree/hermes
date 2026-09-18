@@ -15,7 +15,7 @@
 | Line | Amount | When | Condition |
 |------|--------|------|-----------|
 | Base | **GH¢500/mo** (GH¢125/wk) | weekly | Attendance · phone on WhatsApp/Status · daily check-in · posts run with H |
-| Data bundles | **GH¢30 each (5GB) × 2+ /mo** | H buys directly, recurring, topped up as used | never let it run dry |
+| Data bundle | **GH¢60/mo (xGB)** | H buys directly, recurring, topped up if it runs out | — |
 | Dome transport | **GH¢40 per Dome round-trip** | per trip, when at Dome | school visits / Dome runs only |
 
 ## 3. PIECE-RATES (Tier B — unlimited upside)
@@ -49,7 +49,7 @@
 
 ## 6. EQUIPMENT (John Protocol) & CONDUCT
 - John is primary enforcer of the John Protocol: pre-course check (24h), post-course check (2h), monthly audit, 100% accountability. Financially liable for negligence/loss/damage.
-- Working hours Mon–Sat 8:00–18:00. Respond to urgent matters < 30 min in hours; 24h notice for absences. NSS mandatory paid leave per scheme.
+- Working hours Mon–Sat 8:00–18:00. Respond to urgent matters < 30 min in hours; 24h notice for absences. **NSS leave: payment during leave is AT THE COMPANY'S DISCRETION (per NSS) — the Company may pay the usual wage, or double wage, if it chooses; it is not obliged to.**
 
 ## 7. EXIT & RENEWAL
 - **No automatic renewal.** At the 24/11/2026 review, Employer may: continue, offer a different role/compensation, or terminate with notice (2 weeks).

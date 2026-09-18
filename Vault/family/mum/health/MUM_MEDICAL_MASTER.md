@@ -657,6 +657,19 @@ Date-range snapshot:
   6. Schedule away from meals (not right after eating; reflux history 31 Aug).
 - **Log what works:** carer to note pain relief level after each session so we track benefit.
 
+### 17 Sep 2026 (Thu) — Morning
+- **Status:** ⚠️ **No morning caregiver report received or reachable this run** — Telegram topic 4 not accessible (no terminal/execution tool in this cron session; Telegram bot token still invalid HTTP 404 per tasks-queue). No `2026-09-17` report file in vault. Last recorded: 16 Sep (Dr Morris home visit; Evening BP not taken; yam+pepper dinner). Context carried: 🩺 **tests scheduled TODAY Thu 17 Sep** (Mum asked the carer the departure time on 16 Sep evening) — capture lab/test results + Dr Morris's recommendations when they come in. Dr Morris is now her doctor contact (Focos appointment superseded).
+- **Vitals:** not captured (no report)
+- **Medication:** Furosemide 20mg — not reported; do not assume given. Hold if BP <100 or >140. Keep watch through test day.
+- **Check-in:** Asked caregiver for breakfast, morning meds (Furosemide 20mg + BP before dosing), pain/discomfort (back/neck/leg swelling), energy/mood, mobility, and any test-day updates. **Delivery not possible this run (no outbound Telegram access) — pending/re-dispatch on next run.**
+
+### 17 Sep 2026 (Thu) — Evening
+- **Status:** ⏰ **Evening check-in PREPARED but NOT delivered — no outbound/Telegram access this run** (no terminal/execution tool in this cron session; only read/search/write/patch tooling available, so the send script cannot run). Script saved to `tmp_evening_send_2026-09-17.py` for re-dispatch on next run with outbound access. Awaiting caregiver reply on dinner, evening meds, pain, energy/mood, day summary, **and test-day outcome** (tests scheduled TODAY Thu 17 Sep per Dr Morris home visit on 16 Sep).
+- **Vitals:** not captured (pending caregiver report)
+- **Medication:** Furosemide 20mg — not reported; do not assume given. Hold if BP <100 or >140 (watch through test day).
+- **Dinner:** not yet reported (→ pending for MUM_FOOD_MASTER.md once received)
+- **Check-in:** Prepared evening prompt for topic 4 covering dinner (what + how much), evening Furosemide 20mg + BP before/after dosing (given 13 Sep sustained highs + today's test day), pain/discomfort (post-11 Sep fall — back/hip/neck/leg swelling), energy/mood, overall day summary incl. any falls/dizziness/missed meals/medication refusal, **plus how today's tests went (Dr Morris)**. **Delivery blocked this run — pending/re-dispatch on next run with outbound access.**
+
 ---
 
 ## 🛒 Household Errands / Market (from topic-4, Aug 2026)

@@ -2,7 +2,18 @@
 
 Durable facts from periodic daily-processing runs.
 
-_facts below are limited to verified findings. Last refreshed: 2026-09-16._
+_facts below are limited to verified findings. Last refreshed: 2026-09-17._
+
+## 2026-09-17 Daily Processing Run
+- 🟢 **Integrated-daily-synthesis 17/09** — `INTEGRATED_INSIGHTS_2026-09-17.md` (Vault/insights + both memories/insights synced ×3) + `Vault/Daily/2026-09-17.md` written. Session archive clean (118 dumps archived; no new active).
+- 🩺👵 **Mum: Dr Morris lab tests @ Genesys Oyarifa scheduled — likely performed TODAY Thu 17 Sep — OUTCOME NOT captured** (caregiver unreachable via topic 4). Last data 16 Sep (home-visit backfill): BP 137–144 borderline, swelling REDUCED, Dr Morris now PRIMARY contact (supersedes Focos). **NEW masseuse added to care team (16 Sep).** Dr Morris deliverables PENDING: Genesys lab booking + smoothie/juice recipes (CKD-safe). Dr Morris reminder drafted (`dr-morris-reminder.txt`). Flags unchanged.
+- 🩺 **H: 31 Aug post-shock follow-up STILL undocumented (17 days); labs 1,075 GH PENDING.** No fresh vitals 24 days. Food diary current thru 16 Sep (garlic+Renerve / granola / Tilda rice+stew+chicken / Twix / CBD+VitC). No acute symptoms.
+- 👨 **Dad: WhatsApp check-in FAILED 17 Sep 10:06 (bridge `whatsapp_not_paired`)** — last successful 14 Sep.
+- 🤖 **Akoma: NEW KISSi Education (Dome) integrated-school proposal 17/09** — GH¢100/student/term in school fees, whole-class (no opt-in), 12-wk mBot curriculum + AI Awareness, Option A on-site STEM corner (~250 students). Ready to pitch (free demo + partnership next).
+- 💼 **2Real:** last sales 16/09 GHS 200; Sept-to-date ~30,783 (12 days). 480 low-stock; top movers recur (Bosch rotary hammer, Blyss intercom, Halfords jump starter, B&D drills). **Competitor price analysis added (10 key items AT MARKET).** 643 SLA breaches; Stephen owes 50 by 25/9; laminator fix overdue.
+- 🐝 **Farm:** ~7 colonies, ~10 projected (3 Kwasi coming). **Sunday 20/9 visit: Kanzoni + Ben + live-in worker family prospect; take broken hive to Kwasi (Winneba); Freeman hive frame.** Habib crops-walk + Gramazole receipt OVERDUE (since 16/9).
+- 🔒 **Security 17/09 IMPROVED/LOW:** Telegram RECOVERED & healthy (token `8277244…` valid @Ogaitchhermesbot, gateway PID 11700 polling 06:56, no InvalidToken). Credential exposure CLEAN (.env=0, ACLs secure). **Carried FAILs: WhatsApp unpaired (blocks Dad check-ins), stale `~/.hermes/.env` revoked token (retire), 25/55 silent cron, one-off `.env`-reader scripts.** Nous key expiry 08:02 auto-refresh.
+- 🖥️ **Cron 17/09: 82.1% SLA** (23 done / 5 failed / 28 resolved). Failures clustered @08:33 (2Real inquiry loop + Morning Priority = 1 incident) + kwasi (06:45/08:04) + health-check-morning (15:38). No stuck jobs. 5 delivery warnings (timeout/DNS/send-path). **github-memory-backup ✅ (91d2b8b).** cron-status delivered msg 11255 to topic 20. DNS flutter persists (IPv4 failover cycling 21:12, recovered).
 
 ## 2026-09-16 Daily Processing Run
 - 🟢 **Integrated-daily-synthesis 16/09** — `INTEGRATED_INSIGHTS_2026-09-16.md` (Vault/insights + workspace/memories/insights + ~/.hermes/memories/insights synced) + `Vault/Daily/2026-09-16.md` written. Session archive clean (source dir has no request dumps; 118 already archived).

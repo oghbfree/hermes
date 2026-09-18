@@ -1,0 +1,112 @@
+[
+  {
+    "item": "INGCO Hydraulic Bottle Jack HBJ602",
+    "our_price": 450.0,
+    "cost": 300.0,
+    "stock": 1,
+    "median": 400,
+    "low": 280,
+    "high": 550,
+    "verdict": "AT MARKET",
+    "action": "Keep \u2014 maybe small tweak"
+  },
+  {
+    "item": "Bosch GBH 2-26 DRE Professional SDS Rotary Ha",
+    "our_price": 2300.0,
+    "cost": 700.0,
+    "stock": 1,
+    "median": 1989,
+    "low": 1500,
+    "high": 10700,
+    "verdict": "AT MARKET",
+    "action": "Keep \u2014 maybe small tweak"
+  },
+  {
+    "item": "Makita 6280d w 1 batt 1 charger Cordless 3/8 ",
+    "our_price": 850.0,
+    "cost": 0.0,
+    "stock": 1,
+    "median": 850,
+    "low": 850,
+    "high": 850,
+    "verdict": "AT MARKET",
+    "action": "Keep \u2014 maybe small tweak"
+  },
+  {
+    "item": "Yale Euro Profile Cylinder",
+    "our_price": 140.0,
+    "cost": 0.0,
+    "stock": 1,
+    "median": 1800,
+    "low": 450,
+    "high": 4200,
+    "verdict": "UNDERPRICED (8% of market)",
+    "action": "Raise toward GHS 1,620"
+  },
+  {
+    "item": "Black And Decker 18 Volt Lithium Ion 1.5 Ah C",
+    "our_price": 1700.0,
+    "cost": 260.0,
+    "stock": 1,
+    "median": 1250,
+    "low": 300,
+    "high": 1600,
+    "verdict": "OVERPRICED 136% of market",
+    "action": "Cut to GHS 1,250 or justify premium in title"
+  },
+  {
+    "item": "INGCO Hack Saw Frame HHF3088",
+    "our_price": 170.0,
+    "cost": 77.0,
+    "stock": 5,
+    "median": 43.0,
+    "low": 39,
+    "high": 60,
+    "verdict": "OVERPRICED 395% of market",
+    "action": "Cut to GHS 43 or justify premium in title"
+  },
+  {
+    "item": "Ignco Tile Cutter 1100mm",
+    "our_price": 1810.0,
+    "cost": 200.0,
+    "stock": 7,
+    "median": 1315.0,
+    "low": 700,
+    "high": 3860,
+    "verdict": "OVERPRICED 138% of market",
+    "action": "Cut to GHS 1,315 or justify premium in title"
+  },
+  {
+    "item": "Halfords 3L Jump Starter",
+    "our_price": 600.0,
+    "cost": 600.0,
+    "stock": 0,
+    "median": 825.0,
+    "low": 800,
+    "high": 1215,
+    "verdict": "UNDERPRICED (73% of market)",
+    "action": "Raise toward GHS 750"
+  },
+  {
+    "item": "Master Lock 140t Two Padlocks One Key >4",
+    "our_price": 100.0,
+    "cost": 0.0,
+    "stock": 27,
+    "median": 330.0,
+    "low": 265,
+    "high": 550,
+    "verdict": "UNDERPRICED (30% of market)",
+    "action": "Raise toward GHS 297"
+  },
+  {
+    "item": "INGCO  Acetic Silicone Sealant \uff08Black)HASS03",
+    "our_price": 50.0,
+    "cost": 34.0,
+    "stock": 22,
+    "median": 31.0,
+    "low": 29,
+    "high": 39,
+    "verdict": "OVERPRICED 161% of market",
+    "action": "Cut to GHS 31 or justify premium in title"
+  }
+]

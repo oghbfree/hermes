@@ -18,7 +18,7 @@ Updates vs v1.0 (from H): data may need multiple bundles · Dome transport is pe
 | Line | Amount | Cadence | Condition |
 |------|--------|---------|-----------|
 | Base | **GH¢500/mo** (GH¢125/wk) | weekly | Attendance + phone on WhatsApp/Status + daily check-in + posts run with H |
-| **Data bundles** | **GH¢30 each — buy **2× minimum/mo** (likely more)** | monthly, recurring, **bought by H directly** | 5GB each; topping up as used — never let it go dry (this is the #1 blocker) |
+| **Data bundles** | **GH¢60/mo (xGB bundle)** | monthly, recurring, **bought by H directly** | single monthly bundle; top up if it runs out |
 | Dome transport | **GH¢40 per Dome round-trip** (in + out) | refunded on trip, when in Dome | school visits / any Dome run; NOT a fixed monthly |
 
 **Consistent-work guarantee (H's side):** guaranteed ≥ **30 WhatsApp Catalog items/mo + 1 active school (Zion/Dome)** = steady work every week, no starvation gaps. Also note: **a ~250-student Dome school proposal is in hand** — becomes John's priority milestone.
