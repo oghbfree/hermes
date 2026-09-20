@@ -34,6 +34,9 @@ Append one line per day. The 4:30 AM briefing reads this file.
 | 14/09/26 |  | 1,230 | Walk-in Oyarifa: Stephen — laminator (500 paid, 50 owes by 25/9). Jiji: carbon monoxide detector + smoke alarm (450), Gorilla Grab adhesive clear (280). Eben delivered to customer — charged customer 70 delivery | Laminator overheating — Frederick to check and fix |
 | 15/09/26 |  | 3,750 | Walk-in: Sony radio (150), Casio CT636 (900 MoMo), Casio CT390 (900 MoMo). Online: Stanley 6mm staples (100), Stanley 10mm staples (100), 2-man tent (1,150), sleeping bag (450). All via MoMo | Strong day — Casios + camping gear + online staples |
 | 16/09/26 |  | 200 | Standing fan (200) | |
+| 17/09/26 |  | — |  | No sales |
+| 18/09/26 |  | 2,270 | Tennis racket (600), 7× blue spray cans (70), 40m extension (400), Jiji PST-73 (1,200 Sammy delivered) | Paid John up to date — unsure if he stays |
+| 19/09/26 |  | 40 | 3× blue spray paint (30), 1 light bulb (10) | Muller took 4 spray cans last week + 7 today @ 10ea — waiting for his sales to come in (110 owed) |
 | 23/08/26 |  | — |  | Closed |
 | 24/08/26 |  | — |  | Closed |
 

@@ -33,7 +33,13 @@ created: 2026-09-15 (visit: Sunday, ~20/9/26)
 - [ ] Gramazole ×4 — confirm Habib bought 16/9 (GHS 300 sent?)
 - [ ] Chicken manure (10 bags from Kanzoni) — plan placement (compost before use)
 
-## 5. If Time / Kanzoni Available
+## 5. Supplies Bought (15/9/26) ✅
+- [x] Sugar cubes 960g — GHS 37 (bee feeding)
+- [x] 2× blue spray paint — for Kanzoni (hive/stand marking, GPS numbering)
+- [x] 2× door locks — for carpenter Sunday (already logged 2/9: GHS 300)
+- [x] 2× spray cans — for the hives (marking/repainting entrances?)
+
+## 6. If Time / Kanzoni Available
 - [ ] Any other items H raises on the day
 
 ---

@@ -80,8 +80,11 @@
 | 14 Sep | Corn dough porridge (left some) · lemon+ACV · tea | Boiled yam with palm nut soup | Boiled beans with boiled rice (left salad) |
 | 15 Sep | Pawpaw + scrambled eggs | Rice balls with palm nut soup (left a little) · pineapple (left some) | Jacket potatoes |
 | 16 Sep | Obrayo | Rice with beans (left cold salad — prefers WARM salad) · pear | Boiled yam with pepper |
+| 17 Sep | Obrayo (brunch, after labs) | — (light day) | Banku with pepper + GRILLED TILAPIA 🌟 (fresh-fish swap) |
+| 18 Sep | Baked beans + scrambled eggs | Boiled yam + palm nut soup (early supper 4:10pm) | — (light; warm milk) |
+| 19 Sep | Obrayo · tea · sobolo | — | Baked beans with baked potatoes (4pm) |
 
-> **Backfill complete (16 Sep 26):** Meals logged for 5 Aug–16 Sep (6 Sep: no report). 🎂 **Birthday 28 Aug.** 🚨 **11 Sep fall.** **16 Sep:** Obrayo / rice+beans / yam+pepper — good day; **🩺 DR MORRIS HOME VISIT** (wellbeing check; tests scheduled Thu 17 Sep). Swelling REDUCED. Mum's tip: prefers WARM salad. See medical master.
+> **Backfill complete (19 Sep 26):** Meals for 5 Aug–19 Sep (6 Sep: no report). Labs integrated (Na 161 🚩 fluids, K 5.48 ⚠️). **Recipe traffic-lights in force** — green juices daily, high-K red list out. See `LABS_17SEP_AND_RECIPE_PLAN.md`.
 
 ---
 

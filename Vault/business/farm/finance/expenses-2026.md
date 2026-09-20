@@ -60,6 +60,7 @@ linked_workflow: FARM_WORKFLOW.md
 | 2026-09-08 | 2× colonised hives (Saltpond, 4+ months, 20 topbars) — purchase agreed | Kwasi | GHS 1,000 each. Kanzoni to pick up from Winneba and deliver to farm. Service charge GHS 500 (shared for both) | 2,500 |
 | 2026-09-14 | 4× Gramazole weedicide @ GHS 75 — PENDING, money to be sent 16/9 | Habib (to buy) | Spraying weeded areas, vary work | 300 (pending)
 | 2026-09-14 | 10 bags chicken manure delivered | Kanzoni | For coconut circles / beds — cost TBC | — |
+| 2026-09-15 | Sugar cubes 960g (bee feeding) | — | Feeding syrup/energy for hives — Sunday visit prep | 37 |
 
 ---
 

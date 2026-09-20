@@ -523,6 +523,42 @@
 | 🌙 Dinner | 1 Twix bar |
 | 💊 Supplements | CBD gummy, Vitamin C |
 
+### Thu 17 Sep *(logged via chat)*
+| Meal | Items |
+|------|-------|
+| ☀️ Morning | Chopped garlic, 1 Renerve tablet |
+| ☀️ Breakfast | 2 eggs |
+| ☀️ Lunch | Yam chips with fried fish |
+| 🌙 Dinner | Yam and egg |
+| 💊 Supplements | CBD gummy, Vitamin C |
+
+### Fri 18 Sep *(logged via chat)*
+| Meal | Items |
+|------|-------|
+| ☀️ Morning | Chopped garlic, 1 Renerve tablet |
+| ☀️ Breakfast | 2 eggs |
+| ☀️ Lunch | Yam chips with fried fish |
+| 🌙 Dinner | Waakye and fish |
+| 💊 Supplement | Vitamin C |
+
+### Sat 19 Sep *(logged via chat)*
+| Meal | Items |
+|------|-------|
+| ☀️ Morning | Chopped garlic, 1 Renerve tablet |
+| ☀️ Breakfast | Spaghetti stew with fish |
+| ☀️ Lunch | None |
+| 🌙 Dinner | Bread bun with butter |
+| 💊 Supplement | Vitamin C |
+
+### Sun 20 Sep *(logged via chat)*
+| Meal | Items |
+|------|-------|
+| ☀️ Morning | Chopped garlic and water, 1 Renerve tablet, Vitamin C |
+| ☀️ Breakfast | 2 eggs |
+| ☀️ Lunch | Sandwich, cake and ice cream |
+| 🌙 Dinner | Fried rice |
+| 💊 Supplement | CBD gummy |
+
 ---
 
 ## 📈 Nutritional Trends *(updated with gap-fill data)*

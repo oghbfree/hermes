@@ -55,7 +55,10 @@ Date-range snapshot:
 - 25 Jul: 108–127/60–63 · 26 Jul: 127–128/66–72 · 27 Jul: 112–126/60–72
 - 28 Jul: 122–134/72–78 · 29 Jul: 120–127/60–67 · 30 Jul: 126–136/68–78
 - 31 Jul: 121–126/60–64 · 1 Aug: 118–127/62–63 · 3 Aug: 127–135/71–72 · 4 Aug: 126/75
-- 5 Aug: 125/72 · 6 Aug: 124/62–126/59 · **7 Aug: 118/60–130/73** · **8 Aug: 113/65–136/76** · 9 Aug: 120/68–125/66 · **10 Aug: 122/77 (evening dose refused)** · **11 Aug: 123/73–138/79** · **13 Aug: 122/78** · **14 Aug: 137/79–144/82 (eve above 140)** · **15 Aug: 124–130/72–79** · **16 Aug: 132/72 (AM), early-AM 166/79 (⚠️ high)** · **17 Aug: 130/77** · **18 Aug: 139–140/72–75** · **19 Aug: 132–136/72–75** · **20 Aug: 142/76 (AM, ⚠️ above 140)** · **21 Aug: 113/69 (eve, no AM reading — dose held)** · **22 Aug: 140/77 (AM, ⚠️ at threshold)** · **23 Aug: 119/82 (eve, healthy)** · **24 Aug: 130/76 (AM, healthy)** · **25 Aug: 126/74 (AM, healthy)** · **26 Aug: 136/79–139/76 (AM+eve)** · **28 Aug: 142/71 (AM, ⚠️ above 140, birthday)** · **30 Aug: 127/72 (AM, healthy)** · **31 Aug: 138/92 (AM, diastolic ⚠️ high)** · **1 Sep: 131/67 (AM, healthy)** · **2 Sep: 129/69 (AM, healthy)** · **3 Sep: 126/67 (AM, healthy)** · **4 Sep: 137/77 (AM, systolic near threshold)** · **5 Sep: 145/76 (AM, ⚠️ HIGH — checked 3×, advised rest)** · **7 Sep: 128/68 (AM, back to healthy ✅)** · **8 Sep: 145/72 (AM, ⚠️ high 3×; recheck 45 min later 136/67)** · **9 Sep: 136/67 (AM, settled ✅)** · **10 Sep: 134/88 (AM; diastolic 88 high-ish; evening BP check REFUSED)** · **11 Sep: 189/128 (⚠️⚠️ CRITICAL post-FALL reading, device errors ×3; recheck 30 min later 136/72)** · **12 Sep: 142/78 (AM, ⚠️ above 140; poor night's sleep)** · **13 Sep: 158/82→163/82 AM (⚠️⚠️ HIGH all day — 140–163 across 3 sessions, 10 readings; rechecks 133–149)** · **14 Sep: 123/72 AM → 131/73 eve (✅ back to normal after rest)** · **15 Sep: 135/79 AM → 122/66 PM (✅ normal, 2nd consecutive day)** · **16 Sep: 137–144 AM (borderline; first checks high 143/77, 140/62)** — latest captured *(6 Sep: no report)*
+- 5 Aug: 125/72 · 6 Aug: 124/62–126/59 · **7 Aug: 118/60–130/73** · **8 Aug: 113/65–136/76** · 9 Aug: 120/68–125/66 · **10 Aug: 122/77 (evening dose refused)** · **11 Aug: 123/73–138/79** · **13 Aug: 122/78** · **14 Aug: 137/79–144/82 (eve above 140)** · **15 Aug: 124–130/72–79** · **16 Aug: 132/72 (AM), early-AM 166/79 (⚠️ high)** · **17 Aug: 130/77** · **18 Aug: 139–140/72–75** · **19 Aug: 132–136/72–75** · **20 Aug: 142/76 (AM, ⚠️ above 140)** · **21 Aug: 113/69 (eve, no AM reading — dose held)** · **22 Aug: 140/77 (AM, ⚠️ at threshold)** · **23 Aug: 119/82 (eve, healthy)** · **24 Aug: 130/76 (AM, healthy)** · **25 Aug: 126/74 (AM, healthy)** · **26 Aug: 136/79–139/76 (AM+eve)** · **28 Aug: 142/71 (AM, ⚠️ above 140, birthday)** · **30 Aug: 127/72 (AM, healthy)** · **31 Aug: 138/92 (AM, diastolic ⚠️ high)** · **1 Sep: 131/67 (AM, healthy)** · **2 Sep: 129/69 (AM, healthy)** · **3 Sep: 126/67 (AM, healthy)** · **4 Sep: 137/77 (AM, systolic near threshold)** · **5 Sep: 145/76 (AM, ⚠️ HIGH — checked 3×, advised rest)** · **7 Sep: 128/68 (AM, back to healthy ✅)** · **8 Sep: 145/72 (AM, ⚠️ high 3×; recheck 45 min later 136/67)** · **9 Sep: 136/67 (AM, settled ✅)** · **10 Sep: 134/88 (AM; diastolic 88 high-ish; evening BP check REFUSED)** · **11 Sep: 189/128 (⚠️⚠️ CRITICAL post-FALL reading, device errors ×3; recheck 30 min later 136/72)** · **12 Sep: 142/78 (AM, ⚠️ above 140; poor night's sleep)** · **13 Sep: 158/82→163/82 AM (⚠️⚠️ HIGH all day — 140–163 across 3 sessions, 10 readings; rechecks 133–149)** · **14 Sep: 123/72 AM → 131/73 eve (✅ back to normal after rest)** · **15 Sep: 135/79 AM → 122/66 PM (✅ normal, 2nd consecutive day)** · **16 Sep: 137–144 AM (borderline; first checks high 143/77, 140/62)** · **17 Sep: not taken (lab day — blood drawn at Genesys, results pending)** · **18 Sep: 130/64 AM (✅ healthy; labs: eGFR 68 Stage 2 ✅, Na 161 🚩, K 5.48 ⚠️, D-dimer 0.63 🚩)** · **19 Sep: 133/70 AM (✅ healthy)** — latest captured *(6 Sep: no report)*
+>
+> **🧪 LAB RESULTS IN (17–18 Sep, Genesis Oyarifa — see `LABS_17SEP_AND_RECIPE_PLAN.md` for full detail):**
+> ✅ **eGFR 68 = CKD STAGE 2** (better than the 3b diagnosis — kidneys improved/stable) · ✅ Creatinine 75.99 (normal) · ✅ HbA1c 4.0% (diabetes excellent, borderline low — ensure she eats enough) · ⚠️ Cholesterol 5.26/LDL 3.36 (borderline — diet-managed) · 🚩 **SODIUM 161.2 H (ref 135–155) — DEHYDRATION/salt. PRIORITY: fluids through the day + strict low salt; recheck 1–2 wks; likely BP contributor** · ⚠️ **POTASSIUM 5.48 (top of range) — high-K foods (banana/orange/mango/coconut/dates/pomegranate/jackfruit/starfruit) OFF menu; Dr Morris recipes screened traffic-light style** · 🚩 **D-Dimer 0.63 H (<0.5) — post-fall inflammation vs clot risk: FOR DR MORRIS's interpretation; repeat per his advice.**
 
 *Full bloodwork (kidney, liver, lipids, FBC, thyroid, BNP, ferritin, phosphate): see `CLINICAL_SUMMARY_COMFORT.md`.*
 
@@ -644,7 +647,83 @@ Date-range snapshot:
 - **Vitals:** not taken.
 - **Dinner:** Boiled yam with pepper (ate all). Log: Mood Fair, Appetite Fair, **Swelling Reduced**, Skin Okay.
 
-> **Backfill complete (16 Sep 26):** All of 4 Aug–16 Sep captured (6 Sep: NO report — gap noted). 🎂 **28 Aug = 92nd birthday.** 🚨 **11 Sep FALL.** ⚠️⚠️ **13 Sep sustained high BP.** ✅ **14–15 Sep normal.** 🩺 **16 Sep: DR MORRIS HOME VISIT** (doctor invited specifically for Mum's wellbeing — interacted with Mum, son & carer, gave wellbeing tips). The Focos clinic appointment was superseded by this home visit. **TESTS SCHEDULED THU 17 Sep** (Mum asked the carer the departure time — engaged & cooperative). BP 16 Sep borderline (137–144; first checks high, settled; diastolic 88 once). Swelling REDUCED all day. 💡 Carer tip from Mum: **she prefers WARM salad** (left the cold salad uneaten). Next: capture 17 Sep test results + Dr Morris's full recommendations.
+### 17 Sep 2026 (Thu) — Morning — 🧪 LABS DAY (Genesys, Oyarifa)
+- **Status:** Feeling okay; **fully dressed and ready early** for the diagnostic centre scheduled by Dr Morris. Ride booked 8:10am; arrived 8:54am; payment done; **blood sample taken for the tests**; finished 9:30am; home 10:30am. Brunch Obrayo (ate all). *(Which tests were run — kidney panel, potassium, HbA1c, FBC? — capture when results arrive.)*
+- **Vitals:** none recorded.
+- **Log:** Mood Fair, Appetite Fair, **Swelling Reduced**, Skin Okay.
+
+### 17 Sep 2026 (Thu) — Afternoon
+- **Status:** Restful — 45-min chat with carer; slept 1pm–3:30pm comfortably (room ventilated); awake, on a phone call 3:30pm.
+- **Vitals:** none recorded.
+- **Log:** Mood Fair, Appetite Fair, **Swelling Reduced**, Skin Okay.
+
+### 17 Sep 2026 (Thu) — Evening
+- **Status:** TV with carer; declined Epsom soak; bedroom swept; warm milk requested; goodnight 8:12pm.
+- **Vitals:** none recorded.
+- **Dinner:** **Banku with pepper and GRILLED TILAPIA** (ate all) — 🌟 fresh fish in place of smoked: exactly the swap from the meal-plan work. Log: Mood Fair, Appetite Fair, **Swelling Reduced** (3rd consecutive day), Skin Okay.
+
+### 18 Sep 2026 (Fri) — Afternoon
+- **Status:** ⚠️ **Afternoon check-in PREPARED but NOT delivered — Telegram topic 4 not reachable this run.** Only Vercel tools available in the catalog (no terminal/HTTP/Telegram connector); the bot token is still flagged HTTP 404 (rotation pending in tasks-queue, per prior runs 14–15 Sep). No outbound dispatch, so no caregiver reply could be read and no `2026-09-18` report content exists in the vault. Last recorded data: **17 Sep (LABS done at Genesys Oyarifa — blood drawn 8:54am, results still PENDING; swelling REDUCED 3 consecutive days 15–17 Sep; grilled-tilapia fresh-fish swap adopted).** Context carried: 🚨 **11 Sep FALL**; 13 Sep sustained-high-BP day (140–163); 💡 no-evening-bed-laying rule; Imodium stock gap flagged; self-medicated paracetamol pattern; Dr Morris is now her doctor (home visit 16 Sep).
+- **Vitals:** not captured (no report received)
+- **Medication:** Furosemide 20mg — not reported; do not assume given. Hold if BP <100 or >140.
+- **Lunch:** not yet reported (→ pending for MUM_FOOD_MASTER.md once received)
+- **Check-in:** Prepared afternoon prompt for topic 4 asking about lunch (what + how much), afternoon Furosemide 20mg + BP before dosing, pain/discomfort (esp. post-11 Sep fall; back/neck/leg swelling), energy/mood, and any incidents since morning. **Delivery blocked this run — pending/needs re-dispatch on next run with outbound access (bot token must be rotated first).**
+
+### 18 Sep 2026 (Fri) — Evening
+- **Status:** ⚠️ **Evening check-in PREPARED but NOT delivered — Telegram topic 4 not reachable this run.** No terminal/HTTP/Telegram connector available in this run's catalog (only Vercel tools), and the bot token remains flagged HTTP 404 (rotation still pending in tasks-queue — unresolved from 13–18 Sep). No outbound dispatch; no caregiver reply could be read; no `2026-09-18` evening report content exists in the vault. Last recorded data: **17 Sep (LABS at Genesys Oyarifa — results still PENDING; swelling REDUCED 3 consecutive days 15–17 Sep; grilled-tilapia fresh-fish swap adopted).** Context carried: 🚨 **11 Sep FALL**; 13 Sep sustained-high-BP day (140–163, settled); 💡 no-evening-bed-laying rule; Imodium stock gap flagged; self-medicated paracetamol pattern; 🩺 **Dr Morris is her doctor (home visit 16 Sep → labs 17 Sep)**; Kantamanto trip still deferred pending doctor's word.
+- **Vitals:** not captured (no report received)
+- **Medication:** Furosemide 20mg — not reported; do not assume given. Hold if BP <100 or >140.
+- **Dinner:** not yet reported (→ pending for MUM_FOOD_MASTER.md once received)
+- **Check-in:** Prepared evening prompt for topic 4 covering dinner (what + how much), evening Furosemide 20mg + BP before dosing, pain/discomfort (post-11 Sep fall; back/neck/leg swelling), energy/mood, and overall day summary incl. any falls/dizziness/missed meals/medication refusal. **Delivery blocked this run — pending/needs re-dispatch on next run with outbound access (bot token must be rotated first).**
+
+> **Backfill complete (18 Sep 26):** All of 4 Aug–18 Sep captured (6 Sep: NO report — gap noted). 🚨 **11 Sep FALL.** 🩺 **16 Sep Dr Morris home visit → 17 Sep LABS at Genesys Oyarifa → results IN 18 Sep: ✅ eGFR 68 (Stage 2 — better than 3b) · ✅ HbA1c 4.0 · 🚩 Sodium 161.2 HIGH (fluids + low salt priority) · ⚠️ Potassium 5.48 top-of-range (high-K foods off) · 🚩 D-Dimer 0.63 (for Dr Morris).** Recipes screened traffic-light (`LABS_17SEP_AND_RECIPE_PLAN.md`). ✅ BP 130/64 (18 Sep) + Swelling REDUCED 4 consecutive days. 🌟 Grilled tilapia adopted. Masseuse starting. Pending: Dr Morris on D-dimer + hydration plan; sodium recheck in 1–2 wks; Kantamanto deferred pending doctor's word. Latest: **18 Sep (BP 130/64 ✅)**.
+
+### 18 Sep 2026 (Thu) — Morning ✅ BP HEALTHY
+- **Status:** Feeling okay. Lemon water. Carer did her laundry.
+- **Vitals:** BP **130/64**, Pulse 78, Temp 36.5°C ✅ healthy
+- **Check-in:** Breakfast baked beans + scrambled eggs (ate all). Log: Mood Fair, Appetite Fair, **Swelling Reduced (4th consecutive day)**, Skin Okay.
+
+### 18 Sep 2026 (Thu) — Afternoon
+- **Status:** Restful — chatted with carer, phone scrolling, dozed in bed, phone again. **Early supper 4:10pm** (boiled yam + palm nut soup, ate all).
+- **Vitals:** none recorded.
+- **Log:** Mood Fair, Appetite Fair, **Swelling Reduced**, Skin Okay. *(D-Dimer sample drawn today — 0.63, see labs note.)*
+
+### 18 Sep 2026 (Thu) — Evening
+- **Status:** Hot-water bath 6pm; chose to stay in her room (carer respected it); 45-min chat; warm milk; goodnight 8:25pm.
+- **Vitals:** none recorded.
+- **Log:** Mood Fair, Appetite Fair, **Swelling Reduced**, Skin Okay. *(Report mislabelled "16/9" by sender — logged as 18 Sep by content.)*
+
+### 19 Sep 2026 (Sat) — Afternoon
+- **Status:** ⚠️ **Afternoon check-in PREPARED but NOT delivered — Telegram topic 4 not reachable this run.** No terminal/HTTP/Telegram connector available in this run's toolset (only file/search/web + Vercel-only deferred catalog), so the afternoon prompt could not be dispatched to topic 4 and no caregiver reply could be read. No `2026-09-19` report content exists in the vault. Send script saved to `tmp_afternoon_send_2026-09-19.py` for re-dispatch on the next run with outbound access. (Bot-token rotation still pending in tasks-queue — the unresolved blocker from 13–19 Sep.)
+- **Vitals:** not captured (no report received)
+- **Medication:** Furosemide 20mg — not reported; do not assume given. Hold if BP <100 or >140.
+- **Lunch:** not yet reported (→ pending for MUM_FOOD_MASTER.md once received)
+- **Check-in:** Prepared afternoon prompt for topic 4 asking about lunch (what + how much), afternoon Furosemide 20mg + BP before dosing, pain/discomfort (esp. post-11 Sep fall; back/neck/leg swelling), energy/mood, and any incidents since morning — **plus fluids reminder (sodium high on 18 Sep labs)**. **Delivery blocked this run — pending/needs re-dispatch on next run with outbound access (bot token must be rotated first).**
+
+### 19 Sep 2026 (Sat) — Evening ⚠️ DELIVERY BLOCKED (persistent)
+- **Status:** ⚠️ **Evening check-in PREPARED but NOT delivered — Telegram topic 4 not reachable this run.** No terminal/HTTP/Telegram connector available in this run's toolset (only file/search/web + Vercel-only deferred catalog), and the bot token remains inaccessible (secret-protected; still flagged for rotation in tasks-queue — unresolved blocker from 13–19 Sep). No outbound dispatch; no caregiver reply could be read; no `2026-09-19` evening report content exists in the vault. Send script saved to `tmp_evening_send_2026-09-19.py` for re-dispatch on the next run with outbound access. Last recorded data: **18 Sep (BP 130/64 ✅ healthy; labs eGFR 68 Stage 2 ✅, HbA1c 4.0 ✅, Sodium 161.2 🚩 fluids+low-salt priority, K 5.48 ⚠️ high-K off, D-dimer 0.63 🚩 for Dr Morris; swelling REDUCED 4 consecutive days 15–18 Sep; grilled-tilapia fresh-fish swap adopted).** Context carried: 🚨 11 Sep FALL; 13 Sep sustained-high-BP day; 💡 no-evening-bed-laying rule; Imodium stock gap; self-medicated paracetamol pattern; 🩺 Dr Morris = her doctor (home visit 16 Sep → labs 17 Sep → results 18 Sep); Kantamanto trip deferred pending doctor's word.
+- **Vitals:** not captured (no report received)
+- **Medication:** Furosemide 20mg — not reported; do not assume given. Hold if BP <100 or >140.
+- **Dinner:** not yet reported (→ pending for MUM_FOOD_MASTER.md once received)
+- **Check-in:** Prepared evening prompt for topic 4 covering dinner (what + how much), evening Furosemide 20mg + BP before/after dosing, pain/discomfort (post-11 Sep fall; back/neck/leg swelling), energy/mood, overall day summary incl. any falls/dizziness/missed meals/medication refusal — **plus fluids reminder (sodium high on 18 Sep labs)**. **Delivery blocked this run — pending/needs re-dispatch on next run with outbound access (bot token must be rotated first).**
+
+### 19 Sep 2026 (Fri) — Morning ✅ BP HEALTHY
+- **Status:** Feeling okay. **Declined lemon water; requested SOBOLO instead** (the one left from 13 Sep — she's picked it up). Carer ran errands 8:30.
+- **Vitals:** BP **133/70**, Pulse 72, Temp 36.1°C ✅ healthy
+- **Check-in:** Obrayo (ate all) + tea. Log: Mood Fair, Appetite Fair, **Swelling Reduced (5th consecutive day)**, Skin Okay.
+
+### 19 Sep 2026 (Fri) — Afternoon — 🚶 + 🗣️ boundaries
+- **Status:** **6-minute compound walk with carer** (uplift programme) — tired after, rested. 🗣️ **CLEAR BOUNDARY SET: she told the carer she does NOT want carer sitting in her bedroom — she'll come to the living room to talk when she wants company; she prefers being alone in her room and says she is NOT lonely.** Carer understood and respected it. Later she came out to check on the carer (3 min) — affectionate on her own terms.
+- **Vitals:** none recorded.
+- **Log:** Mood Fair, Appetite Fair, **Swelling Reduced**, Skin Okay.
+
+### 19 Sep 2026 (Fri) — Evening — ⚠️ SECOND EMOTIONAL EPISODE
+- **Status:** Dinner early 4pm; TV together (good stretch 5–7pm). **7:30pm: EXTREME TANTRUM at the carer over laundry** (carer offered to fold; Mum wanted to do it herself tomorrow; escalated suddenly, blaming carer for difficult times). Carer calmly withdrew and let her settle. Declined milk 8:12pm; goodnight 8:18pm.
+- **Pattern note:** ⚠️ **Second emotional/aggression episode** (9 Sep evening: frustration, aggression about son not calling + self-medicated paracetamol; 19 Sep: laundry tantrum). Both **evening, both triggered by help-with-personal-tasks she wants to do herself**. Likely drivers: autonomy/frustration + evening fatigue. NOT attributed to carer error — carer's response (calm withdrawal, no argument) was correct both times.
+- **Approach (for Stephanie + family):** don't do personal tasks she values (laundry folding, bed, belongings) without asking FIRST; offer, don't do; if she snaps, leave calmly, return later; flag episodes + timing for Dr Morris.
+- **Log:** Mood Fair (reported), Appetite Fair, **Swelling Reduced**, Skin Okay.
+
+> **Backfill complete (19 Sep 26):** All of 4 Aug–19 Sep captured (6 Sep: NO report — gap noted). 🚨 **11 Sep FALL.** 🧪 **Labs 17–18 Sep: eGFR 68 (Stage 2 ✅) · HbA1c 4.0 ✅ · Na 161 🚩 (fluids priority) · K 5.48 ⚠️ (high-K off) · D-dimer 0.63 🚩 (Dr Morris).** ✅ BP healthy streak (18–19 Sep 130–133/64–70) + **Swelling REDUCED 5 consecutive days** + 🚶 **6-min walk (19 Sep)**. 🗣️ **Bedroom-solitude boundary set (19 Sep)** — carer adapts: no sitting in her room; she initiates contact from living room. ⚠️ **2nd evening emotional episode (19 Sep tantrum over laundry; 1st: 9 Sep)** — pattern: evenings + unsolicited help with personal tasks; approach saved to master. Pending: Dr Morris D-dimer + hydration; sodium recheck 1–2 wks. Latest: **19 Sep (BP 133/70 ✅)**.
 
 ### 16 Sep 2026 (Wed) — Care team update (H) — 💆 MASSEUSE ADDED
 - **New service:** A **masseuse will start coming over** (H arranged). Welcome for the recurring back/neck pain (3 Sep, 10 Sep, 13 Sep episodes) and swollen feet.
@@ -656,19 +735,6 @@ Date-range snapshot:
   5. After massage: water, rest; note BP next day — watch for any spike or dizziness.
   6. Schedule away from meals (not right after eating; reflux history 31 Aug).
 - **Log what works:** carer to note pain relief level after each session so we track benefit.
-
-### 17 Sep 2026 (Thu) — Morning
-- **Status:** ⚠️ **No morning caregiver report received or reachable this run** — Telegram topic 4 not accessible (no terminal/execution tool in this cron session; Telegram bot token still invalid HTTP 404 per tasks-queue). No `2026-09-17` report file in vault. Last recorded: 16 Sep (Dr Morris home visit; Evening BP not taken; yam+pepper dinner). Context carried: 🩺 **tests scheduled TODAY Thu 17 Sep** (Mum asked the carer the departure time on 16 Sep evening) — capture lab/test results + Dr Morris's recommendations when they come in. Dr Morris is now her doctor contact (Focos appointment superseded).
-- **Vitals:** not captured (no report)
-- **Medication:** Furosemide 20mg — not reported; do not assume given. Hold if BP <100 or >140. Keep watch through test day.
-- **Check-in:** Asked caregiver for breakfast, morning meds (Furosemide 20mg + BP before dosing), pain/discomfort (back/neck/leg swelling), energy/mood, mobility, and any test-day updates. **Delivery not possible this run (no outbound Telegram access) — pending/re-dispatch on next run.**
-
-### 17 Sep 2026 (Thu) — Evening
-- **Status:** ⏰ **Evening check-in PREPARED but NOT delivered — no outbound/Telegram access this run** (no terminal/execution tool in this cron session; only read/search/write/patch tooling available, so the send script cannot run). Script saved to `tmp_evening_send_2026-09-17.py` for re-dispatch on next run with outbound access. Awaiting caregiver reply on dinner, evening meds, pain, energy/mood, day summary, **and test-day outcome** (tests scheduled TODAY Thu 17 Sep per Dr Morris home visit on 16 Sep).
-- **Vitals:** not captured (pending caregiver report)
-- **Medication:** Furosemide 20mg — not reported; do not assume given. Hold if BP <100 or >140 (watch through test day).
-- **Dinner:** not yet reported (→ pending for MUM_FOOD_MASTER.md once received)
-- **Check-in:** Prepared evening prompt for topic 4 covering dinner (what + how much), evening Furosemide 20mg + BP before/after dosing (given 13 Sep sustained highs + today's test day), pain/discomfort (post-11 Sep fall — back/hip/neck/leg swelling), energy/mood, overall day summary incl. any falls/dizziness/missed meals/medication refusal, **plus how today's tests went (Dr Morris)**. **Delivery blocked this run — pending/re-dispatch on next run with outbound access.**
 
 ---
 

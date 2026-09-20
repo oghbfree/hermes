@@ -1,8 +1,8 @@
-# JOHN — ACHIEVEMENT-BONUS COMPENSATION FRAMEWORK (DRAFT v2.1 — REVISED)
+# JOHN — ACHIEVEMENT-BONUS COMPENSATION FRAMEWORK (TWO-PHASE MODEL v3)
 **Date:** 2026-09-13 | **Status:** PROPOSED — for discussion with Wife (Ebony) + John | **Subject:** Boateng John Baah (NSS ID GUG713425418325)
-**Decision:** KEEP John. Restructure off flat wages → lower base + per-activity/achievement pay. Buy data bundle(s) monthly. Simplify NSS framework but keep ALL protections. John posts alongside H for BOTH companies.
+**Decision:** KEEP John. Two-phase model: **Phase 1 = build-out (base GH¢500, GH¢2.50 listings) → Phase 2 = maintenance (base GH¢800, 4% sales, full digital presence).** After back-pay settled. Simplify NSS framework but keep ALL protections. John posts alongside H for BOTH companies.
 
-**v2.1 changes (H):** base = **GH¢500** · **NO percentage on H's own stock** · John adds **10% markup on Wife's items / any promoted item NOT H's stock** (that markup is John's share) · **John's own items: list 5 for free** · full contract cross-check run (see §X).
+**v3 (H confirmed):** base **GH¢500** after arrears settled · Phase 2 at recharge: base **GH¢800**, digital presence on ALL platforms, sales share **3%→4%** · listings GH¢2.50 (catalog/Jiji/FB) · **NO percentage on H's own stock** · John adds **10% markup on Wife's/non-H items** (split 7% H / 3% John at fixed price) · John's own items: 5 free · Jiji is John's lane.
 
 ---
 
@@ -15,38 +15,59 @@ Updates vs v1.0 (from H): data may need multiple bundles · Dome transport is pe
 
 ## 2. TIER A — GUARANTEED BASE (consistent work floor)
 
+**TWO-PHASE BASE (H confirmed):**
+
+| Phase | Base | When |
+|------|------|------|
+| **PHASE 1 (build-out)** | **GH¢500/mo** (GH¢125/wk) | Now — after arrears settled; while grinding through ~2,000 listings |
+| **PHASE 2 (maintenance)** | **GH¢800/mo** | Trigger: ~2,000 items listed / maintenance mode (see §7.5) |
+
 | Line | Amount | Cadence | Condition |
 |------|--------|---------|-----------|
-| Base | **GH¢500/mo** (GH¢125/wk) | weekly | Attendance + phone on WhatsApp/Status + daily check-in + posts run with H |
+| **Phase-1 base** | **GH¢500/mo** (GH¢125/wk) | weekly | Attendance + phone on WhatsApp/Status + daily check-in + posts run with H |
+| **Phase-2 base** | **GH¢800/mo** (GH¢200/wk) | weekly | maintenance mode reached (see §7.5 trigger) |
 | **Data bundles** | **GH¢60/mo (xGB bundle)** | monthly, recurring, **bought by H directly** | single monthly bundle; top up if it runs out |
 | Dome transport | **GH¢40 per Dome round-trip** (in + out) | refunded on trip, when in Dome | school visits / any Dome run; NOT a fixed monthly |
 
-**Consistent-work guarantee (H's side):** guaranteed ≥ **30 WhatsApp Catalog items/mo + 1 active school (Zion/Dome)** = steady work every week, no starvation gaps. Also note: **a ~250-student Dome school proposal is in hand** — becomes John's priority milestone.
+**Consistent-work guarantee (H's side):** guaranteed ≥ **30 WhatsApp Catalog items/mo + 1 active school ** = steady work every week, no starvation gaps. 
+
+**Back-pay note (settled):** H settles the outstanding arrears (~₵1,800 net) once. THEN the going-forward base drops to GH¢500 (Phase 1). The ₵500 is the NEW base after the ledger is cleared, not on top of it.
 
 **Dome note:** John is NOT always at Dome — base/transport only triggers when work is actually at Dome. Don't budget a standing Dome allowance; pay the trip when it happens.
 
 ---
 
-## 3. TIER B — PIECE-RATES (unlimited upside, paid weekly Friday)
+## 3. TIER B — PIECE-RATES (REWORKED v2.2 for a money-driven worker)
 
-| # | Deliverable | Rate | Notes |
-|----|-------------|------|-------|
-| 1 | WhatsApp Catalog item (photoed+listed+priced) | **GH¢5 / item** | his core lane; photo quality gate |
-| 2 | Jiji listing | **GH¢5 / listing** | — |
-| 3 | Facebook Marketplace listing (cross-post) | **GH¢5 / listing** | uses catalog photo to save effort |
-| 4 | Instagram post | **GH¢5 / post** | required, cross-posted to FB |
-| 5 | TikTok post | **GH¢5 / post** | required, cross-posted to IG + FB + LinkedIn |
-| 6 | Daily WhatsApp Status block (≥4/wk, photos+captions) | **GH¢40 / wk** | engagement bonus |
-| 7 | School demo / visit completed (documented: photo + report) | **GH¢75 / visit** | — |
-| 8 | School PARTNERSHIP signed + 8 paid **OR course started** | **GH¢400 first / GH¢250 each** | trigger now includes "course started" |
-| 9 | Course week completed CLEAN (equipment audit, zero damage) | **GH¢50 / week** | adjusted for sustainability (from ₵100) |
-| 10 | **Sourced / promoted item that sells** — tiers per §4 | **Per §4** | no markup on H's stock; non-H items +10% fixed, split 7% H / 3% John |
+**Key reality (from H):** John is strongly money-motivated — when paid per-unit (the WhatsApp catalog), he worked night and day. That means piece-rates will pull maximum effort BUT he will also game volume over quality. So piece-rates are now **capped per week, quality-gated, and verified** — he can earn a lot, but not by dumping junk.
 
-**Piece-rate rules:**
-- Paid **weekly Friday** for that week's logged+verified output (fast money = motivation).
-- Milestones (school signed / course started) paid within 5 days.
-- **Price alignment requirement:** WhatsApp Catalog price == Jiji price == Facebook Marketplace price. **Penalty if not aligned** (below). No discounting without H.
-- "If it's not in the tracker, it's not paid" — rewards logging discipline.
+**NEW: covers BOTH brands.** His content duty is for BOTH 2 Real AND Akoma Robotics. Piece-rates apply across both brands. **He has NO rights to any of it** — all content/accounts are Employer-owned (§7.4); he posts alongside H only, never on his own accounts.
+
+| # | Deliverable | Rate | Gate |
+|----|-------------|------|-----------|
+| 1 | WhatsApp Catalog item (photo+list+price) | **GH¢2.50 / item** | quality gate: clear photo + real price + aligned |
+| 2 | **Jiji listing (John's lane)** | **GH¢2.50 / listing** | quality gate + align to catalog price |
+| 3 | Facebook Marketplace listing (cross-post from catalog) | **GH¢2.50 / listing** | must be a DIFFERENT item than his catalog dup (no same-item spam) |
+| 4 | Instagram post (2 Real or Akoma) | **GH¢5 / post** | original photo, caption, hashtags |
+| 5 | TikTok post (2 Real or Akoma) | **GH¢5 / post** | original short video, cross-posted to IG+FB+LinkedIn |
+| 6 | WhatsApp Status block (≥4/wk, photo+caption) | **GH¢40 / wk** | 1 block per week; show in business group |
+| 7 | School demo / visit completed (photo + report) | **GH¢75 / visit** | verified: photo + dated report |
+| 8 | School PARTNERSHIP signed + 8 paid **OR course started** | **GH¢400 first / GH¢250 each** | signed + paid OR started |
+| 9 | Course week completed CLEAN (equipment audit, zero damage) | **GH¢50 / week** | audit passed |
+| 10 | Sourced / promoted item that sells — tiers per §4 | **Per §4** | no markup on H's stock; non-H +10% fixed, 7% H / 3% John |
+
+**ENCOURAGE VOLUME (no posting caps — H paid GH¢7,000 for Jiji and wants MORE output):**
+- **No weekly caps.** John earns **GH¢2.50** for every verified catalog item / Jiji listing / FB listing (posts GH¢5, status GH¢40/wk). More output = more pay, uncapped.
+- **Quality gate only** — every paid unit must pass H's review (clear photo + correct price + alignment). Failed quality = not paid. This stops *junk* without stopping *volume*.
+- **No duplication ON THE SAME PLATFORM** — but John may put the same item on catalog + Jiji + FB as SEPARATE earning listings (different channels = different reach = legitimate). Expected: each item = 3 earning-lines across catalog/Jiji/FB (3 × GH¢2.50 = GH¢7.50 per item fully cross-listed).
+- **Verification to H** — weekly Friday, John submits a linked list (URL/screenshot) of everything; H verifies, then pays. "If it's not verifiable, it's not paid."
+- **Transparency** — he posts on the COMPANY accounts (shared login H also has), never only his own, so H can audit live.
+
+**Tracking (answers H's question):**
+- **John does: WhatsApp Catalog + Jiji + FB + IG + TikTok + Status + schools** (+ Akoma content alongside H).
+- **John posts on H's shared accounts** (H holds the master login/passwords). Nothing is on John's personal accounts.
+- Weekly: John sends the link/screenshot evidence list; H verifies against tracker; tracker computes pay. H can spot-check live anytime via shared logins.
+- (The `john_tracker.py` ledger tallies units; no caps — volume encouraged.)
 
 ---
 
@@ -95,9 +116,9 @@ Updates vs v1.0 (from H): data may need multiple bundles · Dome transport is pe
 |------|--------|---------|---------|
 | WhatsApp Catalog (photo+list+price | John | Daily, live | Friday close-out |
 | Instagram + Facebook + TikTok posts | **John + H (alongside)** | 3+/wk each, cross-post | Friday |
-| Jiji listings + price alignment | H sets / John logs | As assigned | Tracker |
-| Dome retail operations | Wife/2Real | Daily | — |
-| Home-office/stock | Wife/2Real | Daily | Tracker |
+| Jiji listings + price alignment | H sets (H is 2 Real Op Lead) / John lists | As assigned | Tracker |
+| Dome retail operations | H (2 Real Op Lead) + Wife/2Real | Daily | — |
+| Home-office/stock | H (2 Real Op Lead) + Wife/2Real | Daily | Tracker |
 | Akoma school tours / Zion/Dome (250-student proposal) | John + H coordination | Weekly Mon 08:00 | Weekly check-in |
 | AI-assisted dashboards/scheduling | AI/Sat-nav | Continuous | Auto-daily summary to H |
 
@@ -108,9 +129,30 @@ Updates vs v1.0 (from H): data may need multiple bundles · Dome transport is pe
 ## 7. DIGITAL CHANNEL STRATEGY
 - WhatsApp Status + WhatsApp Catalog = best engagement → **John owns WhatsApp Catalog**.
 - **Instagram + Facebook + TikTok posts ALL required** (H's instruction). TikTok/IG content cross-posted to FB + LinkedIn.
-- **Jiji managed by H.**
+- **Jiji managed by JOHN** (his lane; GH¢2.50/listing).
 - **Dome retail = Wife/2Real.**
 - **Price alignment across WhatsApp Catalog vs Jiji vs Facebook Marketplace is a hard rule** — H audits, penalty on misalignment.
+
+---
+
+## 7.5 THE "2,000 ITEMS DONE — THEN WHAT?" PLAN (PHASE 2 CONFIRMED)
+
+**The trigger you've flagged:** ~2,000 items. Once everything's listed and the flood slows to maintenance (relisting/refreshing existing stock instead of new listings), the per-listing reward collapses. Reconfigure then.
+
+**Reconfigure trigger — Phase 2 begins when:** listing output drops to maintenance mode — e.g. <15 new listings/wk, or catalog ≥80% live, or 2 consecutive slow weeks.
+
+**PHASE 2 — MAINTENANCE (CONFIRMED terms):**
+| Line | Amount / Rule |
+|------|--------------|
+| **Base** | **GH¢800/mo** (up from Phase-1 GH¢500) |
+| **Digital presence** | **ON ALL PLATFORMS — minimum posting cadence INCREASES** (IG + FB + TikTok + LinkedIn + WhatsApp Status/Catalog at full mandate) |
+| **Refresher rate** | GH¢1.00 per relist/refresh/bump/price-change — keeps the Jiji engine alive cheaply |
+| **Sales share** | **4% to John** (up from Phase-1 3%) on non-H sale markups |
+| School/milestone stays | GH¢400/₵250 partnerships remain the big prizes |
+
+**Why it works:** Phase 1 pays the build-out grind (GH¢2.50 uncapped → up to ~₵1,900/mo). Phase 2 smooths to base GH¢800 + refreshers + 4% of non-H sales. **The 3%→4% step + the increased digital-presence mandate + base 500→800 are what compensate John for the lost listing volume.**
+
+**Honest end-game note:** when ~2,000 items are live, per-listing pay is gone by design — **don't keep paying GH¢2.50 for listings that no longer need creating.** Phase 2 is maintenance + sales-driven. **Flag to John now that Phase 2's upside depends on non-H sales flowing; if sales are slow after build-out, Phase 2 lands near GH¢800 base.** Set this expectation at signing.
 
 ---
 

@@ -150,6 +150,14 @@
 
 ---
 
+## 2026-09-20 (Sun)
+
+### 🌅 Morning Health Check
+- **Status:** No new acute symptoms reported (no chest pain, no dysphagia, no headache/dizziness). 🔔 Open: post-shock follow-up **booked Mon 31 Aug** with Dr. Addo Danquah (Renerve/tremor response + toe X-ray result) — **outcome still NOT documented, now 20 days past; confirm it was attended & log results.** 🔴 Blood-work labs (1,075 GH panel) still PENDING — requisition photo never reached Nita; re-send / call UGMC so samples are run (blood work stays 6+ yrs stale until drawn). 🟡 Watch: left arm tremor under Renerve (tablet taken daily 16–20 Sep — good adherence; confirm response at review); toenail fungus on Candid lotion (revisit oral antifungal). No fresh vitals reading since 24 Aug (**27 days**) — monitoring drifting. Food diary **current through 20 Sep** (chopped garlic + Renerve + Vit C B, 2 eggs B, sandwich/cake/ice cream L, fried rice D, CBD gummy) — meals logged daily, no gap. 🟢 Stable: vitals taken 24 Aug at doctor (normal); eyes/vision, no acute chest pain, pericarditis quiescent. ACTION: confirm 31 Aug review outcome (tremor/X-ray/labs), re-send lab photo / call UGMC, take a fresh BP/pulse reading (27 days since last), take Renerve as prescribed, keep logging meals.
+- **Check-in:** Asked H about breakfast, energy, symptoms
+
+---
+
 *New entries appended here by cron jobs and weekly reviews. See also `Vault/family/H/health/H_FOOD_MASTER.md` for detailed meal records and `Vault/family/H/H_PROFILE.md` for personal/business profile.*
 
 ---
