@@ -544,20 +544,17 @@
 ### Sat 19 Sep *(logged via chat)*
 | Meal | Items |
 |------|-------|
-| ☀️ Morning | Chopped garlic, 1 Renerve tablet |
+| ☀️ Morning | Chopped garlic, 1 Renerve tablet, Vitamin C |
 | ☀️ Breakfast | Spaghetti stew with fish |
-| ☀️ Lunch | None |
-| 🌙 Dinner | Bread bun with butter |
-| 💊 Supplement | Vitamin C |
+| 🥪 Later | 2 eggs, sandwich, cake and ice cream |
+| 🌙 Dinner | Fried rice |
+| 💊 Supplement | CBD gummy |
 
 ### Sun 20 Sep *(logged via chat)*
 | Meal | Items |
 |------|-------|
-| ☀️ Morning | Chopped garlic and water, 1 Renerve tablet, Vitamin C |
-| ☀️ Breakfast | 2 eggs |
-| ☀️ Lunch | Sandwich, cake and ice cream |
-| 🌙 Dinner | Fried rice |
-| 💊 Supplement | CBD gummy |
+| ☀️ Morning | Vitamin C, breakfast bar, coconut water |
+| 🌙 Dinner | Chicken with red cabbage, onion and mayo in a brown bun; green plantain with kontomire |
 
 ---
 

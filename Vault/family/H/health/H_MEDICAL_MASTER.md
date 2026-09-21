@@ -162,6 +162,17 @@
 
 ---
 
+### 📊 Weekly Review — Sep 14–20, 2026
+**Generated:** Sun 20 Sep 2026
+
+🔴 **Red Flags:** The Mon 31 Aug follow-up with Dr. Addo Danquah — **outcome still NOT documented, now 20 days past** (tremor response to Renerve + toe X-ray result unrecorded — blocks onward care). Blood-work labs (1,075 GH panel) **still not run since 24 Aug** — requisition photo never reached Nita; blood work remains 6+ yrs stale until samples collected. Both structural items show **zero resolution for a fourth week running** — documentation stall is now the dominant, entrenched risk.
+🟡 **Watch:** No fresh vitals reading since 24 Aug (**27 days**) — monitoring drifting into stale territory again. Toenail fungus on topical Candid lotion only — oral antifungal still not revisited. Tremor response to Renerve unconfirmed pending review log, though medication adherence is now strong (next line). Minor: late-night cake/ice cream (Sun 13, 18–20 Sep) + Desperados (13 Sep) — watch sugar/reflux given achalasia.
+🟢 **Good:** **Food diary COMPLETE — logged 7 of 7 days (14–20 Sep)**, the best sustained run on record (vs collapsed 0/7 in early Aug). **Renerve Plus taken DAILY 16–20 Sep** — clear adherence turnaround from last week (last logged 5 Sep). No acute symptoms all week (no chest pain, no dysphagia episodes, no headache/dizziness). Daily Vit C + garlic routine consistent; fresh salad added 14 Sep brunch (lettuce/cucumber/onion/carrot/tuna). Stable: eyes/vision, no acute chest pain, pericarditis quiescent.
+📈 **Trends:** Food logging now flawless at **7/7** (was 6/7 last week, 0/7 early Aug) — 🔴→🟢 recovery fully sustained and improving. **Renerve adherence flipped to daily (16–20 Sep)** — the one genuinely new positive this week. But the two structural follow-ups remain frozen with mounting day counts: 31 Aug review outcome 13→20 days undocumented (🔴 regressing) and labs unchanged (🔴); vitals freshness 20→27 days (🔴). Care pipeline still gated entirely on recording the 31 Aug review and running the blood panel.
+💡 **Top 3 Actions This Week:** 1. Confirm & log the Mon 31 Aug follow-up outcome with Dr. Addo Danquah (tremor response + toe X-ray + labs) — it is **20 days undocumented** and blocks every onward step. 2. Re-send the lab requisition photo / call UGMC so the 1,075 GH panel (LFT, HbA1c, RFT, FBC, urine, lipids, PSA) actually runs. 3. Take a fresh BP/pulse reading (27 days since last) and ask about an oral antifungal for the toenails at the next contact; keep the strong logging + Renerve streak going.
+
+---
+
 ### 📊 Weekly Review — Aug 10–16, 2026
 **Generated:** Sun 17 Aug 2026
 

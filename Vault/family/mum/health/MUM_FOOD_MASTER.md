@@ -83,8 +83,9 @@
 | 17 Sep | Obrayo (brunch, after labs) | — (light day) | Banku with pepper + GRILLED TILAPIA 🌟 (fresh-fish swap) |
 | 18 Sep | Baked beans + scrambled eggs | Boiled yam + palm nut soup (early supper 4:10pm) | — (light; warm milk) |
 | 19 Sep | Obrayo · tea · sobolo | — | Baked beans with baked potatoes (4pm) |
+| 20 Sep | Corn dough porridge · sobolo | Fried yam + pepper + fish (with Aunty Felicia) · boiled rice + beans | — (light evening) |
 
-> **Backfill complete (19 Sep 26):** Meals for 5 Aug–19 Sep (6 Sep: no report). Labs integrated (Na 161 🚩 fluids, K 5.48 ⚠️). **Recipe traffic-lights in force** — green juices daily, high-K red list out. See `LABS_17SEP_AND_RECIPE_PLAN.md`.
+> **Backfill complete (20 Sep 26):** Meals for 5 Aug–20 Sep (6 Sep: no report). 🧡 **20 Sep social day** — Felicia brought fried yam, they ate together; son visited. Labs integrated (Na 161 🚩 fluids, K 5.48 ⚠️); recipe traffic-lights in force (`LABS_17SEP_AND_RECIPE_PLAN.md`).
 
 ---
 

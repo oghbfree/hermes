@@ -20,16 +20,17 @@ linked_workflow: FARM_WORKFLOW.md
 | K-01 | Kanzoni shop | Langstroth | Active | Seen 2026-06-15 | 2026-06-15 | — | Strong, 8 frames brood |
 | K-02 | Kanzoni shop | Top-bar | Active | Not seen | 2026-06-15 | — | Needs inspection |
 | K-03 | Kanzoni shop | Langstroth | Weak | — | 2026-06-01 | — | Low stores, feed needed |
-| F-01 | Farm — under small mango | — | **Populated** | — | 2026-09-08 | 🟡 Needs GPS | Brood present since Aug; was already populated |
-| F-02 | Farm — under small mango | — | **Populated** | — | 2026-09-08 | 🟡 Needs GPS | Bees returned — absconded Aug, re-entered |
-| F-03 | Farm — under big mango | — | **Populated** | — | 2026-09-08 | 🟡 Needs GPS | Bees returned after vacating; moved from open space to shade |
-| F-04 | Farm — under big mango | — | **Populated** | — | 2026-09-08 | 🟡 Needs GPS | Bees entered ~6/9/26 ✅ |
-| F-05 | Farm — in the bush (new spot) | — | **Populated** | — | 2026-09-08 | 🟡 Needs GPS | Newly placed & populated ✅ |
-| F-06 | Farm field | — | Empty — baited & set | — | 2026-09-08 | 🟡 Needs GPS | On field, awaiting swarm |
-| F-07 | Farm field | — | Empty — baited & set | — | 2026-09-08 | 🟡 Needs GPS | On field, awaiting swarm |
-| F-08 | Farm — under big coconut trees (away from waterlogged area) | — | **POPULATED** ✅ 15/9 | — | 2026-09-15 | 🟡 Needs GPS | Baited 14/9, bees entered 15/9 — 1 day! |
-| F-09 | Farm — under small coconut tree near big mango | — | **Set — baited, awaiting swarm** | — | 2026-09-14 | 🟡 Needs GPS | Set by Habib 14/9/26 |
-| F-10 | Farm room (in storage) | — | Empty — spare | — | — | — | 1 hive remaining in room as spare |
+| F-01 | Farm — under small mango | — | **Populated** | — | 2026-09-08 | `5.401542, -0.532559` | Brood present since Aug; was already populated |
+| F-02 | Farm — under small mango | — | **Populated** | — | 2026-09-08 | `5.401542, -0.532559` | Bees returned — absconded Aug, re-entered |
+| F-03 | Farm — under big mango | — | **Populated** | — | 2026-09-08 | `5.401710, -0.532541` | Bees returned after vacating; moved from open space to shade |
+| F-04 | Farm — under big mango | — | **Populated** | — | 2026-09-08 | `5.401545, -0.532401` | Bees entered ~6/9/26 ✅ |
+| F-05 | Farm — in the bush (new spot) | — | **Populated** | — | 2026-09-08 | `5.401545, -0.532401` | Newly placed & populated ✅ |
+| F-06 | Farm — under orange & coconut (GPS 20/9) | — | Empty — baited & set | — | 2026-09-08 | `5.401875, -0.532240` | On field, awaiting swarm |
+| F-07 | Farm — small coconut on mango–plantain line (GPS 20/9) | — | Empty — baited & set | — | 2026-09-08 | `5.402058, -0.531751` | On field, awaiting swarm |
+| F-08 | Farm — near end of mango line (GPS 20/9; set 14/9 under big coconuts) | — | **POPULATED** ✅ 15/9 | — | 2026-09-15 | `5.401995, -0.531628` | Baited 14/9, bees entered 15/9 — 1 day! |
+| F-09 | Farm — under big mango (GPS 20/9; set 14/9 near small coconut/big mango) | — | **Set — baited, awaiting swarm** | — | 2026-09-14 | `5.401775, -0.531677` | Set by Habib 14/9/26 |
+| F-10 | Farm — under big mango (GPS 20/9) | — | Empty — spare | — | — | — | 1 hive remaining in room as spare |
+| F-11 | Farm — GPS 5.402097, -0.532250 (bush/north area) | — | **Set out — status TBC** | — | 2026-09-20 | `5.402097, -0.532250` | Spotted in GPS export 20/9 — new placement? |
 | K-NEW1 | From Kwasi (Saltpond, colonised 4+ mo) | Top-bar ×20 | **PURCHASE CONFIRMED** — with stand — **PICKUP POSTPONED to next week** | — | — | — | GHS 1,000. Kanzoni to drive to Winneba for pickup → farm. Stand price TBC |
 | K-NEW2 | From Kwasi (Saltpond, colonised 4+ mo) | Top-bar ×20 | **PURCHASE CONFIRMED** — with stand | — | — | — | GHS 1,000. Kanzoni to drive to Winneba for pickup → farm. Stand price TBC |
 | K-NEW3 | From Kwasi (Saltpond, colonised 4+ mo) | Top-bar ×20 | **PURCHASE CONFIRMED** — with stand | — | — | — | GHS 1,000. Kanzoni to drive to Winneba for pickup → farm. Stand price TBC |
@@ -92,6 +93,19 @@ linked_workflow: FARM_WORKFLOW.md
 ---
 
 ## Inspection Log
+
+### 2026-09-20 (Sunday visit) — GPS MAPPED + SPRAY CODED + DRINKERS FILLED
+
+**Done**:
+- **GPS captured all hives** (F-01–F-11) — saved to `land/gps-survey-2026-09-20.geojson` + written into registry
+- **Hive codes spray painted** on all hives (blue paint)
+- **Drinkers filled up**
+- **Absconded hives (F-06, F-07, F-09)** — checked for ants/spider webs & anything that could push bees away; **Habib to clean**
+
+**Fleet notes from GPS**: F-10 appears set out under big mango (was room spare); F-11 exists as new placement. Status to confirm.
+
+---
+
 
 ### 2026-09-15 — F-08 POPULATED (1 day after baiting!)
 

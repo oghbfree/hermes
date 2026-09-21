@@ -61,6 +61,9 @@ linked_workflow: FARM_WORKFLOW.md
 | 2026-09-14 | 4× Gramazole weedicide @ GHS 75 — PENDING, money to be sent 16/9 | Habib (to buy) | Spraying weeded areas, vary work | 300 (pending)
 | 2026-09-14 | 10 bags chicken manure delivered | Kanzoni | For coconut circles / beds — cost TBC | — |
 | 2026-09-15 | Sugar cubes 960g (bee feeding) | — | Feeding syrup/energy for hives — Sunday visit prep | 37 |
+| 2026-09-20 | Habib — cash payment (Sunday visit) | Habib | Pocket money / task cash 20/9 | 40 |
+| 2026-09-20 | Yaw — weeding balance payment | Yaw | GHS 950 outstanding on 1,350 job; this is part-payment | 240 |
+| 2026-09-20 | Ahinful — Lececo USB powerbank with light (gift/in-kind) | Ahinful | No light at farm — practical kit for labour | — (in-kind) |
 
 ---
 

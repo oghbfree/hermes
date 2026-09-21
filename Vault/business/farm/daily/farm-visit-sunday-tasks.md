@@ -44,3 +44,30 @@ created: 2026-09-15 (visit: Sunday, ~20/9/26)
 
 ---
 *Sources: H message 15/9/26. Update after Sunday visit.*
+
+---
+
+# ✅ OUTCOMES — Sunday 20/9/26 (filled after visit)
+
+| Task | Outcome |
+|------|---------|
+| GPS hives | ✅ DONE — all mapped, map built |
+| Spray codes | ✅ DONE — all hives painted (blue) |
+| Drinkers | ✅ Filled |
+| Absconded hives | ✅ Checked (ants/spiders) — Habib to clean F-06/07/09 |
+| **Carpenter doors** | ❌ **Door frame was the WRONG ONE** — refit needed |
+| **Freeman frame** | ✅ Taken to farm — **waiting at farm** until Kwasi hive purchase affordable; **Kanzoni will take it along** on the Winneba pickup trip |
+| **Water pump** | ⚠️ Found on site but **NOT STARTING** — needs mechanic/diagnosis |
+| Isreal (family man) | ❌ Did not come — pay talk pending |
+| Ben | ❌ Did not come |
+| Michael (solar) | ❌ Did not come |
+| Payments | ✅ Habib GHS 40 · Yaw GHS 240 (640/1,350) · Ahinful powerbank |
+
+## Carry-Over Tasks (next visit / next week)
+- [ ] **Kwasi trip (next week)**: broken hive for repair + 3 colonised hives + Freeman frame goes along with Kanzoni — ONE Winneba run
+- [ ] **Carpenter**: correct door frame — confirm right frame sourced before next visit
+- [ ] **Water pump**: not starting — get mechanic quote / diagnose (petrol? carb? fuel line?)
+- [ ] **Isreal**: reschedule viewing + pay talk
+- [ ] **Michael solar**: reschedule — solar would solve the no-light issue for live-in worker
+- [ ] **Ben**: reschedule
+- [ ] Habib: clean F-06/07/09 (ants/spiders)

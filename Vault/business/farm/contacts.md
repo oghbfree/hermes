@@ -14,7 +14,7 @@ updated: 2026-08-17
 | **Kwasi** | Bee trainer / hive constructor & maintenance | — | +233 XX XXXXXXX | Yes | **Exclusive hive partner (8/9/26)**: empty hives GHS 600 (with queen excluder + front gate, uniform size), colonised GHS 1,000. Located Winneba. Fee: GHS 200–300/day + transport for services. |
 | **Habib** | Farm caretaker (on-site) | **GHS 750/month** | +233 55 845 7027 | Yes | Elder Muslim from mum's village. Samsung S7. No light/electricity at farm. |
 | **Kanzoni** | Apiary operator + transport | **GHS 300–400/trip** | +233 24 895 7794 | Yes | Uses his pickup (H has no car). Tuesday check-ins. Rate increases for multi-day/heavy work. |
-| **Yaw** | Weeding contractor | GHS 1,350 total (remaining 1.5 acres) | — | — | GHS 400 paid, GHS 950 on completion. Starts Tue. |
+| **Yaw** | Weeding contractor | GHS 1,350 total (remaining 1.5 acres) | — | — | Paid: 400 (advance) + 240 (20/9) = 640. **Balance GHS 710 on completion.** |
 | **Kobby** | Farm labour (casual) | GHS 50/day | — | — | Helped with hive clean/bait 30/8 |
 | **Ahinful** | Farm labour (casual) | GHS 50/day | — | — | Helped with hive clean/bait 30/8 |
 

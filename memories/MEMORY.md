@@ -408,6 +408,14 @@ _facts below are limited to verified findings. Last refreshed: 2026-09-19._
 - **Pending decisions:** firm review date (~early Oct) and whether salary step **2,000→2,500** moves with extension or is the passing reward.
 - Track in `Vault/business/2real/Nursing/STEPHANIE_TRIAL_REVIEW.md` (to be created) + `NURSING_JOB_ROLE_MASTER.md`.
 
+## 2026-09-20 Consolidated
+- **Security STABLE/LOW (big improvement):** gateway healthy (PID 15220, connected since 19/09 22:38), live Telegram token VALID @Ogaitchhermesbot, Vercel MCP 401 RESOLVED (OAuth refresh), 0 backup .env, no InvalidToken today. Carried FAIL: stale home-root `~/.hermes/.env` revoked token persists (retire it) + 26 silent jobs + .env-reader one-offs.
+- **Mum care delivery BLOCKED day 8** (topic-4 token/connector; rotation pending). Last: 19 Sep BP 133/70 ✅; swelling REDUCED 5 straight days (15–19 Sep); 6-min walk; bedroom-solitude boundary; 2nd evening tantrum (laundry). Labs: eGFR 68 Stage 2, HbA1c 4.0, Na 161.2 HIGH (fluids+low salt), K 5.48 (high-K off), D-Dimer 0.63 (Dr Morris).
+- **Farm hive GPS SURVEY COMPLETE 20/09** — F1–F11 located (pairs F1F2/F4F5/F9F10), map+geojson. Resolves pending GPS task.
+- **Content week 09-21 GENERATED** (first current-week batch in weeks); images credit-blocked (sunday-content-engine 402, 3-run streak 6/13/20 Sep → add credits/throttle).
+- **Cron SLA 90.9% today** (28 outputs, 1 FAIL). 11 transient delivery warnings (DNS/ConnectError) — Telegram connected now.
+- H 31-Aug follow-up undocumented (20d) + labs pending; Dad blocked (WhatsApp down since 14 Sep). Backup Sunday-only, due ~23:03.
+
 ## Confirmed Operational Flags
 - **Stephanie trial extended 1 month (08 Sep, performance-based)** — see above.
 - 2Real agent system fully operational — stable cron loops, all syncs successful.

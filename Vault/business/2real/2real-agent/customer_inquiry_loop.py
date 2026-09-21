@@ -215,11 +215,20 @@ def main():
     
     print(f"📊 Processing {len(entries)} total interaction entries\n")
     
+    # Load resolved lead hashes so personally-answered leads are skipped
+    resolved_hashes = set()
+    for l in leads:
+        if l.get("status") == "resolved":
+            resolved_hashes.add(f"{l.get('timestamp','')}|{l.get('customer_msg','')}")
+
     # Process all entries (check for items needing attention)
     results = []
     new_leads = []
     
     for entry in entries:
+        entry_hash = f"{entry.get('timestamp','')}|{entry.get('customer','')}"
+        if entry_hash in resolved_hashes:
+            continue  # H already answered — closed, don't re-flag
         result = process_inquiry(entry, inventory, leads)
         results.append(result)
         
