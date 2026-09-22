@@ -1,5 +1,10 @@
 {
   "total_gap": 332,
-  "listed": 0,
-  "history": []
+  "listed": 330,
+  "history": [
+    {
+      "date": "2026-09-21",
+      "listed": 330
+    }
+  ]
 }

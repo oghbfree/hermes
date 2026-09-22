@@ -2,7 +2,19 @@
 
 Durable facts from periodic daily-processing runs.
 
-_facts below are limited to verified findings. Last refreshed: 2026-09-19._
+_facts below are limited to verified findings. Last refreshed: 2026-09-21._
+
+## 2026-09-21 Daily Processing Run
+- 🟢 **Integrated-daily-synthesis 21/09** — `INTEGRATED_INSIGHTS_2026-09-21.md` (Vault/insights + memories/insights synced) + `Vault/Daily/2026-09-21.md` written. Cron SLA ~78% (32 outputs, ~28 job IDs) — generation healthy, delivery-limited. **Dad check-in FAILED 21/09 (WhatsApp bridge `whatsapp_not_paired`, down since 14 Sep; QR re-pair needed).** No SILENT.
+- 🩺👵 **Mum: care check-in delivery BLOCKED day 9 (~since 13 Sep)** — no 21/09 caregiver reply (topic-4 bot token/connector; rotation still pending in tasks-queue). Last data 20 Sep BP 138/72, Pulse 82, Temp 36.6 (near-threshold acceptable) · **swelling REDUCED 6 consecutive days (15–20 Sep)** · 🧡 full social day 20 Sep (Aunty Felicia visit + shared fried-yam meal + son visit) · 🚶 6-min compound walk (19 Sep) · 🗣️ bedroom-solitude boundary (she initiates contact). Labs stable: eGFR 68 Stage2 ✅, Na 161.2 🚩 (fluids+low-salt, recheck ~24 Sep), K 5.48 ⚠️, D-Dimer 0.63 🚩 (Dr Morris). ⚠️ 2 evening emotional episodes (9, 19 Sep; offer–don't-do rule).
+- 🩺 **H: 31 Aug post-shock follow-up STILL undocumented (now 21 days)**; labs 1,075 GH PENDING (photo never reached Nita); no vitals 28 days (since 24 Aug). **Food diary current through 20 Sep (no gap; best run on record); Renerve Plus daily 16–19 Sep** (20 Sep not logged). No acute symptoms.
+- 👨 **Dad: WhatsApp check-in FAILED 21/09 (bridge `whatsapp_not_paired`, down since 14 Sep)** — QR re-pair needed. Diabetic-foot + aneurysm scan unconfirmed.
+- 🐝 **Farm: GPS SURVEY COMPLETE (F1–F11 mapped, pairs F1F2/F4F5/F9F10; map + geojson)** + spray codes painted blue + Freeman frame at farm. Carry-over: **water pump NOT starting** (needs mechanic), carpenter **door frame WRONG ONE** (refit), Kwasi Winneba run next week (broken hive + 3 colonised + Freeman frame, ONE trip), Isreal/Michael/Ben reschedules, Habib clean F-06/07/09.
+- 💼 **2Real:** 20–21/09 sales NOT logged (last 19/09 GHS 40). Sept-to-date ~30,823. **🎄 Christmas list: 330/332 listed (2 SHORT)**. Muller owes 110, Stephen 50 by 25/9. 643 SLA (stale Aug), 3 hook-misses, 18 OOS, laminator fix overdue. Leads resolved 21/09 (H replied personally).
+- 📋 **Recruitment:** 0 new since 20/09 (50 nurses / 12 construction / 3 facilitators / 2 finlit = 67). Charlotte Nortey top. Google OAuth refreshed 21/09.
+- 📊 **Content:** week 09-21 text staged (first current-week in weeks); **sunday-content-engine HTTP 402 — image-gen credit ceiling, 4-run streak** (add credits/throttle). Week 09-14 never generated; analytics 0.
+- 🔒 **Security 21/09 STABLE/LOW (PASS)** — gateway HEALTHY (polling since 19/09 22:38, logs fresh 07:04), **live token VALID** (getMe ok @Ogaitchhermesbot), 0 backup .env, ACLs PASS. Carried: **dual-`.env` divergence** (stale home-root ~/.hermes/.env revoked 404, retire), 26/56 silent (local/origin), .env-reader scripts. Vercel MCP 401 auto-resolved. Nous key expiry 07:21 (auto-refresh, monitor).
+- 🖥️ **Backup (20/09 23:35) HEALTHY** — 2.4 GB, 38,679 files; state.db (332 MB) + kanban.db byte-for-byte; 0 secrets stripped; **0 errors, restore-ready** (left: superseded tarball `backup_20260920_230953` to remove). Gateway online polling; WhatsApp down (14 Sep).
 
 ## 2026-09-19 Daily Processing Run
 - 🟢 **Integrated-daily-synthesis 19/09** — `INTEGRATED_INSIGHTS_2026-09-19.md` (Vault/insights + both memories/insights synced ×3) + `Vault/Daily/2026-09-19.md` written. **No Sep 18 synthesis was produced (job disk last ran 17 Sep 22:12) — gap.** 118 stale session dumps archived.

@@ -4,7 +4,7 @@
 
 ### Totals
 
-- **67 total applicants** (updated 2026-09-20)
+- **67 total applicants** (updated 2026-09-21)
 - **Nurses: 50** (NMC + 3–5yrs experience: 7/50, top pick: Charlotte Nortey — NMC + car + licence)
 - **Facilitators: 3** (Eyiah #1, Patrick Bediako #2, Kwaku #3)
 - **Construction: 12** (Awal #1, Kwame #2, Derrick #3, Amane John #4, Amuzu #5, Woedzagbagba #6, Eric #7)
@@ -36,12 +36,13 @@
 **Facilitator #1: Eyiah Michael Osardu**
 - BSc IT | mBot exp | Coding 5/5 | Mon-Fri avail
 
-### Latest Pull (2026-09-20)
+### Latest Pull (2026-09-21)
 
-**1 new application** since last reported pull (2026-09-17): **Linda Dagbo** (Nurse) — 3–5 yrs geriatric + evidence + live-in, but **not NMC registered** (below threshold). Token refreshed 2026-09-20. Top candidates unchanged.
+**0 new applications** since last reported pull (2026-09-20). Token refreshed 2026-09-21. Pipeline totals unchanged at 67. Top candidates unchanged.
 
 ### Detailed Reports
 
+- [[jobs/APPLICATIONS-REPORT-2026-09-21.md]] (no new apps; token refreshed)
 - [[jobs/APPLICATIONS-REPORT-2026-09-20.md]] (+1 nurse, below NMC threshold; token refreshed)
 - [[jobs/APPLICATIONS-REPORT-2026-09-17.md]] (no new apps; token refreshed)
 - [[jobs/APPLICATIONS-REPORT-2026-09-16.md]] (no new apps; token refreshed)

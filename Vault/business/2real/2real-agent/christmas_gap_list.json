@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-18T17:27:10.348120",
-  "total_gap": 332,
+  "generated": "2026-09-21T07:02:21.564395",
+  "total_gap": 330,
   "items": [
     {
       "name": "Ignco Tile Cutter 1100mm",
@@ -21,8 +21,8 @@
       "margin": 1600,
       "gift": false,
       "priority": 1600,
-      "best_partial_match": "Master Lock Select 5423EURD Wall-Mounted Push Butt",
-      "partial_score": 0.17
+      "best_partial_match": "Blyss Urban 4.3\" Wired 2-Wire Video Door Intercom ",
+      "partial_score": 0.5
     },
     {
       "name": "Bosch GBM 13-2 RE 240v Rotary drill 13mm keyless chuck",
@@ -208,7 +208,7 @@
       "margin": 500,
       "gift": false,
       "priority": 500,
-      "best_partial_match": "Black and Decker Heavy Duty Circular Saw 960W",
+      "best_partial_match": "Direct Power Circular Saw 1200w",
       "partial_score": 0.5
     },
     {
@@ -285,7 +285,7 @@
       "margin": 450,
       "gift": false,
       "priority": 450,
-      "best_partial_match": "Stanley Rechargeable LED Pocket / Utility Light Mo",
+      "best_partial_match": "Stihl 2-in-1 Easy File Chainsaw Chain Sharpener",
       "partial_score": 0.33
     },
     {
@@ -395,7 +395,7 @@
       "margin": 388,
       "gift": false,
       "priority": 388,
-      "best_partial_match": "Parkside 20V Angle Grinder PWSA20-Li C3 W 2.0Ah Ba",
+      "best_partial_match": "DeWalt 14.4 Volt Cordless Drill/Driver Kit One Bat",
       "partial_score": 0.29
     },
     {
@@ -463,17 +463,6 @@
       "priority": 360,
       "best_partial_match": "Parkside Random Orbital Sander",
       "partial_score": 0.29
-    },
-    {
-      "name": "Video Door Intercom None",
-      "price": 1200.0,
-      "cost": 0.0,
-      "stock": 1,
-      "margin": 360,
-      "gift": false,
-      "priority": 360,
-      "best_partial_match": "UNION (Assa Abloy) Cable Window Door Restrictor",
-      "partial_score": 0.25
     },
     {
       "name": "Parkside Multifunction Angle Gauge",
@@ -923,7 +912,7 @@
       "margin": 210,
       "gift": false,
       "priority": 210,
-      "best_partial_match": "Gorilla Waterproof Coat and Seal 946ml - Brand New",
+      "best_partial_match": "Gorilla Waterproof Patch and Seal Tape Black 3m",
       "partial_score": 0.57
     },
     {
@@ -978,7 +967,7 @@
       "margin": 200,
       "gift": false,
       "priority": 200,
-      "best_partial_match": "Goodyear 12V 7Amp Smart Battery Charger",
+      "best_partial_match": "Powersource 500w Compact Inverter With Usb 500w 12",
       "partial_score": 0.25
     },
     {
@@ -1000,8 +989,8 @@
       "margin": 200,
       "gift": false,
       "priority": 200,
-      "best_partial_match": "Heavy Duty Electric Nail and Staple Gun",
-      "partial_score": 0.33
+      "best_partial_match": "STANLEY Heavy Duty Steel Staple Gun Type G / 140 S",
+      "partial_score": 0.5
     },
     {
       "name": "Stanley Staple Pins Staples 1 Tra 705 5T 8mm G 5000",
@@ -1154,7 +1143,7 @@
       "margin": 170,
       "gift": false,
       "priority": 170,
-      "best_partial_match": "Stanley Tylon 8m/26ft Tape Measure",
+      "best_partial_match": "Stanley 8m/26 Ft. Basic Tape Measure",
       "partial_score": 0.5
     },
     {
@@ -1242,7 +1231,7 @@
       "margin": 126,
       "gift": false,
       "priority": 151,
-      "best_partial_match": "Petrol Grass Cutter",
+      "best_partial_match": "Ingco Pinch Crow Wrecking Bar 36 Inches",
       "partial_score": 0.25
     },
     {
@@ -1264,7 +1253,7 @@
       "margin": 150,
       "gift": false,
       "priority": 150,
-      "best_partial_match": "Uni-Com Wire-Free Door Chime Set",
+      "best_partial_match": "Blyss Urban 4.3\" Wired 2-Wire Video Door Intercom ",
       "partial_score": 0.33
     },
     {
@@ -1906,17 +1895,6 @@
       "partial_score": 0.17
     },
     {
-      "name": "Irwin Drill Bit X5 Cordless Multi 5-10mm",
-      "price": 280.0,
-      "cost": 0.0,
-      "stock": 1,
-      "margin": 84,
-      "gift": false,
-      "priority": 84,
-      "best_partial_match": "Irwin Wood Auger Drill Bit 16 X 400mm",
-      "partial_score": 0.43
-    },
-    {
       "name": "Stanley Knife Instant Change Utility 10-788",
       "price": 280.0,
       "cost": 0.0,
@@ -1968,7 +1946,7 @@
       "margin": 80,
       "gift": false,
       "priority": 80,
-      "best_partial_match": "Bond It Wp100 LMN Silicone, a Premium Neutral Cure",
+      "best_partial_match": "Natural Shea Butter Soap",
       "partial_score": 0.14
     },
     {
@@ -2001,7 +1979,7 @@
       "margin": 80,
       "gift": false,
       "priority": 80,
-      "best_partial_match": "Sudocrem Antiseptic Healing Cream",
+      "best_partial_match": "Bond It Wp100 LMN Silicone, a Premium Neutral Cure",
       "partial_score": 0.2
     },
     {
@@ -2221,7 +2199,7 @@
       "margin": 66,
       "gift": false,
       "priority": 66,
-      "best_partial_match": "Stanley Diamond Disc 2 Piece Set 115mm",
+      "best_partial_match": "Makita D61123 115mm Angle Grinder Cutting Disc",
       "partial_score": 0.5
     },
     {
@@ -2243,7 +2221,7 @@
       "margin": 63,
       "gift": false,
       "priority": 63,
-      "best_partial_match": "Master Lock Select 5423EURD Wall-Mounted Push Butt",
+      "best_partial_match": "Master Lock 1 Long Padlock 1 Key 50mm",
       "partial_score": 0.4
     },
     {
@@ -2265,7 +2243,7 @@
       "margin": 63,
       "gift": false,
       "priority": 63,
-      "best_partial_match": "Stanley Diamond Disc 2 Piece Set 115mm",
+      "best_partial_match": "Makita D61123 115mm Angle Grinder Cutting Disc",
       "partial_score": 0.43
     },
     {
@@ -2276,7 +2254,7 @@
       "margin": 60,
       "gift": false,
       "priority": 60,
-      "best_partial_match": "Master Lock Select 5423EURD Wall-Mounted Push Butt",
+      "best_partial_match": "Blyss Urban 4.3\" Wired 2-Wire Video Door Intercom ",
       "partial_score": 0.2
     },
     {
@@ -2353,7 +2331,7 @@
       "margin": 57,
       "gift": false,
       "priority": 57,
-      "best_partial_match": "Angle Grinder Diamond Cutting Discs 115mm From Uk ",
+      "best_partial_match": "Stanley Long Nose Cutting Pliers 150mm",
       "partial_score": 0.33
     },
     {
@@ -2474,7 +2452,7 @@
       "margin": 50,
       "gift": false,
       "priority": 50,
-      "best_partial_match": "Original Gillette Mach3 Men's Razor Handle With Tw",
+      "best_partial_match": "Freud Circular Saw 2 in One Blade Pack",
       "partial_score": 0.33
     },
     {
@@ -2793,7 +2771,7 @@
       "margin": 26,
       "gift": false,
       "priority": 31,
-      "best_partial_match": "Magnum Plus Mastiff Chain Lock 1.2M",
+      "best_partial_match": "Luceco Solar Decorative Era 7W Slim Brick Light W/",
       "partial_score": 0.33
     },
     {
@@ -2848,7 +2826,7 @@
       "margin": 30,
       "gift": false,
       "priority": 30,
-      "best_partial_match": "UNION (Assa Abloy) Cable Window Door Restrictor",
+      "best_partial_match": "Blyss Urban 4.3\" Wired 2-Wire Video Door Intercom ",
       "partial_score": 0.33
     },
     {
@@ -3024,7 +3002,7 @@
       "margin": 24,
       "gift": false,
       "priority": 29,
-      "best_partial_match": "Draper 220 Mm Curved Jaw Self Grip Pliers - Brand ",
+      "best_partial_match": "Stanley 125mm 80 Grit Quick Fit ROS Sanding Discs ",
       "partial_score": 0.14
     },
     {
@@ -3464,7 +3442,7 @@
       "margin": 22,
       "gift": false,
       "priority": 22,
-      "best_partial_match": "Black and Decker Heavy Duty Circular Saw 960W",
+      "best_partial_match": "Philips QP6541 15 Oneblade Pro 360 Face + Body Bla",
       "partial_score": 0.33
     },
     {
@@ -3530,7 +3508,7 @@
       "margin": 20,
       "gift": false,
       "priority": 20,
-      "best_partial_match": "UNION (Assa Abloy) Cable Window Door Restrictor",
+      "best_partial_match": "Blyss Urban 4.3\" Wired 2-Wire Video Door Intercom ",
       "partial_score": 0.33
     },
     {
@@ -3596,7 +3574,7 @@
       "margin": 10,
       "gift": false,
       "priority": 12,
-      "best_partial_match": "UNION (Assa Abloy) Cable Window Door Restrictor",
+      "best_partial_match": "Bose Wave Connect Kit With Power Adapter and Cable",
       "partial_score": 0.33
     },
     {
