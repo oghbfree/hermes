@@ -48,3 +48,15 @@ linked_workflow: FARM_WORKFLOW.md
 ---
 
 *Migrated 2026-08-12 from legacy `Vault/business/2real/Farming/farm/harvests.md`.*
+
+## 2026-09-20 — Coconut Harvest (First Commercial Sale)
+
+| Item | Detail |
+|------|--------|
+| Harvested | ~60 coconuts (plenty more standing on farm) |
+| Transport | To Dome with Kanzoni + Ahinful |
+| Farm-gate price | GHS 2/coconut |
+| Delivered price | GHS 3.50/coconut |
+| **Attempted sell price** | **GHS 5 to coconut sellers · GHS 7 end-user (undercutting market by GHS 1)** |
+| **Sold** | 2 coconuts end-user @ GHS 7 = **GHS 14** |
+| Prep | Sammy prepared/prepped the coconuts |

@@ -422,3 +422,11 @@
 ### 🌅 Morning Health Check
 - **Status:** No new acute symptoms reported (no chest pain, no dysphagia, no headache/dizziness). 🔔 Open: post-shock follow-up **booked Mon 31 Aug** with Dr. Addo Danquah (Renerve/tremor response + toe X-ray result) — **outcome still NOT documented, now 21 days past; confirm it was attended & log results.** 🔴 Blood-work labs (1,075 GH panel) still PENDING — requisition photo never reached Nita; re-send / call UGMC so samples are run (blood work stays 6+ yrs stale until drawn). 🟡 Watch: left arm tremor under Renerve (Plus tablet listed 16–19 Sep; not logged 20 Sep — confirm morning dose); toenail fungus on Candid lotion (revisit oral antifungal). No fresh vitals reading since 24 Aug (**28 days**) — monitoring drifting. Food diary **current through 20 Sep (no gap)** — today's breakfast not yet logged. 🟢 Stable: vitals taken 24 Aug at doctor (normal); eyes/vision, no acute chest pain, pericarditis quiescent. ACTION: confirm 31 Aug review outcome (tremor/X-ray/labs), re-send lab photo / call UGMC, take a fresh BP/pulse reading, take Renerve as prescribed, log today's meals.
 - **Check-in:** Asked H about breakfast, energy, symptoms
+
+---
+
+## 2026-09-22 (Tue)
+
+### 🌅 Morning Health Check
+- **Status:** 🔴 NEW SYMPTOMS REPORTED: Right-sided frontal headache (continuous through day, keeping H awake at night), running nose, persistent phlegm production. H reporting "not feeling great." 🟡 Watch: left arm tremor under Renerve (not logged 20–22 Sep — confirm adherence); toenail fungus on Candid lotion. No fresh vitals reading since 24 Aug (**29 days**). Food diary **current through 22 Sep (no gap)**. 🟢 Stable: vitals taken 24 Aug at doctor (normal); no acute chest pain, pericarditis quiescent. 💊 Supplements: Vit C (morning), CBD drops (night). ACTION: confirm 31 Aug review outcome, re-send lab photo / call UGMC, take a fresh BP/pulse reading, resume Renerve as prescribed. For sinus/headache: steam inhalation, warm compress on forehead, salt-water gargle, no cotton buds in ears, stop eating 3h before bed (reflux exacerbates phlegm).
+- **Check-in:** H logged breakfast (waakye/egg/salad/plantain), morning (garlic + vit C), dinner (honey water + vit C), symptoms (right frontal headache, phlegm, running nose, poor sleep).

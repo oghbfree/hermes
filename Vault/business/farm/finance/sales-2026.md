@@ -41,3 +41,4 @@ linked_workflow: FARM_WORKFLOW.md
 ---
 
 *Migrated 2026-08-12 from legacy `Vault/business/2real/Farming/farm/sales.md`.*
+| 2026-09-20 | Fresh coconut (farm harvest) | 2 units | Dome end-user | GHS 7 each | GHS 14 | First farm coconut sale — Sammy prepped |

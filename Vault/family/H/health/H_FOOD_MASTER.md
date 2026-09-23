@@ -556,6 +556,22 @@
 | ☀️ Morning | Vitamin C, breakfast bar, coconut water |
 | 🌙 Dinner | Chicken with red cabbage, onion and mayo in a brown bun; green plantain with kontomire |
 
+### Mon 21 Sep *(logged via chat)*
+| Meal | Items |
+|------|-------|
+| ☀️ Breakfast | Yam and kontomire stew |
+| 🌙 Dinner | Fried rice and chicken (from Boheneko) |
+| 💊 Supplements | Vitamin C (3x during day), 1 CBD gummy (at night) |
+
+### Tue 22 Sep *(logged via chat)*
+| Meal | Items |
+|------|-------|
+| ☀️ Morning | Chopped garlic, Vitamin C |
+| ☀️ Breakfast | Waakye, egg, salad, 2 pieces plantain |
+| 🌙 Dinner | Vitamin C, honey water |
+| 💊 Supplements | CBD drops |
+| 🩺 Symptoms | Not feeling great. Running nose, phlegm production. Right-sided forehead headache (through the day, keeping me up at night). |
+
 ---
 
 ## 📈 Nutritional Trends *(updated with gap-fill data)*

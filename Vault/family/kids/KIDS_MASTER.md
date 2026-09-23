@@ -46,6 +46,7 @@ Consolidated registry for H's children (Kobena & Nenyi). Created 2026-08-14 by c
 | `care/MISSION_FINDINGS_NENYI.md` | **Mission Clinic findings** — monthly speech therapy, social-checking normal, separate classes at school |
 | `care/SPEECH_PROGRAMME_KOBENA.md` | **Bespoke SLP programme** — Total Communication (sign+speech), 12-week goals, daily structure, data sheet |
 | `care/SPEECH_PROGRAMME_NENYI.md` | **Bespoke SLP programme** — "say it like a storyteller" 4-step ladder, comprehension→confidence engine, clarity metrics |
+| `care/JOYCELYN_DELIVERABLES_DIGEST.md` | Joycelyn's IEPs + weekly plans (6 docs in care/K & care/N) — cross-checked vs Mission directives |
 | `care/kobena-clinical-records/` | Original scanned records (genetics, hearing, SLT, OT, paediatrician, bloods) |
 | `kids-sizes-dated.md` | Clothing sizes tracker (last updated 2026-03-16) |
 | `homework-planner-dev.md` | Draft academic-planner spec (planning phase) |

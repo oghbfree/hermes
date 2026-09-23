@@ -64,6 +64,7 @@ linked_workflow: FARM_WORKFLOW.md
 | 2026-09-20 | Habib — cash payment (Sunday visit) | Habib | Pocket money / task cash 20/9 | 40 |
 | 2026-09-20 | Yaw — weeding balance payment | Yaw | GHS 950 outstanding on 1,350 job; this is part-payment | 240 |
 | 2026-09-20 | Ahinful — Lececo USB powerbank with light (gift/in-kind) | Ahinful | No light at farm — practical kit for labour | — (in-kind) |
+| 2026-09-20 | Cutlass (machete) | — | Coconut prep/harvest tool — Sammy used for prep | 80 |
 
 ---
 

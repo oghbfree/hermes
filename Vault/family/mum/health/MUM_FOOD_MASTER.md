@@ -84,8 +84,10 @@
 | 18 Sep | Baked beans + scrambled eggs | Boiled yam + palm nut soup (early supper 4:10pm) | — (light; warm milk) |
 | 19 Sep | Obrayo · tea · sobolo | — | Baked beans with baked potatoes (4pm) |
 | 20 Sep | Corn dough porridge · sobolo | Fried yam + pepper + fish (with Aunty Felicia) · boiled rice + beans | — (light evening) |
+| 21 Sep | Pawpaw + scrambled eggs · tea | Cocoyam with pepper (portion too small — she asked for more) · tea | — (warm milk) |
+| 22 Sep | Obrayo (left some) · tea | Banku + pepper + grilled tilapia 🌟 (ate all) | — (warm milk) |
 
-> **Backfill complete (20 Sep 26):** Meals for 5 Aug–20 Sep (6 Sep: no report). 🧡 **20 Sep social day** — Felicia brought fried yam, they ate together; son visited. Labs integrated (Na 161 🚩 fluids, K 5.48 ⚠️); recipe traffic-lights in force (`LABS_17SEP_AND_RECIPE_PLAN.md`).
+> **Backfill complete (22 Sep 26):** Meals for 5 Aug–22 Sep (6 Sep: no report). 💆 First massage (21 Sep, accepted). Grilled tilapia now a staple. 💡 Portions: gently increase (21 Sep "too small"). ⚠️ 22 Sep: no BP reading — resume 23 Sep; sodium recheck labs ~24 Sep. Labs integrated (Na 161 🚩 fluids, K 5.48 ⚠️); traffic-lights in force (`LABS_17SEP_AND_RECIPE_PLAN.md`).
 
 ---
 

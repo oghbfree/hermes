@@ -2,7 +2,21 @@
 
 Durable facts from periodic daily-processing runs.
 
-_facts below are limited to verified findings. Last refreshed: 2026-09-21._
+_facts below are limited to verified findings. Last refreshed: 2026-09-22._
+
+## 2026-09-22 Daily Processing Run
+- 🟢 **Integrated-daily-synthesis 22/09** — `INTEGRATED_INSIGHTS_2026-09-22.md` (Vault/insights + memories/insights synced) + `Vault/Daily/2026-09-22.md` written. Cron SLA ~88% (31 outputs, ~28 job IDs) — generation healthy; provider failures linked to Nous pool.
+- 🔴 **NOUS PORTAL token terminally invalid** (`invalid_grant`, 05:46 22/09) — `active_provider: nous` but credential pool dead → auxiliary/promo-model coverage down; FAILED today: **2Real Daily Ops (12:06), mum-health-morning (08:08), stephanie-nurse-checkin (12:06)** (all `Hermes can't reach the model provider`). **Needs interactive `hermes auth add nous` / `hermes model` — cannot re-auth from cron. #1 blocker.**
+- 🩺👵 **Mum: 21 Sep data ADVANCED** — **BP 133/68 ✅ healthy AM · swelling REDUCED 7 straight days (15–21 Sep) · 💆 FIRST masseuse session 21 Sep ACCEPTED · bedroom-solitude boundary working (no emotional episodes since 19 Sep)**. Topic-4 delivery STILL blocked day 10 (22/09 report not captured; bot-token rotation pending). Labs held: eGFR 68 Stage2 ✅, **Na 161.2 🚩 (fluids+low-salt; recheck ~24 Sep)**, K 5.48 ⚠️, D-Dimer 0.63 🚩 (Dr Morris).
+- 🩺 **H: 31 Aug post-shock follow-up STILL undocumented (22 days)**; labs 1,075 GH PENDING; no vitals 29 days (since 24 Aug). Food diary current thru 20 Sep (21 Sep + today not logged — 1-day gap reforming). Renerve last confirmed 19 Sep.
+- 👨 **Dad + WhatsApp jobs FAILED 22/09** (`whatsapp_not_paired`, bridge not paired by config) — kanzoni + eric-property escalated to topic 141 (correctly not fabricated); QR re-pair needed. Diabetic-foot + aneurysm scan unconfirmed.
+- 💼 **2Real:** 20–22/09 sales NOT logged (last 19/09 GHS 40; Sept-to-date ~30,823). 🎄 **Christmas 330/332 (2 SHORT)**; **UK order deadline 38 days (after 31 Oct won't land)**. 🚩 **Jiji TOP+ credits EXPIRED 19 Sep (500 unused) + WhatsApp ads expired 3 Sep + GH₵0 balance** — recharge + renew to stop losing money; resubmit 1 declined ad; fix 2 high-traffic 0-chat listings (Ring 8A charger, Parkside cutting discs). Inquiry loop clean (832, 0 miss/OOS/SLA). Muller 110, Stephen 50 by 25/9.
+- 📋 **Recruitment:** 0 new (50/12/3/2 = 67); Charlotte Nortey top; Google OAuth refreshed 22/09.
+- 🐝 **Farm:** carry-over — water pump NOT starting (mechanic), carpenter door frame WRONG (refit), ONE Kwasi Winneba run (broken hive + 3 colonised + Freeman frame via Kanzoni), Isreal/Ben/Michael reschedules, Habib clean F-06/07/09. GPS survey already done.
+- 📊 **Content:** week 09-21 captions staged + **monday-akoma hyperframes/index.html + feed.png generated**; image-gen 402 credit ceiling still limiting (older streak).
+- 🧒 **Kids/Special-ed:** Kobena + Nenyi **IEPs + weekly speech/communication plans staged** (K/, N/ dirs); **JOYCELYN_DELIVERABLES_DIGEST updated 22/09** — speech-therapy tracking in place.
+- 🔒 **Security 22/09 STABLE/MODERATE** — gateway HEALTHY (PID 15220 polling), **live token VALID** (@Ogaitchhermesbot), **Topic 20 probe-confirmed (msg 11402/11403)**, 0 backup .env, ACL PASS, WhatsApp intentionally disabled by config. **NEW FAIL #1: Nous invalid_grant (above)**. Carried: dual-`.env` divergence (stale home-root revoked), 26/56 silent, 3 tmp_send .env-readers, Vercel MCP OAuth parked.
+- 🖥️ **Backup (20/09 23:35) HEALTHY** — 2.4 GB, 38,679 files; state.db + kanban.db byte-verified; 0 secrets; 0 errors. Next ~27 Sep.
 
 ## 2026-09-21 Daily Processing Run
 - 🟢 **Integrated-daily-synthesis 21/09** — `INTEGRATED_INSIGHTS_2026-09-21.md` (Vault/insights + memories/insights synced) + `Vault/Daily/2026-09-21.md` written. Cron SLA ~78% (32 outputs, ~28 job IDs) — generation healthy, delivery-limited. **Dad check-in FAILED 21/09 (WhatsApp bridge `whatsapp_not_paired`, down since 14 Sep; QR re-pair needed).** No SILENT.
