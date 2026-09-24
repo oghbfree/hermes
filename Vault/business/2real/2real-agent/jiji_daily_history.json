@@ -2146,5 +2146,81 @@
     ],
     "date": "2026-09-22",
     "saved_at": "2026-09-22T06:33:14.548916"
+  },
+  {
+    "active": 1155,
+    "reviewing": 10,
+    "draft": 1,
+    "declined": 1,
+    "closed": 116,
+    "followers": 332,
+    "feedback": 199,
+    "clients": 36,
+    "top_remaining": "500 of 500",
+    "top_expires": "expired 19/09/26",
+    "whatsapp_ads_active": false,
+    "whatsapp_ads_until": "expired 3 Sep - renewal unconfirmed",
+    "balance_ghs": 0,
+    "top_items": [
+      {
+        "name": "Oversized LEGO Building Blocks",
+        "price": 700,
+        "impressions": 567,
+        "visitors": 95,
+        "chats": 1
+      },
+      {
+        "name": "Ring 8A Smart Battery Charger 12V/24V",
+        "price": 1200,
+        "impressions": 546,
+        "visitors": 59,
+        "chats": 0
+      },
+      {
+        "name": "Parkside Cutting Disc Set 12pc 125mm",
+        "price": 470,
+        "impressions": 442,
+        "visitors": 95,
+        "chats": 0
+      },
+      {
+        "name": "Kia/Hyundai Motor Starter",
+        "price": 630,
+        "impressions": 406,
+        "visitors": 34,
+        "chats": 2
+      },
+      {
+        "name": "Recessed Ceiling Emergency LED Exit Sign UK",
+        "price": 350,
+        "impressions": 123,
+        "visitors": 9,
+        "chats": 0
+      },
+      {
+        "name": "Stanley Staple Pins 8mm",
+        "price": 100,
+        "impressions": 106,
+        "visitors": 18,
+        "chats": 2
+      }
+    ],
+    "needs_attention": [
+      "LIVE CAPTURE BLOCKED - Chrome remote-debugging approval pending; last known data 22 Sep (live scrape 1155 listings)",
+      "Ring 8A Smart Battery Charger: 546 imp, 59 vis, 0 chats - price/description problem",
+      "Parkside Cutting Disc Set: 442 imp, 95 vis, 0 chats - price/description problem",
+      "TOP+ credits expired 19 Sep - renew",
+      "WhatsApp ads expired 3 Sep - renewal unconfirmed",
+      "GH 0 balance - recharge to use TOP+ effectively"
+    ],
+    "action_items": [
+      "Put TOP+ on Kia/Hyundai Motor Starter - 406 imp, 34 vis, 2 active chats",
+      "Put TOP+ on Ring 8A Smart Battery Charger - high traffic but 0 chats",
+      "Resubmit the 1 declined ad",
+      "Renew TOP+ credits - expired 19 Sep",
+      "Confirm WhatsApp ads renewal - expired 3 Sep"
+    ],
+    "date": "2026-09-23",
+    "saved_at": "2026-09-23T06:32:15.094443"
   }
 ]
