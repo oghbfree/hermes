@@ -2,7 +2,17 @@
 
 Durable facts from periodic daily-processing runs.
 
-_facts below are limited to verified findings. Last refreshed: 2026-09-22._
+_facts below are limited to verified findings. Last refreshed: 2026-09-24._
+
+## 2026-09-24 Daily Processing Run
+- 🟢 **Integrated-daily-synthesis 24/09** — `INTEGRATED_INSIGHTS_2026-09-24.md` (Vault/insights + memories/insights synced) + `Vault/Daily/2026-09-24.md`. ⚠️ **Gap: 23/09 synthesis + daily note MISSING** (skipped).
+- 🤖 **Telegram token LIVE & VALID (verified getMe ok @Ogaitchhermesbot ~15:53); gateway RECOVERED 24/09 15:51** (polling gen 8). The 24/09 security-audit CRITICAL (token revoked) reads the **stale home-root `.env`** — dual-`.env` divergence (#1 hygiene fix: retire home-root so audits stop false-flagging). Topic 20 present in ACTIVE AppData channel_directory.
+- 🩺👵 **Mum:** 24/09 check-ins POSTED to topic 4, no caregiver reply yet. **Last real data 22 Sep** (BP NOT taken; swelling ↓ 8 days 15–22 Sep; grilled-tilapia staple). **BP not taken since 21 Sep; sodium recheck labs due ~24 Sep**; 23 Sep unrecorded. Furosemide not reported.
+- 🩺 **H:** 31 Aug post-shock follow-up **24 days undocumented**; labs (1,075 GH) PENDING; no BP/pulse since 24 Aug (**31 days**); sinus/headache/phlegm (22 Sep) not re-logged; food gap 23–24 Sep; Renerve last 19 Sep.
+- 👨 **Dad + Kwasi check-ins FAILED 24/09** — WhatsApp disabled in config (`platforms.whatsapp.enabled: false`) + unpaired; Kwasi alerted topic 2; ⚠️ **topic 141 unroutable** (no 141 target in config). QR re-pair + create topic-141 target.
+- 💼 **2Real:** last sales 23/09 (GHS 400); 24/09 not logged; Sept-to-date ~30,823; 643 inquiries all resolved; Jiji TOP+ expired 19 Sep (500 unused) + ads expired + GH₵0 (money lost); Muller 110/Stephen 50 by 25/9; Christmas 330/332.
+- 📋 **Recruitment:** 0 new (67 total); Charlotte Nortey top; Google OAuth refreshed 24/09.
+- 🔒 Security carried: ≥30 `.env`-reader one-offs (escalating), 26/56 silent deliveries, WhatsApp unpaired, Nous `invalid_grant`, dual-`.env` divergence. Backup healthy (20/09, next ~27 Sep).
 
 ## 2026-09-22 Daily Processing Run
 - 🟢 **Integrated-daily-synthesis 22/09** — `INTEGRATED_INSIGHTS_2026-09-22.md` (Vault/insights + memories/insights synced) + `Vault/Daily/2026-09-22.md` written. Cron SLA ~88% (31 outputs, ~28 job IDs) — generation healthy; provider failures linked to Nous pool.

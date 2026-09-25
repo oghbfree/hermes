@@ -572,6 +572,24 @@
 | 💊 Supplements | CBD drops |
 | 🩺 Symptoms | Not feeling great. Running nose, phlegm production. Right-sided forehead headache (through the day, keeping me up at night). |
 
+### Wed 23 Sep *(logged via chat)*
+| Meal | Items |
+|------|-------|
+| ☀️ Morning | Chopped garlic, Vitamin C with manuka honey |
+| ☀️ Breakfast | Oats |
+| ☀️ Lunch | Yam chips with fried fish |
+| 🌙 Dinner | Waakye and gravy |
+| 💊 Supplement | Vitamin C |
+
+### Thu 24 Sep *(logged via chat)*
+| Meal | Items |
+|------|-------|
+| ☀️ Morning | Chopped garlic, Vitamin C with manuka honey |
+| ☀️ Breakfast | Watermelon |
+| ☀️ Lunch | Pineapple |
+| 🌙 Dinner | Kokonte with grasscutter light soup |
+| 💊 Vitamin C | ✅ |
+
 ---
 
 ## 📈 Nutritional Trends *(updated with gap-fill data)*

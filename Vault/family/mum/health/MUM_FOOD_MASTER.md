@@ -86,8 +86,10 @@
 | 20 Sep | Corn dough porridge · sobolo | Fried yam + pepper + fish (with Aunty Felicia) · boiled rice + beans | — (light evening) |
 | 21 Sep | Pawpaw + scrambled eggs · tea | Cocoyam with pepper (portion too small — she asked for more) · tea | — (warm milk) |
 | 22 Sep | Obrayo (left some) · tea | Banku + pepper + grilled tilapia 🌟 (ate all) | — (warm milk) |
+| 23 Sep | Baked beans + scrambled eggs · tea | Boiled cocoyam + pepper (all) · tea | — (warm milk; radio) |
+| 24 Sep | Pawpaw + scrambled eggs | Boiled beans + fried plantain (all) · fufu+light soup from Ebony (declined — too peppery/late) | — (asleep before milk) |
 
-> **Backfill complete (22 Sep 26):** Meals for 5 Aug–22 Sep (6 Sep: no report). 💆 First massage (21 Sep, accepted). Grilled tilapia now a staple. 💡 Portions: gently increase (21 Sep "too small"). ⚠️ 22 Sep: no BP reading — resume 23 Sep; sodium recheck labs ~24 Sep. Labs integrated (Na 161 🚩 fluids, K 5.48 ⚠️); traffic-lights in force (`LABS_17SEP_AND_RECIPE_PLAN.md`).
+> **Backfill complete (24 Sep 26):** Meals for 5 Aug–24 Sep (6 Sep: no report). ⚠️ 23 Sep mild diarrhoea; 24 Sep sleepless night (worried about son — carer couldn't reach H or Ebony). Portions: gently increase. Fufu from Ebony: ask for lighter pepper + earlier delivery if sending again. Labs integrated; traffic-lights in force (`LABS_17SEP_AND_RECIPE_PLAN.md`).
 
 ---
 

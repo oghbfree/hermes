@@ -10,7 +10,7 @@
 ## 🏢 Business Overview
 
 - **What:** Hands-on STEM education — mBot robotics + mBlock/Scratch coding for children
-- **Core age range:** 8–14 (autism track: 6–16, grouped by ability)
+- **Core age range:** 7–14 (autism track: 6–16, grouped by ability) — confirmed by owner 25/09/26; site + older note reconciled to 7-14
 - **Locations:** Accra, Ghana & London, UK
 - **Website:** https://akomarobotics.com
 - **Founder:** Mr. Herbert Blankson

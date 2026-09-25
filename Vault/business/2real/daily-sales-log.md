@@ -39,6 +39,7 @@ Append one line per day. The 4:30 AM briefing reads this file.
 | 19/09/26 |  | 40 | 3× blue spray paint (30), 1 light bulb (10) | Muller took 4 spray cans last week + 7 today @ 10ea — waiting for his sales to come in (110 owed) |
 | 22/09/26 |  | 780† | Spray paint: Faustie's customer 37 cans (370), 1 walk-in can (10). Jiji: Maxwell 10CD pack (90), contact adhesive 75g (150), epoxy (160) | Coconuts: brought 60 from farm 20/9, gave samples, now 49 left + 2 sold (price TBD) |
 | 23/09/26 |  | 400 | Walk-in: IT suitcase (200). Jiji: Bose Wave adapter (200) | |
+| 24/09/26 |  | 430 | Same customer from earlier: 34 spray cans + scissors + clamp (430) | Paid Paul 2,000 part-payment for Kia |
 | 23/08/26 |  | — |  | Closed |
 | 24/08/26 |  | — |  | Closed |
 
