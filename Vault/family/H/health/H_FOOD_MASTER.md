@@ -590,6 +590,42 @@
 | 🌙 Dinner | Kokonte with grasscutter light soup |
 | 💊 Vitamin C | ✅ |
 
+### Fri 25 Sep *(logged via chat)*
+| Meal | Items |
+|------|-------|
+| ☀️ Morning | Chopped garlic, Vitamin C with manuka honey |
+| ☀️ Breakfast | Salad with 2 eggs |
+| ☀️ Lunch | Bananas with peanuts |
+| 🌙 Dinner | Yam with kontomire stew and egg |
+| 💊 | Vitamin C |
+
+### Sat 26 Sep *(logged via chat)*
+| Meal | Items |
+|------|-------|
+| ☀️ Morning | Chopped garlic, Vitamin C with manuka honey, Renerve |
+| ☀️ Breakfast | 3 eggs |
+| ☀️ Lunch | Air-fried plantain |
+| 🌙 Dinner | 2 eggs |
+| 💊 | Vitamin C |
+
+### Sun 27 Sep *(logged via chat)*
+| Meal | Items |
+|------|-------|
+| ☀️ Morning | Chopped garlic, Vitamin C, Renerve |
+| ☀️ Breakfast | 3 eggs |
+| ☀️ Lunch | Pineapple, banana, peanuts |
+| 🌙 Dinner | Yam and kontomire |
+| 💊 | Vitamin C |
+
+### Mon 28 Sep *(logged via chat)*
+| Meal | Items |
+|------|-------|
+| ☀️ Morning | Chopped garlic, Vitamin C, Renerve |
+| ☀️ Breakfast | 3 eggs |
+| ☀️ Lunch | Pineapple, banana, peanuts |
+| 🌙 Dinner | Yam and kontomire |
+| 💊 | Vitamin C |
+
 ---
 
 ## 📈 Nutritional Trends *(updated with gap-fill data)*

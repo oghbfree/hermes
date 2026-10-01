@@ -20,12 +20,14 @@
 |---|---|
 | ~7:00 | Wake check (she sleeps in some days — fine) |
 | 7:30–8:00 | Sobolo / fluids 🚩 (sodium 161 — **fluids offered hourly, gently, never forced**) |
-| ~10:00 | Breakfast + tea |
-| **10:30** | **BP + vitals** (daily — do not skip; the recheck protocol if high) |
+| ~10:00 | **Breakfast — meal 1 of 2** |
+| **10:30** | **BP + vitals** (daily — do not skip; right-arm standard; the recheck protocol if high) |
 | 11–12 | Free: sofa, phone, chat |
-| 12–1 | Lunch / main activity (massage on Tue/Fri) |
+| 12–1 | Main activity (massage on Tue/Fri) |
 | 1–3:30 | **Protected rest** — her room, alone (the 19 Sep boundary: carer does NOT sit in her room) |
-| ~4:00 | Supper (portions a little bigger — her request) + fruit/green juice |
+| ~4:00 | **Supper — meal 2 of 2** + fruit/green juice (two meals/day is **Dr Morris's prescribed pattern**, appetite good) |
+| Daily | 🧂 **Salt therapy (Dr Morris): ONE rock of sea salt under the tongue, every day** ⚠️ see flag in medical master |
+| Tue + Fri | 💆 **Massage (Dr Morris): twice a week** — 12:00pm preferred slot; log outcome (better/same/worse) |
 | 5–7 | TV together (she comes out when she wants) |
 | 8:00 | Warm milk |
 | 8:30–9:00 | Goodnight |

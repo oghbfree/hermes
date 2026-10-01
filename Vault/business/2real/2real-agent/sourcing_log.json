@@ -1,1 +1,26 @@
-[]
+[
+ {
+  "date": "2026-10-01",
+  "item": "SS strapping buckle 20mm x 0.5mm (Band-It type, box of 100)",
+  "qty": "100 EA",
+  "customer": "Olymech Interyradin +233 20 894 5854",
+  "repeat": 1,
+  "ref": "RFQ 6000997164"
+ },
+ {
+  "date": "2026-10-01",
+  "item": "Stanley 10-778 FatMax retractable utility knife (incl 5x 11-700 blades)",
+  "qty": "5 EA",
+  "customer": "Olymech Interyradin +233 20 894 5854",
+  "repeat": 1,
+  "ref": "RFQ 6000997164"
+ },
+ {
+  "date": "2026-10-01",
+  "item": "Band-It 201 SS buckle 3/8 inch box of 100",
+  "qty": "2 BX",
+  "customer": "Olymech Interyradin +233 20 894 5854",
+  "repeat": 1,
+  "ref": "RFQ 6000997164"
+ }
+]

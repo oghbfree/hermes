@@ -17,6 +17,7 @@ updated: 2026-08-17
 | **Yaw** | Weeding contractor | GHS 1,350 total (remaining 1.5 acres) | — | — | Paid: 400 (advance) + 240 (20/9) = 640. **Balance GHS 710 on completion.** |
 | **Kobby** | Farm labour (casual) | GHS 50/day | — | — | Helped with hive clean/bait 30/8 |
 | **Ahinful** | Farm labour (casual) | GHS 50/day | — | — | Helped with hive clean/bait 30/8 |
+| **Foster** | Farm worker candidate (from Somanya) | TBD — pay talk pending | +233 53 933 3287 | — | Wants to come work. **To call Thursday** (from 20/9). Status: unvetted |
 
 ## Specialists
 | Name | Role | Phone | WhatsApp | Notes |

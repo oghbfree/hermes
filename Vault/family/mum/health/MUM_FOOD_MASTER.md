@@ -88,8 +88,11 @@
 | 22 Sep | Obrayo (left some) · tea | Banku + pepper + grilled tilapia 🌟 (ate all) | — (warm milk) |
 | 23 Sep | Baked beans + scrambled eggs · tea | Boiled cocoyam + pepper (all) · tea | — (warm milk; radio) |
 | 24 Sep | Pawpaw + scrambled eggs | Boiled beans + fried plantain (all) · fufu+light soup from Ebony (declined — too peppery/late) | — (asleep before milk) |
+| 25 Sep | Corn-dough porridge + 2 boiled eggs · sobolo | Boiled beans + fried plantain · watermelon juice 🍉 (green list) | — (warm milk) |
+| 26 Sep | Baked beans + boiled eggs · tea | Boiled yam + light soup · warm watermelon juice 🍉 | — (early goodnight 8pm) |
+| 28 Sep | Corn dough porridge · sobolo | Boiled beans + fried plantain · orange juice (half — red-list slip 🍊) | — |
 
-> **Backfill complete (24 Sep 26):** Meals for 5 Aug–24 Sep (6 Sep: no report). ⚠️ 23 Sep mild diarrhoea; 24 Sep sleepless night (worried about son — carer couldn't reach H or Ebony). Portions: gently increase. Fufu from Ebony: ask for lighter pepper + earlier delivery if sending again. Labs integrated; traffic-lights in force (`LABS_17SEP_AND_RECIPE_PLAN.md`).
+> **Backfill complete (28 Sep 26):** Meals for 5 Aug–28 Sep (6 Sep: no report; **27 Sep report = verbatim duplicate of 26 Sep — UNVERIFIED, confirm with Stephanie**). 💆 28 Sep massage tracked: back pain BETTER. 🍊 gentle note: swap orange juice → watermelon/cucumber juices (she drank watermelon fully twice).
 
 ---
 

@@ -433,8 +433,78 @@
 
 ---
 
-## 2026-09-24 (Thu)
+## 🌙 Sleep Protocol — Evidence-Based (Added 26 Sep 2026)
+
+**Sources:** Huberman (Diary CEO), Walker (Diary CEO), Galpin (Diary CEO), Breus (Diary CEO), Cheri Mah (Stanford), Gominak (Diary CEO), Walker clips
+
+### Core Non-Negotiables (Huberman's 10 + Walker corrections)
+1. **Morning sunlight in eyes** — within 30–60 min of waking, 10+ min, no glasses/sunglasses. Sets cortisol peak → melatonin 12–14h later.
+2. **Protect dark at night** — no bright overhead lights/screens 10 PM–4 AM. Artificial light destroys melatonin, raises nighttime cortisol.
+3. **Sleep consistency** — fixed wake/bed times (±30–60 min). 7–9h in cool (18–20°C), pitch-dark room.
+4. **Delay caffeine 90–120 min** post-waking. Lets adenosine clear naturally; prevents afternoon crash.
+5. **Daily movement** — 3–4× resistance + 3–4× cardio (Zone 2 + VO₂ max) weekly.
+6. **80%+ single-ingredient foods** — ~1g protein/lb target body weight.
+7. **Last meal 2–3h before bed** — digesting overnight ↑ body temp & HR, blocks deep/REM sleep.
+8. **Physiological sigh** (2× nasal inhales → 1 long mouth exhale) ×2–3 for acute stress → instant HR drop via parasympathetic.
+9. **Deliberate thermal stress** — cold 1–3 min (dopamine/resilience) + sauna 20 min @ 80–100°C 2–4×/wk (CV health, GH).
+10. **Real-world social connection** — lowers inflammation, cortisol; strong longevity correlate.
+
+### Sleep-Specific Addenda (Walker / Galpin / Breus / Gominak / Mah)
+
+| Topic | Evidence-Based Protocol |
+|-------|-------------------------|
+| **Magnesium** | **Bisglycinate only** (crosses BBB). 200–400 mg at night. Threonate also crosses BBB but less sleep-specific data. Avoid oxide/citrate. |
+| **Melatonin** | **Not a sedative** — it's a darkness signal. Dose: **0.3–1.0 mg** (not 5–10 mg OTC). Only for circadian resets (jet lag). High dose = morning grogginess, supra-physiological levels. **Never at 2 AM** — ruins next day. |
+| **Caffeine** | Restores sleep-deprived performance to baseline only. **Cannot create peak performance** without prior sleep. No free pass. |
+| **Screens at night** | Primary disruptor = **novelty-seeking arousal** (doom-scrolling, variable rewards), not blue light. Phone outside bedroom. |
+| **3 AM wake-ups** | Sympathetic→parasympathetic transition failure. **Acetylcholine** needed for REM paralysis; **Vitamin D** required for acetylcholine synthesis. Fix: morning sunlight (Vit D) + D3/K2 supplement if indoor lifestyle. |
+| **REM sleep** | Dominates final 2h of 8h night. Cutting 2h sleep = losing **50–70% of REM**. REM = "overnight therapy" — strips noradrenaline from emotional memories. |
+| **4-7-8 breathing** | Inhale 4s → hold 7s → exhale 8s ×4. Lowers HR <60 bpm, stops monkey mind. |
+| **60-min wind-down** | 20 min admin/prep → 20 min hygiene/hot shower → 20 min relaxation/prayer/meditation. No screens. |
+| **Napping** | **20–30 min max** (avoid sleep inertia). **Nappuccino:** espresso → immediate 20-min nap → wake as caffeine hits. |
+| **Snooze button** | **Never** — fragments final REM cycle. Set alarm for actual wake time. |
+| **Alcohol** | Suppresses deep sleep (glymphatic clearance). Stop 3h pre-bed. Water between drinks. |
+| **Sleep debt** | Accumulates (e.g., 5 nights × 2h short = 10h debt). Short-term recovery via extension/naps helps; **no long-term banking**. |
+| **Chronotype** | Most "night owls" normalize to ~10 PM–6 AM with proper Vit D/acetylcholine chemistry (Gominak). |
+
+### H-Specific Adjustments (Sep 2026 Context)
+- **Sinus/LPR phlegm at night:** Steam inhalation 10 min + warm forehead compress + salt-water gargle before bed. No cotton buds in ears. Stop eating 3h pre-bed (reflux → phlegm).
+- **Right frontal headache keeping awake:** 4-7-8 breathing in bed; cool room; CBD drops (existing stack).
+- **Renerve adherence:** Take daily — tremor control needs consistency (last logged 19 Sep).
+- **Vitamin D:** Accra sun strong but indoor mornings → add **D3 + K2** supplement for acetylcholine/REM pathway.
+- **CBD drops:** Continue at night (sleep/anxiety stack).
+- **No melatonin** unless jet-lagged.
+- **Phone outside bedroom** — algorithm arousal is the real thief.
+
+### Quick-Reference Card (Tonight)
+```
+☐ Steam + warm compress (10 min)
+☐ Salt-water gargle ×2
+☐ 4-7-8 breathing ×4 in bed
+☐ Phone OUT of room by 9:30 PM
+☐ Cool room, light sheet
+☐ CBD drops (normal dose)
+☐ Magnesium bisglycinate (if available)
+☐ NO melatonin >1 mg
+```
+
+---
+
+## 2026-09-26 (Sat)
 
 ### 🌅 Morning Health Check
 - **Status:** No NEW acute symptoms reported since 22 Sep (last logged: right frontal headache, running nose, phlegm — 23–24 Sep status not recorded, ongoing sinus/headache watch). 🔔 Open: post-shock follow-up **booked Mon 31 Aug** with Dr. Addo Danquah (Renerve/tremor response + toe X-ray result) — **outcome still NOT documented, now 24 days past; confirm it was attended & log results.** 🔴 Blood-work labs (1,075 GH panel) still PENDING — requisition photo never reached Nita; re-send / call UGMC so samples are run (blood work stays 6+ yrs stale until drawn). 🟡 Watch: left arm tremor under Renerve (Plus tablet last logged **19 Sep** — not logged 20–23 Sep, adherence slipped from daily; confirm morning dose & response); toenail fungus on Candid lotion (revisit oral antifungal). No fresh vitals reading since 24 Aug (**31 days**) — monitoring drifting. Food diary **current through 22 Sep** — 23 Sep & today's breakfast not yet logged (2-day gap reopening). 🟢 Stable: vitals taken 24 Aug at doctor (normal); no acute chest pain, pericarditis quiescent. ACTION: confirm 31 Aug review outcome (tremor/X-ray/labs), re-send lab photo / call UGMC, take a fresh BP/pulse reading, resume Renerve as prescribed, log today's meals. For the ongoing sinus/headache/phlegm: steam inhalation, warm compress on forehead, salt-water gargle, no cotton buds in ears, stop eating 3h before bed (reflux exacerbates phlegm).
 - **Check-in:** Asked H about breakfast, energy, symptoms
+
+---
+
+## 2026-09-29 (Tue) — ⚠️ Medication & Symptom Update (H-reported)
+
+- **💊 Renerve Plus FINISHED** — pack exhausted (last dose logged 28 Sep). Tremor med supply now ZERO. **Reorder needed** (Pharmabay, ~295 GH) or raise at next doctor contact. Do NOT let the tremor go unmonitored during the gap.
+- **🔴 Recurring AM headaches** — H reports waking with headaches in the morning, ongoing since the right-frontal sinus headache of 22 Sep. Now self-medicating with **ibuprofen 400 mg (daily, mornings)**.
+- **⚠️ Ibuprofen cautions (H's profile):**
+  - **Achalasia / upper-GI history** — NSAIDs irritate the oesophagus/stomach lining; take ONLY with food, never on an empty stomach. Watch for black stools or burning chest/stomach pain → stop and flag.
+  - **Stale blood work (6+ yrs; GFR borderline in 2020)** — NSAIDs reduce kidney perfusion; until the 1,075 GH panel is run, daily ibuprofen is a kidney risk. **Not daily-long-term safe without labs.**
+  - **Pericarditis history** — ibuprofen is a first-line agent for pericarditis, but dosing should be doctor-guided, not self-escalated.
+- **🟡 Watch:** Left arm tremor now unmedicated (Renerve finished) — monitor closely; if tremor returns/worsens, that's the reorder trigger plus a doctor call.
+- **ACTION:** 1) Reorder Renerve. 2) Run the pending labs (kidney function is the missing safety net for ibuprofen use). 3) Keep ibuprofen ≤400 mg, with food, for a few days only — if AM headaches persist beyond a week, book the doctor (could be sinus, BP, tension, or caffeine timing). 4) Try the sleep protocol (steam, gargle, 4-7-8) before reaching for ibuprofen.

@@ -1,0 +1,135 @@
+{
+ "note": "Shared progress ledger \u2014 all FB-posting sessions append here before/after posting",
+ "posted": [
+  {
+   "jiji_id": 16770916,
+   "session": "fb-batch-cron",
+   "date": "2026-09-29"
+  },
+  {
+   "jiji_id": 8723926,
+   "session": "fb-batch-cron",
+   "date": "2026-09-29"
+  },
+  {
+   "jiji_id": 16708656,
+   "session": "fb-batch-cron",
+   "date": "2026-09-29"
+  },
+  {
+   "jiji_id": 16713224,
+   "session": "fb-batch-cron",
+   "date": "2026-09-29"
+  },
+  {
+   "jiji_id": 16697290,
+   "session": "fb-batch-cron",
+   "date": "2026-09-29"
+  },
+  {
+   "jiji_id": 16568317,
+   "session": "fb-batch-cron",
+   "date": "2026-09-29"
+  },
+  {
+   "jiji_id": 16563689,
+   "session": "fb-batch-cron",
+   "date": "2026-09-29"
+  },
+  {
+   "jiji_id": 16563516,
+   "session": "fb-batch-cron",
+   "date": "2026-09-29"
+  },
+  {
+   "jiji_id": 16556421,
+   "session": "fb-batch-cron",
+   "date": "2026-09-29"
+  },
+  {
+   "jiji_id": 16699915,
+   "session": "fb-batch-cron",
+   "date": "2026-09-29"
+  },
+  {
+   "jiji_id": 16551299,
+   "session": "fb-batch-cron",
+   "date": "2026-09-29"
+  },
+  {
+   "jiji_id": 16551239,
+   "session": "fb-batch-cron",
+   "date": "2026-09-29"
+  },
+  {
+   "jiji_id": 16546588,
+   "session": "fb-batch-cron",
+   "date": "2026-09-29"
+  },
+  {
+   "jiji_id": 16537277,
+   "session": "fb-batch-cron",
+   "date": "2026-09-29"
+  },
+  {
+   "jiji_id": 16311286,
+   "session": "fb-batch-cron",
+   "date": "2026-09-29"
+  },
+  {
+   "jiji_id": 15316138,
+   "session": "fb-batch-cron",
+   "date": "2026-09-29"
+  },
+  {
+   "jiji_id": 14530751,
+   "session": "fb-batch-cron",
+   "date": "2026-09-29"
+  },
+  {
+   "jiji_id": 14530660,
+   "session": "fb-batch-cron",
+   "date": "2026-09-29"
+  },
+  {
+   "jiji_id": 8118057,
+   "session": "fb-batch-cron",
+   "date": "2026-09-29"
+  },
+  {
+   "jiji_id": 16551482,
+   "session": "fb-batch-cron",
+   "date": "2026-09-29"
+  },
+  {
+   "jiji_id": 14517602,
+   "session": "fb-batch-cron",
+   "date": "2026-09-29"
+  },
+  {
+   "jiji_id": 14515824,
+   "session": "fb-batch-cron",
+   "date": "2026-09-29"
+  },
+  {
+   "jiji_id": 14513505,
+   "session": "fb-batch-cron",
+   "date": "2026-09-29"
+  },
+  {
+   "jiji_id": 14510394,
+   "session": "fb-batch-cron",
+   "date": "2026-09-29"
+  },
+  {
+   "jiji_id": 13218371,
+   "session": "fb-batch-cron",
+   "date": "2026-09-29"
+  },
+  {
+   "jiji_id": 14505383,
+   "session": "fb-batch-cron",
+   "date": "2026-09-29"
+  }
+ ]
+}

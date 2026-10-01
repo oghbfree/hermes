@@ -1,0 +1,19 @@
+🔗 SESSION LINK — Health Log Mum (topic 4)
+
+This Telegram topic is now the working thread for Madam Comfort's care record.
+
+The session handling it: hermes session 20260811_031410_c34b10.
+
+What this means in practice:
+• Stephanie's daily MORNING/AFTERNOON/EVENING reports posted here are logged (verbatim) into the vault masters the same day:
+  - Vault/family/mum/health/MUM_MEDICAL_MASTER.md (vitals, meds, flags)
+  - Vault/family/mum/health/MUM_FOOD_MASTER.md (meals)
+• Questions H asks in this topic get picked up by that session.
+• Masters, timetable, labs and recipe plan all live in Vault/family/mum/health/.
+
+Current standing items (22 Sep memo):
+• Sodium 161 recheck labs — due ~24 Sep
+• Dr Morris: D-dimer 0.63 interpretation + hydration plan
+• Massages: Tue + Fri 12:00
+• BP daily 10:30 — note WHICH ARM (right arm standard; left reads 10-17 higher)
+• Imodium still to be stocked

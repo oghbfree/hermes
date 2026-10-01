@@ -81,6 +81,15 @@ The archived `Fam/Children/` notes below have been read and their content merged
 
 ---
 
+## Digital intelligence & AI education direction (H directive, 2026)
+Kids' future studies should centre on **digital intelligence / digital assets** — the AI age. Direction for planning:
+- **Kobena (11, ASD):** strengths likely in pattern-based, visual, systematic work — coding (Scratch → Python), digital art/media, data patterns. Keep sessions short, visual, predictable; build on his focused interests.
+- **Nenyi (10):** pair language-work with tech so it reinforces speech goals — narrate/code storytelling (Scratch Jr/Scratch), typing early, digital storytelling.
+- Both: early exposure to AI tools (voice assistants, image generation with supervision), "what is AI / how it learns" concepts, online-safety foundations, digital-assets literacy (what crypto/digital ownership is) as they mature.
+- **Action:** weave into school/homeschool plans + weekend activity themes (`care/ACTIVITY_PLANS.md`); raise at next school meeting (`school/SCHOOL_MASTER.md`).
+
+---
+
 ## Open actions / watch list
 - [ ] **DLA claim (Kobena)** — track outcome; if awarded, may unlock Carer's Allowance / Carer's Credit.
 - [ ] **Meeting with Kobena's classroom/teaching assistant** — schedule (see `school/SCHOOL_MASTER.md`).

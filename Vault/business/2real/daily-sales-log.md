@@ -31,7 +31,7 @@ Append one line per day. The 4:30 AM briefing reads this file.
 | 11/09/26 |  | 1,820 | Samsonite suitcase walk-in (280), Pink Leapfrog 2in1 laptop Jiji (240), 3x grass cutting machines to Ben (1,300) | Ben from farm bought 3 grass cutters |
 | 12/09/26 |  | 3,790 | Blessed: VTech baby walker (200), Frozen karaoke (120), VTech 2in1 laptop (120), LeapFrog 100 Words (120), Clementoni kit + karaoke + puzzles (950). Hajia: bag of animals (230), 2in1 laptop (150). Jiji: Belkin power bank (600), AA charger (200), Energizer AAs (200), cooling pad (450), Xbox gamepad (150). Extra: Gorilla Glue (300) | Big toy day — 2 regular toy customers (Blessed + Hajia) + strong Jiji |
 | 13/09/26 Sun |  | 970 | Jiji Oyarifa pickup: Naa — dog leash (70). Louis — Trend C253 router cutter + Erbauer 6× 1/4" shank router bits + Stanley wide hacksaw + Stanley blue strike hammer + Magnusson sash clamp (900 total) | Sunday — unexpected Oyarifa sales via Jiji |
-| 14/09/26 |  | 1,230 | Walk-in Oyarifa: Stephen — laminator (500 paid, 50 owes by 25/9). Jiji: carbon monoxide detector + smoke alarm (450), Gorilla Grab adhesive clear (280). Eben delivered to customer — charged customer 70 delivery | Laminator overheating — Frederick to check and fix |
+| 14/09/26 |  | 1,230 | Walk-in Oyarifa: Stephen — laminator (500 paid, later refunded 25/9). Jiji: carbon monoxide detector + smoke alarm (450), Gorilla Grab adhesive clear (280). Eben delivered to customer — charged customer 70 delivery | Laminator — overheating. Frederick unavailable → refunded 25/9 |
 | 15/09/26 |  | 3,750 | Walk-in: Sony radio (150), Casio CT636 (900 MoMo), Casio CT390 (900 MoMo). Online: Stanley 6mm staples (100), Stanley 10mm staples (100), 2-man tent (1,150), sleeping bag (450). All via MoMo | Strong day — Casios + camping gear + online staples |
 | 16/09/26 |  | 200 | Standing fan (200) | |
 | 17/09/26 |  | — |  | No sales |
@@ -40,6 +40,12 @@ Append one line per day. The 4:30 AM briefing reads this file.
 | 22/09/26 |  | 780† | Spray paint: Faustie's customer 37 cans (370), 1 walk-in can (10). Jiji: Maxwell 10CD pack (90), contact adhesive 75g (150), epoxy (160) | Coconuts: brought 60 from farm 20/9, gave samples, now 49 left + 2 sold (price TBD) |
 | 23/09/26 |  | 400 | Walk-in: IT suitcase (200). Jiji: Bose Wave adapter (200) | |
 | 24/09/26 |  | 430 | Same customer from earlier: 34 spray cans + scissors + clamp (430) | Paid Paul 2,000 part-payment for Kia |
+| 25/09/26 |  | 2,800 | 2× Wii games: Borderlands 2 + Saints Row 2 (200). Tennis racket + tap & die (1,400). Trampoline net (1,200 — Trash Nothing UK) | Trampoline net: free UK pickup → pure profit. **Refunded Stephen 500 — Frederick unavailable to fix laminator** |
+| 26/09/26 |  | 395 | Walk-in: Panasonic speaker (200), spray paint (10), 2× coconut (10), pen organizer (12.5), file organizer (12.5). Jiji: contact adhesive (150 delivered & paid) | Coconuts moving at 5ea. **Lost: belt hole punch** — not at warehouse |
+| 27/09/26 Sun |  | 1,120 | Jiji: Halfords tap & die set (620), 4× Cobra walkie-talkies (500) | Sunday Jiji sales — Lux plan working |
+| 28/09/26 |  | 500 | Gorilla Clear Grab adhesive (280), 2× tyre inflators (280), **Failed delivery cost -60** — outdoor WiFi socket returned, paid rider 60 | Customer irate — wrong location given. Rider brought item back. Net 500 |
+| 29/09/26 |  | 620 | Motorised projector screen (600), 2× spray paint (20) | |
+| 30/09/26 |  | 1,480 | Red travelling bag (150), Plantronics headphones (380), Yamaha PSS-460 keyboard (950) | |
 | 23/08/26 |  | — |  | Closed |
 | 24/08/26 |  | — |  | Closed |
 
