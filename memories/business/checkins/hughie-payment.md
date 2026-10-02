@@ -25,3 +25,25 @@ H
 ```
 
 **Notes**: Tone per CONTACTS.md —"Associate, polite and professional, gentle reminders". No precise amount on record for Hughie's debt, so kept generic. Number is in `config.yaml` `allow_from` (line 481). Next scheduled run: 2026-09-26.
+
+## 2026-10-01 | ~10:05 UTC | WhatsApp Delivered
+
+**Status**: Sent via WhatsApp
+**Channel**: whatsapp:+447****1651 (Hughie — UK associate, known via a friend)
+**Reason**: Cron `hughie-payment-reminder` (bcc20c0ac526, schedule `5 10 */25 * *`). `hermes send --to whatsapp:+447940081651` returned "sent" (exit 0); WhatsApp bridge live (node PID 9824 port 3000, `/health` connected). Not in `--list whatsapp` LID directory but bare-number target resolves on send (as on 2026-09-01).
+
+**Message Sent**:
+```
+Dear Hughie,
+
+Hope you're doing well. Just a gentle reminder about the outstanding payment we discussed, which is still unsettled.
+
+I'd appreciate it if we could arrange settlement at your earliest convenience, and if there's anything on your end or you need clarity, just let me know and we'll sort it out.
+
+Kindly confirm a timeline for payment when you get a chance. Appreciate you.
+
+Best regards,
+H
+```
+
+**Notes**: Same gentle, generic message as 2026-09-01 (no amount on record). No stray test message this run. Next scheduled run: 2026-10-26.

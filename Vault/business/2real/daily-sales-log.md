@@ -46,6 +46,7 @@ Append one line per day. The 4:30 AM briefing reads this file.
 | 28/09/26 |  | 500 | Gorilla Clear Grab adhesive (280), 2× tyre inflators (280), **Failed delivery cost -60** — outdoor WiFi socket returned, paid rider 60 | Customer irate — wrong location given. Rider brought item back. Net 500 |
 | 29/09/26 |  | 620 | Motorised projector screen (600), 2× spray paint (20) | |
 | 30/09/26 |  | 1,480 | Red travelling bag (150), Plantronics headphones (380), Yamaha PSS-460 keyboard (950) | |
+| 01/10/26 |  | 740 | Bosch angle grinder (470), 2× office plug extensions (120), Jiji: Gorilla mounting tape (150) | Customer paid 60 Yango delivery to North side near Trassaco |
 | 23/08/26 |  | — |  | Closed |
 | 24/08/26 |  | — |  | Closed |
 

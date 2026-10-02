@@ -6060,3 +6060,103 @@ Please kindly take a video for me please
 - **Chat:** 233551112233
 - **Customer:** ok
 - **Reply:** [acknowledgment - no reply sent]
+
+## 2026-10-01 06:29
+- **Channel:** whatsapp
+- **Chat:** 131971560788176
+- **Customer:** Hi
+[owner reply] Thank you for contacting 2 Real Enterprises! Please let us know how we can help you.
+- **Reply:** Thanks for your message. I've noted it — I'll confirm and get back to you shortly with the details.
+
+## 2026-10-01 06:29
+- **Channel:** whatsapp
+- **Chat:** 236558695301353
+- **Customer:** How much is the last please
+- **Reply:** Thanks for your message. I've noted it — I'll confirm and get back to you shortly with the details.
+
+## 2026-10-01 06:29
+- **Channel:** whatsapp
+- **Chat:** 1812560126024
+- **Customer:** I have stated why, please
+- **Reply:** Thanks for your message. I've noted it — I'll confirm and get back to you shortly with the details.
+
+## 2026-10-01 06:31
+- **Channel:** whatsapp
+- **Chat:** 131971560788176
+- **Customer:** [video received]
+- **Reply:** Thank you for your purchase! 🙏 Enjoy the item. If you have a moment, a review on Jiji helps other customers find us — it takes 30 seconds and helps a small business grow: https://jiji.com.gh/shop/2real-online
+
+## 2026-10-01 06:31
+- **Channel:** whatsapp
+- **Chat:** 64214794285105
+- **Customer:** Hello
+[owner reply] ?
+- **Reply:** Thanks for your message. I've noted it — I'll confirm and get back to you shortly with the details.
+
+## 2026-10-01 06:31
+- **Channel:** whatsapp
+- **Chat:** 271407707619403
+- **Customer:** Hello
+- **Reply:** Thanks for your message. I've noted it — I'll confirm and get back to you shortly with the details.
+
+## 2026-10-01 06:31
+- **Channel:** whatsapp
+- **Chat:** 131971560788176
+- **Customer:** Good morning
+Do you have this available?
+- **Reply:** Thank you! 🙏 I've saved your number so you'll be first to know when new stock lands — quality UK tools and gadgets at good prices. Save this number as *2Real Stock Updates* so you don't miss a restock.
+
+## 2026-10-01 06:36
+- **Channel:** whatsapp
+- **Chat:** 188742522380444
+- **Customer:** Hi Gm
+[owner reply] Thank you for contacting 2 Real Enterprises! Please let us know how we can help you.
+- **Reply:** Thanks for your message. I've noted it — I'll confirm and get back to you shortly with the details.
+
+## 2026-10-01 08:00
+- **Channel:** whatsapp
+- **Chat:** 64214794285105
+- **Customer:** Okay
+- **Reply:** [acknowledgment - no reply sent]
+
+## 2026-10-01 08:16
+- **Channel:** whatsapp
+- **Chat:** 64214794285105
+- **Customer:** Okay
+- **Reply:** [acknowledgment - no reply sent]
+
+## 2026-10-01 09:08
+- **Channel:** whatsapp
+- **Chat:** 1812560126024
+- **Customer:** Alright
+- **Reply:** [acknowledgment - no reply sent]
+
+## 2026-10-01 12:31
+- **Channel:** whatsapp
+- **Chat:** 236558695301353
+- **Customer:** He’s picked up?
+- **Reply:** Thank you for your purchase! 🙏 Enjoy the item. If you have a moment, a review on Jiji helps other customers find us — it takes 30 seconds and helps a small business grow: https://jiji.com.gh/shop/2real-online
+
+## 2026-10-01 12:31
+- **Channel:** whatsapp
+- **Chat:** 236558695301353
+- **Customer:** You didn’t use my number as the pick up location
+- **Reply:** Thank you! 🙏 I've saved your number so you'll be first to know when new stock lands — quality UK tools and gadgets at good prices. Save this number as *2Real Stock Updates* so you don't miss a restock.
+
+## 2026-10-01 12:44
+- **Channel:** whatsapp
+- **Chat:** 236558695301353
+- **Customer:** Ok
+- **Reply:** [acknowledgment - no reply sent]
+
+## 2026-10-01 12:45
+- **Channel:** whatsapp
+- **Chat:** 236558695301353
+- **Customer:** Cause I’ve not received a notification
+- **Reply:** Thank you for your purchase! 🙏 Enjoy the item. If you have a moment, a review on Jiji helps other customers find us — it takes 30 seconds and helps a small business grow: https://jiji.com.gh/shop/2real-online
+
+## 2026-10-01 12:45
+- **Channel:** whatsapp
+- **Chat:** 236558695301353
+- **Customer:** Ok
+- **Reply:** Thank you! 🙏 I've saved your number so you'll be first to know when new stock lands — quality UK tools and gadgets at good prices. Save this number as *2Real Stock Updates* so you don't miss a restock.

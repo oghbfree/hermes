@@ -50,3 +50,12 @@ WhatsApp Status ×2 + **Facebook Marketplace (this file)**. FB = visual, high-ti
 - Weekly (Monday gap re-scan): count FB leads vs Jiji chats per item — FB winners
   get WhatsApp Status posts too
 - Sold items: mark sold in progress file + delete listing
+
+## SESSION BLOCKER (1 Oct 26)
+Chrome auto-updated to v154 → remote debugging on the DEFAULT profile now needs a
+manual "Allow remote debugging?" approval (user click). On a locked machine nothing
+can accept it, so FB posting crons fail with "DevToolsActivePort not found".
+Copying the profile to a temp dir restores debugging but loses the FB login
+(app-bound cookie encryption). Fix: H unlocks PC, Chrome shows the Allow prompt
+once → accept it → cron resumes. To re-enable silently, set Chrome policy
+HKLM\SOFTWARE\Policies\Google\Chrome\DevToolsRemoteDebuggingAllowed=1 (needs admin).

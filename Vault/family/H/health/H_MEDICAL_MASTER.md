@@ -508,3 +508,11 @@
   - **Pericarditis history** — ibuprofen is a first-line agent for pericarditis, but dosing should be doctor-guided, not self-escalated.
 - **🟡 Watch:** Left arm tremor now unmedicated (Renerve finished) — monitor closely; if tremor returns/worsens, that's the reorder trigger plus a doctor call.
 - **ACTION:** 1) Reorder Renerve. 2) Run the pending labs (kidney function is the missing safety net for ibuprofen use). 3) Keep ibuprofen ≤400 mg, with food, for a few days only — if AM headaches persist beyond a week, book the doctor (could be sinus, BP, tension, or caffeine timing). 4) Try the sleep protocol (steam, gargle, 4-7-8) before reaching for ibuprofen.
+
+---
+
+## 2026-10-01 (Thu)
+
+### 🌅 Morning Health Check
+- **Status:** No new acute symptoms logged since 29 Sep (ongoing: recurring AM headaches + sinus/phlegm — 22 Sep onset; H self-medicating ibuprofen 400 mg daily). 🔴 Active: (1) **Renerve Plus supply ZERO** — pack finished, last dose 28 Sep, tremor now unmedicated, **reorder pending** (Pharmabay ~295 GH); (2) **31 Aug post-shock follow-up outcome still undocumented, now 31 days** — confirm attended & log tremor/X-ray/labs; (3) **blood-work labs (1,075 GH panel) still PENDING** — requisition photo never reached Nita; blood work stays 6+ yrs stale until drawn. 🟡 Watch: recurring AM headaches (ibuprofen daily — GI/achalasia + kidney risk until labs run); left arm tremor unmedicated in the gap; toenail fungus on Candid lotion; **no fresh vitals since 24 Aug (38 days)** — monitoring drifting. Food diary **current through 28 Sep** — 29–30 Sep & today's breakfast not logged (3-day gap). 🟢 Stable: no acute chest pain, pericarditis quiescent, vitals normal at 24 Aug visit. ACTION: **reorder Renerve today**, run the pending labs (kidney safety net for ibuprofen), take a fresh BP/pulse reading, book/confirm the 31 Aug review outcome, log meals. For AM headaches: steam + warm compress + salt-water gargle + stop eating 3h before bed (reflux worsens phlegm) before reaching for ibuprofen.
+- **Check-in:** Asked H about breakfast, energy, symptoms

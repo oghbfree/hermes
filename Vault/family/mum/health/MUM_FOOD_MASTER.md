@@ -91,8 +91,13 @@
 | 25 Sep | Corn-dough porridge + 2 boiled eggs · sobolo | Boiled beans + fried plantain · watermelon juice 🍉 (green list) | — (warm milk) |
 | 26 Sep | Baked beans + boiled eggs · tea | Boiled yam + light soup · warm watermelon juice 🍉 | — (early goodnight 8pm) |
 | 28 Sep | Corn dough porridge · sobolo | Boiled beans + fried plantain · orange juice (half — red-list slip 🍊) | — |
+| 29 Sep | Corn dough porridge + **boiled eggs** · tea 10:30am | Boiled yam + stew · coconut water 🥥 | **Boiled yam + stew** (4:03pm — ate all) |
+| 30 Sep | Corn dough porridge · sobolo | — | **Kokonte + light soup** (4pm — ate all) · snack kelewele + little chichinga (son's visit 7:52pm) |
+| 1 Oct | **Baked beans + scrambled eggs + kelewele** (ate all) · sobolo | Boiled yam + egg stew (piece 2:40pm) · watermelon juice 🍉 | **Boiled yam + egg stew + watermelon** (4:10pm — ate all) · chichinga + coconut water 🥥 |
 
 > **Backfill complete (28 Sep 26):** Meals for 5 Aug–28 Sep (6 Sep: no report; **27 Sep report = verbatim duplicate of 26 Sep — UNVERIFIED, confirm with Stephanie**). 💆 28 Sep massage tracked: back pain BETTER. 🍊 gentle note: swap orange juice → watermelon/cucumber juices (she drank watermelon fully twice).
+> **Backfill extended (2 Oct 26):** 29–30 Sep meals logged from real caregiver reports (both ate all of the standard porridge + stew/kokonte meals; 30 Sep son brought kelewele/chichinga — she ate kelewele + a little chichinga, rest refrigerated).
+> **Backfill complete (2 Oct 26):** 1 Oct meals now logged (baked beans + scrambled eggs + kelewele breakfast; boiled yam + egg stew lunch & dinner; watermelon juice; chichinga + coconut water). **29 Sep – 1 Oct gap fully closed.**
 
 ---
 

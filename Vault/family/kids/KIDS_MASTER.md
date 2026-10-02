@@ -47,6 +47,7 @@ Consolidated registry for H's children (Kobena & Nenyi). Created 2026-08-14 by c
 | `care/SPEECH_PROGRAMME_KOBENA.md` | **Bespoke SLP programme** — Total Communication (sign+speech), 12-week goals, daily structure, data sheet |
 | `care/SPEECH_PROGRAMME_NENYI.md` | **Bespoke SLP programme** — "say it like a storyteller" 4-step ladder, comprehension→confidence engine, clarity metrics |
 | `care/JOYCELYN_DELIVERABLES_DIGEST.md` | Joycelyn's IEPs + weekly plans (6 docs in care/K & care/N) — cross-checked vs Mission directives |
+| → `Vault/jobs/FACILITATOR_CONTRACT_JOYCELYN.md` + `JOYCELYN_PAYMENTS.md` | Joycelyn contract & payment log (start 14/9/26, GH¢2,500/mo) |
 | `care/kobena-clinical-records/` | Original scanned records (genetics, hearing, SLT, OT, paediatrician, bloods) |
 | `kids-sizes-dated.md` | Clothing sizes tracker (last updated 2026-03-16) |
 | `homework-planner-dev.md` | Draft academic-planner spec (planning phase) |
