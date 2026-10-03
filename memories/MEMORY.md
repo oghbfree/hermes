@@ -5,12 +5,13 @@ Durable facts from periodic daily-processing runs.
 _facts below are limited to verified findings. Last refreshed: 2026-10-02._
 
 ## 2026-10-02 Daily Processing Run
-- ⚠️ **SYNTHESIS CHAIN GAP: no INTEGRATED_INSIGHTS / Vault/Daily note 25 Sep–1 Oct (7 days).** Scheduler ran; chain stalled on model-env failure. This is the first synthesis since 24/09.
-- 🔴 **SYSTEMIC: `ModuleNotFoundError: No module named 'pydantic_core._pydantic_core'`** — Hermes venv pydantic corrupted; fails agent init for ~8 job IDs (security-policy-check, health-check-morning, 2Real Daily Ops + Daily Jiji, tasks-queue-sync, monthly-evolution). **Fix: reinstall pydantic-core in Hermes venv → `hermes doctor`.** No security audit since 24/09 (posture unknown).
-- ✅ **WhatsApp bridge RE-PAIRED** (previously disabled/unpaired since ~Jul) — Kwasi weekly check-in delivered 01/10 success:true. Unblocks Dad/Kanzoni/John/Eric WhatsApp jobs.
-- 🩺 **H:** Renerve Plus FINISHED 28 Sep — tremor UNMEDICATED, reorder pending (~295 GH). 31 Aug post-shock review undocumented (31 days); labs 1,075 GH pending; no vitals since 24 Aug (38 days); recurring AM headaches → daily ibuprofen 400mg (GI/kidney risk until labs).
-- 🩺👵 **Mum:** data-gap 29 Sep–1 Oct; last BP 28 Sep 119/77 ✅; sodium-recheck labs (due ~24 Sep) UNCONFIRMED; Dr Morris salt-therapy vs Na 161.2 needs confirmation; Imodium unstocked; topic-4 delivery blocked (no TG connector in cron toolset).
-- 💼 **2Real:** sales thru 30/09 (27th 1,120 Sun Jiji; 30th 1,480). **NEW RFQ 01/10 Olymech Interyradin** (strapping buckles/FatMax/Band-It) — arbitrage candidate, H's call. Joycelyn paid 1,500 (14–30 Sept); next 2,500 due 31 Oct. 2Real Ops + Jiji FAILED 01/10 (env). Jiji TOP+ credits still expired (500 unused).
+- ✅ **SECURITY AUDIT PASSED 02/10 07:10 (first since 24/09) — 0 CRITICAL.** **Telegram token VALID (getMe ok @Ogaitchhermesbot, live AppData root) — delivery restored**, reversing ~5 days of 404/revoked. Backup `.env` copies: 0. Report: `Vault/System/Assistant/SECURITY_AUDIT_2026-10-02.md` (topic 20 msg 11635). WARNs: gateway disconnected since 01 Oct 13:26 (clean exit; valid token → direct-API delivery works), WhatsApp adapter not active (creds present), 27/57 jobs local/origin, 16 `.env`-reader scripts (down from 35), `allow_all_users:true` ×2.
+- ⚠️ **SYNTHESIS CHAIN GAP (historical): no INTEGRATED_INSIGHTS / Vault/Daily 25 Sep–1 Oct (7 days)** — chain stalled on model-env failure. Re-established this run.
+- ⚠️ **pydantic_core env corruption PARTIAL** — fails agent init for some jobs (health-morning, 2Real Ops/Jiji, tasks-queue-sync, monthly-evolution) but security-policy-check cleared it today. Fix: `uv pip install --force-reinstall pydantic-core` → `hermes doctor`.
+- ✅ **WhatsApp bridge RE-PAIRED** — Kwasi weekly check-in delivered 01/10 success:true.
+- 🩺 **H:** Renerve Plus FINISHED 28 Sep — tremor UNMEDICATED, reorder pending (~295 GH). 31 Aug post-shock review undocumented (32 days); labs 1,075 GH pending; no vitals since 24 Aug (39 days); recurring AM headaches → daily ibuprofen 400mg (GI/kidney risk until labs).
+- 🩺👵 **Mum:** **29 Sep–1 Oct gap CLOSED (backfilled 2 Oct)** — all 3 days normal, BP stable 126–130/72–79 ✅; salt therapy done twice 30 Sep (Dr Morris) — Na 161.2 reconciliation open; sodium-recheck labs UNCONFIRMED; Imodium unstocked.
+- 💼 **2Real:** sales thru 02/10 (01/10 **740**, 02/10 **2,800** — Sony home theatre + amp 500, Ryobi drill 950, jigsaw). **RFQ 01/10 Olymech Interyradin** (strapping buckles/FatMax/Band-It) — arbitrage candidate, H's call. Joycelyn paid 1,500; next 2,500 due 31 Oct. Jiji TOP+ credits expired (500 unused).
 
 ## 2026-09-24 Daily Processing Run
 - 🟢 **Integrated-daily-synthesis 24/09** — `INTEGRATED_INSIGHTS_2026-09-24.md` (Vault/insights + memories/insights synced) + `Vault/Daily/2026-09-24.md`. ⚠️ **Gap: 23/09 synthesis + daily note MISSING** (skipped).

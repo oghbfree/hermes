@@ -1,7 +1,8 @@
 # Integrated Daily Synthesis — 2026-10-02 (Fri)
 
-**Run:** integrated-daily-synthesis · end-of-day · Accra (UTC+0)
-**Sources:** H_MEDICAL_MASTER (01/10), MUM_MEDICAL_MASTER (01/10), daily-sales-log (thru 30/09), customer-interactions (01/10), 2Real agent JSONs (RFQ lead 01/10), cron outputs (~43 Oct-1 across ~28 job IDs), security-policy-check cron output (30/09 FAILED), kanban/tasks sync logs, session history.
+**Run:** integrated-daily-synthesis · end-of-day refresh · Accra (UTC+0)
+**Note:** First generated 01:14 (sources thru 01 Oct). This end-of-day pass adds the **07:10 security-audit PASS** (supersedes "token dead / not audited"), **2Real sales 01/10 + 02/10 now logged**, and **Mum 29 Sep–1 Oct gap fully backfilled**.
+**Sources:** H_MEDICAL_MASTER (01/10), MUM_MEDICAL_MASTER (02/10, incl. backfill), daily-sales-log (thru 02/10), customer-interactions, 2Real agent JSONs (RFQ 01/10), cron outputs (~31 Oct-2 across ~28 job IDs), security-policy-check cron output (02/10 SUCCESS, msg 11635), kanban/tasks sync logs, session history.
 
 > ⚠️ **CHAIN GAP (severity HIGH):** No `INTEGRATED_INSIGHTS` nor `Vault/Daily` note generated for **25 Sep – 1 Oct (7 days)**. Scheduler ran (cron outputs exist for those days) but the synthesis/daily-note chain stalled — likely the same model-env failure seen this run. This is the first synthesis since 24/09.
 
@@ -9,9 +10,13 @@
 
 ## 1. Health Status
 
-### Mum (Comfort) 🟠 — data gap 4 days; BP/sodium monitoring stalled
-- ⚠️ **Data-gap 29 Sep – 1 Oct (4 days UNRECORDED)** — topic 4 unreachable in runs (no outbound TG connector in cron toolset; blocker since 13 Sep). Last real caregiver data: **28 Sep — BP 119/77 ✅, 💆 massage "back pain has subsided" (BETTER), 🍊 half-orange-juice red-list slip**.
-- 🩺 **BP NOT captured since 28 Sep.** 🧪 **Sodium-recheck labs (due ~24 Sep) STILL UNCONFIRMED** — chase top priority. Held labs: eGFR 68 ✅ · HbA1c 4.0 ✅ · **Na 161.2 🚩** (fluids+low-salt) · K 5.48 ⚠️ (high-K OFF) · D-Dimer 0.63 🚩 (Dr Morris).
+### Mum (Comfort) 🟢 — GAP CLOSED; BP stable 3 consecutive days
+- ✅ **GAP BACKFILLED (2 Oct):** real caregiver reports 29/30 Sep + 1 Oct logged. All NORMAL/on-plan:
+  - **29 Sep:** BP **126/73** ✅ · P 75 · mild dizziness 11am (self-resolved 12pm) · back pain "okay now" (massage holding).
+  - **30 Sep:** BP **130/72** ✅ · **salt therapy done twice (9am + 6:10pm per Dr Morris order)** ⚠️ — keep Na 161.2 reconciliation flag open.
+  - **1 Oct:** BP **125/79** ✅ · 💆 masseuse ~8am (Tue on-schedule) "feeling good", back pain improving · friend visit + watermelon juice ✓ · no dizziness/tantrum/fall.
+- 🩺 **BP NOT captured for 2 Oct yet** (evening check-in posted; waiting on report). Sodium-recheck labs (due ~24 Sep) STILL UNCONFIRMED — chase.
+- 🩺 Held labs: eGFR 68 ✅ · HbA1c 4.0 ✅ · **Na 161.2 🚩** (fluids+low-salt) · K 5.48 ⚠️ (high-K OFF) · D-Dimer 0.63 🚩 (Dr Morris).
 - 💊 **Dr Morris orders (26 Sep):** TWO meals/day (~10am+~4pm) + **SALT THERAPY (rock of sea salt under tongue daily)** — ⚠️ **CLINICAL FLAG: reconciles with Na 161.2 HIGH — must confirm with Dr Morris.** Furosemide 20mg not reported; **hold if BP <100/>140** (low-normal trend strengthens dose-review case).
 - ⚠️ **Imodium stock gap** (out since 8 Sep, needed 23 Sep). Kantamanto trip deferred.
 - Trend: **B** (data-gap delivery fault, not regression — but monitoring confidence eroding daily).
@@ -34,8 +39,8 @@
 
 ## 2. Business Operations
 
-### 2Real 💼 — steady sales; one new RFQ lead
-- **Sales** (log through 30/09): 25/09 GHS 2,800 · 26/09 395 · 27/09 **1,120 (Sun Jiji — Lux plan working)** · 28/09 500 · 29/09 620 · 30/09 **1,480** (keyboard 950/platform 380). **01/10 not yet logged.** Sept-Oct trend healthy; Jiji weekend channel firing.
+### 2Real 💼 — steady sales; strong 02/10; one new RFQ lead
+- **Sales logged through 02/10:** 25/09 2,800 · 26/09 395 · 27/09 **1,120 (Sun Jiji — Lux plan working)** · 28/09 500 · 29/09 620 · 30/09 **1,480** · **01/10 740** (Bosch angle grinder 470, 2× office extensions 120, Jiji Gorilla tape 150) · **02/10 2,800** (Jiji: Energizer AA 200, Gorilla micro glue 120, Antinox duct tape 250; walk-in: **Sony home theatre BDVN790 + woofer + 2 spkrs + amp 500**, heat pad 200, B&D jigsaw 330, 6-plug ext 100; walk-in Jiji: **Ryobi drill 950**, Erbauer router 150). Sept-Oct channel healthy; Jiji weekend + walk-in both firing.
 - 🚩 **NEW RFQ (01/10):** Olymech Interyradin +233 20 894 5854 — 3 line items (SS strapping buckles 20mm, Stanley FatMax knife 5EA, Band-It 201 buckle 2BX). Real quoting lead; none in inventory. **Your call — arbitrage candidate (engineering fasteners). No sourcing taken.**
 - Customer inquiry loop (f3228b7ede78) running, **0 SLA breaches**; 01/10 whatsapp interaction handled (Jiji review ask + restock opt-in).
 - 💰 **Joycelyn paid GH¢1,500** (14–30 Sept; logged 01/10 to Vault/jobs/JOYCELYN_PAYMENTS.md). **Next GH¢2,500 due 31 Oct.** Contract pro-rata came up ~GH¢83 short in Sept — verify each cycle.
@@ -48,30 +53,31 @@
 
 ---
 
-## 3. Security Posture — ⚠️ NOT AUDITED (env failure) — review carried status
-- ❌ **security-policy-check FAILED 26–30 Sep & still failing** — `ModuleNotFoundError: No module named 'pydantic_core._pydantic_core'` (pydantic env corrupted). **No security audit report since 24/09.** Unverified carried items: dual-`.env` divergence (stale home-root revoked stub vs active AppData token), ≥30 `.env`-reader scripts, WhatsApp re-pair status, Nous `invalid_grant`.
-- ⚠️ **NO fresh audit = posture UNKNOWN today.** Treat all carried findings as unresolved until `pydantic_core` env is fixed and the audit re-runs.
-- ✅ Confirmed delivered (Kwasi, 01/10): credential exposure not implicated in that path.
+## 3. Security Posture — ✅ AUDIT PASSED 02/10 (0 CRITICAL)
+- ✅ **security-policy-check SUCCESS (1b7107630fe3, 02/10 07:10) — first since 24/09.** Report saved `Vault/System/Assistant/SECURITY_AUDIT_2026-10-02.md`, summary delivered to topic 20 (msg 11635).
+- ✅ **Telegram token VALID (getMe ok @Ogaitchhermesbot, live AppData root) — reverses ~5 days of 404/revoked. Delivery restored.** Backup `.env` copies: **0**. `google_token.json` ACL: PASS. No credential-cache files.
+- ⚠️ **WARNs:** Gateway **disconnected since 01 Oct 13:26** (clean exit, no crash-loop — token valid so direct-API delivery works); WhatsApp creds present but adapter **not active**; **27/57 jobs (47%) deliver local/origin** (may never reach user); **16 `.env`-reader scripts** (down from 35); `allow_all_users: true` on 2 platforms (verify); Nous Portal invalid refresh token (non-blocking, custom endpoint).
+- Net: **0 CRITICAL, 1 FAIL-improved (16 .env scripts), 3 WARN.** Strong recovery from the Sept crisis.
 
 ---
 
-## 4. System Health — 🔴 MODEL ENV CORRUPTED = systemic cron failures
-- 🔴 **`ModuleNotFoundError: No module named 'pydantic_core._pydantic_core'`** breaking agent init for multiple jobs: **security-policy-check, monthly-evolution, health-check-morning, 2Real Daily Ops + Daily Jiji, tasks-queue-sync**. Root cause: pydantic/pydantic_core install corrupted (likely a partial Python/pip event). **Fix: reinstall pydantic-core in the Hermes venv** (`uv pip install --force-reinstall pydantic-core` or restore venv from backup), then verify with `hermes doctor`.
-- **Cron SLA (01/10): ~43 outputs across ~28 job IDs.** Distinct failing jobs (~8 IDs) mostly trace to the pydantic error or provider reachability. Jobs on healthy env (WhatsApp bridge, customer-loop) delivered fine.
-- ✅ **WhatsApp bridge re-paired** (previously disabled/unpaired since ~Jul) — major unblock for Dad/Kwasi/Kanzoni/John/Eric check-ins.
-- 🖥️ **Backup:** last full 20/09 (2.4 GB, 38,679 files, DBs byte-verified); **27/09 backup ran (6,172 B output).** No Oct backup yet.
+## 4. System Health — 🔴 MODEL ENV PARTIALLY CORRUPTED; gateway down (token valid)
+- 🔴 **`ModuleNotFoundError: pydantic_core._pydantic_core`** breaking agent init for some jobs (health-check-morning, 2Real Daily Ops + Daily Jiji, tasks-queue-sync, monthly-evolution). **Security-policy-check cleared it today** — so corruption is partial/per-job. Fix: `uv pip install --force-reinstall pydantic-core`, then `hermes doctor`.
+- ⚠️ **Gateway disconnected since 01 Oct 13:26** (clean exit, no crash-loop). Telegram token VALID → on-demand direct-API delivery works despite gateway down. Restart gateway to restore live adapters.
+- **Cron SLA (02/10): ~31 outputs across ~28 job IDs.** Healthy jobs delivered (security audit msg 11635, WhatsApp/Hughie check-in 01/10, inquiry loop).
+- ✅ **WhatsApp bridge re-paired** — Kwasi weekly check-in delivered 01/10 (success:true).
+- 🖥️ **Backup:** last full 20/09 (2.4 GB, 38,679 files, DBs byte-verified); **27/09 ran**; no Oct backup output yet — confirm tonight (~23:03).
 - ⚠️ **Synthesis/daily-note chain gap Sep 25–Oct 1** — flagged for scheduler restoration.
 
 ---
 
 ## 5. Priority Actions
-1. 🔴 **Fix pydantic_core env** (reinstall in Hermes venv) → restores security audit + health-morning + 2Real ops + tasks-sync jobs. Highest leverage action.
-2. 🔴 **H:** reorder Renerve (tremor unmedicated); run 1,075 GH labs (kidney safety net for daily ibuprofen); take BP/pulse (38 days); confirm 31 Aug review.
-3. 🔴 **Mum:** confirm sodium-recheck labs (due ~24 Sep); resume BP (RIGHT arm); **confirm Dr Morris on salt-therapy vs Na 161.2**; stock Imodium; backfill 29–30 Sep if reports exist.
-4. 🟠 **2Real:** log 01/10 sales; **decide on Olymech RFQ** (strapping buckles arbitrage); recharge Jiji (TOP+ 500 lost); prep Joycelyn GH¢2,500 for 31 Oct.
-5. 🟠 **Chain restore:** recreate/verify integrated-daily-synthesis + Vault/Daily scheduler so future days don't gap after env is fixed.
-6. 🟡 **Security:** once env fixed, re-run audit to re-establish posture baseline.
+1. 🔴 **H:** reorder Renerve (tremor unmedicated); run 1,075 GH labs (kidney safety net for ibuprofen); take BP/pulse (39 days); confirm 31 Aug review outcome.
+2. 🔴 **Mum:** confirm sodium-recheck labs (due ~24 Sep); **get Dr Morris to reconcile salt-therapy vs Na 161.2**; stock Imodium; resume BP on 2 Oct (RIGHT arm).
+3. 🟠 **2Real:** keep sales log current (01/10 740, 02/10 2,800 logged); decide Olymech RFQ; recharge Jiji TOP+ (500 lost); prep Joycelyn GH¢2,500 for 31 Oct.
+4. 🟠 **System:** restart gateway to restore live adapters (token valid now); fix pydantic_core for remaining jobs; re-route 27 local/origin deliveries to Telegram topics.
+5. 🟡 **Security:** trim 16 `.env`-reader scripts; verify `allow_all_users`; re-auth Nous Portal.
 
 ---
 
-*Sources verified on-disk 02/10. Cron SLA flagged but env failure is systemic, not per-job. Full chain files: H_MEDICAL_MASTER, MUM_MEDICAL_MASTER, daily-sales-log, customer-interactions, 2Real agent JSONs, cron outputs (01/10), security-policy-check output.*
+*Sources verified on-disk 02/10 end-of-day. Security posture upgraded to ✅ PASS (0 CRITICAL) per the 07:10 audit. Chain files: H_MEDICAL_MASTER, MUM_MEDICAL_MASTER, daily-sales-log, customer-interactions, SECURITY_AUDIT_2026-10-02, cron outputs.*

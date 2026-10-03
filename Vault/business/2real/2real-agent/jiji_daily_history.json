@@ -2374,5 +2374,106 @@
     ],
     "date": "2026-09-25",
     "saved_at": "2026-09-25T06:31:19.064854"
+  },
+  {
+    "active": 1266,
+    "reviewing": 0,
+    "draft": 0,
+    "declined": 8,
+    "closed": 115,
+    "followers": 335,
+    "feedback": 203,
+    "clients": 36,
+    "top_remaining": "500 of 500",
+    "top_expires": "16/12/26",
+    "whatsapp_ads_active": true,
+    "whatsapp_ads_until": "17 Oct 2026",
+    "balance_ghs": 0,
+    "top_items": [
+      {
+        "name": "Ring 8A Smart Battery Charger 12V/24V",
+        "price": 1150,
+        "impressions": 339,
+        "visitors": 29,
+        "chats": 0
+      },
+      {
+        "name": "Original Gillette Labs Exfoliating Razor",
+        "price": 480,
+        "impressions": 173,
+        "visitors": 25,
+        "chats": 1
+      },
+      {
+        "name": "Halfords 120cm Heavy Duty Chain Lock",
+        "price": 850,
+        "impressions": 157,
+        "visitors": 250,
+        "chats": 2
+      },
+      {
+        "name": "INGCO Tile Cutter 1100mm",
+        "price": 1370,
+        "impressions": 114,
+        "visitors": 12,
+        "chats": 0
+      },
+      {
+        "name": "Westland Resolva Bug Killer Concentrate",
+        "price": 350,
+        "impressions": 74,
+        "visitors": 7,
+        "chats": 0
+      },
+      {
+        "name": "BugClear Ultra 2 Organic Insecticide",
+        "price": 250,
+        "impressions": 73,
+        "visitors": 8,
+        "chats": 0
+      },
+      {
+        "name": "TP-Link Tapo C200 Security Camera",
+        "price": 650,
+        "impressions": 47,
+        "visitors": 8,
+        "chats": 0
+      },
+      {
+        "name": "Dyson Cyclone V10 Stick Vacuum",
+        "price": 2000,
+        "impressions": 43,
+        "visitors": 5,
+        "chats": 0
+      },
+      {
+        "name": "Keter Go Bar Cooler Side Table",
+        "price": 1000,
+        "impressions": 10,
+        "visitors": 4,
+        "chats": 0
+      },
+      {
+        "name": "Sphero 2.0/Ollie Bluetooth Robot",
+        "price": 600,
+        "impressions": 4,
+        "visitors": 3,
+        "chats": 0
+      }
+    ],
+    "needs_attention": [
+      "3 ads were declined (alert) - 8 declined total, edit and resubmit",
+      "Ring 8A Battery Charger: 339 imp, 29 visitors, 0 chats - high reach no conversion",
+      "INGCO Tile Cutter: 114 imp, 0 chats - reach not converting",
+      "GH0 balance - recharge to use TOP+/Pro Sales effectively"
+    ],
+    "action_items": [
+      "PUT TOP+ on Ring 8A Smart Battery Charger (339 imp, no chats) - top reach item",
+      "WhatsApp ads renewed & ACTIVE to 17 Oct - keep running",
+      "Fix/resubmit the 3 declined ads",
+      "Reply to active chats: Halfords Chain Lock (2), Gillette Razor (1)"
+    ],
+    "date": "2026-10-02",
+    "saved_at": "2026-10-02T06:41:08.090342"
   }
 ]
