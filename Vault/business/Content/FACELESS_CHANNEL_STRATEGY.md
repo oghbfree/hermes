@@ -142,7 +142,7 @@ The Taiwah Builds strategy is NOT a separate workflow — it runs inside the exi
 - Every 2Real post must follow the **craft + business format** (never one alone)
 - Every 2Real post must carry the **Taiwah Builds voice** — "The business + craft of building, told by a real Ghanaian builder"
 - Instagram is the primary platform — Reels, feed posts, carousels, Stories
-- CTA: Comment trigger keywords ("PRICING", "TILE", "TOOLS") for free templates, plus 📱 WhatsApp 0233352252 to order
+- CTA: Comment trigger keywords ("PRICING", "TILE", "TOOLS") for free templates, plus 📱 WhatsApp 0204252252 to order
 - Hashtags: #GhanaBusiness #contractors #construction #taiwahbuilds (primary set)
 
 **Monthly M0–M2 KPI injected into Saturday performance review:**

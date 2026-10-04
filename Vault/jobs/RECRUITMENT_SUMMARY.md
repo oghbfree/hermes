@@ -1,27 +1,27 @@
 # Recruitment Pipeline Summary
 
-## Update: September 2026
+## Update: October 2026
 
 ### Totals
 
-- **67 total applicants** (updated 2026-09-24)
-- **Nurses: 50** (NMC + 3–5yrs experience: 7/50, top pick: Charlotte Nortey — NMC + car + licence)
-- **Facilitators: 3** (Eyiah #1, Patrick Bediako #2, Kwaku #3)
-- **Construction: 12** (Awal #1, Kwame #2, Derrick #3, Amane John #4, Amuzu #5, Woedzagbagba #6, Eric #7)
+- **70 total applicants** (updated 2026-10-03, +3)
+- **Nurses: 51** (NMC + 3-5yrs experience: 7/51, top pick: Charlotte Nortey - NMC + car + licence)
+- **Facilitators: 4** (Eyiah #1, Patrick Bediako #2, Kwaku #3, Courage Agbalekpor #4)
+- **Construction: 13** (Awal #1, Kwame #2, Derrick #3, Amane John #4, Amuzu #5, Woedzagbagba #6, Eric #7, Arthur Kofi Shadrack #8)
 - **Financial Literacy: 2** (Felix Boateng #1, Benjamin Lolo #2)
 
 ### Top Candidates
 
 **Nurse #1: Charlotte Nortey**
-- NMC ✅ | 3-5yrs experience | Has car + licence
+- NMC | 3-5yrs experience | Has car + licence
 - Phone: 0545995731
 
 **Nurse #2: Tetteh Dorcas Worlali**
-- NMC ✅ | 3-5yrs experience
+- NMC | 3-5yrs experience
 - Phone: 0543168947
 
 **Nurse #3: Helen Kwakye**
-- NMC ✅ | 3-5yrs experience
+- NMC | 3-5yrs experience
 - Phone: 0247-048-066
 
 **Financial Literacy #1: Felix Ayettey Boateng**
@@ -31,17 +31,26 @@
 - Bachelor's | 1-2yrs teaching | Entrepreneur/Investor
 
 **Construction #1: AWAL MOHAMMED HASHIM**
-- Mason/Blockworker | 10+yrs | Foreman ✅
+- Mason/Blockworker | 10+yrs | Foreman
 
 **Facilitator #1: Eyiah Michael Osardu**
 - BSc IT | mBot exp | Coding 5/5 | Mon-Fri avail
 
-### Latest Pull (2026-09-24)
+### New This Pull (2026-10-03)
 
-**0 new applications** since last reported pull (2026-09-22, 2-day gap). Token refreshed 2026-09-24. Pipeline totals unchanged at 67. Top candidates unchanged.
+**3 new applications** since last reported pull (2026-09-24, 9-day gap; all arrived before the non-reported 2026-10-01 fetch). Pipeline 67 -> **70**. Top priority tiers unchanged.
+
+- **Nurse - Kpodo Faith** (28/09): NMC but 0-2yrs exp, no car/licence -> below top tier (backup candidate)
+- **Construction - Arthur Kofi Shadrack** (26/09): Electrician, foreman, 3-5yrs -> below 6+ tier; adds electrical capability
+- **Facilitator - Courage Agbalekpor** (26/09): BSc IT, coding 4/5, teaches, no mBot, Tue/Thu only -> below mBot tier
+
+### Latest Pull (2026-10-03)
+
+**3 new applications** since last reported pull (2026-09-24). Token refreshed 2026-10-03 (was expired since 10-01). Pipeline totals now **70** (51 nurses, 13 construction, 4 facilitators, 2 financial literacy).
 
 ### Detailed Reports
 
+- [[jobs/APPLICATIONS-REPORT-2026-10-03.md]] (3 new apps: 1 nurse + 1 construction + 1 facilitator; token refreshed)
 - [[jobs/APPLICATIONS-REPORT-2026-09-24.md]] (no new apps; token refreshed)
 - [[jobs/APPLICATIONS-REPORT-2026-09-21.md]] (no new apps; token refreshed)
 - [[jobs/APPLICATIONS-REPORT-2026-09-20.md]] (+1 nurse, below NMC threshold; token refreshed)
@@ -84,10 +93,10 @@
 
 ### Status
 
-- **Google Sheets Auth: ACTIVE** — Token refreshed 2026-09-24
-- Last successful pull: 2026-09-24
+- **Google Sheets Auth: ACTIVE** - Token refreshed 2026-10-03
+- Last successful pull: 2026-10-03
 - All 4 pipelines accessible
-- No new applications since 2026-09-22 (0 new apps this pull)
+- 3 new applications since 2026-09-24 (this pull)
 
 ## Related
 
