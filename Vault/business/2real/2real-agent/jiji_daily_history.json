@@ -2556,5 +2556,84 @@
     "date": "2026-10-03",
     "saved_at": "2026-10-03T06:34:20.360213",
     "updated_at": "2026-10-03T06:34:40.567952"
+  },
+  {
+    "active": 1272,
+    "reviewing": 3,
+    "draft": 0,
+    "declined": 5,
+    "closed": 115,
+    "followers": 335,
+    "feedback": 203,
+    "clients": 37,
+    "top_remaining": "500 of 500",
+    "top_expires": "16/12/26",
+    "whatsapp_ads_active": true,
+    "whatsapp_ads_until": "17 Oct 2026",
+    "balance_ghs": 0,
+    "top_items": [
+      {
+        "name": "Ring 8A Smart Battery Charger Maintainer (RSC808)",
+        "price": 1150,
+        "impressions": 346,
+        "visitors": 29,
+        "chats": 0
+      },
+      {
+        "name": "Halfords 120cm Heavy Duty Chain Lock",
+        "price": 850,
+        "impressions": 183,
+        "visitors": 251,
+        "chats": 2
+      },
+      {
+        "name": "Original Gillette Labs With Exfoliating Bar Razor",
+        "price": 480,
+        "impressions": 169,
+        "visitors": 26,
+        "chats": 1
+      },
+      {
+        "name": "INGCO Tile Cutter 1100mm",
+        "price": 1370,
+        "impressions": 147,
+        "visitors": 12,
+        "chats": 0
+      },
+      {
+        "name": "BugClear Ultra 2 Organic Insecticide Spray",
+        "price": 250,
+        "impressions": 99,
+        "visitors": 9,
+        "chats": 0
+      },
+      {
+        "name": "Westland Resolva Bug Killer Concentrate",
+        "price": 350,
+        "impressions": 97,
+        "visitors": 7,
+        "chats": 0
+      },
+      {
+        "name": "TP-Link Tapo C200 Pan/Tilt Wi-Fi Camera",
+        "price": 650,
+        "impressions": 76,
+        "visitors": 8,
+        "chats": 0
+      }
+    ],
+    "needs_attention": [
+      "5 declined ads + 3 in reviewing to clear",
+      "Ring 8A charger: 346 impressions, 0 chats",
+      "INGCO Tile Cutter: 147 impressions, 0 chats"
+    ],
+    "action_items": [
+      "Rename/photo-tweak Ring 8A + INGCO high-impression 0-chat ads",
+      "Fix 5 declined ads",
+      "Use 10 available ad discounts"
+    ],
+    "date": "2026-10-04",
+    "data_note": "LIVE CAPTURE BLOCKED this run (browser daemon hung). Reporting last known data saved 2026-10-03.",
+    "saved_at": "2026-10-04T06:46:33.325853"
   }
 ]

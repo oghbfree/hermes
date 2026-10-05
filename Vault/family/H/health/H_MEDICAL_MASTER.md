@@ -524,3 +524,26 @@
 ### 🌅 Morning Health Check
 - **Status:** 🔴 DATA GAP — food diary last logged **28 Sep**, now **5 days silent** (29 Sep–3 Oct); treat as red until restored. 🔴 **Renerve Plus supply still ZERO** — pack finished 28 Sep, tremor unmedicated **5 days; reorder still pending** (Pharmabay ~295 GH) or raise at next doctor contact. 🔴 **31 Aug post-shock follow-up outcome still undocumented, now 33 days** — confirm attended & log tremor/X-ray/labs. 🔴 **Blood-work labs (1,075 GH panel) still PENDING** — requisition photo never reached Nita; blood work stays 6+ yrs stale until drawn. 🟡 Watch: recurring AM headaches + sinus (22 Sep onset, no new logging since 29 Sep) — ibuprofen 400 mg daily carries achalasia/GI + kidney risk until labs run; left arm tremor unmedicated in the gap; **no fresh vitals since 24 Aug (40 days)**; toenail fungus on Candid lotion. 🟢 Stable: no new acute onset since 29 Sep; no chest pain; pericarditis quiescent; vitals normal at 24 Aug visit. ACTION: **reorder Renerve today** (tremor unmonitored 5 days), run the pending labs (kidney safety net for ibuprofen), take a fresh BP/pulse reading, book/confirm the 31 Aug review outcome, resume meal logging. For AM headaches: steam + warm compress + salt-water gargle + stop eating 3h before bed (reflux worsens phlegm) before reaching for ibuprofen.
 - **Check-in:** Asked H about breakfast, energy, symptoms
+
+---
+
+## 2026-10-04 (Sun)
+
+### 🌅 Morning Health Check
+- **Status:** 🔴 DATA GAP — food diary last logged **28 Sep**, now **6 days silent** (29 Sep–4 Oct); treat as red until restored. 🔴 **Renerve Plus supply still ZERO** — pack finished 28 Sep, tremor unmedicated **6 days; reorder still pending** (Pharmabay ~295 GH) or raise at next doctor contact. 🔴 **31 Aug post-shock follow-up outcome still undocumented, now 34 days** — confirm attended & log tremor/X-ray/labs. 🔴 **Blood-work labs (1,075 GH panel) still PENDING** — requisition photo never reached Nita; blood work stays 6+ yrs stale until drawn. 🟡 Watch: recurring AM headaches + sinus (22 Sep onset, no new logging since 29 Sep) — ibuprofen 400 mg daily carries achalasia/GI + kidney risk until labs run; left arm tremor unmedicated in the gap; **no fresh vitals since 24 Aug (41 days)**; toenail fungus on Candid lotion. 🟢 Stable: no new acute onset since 29 Sep; no chest pain; pericarditis quiescent; vitals normal at 24 Aug visit. ACTION: **reorder Renerve today** (tremor unmonitored 6 days), run the pending labs (kidney safety net for ibuprofen), take a fresh BP/pulse reading, book/confirm the 31 Aug review outcome, resume meal logging. For AM headaches: steam + warm compress + salt-water gargle + stop eating 3h before bed (reflux worsens phlegm) before reaching for ibuprofen.
+- **Check-in:** Asked H about breakfast, energy, symptoms
+
+---
+
+### 📊 Weekly Review — Sep 28 – Oct 4, 2026
+**Generated:** Sun 4 Oct 2026
+
+🔴 **Red Flags:** (1) **Renerve Plus supply ZERO** — pack finished 28 Sep, left-arm tremor now unmedicated **6 days**; reorder still pending (~295 GH, Pharmabay) or raise at next doctor contact. (2) **31 Aug post-shock follow-up outcome still undocumented, now 34 days** — tremor/X-ray/labs unrecorded; blocks whole onward pipeline. (3) **Blood-work labs (1,075 GH panel) still not run** — requisition photo never reached Nita; blood work stays 6+ yrs stale. (4) **Food diary collapsed — 6-day silence (29 Sep–4 Oct)**, nothing logged since the clean Mon 28 Sep.
+
+🟡 **Watch:** Recurring **AM headaches** (22 Sep onset) treated with **ibuprofen 400 mg daily** — carries achalasia/GI + kidney risk until labs run; limit ≤400 mg with food, short-term only. Sinus/phlegm ongoing. **No vitals since 24 Aug (41 days)** — monitoring drifting. Left-arm tremor unmedicated during the Renerve gap — if it returns/worsens that's the reorder trigger. Toenail fungus on Candid lotion only.
+
+🟢 **Good:** No new acute onset since 29 Sep, no chest pain, no dysphagia episodes, pericarditis quiescent; vitals normal at the 24 Aug visit. Meals were clean and consistent while logged (26–28 Sep: 3 eggs B, pineapple/banana/peanuts L, yam+kontomire D; daily Vit C + garlic).
+
+📈 **Trends:** The week flipped from monitoring-positive to monitoring-regressed. **Renerve adherence** (daily 26–28 Sep) was undone by the pack running out — now **unmedicated 6 days**, a new active red flag. **Food logging** dropped from 7/7 (Sep 14–20) to **0/7 this week** 🔴. The two structural items remain frozen and worsening: 31 Aug review undocumented 20→34 days, labs unchanged. **Vitals** drifting (27→41 days). New watch item: daily ibuprofen for AM headaches layered onto unrun kidney labs.
+
+💡 **Top 3 Actions This Week:** 1. **Reorder Renerve Plus today** — tremor unmedicated 6 days; the reorder call doubles as your contact to confirm the 31 Aug review outcome. 2. **Run the pending 1,075 GH lab panel** (re-send requisition / call UGMC) — it is the kidney-safety net for your daily ibuprofen and unblocks everything. 3. **Resume meal logging** and manage the AM headaches with the sleep protocol first (steam + salt-water gargle + stop eating 3h before bed) before reaching for ibuprofen; take a fresh BP/pulse reading.

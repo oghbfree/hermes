@@ -33,3 +33,7 @@
 | Stanley ref | Ballard US / D&M Tools UK | - | Stanley 10-778 | $15.74 / GBP 15.99 | Reference landed ~GHS 250 + freight |
 
 ## (Add categories as deals happen: tools, electrical, plumbing, safety gear...)
+## Competitor Watch
+| Competitor | Base | Focus | Intel | Notes |
+|---|---|---|---|---|
+| EJ Deals | Oyarifa, Accra (Jiji) | China-import test batches: R36S consoles, compat batteries, magnetic toys, faraday pouches, solar cams, RC cars | See EJ_DEALS_SOURCING_BRIEF.md (same folder) | Same area as our Oyarifa warehouse; batteries GHS 700/pc = our battery line priced right |

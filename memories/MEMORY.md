@@ -485,3 +485,14 @@ _facts below are limited to verified findings. Last refreshed: 2026-10-02._
 10. **CRITICAL**: Security audit Jul 11 CONFIRMED FAIL — 7 CRITICAL findings (Telegram token INVALID 404, gateway PID dead, DNS failure host-level, 49 backup .env copies, 18 workspace .env readers, WhatsApp unpaired 65+ days, InvalidToken in logs)
 11. **HIGH**: H health log — no vitals 40 days, electrical shock follow-up 29 days overdue, 3-day logging gap Jul 8-10
 12. **MEDIUM**: Integrated-daily-synthesis job STILL MISSING from jobs.json — must restore/recreate (ID varies per install, find via cron output dir)
+
+## 2026-10-04 Consolidated
+- **Cron SLA restored to 100%** (39/39 resolved, 0 fail) — systemic 83–90% failure of prior months resolved; 44 active / 13 paused. 7 weekly-review jobs hit `send_path_degraded` (delivery-only, not execution).
+- **Security audit 04/10: PASS (0 CRITICAL).** Gateway still DOWN since 01 Oct via token root-divergence (valid token = AppData\Local\hermes\.env; stale revoked in ~/.hermes/.env). Fix: copy valid token → `~/.hermes/.env` + restart gateway → unblocks mum topic-4 read, WhatsApp, 27 silent jobs. No DNS blips today.
+- **Jiji GHC balance 0 — recharge.** Olymech RFQ **6000997164** OVERDUE ~48h (SS buckles ×100, Stanley 10-778 ×5, Band-It 201 ×2; arbitration-linked — sign-off before pricing). Inventory: 480 SKUs ≤2 (Online wind-down dominant); **negative-stock errors** to fix: Rotary Hammer RGH9028, B&D "Bag".
+- **2Real sales week 29/9–3/10 GH¢5,640** (best 2/10 = 2,800); 03/10 zero (cleaning day); 04/10 Sunday unlogged; open Monday for container traffic. Jiji 848 inquiries all resolved.
+- **Content Week 05–11 Oct VERIFIED COMPLETE** (81 stills + 4 MP4 + 57 copy, self-score 94/100, `{W}` token defect fixed) → awaiting H's approval in **TG #26** before anything posts.
+- **Mum:** BP healthy all week 119–130/65–80, no dose-holds; sodium-recheck labs ~10 days overdue; Imodium not stocked; salt-therapy vs Na 161.2 + Furosemide dose review open with Dr Morris. 4 Oct unlogged (topic-4 connector down since 13 Sep); 2 Oct report missing.
+- **H:** food diary silent 6 days (last 28 Sep); Renerve Plus ZERO 6 days (tremor unmedicated, reorder Pharmabay ~295GH); 31 Aug post-shock follow-up undocumented 34 days; labs (1,075 GH) pending; no vitals 41 days. Dental 12 Oct 10:30.
+- **Dad:** 3-day wellbeing check ran 04/10 (new DAD_WELLBEING_2026-10-04.md) but snapshot gap ~65 days (last 31/07); 16 Jul diabetic foot day-case outcome still unrecorded (highest-risk open gap).
+- **FB Marketplace Batch Poster ACTIVE** (04/10, posting Ryobi/Makita/Ring chargers to Home & Garden) despite appearing paused in status report.
