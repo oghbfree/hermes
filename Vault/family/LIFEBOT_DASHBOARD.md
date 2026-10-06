@@ -1,4 +1,4 @@
-# 📅 LIFEBOT — Today's Family Brief (2026-10-04)
+# 📅 LIFEBOT — Today's Family Brief (2026-10-05)
 
 ## H
 - | 6 | **Toenail fungus + toe pain** — both feet, right > left. Pain in right toe | ~Aug 2026 | **NOW EVALUATED** | Doctor said it will regrow. H forgot to ask about medication. X-ray ordered for painful toe (219 GH). Continue Candid lotion. Follow-up Mon 31 Aug. | 🟡 ONGOING |

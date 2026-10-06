@@ -32,20 +32,28 @@ def get_progress():
     gap = json.loads(GAP_FILE.read_text(encoding="utf-8")) if GAP_FILE.exists() else {}
     prog = {
         "total_gap": gap.get("total_gap", 0),
-        "listed": 0,
+        "gap_remaining": gap.get("total_gap", 0),
         "history": [],
     }
     PROGRESS_FILE.write_text(json.dumps(prog, indent=2))
     return prog
 
 
-def record_listed(n_listed):
-    """John reports how many gap items he has listed; we track it."""
+def _gap_of(entry):
+    """History entries before 05 Oct 2026 used key 'listed' to hold gap remaining."""
+    if "gap_remaining" in entry:
+        return entry["gap_remaining"]
+    return entry.get("listed", 0)
+
+
+def record_gap(n_gap):
+    """Monday re-scan: record the current gap remaining (items not on Jiji)."""
     prog = get_progress()
-    prog["listed"] = n_listed
+    prog["gap_remaining"] = n_gap
+    prog.pop("listed", None)  # drop legacy mislabelled key
     today = datetime.now().strftime("%Y-%m-%d")
     prog["history"] = [h for h in prog.get("history", []) if h.get("date") != today]
-    prog["history"].append({"date": today, "listed": n_listed})
+    prog["history"].append({"date": today, "gap_remaining": n_gap})
     prog["history"] = prog["history"][-60:]
     PROGRESS_FILE.write_text(json.dumps(prog, indent=2))
     return prog
@@ -58,9 +66,7 @@ def countdown_block():
     d_uk = days_until(UK_ORDER_DEADLINE)
     weeks = d_christmas // 7
 
-    total = prog.get("total_gap", 0)
-    listed = prog.get("listed", 0)
-    remaining = max(total - listed, 0)
+    remaining = int(prog.get("gap_remaining", prog.get("listed", 0)))
 
     lines = []
     lines.append("\U0001f384 *CHRISTMAS COUNTDOWN*")
@@ -70,9 +76,7 @@ def countdown_block():
         lines.append(f"  \U0001f69b UK order deadline: {d_uk} days left ({urgency} — after {UK_ORDER_DEADLINE} shipping won't arrive in time)")
     else:
         lines.append(f"  \U0001f534 UK ORDER DEADLINE PASSED — Christmas stock must now come locally")
-    lines.append(f"  \U0001f4cb Gap items: {total} not on Jiji")
-    lines.append(f"  \u2705 Listed so far: {listed}")
-    lines.append(f"  \u23f3 Remaining: {remaining}")
+    lines.append(f"  \U0001f4cb Gap items remaining: {remaining} not on Jiji")
 
     # Pace check: to clear the gap before Nov 15 (boost deadline)
     try:
@@ -87,17 +91,18 @@ def countdown_block():
     # Weekly trend (last 2 entries)
     hist = prog.get("history", [])
     if len(hist) >= 2:
-        prev = hist[-2]["listed"]
-        delta = listed - prev
-        lines.append(f"  \U0001f4c5 Week-on-week: {'+' if delta >= 0 else ''}{delta} listings")
+        prev = _gap_of(hist[-2])
+        delta = remaining - prev
+        verb = "cleared" if delta < 0 else "added"
+        lines.append(f"  \U0001f4c5 Week-on-week: {delta:+d} gap items ({abs(delta)} {verb})")
     lines.append("")
-    return "\n".join(lines), {"d_christmas": d_christmas, "d_uk": d_uk, "total": total, "listed": listed, "remaining": remaining}
+    return "\n".join(lines), {"d_christmas": d_christmas, "d_uk": d_uk, "remaining": remaining}
 
 
 if __name__ == "__main__":
     import sys
     if len(sys.argv) > 1 and sys.argv[1].isdigit():
-        prog = record_listed(int(sys.argv[1]))
-        print(f"Recorded: {prog['listed']} gap items listed")
+        prog = record_gap(int(sys.argv[1]))
+        print(f"Recorded: gap remaining = {prog['gap_remaining']} items not on Jiji")
     block, _ = countdown_block()
     print(block)

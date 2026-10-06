@@ -1,48 +1,51 @@
 # 2Real — Monthly Financial Summary
-*Last updated: 10 Sep 2026*
+*Last updated: 3 Oct 2026*
 
 ## Monthly Costs
 
 | Item | GH₵/month | Notes |
 |---|---|---|
 | Sammy wage | 1,700 | Also helping neighbour free |
-| John wage | 1,200 | Current |
+| John wage | 1,200 | **Uncertain — may leave** |
 | Stephanie (nurse — Mum) | 2,000 | |
 | Kobena (facilitator) | 2,000 | |
 | Speech therapist (both kids) | TBD | |
-| Warehouse ($400) | ~5,800 | |
-| Jiji Elite | 5,059 | Paid 3,600 discounted this month; normal price from 20/9 |
-| Transport (170 × 22 days) | 3,740 | 85 GH₵ each way by Uber/Bolt/Yango (standard) |
+| ~~Warehouse ($400)~~ | **~~5,800~~** | **Giving back — saving this** |
+| Jiji Lux (3-month plan) | **2,586** | 7,760 paid — runs to Christmas |
+| Transport (90 × 2 × 22) | **3,960** | Ride-hailing at 90 GH₵/trip |
 | Dome rent (your share/24mo) | 1,183 | 28,400 upfront + 10k Faustie |
 | Your personal/living | 5,000 | |
 | Mum's new housing | 5,000 | |
 | Food at market (50 × 22) | 1,100 | |
-| BTC daily (50 × 30) | 1,500 | |
+| BTC daily (50 × 30) | 1,500 | **Pausing temporarily for UK CC payoff** |
 | SikaSave (40 × 4) | 160 | |
-| **TOTAL (with speech TBD)** | **~36,102+** | |
+| Kia pickup (Paul) | TBD | 2,000 paid so far |
+| Fluid CC (UK) | **£900** | **Priority #1** |
+| **TOTAL (with speech TBD)** | **~30,302+** (excl. warehouse + pending John exit) | |
 
 ## Break-Even
 
-- **Monthly:** ~36,102+ GH₵
-- **Per selling day (22 days):** ~1,641+ GH₵
+- **Current monthly:** ~30,302† GH₵ (after giving back warehouse)
+- **Per selling day (22 days):** **~1,378 GH₵**
+- **Daily target:** **2,500 GH₵**
+- **Buffer per day above breakeven:** ~1,122 GH₵
 
-## Revenue Snapshot
+## Revenue — September Actual
 
-| Period | Gross Sales |
+| Metric | Value |
 |---|---|
-| Last 9 selling days (Sep 3–9) | ~22,193 GH₵ |
-| Estimated monthly avg (@1,500/day) | ~33,000 GH₵ |
-| Estimated monthly avg (@2,000/day) | ~44,000 GH₵ |
+| **September total (net)** | **~41,778 GH₵** (~23 selling days) |
+| **September daily average** | **~1,816 GH₵** |
+| **Jiji share (post-Lux)** | **~55%** of sales |
+| **Best day** | 03/09 — 6,200 GH₵ |
+| **Inventory sitting profit** | 200,278 GH₵ (from Zobaze) |
 
 ## Key Ratios
 
 | Metric | Value |
 |---|---|
-| Breakeven vs avg daily | ~1,641 needed — current avg ~1,500-2,000 |
-| Biggest cost items | Warehouse 5,800 + Jiji 5,059 + Mum housing 5,000 |
-| Inventory sitting profit | 200,278 GH₵ (from Zobaze) |
-
-## Watch Items
-- **Jiji Elite ROI:** Is it generating >5,059 GH₵ in online sales per month? Track against walk-in vs Jiji split.
-- **Transport:** 4,400 GH₵ is 12% of burn — same as Sammy's wage.
-- **Warehouse:** 5,800 GH₵ for storage — worth reviewing if slow stock is worth keeping.
+| Breakeven (current) | **1,378/day** |
+| Target | **2,500/day** |
+| Biggest fixed costs | Mum 5,000 + Personal 5,000 + Transport 3,960 |
+| Largest variable saving | Warehouse return = **5,800/mo freed** |
+| Next milestone | Clear £900 CC → restart BTC at 30/day → Kia balance → savings |

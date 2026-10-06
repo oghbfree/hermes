@@ -2,7 +2,18 @@
 
 Durable facts from periodic daily-processing runs.
 
-_facts below are limited to verified findings. Last refreshed: 2026-10-02._
+_facts below are limited to verified findings. Last refreshed: 2026-10-05._
+
+## 2026-10-05 Daily Processing Run
+- 🟢 **INTEGRATED_INSIGHTS_2026-10-05.md** (Vault/insights + memories/insights ×2) + `Vault/Daily/2026-10-05.md`. Cron SLA strong (34 outputs / ~27 jobs, 0 fail). Backup 04/10 VERIFIED: 2.7GB / 14,103 files / 0 secrets / 12 DBs byte-verified.
+- 🔒 **Security audit 05/10 PASS (0 CRITICAL)** — 2nd clean run. **NEW: duplicate TELEGRAM_BOT_TOKEN across 3 profiles** (content-buddy/harold/sat-nav share default's — one token can't serve >1 gateway). `.env` readers WORSENED to **35 workspace + 6 root** scripts. WhatsApp **improved** (creds.json present 3075B but `registered:False` — partial pair). Gateway STILL down via token root-divergence (valid AppData root, stale revoked `~/.hermes/.env`, exit code 78). 27/57 jobs silent. Topic 20 verified (probe msg 11719).
+- 🚨 **2Real FB Marketplace BLOCKED (NEW):** account (Oman Ghan Herbert-blankson) shows **only 1 active listing** (Ring Battery Charger GH₵1,500) though fb_posted.json records **61 posted** — Facebook removed most, likely triggered posting limit. Handsaw (IRWIN JACK) listing absent. **Posting blocked until H checks profile/support inbox.**
+- 💼 **2Real 05/10: GH¢630** (LG CM4360 350 — cost £5; toy blocks 280 — free). Monday opening caught container foot traffic; 04/10 Sunday unlogged. Jiji 848 inquiries all resolved (0 pending); inquiry loop 5× clean, no new interactions since 01 Oct.
+- 🩺 **H:** food diary silent **7 days** (last 28 Sep); **Renerve ZERO 7 days** (tremor unmedicated, reorder ~295 GH pending); 31 Aug post-shock follow-up **35 days undocumented**; labs 1,075 GH pending; no vitals **42 days**; AM headaches on ibuprofen 400 mg. Dental 12 Oct 10:30 booked.
+- 🩺👵 **Mum:** 4 Oct BP **132/83 ✅** (Furo 12:15, salt rock 9am, son+grandsons visited). **2 & 4 Oct reports UNRECORDED** (topic-4 down since 13 Sep) — meals/vitals last fully logged 3 Oct. Sodium-recheck labs ~11 days overdue; Imodium unstocked; salt-therapy vs Na 161.2 + Furosemide dose review open; masseuse next Tue 6 Oct.
+- 👨 **Dad:** 3-day check ran 04/10 but ~65-day snapshot gap (last 31/07); 16 Jul diabetic foot day-case outcome still unrecorded; DVT/PSA items open.
+- 📦 **Content Week 05–11 Oct** complete (81 stills + 4 MP4 + 57 copy) → awaiting H's approval in **TG #26**.
+- ⚠️ Olymech RFQ 6000997164 still overdue (arbitration-linked). 480 SKUs ≤2; negative-stock errors (Rotary Hammer RGH9028, B&D "Bag"); Jiji GHC balance 0.
 
 ## 2026-10-02 Daily Processing Run
 - ✅ **SECURITY AUDIT PASSED 02/10 07:10 (first since 24/09) — 0 CRITICAL.** **Telegram token VALID (getMe ok @Ogaitchhermesbot, live AppData root) — delivery restored**, reversing ~5 days of 404/revoked. Backup `.env` copies: 0. Report: `Vault/System/Assistant/SECURITY_AUDIT_2026-10-02.md` (topic 20 msg 11635). WARNs: gateway disconnected since 01 Oct 13:26 (clean exit; valid token → direct-API delivery works), WhatsApp adapter not active (creds present), 27/57 jobs local/origin, 16 `.env`-reader scripts (down from 35), `allow_all_users:true` ×2.

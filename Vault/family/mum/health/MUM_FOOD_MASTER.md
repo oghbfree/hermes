@@ -96,8 +96,9 @@
 | 1 Oct | **Baked beans + scrambled eggs + kelewele** (ate all) · sobolo | Boiled yam + egg stew (piece 2:40pm) · watermelon juice 🍉 | **Boiled yam + egg stew + watermelon** (4:10pm — ate all) · chichinga + coconut water 🥥 |
 | 2 Oct | Corn dough porridge · sobolo · lemon water | Kenkey + light soup (ate all) · Don Simon (sugary — occasional) | — (radio evening) |
 | 3 Oct | Corn-dough porridge + 2 eggs · Fru Toli · 🧂 salt rock (1st logged application 9am) | Boiled beans + kelewele (occasional — fried ripe plantain) | — |
+| 4 Oct | Corn-dough porridge + 2 boiled eggs · 🧂 salt rock (self-administered 9am) | Kokonte + light soup (all) | — (drink with family; radio) |
 
-> **Backfill complete (3 Oct 26):** Meals to 3 Oct. 🧂 **Salt therapy (Dr Morris) started 3 Oct 9am** — daily compliance logged. 🌟 2 Oct: Mum requested her own BP check (132/80). Gentle swaps: Don Simon → watermelon/cucumber juice; kelewele occasional (fried ripe plantain).
+> **Backfill complete (4 Oct 26):** Meals to 4 Oct. 🧂 Salt therapy now self-managed (she does it herself, tells carer). BP check-then-dose discipline holding (4 Oct 132/83 → Furo served). Gentle swaps: Don Simon → watermelon juice; kelewele occasional.
 
 ---
 
