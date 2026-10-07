@@ -50,6 +50,7 @@ Append one line per day. The 4:30 AM briefing reads this file.
 | 02/10/26 |  | 2,800 | Jiji: Energizer AA 4pk batt (200 — cost £5), Gorilla micro glue (120 — cost £3), Antinox duct tape (250). Walk-in: Sony home theatre BDVN790 + woofer + 2 speakers + Acoustic Solutions amp (500 — amp free), heat pad (200), B&D jigsaw (330), 6-plug extension (100). Walk-in Jiji customer: Ryobi drill (950), Erbauer router not working (150) | Erbauer router non-working — repair candidate. Heat pad from 2 containers ago cleared |
 | 03/10/26 Sat |  | — | General cleaning day. Neighbour's container offloaded into shop next door | Zero sales — quiet. **Plan: open Monday to catch container traffic** |
 | 05/10/26 |  | 630 | Walk-in: LG CM4360 (350 — cost £5), bag of toy building blocks (280 — free, hospital clear out) | Monday opening caught container foot traffic. Both items sourced |
+| 06/10/26 |  | 3,090 | Walk-in: Mr Berry — Direct Power Circular Saw 1200W (500 — was 700 on Jiji, first customer deal), Kenwood blender (250). Jiji: Yamaha DX21 synth (550), Sony boombox (460). Oxford Hardcore XL (1,400 — customer paid 100 delivery Oyarifa→OSU, gave nice review). **Return cost -70** — briefcase returned, customer didn't read ad | **Mr Berry's number saved → added to Jiji catalog.** Strong day beat target |
 | 23/08/26 |  | — |  | Closed |
 | 24/08/26 |  | — |  | Closed |
 
