@@ -2716,5 +2716,86 @@
     ],
     "date": "2026-10-05",
     "saved_at": "2026-10-05T06:33:41.410727"
+  },
+  {
+    "active": 1278,
+    "reviewing": 1,
+    "draft": 0,
+    "declined": 9,
+    "closed": 115,
+    "followers": 336,
+    "feedback": 203,
+    "clients": 38,
+    "top_remaining": "500 of 500",
+    "top_expires": "16/12/26",
+    "whatsapp_ads_active": true,
+    "whatsapp_ads_until": "17 Oct 2026",
+    "balance_ghs": 0,
+    "top_items": [
+      {
+        "name": "Ring 8A Smart Battery Charger Maintainer (RSC808)",
+        "price": 1150,
+        "impressions": 339,
+        "visitors": 29,
+        "chats": 0
+      },
+      {
+        "name": "INGCO Tile Cutter 1100mm",
+        "price": 1370,
+        "impressions": 169,
+        "visitors": 12,
+        "chats": 0
+      },
+      {
+        "name": "Original Gillette Labs With Exfoliating Bar Razor",
+        "price": 480,
+        "impressions": 167,
+        "visitors": 27,
+        "chats": 1
+      },
+      {
+        "name": "BugClear Ultra 2 Organic Insecticide Spray",
+        "price": 250,
+        "impressions": 113,
+        "visitors": 9,
+        "chats": 0
+      },
+      {
+        "name": "Westland Resolva Bug Killer Concentrate",
+        "price": 350,
+        "impressions": 106,
+        "visitors": 7,
+        "chats": 0
+      },
+      {
+        "name": "TP-Link Tapo C200 Pan/Tilt Wi-Fi Camera",
+        "price": 650,
+        "impressions": 104,
+        "visitors": 10,
+        "chats": 0
+      },
+      {
+        "name": "Dyson Cyclone V10 Cordless Vacuum Main Motor Bin",
+        "price": 2000,
+        "impressions": 79,
+        "visitors": 5,
+        "chats": 0
+      }
+    ],
+    "needs_attention": [
+      "4 new ads declined (9 total)",
+      "Ring 8A charger: 339 imp, 0 chats - impressions declining",
+      "INGCO Tile Cutter: 169 imp, 0 chats",
+      "19 client messages not yet replied (813/832)",
+      "43 contact views + 24 saved-ads not followed up"
+    ],
+    "action_items": [
+      "Fix 4 newly-declined ads today",
+      "Rename/photo-tweak Ring 8A + INGCO high-impression 0-chat ads",
+      "Reply to 19 unanswered client chats + follow up 43 contact views",
+      "Use 10 available ad discounts"
+    ],
+    "date": "2026-10-07",
+    "saved_at": "2026-10-07T06:39:38.374974"
   }
 ]
