@@ -4,7 +4,7 @@
 
 ### Totals
 
-- **70 total applicants** (updated 2026-10-06, unchanged)
+- **70 total applicants** (updated 2026-10-08, unchanged)
 - **Nurses: 51** (NMC + 3-5yrs experience: 7/51, top pick: Charlotte Nortey - NMC + car + licence)
 - **Facilitators: 4** (Eyiah #1, Patrick Bediako #2, Kwaku #3, Courage Agbalekpor #4)
 - **Construction: 13** (Awal #1, Kwame #2, Derrick #3, Amane John #4, Amuzu #5, Woedzagbagba #6, Eric #7, Arthur Kofi Shadrack #8)
@@ -36,16 +36,17 @@
 **Facilitator #1: Eyiah Michael Osardu**
 - BSc IT | mBot exp | Coding 5/5 | Mon-Fri avail
 
-### New This Pull (2026-10-06)
+### New This Pull (2026-10-08)
 
-**No new applications** since last reported pull (2026-10-05). Pipeline total unchanged at **70**.
+**No new applications** since last reported pull (2026-10-06). Pipeline total unchanged at **70**.
 
-### Latest Pull (2026-10-06)
+### Latest Pull (2026-10-08)
 
-**No new applications** since last reported pull (2026-10-05). Token refreshed 2026-10-06 (was expired since 10-05). Pipeline totals remain **70** (51 nurses, 13 construction, 4 facilitators, 2 financial literacy).
+**No new applications** since last reported pull (2026-10-06). Token refreshed 2026-10-08 (was expired since 10-06). Pipeline totals remain **70** (51 nurses, 13 construction, 4 facilitators, 2 financial literacy).
 
 ### Detailed Reports
 
+- [[jobs/APPLICATIONS-REPORT-2026-10-08.md]] (no new apps; token refreshed)
 - [[jobs/APPLICATIONS-REPORT-2026-10-06.md]] (no new apps; token refreshed)
 - [[jobs/APPLICATIONS-REPORT-2026-10-05.md]] (no new apps; token refreshed)
 - [[jobs/APPLICATIONS-REPORT-2026-10-04.md]] (no new apps; token refreshed)
@@ -92,10 +93,10 @@
 
 ### Status
 
-- **Google Sheets Auth: ACTIVE** - Token refreshed 2026-10-06
-- Last successful pull: 2026-10-06
+- **Google Sheets Auth: ACTIVE** - Token refreshed 2026-10-08
+- Last successful pull: 2026-10-08
 - All 4 pipelines accessible
-- No new applications since 2026-10-05 (this pull)
+- No new applications since 2026-10-06 (this pull)
 
 ## Related
 

@@ -2,7 +2,13 @@
 
 Durable facts from periodic daily-processing runs.
 
-_facts below are limited to verified findings. Last refreshed: 2026-10-05._
+_facts below are limited to verified findings. Last refreshed: 2026-10-08 (EOD)._
+
+## 2026-10-08 Daily Processing Run (EOD 22:05)
+- 🟢 **INTEGRATED_INSIGHTS_2026-10-08.md refreshed EOD** (supersedes 10:19 run; Vault/insights + memories/insights synced). `Vault/Daily/2026-10-08.md` updated. Security audit 08/10 saved to `Vault/System/Assistant/`.
+- 💼 **2Real:** 07/10 sales logged **GH₵2,170** (bulk tool buyer 0245849519 → save for broadcast list, wants mechanic's tools). **08/10 invoice ACT ICT GH₵1,000** (2× Ring 500W inverter). **🆕 VAT = 20%** (12.5+2.5+5) confirmed by GRA officer 08/10; Zobaze 4% outdated; 2Real below GHS 200k threshold → sales receipt, not VAT invoice; customer needs TIN. Master: `Vault/business/2real/reference/GRA-VAT-MASTER.md`.
+- 🩺👵 **Mum:** data gap now **5 days** (4–8 Oct unrecorded; 2 Oct open). Topic-4 connector down since 13 Sep blocks reports. Last real data 4 Oct BP 132/83 ✅. Sodium-recheck labs 14 days overdue; Imodium unstocked; masseuse Fri 9 Oct.
+- 🔒 **Security audit 08/10:** same persistent debt (gateway down via token root-divergence; valid AppData token vs stale revoked `~/.hermes/.env`; 27/57 jobs silent; allow_all_users true). Topic 20 EXISTS (channel_directory). 0 backup `.env` copies sustained.
 
 ## 2026-10-05 Daily Processing Run
 - 🟢 **INTEGRATED_INSIGHTS_2026-10-05.md** (Vault/insights + memories/insights ×2) + `Vault/Daily/2026-10-05.md`. Cron SLA strong (34 outputs / ~27 jobs, 0 fail). Backup 04/10 VERIFIED: 2.7GB / 14,103 files / 0 secrets / 12 DBs byte-verified.
@@ -517,3 +523,11 @@ _facts below are limited to verified findings. Last refreshed: 2026-10-05._
 - **Mum:** data gap now at 4 Oct (5/6 Oct unrecorded; topic-4 connector down since 13 Sep); Tue 6 Oct masseuse outcome unlogged (28 Sep + 1 Oct BETTER); sodium-recheck ~12 days overdue; Imodium not stocked; BP device battery low → stock spares; Dr Morris reconcile pending (salt vs Na 161.2 + Furosemide dose). Last confirmed 4 Oct BP 132/83.
 - **H:** food diary 8 days silent; Renerve 0 (~8 days, tremor unmedicated — reorder ~295 GH); 31 Aug follow-up 36 days undocumented; labs (1,075 GH) pending; no vitals 43 days; dental 12 Oct 10:30.
 - **Dad:** no change; ~65-day snapshot gap; 16 Jul foot outcome unrecorded; WhatsApp unpaired blocks live checks.
+
+## 2026-10-08 Consolidated (Thu)
+- **Cron SLA strong this cycle:** ~17 jobs fired 07/10 + ~12 on 08/10; prior Jul–Aug systemic DNS failures resolved — no Connection-error storms. Non-fatal tool blocks visible (execute_code denied in cron; write_file guard refuses auto-overwrites on `last-check-*.json`). 2Real Daily Ops job missing skill `2real-enterprises-agent` (skipped, still generates report).
+- **Security:** carry 05/10 PASS (0 CRITICAL); 06–08 Oct audits FAILED provider-unreachable (no report saved). **Gateway DOWN since 01 Oct** — valid TG token = AppData root (direct Bot API delivery works); stale revoked placeholder in `~/.hermes/.env` → gateway startup fails. WhatsApp `platforms.whatsapp.enabled:false`. 27/57 silent jobs, 35 `.env` readers, `allow_all_users:true` ×2, duplicate TG token (content-buddy/harold/sat-nav). 0 backup `.env` (sustained).
+- **2Real:** 07/10 sales NOT logged; last 06/10 GH¢3,090 strong. Inquiries: all 643 resolved, none pending 24h. RFQ 6000997164 (Olymech) open 7 days under arbitration. **480 SKUs ≤2 + 384 OOS**; high-value low stock: Bosch GBH 2-26 Rotary Hammer (2,300), Bosch GBM 13-2 RE (1,800), Blyss Video Intercom (1,800), Halfords 3L Jump Starter (1,800). Jiji GHC 0. FB Marketplace posting-limited (1 active of 61).
+- **Mum:** **multi-day gap now 5 days (5–8 Oct unrecorded, 2 Oct open)** — meals/vitals unlogged since 4 Oct; topic-4 connector down since 13 Sep; escalate to carer/Stephanie. Sodium-recheck labs ~14 days overdue; Imodium unstocked; BP spare batteries; masseuse **Fri 9 Oct** (Tue 6 outcome unlogged). Last data 4 Oct BP 132/83 ✅.
+- **H:** no vitals 45+ days; Renerve 0 (tremor unmedicated 10 days, reorder ~295 GH); food diary silent 10 days (since 28 Sep); 31 Aug review undocumented 38 days; labs (1,075 GH) pending; dental 12 Oct 10:30.
+- **Tax:** Sep Form 10-M STILL unverified-submitted; nudge window closed (8th); placeholder contact blocks real filing.
