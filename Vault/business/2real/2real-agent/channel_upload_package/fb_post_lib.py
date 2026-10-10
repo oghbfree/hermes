@@ -55,15 +55,33 @@ NEXT_PUB="""(() => {
   const rc=b.getBoundingClientRect(); return JSON.stringify({x:rc.x+rc.width/2,y:rc.y+rc.height/2,label:(b.textContent||'').trim()});
 })()"""
 
+def open_ctrl(name):
+    """Open a form control (Category/Condition). FB 2026-10+: click_at_xy/CDP trusted
+    clicks get silently dropped — dispatch mousedown/mouseup/click on the element itself."""
+    for k in range(5):
+        js("""(() => { const c=[...document.querySelectorAll('[role=button],[role=combobox],[aria-haspopup]')].filter(e=>e.offsetParent!==null).find(e=>(e.textContent||'').trim().startsWith(%r)); if(!c) return 'noc'; const ME=t=>new MouseEvent(t,{bubbles:true,cancelable:true,view:window}); ['mousedown','mouseup','click'].forEach(t=>c.dispatchEvent(ME(t))); return 'ok'; })()""" % name)
+        time.sleep(2.5)
+        if js(OPEN_MARKER) is True or (name=='Condition' and js("(() => [...document.querySelectorAll('[role=dialog],[role=listbox]')].some(d=>d.offsetParent!==null&&/used/i.test(d.textContent||'')))()") is True):
+            return True
+    return False
+
+def pick_leaf(want):
+    """Click a visible option leaf inside the open dialog using dispatched mouse events."""
+    for k in range(3):
+        r = js("""(() => { const want=%r.toLowerCase(); let leaves=[...document.querySelectorAll('[role=dialog],[role=listbox]')].filter(d=>d.offsetParent!==null).flatMap(d=>[...d.querySelectorAll('*')]); if(!leaves.length) leaves=[...document.querySelectorAll('*')]; leaves=leaves.filter(e=>e.children.length===0&&(e.textContent||'').trim().toLowerCase()===want&&e.offsetParent!==null); if(!leaves.length) return null; const el=leaves[leaves.length-1]; el.scrollIntoView({block:'center'}); const rc=el.getBoundingClientRect(); return JSON.stringify({x:rc.x+rc.width/2,y:rc.y+rc.height/2}); })()""" % want)
+        if not r: time.sleep(1.5); continue
+        p = J.loads(r)
+        js("""(() => { const x=%d,y=%d; const t=document.elementFromPoint(x,y); if(!t) return 'noel'; const ME=ev=>new MouseEvent(ev,{bubbles:true,cancelable:true,view:window,clientX:x,clientY:y}); ['mousedown','mouseup','click'].forEach(e=>t.dispatchEvent(ME(e))); return 'ok'; })()""" % (int(p['x']), int(p['y'])))
+        time.sleep(2)
+        return True
+    return False
+
 def set_condition():
     for attempt in range(3):
-        if not click_el(CTRL('Condition'), focus_first=True): return 'FAIL cond ctrl'
-        time.sleep(2)
-        marker=js("""(() => [...document.querySelectorAll('*')].some(e=>e.children.length===0 && (e.textContent||'').trim()==='Used \u2013 good' && e.offsetParent!==null))()""")
-        if marker:
-            if click_el(pick_visible('New'), focus_first=True):
-                time.sleep(1.5)
-                return 'OK'
+        if not open_ctrl('Condition'): continue
+        if pick_leaf('New'):
+            time.sleep(1.5)
+            return 'OK'
         time.sleep(1)
     return 'FAIL cond opt'
 
@@ -85,6 +103,14 @@ def post_one(title,price,photo,category,desc):
 def _post_one_inner(title,price,photo,category,desc):
     goto_url('https://www.facebook.com/marketplace/create/item')
     time.sleep(5)
+    # FB now shows a 'Choose listing type' chooser — click 'Item for sale' if present
+    for k in range(4):
+        if click_el(pick_visible('Item for sale'), focus_first=True):
+            time.sleep(3)
+            break
+        if js("(() => !!document.querySelector('input[type=file]'))()") is True:
+            break
+        time.sleep(2)
     b64=base64.b64encode(open(photo,'rb').read()).decode()
     desc_js=json.dumps(desc)  # real newlines, safely quoted
     r=js("""(async () => {
@@ -110,23 +136,12 @@ def _post_one_inner(title,price,photo,category,desc):
     })()""" % (b64, desc_js and json.dumps(title[:100]), str(price)))
     if r!='fields set': return f'FAIL fields: {r}'
     time.sleep(1)
-    cat_ok = False
-    for att in range(5):
-        click_el(CTRL('Category'), focus_first=True)
-        time.sleep(2)
-        if js(OPEN_MARKER) is True:
-            cat_ok = True
-            break
-    if not cat_ok:
+    if not open_ctrl('Category'):
         return 'FAIL cat open'
     ok = False
     for lab in (category, 'Miscellaneous', 'Tools'):
-        for att in range(2):
-            if click_el(pick_visible(lab), focus_first=True):
-                ok = True
-                break
-            time.sleep(1)
-        if ok:
+        if pick_leaf(lab):
+            ok = True
             break
     if not ok:
         return 'FAIL cat opt'
@@ -144,7 +159,7 @@ def _post_one_inner(title,price,photo,category,desc):
         pos=js(NEXT_PUB)
         if pos:
             p=J.loads(pos)
-            click_at_xy(int(p['x']),int(p['y']))
+            js("""(() => { const x=%d,y=%d; const t=document.elementFromPoint(x,y); if(!t) return 'noel'; const ME=ev=>new MouseEvent(ev,{bubbles:true,cancelable:true,view:window,clientX:x,clientY:y}); ['mousedown','mouseup','click'].forEach(e=>t.dispatchEvent(ME(e))); return 'ok'; })()""" % (int(p['x']),int(p['y'])))
             time.sleep(2.5)
             if p.get('label')=='Publish':
                 time.sleep(2)
