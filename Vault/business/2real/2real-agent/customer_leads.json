@@ -7968,5 +7968,25 @@
     "stage": "saved",
     "purchases": 2,
     "last_seen": "2026-10-01 12:45"
+  },
+  {
+    "chat_id": "27063293624493",
+    "first_seen": "2026-10-10 10:22",
+    "stage": "saved",
+    "purchases": 1,
+    "last_seen": "2026-10-10 10:22"
+  },
+  {
+    "chat_id": "177451053379703",
+    "first_seen": "2026-10-10 10:22",
+    "stage": "saved",
+    "purchases": 1,
+    "last_seen": "2026-10-10 10:22"
+  },
+  {
+    "chat_id": "81819294801990",
+    "first_seen": "2026-10-10 10:22",
+    "stage": "review_sent",
+    "purchases": 1
   }
 ]

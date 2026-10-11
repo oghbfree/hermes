@@ -1,6 +1,6 @@
 # Content Calendar — 2 Real Enterprises & Akoma Robotics
 
-_Last updated: 2026-10-07_
+_Last updated: 2026-10-11_
 
 > Pipeline tracker for the multi-brand content engine. Moves each piece Idea → Draft → Review → Scheduled → Published.
 > This is the **effectiveness layer**: it tracks cadence adherence, what actually went live, and what to repurpose — closing the "we post every day but don't see results" gap.
@@ -22,13 +22,16 @@ _Last updated: 2026-10-07_
 
 | ID | Title | Type | Channel | Stage | Due | Notes |
 |----|-------|------|---------|-------|-----|-------|
-| C-1001 | Akoma Reel #6 How-To (debug loop) | Reel | TikTok/IG/FB | Scheduled | Mon 05/10 | On disk, awaiting publish |
-| C-1002 | 2Real Myth-bust (cheap tape) | Reel/Post | FB/IG/TikTok | Scheduled | Tue 06/10 | On disk, awaiting publish |
-| C-1003 | Akoma Reel #1 Curiosity (kids+robots) | Reel/Post | FB/IG/TikTok | Scheduled | Wed 07/10 | On disk, awaiting publish |
-| C-1004 | 2Real tool masterclass | Post | FB/IG | Scheduled | Thu 08/10 | On disk, awaiting publish |
-| C-1005 | Akoma student spotlight | Post | FB/IG/LinkedIn | Scheduled | Fri 09/10 | On disk, awaiting publish |
-| C-1006 | 2Real Weekend Special (3-item) | Post+MP listing | FB/IG/Marketplace | Scheduled | Sat 10/10 | On disk, awaiting publish |
-| — | (No Sunday 11/10 — broadcast retired 04/10; week runs Mon–Sat) | | | | | |
+| C-1101 | Akoma Mon education (BUILD A ROBOT) | Post+Carousel+reel | IG/FB/TikTok/WA/LI | Scheduled | Mon 12/10 | week-2026-10-12/monday-akoma · awaiting H review |
+| C-1102 | 2Real Tue Gorilla repeat-seller set | Post+Carousel+MP | IG/FB/Marketplace/TikTok/WA/LI | Scheduled | Tue 13/10 | week-2026-10-12/tuesday-2real · real Jiji prices |
+| C-1103 | Akoma Wed student spotlight | Post+Carousel+reel | IG/FB/TikTok/WA/LI | Scheduled | Wed 14/10 | week-2026-10-12/wednesday-akoma |
+| C-1104 | 2Real Thu mechanic's toolkit | Post+Carousel+MP | IG/FB/Marketplace/TikTok/WA/LI | Scheduled | Thu 15/10 | week-2026-10-12/thursday-2real · real Jiji prices |
+| C-1105 | Akoma Fri Q&A (Ask Us Anything) | Post+Carousel+reel | IG/FB/TikTok/WA/LI | Scheduled | Fri 16/10 | week-2026-10-12/friday-akoma |
+| C-1106 | 2Real Sat Power weekend special | Post+Carousel+MP | IG/FB/Marketplace/TikTok/WA/LI | Scheduled | Sat 17/10 | week-2026-10-12/saturday-2real · real Jiji prices |
+| — | (No Sunday 18/10 — broadcast retired 04/10; week runs Mon–Sat) | | | | | |
+
+### Retired-to-Published (Week 2026-10-05, generated 04/10 — staged, pending post by H/John)
+- C-1001 Akoma Reel #6 How-to · C-1002 2Real Myth-bust · C-1003 Akoma Reel #1 Curiosity · C-1004 2Real tool masterclass · C-1005 Akoma student spotlight · C-1006 2Real Weekend Special — all **Generated, staged, AWAITING H approval to post** (no confirmed posts since 17/09).
 
 ## Publishing Cadence
 
@@ -60,6 +63,7 @@ _Pieces move here from Scheduled after H confirms publish. Source: sent-log.md._
 - **2026-09-17 (Thu 2Real)** — Hacksaw Masterclass PUBLISHED (FB+IG). Real Ingco hacksaw photo.
 - **Week 2026-09-21** — COMPLETE + VERIFIED on disk. Mon Akoma reel · Wed Akoma · Thu 2Real (tile masterclass incl 1100mm GH¢1,370) · Fri Akoma spotlight · Sat 2Real 3-item weekend special + marketplace. All images (4:5 FB, square IG) real-photo composites.
 - **Week 2026-10-05** — Generated + branded + copy-verified (Sun engine). 81 PNG + 4 MP4 reels + 57 copy. **AWAITING PUBLISH** (staging/post by H). WhatsApp number updated to **0204252252** (0233352252 retired) 04/10.
+- **Week 2026-10-12** — Generated + copy-verified (Sun engine, Mon–Sat; no Sunday). 73 PNG (all QC-PASS) + 48 copy files + posting-queue.md. **AWAITING PUBLISH** (all PENDING-REVIEW → H approves before anything posts). 2Real prices = real LIVE Jiji.
 
 ## Repurposing Queue
 

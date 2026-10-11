@@ -36,17 +36,17 @@
 **Facilitator #1: Eyiah Michael Osardu**
 - BSc IT | mBot exp | Coding 5/5 | Mon-Fri avail
 
-### New This Pull (2026-10-08)
+### New This Pull (2026-10-10)
 
-**No new applications** since last reported pull (2026-10-06). Pipeline total unchanged at **70**.
+**No new applications** since last reported pull (2026-10-08). Pipeline total unchanged at **70**.
 
-### Latest Pull (2026-10-08)
+### Latest Pull (2026-10-10)
 
-**No new applications** since last reported pull (2026-10-06). Token refreshed 2026-10-08 (was expired since 10-06). Pipeline totals remain **70** (51 nurses, 13 construction, 4 facilitators, 2 financial literacy).
+**No new applications** since last reported pull (2026-10-08). Token refreshed 2026-10-10 (was expired since 10-08). Pipeline totals remain **70** (51 nurses, 13 construction, 4 facilitators, 2 financial literacy).
 
 ### Detailed Reports
 
-- [[jobs/APPLICATIONS-REPORT-2026-10-08.md]] (no new apps; token refreshed)
+- [[jobs/APPLICATIONS-REPORT-2026-10-10.md]] (no new apps; token refreshed)
 - [[jobs/APPLICATIONS-REPORT-2026-10-06.md]] (no new apps; token refreshed)
 - [[jobs/APPLICATIONS-REPORT-2026-10-05.md]] (no new apps; token refreshed)
 - [[jobs/APPLICATIONS-REPORT-2026-10-04.md]] (no new apps; token refreshed)
@@ -93,10 +93,10 @@
 
 ### Status
 
-- **Google Sheets Auth: ACTIVE** - Token refreshed 2026-10-08
-- Last successful pull: 2026-10-08
+- **Google Sheets Auth: ACTIVE** - Token refreshed 2026-10-10
+- Last successful pull: 2026-10-10
 - All 4 pipelines accessible
-- No new applications since 2026-10-06 (this pull)
+- No new applications since 2026-10-08 (this pull)
 
 ## Related
 
