@@ -4,8 +4,8 @@
 
 ### Totals
 
-- **70 total applicants** (updated 2026-10-08, unchanged)
-- **Nurses: 51** (NMC + 3-5yrs experience: 7/51, top pick: Charlotte Nortey - NMC + car + licence)
+- **71 total applicants** (updated 2026-10-11)
+- **Nurses: 52** (NMC + 3-5yrs experience: 7/52, top pick: Charlotte Nortey - NMC + car + licence)
 - **Facilitators: 4** (Eyiah #1, Patrick Bediako #2, Kwaku #3, Courage Agbalekpor #4)
 - **Construction: 13** (Awal #1, Kwame #2, Derrick #3, Amane John #4, Amuzu #5, Woedzagbagba #6, Eric #7, Arthur Kofi Shadrack #8)
 - **Financial Literacy: 2** (Felix Boateng #1, Benjamin Lolo #2)
@@ -36,16 +36,17 @@
 **Facilitator #1: Eyiah Michael Osardu**
 - BSc IT | mBot exp | Coding 5/5 | Mon-Fri avail
 
-### New This Pull (2026-10-10)
+### New This Pull (2026-10-11)
 
-**No new applications** since last reported pull (2026-10-08). Pipeline total unchanged at **70**.
+**1 new application** since last reported pull (2026-10-10): 1 nurse (Audu Omolola Kudirat, NMC: No, 0-2yrs, **below threshold**). Pipeline total now **71**.
 
-### Latest Pull (2026-10-10)
+### Latest Pull (2026-10-11)
 
-**No new applications** since last reported pull (2026-10-08). Token refreshed 2026-10-10 (was expired since 10-08). Pipeline totals remain **70** (51 nurses, 13 construction, 4 facilitators, 2 financial literacy).
+**1 new application** since 2026-10-10: 1 nurse, below priority threshold. Token refreshed 2026-10-11 (was expired since 10-10). Pipeline totals now **71** (52 nurses, 13 construction, 4 facilitators, 2 financial literacy).
 
 ### Detailed Reports
 
+- [[jobs/APPLICATIONS-REPORT-2026-10-11.md]] (+1 nurse, below threshold; token refreshed)
 - [[jobs/APPLICATIONS-REPORT-2026-10-10.md]] (no new apps; token refreshed)
 - [[jobs/APPLICATIONS-REPORT-2026-10-06.md]] (no new apps; token refreshed)
 - [[jobs/APPLICATIONS-REPORT-2026-10-05.md]] (no new apps; token refreshed)
@@ -93,10 +94,10 @@
 
 ### Status
 
-- **Google Sheets Auth: ACTIVE** - Token refreshed 2026-10-10
-- Last successful pull: 2026-10-10
+- **Google Sheets Auth: ACTIVE** - Token refreshed 2026-10-11
+- Last successful pull: 2026-10-11
 - All 4 pipelines accessible
-- No new applications since 2026-10-08 (this pull)
+- 1 new application since 2026-10-10 (this pull): 1 nurse below threshold
 
 ## Related
 

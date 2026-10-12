@@ -51,6 +51,18 @@ WhatsApp Status ×2 + **Facebook Marketplace (this file)**. FB = visual, high-ti
   get WhatsApp Status posts too
 - Sold items: mark sold in progress file + delete listing
 
+## ANTI-BAN HARDENING (12 Oct 26 — per H)
+- **Cadence: max 3 listings per session/run.** No more single-item cron runs; no bursts.
+- **Text variation is mandatory** — never post identical boilerplate. `fb_post_lib.py`
+  `make_desc(title)` rotates 5 openers × 4 closers. Use it for every new listing.
+- **Photo variation is mandatory** — `vary_photo(src, dst)` micro-crops 2–6px + ~1%
+  brightness + re-encode before upload, so image hashes differ per listing.
+- **Category flow changed (FB 2026-10):** Category is now an input combobox typeahead,
+  not a dialog button. Use `open_category()` (in fb_post_lib.py). 'Home & garden' as a
+  top-level leaf may not stick — use a concrete leaf ('Tools', 'Household', etc.).
+- Sleep 2–5 min between listings in the same session. If Meta ever flags the account,
+  STOP all posting and report to H — never fight a lockout.
+
 ## SESSION BLOCKER (1 Oct 26)
 Chrome auto-updated to v154 → remote debugging on the DEFAULT profile now needs a
 manual "Allow remote debugging?" approval (user click). On a locked machine nothing

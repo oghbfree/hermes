@@ -2,7 +2,15 @@
 
 Durable facts from periodic daily-processing runs.
 
-_facts below are limited to verified findings. Last refreshed: 2026-10-08 (EOD)._
+_facts below are limited to verified findings. Last refreshed: 2026-10-11 (EOD)._
+
+## 2026-10-11 Consolidated (Sun)
+- 🟢 **INTEGRATED_INSIGHTS_2026-10-11.md** created (Vault/insights + memories/insights dual-tree synced). `Vault/Daily/2026-10-11.md` written. Security audit 11/10 saved to `Vault/System/Assistant/`.
+- ✅ **Gateway RUNNING (PID 9352)** — recovered vs 10-10 (was stopped). Log active 22:05; valid-token path applied. **Cron SLA 100% today** (41 outputs, 0 failures).
+- 🔒 **Security NEW regression:** **30 `.env`-reading delivery scripts** (was 0) — 5 active in `workspace/scripts/` (memory_review_telegram.py, mum_evening_checkin.py, h_evening_checkin_send.py, ghana_telegram_report.py, send_ghana_report.py), rest dated tmp/check-in artifacts; all read stale revoked `~/.hermes` token. **Delete dated, audit 5 active; keep godmode skill helpers.** Backup .env 0, Topic 20 delivery PASS (msg_id 11896).
+- 🦷 **H:** **Dental Mon 12 Oct 10:30am (TOMORROW)** — attend + batch Renerve reorder (0 since 28 Sep, tremor unmedicated 13d) + chase 1,075 GH labs + confirm 31 Aug review. Food diary 13d silent; no vitals 48d.
+- 👵 **Mum:** data gap now **7 days** (5–11 Oct unrecorded; 2/4 Oct open). Topic-4 connector down since 13 Sep. Sodium recheck unconfirmed; Imodium out; BP spare batteries. Squad flags repeated re-derivation each check-in → create consolidated open-items ledger.
+- 💼 **2Real:** No 11 Oct sales (Sun). **B2B ledger ✅ created** (`b2b-wholesale-leads.md`) — Eric/Enterprise Ins first repeat B2B buyer (headsets 870 GH₵ 10-10). Customer Inquiry Loop 903 processed / 0 unresolved. **FB Batch Poster STALLED** (0 posted, 50 remaining; item 8242338 failed 2× — FB Category dropdown won't open → manual check). Jiji 10 boost targets; Olymech RFQ 6000997164 ~10d overdue.
 
 ## 2026-10-08 Daily Processing Run (EOD 22:05)
 - 🟢 **INTEGRATED_INSIGHTS_2026-10-08.md refreshed EOD** (supersedes 10:19 run; Vault/insights + memories/insights synced). `Vault/Daily/2026-10-08.md` updated. Security audit 08/10 saved to `Vault/System/Assistant/`.

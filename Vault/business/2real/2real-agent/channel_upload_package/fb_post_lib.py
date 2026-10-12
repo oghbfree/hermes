@@ -76,9 +76,77 @@ def pick_leaf(want):
         return True
     return False
 
+# ---- Anti-ban: per-listing text variation (rotating openers/closers) ----
+import random as _R
+_OPENERS = [
+    "Brand new, unused stock.",
+    "Brand new in packaging.",
+    "New and unused - quality checked.",
+    "Brand new, never opened.",
+    "Fresh stock, brand new.",
+]
+_CLOSERS = [
+    "MoMo or cash only - no credit.\nPickup by appointment in Oyarifa or delivery arranged.\nCall/WhatsApp: 0204252252",
+    "Payment by MoMo or cash on pickup (no credit).\nOyarifa pickup by appointment, or we arrange delivery.\nCall/WhatsApp 0204252252",
+    "No credit - MoMo or cash only.\nCollection in Oyarifa by appointment or delivery arranged.\nWhatsApp/call: 0204252252",
+    "Strictly MoMo or cash.\nPickup at Oyarifa (by appointment) or delivery available.\nRing/WhatsApp 0204252252",
+]
+def make_desc(title):
+    t = title[:80]
+    return f"{t}. {_R.choice(_OPENERS)}\n\n{_R.choice(_CLOSERS)}"
+
+# ---- Anti-ban: photo micro-variation (defeats duplicate image hashes) ----
+def vary_photo(src, dst):
+    try:
+        from PIL import Image, ImageEnhance
+        im = Image.open(src).convert('RGB')
+        w, h = im.size
+        crop = _R.randint(2, 6)
+        im = im.crop((crop, crop, w - crop, h - crop))
+        im = ImageEnhance.Brightness(im).enhance(_R.uniform(1.005, 1.02))
+        im.save(dst, 'JPEG', quality=_R.randint(88, 94))
+        return dst
+    except Exception as e:
+        return src
+
+# ---- New FB flow (2026-10): Category is an input combobox, not a dialog button ----
+def open_category():
+    for k in range(5):
+        js("""(() => {
+          const c=[...document.querySelectorAll('[role=combobox]')].filter(e=>e.offsetParent!==null)
+            .find(e=>{const l=e.closest('label'); return l && l.textContent.trim().startsWith('Category');});
+          if(!c) return;
+          c.scrollIntoView({block:'center'});
+          const ME=t=>new MouseEvent(t,{bubbles:true,cancelable:true,view:window});
+          ['mousedown','mouseup','click'].forEach(t=>c.dispatchEvent(ME(t)));
+        })()""")
+        time.sleep(2.5)
+        if js(OPEN_MARKER) is True:
+            return True
+    return False
+
 def set_condition():
     for attempt in range(3):
-        if not open_ctrl('Condition'): continue
+        if not open_ctrl('Condition'):
+            # FB 2026-10: listbox exists in DOM but renders 0x0 — dispatch directly on hidden option nodes
+            r = js("""(() => {
+              const lab=[...document.querySelectorAll('label')].filter(e=>e.offsetParent!==null)
+                .find(e=>{const l=e.closest('label'); return l && (l.textContent||'').trim().startsWith('Condition');}) || [...document.querySelectorAll('label[role=combobox]')].find(e=>e.offsetParent!==null && (e.textContent||'').trim().startsWith('Condition'));
+              if(!lab) return 'nolab';
+              const lb=document.getElementById(lab.getAttribute('aria-controls'));
+              if(!lb) return 'nolb';
+              const opt=[...lb.querySelectorAll('[role=option]')].find(o=>(o.textContent||'').trim()==='New');
+              if(!opt) return 'noopt';
+              const ME=t=>new MouseEvent(t,{bubbles:true,cancelable:true,view:window});
+              ['mousedown','mouseup','click'].forEach(t=>opt.dispatchEvent(ME(t)));
+              return 'dispatched';
+            })()""")
+            time.sleep(2)
+            done = js("(() => [...document.querySelectorAll('[role=combobox]')].filter(e=>e.offsetParent!==null).some(e=>(e.closest('label')?.textContent||'').replace(/\\s+/g,' ').includes('ConditionNew')))()")
+            if done is True:
+                time.sleep(1)
+                return 'OK'
+            continue
         if pick_leaf('New'):
             time.sleep(1.5)
             return 'OK'
@@ -137,7 +205,8 @@ def _post_one_inner(title,price,photo,category,desc):
     if r!='fields set': return f'FAIL fields: {r}'
     time.sleep(1)
     if not open_ctrl('Category'):
-        return 'FAIL cat open'
+        if not open_category():
+            return 'FAIL cat open'
     ok = False
     for lab in (category, 'Miscellaneous', 'Tools'):
         if pick_leaf(lab):

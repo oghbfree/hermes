@@ -1,8 +1,8 @@
 {
  "role": "nurses",
- "last_check": "2026-10-10T08:05:00Z",
-   "total_applicants": 51,
-   "new_since_last": 0,
- "last_timestamp": "28/09/2026 10:36:53",
+ "last_check": "2026-10-11T10:02:00Z",
+   "total_applicants": 52,
+   "new_since_last": 1,
+ "last_timestamp": "10/10/2026 14:57:58",
  "auth_status": "active"
 }

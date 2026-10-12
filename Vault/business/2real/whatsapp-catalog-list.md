@@ -1,0 +1,33 @@
+# 2Real WhatsApp Catalog - ready to enter (WhatsApp Business app, phone)
+
+Enter under Catalog > Add products. Product images are photos/<jiji_id>.jpg in channel_upload_package.
+
+- Yale Essentials 60mm Nightlatch Rim Lock (Polished Chrome Finish) - GHS 550 (photo: photos/16713043.jpg)
+- Laser 7004 Paintless Dent Puller Tool Set. - GHS 800 (photo: photos/13332175.jpg)
+- Halfords 3-Piece 3/8" Drive Locking Extension Bar Set - GHS 550 (photo: photos/13496131.jpg)
+- Draper Expert 160mm VDE Insulated Combination Pliers - GHS 500 (photo: photos/16719959.jpg)
+- 12mm Diamond-Tipped Tile Drill Bit Part Number: - GHS 500 (photo: photos/16575874.jpg)
+- Day Plus 130w Detail Palm Sander Qd6301 - GHS 500 (photo: photos/14514240.jpg)
+- Kent Stowe Pruning Saw - GHS 500 (photo: photos/12353600.jpg)
+- Bosch Drill Heat Gun Phg520 - GHS 500 (photo: photos/14354514.jpg)
+- Luceco Solar Guardian 3.2W Wall Light With PIR Motion Sensor LEXS40040 - GHS 500 (photo: photos/16524715.jpg)
+- Bosch PST 650 500w Jigsaw - GHS 550 (photo: photos/14524612.jpg)
+- Ryobi 600w Jigsaw Ejs600qeo - GHS 600 (photo: photos/14524645.jpg)
+- Bosch PST 650 "Low Vibration" Corded Jigsaw - GHS 550 (photo: photos/16612505.jpg)
+- Draper 500W Corded Hammer Drill PT500HD / 83583 - GHS 600 (photo: photos/16595256.jpg)
+- Performance 800 Watt Hammer Drill - GHS 900 (photo: photos/16589177.jpg)
+- TP-Link AXE5400 Wi-Fi 6E Bluetooth 5.3 PCIe Adapter - GHS 1450 (photo: photos/16553609.jpg)
+- Hitachi 24V Cordless 3-Mode SDS-plus Rotary Hammer Drill - GHS 1250 (photo: photos/16537908.jpg)
+- Hitachi DH 24DVA 24\text{V} Cordless SDS-Plus Rotary Hammer Drill - GHS 1250 (photo: photos/16595216.jpg)
+- Makita 18V LXT Brushless Cordless Hammer Driver Drill (Bare Unit Only) - GHS 1800 (photo: photos/16588020.jpg)
+- Bosch GBH 24 VRE Professional Cordless Rotary Hammer Drill UK Used - GHS 1350 (photo: photos/16675191.jpg)
+- Bosch PSR 14.4 Cordless Drill Driver From Uk - GHS 850 (photo: photos/15161611.jpg)
+- STANLEY SharpShooter Heavy-Duty Hammer Tacker Model PHT150 / PHT150C - GHS 650 (photo: photos/16690594.jpg)
+- Parkside Random Orbital Sander - GHS 1150 (photo: photos/14354368.jpg)
+- Stanley Tlm50 Laser Distance Measure From Uk - GHS 600 (photo: photos/13209224.jpg)
+- Mac Allister 300w Corded 1/2 Sheet Sander Mhss300 - GHS 950 (photo: photos/14515792.jpg)
+- Luceco Castra Wifi Security Floodlight 2100 Lumens - GHS 540 (photo: photos/14513059.jpg)
+- STANLEY FatMax Xtreme 10m / 33ft Tape Measure Model 33-896 / 0-33-896 - GHS 950 (photo: photos/16695638.jpg)
+- Stanley Tylon 8m/26' Tape Measures Twin Pack From Uk - GHS 520 (photo: photos/15171851.jpg)
+
+Total: 27 items. Prices match FB/Jiji exactly.
