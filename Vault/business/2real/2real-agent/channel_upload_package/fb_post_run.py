@@ -1,0 +1,160 @@
+"""Runs one FB Marketplace posting via the CDP harness (fb_post_lib flow + photo-preview check).
+
+Usage: python fb_post_run.py <jiji_id>  -> posts that item if not in fb_posted.json.
+"""
+import sys, os, json, time, base64
+
+pkg = r'C:\Users\User\.hermes\workspace\Vault\business\2real\2real-agent\channel_upload_package'
+sys.path.insert(0, pkg)
+import cdp_harness as C
+
+G = {'js': C.js, 'goto_url': C.goto_url, 'wait_for_load': C.wait_for_load,
+     'click_at_xy': C.click_at_xy, 'time': time, 'json': json, 'base64': base64, 'os': os}
+src = open(os.path.join(pkg, 'fb_post_lib.py'), encoding='utf-8').read()
+src = src.replace("assert 'js' in globals(), 'run via exec in harness main'", "")
+exec(src, G)
+
+def is_posted(jid):
+    try:
+        return jid in json.load(open(os.path.join(pkg, 'fb_posted.json')))
+    except Exception:
+        return False
+
+def add_posted(jid):
+    p = os.path.join(pkg, 'fb_posted.json')
+    arr = json.load(open(p))
+    if jid not in arr:
+        arr.append(jid)
+        json.dump(arr, open(p, 'w'))
+
+def find_item(jid):
+    for f in ('next50.json', 'next50_batch2.json', 'next50_batch1_done.json'):
+        try:
+            arr = json.load(open(os.path.join(pkg, f)))
+            for x in arr:
+                if x['jiji_id'] == jid:
+                    return x
+        except Exception:
+            pass
+    return None
+
+UPLOAD_OK = """(() => {
+  const imgs=[...document.querySelectorAll('[aria-label="Photo thumbnail"], img[src*="scontent"], div[role=dialog] img')].filter(e=>e.offsetParent!==null);
+  return imgs.length>0;
+})()"""
+
+def post_one_checked(title, price, photo, category, desc):
+    C.goto_url('https://www.facebook.com/marketplace/create/item')
+    time.sleep(6)
+    # choose 'Item for sale' if shown
+    for k in range(4):
+        pos = C.js(G['pick_visible']('Item for sale'))
+        if pos:
+            p = json.loads(pos)
+            C.click_at_xy(int(p['x']), int(p['y']))
+            time.sleep(3)
+            break
+        if C.js("!!document.querySelector('input[type=file]')") is True:
+            break
+        time.sleep(2)
+    if C.js("!!document.querySelector('input[type=file]')") is not True:
+        return 'FAIL no file input'
+    b64 = base64.b64encode(open(photo, 'rb').read()).decode()
+    desc_js = json.dumps(desc)
+    r = C.js_async("""(async () => {
+      const inp=[...document.querySelectorAll('input[type=file]')].find(f=>f.accept.includes('image'));
+      if(!inp) return 'retry';
+      const bin=atob('%s'); const bytes=new Uint8Array(bin.length);
+      for(let i=0;i<bin.length;i++)bytes[i]=bin.charCodeAt(i);
+      const dt=new DataTransfer(); dt.items.add(new File([bytes],'photo.jpg',{type:'image/jpeg'}));
+      inp.files=dt.files; inp.dispatchEvent(new Event('change',{bubbles:true}));
+      await new Promise(r=>setTimeout(r,3500));
+      const setter=Object.getOwnPropertyDescriptor(window.HTMLInputElement.prototype,'value').set;
+      const title=%s; const pricestr='%s';
+      for(let k=0;k<12;k++){
+        const tis=[...document.querySelectorAll('input[type=text]')].filter(i=>i.offsetParent!==null);
+        if(tis.length>=2){
+          setter.call(tis[0],title); tis[0].dispatchEvent(new Event('input',{bubbles:true}));
+          setter.call(tis[1],pricestr); tis[1].dispatchEvent(new Event('input',{bubbles:true}));
+          return 'fields set';
+        }
+        await new Promise(r=>setTimeout(r,600));
+      }
+      return 'no text inputs';
+    })()""" % (b64, json.dumps(title[:100]), str(price)), timeout=90)
+    if r != 'fields set':
+        return 'FAIL fields: %r' % r
+    time.sleep(2)
+    if C.js(UPLOAD_OK) is not True:
+        return 'FAIL no photo preview'
+    time.sleep(1)
+    if not G['open_ctrl']('Category'):
+        if not G['open_category']():
+            return 'FAIL cat open'
+    ok = False
+    for lab in (category, 'Miscellaneous', 'Tools'):
+        if G['pick_leaf'](lab):
+            ok = True
+            break
+    if not ok:
+        return 'FAIL cat opt'
+    time.sleep(2)
+    rc = G['set_condition']()
+    if rc != 'OK':
+        return rc
+    C.js("""(() => {
+      const ta=document.querySelector('textarea');
+      if(!ta) return;
+      const ts=Object.getOwnPropertyDescriptor(window.HTMLTextAreaElement.prototype,'value').set;
+      ts.call(ta,%s); ta.dispatchEvent(new Event('input',{bubbles:true}));
+    })()""" % desc_js)
+    time.sleep(1)
+    for k in range(10):
+        pos = C.js(G['NEXT_PUB'])
+        if pos:
+            p = json.loads(pos)
+            C.click_at_xy(int(p['x']), int(p['y']))
+            time.sleep(2.5)
+            if p.get('label') == 'Publish':
+                time.sleep(4)
+                return 'PUBLISHED'
+        else:
+            time.sleep(1)
+    return 'FAIL publish'
+
+def main():
+    jid = int(sys.argv[1])
+    if is_posted(jid):
+        print('ALREADY POSTED', jid); return 0
+    item = find_item(jid)
+    if not item:
+        print('NOT IN QUEUE', jid); return 1
+    title = item['title']
+    price = item['price']
+    src_photo = os.path.join(pkg, 'photos', '%d.jpg' % jid)
+    if not os.path.exists(src_photo):
+        print('NO PHOTO', jid); return 1
+    dst_photo = src_photo[:-4] + '_v%d.jpg' % jid
+    varied = G['vary_photo'](src_photo, dst_photo)
+    category = 'Electronics & computers' if any(w in title.lower() for w in ('tp-link', 'defender')) else 'Tools'
+    desc = G['make_desc'](title)
+    print('posting', jid, '|', title, '|', price, '| cat:', category, '| photo:', varied)
+    print('desc:', repr(desc[:120]), '...')
+    for attempt in range(3):
+        try:
+            rc = post_one_checked(title, price, varied, category, desc)
+        except Exception as e:
+            rc = 'FAIL exc: %r' % e
+        print('attempt', attempt, '->', rc)
+        if rc == 'PUBLISHED':
+            add_posted(jid)
+            print('LOGGED', jid)
+            return 0
+        if rc in ('FAIL no photo preview', 'FAIL fields: %r', 'FAIL fields: \'retry\''):
+            pass
+        time.sleep(8)
+    print('GAVE UP', jid)
+    return 1
+
+if __name__ == '__main__':
+    sys.exit(main())

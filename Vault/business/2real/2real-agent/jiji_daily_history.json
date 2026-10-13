@@ -2953,5 +2953,71 @@
     ],
     "date": "2026-10-11",
     "saved_at": "2026-10-11T10:20:55.977763"
+  },
+  {
+    "active": 1309,
+    "reviewing": 2,
+    "draft": 0,
+    "declined": 0,
+    "closed": 125,
+    "followers": 338,
+    "feedback": 208,
+    "clients": 38,
+    "top_remaining": "500 of 500",
+    "top_expires": "16/12/26",
+    "whatsapp_ads_active": true,
+    "whatsapp_ads_until": "17 Oct 2026",
+    "balance_ghs": 0,
+    "top_items": [
+      {
+        "name": "KitchenAid Artisan Food Processor",
+        "price": 1100,
+        "impressions": 282,
+        "visitors": 43,
+        "chats": 0
+      },
+      {
+        "name": "Tunturi E301 Rowing Machine",
+        "price": 1700,
+        "impressions": 139,
+        "visitors": 19,
+        "chats": 0
+      },
+      {
+        "name": "Stanley Classic 99E Retractable Utility Knife",
+        "price": 139,
+        "impressions": 102,
+        "visitors": 13,
+        "chats": 0
+      },
+      {
+        "name": "Ryobi Chainsaw Protective Gloves (Class 2)",
+        "price": 300,
+        "impressions": 84,
+        "visitors": 22,
+        "chats": 0
+      },
+      {
+        "name": "Marvin Magic Executive Magic Collection Trick Set",
+        "price": 230,
+        "impressions": 73,
+        "visitors": 8,
+        "chats": 0
+      }
+    ],
+    "needs_attention": [
+      "KitchenAid Artisan 282 imp / 0 chats - high views, no conversation",
+      "Tunturi Rowing Machine 139 imp / 0 chats",
+      "GHS 0 balance - recharge to use TOP+ premium",
+      "WhatsApp ads active only until 17 Oct"
+    ],
+    "action_items": [
+      "Put TOP+ on KitchenAid Artisan + Tunturi Rowing Machine - best performers but 0 chats; review price/description",
+      "Recharge Jiji GHS balance or apply 8,022 Pro Sales bonus",
+      "Renew WhatsApp ads before 17 Oct expiry",
+      "Reply to 19 unread client messages - first reply wins the sale"
+    ],
+    "date": "2026-10-12",
+    "saved_at": "2026-10-12T06:35:14.522886"
   }
 ]

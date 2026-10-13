@@ -4,7 +4,7 @@
 
 ### Totals
 
-- **71 total applicants** (updated 2026-10-11)
+- **71 total applicants** (updated 2026-10-12)
 - **Nurses: 52** (NMC + 3-5yrs experience: 7/52, top pick: Charlotte Nortey - NMC + car + licence)
 - **Facilitators: 4** (Eyiah #1, Patrick Bediako #2, Kwaku #3, Courage Agbalekpor #4)
 - **Construction: 13** (Awal #1, Kwame #2, Derrick #3, Amane John #4, Amuzu #5, Woedzagbagba #6, Eric #7, Arthur Kofi Shadrack #8)
@@ -36,16 +36,17 @@
 **Facilitator #1: Eyiah Michael Osardu**
 - BSc IT | mBot exp | Coding 5/5 | Mon-Fri avail
 
-### New This Pull (2026-10-11)
+### New This Pull (2026-10-12)
 
-**1 new application** since last reported pull (2026-10-10): 1 nurse (Audu Omolola Kudirat, NMC: No, 0-2yrs, **below threshold**). Pipeline total now **71**.
+**0 new applications** since last reported pull (2026-10-11). No new applicants across any pipeline. Totals unchanged at **71**.
 
-### Latest Pull (2026-10-11)
+### Latest Pull (2026-10-12)
 
-**1 new application** since 2026-10-10: 1 nurse, below priority threshold. Token refreshed 2026-10-11 (was expired since 10-10). Pipeline totals now **71** (52 nurses, 13 construction, 4 facilitators, 2 financial literacy).
+**0 new applications** since 2026-10-11. Token refreshed 2026-10-12 (was expired). Pipeline totals unchanged at **71** (52 nurses, 13 construction, 4 facilitators, 2 financial literacy).
 
 ### Detailed Reports
 
+- [[jobs/APPLICATIONS-REPORT-2026-10-12.md]] (no new apps; token refreshed)
 - [[jobs/APPLICATIONS-REPORT-2026-10-11.md]] (+1 nurse, below threshold; token refreshed)
 - [[jobs/APPLICATIONS-REPORT-2026-10-10.md]] (no new apps; token refreshed)
 - [[jobs/APPLICATIONS-REPORT-2026-10-06.md]] (no new apps; token refreshed)
@@ -94,10 +95,10 @@
 
 ### Status
 
-- **Google Sheets Auth: ACTIVE** - Token refreshed 2026-10-11
-- Last successful pull: 2026-10-11
+- **Google Sheets Auth: ACTIVE** - Token refreshed 2026-10-12
+- Last successful pull: 2026-10-12
 - All 4 pipelines accessible
-- 1 new application since 2026-10-10 (this pull): 1 nurse below threshold
+- 0 new applications since 2026-10-11 (this pull)
 
 ## Related
 

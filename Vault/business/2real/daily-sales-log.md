@@ -2,6 +2,8 @@
 
 **Format:** `DATE | TARGET_GHS | ACTUAL_GHS | TOP_3_SKUs | NOTES`
 
+> **AUTHORITATIVE LEDGER (from Oct 2026):** This file + closed Jiji adverts = the ONLY sales record. Sales are NO LONGER entered in Zobaze (used for receipts only, plus a photo source for listings). Zobaze inventory/cost data is stale (June 2026) — not live stock or pricing.
+
 Append one line per day. The 4:30 AM briefing reads this file.
 
 ---

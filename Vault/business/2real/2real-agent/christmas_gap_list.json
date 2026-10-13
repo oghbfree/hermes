@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-05T07:02:56.049857",
-  "total_gap": 307,
+  "generated": "2026-10-12T07:02:56.145125",
+  "total_gap": 294,
   "items": [
     {
       "name": "Blyss Uban Video Intercom And Outdoor Button",
@@ -252,7 +252,7 @@
       "margin": 450,
       "gift": false,
       "priority": 450,
-      "best_partial_match": "Stanley FatMax 40cm Digital Spirit Level Model: 0-",
+      "best_partial_match": "DeWalt 14.4 Volt Cordless Drill/Driver Kit One Bat",
       "partial_score": 0.25
     },
     {
@@ -285,8 +285,8 @@
       "margin": 410,
       "gift": false,
       "priority": 410,
-      "best_partial_match": "Mixed Lego 500 Pieces for 350ghc",
-      "partial_score": 0.17
+      "best_partial_match": "Firexo 500ml Compact All-Fires Extinguisher With B",
+      "partial_score": 0.33
     },
     {
       "name": "Gardena 18321 Comfort Shower Hose",
@@ -355,17 +355,6 @@
       "partial_score": 0.5
     },
     {
-      "name": "Bosch Drill Bits X19 HSS Point teq",
-      "price": 500.0,
-      "cost": 140.0,
-      "stock": 2,
-      "margin": 360,
-      "gift": false,
-      "priority": 360,
-      "best_partial_match": "Original Bosch Hammer Drill 500W",
-      "partial_score": 0.29
-    },
-    {
       "name": "Energizer Foldable Hard Case 1100 Lumens Light",
       "price": 600.0,
       "cost": 240.0,
@@ -375,17 +364,6 @@
       "priority": 360,
       "best_partial_match": "Energizer Hardcase Rechargeable Led Light Powerban",
       "partial_score": 0.57
-    },
-    {
-      "name": "Faithfull Ratchet Spanner Set 6 Pieces",
-      "price": 450.0,
-      "cost": 90.0,
-      "stock": 1,
-      "margin": 360,
-      "gift": false,
-      "priority": 360,
-      "best_partial_match": "STANLEY RATCHET 38 Pieces",
-      "partial_score": 0.5
     },
     {
       "name": "Hoselock 3-way Tap Connector 2250",
@@ -428,19 +406,30 @@
       "margin": 290,
       "gift": false,
       "priority": 348,
-      "best_partial_match": "Gorilla Wood Glue 118m",
+      "best_partial_match": "Gorilla Wood Glue (532ml)",
       "partial_score": 0.33
     },
     {
-      "name": "Arrow Hammer Tacker Stapler None",
-      "price": 500.0,
-      "cost": 160.0,
+      "name": "Bosch IXO Cordless Screwdriver Cardboard Box",
+      "price": 430.0,
+      "cost": 90.0,
       "stock": 1,
       "margin": 340,
       "gift": false,
       "priority": 340,
-      "best_partial_match": "STANLEY SharpShooter Heavy-Duty Hammer Tacker Mode",
-      "partial_score": 0.4
+      "best_partial_match": "Parkside 4v Cordless Screwdriver With Exchangeable",
+      "partial_score": 0.33
+    },
+    {
+      "name": "Bosch IXO Cordless Screwdriver Plastic Box",
+      "price": 430.0,
+      "cost": 90.0,
+      "stock": 1,
+      "margin": 340,
+      "gift": false,
+      "priority": 340,
+      "best_partial_match": "Parkside 4v Cordless Screwdriver With Exchangeable",
+      "partial_score": 0.33
     },
     {
       "name": "Laser Locking Wheel Nut Remover Half Inch Square Drive 3291",
@@ -450,7 +439,7 @@
       "margin": 340,
       "gift": false,
       "priority": 340,
-      "best_partial_match": "Stanley MaxSteel 190mm (7.5-Inch) Straight Jaw Loc",
+      "best_partial_match": "Draper 300 Mm / 12-Inch Combination Square 34703",
       "partial_score": 0.2
     },
     {
@@ -472,19 +461,8 @@
       "margin": 330,
       "gift": false,
       "priority": 330,
-      "best_partial_match": "STANLEY DualMelt 25W Glue Gun Model 0-Gr25 / 6-Gr2",
+      "best_partial_match": "Bostik Diy Hot Melt Glue Gun",
       "partial_score": 0.38
-    },
-    {
-      "name": "Blooma Lethe Battery-operated Security Lights",
-      "price": 520.0,
-      "cost": 200.0,
-      "stock": 1,
-      "margin": 320,
-      "gift": false,
-      "priority": 320,
-      "best_partial_match": "Lutec Draco LED Security Lights Motion Sensor Ligh",
-      "partial_score": 0.33
     },
     {
       "name": "Laser Drain Plug Key Set 5 Piece 1580",
@@ -571,19 +549,8 @@
       "margin": 280,
       "gift": false,
       "priority": 280,
-      "best_partial_match": "Rolson Pro 5 Piece Offset Ratchet Ring Spanner 6-2",
+      "best_partial_match": "Halfords Advanced\n7 Piece Stubby Spanner Set",
       "partial_score": 0.4
-    },
-    {
-      "name": "Bolt Cutter Irwin Bc914h",
-      "price": 450.0,
-      "cost": 180.0,
-      "stock": 1,
-      "margin": 270,
-      "gift": false,
-      "priority": 270,
-      "best_partial_match": "Irwin Quick Grip 6 Inch Clamp",
-      "partial_score": 0.25
     },
     {
       "name": "Gardena 4hole Hose No Box",
@@ -593,7 +560,7 @@
       "margin": 270,
       "gift": false,
       "priority": 270,
-      "best_partial_match": "GARDENA Automatic Irrigation Micro-Drip System Com",
+      "best_partial_match": "Apple Magic Mouse No Back Cover",
       "partial_score": 0.2
     },
     {
@@ -637,7 +604,7 @@
       "margin": 260,
       "gift": false,
       "priority": 260,
-      "best_partial_match": "Kent Stowe Pruning Saw",
+      "best_partial_match": "Kent & Stowe 180mm Turbo Folding Pruning Saw",
       "partial_score": 0.5
     },
     {
@@ -703,7 +670,7 @@
       "margin": 230,
       "gift": false,
       "priority": 230,
-      "best_partial_match": "DeWalt 18V XR Brushless Combi/Hammer Drill UK Used",
+      "best_partial_match": "Roughneck v Series Claw Hammer 20 Oz",
       "partial_score": 0.2
     },
     {
@@ -824,7 +791,7 @@
       "margin": 170,
       "gift": false,
       "priority": 204,
-      "best_partial_match": "Gorilla Glue Original 250ml",
+      "best_partial_match": "Gorilla Wood Glue (532ml)",
       "partial_score": 0.5
     },
     {
@@ -934,7 +901,7 @@
       "margin": 188,
       "gift": false,
       "priority": 188,
-      "best_partial_match": "Gorilla Glue Original 250ml",
+      "best_partial_match": "Gorilla Wood Glue (532ml)",
       "partial_score": 0.5
     },
     {
@@ -945,19 +912,8 @@
       "margin": 180,
       "gift": false,
       "priority": 180,
-      "best_partial_match": "Stanley Dual Color Carpenter Square 7 Inches",
+      "best_partial_match": "Draper 300 Mm / 12-Inch Combination Square 34703",
       "partial_score": 0.25
-    },
-    {
-      "name": "Hamilton 5 Brush Set None",
-      "price": 230.0,
-      "cost": 80.0,
-      "stock": 3,
-      "margin": 150,
-      "gift": false,
-      "priority": 180,
-      "best_partial_match": "Parkside Twist Wire Cup Brush Fits Angle Grinders,",
-      "partial_score": 0.33
     },
     {
       "name": "Laser Logic Probe DC 5263",
@@ -967,7 +923,7 @@
       "margin": 180,
       "gift": false,
       "priority": 180,
-      "best_partial_match": "Laser Coil Spring Compressor Heavy Duty 2779",
+      "best_partial_match": "Prexiso 2-in-1 Laser Tape Distance Measure Model: ",
       "partial_score": 0.2
     },
     {
@@ -993,17 +949,6 @@
       "partial_score": 0.5
     },
     {
-      "name": "Draper Boat Level 31477 250mm",
-      "price": 250.0,
-      "cost": 80.0,
-      "stock": 2,
-      "margin": 170,
-      "gift": false,
-      "priority": 170,
-      "best_partial_match": "Magnusson 250mm Slip Joint Pliers - Brand New",
-      "partial_score": 0.2
-    },
-    {
       "name": "Parkside 50M Tape Measure",
       "price": 470.0,
       "cost": 300.0,
@@ -1011,7 +956,7 @@
       "margin": 170,
       "gift": false,
       "priority": 170,
-      "best_partial_match": "Stanley Tylon 8m/26ft Tape Measure",
+      "best_partial_match": "Prexiso 2-in-1 Laser Tape Distance Measure Model: ",
       "partial_score": 0.5
     },
     {
@@ -1079,17 +1024,6 @@
       "priority": 160,
       "best_partial_match": "Parkside 20v Cordless Drill Driver With Battery an",
       "partial_score": 0.4
-    },
-    {
-      "name": "Ice Fusion Brush 3\"",
-      "price": 170.0,
-      "cost": 40.0,
-      "stock": 7,
-      "margin": 130,
-      "gift": false,
-      "priority": 156,
-      "best_partial_match": "Parkside Twist Wire Cup Brush Fits Angle Grinders,",
-      "partial_score": 0.33
     },
     {
       "name": "Ingco Bolt Cutter 30\"",
@@ -1176,7 +1110,7 @@
       "margin": 150,
       "gift": false,
       "priority": 150,
-      "best_partial_match": "Makita  1/4-Sheet Palm Finishing Sander",
+      "best_partial_match": "Makita Finishing Palm Sander With Dustbag - Brand ",
       "partial_score": 0.4
     },
     {
@@ -1198,8 +1132,8 @@
       "margin": 140,
       "gift": false,
       "priority": 140,
-      "best_partial_match": "KWB Germany HSS Metal Drill Bit Set 12-Piece (1088",
-      "partial_score": 0.43
+      "best_partial_match": "Bosch Professional 19-Piece HSS-Point Teq Metal Dr",
+      "partial_score": 0.57
     },
     {
       "name": "Darlac Straight Snips Compact",
@@ -1257,17 +1191,6 @@
       "partial_score": 0.44
     },
     {
-      "name": "Bahco 268 Hack Saw",
-      "price": 160.0,
-      "cost": 50.0,
-      "stock": 4,
-      "margin": 110,
-      "gift": false,
-      "priority": 132,
-      "best_partial_match": "Genuine Ingco 12\u201d Hack Saw Frame Hhf3088",
-      "partial_score": 0.5
-    },
-    {
       "name": "Arctic Air Cooler None",
       "price": 220.0,
       "cost": 100.0,
@@ -1275,7 +1198,7 @@
       "margin": 120,
       "gift": false,
       "priority": 120,
-      "best_partial_match": "Babybliss Rotating Hot Air Brush Stylers",
+      "best_partial_match": "Portable Direct-Drive Air Compressor / Inflator.",
       "partial_score": 0.25
     },
     {
@@ -1374,7 +1297,7 @@
       "margin": 110,
       "gift": false,
       "priority": 110,
-      "best_partial_match": "Stanley TCT Circular Saw Blade 210mm X 30mm 24T (S",
+      "best_partial_match": "Stanley Sta 010780 Fatmax Fixed Blade Knife",
       "partial_score": 0.4
     },
     {
@@ -1387,28 +1310,6 @@
       "priority": 108,
       "best_partial_match": "Original Bosch Hammer Drill 500W",
       "partial_score": 0.33
-    },
-    {
-      "name": "Ice Fusion Brush 2\"",
-      "price": 135.0,
-      "cost": 45.0,
-      "stock": 4,
-      "margin": 90,
-      "gift": false,
-      "priority": 108,
-      "best_partial_match": "Parkside Twist Wire Cup Brush Fits Angle Grinders,",
-      "partial_score": 0.33
-    },
-    {
-      "name": "Stanley 12\" quick square",
-      "price": 300.0,
-      "cost": 0.0,
-      "stock": 3,
-      "margin": 90,
-      "gift": false,
-      "priority": 108,
-      "best_partial_match": "Stanley Dual Color Carpenter Square 7 Inches",
-      "partial_score": 0.5
     },
     {
       "name": "Smoke Alarm Fire Angel ST625R",
@@ -1550,7 +1451,7 @@
       "margin": 98,
       "gift": false,
       "priority": 98,
-      "best_partial_match": "Hozelock 2550 Plus Round Area Garden Lawn Sprinkle",
+      "best_partial_match": "Irwin Jack 325mm 13 TPI Fine Cut Veneer & Floorboa",
       "partial_score": 0.33
     },
     {
@@ -1561,7 +1462,7 @@
       "margin": 80,
       "gift": false,
       "priority": 96,
-      "best_partial_match": "Bond It Wp100 LMN Silicone, a Premium Neutral Cure",
+      "best_partial_match": "Gorilla Heavy Duty Grab Adhesive Sealant for Anyth",
       "partial_score": 0.33
     },
     {
@@ -1682,7 +1583,7 @@
       "margin": 75,
       "gift": false,
       "priority": 90,
-      "best_partial_match": "Ring Automotive Micro Lithium Jump Starter Up to 3",
+      "best_partial_match": "Binatone Latitude Twin Pack Walkie Talkie With Up ",
       "partial_score": 0.33
     },
     {
@@ -1770,7 +1671,7 @@
       "margin": 80,
       "gift": false,
       "priority": 80,
-      "best_partial_match": "FFX Silicone Gp",
+      "best_partial_match": "Gorilla Waterproof Coat and Seal 946ml - Brand New",
       "partial_score": 0.14
     },
     {
@@ -1803,7 +1704,7 @@
       "margin": 80,
       "gift": false,
       "priority": 80,
-      "best_partial_match": "Bond It Wp100 LMN Silicone, a Premium Neutral Cure",
+      "best_partial_match": "Gorilla Heavy Duty Grab Adhesive Sealant for Anyth",
       "partial_score": 0.2
     },
     {
@@ -1814,7 +1715,7 @@
       "margin": 80,
       "gift": false,
       "priority": 80,
-      "best_partial_match": "Bond It Wp100 LMN Silicone, a Premium Neutral Cure",
+      "best_partial_match": "Gorilla Heavy Duty Grab Adhesive Sealant for Anyth",
       "partial_score": 0.25
     },
     {
@@ -1836,7 +1737,7 @@
       "margin": 80,
       "gift": false,
       "priority": 80,
-      "best_partial_match": "FFX Silicone Gp",
+      "best_partial_match": "40+ Oversized LEGO Building Blocks",
       "partial_score": 0.25
     },
     {
@@ -1858,7 +1759,7 @@
       "margin": 66,
       "gift": false,
       "priority": 79,
-      "best_partial_match": "Irwin Jack 185mm (7.25\") Dovetail Veneer Fine Cut ",
+      "best_partial_match": "Irwin Jack 325mm 13 TPI Fine Cut Veneer & Floorboa",
       "partial_score": 0.43
     },
     {
@@ -1880,7 +1781,7 @@
       "margin": 75,
       "gift": false,
       "priority": 75,
-      "best_partial_match": "DeWALT Extreme Runtime XR FlexVolt 250mm Circular ",
+      "best_partial_match": "Titan 210mm Electric Sliding Mitre Saw",
       "partial_score": 0.5
     },
     {
@@ -1994,17 +1895,6 @@
       "partial_score": 0.4
     },
     {
-      "name": "Mac Allister 180mm Diamond Cutting Blade",
-      "price": 220.0,
-      "cost": 0.0,
-      "stock": 1,
-      "margin": 66,
-      "gift": false,
-      "priority": 66,
-      "best_partial_match": "Abracs Expert Diamond Blade 180mm X 1.6mm Tile Por",
-      "partial_score": 0.5
-    },
-    {
       "name": "Stanley Cutting Disc 38162 115mm Brick",
       "price": 220.0,
       "cost": 0.0,
@@ -2100,7 +1990,7 @@
       "margin": 60,
       "gift": false,
       "priority": 60,
-      "best_partial_match": "Unex Sd160s 16-Port 10/100mbps Nexswitch Network S",
+      "best_partial_match": "Lowenergie Outdoor Dusk to Dawn Auto-Light Switch ",
       "partial_score": 0.17
     },
     {
@@ -2133,7 +2023,7 @@
       "margin": 57,
       "gift": false,
       "priority": 57,
-      "best_partial_match": "Makita D-61123 115mm Segmented Diamond Cutting Bla",
+      "best_partial_match": "Abracs 230mm Trade Diamond Cutting Blade",
       "partial_score": 0.5
     },
     {
@@ -2159,17 +2049,6 @@
       "partial_score": 0.43
     },
     {
-      "name": "Knobs IKEA Attest",
-      "price": 150.0,
-      "cost": 0.0,
-      "stock": 4,
-      "margin": 45,
-      "gift": false,
-      "priority": 54,
-      "best_partial_match": "IKEA Jansjo LED USB Flexible Light",
-      "partial_score": 0.33
-    },
-    {
       "name": "MK Celing Switch 50 Amp With Neon",
       "price": 180.0,
       "cost": 0.0,
@@ -2177,7 +2056,7 @@
       "margin": 54,
       "gift": false,
       "priority": 54,
-      "best_partial_match": "Panasonic Stereo Tuner Amp Sound System Set Cd,rad",
+      "best_partial_match": "Lowenergie Outdoor Dusk to Dawn Auto-Light Switch ",
       "partial_score": 0.17
     },
     {
@@ -2188,7 +2067,7 @@
       "margin": 52,
       "gift": false,
       "priority": 52,
-      "best_partial_match": "Irwin Jack 185mm (7.25\") Dovetail Veneer Fine Cut ",
+      "best_partial_match": "Irwin 6-Inch 10 TPI Bi-Metal Reciprocating Saw Bla",
       "partial_score": 0.5
     },
     {
@@ -2199,8 +2078,8 @@
       "margin": 44,
       "gift": false,
       "priority": 52,
-      "best_partial_match": "",
-      "partial_score": 0.0
+      "best_partial_match": "IKEA Attest Stainless Steel Cabinet Door Handles /",
+      "partial_score": 0.33
     },
     {
       "name": "Stanley Drill Bit X8 Brick 56040",
@@ -2265,7 +2144,7 @@
       "margin": 50,
       "gift": false,
       "priority": 50,
-      "best_partial_match": "Unex Sd160s 16-Port 10/100mbps Nexswitch Network S",
+      "best_partial_match": "Lowenergie Outdoor Dusk to Dawn Auto-Light Switch ",
       "partial_score": 0.25
     },
     {
@@ -2364,7 +2243,7 @@
       "margin": 36,
       "gift": false,
       "priority": 43,
-      "best_partial_match": "Irwin Jack 185mm (7.25\") Dovetail Veneer Fine Cut ",
+      "best_partial_match": "Irwin 6-Inch 10 TPI Bi-Metal Reciprocating Saw Bla",
       "partial_score": 0.4
     },
     {
@@ -2375,7 +2254,7 @@
       "margin": 42,
       "gift": false,
       "priority": 42,
-      "best_partial_match": "Stanley TCT Circular Saw Blade 210mm X 30mm 24T (S",
+      "best_partial_match": "Stanley Dynagrip 3-Piece Wood Chisel Set Model: ST",
       "partial_score": 0.4
     },
     {
@@ -2386,7 +2265,7 @@
       "margin": 42,
       "gift": false,
       "priority": 42,
-      "best_partial_match": "Yale Mini Wireless Alarm Kit",
+      "best_partial_match": "Yale Smart Keyless Connected Door Lock With Nightl",
       "partial_score": 0.25
     },
     {
@@ -2441,8 +2320,8 @@
       "margin": 39,
       "gift": false,
       "priority": 39,
-      "best_partial_match": "Harris Taskmasters Wallpaper Smoother With Solvite",
-      "partial_score": 0.25
+      "best_partial_match": "Super Sub 100mm Mini Paint Roller Sleeve Refill",
+      "partial_score": 0.5
     },
     {
       "name": "Wickes Power Socket White Screw 2 USB 13s Socket",
@@ -2474,8 +2353,8 @@
       "margin": 38,
       "gift": false,
       "priority": 38,
-      "best_partial_match": "",
-      "partial_score": 0.0
+      "best_partial_match": "IKEA Attest Stainless Steel Cabinet Door Handles /",
+      "partial_score": 0.5
     },
     {
       "name": "Knobs Crystal Clear Detail",
@@ -2496,7 +2375,7 @@
       "margin": 30,
       "gift": false,
       "priority": 36,
-      "best_partial_match": "White Noise Sound Machine",
+      "best_partial_match": "Gorilla Heavy-Duty Grab Adhesive (80 Ml, White)",
       "partial_score": 0.33
     },
     {
@@ -2665,17 +2544,6 @@
       "partial_score": 0.25
     },
     {
-      "name": "Ice Fusion Brush 1.5mm",
-      "price": 100.0,
-      "cost": 0.0,
-      "stock": 1,
-      "margin": 30,
-      "gift": false,
-      "priority": 30,
-      "best_partial_match": "Parkside Twist Wire Cup Brush Fits Angle Grinders,",
-      "partial_score": 0.25
-    },
-    {
       "name": "Roller Brush Supadec 5pack Foam",
       "price": 100.0,
       "cost": 0.0,
@@ -2738,7 +2606,7 @@
       "margin": 30,
       "gift": false,
       "priority": 30,
-      "best_partial_match": "Unex Sd160s 16-Port 10/100mbps Nexswitch Network S",
+      "best_partial_match": "Lowenergie Outdoor Dusk to Dawn Auto-Light Switch ",
       "partial_score": 0.14
     },
     {
@@ -2749,7 +2617,7 @@
       "margin": 30,
       "gift": false,
       "priority": 30,
-      "best_partial_match": "Unex Sd160s 16-Port 10/100mbps Nexswitch Network S",
+      "best_partial_match": "Lowenergie Outdoor Dusk to Dawn Auto-Light Switch ",
       "partial_score": 0.17
     },
     {
@@ -2760,7 +2628,7 @@
       "margin": 30,
       "gift": false,
       "priority": 30,
-      "best_partial_match": "Unex Sd160s 16-Port 10/100mbps Nexswitch Network S",
+      "best_partial_match": "Lowenergie Outdoor Dusk to Dawn Auto-Light Switch ",
       "partial_score": 0.14
     },
     {
@@ -2793,7 +2661,7 @@
       "margin": 24,
       "gift": false,
       "priority": 29,
-      "best_partial_match": "Stanley 125mm 80 Grit Quick Fit ROS Sanding Discs ",
+      "best_partial_match": "Draper 300 Mm / 12-Inch Combination Square 34703",
       "partial_score": 0.14
     },
     {
@@ -2804,7 +2672,7 @@
       "margin": 28,
       "gift": false,
       "priority": 28,
-      "best_partial_match": "Hitachi 24V Cordless 3-Mode SDS-plus Rotary Hammer",
+      "best_partial_match": "Lowenergie Outdoor Dusk to Dawn Auto-Light Switch ",
       "partial_score": 0.17
     },
     {
@@ -2881,7 +2749,7 @@
       "margin": 22,
       "gift": false,
       "priority": 27,
-      "best_partial_match": "VTech KidiGear / KidiTech Walkie Talkies (Blue Edi",
+      "best_partial_match": "Everbuild Decorators Flexible Filler (White)",
       "partial_score": 0.33
     },
     {
@@ -3101,7 +2969,7 @@
       "margin": 22,
       "gift": false,
       "priority": 22,
-      "best_partial_match": "Halfords Compression Tester 808070 - Brand New",
+      "best_partial_match": "Halfords Advanced\n7 Piece Stubby Spanner Set",
       "partial_score": 0.2
     },
     {
@@ -3112,7 +2980,7 @@
       "margin": 22,
       "gift": false,
       "priority": 22,
-      "best_partial_match": "Stanley Staple Pins Type a 6mm 1000pcs",
+      "best_partial_match": "Faithfull 6-Piece Flex Head Ratchet Combination Sp",
       "partial_score": 0.33
     },
     {
@@ -3244,7 +3112,7 @@
       "margin": 20,
       "gift": false,
       "priority": 20,
-      "best_partial_match": "DeWALT Extreme Runtime XR FlexVolt 250mm Circular ",
+      "best_partial_match": "Titan 210mm Electric Sliding Mitre Saw",
       "partial_score": 0.25
     },
     {
@@ -3367,17 +3235,6 @@
       "priority": 5,
       "best_partial_match": "Ingco Pinch Crow Wrecking Bar 36 Inches",
       "partial_score": 0.25
-    },
-    {
-      "name": "Roller Brush Refil Super Sub Roller 100mm",
-      "price": 8.0,
-      "cost": 0.0,
-      "stock": 28,
-      "margin": 2,
-      "gift": false,
-      "priority": 3,
-      "best_partial_match": "Gorilla Super Glue Brush Nozzle. 12g",
-      "partial_score": 0.33
     }
   ]
 }

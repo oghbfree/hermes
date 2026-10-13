@@ -2,7 +2,15 @@
 
 Durable facts from periodic daily-processing runs.
 
-_facts below are limited to verified findings. Last refreshed: 2026-10-11 (EOD)._
+_facts below are limited to verified findings. Last refreshed: 2026-10-12 (EOD)._
+
+## 2026-10-12 Consolidated (Mon)
+- 🟢 **INTEGRATED_INSIGHTS_2026-10-12.md** written (Vault/insights + memories/insights ×2 synced). `Vault/Daily/2026-10-12.md` created.
+- ✅ **Gateway RUNNING (PID 9352) sustained ×2d** (valid AppData token); **WhatsApp ONLINE + paired** (creds refreshed 12 Oct 06:57). Cron SLA healthy — 45 outputs, 0 job failures; **FB poster ran ~9× partial by design (tool-iteration cap, not fail)**.
+- 🔒 **Security PASS (0 CRITICAL), no new regression.** Persistent debt: **30 `.env`-reader scripts (FAIL, 5 active: memory_review_telegram/mum_evening_checkin/h_evening_checkin_send/ghana_telegram_report/send_ghana_report — all read stale revoked `~/.hermes` root → non-functional anyway)**, dual-root token divergence (retire stale `~/.hermes/.env`), 28/58 silent cron, Nous invalid, allow_all_users. Backup .env 0.
+- 🦷 **H:** **Dental Mon 12 Oct 10:30am (TODAY)** — no attendance confirmation; use to batch Renerve reorder (0 since 28 Sep → tremor unmedicated 14d) + run 1,075 GH labs + confirm 31 Aug review + fresh vitals. Food diary 14d silent; no vitals 49d.
+- 👵 **Mum:** data gap **8 days** (5–12 Oct unrecorded; 2/4 Oct open). Topic-4 connector down since 13 Sep — gateway now up, **verify read-back**. Sodium recheck unconfirmed; Imodium out; BP batteries. Build consolidated escalation ledger (stop per-check-in re-derivation).
+- 💼 **2Real:** **FB Marketplace Poster TURNED AROUND (resolved 11 Oct STALL)** — posting resumed, gap **307→294**; anti-ban hardening added 12 Oct (`vary_photo`/`make_desc`/`open_category` combobox fix); 49 queued, latest posted Luceco Castra Floodlight GHS 2,100 (hit cap; **append 14513059 to fb_posted.json next**). Sales 11/12 Oct unlogged (last 10/10 GHS 1,620). Recruitment 0 new (71; OAuth refreshed today). Jiji 294 → 9/day by 15 Nov. Olymech RFQ overdue.
 
 ## 2026-10-11 Consolidated (Sun)
 - 🟢 **INTEGRATED_INSIGHTS_2026-10-11.md** created (Vault/insights + memories/insights dual-tree synced). `Vault/Daily/2026-10-11.md` written. Security audit 11/10 saved to `Vault/System/Assistant/`.

@@ -52,6 +52,16 @@ WhatsApp Status ×2 + **Facebook Marketplace (this file)**. FB = visual, high-ti
 - Sold items: mark sold in progress file + delete listing
 
 ## ANTI-BAN HARDENING (12 Oct 26 — per H)
+
+- **DUPLICATE CHECK IS MANDATORY — before EVERY post (rule added 12 Oct 26, per H):**
+  1. Open `https://www.facebook.com/marketplace/you/selling` and scan ALL live
+     listing titles — if the target title (fuzzy, case/space-insensitive) is
+     already on the profile, SKIP the item. Never rely on fb_posted.json alone;
+     a prior run may have published but crashed before saving.
+  2. Also check the ID against `fb_posted.json` (compare as strings — IDs are
+     ints there, CSV/feed rows are strings).
+  3. One listing per product, ever. Re-list only when H explicitly orders it
+     in live chat.
 - **Cadence: max 3 listings per session/run.** No more single-item cron runs; no bursts.
 - **Text variation is mandatory** — never post identical boilerplate. `fb_post_lib.py`
   `make_desc(title)` rotates 5 openers × 4 closers. Use it for every new listing.

@@ -97,8 +97,10 @@
 | 2 Oct | Corn dough porridge · sobolo · lemon water | Kenkey + light soup (ate all) · Don Simon (sugary — occasional) | — (radio evening) |
 | 3 Oct | Corn-dough porridge + 2 eggs · Fru Toli · 🧂 salt rock (1st logged application 9am) | Boiled beans + kelewele (occasional — fried ripe plantain) | — |
 | 4 Oct | Corn-dough porridge + 2 boiled eggs · 🧂 salt rock (self-administered 9am) | Kokonte + light soup (all) | — (drink with family; radio) |
+| 11 Oct | Corn dough porridge · 🧂 salt rock | — (waakye from masseuse saved for eve) | Waakye (held to 12 Oct lunch) |
+| 12 Oct | — (waakye heated 3:30pm) | Waakye (masseuse's, heated — fine) | — |
 
-> **Backfill complete (4 Oct 26):** Meals to 4 Oct. 🧂 Salt therapy now self-managed (she does it herself, tells carer). BP check-then-dose discipline holding (4 Oct 132/83 → Furo served). Gentle swaps: Don Simon → watermelon juice; kelewele occasional.
+> **Backfill complete (12 Oct 26):** Meals to 12 Oct. 🥛 **MILK SPOILT — discarded (strained w/ new cheesecloth + heated, still off; heat ≠ safe with spoiled milk). Perishable protocol: check on arrival, refrigerate immediately, date, carer spot-checks before serving.** Cheesecloth delivered 11 Oct ✓ (rider). Gentle swaps: Don Simon → watermelon juice; kelewele occasional.
 
 ---
 
