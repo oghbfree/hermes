@@ -2,7 +2,14 @@
 
 Durable facts from periodic daily-processing runs.
 
-_facts below are limited to verified findings. Last refreshed: 2026-10-12 (EOD)._
+_facts below are limited to verified findings. Last refreshed: 2026-10-13 (EOD)._
+
+## 2026-10-13 Consolidated (Tue)
+- 🟢 **INTEGRATED_INSIGHTS_2026-10-13.md** written (Vault/insights). `Vault/Daily/2026-10-13.md` created. **Mum gap clarifies:** an 11–12 Oct backfill block confirms real latest data = **12 Oct (BP 124/68 ✅ P65 T36.6 → Furo 20mg 11:45 correct; salt rock; masseuse ~1hr 11 Oct; MILK SPOILT discarded; swelling reduced)** — not the stale 4 Oct reading.
+- ✅ **Gateway RUNNING (log active 21:15, WhatsApp dispatching)**; **WhatsApp ONLINE + paired**. Security audit **10-13 FAILED** (idle 847s>600s timeout, no audit saved) — latest valid = **10-12 PASS (0 CRITICAL)**; verify 14 Oct run.
+- 🦷 **H:** **Dental was YESTERDAY (12 Oct) — outcome NOT logged**; batch = reorder Renerve (0 since 28 Sep → tremor unmedicated 15d), re-send 1,075 GH labs, confirm 31 Aug review (43d undocumented), fresh vitals. Food diary 15d silent; no vitals 50d.
+- 👵 **Mum:** **~9-day gap** (topic-4 connector down since 13 Sep); sodium recheck unconfirmed; Imodium OUT; **milk replacement** needed; BP spare batteries. Build consolidated escalation ledger.
+- 💼 **2Real:** **Sales 13/10 GHS 490** (3× extension 160; Mr Swindoll Bosch jigsaw 300 + JBL Eon 30, partly 5× Commando Balm barter). **FB Poster active:** 2 posted today (Bristan Noctis tap 1,600; iPhone 12 Pro Max 2,800), **fb_posted.json=137, ~29 queue remaining**; runs hit tool-iteration caps + photo-upload gate (item 14265416); next Panasonic Lumix GHS980. Recruitment 0 new (71). Jiji ~294 @9/day → 15 Nov. Olymech RFQ ~10d overdue. Sept VAT pending (window 1–7 Nov). Sales 11/12 Oct still unlogged.
 
 ## 2026-10-12 Consolidated (Mon)
 - 🟢 **INTEGRATED_INSIGHTS_2026-10-12.md** written (Vault/insights + memories/insights ×2 synced). `Vault/Daily/2026-10-12.md` created.

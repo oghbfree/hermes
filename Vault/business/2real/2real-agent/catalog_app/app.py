@@ -18,6 +18,76 @@ ROOT = os.path.dirname(os.path.abspath(__file__))
 DATA = os.path.join(ROOT, "..", "master_catalog.json")
 PORT = 8765
 
+BUSINESS = {
+    "name": "2 REAL ENTERPRISES",
+    "phone": "0204252252",
+    "location": "Dome Market, Accra / Pickup: Oyarifa",
+    "terms": "MoMo or cash only — no credit. No discounts without approval.",
+}
+INVOICE_DIR = os.path.join(ROOT, "receipts")
+os.makedirs(INVOICE_DIR, exist_ok=True)
+
+# ── Receipt / invoice generation (fpdf2) ──────────────────────────────
+def next_invoice_number():
+    n = 1
+    for f in os.listdir(INVOICE_DIR):
+        m = re.match(r"2RE-(\d+)\.pdf", f)
+        if m:
+            n = max(n, int(m.group(1)) + 1)
+    return f"2RE-{n:05d}"
+
+
+def make_receipt(lines, customer="Walk-in customer", payment="MoMo", momo_ref=""):
+    """lines: [{title, qty, price}] → (number, pdf_path). GHS currency."""
+    from fpdf import FPDF
+    number = next_invoice_number()
+    path = os.path.join(INVOICE_DIR, f"{number}.pdf")
+    pdf = FPDF(format="A5")
+    pdf.add_page()
+    pdf.set_font("Helvetica", "B", 18)
+    pdf.cell(0, 10, BUSINESS["name"], align="C", new_x="LM", new_y="N")
+    pdf.set_font("Helvetica", "", 9)
+    pdf.cell(0, 5, f"{BUSINESS['location']}  |  Tel/WhatsApp: {BUSINESS['phone']}",
+             align="C", new_x="LM", new_y="N")
+    pdf.ln(2)
+    pdf.set_font("Helvetica", "B", 12)
+    pdf.cell(0, 8, f"RECEIPT {number}", align="C", new_x="LM", new_y="N")
+    pdf.ln(6)
+    import datetime
+    pdf.set_font("Helvetica", "", 10)
+    pdf.cell(0, 6, f"Date: {datetime.date.today().strftime('%d/%m/%Y')}   Customer: {customer}   Payment: {payment}"
+                  + (f" (Ref: {momo_ref})" if momo_ref else ""), new_x="LM", new_y="N")
+    pdf.ln(4)
+    # table header
+    pdf.set_font("Helvetica", "B", 10)
+    pdf.set_fill_color(230, 230, 230)
+    pdf.cell(105, 7, "Item", fill=True)
+    pdf.cell(15, 7, "Qty", fill=True, align="C")
+    pdf.cell(30, 7, "Price (GHS)", fill=True, align="R")
+    pdf.cell(30, 7, "Amount (GHS)", fill=True, align="R", new_x="LM", new_y="N")
+    pdf.set_font("Helvetica", "", 10)
+    total = 0.0
+    for ln in lines:
+        qty = int(ln.get("qty") or 1)
+        price = float(ln.get("price") or 0)
+        amount = qty * price
+        total += amount
+        pdf.cell(105, 7, ln.get("title", "")[:65], new_x="LM", new_y="0")
+        pdf.cell(15, 7, str(qty), align="C", new_x="LM", new_y="0")
+        pdf.cell(30, 7, f"{price:,.2f}", align="R", new_x="LM", new_y="0")
+        pdf.cell(30, 7, f"{amount:,.2f}", align="R", new_x="LM", new_y="N")
+    pdf.set_font("Helvetica", "B", 11)
+    pdf.cell(105, 8, "TOTAL", new_x="LM", new_y="0")
+    pdf.cell(15, 8, "", new_x="LM", new_y="0")
+    pdf.cell(30, 8, "", new_x="LM", new_y="0")
+    pdf.cell(30, 8, f"{total:,.2f}", align="R", border=1, new_x="LM", new_y="N")
+    pdf.ln(6)
+    pdf.set_font("Helvetica", "", 8)
+    pdf.multi_cell(0, 4, BUSINESS["terms"])
+    pdf.cell(0, 4, "Thank you for your business!", align="C")
+    pdf.output(path)
+    return number, path
+
 
 def load():
     with open(DATA, encoding="utf-8") as f:
@@ -102,17 +172,20 @@ input.f{width:100%;padding:8px;border-radius:6px;border:1px solid #444;backgroun
 </style></head><body>
 <header>
  <button class="mode browse" id="modeBtn" onclick="toggleMode()">Browse</button>
+ <button id="saleBtn" style="display:none;background:#e91e63;color:#fff;border-color:#e91e63;font-weight:bold" onclick="openSale()">New sale</button>
  <input id="q" placeholder="Search title..." oninput="render()">
  <span class="stats" id="stats"></span>
 </header>
 <div class="grid" id="grid"></div>
 <dialog id="dlg"><div id="dlgBody"></div></dialog>
+<dialog id="saleDlg"><div id="saleBody"></div></dialog>
 <script>
-let ITEMS=[],mode='browse';
+let ITEMS=[],mode='browse',SALE=[];
 const q=s=>document.querySelector(s);
 function toggleMode(){mode=mode==='browse'?'owner':'browse';
  const b=q('#modeBtn');b.textContent=mode==='owner'?'Owner':'Browse';
- b.className='mode '+(mode==='owner'?'owner':'browse');render();}
+ b.className='mode '+(mode==='owner'?'owner':'browse');
+ q('#saleBtn').style.display=mode==='owner'?'':'none';render();}
 async function load(){
  ITEMS=await (await fetch('/api/items')).json();render();}
 function profitTag(it){
@@ -162,9 +235,10 @@ function openItem(id){
    <input class="f" id="f_loc" value="${it.location||''}" placeholder="BAG-01 / A2 ...">
    <div class="row"><button class="save" onclick="saveItem(${id})">Save</button>
    <button onclick="markSold(${id})">Mark sold −1</button></div>
+   <div class="row"><button style="flex:1;background:#e91e63;color:#fff;border-color:#e91e63" onclick="addToSale(${id})">+ Add to sale</button>
+   <button onclick="document.getElementById('dlg').close()">Close</button></div>
    <div class="row"><a href="${it.url}" target="_blank" style="flex:1">
-   <button style="width:100%">Open on Jiji</button></a>
-   <button onclick="document.getElementById('dlg').close()">Close</button></div></div>`;
+   <button style="width:100%">Open on Jiji</button></a></div></div>`;
  }
  q('#dlg').showModal();}
 async function saveItem(id){
@@ -186,6 +260,45 @@ async function markSold(id){
  if(r.error){alert(r.error);return;}
  Object.assign(ITEMS.find(x=>x.jiji_id===id),r.item);
  document.getElementById('dlg').close();render();}
+function addToSale(id){
+ const it=ITEMS.find(x=>x.jiji_id===id);
+ const ex=SALE.find(l=>l.jiji_id===id);
+ if(ex)ex.qty++; else SALE.push({jiji_id:id,title:it.title,price:it.canonical_price,qty:1});
+ document.getElementById('dlg').close();openSale();}
+function openSale(){
+ const b=q('#saleBody');
+ if(!SALE.length){b.innerHTML='<p>Cart empty — add items from owner mode.</p>'
+  +'<div class="row"><button onclick="document.getElementById(\'saleDlg\').close()">Close</button></div>';}
+ else{
+  const tot=SALE.reduce((s,l)=>s+l.price*l.qty,0);
+  b.innerHTML=SALE.map((l,i)=>`<div style="display:flex;gap:6px;align-items:center;margin:4px 0">
+    <div style="flex:1;font-size:13px">${esc(l.title).substring(0,45)}</div>
+    <button onclick="chQty(${i},-1)">−</button><span>${l.qty}</span>
+    <button onclick="chQty(${i},1)">+</button>
+    <div style="width:80px;text-align:right;color:#ffd54f">GHS ${(l.price*l.qty).toFixed(0)}</div></div>`).join('')
+  +`<div style="text-align:right;font-weight:bold;margin-top:6px">TOTAL: GHS ${tot.toFixed(2)}</div>`
+  +`<label>Customer (optional)</label><input class="f" id="s_cust" placeholder="Walk-in customer">
+    <label>Payment</label><select class="f" id="s_pay"><option>MoMo</option><option>Cash</option></select>
+    <label>MoMo ref (optional)</label><input class="f" id="s_ref">
+    <div class="row"><button class="save" onclick="finishSale()">Generate receipt + record sale</button>
+    <button onclick="SALE=[];document.getElementById('saleDlg').close();">Clear</button></div>`;}
+ q('#saleDlg').showModal();}
+function chQty(i,d){SALE[i].qty=Math.max(1,SALE[i].qty+d);openSale();}
+async function finishSale(){
+ const lines=SALE.map(l=>({jiji_id:l.jiji_id,title:l.title,qty:l.qty,price:l.price}));
+ const r=await (await fetch('/api/receipt',{method:'POST',
+  headers:{'Content-Type':'application/json'},
+  body:JSON.stringify({lines,customer:q('#s_cust').value,payment:q('#s_pay').value,momo_ref:q('#s_ref').value})})).json();
+ if(r.error){alert(r.error);return;}
+ SALE=[];
+ ITEMS=await (await fetch('/api/items')).json();
+ q('#saleBody').innerHTML=`<div style="text-align:center;padding:10px">
+  <div style="font-size:20px;color:#4caf50">✓ Receipt ${r.receipt}</div>
+  <div>GHS ${r.total.toFixed(2)} — logged to daily sales</div>
+  <div class="row" style="margin-top:12px">
+  <a href="/receipts/${r.receipt}.pdf" target="_blank" style="flex:1">
+  <button class="save" style="width:100%">View / print receipt</button></a>
+  <button onclick="document.getElementById('saleDlg').close()">Done</button></div></div>`;}
 load();
 </script></body></html>"""
 
@@ -205,6 +318,20 @@ class Handler(BaseHTTPRequestHandler):
     def do_GET(self):
         if self.path in ("/", "/index.html"):
             self._send(200, HTML)
+        elif self.path.startswith("/receipts/") and self.path.endswith(".pdf"):
+            fname = os.path.basename(self.path)
+            fpath = os.path.join(INVOICE_DIR, fname)
+            if os.path.exists(fpath):
+                with open(fpath, "rb") as f:
+                    data = f.read()
+                self.send_response(200)
+                self.send_header("Content-Type", "application/pdf")
+                self.send_header("Content-Disposition", f"inline; filename={fname}")
+                self.send_header("Content-Length", str(len(data)))
+                self.end_headers()
+                self.wfile.write(data)
+            else:
+                self._send(404, "no receipt", "text/plain")
         elif self.path == "/api/items":
             items = load()
             # hide internal fields in browse mode is client-side; send all to owner device
@@ -256,6 +383,53 @@ class Handler(BaseHTTPRequestHandler):
             it["_close_ad"] = qty <= 0
             save(items)
             return self._send(200, json.dumps({"item": it}), "application/json")
+
+        if self.path == "/api/receipt":
+            # body: {lines:[{jiji_id,title,qty,price}], customer, payment, momo_ref}
+            lines = body.get("lines") or []
+            if not lines:
+                return self._send(400, '{"error":"no lines"}', "application/json")
+            try:
+                number, path = make_receipt(
+                    lines,
+                    customer=body.get("customer") or "Walk-in customer",
+                    payment=body.get("payment") or "MoMo",
+                    momo_ref=body.get("momo_ref") or "",
+                )
+            except Exception as e:
+                return self._send(500, json.dumps({"error": f"pdf failed: {e}"}), "application/json")
+            # decrement stock for each catalog item in the sale
+            for ln in lines:
+                it2 = next((x for x in items if x.get("jiji_id") == ln.get("jiji_id")), None)
+                if it2:
+                    q = int(it2.get("_qty", it2.get("zobaze_stock") or 0))
+                    q = max(0, q - int(ln.get("qty") or 1))
+                    it2["_qty"] = q
+                    it2["_close_ad"] = q <= 0
+            save(items)
+            import datetime
+            total = sum(float(l.get("price") or 0) * int(l.get("qty") or 1) for l in lines)
+            # append to the canonical daily sales log (Vault/business/2real/daily-sales-log.md)
+            logp = os.path.abspath(os.path.join(ROOT, "..", "..", "daily-sales-log.md"))
+            row = (f"| {datetime.date.today().strftime('%d/%m/%y')} | | {total:,.0f} | "
+                   + "; ".join(l.get("title", "")[:25] for l in lines[:3])
+                   + f" | Receipt {number} · {body.get('payment') or 'MoMo'}{(' ref '+body['momo_ref']) if body.get('momo_ref') else ''} |")
+            try:
+                with open(logp, encoding="utf-8") as f:
+                    content = f.read()
+                # insert before the '## How to Use' section if present
+                i = content.find("## How to Use")
+                content = (content[:i] + row + "\n\n" + content[i:]) if i > 0 else (content.rstrip() + "\n" + row + "\n")
+                with open(logp, "w", encoding="utf-8") as f:
+                    f.write(content)
+            except Exception:
+                pass
+            with open(os.path.join(ROOT, "sales_log.json"), "a", encoding="utf-8") as f:
+                f.write(json.dumps({"date": datetime.date.today().isoformat(), "receipt": number,
+                                     "total": total, "payment": body.get("payment"),
+                                     "momo_ref": body.get("momo_ref"), "lines": lines}) + "\n")
+            return self._send(200, json.dumps({"receipt": number, "pdf": path, "total": total}),
+                              "application/json")
 
         self._send(404, '{"error":"unknown"}', "application/json")
 

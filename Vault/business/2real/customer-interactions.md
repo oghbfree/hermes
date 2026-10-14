@@ -6675,3 +6675,27 @@ I’m in Kumasi
 - **Chat:** 16394041172200
 - **Customer:** [video received]
 - **Reply:** Thank you! 🙏 I've saved your number so you'll be first to know when new stock lands — quality UK tools and gadgets at good prices. Save this number as *2Real Stock Updates* so you don't miss a restock.
+
+## 2026-10-13 12:17
+- **Channel:** whatsapp
+- **Chat:** 274565045448729
+- **Customer:** [image received]
+- **Reply:** Thank you for your purchase! 🙏 Enjoy the item. If you have a moment, a review on Jiji helps other customers find us — it takes 30 seconds and helps a small business grow: https://jiji.com.gh/shop/2real-online
+
+## 2026-10-13 12:17
+- **Channel:** whatsapp
+- **Chat:** 274565045448729
+- **Customer:** [image received]
+- **Reply:** Thank you! 🙏 I've saved your number so you'll be first to know when new stock lands — quality UK tools and gadgets at good prices. Save this number as *2Real Stock Updates* so you don't miss a restock.
+
+## 2026-10-13 12:18
+- **Channel:** whatsapp
+- **Chat:** 274565045448729
+- **Customer:** Okay
+- **Reply:** [acknowledgment - no reply sent]
+
+## 2026-10-13 14:09
+- **Channel:** whatsapp
+- **Chat:** 269401924350157
+- **Customer:** Ok
+- **Reply:** [acknowledgment - no reply sent]

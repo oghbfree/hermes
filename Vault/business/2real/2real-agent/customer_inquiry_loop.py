@@ -22,7 +22,10 @@ from collections import defaultdict
 WORKSPACE = Path(r"C:\Users\User\.hermes\workspace\Vault\business\2real")
 AGENT_DIR = WORKSPACE / "2real-agent"
 INTERACTIONS_LOG = WORKSPACE / "customer-interactions.md"
-INVENTORY_FILE = AGENT_DIR / "inventory_agent.json"
+# JIJI IS THE SOURCE OF TRUTH (H's rule, 2 Oct 26) — inventory_agent.json (Zobaze)
+# is STALE: photos/reference only, never the availability/price truth.
+INVENTORY_FILE = AGENT_DIR / "inventory_agent.json"        # Zobaze — fallback/photo ref ONLY
+JIJI_LISTINGS = AGENT_DIR / "jiji_listings_full.json"      # Jiji — source of truth
 LEADS_FILE = AGENT_DIR / "customer_leads.json"
 SOURCING_LOG = AGENT_DIR / "sourcing_log.json"
 LOOP_STATE = AGENT_DIR / "loop_state.json"
@@ -32,10 +35,62 @@ PLACEHOLDER = "We will get back to you shortly."
 # ─── HELPERS ────────────────────────────────────────────────────────────────
 
 def load_inventory():
+    """Return the searchable inventory, PREFERRING live Jiji listings (source of truth).
+
+    Every active Jiji listing becomes an in-stock item with its exact Jiji price.
+    Zobaze (inventory_agent.json) is used ONLY as a photo/reference fallback when
+    the Jiji export is missing/empty — never as the availability or price source.
+    """
+    jiji = load_jiji_listings()
+    if jiji:
+        return jiji
+    # Fallback: stale Zobaze — labelled so caller knows it's NOT the truth
     if not INVENTORY_FILE.exists():
         return []
     with open(INVENTORY_FILE, "r", encoding="utf-8") as f:
-        return json.load(f)
+        inv = json.load(f)
+    for it in inv:
+        it.setdefault("_source", "zobaze-fallback")
+    return inv
+
+def load_jiji_listings():
+    """Build infostock items from ACTIVE live Jiji listings (source of truth)."""
+    if not JIJI_LISTINGS.exists():
+        return None
+    try:
+        with open(JIJI_LISTINGS, "r", encoding="utf-8") as f:
+            raw = json.load(f)
+    except (json.JSONDecodeError, OSError):
+        return None
+    items = raw if isinstance(raw, list) else raw.get("listings", raw.get("items", []))
+    out = []
+    for li in items:
+        if str(li.get("status", "")).lower() != "active":
+            continue
+        name = li.get("title") or ""
+        if not name:
+            continue
+        price = 0
+        po = li.get("price_obj") or {}
+        if isinstance(po, dict) and po.get("value") is not None:
+            price = po["value"]
+        else:
+            pt = li.get("price_title") or ""
+            import re as _re
+            m = _re.search(r"([\d,]+\.?\d*)", pt.replace("GH₵", "").replace("GHS", ""))
+            if m:
+                try:
+                    price = int(float(m.group(1).replace(",", "")))
+                except ValueError:
+                    price = 0
+        out.append({
+            "name": name,
+            "variant": li.get("category_name") or "",
+            "price": price,
+            "stock": 1,  # active Jiji listing = in-stock (retired the old <2 min rule)
+            "_source": "jiji",  # truth
+        })
+    return out if out else None
 
 def load_leads():
     if not LEADS_FILE.exists():

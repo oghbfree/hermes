@@ -1,4 +1,39 @@
-# JOYCELYN WEEK 3 REPORT — 28 Sept–2 Oct 2026 (first full week on contract)
+# JOYCELYN WEEKLY REPORTS — RUNNING LOG
+
+> Facilitator weekly reports, one entry per week, newest at top. Source: Joycelyn's daily checklists (Kobena: Daily Communication Checklist · Nenyi: Speech & Communication Daily Log). Evidence pack for Mission SLP monthly reviews + December probation review.
+
+---
+
+# WEEK 2 ENTRY — 5–9 Oct 2026 (sent 4/10... photos received 4 Oct evening, dated 5th–9th Oct sheet)
+
+## Kobena — Daily Communication Checklist (5–9 Oct)
+- **Level of support: Verbal prompt** only (no visual/gesture/physical prompts needed)
+- **Communication attempt: Word + Pointing** (both ticked)
+- **Overall participation: Good**
+- **Her comment:** Choice-making and greetings went well; using "no" and "stop". Required occasional reminders to communicate before receiving preferred items.
+- **PROGRESS HIGHLIGHT — protesting ladder climbing:** Kobena now **expresses dislikes by shaking his head for "No"** and is being encouraged toward **"No, I don't like it"** (word+gesture combined) — the next rung of the protest progression (refusal behaviour → signed/verbal protest).
+
+## Nenyi — Speech & Communication Daily Log (5–9 Oct)
+- **Targets ticked:** /sh/ sound ✓ · Answering simple questions ✓ · Reading short sentences aloud ✓ · Correct pronunciation ✓
+- **Performance: GOOD**
+- **Key clinical note:** "**Nenyi often substitutes /sh/** when speaking. **With verbal modelling and repetition, he was able to produce the sound correctly in some words.**" = substitution pattern (not absence) with correct production emerging under modelling — textbook articulation trajectory.
+- **Next target:** continued /sh/ practice in words and sentences.
+- **Her home-practice prescription (fun/low-pressure):** "Quiet game — say Shhhh" · "Pretend to quiet a baby: Shhh" · "Wind sound game" using Shhhh.
+
+## Week-2 analysis
+1. **Format consistency confirmed** — same checklist structure, signed by facilitator; **parent signature boxes left blank — start signing/countersigning** to close the loop formally.
+2. **Kobena:** verbal-prompt-only support level + word+pointing attempts = good independence signal. Protest rung is moving (head-shake → "No, I don't like it"). Reinforce at home: when he refuses something, model "No, I don't like it" for him to copy.
+3. **Nenyi:** /sh/ substitution with modelling-success = keep the echo-model loop at home (respond with the correct model, never harsh correction). The Shhhh games are good low-pressure home drills — use them in the car/bath.
+4. Both reports align with school SLT observations — home/school/facilitator triangulated on the same targets.
+
+## Week-2 actions
+- [ ] Sign the parent-signature line on both sheets going forward
+- [ ] Home: model "No, I don't like it" when Kobe refuses; Shhhh games for Nenyi (quiet game, baby game, wind game)
+- [ ] Watch for /w/ and /x/ targets activating next week
+
+---
+
+# WEEK 1 ENTRY — 28 Sept–2 Oct 2026 (first full week on contract)
 
 > Facilitator daily checklists, sent 4/10/26. Period = first full term week of the contract.
 

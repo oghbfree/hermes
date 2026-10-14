@@ -43,7 +43,7 @@ UPLOAD_OK = """(() => {
   return imgs.length>0;
 })()"""
 
-def post_one_checked(title, price, photo, category, desc):
+def post_one_checked(title, price, photo, category, desc, condition="New"):
     C.goto_url('https://www.facebook.com/marketplace/create/item')
     time.sleep(6)
     # choose 'Item for sale' if shown
@@ -99,7 +99,7 @@ def post_one_checked(title, price, photo, category, desc):
     if not ok:
         return 'FAIL cat opt'
     time.sleep(2)
-    rc = G['set_condition']()
+    rc = G['set_condition'](condition)
     if rc != 'OK':
         return rc
     C.js("""(() => {
@@ -122,6 +122,26 @@ def post_one_checked(title, price, photo, category, desc):
             time.sleep(1)
     return 'FAIL publish'
 
+def find_jiji_details(jid):
+    """Look up the item's Jiji listing to get accurate condition + spec details."""
+    jf = os.path.join(pkg, '..', 'jiji_listings_full.json')
+    try:
+        with open(jf, encoding='utf-8') as f:
+            raw = json.load(f)
+        items = raw if isinstance(raw, list) else raw.get('listings', raw.get('items', []))
+        for li in items:
+            # match by numeric id if present, else by title fallback
+            lid = li.get('id') or li.get('jiji_id')
+            if lid is not None:
+                try:
+                    if int(lid) == int(jid):
+                        return li.get('details', ''), str(li.get('title', ''))
+                except (ValueError, TypeError):
+                    pass
+        return '', ''
+    except Exception:
+        return '', ''
+
 def main():
     jid = int(sys.argv[1])
     if is_posted(jid):
@@ -137,12 +157,18 @@ def main():
     dst_photo = src_photo[:-4] + '_v%d.jpg' % jid
     varied = G['vary_photo'](src_photo, dst_photo)
     category = 'Electronics & computers' if any(w in title.lower() for w in ('tp-link', 'defender')) else 'Tools'
-    desc = G['make_desc'](title)
-    print('posting', jid, '|', title, '|', price, '| cat:', category, '| photo:', varied)
+    # Accurate condition + specs from the Jiji listing (source of truth)
+    details, jiji_title = find_jiji_details(jid)
+    condition = G['detect_condition'](jiji_title or title, details)
+    # Optional researched specs passed by the cron agent (web-searched key specs).
+    # Usage: python fb_post_run.py <jid> ["researched spec text"]
+    researched = sys.argv[2] if len(sys.argv) > 2 else ""
+    desc = G['make_desc'](title, details=details, condition=condition, spec=researched)
+    print('posting', jid, '|', title, '|', price, '| cat:', category, '| cond:', condition, '| photo:', varied)
     print('desc:', repr(desc[:120]), '...')
     for attempt in range(3):
         try:
-            rc = post_one_checked(title, price, varied, category, desc)
+            rc = post_one_checked(title, price, varied, category, desc, condition)
         except Exception as e:
             rc = 'FAIL exc: %r' % e
         print('attempt', attempt, '->', rc)

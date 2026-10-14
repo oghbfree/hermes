@@ -57,6 +57,7 @@ Append one line per day. The 4:30 AM briefing reads this file.
 | 08/10/26 |  | 510 | Jiji cus 1: Gorilla superglue tape (150), grab adhesive (200). Jiji cus 2: Gorilla duct tape 11m (160) | Gorilla line keeps moving — 3 adhesive products to 2 customers |
 | 09/10/26 |  | 500 | M2 SSD + DDR4 — switches on screen, power light not on (bought 200, sold 400). Share of table sale (100) | HP EliteBook 850 G3 sold — faulty buy at 200, flip at 400 |
 | 10/10/26 |  | 1,620 | Jiji: GTA 4 (150). **Eric — Enterprise Insurance**: Sennheiser SC160 (500), Jabra (370). Walk-in: green extension (600) | Eric buying business headsets — B2B lead for office/IT supplies |
+| 13/10/26 |  | 490 | Walk-in: 3× extension (160). **Mr Swindoll**: Bosch jigsaw PSC 50A (300) + old JBL Eon engine (30). Paid partly in 5× Commando Balm (product-swap promotion, Sammy tested with success) | Swindoll promotes balm — barter accepted |
 | 23/08/26 |  | — |  | Closed |
 | 24/08/26 |  | — |  | Closed |
 

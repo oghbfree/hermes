@@ -78,6 +78,7 @@ def pick_leaf(want):
 
 # ---- Anti-ban: per-listing text variation (rotating openers/closers) ----
 import random as _R
+import re as _re
 _OPENERS = [
     "Brand new, unused stock.",
     "Brand new in packaging.",
@@ -85,15 +86,48 @@ _OPENERS = [
     "Brand new, never opened.",
     "Fresh stock, brand new.",
 ]
+_OPENERS_USED = [
+    "Good used condition - quality checked.",
+    "Used, tested and working.",
+    "Pre-owned, fully tested.",
+    "Used condition - inspected and working.",
+]
 _CLOSERS = [
     "MoMo or cash only - no credit.\nPickup by appointment in Oyarifa or delivery arranged.\nCall/WhatsApp: 0204252252",
     "Payment by MoMo or cash on pickup (no credit).\nOyarifa pickup by appointment, or we arrange delivery.\nCall/WhatsApp 0204252252",
     "No credit - MoMo or cash only.\nCollection in Oyarifa by appointment or delivery arranged.\nWhatsApp/call: 0204252252",
     "Strictly MoMo or cash.\nPickup at Oyarifa (by appointment) or delivery available.\nRing/WhatsApp 0204252252",
 ]
-def make_desc(title):
+_USED_HINTS = ("used", "second hand", "pre-owned", "refurbished", "brand user",
+               "gently used", "used condition", "tested working", "read description")
+
+def detect_condition(title="", details=""):
+    """Return ('New'|'Used') from the Jiji listing title/details. Accurate condition
+    per H: some items are used, not new. Defaults to New only when no used-signal."""
+    blob = (str(title) + " " + str(details)).lower()
+    return "Used" if any(h in blob for h in _USED_HINTS) else "New"
+
+def make_desc(title, details="", condition=None, spec="", max_spec_chars=120):
+    """Build a listing description: accurate condition + key specs, then the
+    payment/pickup closer. Anti-ban rotating openers/closers.
+
+    `spec` = researched key specs/features (preferred; the agent web-searches these).
+    `details` = Jiji listing blurb (fallback when no researched spec).
+    Keeps the spec portion concise (default ~120 chars per H)."""
+    cond = condition or detect_condition(title, details or spec)
+    # Prefer researched spec; else derive a concise line from the Jiji details
+    raw = (spec or details or "").strip()
+    line = ""
+    if raw:
+        # collapse newlines, take up to max_spec_chars
+        line = _re.sub(r"\s+", " ", raw).strip()
+        if len(line) > max_spec_chars:
+            line = line[:max_spec_chars - 1].rstrip() + "…"
     t = title[:80]
-    return f"{t}. {_R.choice(_OPENERS)}\n\n{_R.choice(_CLOSERS)}"
+    opener = _R.choice(_OPENERS_USED if cond == "Used" else _OPENERS)
+    if line:
+        return f"{line} {opener}\n\n{_R.choice(_CLOSERS)}"
+    return f"{t}. {opener}\n\n{_R.choice(_CLOSERS)}"
 
 # ---- Anti-ban: photo micro-variation (defeats duplicate image hashes) ----
 def vary_photo(src, dst):
@@ -125,7 +159,10 @@ def open_category():
             return True
     return False
 
-def set_condition():
+def set_condition(target="New"):
+    """Set the listing Condition to `target` ('New' or 'Used'). Accurate per H:
+    some items are used, not new — the caller passes the Jiji-derived condition."""
+    target = "Used" if str(target).lower() in ("used", "brand user") else "New"
     for attempt in range(3):
         if not open_ctrl('Condition'):
             # FB 2026-10: listbox exists in DOM but renders 0x0 — dispatch directly on hidden option nodes
@@ -135,19 +172,19 @@ def set_condition():
               if(!lab) return 'nolab';
               const lb=document.getElementById(lab.getAttribute('aria-controls'));
               if(!lb) return 'nolb';
-              const opt=[...lb.querySelectorAll('[role=option]')].find(o=>(o.textContent||'').trim()==='New');
+              const opt=[...lb.querySelectorAll('[role=option]')].find(o=>o.textContent.trim().toLowerCase()==='%s');
               if(!opt) return 'noopt';
               const ME=t=>new MouseEvent(t,{bubbles:true,cancelable:true,view:window});
               ['mousedown','mouseup','click'].forEach(t=>opt.dispatchEvent(ME(t)));
               return 'dispatched';
-            })()""")
+            })()""" % target.lower())
             time.sleep(2)
-            done = js("(() => [...document.querySelectorAll('[role=combobox]')].filter(e=>e.offsetParent!==null).some(e=>(e.closest('label')?.textContent||'').replace(/\\s+/g,' ').includes('ConditionNew')))()")
+            done = js("(() => [...document.querySelectorAll('[role=combobox]')].filter(e=>e.offsetParent!==null).some(e=>(e.closest('label')?.textContent||'').replace(/\\s+/g,' ').includes('Condition%s')))()" % target)
             if done is True:
                 time.sleep(1)
                 return 'OK'
             continue
-        if pick_leaf('New'):
+        if pick_leaf(target):
             time.sleep(1.5)
             return 'OK'
         time.sleep(1)
@@ -215,7 +252,7 @@ def _post_one_inner(title,price,photo,category,desc):
     if not ok:
         return 'FAIL cat opt'
     time.sleep(2)
-    rc=set_condition()
+    rc=set_condition(globals().get('COND_TARGET','New'))
     if rc!='OK': return rc
     js("""(() => {
       const ta=document.querySelector('textarea');

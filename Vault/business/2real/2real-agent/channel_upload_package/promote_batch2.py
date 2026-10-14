@@ -5,15 +5,80 @@ Run when the CURRENT queues are done (FB next50 remaining == 0 AND WA remaining 
 
 What it does:
 1. Verifies both current queues are actually empty (refuses otherwise).
-2. Backs up next50.json -> next50_batch1_done.json (idempotent), copies batch2 -> next50.json.
-3. Rebuilds wa_queue.json with premium prices (+20%, round 10) for batch2 items NOT yet
+2. GORILLA-FIRST: prepends top-selling Gorilla SKUs (from meta_feed_full.csv, which has
+   jiji_id + image URL + Jiji price) that are NOT yet in fb_posted.json / NOT already in
+   the batch, downloading their photos if missing. Score 999 fronts them so they post first.
+3. Backs up next50.json -> next50_batch1_done.json (idempotent), copies batch2 -> next50.json.
+4. Rebuilds wa_queue.json with premium prices (+20%, round 10) for batch2 items NOT yet
    in wa_catalog_posted.json and not duplicate-titles in wa_catalog_existing.json.
-4. Resumes both crons (FB 5128ceaa2c09, WA 18cee69a1011) if paused.
+5. Resumes both crons (FB 5128ceaa2c09, WA 18cee69a1011) if paused.
 """
-import json, os, re, shutil, subprocess
+import json, os, re, shutil, subprocess, csv, urllib.request
 
 PKG = r'C:\Users\User\.hermes\workspace\Vault\business\2real\2real-agent\channel_upload_package'
 FB_CRON, WA_CRON = '5128ceaa2c09', '18cee69a1011'
+# Top-seller Gorilla SKU patterns (sales-log proven). Front these first.
+GORILLA_WANT = (
+    'grab adhesive', 'super glue', 'contact adhesive', 'epoxy',
+    'mounting tape', 'glue original', 'wood glue',
+)
+_GORILLA_URLS = None  # lazy cache of {jiji_id: (title, image, price)} from meta_feed
+
+
+def _gorilla_feed():
+    """{jiji_id: (title, image_url, price)} for Gorilla rows, from meta_feed_full.csv."""
+    global _GORILLA_URLS
+    if _GORILLA_URLS is not None:
+        return _GORILLA_URLS
+    feed = os.path.join(PKG, 'meta_feed_full.csv')
+    out = {}
+    if os.path.exists(feed):
+        with open(feed, encoding='utf-8') as f:
+            for row in csv.reader(f):
+                # columns: id, title, desc, condition, status, price, url, image, brand
+                if len(row) >= 9 and 'gorilla' in (row[8] or '').lower():
+                    try:
+                        jid = int(float(row[0]))
+                    except (ValueError, TypeError):
+                        continue
+                    out[jid] = (row[1], row[7], row[5])
+    _GORILLA_URLS = out
+    return out
+
+
+def gorilla_front(batch2, fb):
+    """Prepend proven-seller Gorilla SKUs not yet posted / not already in batch, with photos."""
+    feed = _gorilla_feed()
+    in_batch = {x['jiji_id'] for x in batch2}
+    imgdir = os.path.join(PKG, 'photos')
+    os.makedirs(imgdir, exist_ok=True)
+    fresh = []
+    for jid, (title, image, price) in feed.items():
+        if jid in fb or jid in in_batch:
+            continue
+        tl = title.lower()
+        if not any(w in tl for w in GORILLA_WANT):
+            continue
+        # price: meta_feed is "200.00 GHS" -> strip to int
+        try:
+            px = int(float(re.sub(r'[^0-9.]', '', price)))
+        except ValueError:
+            continue
+        if not image:
+            continue
+        # ensure local photo exists
+        photo = os.path.join(imgdir, '%d.jpg' % jid)
+        if not os.path.exists(photo):
+            try:
+                req = urllib.request.Request(image, headers={'User-Agent': 'Mozilla/5.0'})
+                with urllib.request.urlopen(req, timeout=30) as r, open(photo, 'wb') as f:
+                    f.write(r.read())
+            except Exception as e:
+                print('  photo dl fail %d: %s' % (jid, e))
+                continue
+        fresh.append({'jiji_id': jid, 'title': title, 'price': px,
+                      'image': image, 'url': 'https://jiji.com.gh', 'score': 999.0})
+    return fresh + batch2
 
 def jload(p): return json.load(open(p, encoding='utf-8'))
 def jsave(p, d): json.dump(d, open(p, 'w', encoding='utf-8'), indent=1)
@@ -29,6 +94,17 @@ def main():
         print('REFUSE: FB remaining %d, WA remaining %d — promote only when BOTH are 0.' % (len(fb_left), len(wa_left)))
         return
     batch2 = jload(PKG + r'\next50_batch2.json')
+    # GORILLA-FIRST: front top-selling Gorilla SKUs (not yet posted / not already in batch)
+    batch2 = gorilla_front(batch2, fb)
+    jsave(PKG + r'\next50_batch2.json', batch2)  # persist so next50 + wa both see gorilla front
+    # DUPLICATE-PREVENTION (H: "avoid at all costs"): drop any item ALREADY in fb_posted.json
+    # so the queue never re-queues a posted listing. This is what caused "item 1 is a duplicate".
+    pre = len(batch2)
+    batch2 = [x for x in batch2 if x['jiji_id'] not in fb]
+    dropped = pre - len(batch2)
+    if dropped:
+        print('  duplicate-prevention: dropped %d already-posted item(s) from the new queue' % dropped)
+    jsave(PKG + r'\next50_batch2.json', batch2)  # persist the FILTERED batch so the copy below is clean
     base = shutil.copy(PKG + r'\next50.json', PKG + r'\next50_batch1_done.json') if not os.path.exists(PKG + r'\next50_batch1_done.json') else None
     shutil.copy(PKG + r'\next50_batch2.json', PKG + r'\next50.json')
     # WA premium queue for batch2

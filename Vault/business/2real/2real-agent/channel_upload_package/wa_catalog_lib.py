@@ -2,7 +2,7 @@
 # item saved, image replaced via Edit, "Item saved" toast + under-review state).
 # Run via exec() inside browser session 'jiji-shop' (same session as FB posting).
 # Requires: web.whatsapp.com already logged in (persistent session, no QR).
-import time, base64, json as J
+import time, base64, json, json as J
 assert 'js' in globals(), 'run via exec in browser harness main'
 pkg=r'C:\Users\User\.hermes\workspace\Vault\business\2real\2real-agent\channel_upload_package'
 
@@ -26,7 +26,7 @@ WA_OPEN_CATALOGUE = """(() => {
 })()"""
 
 WA_ADD_ITEM_CARD = """(() => {
-  const c=[...document.querySelectorAll('*')].filter(e=>(e.textContent||'').trim()==='Add new item'&&e.children.length===0).pop();
+  const c=[...document.querySelectorAll('*')].filter(e=>e.offsetParent!==null&&(e.textContent||'').trim()==='Add new item'&&e.children.length===0)[0];
   if(!c) return 'gone';
   const t=c.parentElement.parentElement;
   const rc=t.getBoundingClientRect();
