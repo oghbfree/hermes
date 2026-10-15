@@ -1,0 +1,62 @@
+{
+  "updated": null,
+  "bundles": [
+    {
+      "name": "Adhesives Starter",
+      "items_hint": [
+        "gorilla glue",
+        "grab adhesive",
+        "super glue gel"
+      ],
+      "pitch": "The go-to adhesive set \u2014 glue, grab, and instant bond in one go."
+    },
+    {
+      "name": "Power Tool Combo",
+      "items_hint": [
+        "drill",
+        "jigsaw",
+        "circular saw"
+      ],
+      "pitch": "Everything for a day on site \u2014 drill, jigsaw, saw."
+    },
+    {
+      "name": "Mechanic's Kit",
+      "items_hint": [
+        "ratchet",
+        "tap and die",
+        "socket set"
+      ],
+      "pitch": "The mechanic's basics \u2014 ratchets, sockets, and thread tools."
+    },
+    {
+      "name": "Painter's Pack",
+      "items_hint": [
+        "spray paint",
+        "brush",
+        "roller"
+      ],
+      "pitch": "Paint-ready: paints, brushes and rollers."
+    }
+  ],
+  "fb_groups": [
+    {
+      "name": "Ghana Tools & Hardware Buy/Sell",
+      "url": "",
+      "category_focus": "tools/hardware"
+    },
+    {
+      "name": "Accra Buy & Sell",
+      "url": "",
+      "category_focus": "general"
+    },
+    {
+      "name": "Contractors & Builders Ghana",
+      "url": "",
+      "category_focus": "b2b/tools"
+    }
+  ],
+  "cross_sell_policy": {
+    "max_groups_per_run": 2,
+    "needs_H_approval_for_new_groups": true
+  }
+}

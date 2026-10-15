@@ -1,0 +1,9 @@
+{
+  "updated": null,
+  "threads": [],
+  "nudge_policy": {
+    "first_nudge_hours": 24,
+    "second_nudge_hours": 72,
+    "max_nudges": 2
+  }
+}

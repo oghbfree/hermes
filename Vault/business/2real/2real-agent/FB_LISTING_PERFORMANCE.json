@@ -1,0 +1,141 @@
+{
+  "updated": null,
+  "listings": [
+    {
+      "jiji_id": 8117961,
+      "title": "Stanley 10W LED Slimline PIR Floodlight 800lm IP65 Outdoor PIR Security \u2014 UK Imported",
+      "price": 310,
+      "posted_date": "2026-10-15",
+      "views": 0,
+      "chats": 0,
+      "sold": false,
+      "price_drops": 0
+    },
+    {
+      "jiji_id": 8930090,
+      "title": "Stanley 250mm 10in Groove Joint Pliers Waterpump Drop-Forged Steel \u2014 UK Imported, Quality Checked",
+      "price": 300,
+      "posted_date": "2026-10-15",
+      "views": 0,
+      "chats": 0,
+      "sold": false,
+      "price_drops": 0
+    },
+    {
+      "jiji_id": 16749562,
+      "title": "Halfords 150mm 6in Digital Vernier Caliper 0.01mm LCD Stainless Steel \u2014 UK Imported",
+      "price": 300,
+      "posted_date": "2026-10-15",
+      "views": 0,
+      "chats": 0,
+      "sold": false,
+      "price_drops": 0
+    },
+    {
+      "jiji_id": 12574690,
+      "title": "Rolson Four Head Rivet Gun Heavy Duty + 60 Rivets 2.4-4.8mm \u2014 UK Imported, Quality Checked",
+      "price": 300,
+      "posted_date": "2026-10-15",
+      "views": 0,
+      "chats": 0,
+      "sold": false,
+      "price_drops": 0
+    },
+    {
+      "jiji_id": 12261650,
+      "title": "INGCO Stone Hammer 4kg 900mm Fibreglass Handle Drop-Forged Head \u2014 UK Imported, Quality Checked",
+      "price": 300,
+      "posted_date": "2026-10-15",
+      "views": 0,
+      "chats": 0,
+      "sold": false,
+      "price_drops": 0
+    },
+    {
+      "jiji_id": 12706937,
+      "title": "Stanley Graphite Jacketed Hammer, High-Carbon Steel Head \u2014 UK Imported, Quality Checked",
+      "price": 300,
+      "posted_date": "2026-10-15",
+      "views": 0,
+      "chats": 0,
+      "sold": false,
+      "price_drops": 0
+    },
+    {
+      "jiji_id": 12729154,
+      "title": "Norton Clipper Classic 230mm Turbo Diamond Blade Universal Cut \u2014 UK Imported, Quality Checked",
+      "price": 300,
+      "posted_date": "2026-10-15",
+      "views": 0,
+      "chats": 0,
+      "sold": false,
+      "price_drops": 0
+    },
+    {
+      "jiji_id": 7652303,
+      "title": "Darlac Expert Bypass Pruner, SK5 Steel Secateurs 25mm Cut \u2014 UK Imported, Quality Checked",
+      "price": 285,
+      "posted_date": "2026-10-15",
+      "views": 0,
+      "chats": 0,
+      "sold": false,
+      "price_drops": 0
+    },
+    {
+      "jiji_id": "15493710",
+      "title": "Gorilla Heavy Duty Grab Adhesive Sealant for Anything 290ml From Uk",
+      "price": 280,
+      "posted_date": "2026-10-15",
+      "views": 0,
+      "chats": 0,
+      "sold": false,
+      "price_drops": 0
+    },
+    {
+      "jiji_id": "8930409",
+      "title": "Stanley 200mm Electrical Pliers",
+      "price": 280,
+      "posted_date": "2026-10-15",
+      "views": 0,
+      "chats": 0,
+      "sold": false,
+      "price_drops": 0
+    },
+    {
+      "jiji_id": "8930629",
+      "title": "Stanley Long Nose Locking Pliers 170mm",
+      "price": 280,
+      "posted_date": "2026-10-15",
+      "views": 0,
+      "chats": 0,
+      "sold": false,
+      "price_drops": 0
+    },
+    {
+      "jiji_id": "12612344",
+      "title": "Stanley Adjustable Wrench 250mm",
+      "price": 280,
+      "posted_date": "2026-10-15",
+      "views": 0,
+      "chats": 0,
+      "sold": false,
+      "price_drops": 0
+    },
+    {
+      "jiji_id": "12729480",
+      "title": "Flopro 8 Head Hose Spray Gun",
+      "price": 275,
+      "posted_date": "2026-10-15",
+      "views": 0,
+      "chats": 0,
+      "sold": false,
+      "price_drops": 0
+    }
+  ],
+  "price_drop_policy": {
+    "slow_after_days": 14,
+    "drop_pct": 10,
+    "max_total_drop_pct": 30,
+    "requires_H_approval": true
+  }
+}

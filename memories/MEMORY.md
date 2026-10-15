@@ -2,7 +2,24 @@
 
 Durable facts from periodic daily-processing runs.
 
-_facts below are limited to verified findings. Last refreshed: 2026-10-13 (EOD)._
+_facts below are limited to verified findings. Last refreshed: 2026-10-14 (EOD)._
+
+## 2026-10-14 Consolidated (Wed)
+- 🟢 **INTEGRATED_INSIGHTS_2026-10-14.md written** (Vault/insights + workspace/memories/insights + AppData hermes/memories/insights synced). `Vault/Daily/2026-10-14.md` created. **Security audit 14 Oct 07:04 PASS (0 CRITICAL); 30 `.env`-reader scripts FIXED/DELETED 14 Oct ✅**; Gateway RUNNING; WhatsApp paired+online.
+- 🦷 **H (52):** 🔴 **Renerve Plus ZERO — 16 days** (tremor unmedicated since 28 Sep; reorder ~295 GH pending); **12 Oct dental outcome UNLOGGED 2 days**; **no vitals 51 days** (since 24 Aug); **food diary silent 16 days** (since 28 Sep); 1,075 GH labs STILL pending.
+- 👵 **Mum (91, Weija):** **~2-day fresh-data gap** (13–14 Oct unrecorded; last real **12 Oct BP 124/68 ✅ P65 T36.6 → Furosemide 20mg 11:45 correct**). **sodium-recheck labs (~due 24 Sep) STILL unconfirmed**; **Imodium OUT** (gap since 8 Sep); **milk spoilt — replacement still needed**; BP spare batteries; salt therapy unconfirmed 11–14 Oct.
+- 👴 **Dad (92, UK):** no new check-ins; **WhatsApp bridge LIVE + paired** (12 Oct); ~65d gap re-pairable; 16 Jul foot unrecorded.
+- 💼 **2Real (14/10):** **FB Poster ACTIVE — 2 posted** (Bristan Noctis tap 1,600 · iPhone 12 Pro Max 2,800), **fb_posted.json ~137 · ~29 remaining**; next Panasonic Lumix GHS950; photo-upload gates hit (item 14265416); **append 14513059 to fb_posted.json + fix 6 `\n` descs**; **11–12 Oct sales UNLOGGED**; **Sept VAT STILL overdue (window 1–7 Nov)**; JF queue ~294; recruitment 71 (0 new).
+- 🖥️ **System:** Gateway RUNNING log fresh; **mum-health-morning FAILED** (scheduler RuntimeError); Mum topic-4 read connector DOWN since 13 Sep; cron SLA 22d normal.
+
+## 2026-10-13 Consolidated (Tue)
+- 🟢 **INTEGRATED_INSIGHTS_2026-10-14.md** written (`Vault/insights` + `workspace/memories/insights` + `AppData/hermes/memories/insights` dual/three-tree synced) · `Vault/Daily/2026-10-14.md` created. **Security audit 14 Oct 07:04 PASS (0 CRITICAL)** — 30 `.env`-reader scripts **FIXED/DELETED (14 Oct)** ✅; gateway RUNNING; WhatsApp ONLINE + paired; silent cron 28/58 unchanged; dual-root Telegram-token divergence WARN stands.
+- 🦷 **H (52):** 🔴 **Renerve Plus ZERO — 16 days** (finished 28 Sep, tremor unmedicated; reorder ~295 GH pending); **no vitals 51 days** (since 24 Aug); **food diary silent 16 days** (since 28 Sep); **12 Oct dental outcome UNLOGGED (2 days)**; 1,075 GH labs STILL pending; 31 Aug review 44 days undocumented; AM headaches/sinus on ibuprofen 400mg → kidney/GI risk until labs. Watch left-arm tremor escalating in the gap.
+- 👵 **Mum (91, Weija):** **~2-day fresh-data gap** (13–14 Oct unrecorded; last real data **12 Oct BP 124/68 ✅ P65 T36.6 → Furosemide 20mg correct 11:45**). Topic-4 connector down since 13 Sep (persistent blocker). 🚩 Na 161 + Furosemide-vs-BP logging consistently missed; **Imodium OUT** (stock gap since 8 Sep); **milk spoilt — discard 11–12 Oct, replacement needed**; BP spare batteries needed; salt therapy unconfirmed 11–13 Oct; sodium-recheck labs (~due 24 Sep) STILL unconfirmed. Evening + afternoon check-ins POSTED to topic 4; no fresh caregiver report captured.
+- 👴 **Dad (92, UK):** no fresh check-ins; **WhatsApp bridge live + paired 12 Oct** (~65d check-in gap re-pairable); 16 Jul foot outcome unrecorded. Mum-topic-4 read connector still down since 13 Sep.
+- 💼 **2Real (14/10):** FB poster ACTIVE — 2 posted (Bristan Noctis tap 1,600 · iPhone 12 Pro Max 2,800), fb_posted ~137, **~29 queue remaining**; next Panasonic Lumix GHS980; photo-upload gate on item 14265416 (cap); append 14513059 to fb_posted.json before next post; 6 `\n`-desc fixes. Sales 13/10 **GHS 490** logged (Bosch jigsaw 300 + JBL Eon 30, part barter); **11–12 Oct sales STILL unlogged**; **Sept VAT Form 10-M STILL OVERDUE (window 1–7 Nov)**; Olymech RFQ ~10d overdue; Jiji ~294 at 9/day → 15 Nov; recruitment 71 (0 new).
+- 🔒 **Security:** PASS (0 CRITICAL) 14 Oct; `.env`-reader scripts FIXED; 28/58 silent cron (no change); allow_all_users:true + dual-root token debt persist.
+- 🖥️ **System:** gateway RUNNING; WhatsApp paired+online; **mum-health-morning FAILED** (scheduler RuntimeError, persistent); mum topic-4 connector down; integrated-daily-synthesis SLA healthy (this run + Oct 13 22:09 both delivered).
 
 ## 2026-10-13 Consolidated (Tue)
 - 🟢 **INTEGRATED_INSIGHTS_2026-10-13.md** written (Vault/insights). `Vault/Daily/2026-10-13.md` created. **Mum gap clarifies:** an 11–12 Oct backfill block confirms real latest data = **12 Oct (BP 124/68 ✅ P65 T36.6 → Furo 20mg 11:45 correct; salt rock; masseuse ~1hr 11 Oct; MILK SPOILT discarded; swelling reduced)** — not the stale 4 Oct reading.

@@ -1,0 +1,18 @@
+ALREADY POSTED 14505104
+ALREADY POSTED 16731931
+ALREADY POSTED 14505194
+posting 12814086 | Darlac Cut Hold Snapper | 340 | cat: Tools | cond: New | photo: C:\Users\User\.hermes\workspace\Vault\business\2real\2real-agent\channel_upload_package\photos\12814086_v12814086.jpg
+desc: 'Darlac Cut Hold Snapper. Brand new, unused stock.\n\nNo credit - MoMo or cash only.\nCollection in Oyarifa by appointment o' ...
+attempt 0 -> PUBLISHED
+LOGGED 12814086
+posting 8118186 | Stanley Light 10w LED Slimline PIR Flood | 330 | cat: Tools | cond: New | photo: C:\Users\User\.hermes\workspace\Vault\business\2real\2real-agent\channel_upload_package\photos\8118186_v8118186.jpg
+desc: 'Stanley Light 10w LED Slimline PIR Flood. Brand new, never opened.\n\nNo credit - MoMo or cash only.\nCollection in Oyarifa' ...
+attempt 0 -> PUBLISHED
+LOGGED 8118186
+
+BATCH SUMMARY:
+  14505104: skipped
+  16731931: skipped
+  14505194: skipped
+  12814086: published
+  8118186: published

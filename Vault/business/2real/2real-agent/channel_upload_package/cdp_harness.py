@@ -6,7 +6,7 @@ because the module is re-imported fresh each call (config via env vars).
 import os, json, time, urllib.request
 from websocket import create_connection
 
-DEBUG_URL = "http://127.0.0.1:9222"
+DEBUG_URL = os.environ.get("FB_CDP_URL", "http://localhost:64365")  # was 127.0.0.1:9222 (dead Brave listener, 404)
 
 def list_tabs():
     data = json.loads(urllib.request.urlopen(DEBUG_URL + "/json", timeout=5).read())

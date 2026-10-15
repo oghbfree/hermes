@@ -113,10 +113,10 @@ def post_one_checked(title, price, photo, category, desc, condition="New"):
         pos = C.js(G['NEXT_PUB'])
         if pos:
             p = json.loads(pos)
-            C.click_at_xy(int(p['x']), int(p['y']))
+            C.js("""(() => { const b=[...document.querySelectorAll('div[role=button],button')].filter(e=>e.offsetParent!==null).find(e=>(e.textContent||'').trim()===%s); if(!b) return 'no'; const ME=t=>new MouseEvent(t,{bubbles:true,cancelable:true,view:window}); ['mousedown','mouseup','click'].forEach(t=>b.dispatchEvent(ME(t))); return 'ok'; })()""" % json.dumps(p.get('label','')))
             time.sleep(2.5)
             if p.get('label') == 'Publish':
-                time.sleep(4)
+                time.sleep(2)
                 return 'PUBLISHED'
         else:
             time.sleep(1)
@@ -142,27 +142,33 @@ def find_jiji_details(jid):
     except Exception:
         return '', ''
 
-def main():
-    jid = int(sys.argv[1])
+def _post_one(jid, researched=""):
+    """Post a single item, returning (exit_code, result). One CDP session stays
+    alive across calls in batch mode (persistent connection = no reconnect overhead)."""
     if is_posted(jid):
-        print('ALREADY POSTED', jid); return 0
+        print('ALREADY POSTED', jid); return 0, 'skipped'
+    # Belt-and-suspenders: unified cross-channel registry (Obsidian-backed master)
+    try:
+        sys.path.insert(0, os.path.join(pkg, '..'))
+        from channel_dedup import Registry
+        if Registry().posted_anywhere(jid):
+            print('ALREADY IN MASTER REGISTRY', jid); return 0, 'skipped'
+    except Exception:
+        pass  # registry unreadable -> rely on local fb_posted.json
     item = find_item(jid)
     if not item:
-        print('NOT IN QUEUE', jid); return 1
+        print('NOT IN QUEUE', jid); return 1, 'no_item'
     title = item['title']
     price = item['price']
     src_photo = os.path.join(pkg, 'photos', '%d.jpg' % jid)
     if not os.path.exists(src_photo):
-        print('NO PHOTO', jid); return 1
+        print('NO PHOTO', jid); return 1, 'no_photo'
     dst_photo = src_photo[:-4] + '_v%d.jpg' % jid
     varied = G['vary_photo'](src_photo, dst_photo)
     category = 'Electronics & computers' if any(w in title.lower() for w in ('tp-link', 'defender')) else 'Tools'
     # Accurate condition + specs from the Jiji listing (source of truth)
     details, jiji_title = find_jiji_details(jid)
     condition = G['detect_condition'](jiji_title or title, details)
-    # Optional researched specs passed by the cron agent (web-searched key specs).
-    # Usage: python fb_post_run.py <jid> ["researched spec text"]
-    researched = sys.argv[2] if len(sys.argv) > 2 else ""
     desc = G['make_desc'](title, details=details, condition=condition, spec=researched)
     print('posting', jid, '|', title, '|', price, '| cat:', category, '| cond:', condition, '| photo:', varied)
     print('desc:', repr(desc[:120]), '...')
@@ -174,13 +180,40 @@ def main():
         print('attempt', attempt, '->', rc)
         if rc == 'PUBLISHED':
             add_posted(jid)
+            try:
+                sys.path.insert(0, os.path.join(pkg, '..'))
+                from channel_dedup import Registry
+                Registry().mark_fb_posted(jid)
+            except Exception:
+                pass
             print('LOGGED', jid)
-            return 0
+            return 0, 'published'
         if rc in ('FAIL no photo preview', 'FAIL fields: %r', 'FAIL fields: \'retry\''):
             pass
         time.sleep(8)
     print('GAVE UP', jid)
-    return 1
+    return 1, 'gave_up'
+
+
+def main():
+    # Batch mode: python fb_post_run.py <jid1> [jid2 jid3 ...] — posts all in ONE
+    # browser session (persistent CDP connection), far faster than reconnect-per-item.
+    jids = [int(a) for a in sys.argv[1:] if a.strip().isdigit() and not a.strip().startswith('http')]
+    researched = " ".join(a for a in sys.argv[1:] if not a.strip().isdigit())
+    if not jids:
+        print('usage: fb_post_run.py <jid> [jid2 ...]'); return 2
+    results = []
+    for jid in jids:
+        rc, res = _post_one(jid, researched)
+        results.append((jid, rc, res))
+        if rc != 0:
+            break  # failed item ends the batch (matches cron run-end rule)
+    print('\nBATCH SUMMARY:')
+    for jid, rc, res in results:
+        print(f'  {jid}: {res}')
+    ok = all(rc == 0 for _, rc, _ in results)
+    return 0 if ok else 1
+
 
 if __name__ == '__main__':
     sys.exit(main())

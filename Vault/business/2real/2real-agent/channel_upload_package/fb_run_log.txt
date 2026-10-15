@@ -1,0 +1,15 @@
+ALREADY POSTED 9357111
+ALREADY POSTED 13231846
+ALREADY POSTED 14514088
+ALREADY POSTED 12261560
+posting 14512074 | Laser Spark Plug Spanner Double End With T Bar 16mm X 21mm Hex 1746 | 350 | cat: Tools | cond: New | photo: C:\Users\User\.hermes\workspace\Vault\business\2real\2real-agent\channel_upload_package\photos\14512074_v14512074.jpg
+desc: 'Laser Spark Plug Spanner Double End With T Bar 16mm X 21mm Hex 1746. New and unused - quality checked.\n\nMoMo or cash onl' ...
+attempt 0 -> PUBLISHED
+LOGGED 14512074
+
+BATCH SUMMARY:
+  9357111: skipped
+  13231846: skipped
+  14514088: skipped
+  12261560: skipped
+  14512074: published

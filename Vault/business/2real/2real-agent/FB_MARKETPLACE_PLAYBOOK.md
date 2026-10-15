@@ -81,3 +81,5 @@ Copying the profile to a temp dir restores debugging but loses the FB login
 (app-bound cookie encryption). Fix: H unlocks PC, Chrome shows the Allow prompt
 once → accept it → cron resumes. To re-enable silently, set Chrome policy
 HKLM\SOFTWARE\Policies\Google\Chrome\DevToolsRemoteDebuggingAllowed=1 (needs admin).
+### TITLE LENGTH LIMIT (verified 15 Oct 26)
+- FB Marketplace rejects titles at 100 chars with "Please enter a shorter title" (publish button fails silently, 3x retries all fail). Titles must be <= ~97 chars. Keep the keyword-enriched format but trim to <=95 chars before posting.

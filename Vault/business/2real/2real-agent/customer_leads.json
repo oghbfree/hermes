@@ -8156,5 +8156,40 @@
     "stage": "saved",
     "purchases": 1,
     "last_seen": "2026-10-13 12:17"
+  },
+  {
+    "chat_id": "188403136077878",
+    "first_seen": "2026-10-14 07:43",
+    "stage": "saved",
+    "purchases": 1,
+    "last_seen": "2026-10-14 08:28"
+  },
+  {
+    "chat_id": "193200648097934",
+    "first_seen": "2026-10-14 16:38",
+    "stage": "saved",
+    "purchases": 1,
+    "last_seen": "2026-10-14 16:38"
+  },
+  {
+    "chat_id": "228746367877201",
+    "first_seen": "2026-10-14 16:39",
+    "stage": "saved",
+    "purchases": 2,
+    "last_seen": "2026-10-14 16:56"
+  },
+  {
+    "chat_id": "98965106253846",
+    "first_seen": "2026-10-14 16:50",
+    "stage": "saved",
+    "purchases": 1,
+    "last_seen": "2026-10-14 16:52"
+  },
+  {
+    "chat_id": "233234004766957",
+    "first_seen": "2026-10-15 03:51",
+    "stage": "saved",
+    "purchases": 1,
+    "last_seen": "2026-10-15 03:51"
   }
 ]
