@@ -1,6 +1,165 @@
 {
   "updated": null,
-  "threads": [],
+  "threads": [
+    {
+      "id": {
+        "thread_id": "awurabena_lumix",
+        "buyer": "Awurabena",
+        "item": "Panasonic Lumix Compact Digital Camera",
+        "last_direction": "us",
+        "last_msg": "Yes, are you interested?",
+        "last_ts": "2026-10-15T08:39:43.372904",
+        "nudge_count": 0
+      },
+      "nudges_sent": 0,
+      "status": "open",
+      "created": "2026-10-15T08:39:43.372919"
+    },
+    {
+      "id": {
+        "thread_id": "awurabena_lumix",
+        "buyer": "Awurabena",
+        "item": "Panasonic Lumix Compact Digital Camera \u2014 UK Used",
+        "last_direction": "us",
+        "last_msg": "Still available. MoMo or cash only - no credit. Pickup in Oyarifa by appointment. Call/WhatsApp 0204252252.",
+        "last_ts": "2026-10-15T08:39:54.956965",
+        "nudge_count": 0
+      },
+      "nudges_sent": 0,
+      "status": "open",
+      "created": "2026-10-15T08:39:54.956979"
+    },
+    {
+      "id": {
+        "thread_id": "awurabena-panasonic-980",
+        "buyer": "Awurabena",
+        "listing": "Panasonic Lumix Compact Digital Camera With Battery & Charger \u2014 UK Used",
+        "last_msg": "Hi Awurabena! The model is the Panasonic Lumix DMC-ZS5 compact digital camera, UK used and tested in good working condition, sold with its battery and charger. It's GHS 980, still available. MoMo or cash only - no credit. Pickup in Oyarifa by appointment. Call/WhatsApp 0204252252.",
+        "last_dir": "us",
+        "status": "awaiting_buyer"
+      },
+      "nudges_sent": 0,
+      "status": "open",
+      "created": "2026-10-15T08:57:40.639024"
+    },
+    {
+      "id": {
+        "buyer": "Awurabena",
+        "item": "Panasonic Lumix Compact Digital Camera",
+        "last_msg": "Hi Awurabena! The model is the Panasonic Lumix DMC-ZS5 compact digital camera, UK used and tested in good working condition, sold with its battery and charger. It's GHS 980, still available. MoMo or cash only - no credit. Pickup in Oyarifa by appointment. Call/WhatsApp 0204252252.",
+        "who": "seller"
+      },
+      "nudges_sent": 0,
+      "status": "open",
+      "created": "2026-10-15T09:07:29.211199"
+    },
+    {
+      "id": "awurabena-panasonic-lumix",
+      "nudges_sent": 0,
+      "status": "open",
+      "created": "2026-10-15T09:22:27.685441",
+      "buyer": "Awurabena",
+      "listing_title": "Panasonic Lumix Compact Digital Camera With Battery & Charger \u2014 UK Used, Tested Working",
+      "last_dir": "out",
+      "last_msg": "Hi Awurabena! The model is the Panasonic Lumix DMC-ZS5 compact digital camera, UK used and tested in good working condition, sold with its battery and charger. It's GHS 980, still available. MoMo or cash only - no credit. Pickup in Oyarifa by appointment. Call/WhatsApp 0204252252.",
+      "last_out": "2026-10-15T08:57:00"
+    },
+    {
+      "id": "chris-xbox360-075",
+      "nudges_sent": 0,
+      "status": "open",
+      "created": "2026-10-15T11:52:08.088770",
+      "buyer": "Chris",
+      "listing_title": "Xbox 360 Games CD Assorted Titles Read Description",
+      "price": 80,
+      "last_msg": "Yes, still available! Assorted Xbox 360 game CDs (UK used) - GHS 80. MoMo or cash only - no credit. Pickup in Oyarifa by appointment. 0204252252.",
+      "last_dir": "out",
+      "last_out": "2026-10-15T11:52:08.088721"
+    },
+    {
+      "id": "chris_xbox360",
+      "nudges_sent": 0,
+      "status": "open",
+      "created": "2026-10-15T13:12:26.995646",
+      "buyer": "Chris",
+      "item": "Xbox 360 Games CD Assorted Titles Read Description \u2014 UK Used, Quality Checked",
+      "price": 80,
+      "last_from": "us",
+      "last_ts": "2026-10-15T13:12:26"
+    },
+    {
+      "id": "awurabena_lumix",
+      "nudges_sent": 0,
+      "status": "open",
+      "created": "2026-10-15T13:12:26.996269",
+      "buyer": "Awurabena",
+      "item": "Panasonic Lumix DMC-ZS5",
+      "price": 980,
+      "last_from": "us",
+      "last_ts": "2026-10-16T08:57",
+      "item_title": "Panasonic Lumix Compact Digital Camera With Battery & Charger \u2014 UK Used, Tested Working",
+      "last_buyer_msg": "model enquiry",
+      "last_reply": "Panasonic Lumix DMC-ZS5, UK used tested working, GHS 980. MoMo or cash only. Oyarifa pickup. 0204252252.",
+      "replied_by": "agent",
+      "source": "fb_marketplace",
+      "updated": "2026-10-16T02:04:47.348490",
+      "last_msg_from": "us"
+    },
+    {
+      "id": {
+        "thread_id": "chris-xbox360",
+        "listing_title": "Xbox 360 Games CD Assorted Titles \u2014 UK Used, Quality Checked",
+        "buyer": "Chris",
+        "last_dir": "us",
+        "last_text": "Yes, still available! GHS 80...",
+        "status": "open"
+      },
+      "nudges_sent": 0,
+      "status": "open",
+      "created": "2026-10-15T15:03:14.294730"
+    },
+    {
+      "id": {
+        "thread_id": "awurabena-panasonic-lumix",
+        "listing_title": "Panasonic Lumix Compact Digital Camera With Battery & Charger \u2014 UK Used",
+        "buyer": "Awurabena",
+        "last_dir": "us",
+        "last_text": "Lumix DMC-ZS5 GHS 980...",
+        "status": "open"
+      },
+      "nudges_sent": 0,
+      "status": "open",
+      "created": "2026-10-15T15:03:14.295702"
+    },
+    {
+      "id": "chris_xbox360games",
+      "nudges_sent": 1,
+      "status": "nudged",
+      "created": "2026-10-15T17:27:48.852813",
+      "buyer": "Chris",
+      "item_title": "Xbox 360 Games CD Assorted Titles Read Description \u2014 UK Used, Quality Checked",
+      "last_buyer_msg": "Is this still available?",
+      "last_reply": "Yes, still available! Assorted Xbox 360 game CDs (UK used) - GHS 80. MoMo or cash only. Pickup Oyarifa. Call/WhatsApp 0204252252.",
+      "replied_by": "agent",
+      "source": "fb_marketplace",
+      "item": "Xbox 360 Games CD Assorted Titles",
+      "last_msg_from": "us",
+      "last_ts": "2026-10-16T02:05",
+      "updated": "2026-10-16T02:06:06.879565",
+      "last_out": "2026-10-16T02:06:06.878326",
+      "last_dir": "out"
+    },
+    {
+      "id": "nii_xbox360games",
+      "nudges_sent": 0,
+      "status": "open",
+      "created": "2026-10-16T02:04:47.347141",
+      "buyer": "Nii",
+      "item": "Xbox 360 Games CD Assorted Titles",
+      "last_msg_from": "us",
+      "last_ts": "2026-10-16T02:04"
+    }
+  ],
   "nudge_policy": {
     "first_nudge_hours": 24,
     "second_nudge_hours": 72,

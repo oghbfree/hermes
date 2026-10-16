@@ -2,7 +2,16 @@
 
 Durable facts from periodic daily-processing runs.
 
-_facts below are limited to verified findings. Last refreshed: 2026-10-14 (EOD)._
+_facts below are limited to verified findings. Last refreshed: 2026-10-15 (EOD)._
+
+## 2026-10-15 Consolidated (Thu)
+- 🟢 **INTEGRATED_INSIGHTS_2026-10-15.md written** (Vault/insights + memories/insights dual-tree synced). `Vault/Daily/2026-10-15.md` created. **Security audit 15 Oct 07:45 PASS (0 CREDENTIAL, channel integrity PASS)** — Gateway RUNNING (live PID 15160, log active 21:48, WhatsApp flushing), WhatsApp paired+online. ⚠️ **`gateway_state.json` on disk = STALE 13-Oct fatal snapshot** — reconcile/refresh (does NOT reflect live healthy state).
+- 🦷 **H (52):** 🔴 **Renerve Plus ZERO — 17 days** (tremor unmedicated since 28 Sep; reorder ~295 GH pending); **no vitals 52 days** (since 24 Aug); **food diary silent 17 days** (since 28 Sep); **12 Oct dental outcome UNLOGGED 3 days**; 1,075 GH labs STILL pending; 31 Aug review 45 days undocumented; AM headaches/sinus on ibuprofen 400mg. H evening check-in posted topic 2 (no meal).
+- 👵 **Mum (91, Weija):** **~3-day fresh-data gap** (13–15 Oct unrecorded; all 3 check-ins POSTED topic 4 today, no read-back — connector DOWN since 13 Sep). Last real **12 Oct BP 124/68 ✅ P65 T36.6 → Furosemide 20mg 11:45 correct**. **Imodium OUT** (since 8 Sep); **sodium-recheck labs (~due 24 Sep) STILL unconfirmed**; milk replacement needed; BP spare batteries; salt therapy unconfirmed 11–15 Oct.
+- 👴 **Dad (92, UK):** no new check-ins; **WhatsApp bridge LIVE + paired** (12 Oct); ~65d gap re-pairable; 16 Jul foot unrecorded.
+- 💼 **2Real (15/10):** **Sales GHS 340 ✅ logged** — Jiji Louvre Vent (140) → **Kuber Realty B2B lead, invoice INV-KUB-20261015** (MoMo + invoice requested); Stanley Staple Gun 704400 (200). 14/10 GHS 755 logged. **11–12 Oct sales STILL unlogged.** **FB Batch Poster ⛔ PAUSED by agent (daily anti-ban cap ~50 posted vs 10–15/day); cron 5128ceaa2c09 disabled — resume tomorrow @2h cadence; 37 queue** (next 16580697 Smart Garden 9 — dup entries). Jiji 937 interactions / 294 auto-resolved / 0 hook-miss / **Pro bonus GHS 7,722** → rotate KitchenAid FP + Tunturi Rower; **chase Cold Room Panels lead (GHS 40k)**. Recruitment 0 new (**total 72**, nurses 53). Google OAuth refreshed. **Sept VAT Form 10-M STILL OVERDUE (window 1–7 Nov)**; Olymech RFQ ~10d overdue.
+- 🔒 **Security:** PASS 15 Oct (0 CRITICAL); **`.env`-reader scripts re-detected (LOW, dated — regression vs 14 Oct deletion)**; 29/59 silent cron; dual-root token divergence + allow_all_users debt persist.
+- 🖥️ **System:** Gateway RUNNING (live PID 15160); Mum topic-4 connector down since 13 Sep; **cron SLA healthy 56 outputs today**; tasks-queue↔kanban clean (235 cards); github-memory-backup ✅ (13 files). Stale `gateway_state.json` flagged.
 
 ## 2026-10-14 Consolidated (Wed)
 - 🟢 **INTEGRATED_INSIGHTS_2026-10-14.md written** (Vault/insights + workspace/memories/insights + AppData hermes/memories/insights synced). `Vault/Daily/2026-10-14.md` created. **Security audit 14 Oct 07:04 PASS (0 CRITICAL); 30 `.env`-reader scripts FIXED/DELETED 14 Oct ✅**; Gateway RUNNING; WhatsApp paired+online.

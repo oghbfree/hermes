@@ -129,8 +129,9 @@ def find_jiji_details(jid):
         with open(jf, encoding='utf-8') as f:
             raw = json.load(f)
         items = raw if isinstance(raw, list) else raw.get('listings', raw.get('items', []))
+        tl = (jiji_title or '').strip().lower()
         for li in items:
-            # match by numeric id if present, else by title fallback
+            # match by numeric id if present, else by normalized title
             lid = li.get('id') or li.get('jiji_id')
             if lid is not None:
                 try:
@@ -138,11 +139,32 @@ def find_jiji_details(jid):
                         return li.get('details', ''), str(li.get('title', ''))
                 except (ValueError, TypeError):
                     pass
+            if tl and str(li.get('title', '')).strip().lower() == tl:
+                return li.get('details', ''), str(li.get('title', ''))
+        # looser title match (prefix on first 40 chars)
+        if tl:
+            for li in items:
+                if str(li.get('title', '')).strip().lower()[:40] == tl[:40]:
+                    return li.get('details', ''), str(li.get('title', ''))
         return '', ''
     except Exception:
         return '', ''
 
+def enrich_title(t):
+    if 'Imported' in t:
+        return t
+    suffix = ' — UK Imported, Quality Checked'
+    if len(t) + len(suffix) <= 95:
+        return t + suffix
+    return t[:95]
+
 def _post_one(jid, researched=""):
+    if not researched:
+        try:
+            specs = json.load(open(os.path.join(pkg, 'fb_post_specs.json'), encoding='utf-8'))
+            researched = specs.get(str(jid), '')
+        except Exception:
+            researched = ''
     """Post a single item, returning (exit_code, result). One CDP session stays
     alive across calls in batch mode (persistent connection = no reconnect overhead)."""
     if is_posted(jid):
@@ -158,7 +180,7 @@ def _post_one(jid, researched=""):
     item = find_item(jid)
     if not item:
         print('NOT IN QUEUE', jid); return 1, 'no_item'
-    title = item['title']
+    title = enrich_title(item['title'])
     price = item['price']
     src_photo = os.path.join(pkg, 'photos', '%d.jpg' % jid)
     if not os.path.exists(src_photo):
@@ -208,6 +230,8 @@ def main():
         results.append((jid, rc, res))
         if rc != 0:
             break  # failed item ends the batch (matches cron run-end rule)
+        if len(results) < len(jids):
+            time.sleep(50)  # anti-velocity pause between listings
     print('\nBATCH SUMMARY:')
     for jid, rc, res in results:
         print(f'  {jid}: {res}')

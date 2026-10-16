@@ -1,0 +1,9 @@
+posting 14519129 | Xbox One S With 2 Wireless Controllers, Chargeable Batteries Games | 2900 | cat: Tools | cond: New | photo: C:\Users\User\.hermes\workspace\Vault\business\2real\2real-agent\channel_upload_package\photos\14519129_v14519129.jpg
+desc: 'HDR gaming, 4K video streaming & Blu-ray, 2 wireless controllers with chargeable batteries Fresh stock, brand new.\n\nStri' ...
+attempt 0 -> FAIL exc: URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))
+attempt 1 -> FAIL exc: URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))
+attempt 2 -> FAIL exc: URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))
+GAVE UP 14519129
+
+BATCH SUMMARY:
+  14519129: gave_up

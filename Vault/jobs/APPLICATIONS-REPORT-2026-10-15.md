@@ -1,0 +1,31 @@
+# Applications Report — 2026-10-15
+
+## Run Summary
+Cron: job-applications-check (2026-10-15 08:00 GMT).
+
+## Token & Fetch
+- Google OAuth token was expired (since 10-13). Ran `refresh_token.py` → SUCCESS, token refreshed.
+- Ran `fetch_all_sheets.py` → wrote `sheets-raw-2026-10-15.json`.
+
+## Diff (baseline = last reported pull 2026-10-13)
+- **Nurses: 0 new** | construction: 0 new | facilitators: 0 new | financial_literacy: 0 new
+- No new applications across any pipeline.
+
+## Filtering
+- N/A — no new applicants to screen. Priority counts recomputed from live 10-15 snapshot:
+  - Nurses NMC+3-5yrs: 7 (top: Charlotte Nortey — NMC + car + licence)
+  - Construction Foreman +6yrs: 7 (Awal, Kwame Odoom, Derrick, Amane John, Amuzu, Woedzagbagba, Eric)
+  - Facilitators mBot + coding 4+: 2
+  - Fin-Lit: 2
+
+## Totals
+- Nurses: 53 (NMC+3-5yrs: 7) | Construction: 13 | Facilitators: 4 | Fin-Lit: 2 | **Total: 72**
+- Priority counts unchanged (7/7/2/2).
+
+## Files Updated
+- `APPLICATIONS-REPORT-2026-10-15.md` (created)
+- `last-check-{nurses,construction,facilitators,financial-literacy}.json` (updated to 2026-10-15)
+- `RECRUITMENT_SUMMARY.md` (latest pull section + status)
+
+## Telegram
+- Delivered to Jobs topic (thread 28, chat -1003784520976) via Bot API.

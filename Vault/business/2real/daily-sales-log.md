@@ -59,6 +59,7 @@ Append one line per day. The 4:30 AM briefing reads this file.
 | 10/10/26 |  | 1,620 | Jiji: GTA 4 (150). **Eric — Enterprise Insurance**: Sennheiser SC160 (500), Jabra (370). Walk-in: green extension (600) | Eric buying business headsets — B2B lead for office/IT supplies |
 | 13/10/26 |  | 490 | Walk-in: 3× extension (160). **Mr Swindoll**: Bosch jigsaw PSC 50A (300) + old JBL Eon engine (30). Paid partly in 5× Commando Balm (product-swap promotion, Sammy tested with success) | Swindoll promotes balm — barter accepted |
 | 14/10/26 |  | 755 | Walk-in **Kwadwo**: 18× spray paint (205), CD player (20), desk organizer (25), VTech baby laptop (55). Jiji: B&D circular saw exposed handle (400), briefcase (250) | Briefcase getting calls despite no key — demand signal |
+| 15/10/26 |  | 340 | Jiji: Plastic Louvre Air Vent Grill 9"×9" w/ fly screen (140) — **Kuber Realty, MoMo, invoice requested**. Jiji: Stanley Light Duty Staple Gun 704400 (200, cost £7) | Kuber Realty = B2B lead — invoice INV-KUB-20261015 |
 | 23/08/26 |  | — |  | Closed |
 | 24/08/26 |  | — |  | Closed |
 

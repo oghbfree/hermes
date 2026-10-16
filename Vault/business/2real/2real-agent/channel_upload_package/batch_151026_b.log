@@ -1,0 +1,9 @@
+posting 7646131 | Burgon Ball Pocket Pruner | 185 | cat: Tools | cond: New | photo: C:\Users\User\.hermes\workspace\Vault\business\2real\2real-agent\channel_upload_package\photos\7646131_v7646131.jpg
+desc: 'Burgon Ball Pocket Pruner. Brand new in packaging.\n\nNo credit - MoMo or cash only.\nCollection in Oyarifa by appointment ' ...
+attempt 0 -> FAIL exc: ValueError("unknown url type: '/json'")
+attempt 1 -> FAIL exc: ValueError("unknown url type: '/json'")
+attempt 2 -> FAIL exc: ValueError("unknown url type: '/json'")
+GAVE UP 7646131
+
+BATCH SUMMARY:
+  7646131: gave_up
