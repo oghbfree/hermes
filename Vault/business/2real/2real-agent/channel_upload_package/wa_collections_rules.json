@@ -1,0 +1,24 @@
+{
+  "_comment": "WhatsApp Catalog collection assignment rules — first match wins. Used by the WhatsApp Catalogue Poster cron (18cee69a1011). Brand collections first (they outrank generic), then tool families, then shopper categories.",
+  "rules": [
+    {"collection": "Gorilla Glue and Tapes From UK", "match": "\\bgorilla\\b"},
+    {"collection": "Master Lock and Keysafe", "match": "master lock|keysafe"},
+    {"collection": "Magnum Locks", "match": "\\bmagnum\\b"},
+    {"collection": "Stanley Knife/ Blades", "match": "stanley.{0,20}(knife|blade)|knife blade"},
+    {"collection": "Brand New LEGO Adults & Kids", "match": "\\blego\\b"},
+    {"collection": "Glue Guns Corded & Cordless", "match": "glue gun"},
+    {"collection": "Car Inverters", "match": "car inverter|inverter.{0,10}car"},
+    {"collection": "Power Tools — UK Brand", "match": "drill|jigsaw|sander|angle grinder|rotary|impact|grinder|router|multi.?tool|circular saw|chainsaw|heat gun|planer|bolt cutter|chain sharpener"},
+    {"collection": "Staples/Nail Guns", "match": "stapl|nail gun"},
+    {"collection": "Floodlights & Work Lights", "match": "floodlight|work light|worklight"},
+    {"collection": "Hand Tools — Spanners, Sockets & Pliers", "match": "spanner|socket|plier|screwdriver|wrench|ratchet|allen key|hex key|hammer|chisel|tape measure|level|clamp|vice|hack saw|hacksaw"},
+    {"collection": "Office & B2B", "match": "headset|webcam|printer|office|laminat|shredder|projector|defibrillator"},
+    {"collection": "Home & Furniture", "match": "bed|mattress|wardrobe|chair|sofa|table|drawer|cabinet|shelf|rack|mirror|kitchen|display|slat wall|swivel|hair steamer|hair dryer|pendant light|chandelier|flight case|storage|trunk|distiller|water filter|barbecue|grill cover|monitor arm"},
+    {"collection": "Kids & Baby Tech", "match": "leapfrog|vtech|clementoni|leap frog|baby|kids|kid|toy|trampoline|doll|puzzle"},
+    {"collection": "Electronics & Audio", "match": "speaker|amp|radio|camera|drone|keyboard|synth|piano|soundbar|subwoofer|boombox|stereo|tuner|nintendo|xbox|playstation|television|mi-fi|mifi|router|power bank|echo|alexa|walkie|dj mixer|pioneer|led moving|antenna|spotlight cam"},
+    {"collection": "Garden & Farm", "match": "garden|irrigation|grass|lawn|blower|wellies|telescopic|hedge|pruner|farm|greenhouse"},
+    {"collection": "Paint, Sprays & Consumables", "match": "spray|lubricant|wax|adhesive|sealant|silicone|paint|filler|cleaner|wd-?40|ctec|autoglym|ceramic coating"},
+    {"collection": "Sports & Leisure", "match": "tennis|golf|minelab|metal detector|rowing|tunturi|fitness|exercise"}
+  ],
+  "fallback": "no match -> use best judgement; never post uncollected"
+}

@@ -28,11 +28,11 @@ def add_posted(jid):
         json.dump(arr, open(p, 'w'))
 
 def find_item(jid):
-    for f in ('next50.json', 'next50_batch2.json', 'next50_batch1_done.json'):
+    for f in ('next50.json', 'next50_batch2.json', 'next50_batch1_done.json', 'next50_batch2_pregorilla.json'):
         try:
             arr = json.load(open(os.path.join(pkg, f)))
             for x in arr:
-                if x['jiji_id'] == jid:
+                if str(x['jiji_id']) == str(jid):
                     return x
         except Exception:
             pass
@@ -129,7 +129,8 @@ def find_jiji_details(jid):
         with open(jf, encoding='utf-8') as f:
             raw = json.load(f)
         items = raw if isinstance(raw, list) else raw.get('listings', raw.get('items', []))
-        tl = (jiji_title or '').strip().lower()
+        qitem = find_item(jid)
+        tl = ((qitem or {}).get('title') or '').strip().lower()
         for li in items:
             # match by numeric id if present, else by normalized title
             lid = li.get('id') or li.get('jiji_id')
@@ -187,7 +188,13 @@ def _post_one(jid, researched=""):
         print('NO PHOTO', jid); return 1, 'no_photo'
     dst_photo = src_photo[:-4] + '_v%d.jpg' % jid
     varied = G['vary_photo'](src_photo, dst_photo)
-    category = 'Electronics & computers' if any(w in title.lower() for w in ('tp-link', 'defender')) else 'Tools'
+    tlow = title.lower()
+    if any(w in tlow for w in ('tp-link', 'defender', 'printer', 'laptop', 'monitor')):
+        category = 'Electronics & computers'
+    elif 'lego' in tlow or 'toy' in tlow:
+        category = 'Toys'
+    else:
+        category = 'Tools'
     # Accurate condition + specs from the Jiji listing (source of truth)
     details, jiji_title = find_jiji_details(jid)
     condition = G['detect_condition'](jiji_title or title, details)

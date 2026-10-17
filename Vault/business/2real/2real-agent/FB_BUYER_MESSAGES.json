@@ -55,26 +55,27 @@
     },
     {
       "id": "awurabena-panasonic-lumix",
-      "nudges_sent": 0,
-      "status": "open",
+      "nudges_sent": 1,
+      "status": "nudged",
       "created": "2026-10-15T09:22:27.685441",
       "buyer": "Awurabena",
       "listing_title": "Panasonic Lumix Compact Digital Camera With Battery & Charger \u2014 UK Used, Tested Working",
       "last_dir": "out",
       "last_msg": "Hi Awurabena! The model is the Panasonic Lumix DMC-ZS5 compact digital camera, UK used and tested in good working condition, sold with its battery and charger. It's GHS 980, still available. MoMo or cash only - no credit. Pickup in Oyarifa by appointment. Call/WhatsApp 0204252252.",
-      "last_out": "2026-10-15T08:57:00"
+      "last_out": "2026-10-16T11:39:43.188494"
     },
     {
       "id": "chris-xbox360-075",
-      "nudges_sent": 0,
-      "status": "open",
+      "nudges_sent": 1,
+      "status": "nudged",
       "created": "2026-10-15T11:52:08.088770",
       "buyer": "Chris",
       "listing_title": "Xbox 360 Games CD Assorted Titles Read Description",
       "price": 80,
-      "last_msg": "Yes, still available! Assorted Xbox 360 game CDs (UK used) - GHS 80. MoMo or cash only - no credit. Pickup in Oyarifa by appointment. 0204252252.",
+      "last_msg": "Hi Chris - quick correction and update: the item in this chat is the Xbox 360 Games CD Assorted Titles (UK used) at GHS 80. Still available. WhatsApp 0204252252",
       "last_dir": "out",
-      "last_out": "2026-10-15T11:52:08.088721"
+      "last_out": "2026-10-16T12:14:52.278015",
+      "updated": "2026-10-16T12:14:52.277340"
     },
     {
       "id": "chris_xbox360",
@@ -158,6 +159,20 @@
       "item": "Xbox 360 Games CD Assorted Titles",
       "last_msg_from": "us",
       "last_ts": "2026-10-16T02:04"
+    },
+    {
+      "id": {
+        "thread_id": "chris-xbox360-80",
+        "buyer": "Chris",
+        "listing": "Xbox 360 Games CD Assorted Titles \u2014 UK Used",
+        "last_msg": "Hi again - the item is still here if you are still interested. GHS 80. MoMo or cash only - no credit. Pickup in Oyarifa by appointment. Call/WhatsApp 0204252252.",
+        "last_dir": "us",
+        "status": "awaiting_buyer",
+        "nudge_count": 1
+      },
+      "nudges_sent": 0,
+      "status": "open",
+      "created": "2026-10-16T11:37:53.895691"
     }
   ],
   "nudge_policy": {

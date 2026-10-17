@@ -1,0 +1,9 @@
+posting 15139943 | JBL Charge 5 Bluetooth Speaker From Uk — UK Imported, Quality Checked | 2300 | cat: Tools | cond: New | photo: C:\Users\User\.hermes\workspace\Vault\business\2real\2real-agent\channel_upload_package\photos\15139943_v15139943.jpg
+desc: 'JBL Charge 5: 20h playtime, IP67 waterproof & dustproof, Bluetooth 5.1, built-in 7500mAh powerbank, PartyBoost, 30W woo…' ...
+attempt 0 -> FAIL exc: URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))
+attempt 1 -> FAIL exc: URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))
+attempt 2 -> FAIL exc: URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))
+GAVE UP 15139943
+
+BATCH SUMMARY:
+  15139943: gave_up

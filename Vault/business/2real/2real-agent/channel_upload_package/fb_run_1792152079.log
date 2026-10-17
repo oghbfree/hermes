@@ -1,0 +1,9 @@
+posting 16553657 | Parkside 20V Cordless Circular Saw PHKSA 20-Li B3 — UK Imported, Quality Checked | 2000 | cat: Tools | cond: New | photo: C:\Users\User\.hermes\workspace\Vault\business\2real\2real-agent\channel_upload_package\photos\16553657_v16553657.jpg
+desc: '20V Parkside X20V Team bare unit (no battery/charger). 150mm blade, 3800rpm, cuts 48mm at 0deg / 36mm at 45deg, laser g…' ...
+attempt 0 -> FAIL exc: URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))
+attempt 1 -> FAIL exc: URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))
+attempt 2 -> FAIL exc: URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))
+GAVE UP 16553657
+
+BATCH SUMMARY:
+  16553657: gave_up

@@ -3085,5 +3085,119 @@
     ],
     "date": "2026-10-14",
     "saved_at": "2026-10-14T06:30:58.963055"
+  },
+  {
+    "active": 1312,
+    "reviewing": 1,
+    "draft": 0,
+    "declined": 4,
+    "closed": 128,
+    "followers": 338,
+    "feedback": 209,
+    "clients": 1,
+    "top_remaining": "500 of 500",
+    "top_expires": "16/12/26",
+    "whatsapp_ads_active": true,
+    "whatsapp_ads_until": "17 Oct 2026",
+    "balance_ghs": 0,
+    "pro_sales_bonus_ghs": 7622,
+    "top_items": [
+      {
+        "name": "KitchenAid Artisan Food Processor",
+        "price": 1100,
+        "impressions": 299,
+        "visitors": 47,
+        "phone_views": 1,
+        "chats": 0
+      },
+      {
+        "name": "Tunturi E301 Rowing Machine",
+        "price": 1700,
+        "impressions": 142,
+        "visitors": 27,
+        "phone_views": 1,
+        "chats": 0
+      },
+      {
+        "name": "Marvin's Magic the Executive Magic Collection Trick Set",
+        "price": 230,
+        "impressions": 104,
+        "visitors": 11,
+        "phone_views": 0,
+        "chats": 0
+      },
+      {
+        "name": "Stanley Classic 99E Retractable Utility Knife",
+        "price": 139,
+        "impressions": 97,
+        "visitors": 16,
+        "phone_views": 0,
+        "chats": 0
+      },
+      {
+        "name": "Keter Go Bar 2-in-1 Portable Outdoor Cooler Side Table",
+        "price": 800,
+        "impressions": 86,
+        "visitors": 9,
+        "phone_views": 0,
+        "chats": 0
+      },
+      {
+        "name": "Ryobi Chainsaw Protective Gloves (Class 2)",
+        "price": 300,
+        "impressions": 82,
+        "visitors": 24,
+        "phone_views": 0,
+        "chats": 0
+      },
+      {
+        "name": "Modular Cold Room Insulated Sandwich Panels With Door",
+        "price": 40000,
+        "impressions": 78,
+        "visitors": 22,
+        "phone_views": 3,
+        "chats": 3
+      },
+      {
+        "name": "Rentokil Advanced Mouse Trap - Reusable Easy-Set Pest Control Trap",
+        "price": 170,
+        "impressions": 59,
+        "visitors": 15,
+        "phone_views": 0,
+        "chats": 0
+      },
+      {
+        "name": "Muse M-168 P Projection Clock Radio PLL Dual Alarm FM/MW Digital Clock",
+        "price": 320,
+        "impressions": 41,
+        "visitors": 4,
+        "phone_views": 0,
+        "chats": 0
+      },
+      {
+        "name": "Draper 250mm Cast Aluminium Boat Spirit Level",
+        "price": 135,
+        "impressions": 27,
+        "visitors": 3,
+        "phone_views": 0,
+        "chats": 0
+      }
+    ],
+    "needs_attention": [
+      "4 ads DECLINED incl Handcrafted Wooden Pocket Mirror (#16898243) - fix & repost",
+      "KitchenAid Artisan 299 imp/47 vis 0 chats - top exposure no conversion",
+      "Modular Cold Room Panels 3 chats + 3 phone views - HIGH VALUE GHc40k, ACT NOW",
+      "+1 new client pending reply",
+      "WhatsApp 500 ads expire 17 Oct (TOMORROW) - renew"
+    ],
+    "action_items": [
+      "Follow up Modular Cold Room Panels - 3 chats + 3 phone views (40k deal)",
+      "Fix 4 declined ads incl pocket mirror",
+      "Renew WhatsApp ads before 17 Oct expiry",
+      "Reply to +1 new client - first reply wins",
+      "Move TOP+ to KitchenAid + Tunturi; raise Pro Sales bid with GHc7,622 bonus"
+    ],
+    "date": "2026-10-16",
+    "saved_at": "2026-10-16T10:39:52.809472"
   }
 ]

@@ -1103,5 +1103,148 @@
   },
   "msg": "Hi Emmanuel! The Mini Guitar Amplifier 10W you were interest",
   "note": "backfilled: send verified live (stats 61->48/14->11) but log updater patched instead of appended"
+ },
+ {
+  "name": "Ellen Twumasi",
+  "user_id": 6648793,
+  "chat_id": "6648793_16553085",
+  "timestamp": "2026-10-16T17:05:57",
+  "state": "sent",
+  "msg": "Hi Ellen! The Stainless Steel Countertop Water Filter you we",
+  "sent": "enter",
+  "verified": {
+   "empty": true,
+   "inThread": true
+  }
+ },
+ {
+  "name": "Kofi same Kofi same",
+  "user_id": 6630979,
+  "chat_id": "6630979_16356190",
+  "timestamp": "2026-10-16T17:05:57",
+  "state": "sent",
+  "msg": "Hi Kofi! The Rockburn G-10 Electric Guitar Practice Amplifie",
+  "sent": "enter",
+  "verified": {
+   "empty": true,
+   "inThread": true
+  }
+ },
+ {
+  "name": "IRFAN TARIQ",
+  "user_id": 6248017,
+  "chat_id": "6248017_16770916",
+  "timestamp": "2026-10-16T17:05:57",
+  "state": "sent",
+  "msg": "Hi IRFAN! The TP-Link Tapo C200 Pan/Tilt Home Security Wi-Fi",
+  "sent": "enter",
+  "verified": {
+   "empty": true,
+   "inThread": true
+  }
+ },
+ {
+  "name": "Francis Otu",
+  "user_id": 5303480,
+  "chat_id": "5303480_16383121",
+  "timestamp": "2026-10-16T17:05:57",
+  "state": "sent",
+  "msg": "Hi Francis! The Erbauer Wall Chaser 1,500W Pre Owned From UK",
+  "sent": "enter",
+  "verified": {
+   "empty": true,
+   "inThread": true
+  }
+ },
+ {
+  "name": "Afi Amissah",
+  "user_id": 6205056,
+  "chat_id": "6205056_15218455",
+  "timestamp": "2026-10-16T17:06:07",
+  "state": "sent",
+  "msg": "Hi Afi! The Live-in Graduate Nurse For Private Elderly Care ",
+  "sent": "enter",
+  "verified": {
+   "empty": true,
+   "inThread": true
+  }
+ },
+ {
+  "name": "florence Newell",
+  "user_id": 6424469,
+  "chat_id": "6424469_16615243",
+  "timestamp": "2026-10-16T17:06:46",
+  "state": "sent",
+  "msg": "Hi florence! The LVYUAN 800w/2000w Pure Sine-Wave Power Inve",
+  "sent": "enter",
+  "verified": {
+   "empty": true,
+   "inThread": true
+  }
+ },
+ {
+  "name": "Selasi Reno",
+  "user_id": 2138459,
+  "chat_id": "2138459_14515824",
+  "timestamp": "2026-10-16T17:07:24",
+  "state": "sent",
+  "msg": "Hi Selasi! The Saber 18v One Battery Combi Drill Bare Unit -",
+  "sent": "enter",
+  "verified": {
+   "empty": true,
+   "inThread": true
+  }
+ },
+ {
+  "name": "Paddy Waddy",
+  "user_id": 468337,
+  "chat_id": "468337_16838090",
+  "timestamp": "2026-10-16T17:08:03",
+  "state": "sent",
+  "msg": "Hi Paddy! The Draper 80-Piece Security Screwdriver Bit Set W",
+  "sent": "enter",
+  "verified": {
+   "empty": true,
+   "inThread": true
+  }
+ },
+ {
+  "name": "Helivest Abakah Gyan",
+  "user_id": 5857913,
+  "chat_id": "5857913_16552278",
+  "timestamp": "2026-10-16T17:08:51",
+  "state": "sent",
+  "msg": "Hi Helivest! The Original Xbox One Power Adapter you were in",
+  "sent": "enter",
+  "verified": {
+   "empty": true,
+   "inThread": true
+  }
+ },
+ {
+  "name": "Elinam Dede Adjo Klutse",
+  "user_id": 3438311,
+  "chat_id": "3438311_16773410",
+  "timestamp": "2026-10-16T17:09:29",
+  "state": "sent",
+  "msg": "Hi Elinam! The Original Movie DVDs (UK Imports - Assorted Fe",
+  "sent": "enter",
+  "verified": {
+   "empty": true,
+   "inThread": true
+  }
+ },
+ {
+  "name": "Nana Yaw",
+  "user_id": 131487,
+  "chat_id": "131487_16377543",
+  "timestamp": "2026-10-16T17:10:08",
+  "state": "sent",
+  "msg": "Hi Nana! The Kidizoom Vtech Camera for Kids TESTED WORKING R",
+  "sent": "enter",
+  "verified": {
+   "empty": true,
+   "inThread": true
+  }
  }
 ]
