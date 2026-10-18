@@ -1,0 +1,9 @@
+posting 16734491 | Fujifilm FinePix F30 6.3MP Digital Camera — UK Imported, Quality Checked | 1400 | cat: Tools | cond: New | photo: C:\Users\User\.hermes\workspace\Vault\business\2real\2real-agent\channel_upload_package\photos\16734491_v16734491.jpg
+desc: 'Sensor & Optics: 6.3 Megapixel 1/1.7-inch Super CCD HR VI sensor paired with a Fujinon 3x Optical... Brand new in packag' ...
+attempt 0 -> FAIL exc: URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))
+attempt 1 -> FAIL exc: URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))
+attempt 2 -> FAIL exc: URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))
+GAVE UP 16734491
+
+BATCH SUMMARY:
+  16734491: gave_up

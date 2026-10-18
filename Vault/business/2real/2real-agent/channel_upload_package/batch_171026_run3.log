@@ -1,0 +1,9 @@
+posting 16400822 | Original Bosch Hammer Drill 500W — UK Imported, Quality Checked | 680 | cat: Tools | cond: New | photo: C:\Users\User\.hermes\workspace\Vault\business\2real\2real-agent\channel_upload_package\photos\16400822_v16400822.jpg
+desc: 'Brand new Bosch hammer drill 500W in a plastic case, available as seen Brand new, unused stock.\n\nStrictly MoMo or cash.\n' ...
+attempt 0 -> FAIL exc: URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))
+attempt 1 -> FAIL exc: URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))
+attempt 2 -> FAIL exc: URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))
+GAVE UP 16400822
+
+BATCH SUMMARY:
+  16400822: gave_up

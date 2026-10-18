@@ -64,3 +64,7 @@ Everything else (optimised listings, buyer replies, nudges, bundle lines, genera
 - `FB_BUNDLES_AND_GROUPS.json` — bundles + groups + policy
 - `channel_upload_package/fb_sales_ops.py` — all helpers
 - `FB_MARKETPLACE_PLAYBOOK.md` — base posting rules (unchanged)
+## LESSON (18 Oct 26): VERIFY RECIPIENT BEFORE SENDING
+- Before typing ANY message via CDP, assert the composer header matches the intended buyer: `Write to <Buyer> · <Listing>` must be visible. A click that fails to switch threads silently leaves the PREVIOUS thread open, and the message goes to the wrong buyer (happened: Nii nudge landed in Valerie chat; corrected with an apology+item confirm at 01:41).
+- After clicking a thread row, re-read `document.body.innerText` and check for `Write to <Buyer>` before composing. If the click did not switch threads, retry or abort — never type blind.
+- Synthetic keydown Enter DOES send (worked 01:40), but is flaky; if the text remains in `div[role=textbox]`, re-focus, selectAllChildren+collapseToEnd, re-dispatch Enter, then verify the bubble shows `Enter, Message sent <time> by You`.

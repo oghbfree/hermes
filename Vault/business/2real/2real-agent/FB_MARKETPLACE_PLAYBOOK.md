@@ -83,3 +83,9 @@ once → accept it → cron resumes. To re-enable silently, set Chrome policy
 HKLM\SOFTWARE\Policies\Google\Chrome\DevToolsRemoteDebuggingAllowed=1 (needs admin).
 ### TITLE LENGTH LIMIT (verified 15 Oct 26)
 - FB Marketplace rejects titles at 100 chars with "Please enter a shorter title" (publish button fails silently, 3x retries all fail). Titles must be <= ~97 chars. Keep the keyword-enriched format but trim to <=95 chars before posting.
+### CDP PORT (17 Oct 26)
+- `cdp_harness.py` defaults to `FB_CDP_URL=http://localhost:64365` which is DEAD — runs fail with
+  `ConnectionRefusedError(10061)`. The live Brave debug listener is `http://127.0.0.1:9222`.
+  Always run the poster as: `FB_CDP_URL=http://127.0.0.1:9222 python fb_post_run.py <ids...>`
+- Verify first: `curl -s http://127.0.0.1:9222/json/version` (must return Browser info).
+- When connecting the websocket manually use `suppress_origin=True` (plain connect → 403 Forbidden).

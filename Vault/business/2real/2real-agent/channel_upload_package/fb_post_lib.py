@@ -114,7 +114,7 @@ def make_desc(title, details="", condition=None, spec="", max_spec_chars=120):
     `spec` = researched key specs/features (preferred; the agent web-searches these).
     `details` = Jiji listing blurb (fallback when no researched spec).
     Keeps the spec portion concise (default ~120 chars per H)."""
-    cond = condition or detect_condition(title, details or spec)
+    cond = (condition or detect_condition(title, details or spec)); cond = cond if cond in ("New","Used") else ("Used" if str(cond).lower() in ("used","brand user") else "New")
     # Prefer researched spec; else derive a concise line from the Jiji details
     raw = (spec or details or "").strip()
     line = ""
@@ -162,7 +162,11 @@ def open_category():
 def set_condition(target="New"):
     """Set the listing Condition to `target` ('New' or 'Used'). Accurate per H:
     some items are used, not new — the caller passes the Jiji-derived condition."""
-    target = "Used" if str(target).lower() in ("used", "brand user") else "New"
+    # FB 13 Oct 26: the picker offers 'New / Used – like new / Used – good / Used – fair'
+    # — there is NO bare 'Used' option. Map any Used request to 'Used – good'.
+    COND_LABEL = "Used – good" if str(target).lower() in ("used", "brand user") else "New"
+    norm = lambda s: "".join(ch for ch in s.lower() if ch.isalnum())
+    want = norm(COND_LABEL)
     for attempt in range(3):
         if not open_ctrl('Condition'):
             # FB 2026-10: listbox exists in DOM but renders 0x0 — dispatch directly on hidden option nodes
@@ -172,19 +176,21 @@ def set_condition(target="New"):
               if(!lab) return 'nolab';
               const lb=document.getElementById(lab.getAttribute('aria-controls'));
               if(!lb) return 'nolb';
-              const opt=[...lb.querySelectorAll('[role=option]')].find(o=>o.textContent.trim().toLowerCase()==='%s');
+              const want='%s';
+              const norm=s=>s.toLowerCase().replace(/[^a-z0-9]/g,'');
+              const opt=[...lb.querySelectorAll('[role=option]')].find(o=>norm(o.textContent)===want);
               if(!opt) return 'noopt';
               const ME=t=>new MouseEvent(t,{bubbles:true,cancelable:true,view:window});
               ['mousedown','mouseup','click'].forEach(t=>opt.dispatchEvent(ME(t)));
               return 'dispatched';
-            })()""" % target.lower())
+            })()""" % want)
             time.sleep(2)
-            done = js("(() => [...document.querySelectorAll('[role=combobox]')].filter(e=>e.offsetParent!==null).some(e=>(e.closest('label')?.textContent||'').replace(/\\s+/g,' ').includes('Condition%s')))()" % target)
+            done = js("(() => { const norm=s=>s.toLowerCase().replace(/[^a-z0-9]/g,''); return [...document.querySelectorAll('[role=combobox]')].filter(e=>e.offsetParent!==null).some(e=>norm(e.closest('label')?.textContent||'').includes(norm('Condition%s'))) })()" % COND_LABEL)
             if done is True:
                 time.sleep(1)
                 return 'OK'
             continue
-        if pick_leaf(target):
+        if pick_leaf(COND_LABEL):
             time.sleep(1.5)
             return 'OK'
         time.sleep(1)

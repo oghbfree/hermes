@@ -23,15 +23,23 @@ class Registry:
 
     def _load(self):
         if os.path.exists(MASTER):
-            return json.load(open(MASTER, encoding="utf-8"))
+            m = json.load(open(MASTER, encoding="utf-8"))
+            # 17 Oct 26: stored IDs were ints (pre-normalisation) so str queries
+            # returned False — normalise on load too, not just on query.
+            for ch in m.get("channels", {}).values():
+                if "posted_ids" in ch:
+                    ch["posted_ids"] = [str(x) for x in ch["posted_ids"]]
+            return m
         return {"channels": {"facebook_marketplace": {"posted_ids": []},
                              "whatsapp_catalogue": {"posted_ids": [], "existing_titles": []}}}
 
     def _save(self):
         json.dump(self.master, open(MASTER, "w", encoding="utf-8"), indent=2)
 
-    def is_fb_posted(self, jid):  return jid in self.master["channels"]["facebook_marketplace"]["posted_ids"]
-    def is_wa_posted(self, jid):  return jid in self.master["channels"]["whatsapp_catalogue"]["posted_ids"]
+    # 17 Oct 26: IDs normalised to str everywhere — int/str mix made posted_anywhere()
+    # silently return False for items that WERE posted (registry gap, nearly re-posted).
+    def is_fb_posted(self, jid):  return str(jid) in self.master["channels"]["facebook_marketplace"]["posted_ids"]
+    def is_wa_posted(self, jid):  return str(jid) in self.master["channels"]["whatsapp_catalogue"]["posted_ids"]
     def is_wa_title(self, title):
         t = title.lower()
         return any(t in e.lower() for e in self.master["channels"]["whatsapp_catalogue"]["existing_titles"])
@@ -39,12 +47,14 @@ class Registry:
 
     def mark_fb_posted(self, jid):
         arr = self.master["channels"]["facebook_marketplace"]["posted_ids"]
+        jid = str(jid)
         if jid not in arr: arr.append(jid)
         self.master["channels"]["facebook_marketplace"]["count"] = len(arr)
         self._save()
 
     def mark_wa_posted(self, jid, title=""):
         arr = self.master["channels"]["whatsapp_catalogue"]["posted_ids"]
+        jid = str(jid)
         if jid not in arr: arr.append(jid)
         self.master["channels"]["whatsapp_catalogue"]["count"] = len(arr)
         if title and not self.is_wa_title(title):

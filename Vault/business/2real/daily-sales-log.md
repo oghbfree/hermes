@@ -61,6 +61,7 @@ Append one line per day. The 4:30 AM briefing reads this file.
 | 14/10/26 |  | 755 | Walk-in **Kwadwo**: 18× spray paint (205), CD player (20), desk organizer (25), VTech baby laptop (55). Jiji: B&D circular saw exposed handle (400), briefcase (250) | Briefcase getting calls despite no key — demand signal |
 | 15/10/26 |  | 340 | Jiji: Plastic Louvre Air Vent Grill 9"×9" w/ fly screen (140) — **Kuber Realty, MoMo, invoice requested**. Jiji: Stanley Light Duty Staple Gun 704400 (200, cost £7) | Kuber Realty = B2B lead — invoice INV-KUB-20261015 |
 | 16/10/26 |  | 2,380 | Jiji: Halfords Chain Wax lubricant spray (130) — **first sale from separating the special sprays + advertising them**. Jiji: **Dr Lomotey — Cocoa Clinic**: Folding Metal Frame Bed w/ Foam Mattress 75×38 (1,750). Walk-in regular: old display stand 4+ yrs (100), angle grinder not-working (200), repeat customer: Stanley toolbox (250) | Dr Lomotey = B2B (medical clinic). Spray-separation tactic WORKED day one |
+| 17/10/26 |  | 810 | Walk-in: wheelchair (430). Jiji: Power Devil Hammer Drill 420W (380) | Sat market day. **Neighbour's bulk clearance: her goods sold ~5,000 to a wholesaler (medium Kia Bongo truckful via Yango) — potential outlet for OUR dead stock too** |
 | 23/08/26 |  | — |  | Closed |
 | 24/08/26 |  | — |  | Closed |
 

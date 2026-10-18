@@ -158,7 +158,10 @@
       "buyer": "Nii",
       "item": "Xbox 360 Games CD Assorted Titles",
       "last_msg_from": "us",
-      "last_ts": "2026-10-16T02:04"
+      "last_ts": "2026-10-16T02:04",
+      "last_dir": "out",
+      "last_out": "2026-10-16T12:00:00",
+      "updated": "2026-10-18T01:40:36.876792"
     },
     {
       "id": {
@@ -173,6 +176,92 @@
       "nudges_sent": 0,
       "status": "open",
       "created": "2026-10-16T11:37:53.895691"
+    },
+    {
+      "id": "hellen-magnum-talos-690",
+      "nudges_sent": 0,
+      "status": "replied-await",
+      "created": "2026-10-17T11:34:26.320960",
+      "buyer": "Hellen",
+      "listing_title": "Magnum Plus Talos Anti-Theft Disc Lock Motorcycle 5.5mm Pin",
+      "price": 690,
+      "last_dir": "out",
+      "note": "Buyer asked availability Fri 18:51; we replied 03:24 17Oct with price/CTA; awaiting buyer.",
+      "source": "cron-171026-inbox-scan"
+    },
+    {
+      "id": "ananman-ingco-gg258",
+      "nudges_sent": 0,
+      "status": "open",
+      "created": "2026-10-17T15:03:59.940922",
+      "buyer": "Ananman",
+      "item": "Ingco Glue Gun Gg258",
+      "last_from": "us",
+      "note": "Asked delivery; replied GHS150, MoMo/cash, Oyarifa pickup/delivery, CTA 0204252252 (17 Oct 14:5x)"
+    },
+    {
+      "id": "ananman_ingco_gg258",
+      "nudges_sent": 0,
+      "status": "active",
+      "created": "2026-10-17T16:27:08.130296",
+      "buyer": "Ananman",
+      "item": "Ingco Glue Gun Gg258",
+      "price": 150,
+      "last_our_msg": "2026-10-17T16:27:08",
+      "last_buyer_msg": "2026-10-17T16:27:08"
+    },
+    {
+      "id": {
+        "thread_id": "hellen-magnumplus-talos-690",
+        "buyer": "Hellen",
+        "listing_title": "Magnum Plus Talos Anti-Theft Disc Lock Motorcycle 5.5mm Pin - UK Imported",
+        "price": 690,
+        "last_msg": "Hi Hellen! Yes, available - GHS 690. MoMo or cash only. Oyarifa pickup/delivery. WhatsApp 0204252252",
+        "last_dir": "us"
+      },
+      "nudges_sent": 0,
+      "status": "open",
+      "created": "2026-10-17T19:01:24.834811"
+    },
+    {
+      "id": {
+        "thread_id": "ananman-ingco-gluegun",
+        "buyer": "Ananman",
+        "listing_title": "Ingco Glue Gun GG258",
+        "last_msg": "We are in Oyarifa (near Adenta-Dodowa road), Accra. Pickup by appointment, or delivery within Accra. WhatsApp 0204252252",
+        "last_dir": "us"
+      },
+      "nudges_sent": 0,
+      "status": "open",
+      "created": "2026-10-17T19:01:24.835760"
+    },
+    {
+      "id": "valerie-aochuan-gimbal-950",
+      "nudges_sent": 0,
+      "status": "awaiting_buyer",
+      "created": "2026-10-18T01:38:38.860090",
+      "buyer": "Valerie",
+      "listing_title": "AOCHUAN Smart XE 3-Axis Smartphone Gimbal Stabilizer \u2014 UK Imported, Quality Checked",
+      "price": 950,
+      "last_dir": "out",
+      "last_msg": "Yes, are you interested?",
+      "last_out": "2026-10-18T01:15:00"
+    },
+    {
+      "id": "ananman-ingco-gluegun",
+      "nudges_sent": 0,
+      "status": "open",
+      "created": "2026-10-18T01:38:38.860824",
+      "last_dir": "out",
+      "last_out": "2026-10-17T12:00:00"
+    },
+    {
+      "id": "hellen-magnumplus-talos-690",
+      "nudges_sent": 0,
+      "status": "open",
+      "created": "2026-10-18T01:38:38.861549",
+      "last_dir": "out",
+      "last_out": "2026-10-17T12:00:00"
     }
   ],
   "nudge_policy": {

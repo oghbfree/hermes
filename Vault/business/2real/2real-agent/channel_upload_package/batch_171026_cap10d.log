@@ -1,0 +1,39 @@
+ALREADY POSTED 14684108
+posting 16516589 | Yamaha PortaSound PSS-460 Electronic Keyboard — UK Imported, Quality Checked | 1100 | cat: Tools | cond: New | photo: C:\Users\User\.hermes\workspace\Vault\business\2real\2real-agent\channel_upload_package\photos\16516589_v16516589.jpg
+desc: 'Thank you for purchasing a Yamaha PortaSound PSS-360/460. This PortaSound is an ultra-modern keyboard with a design bas…' ...
+attempt 0 -> PUBLISHED
+LOGGED 16516589
+posting 16377543 | Kidizoom Vtech Camera for Kids TESTED WORKING Rechargeable Complete | 290 | cat: Electronics & computers | cond: Used | photo: C:\Users\User\.hermes\workspace\Vault\business\2real\2real-agent\channel_upload_package\photos\16377543_v16377543.jpg
+desc: "VTech KidiZoom Creator Cam HD Video Kids' Digital Camera, Green Screen ## KidiZoom® Creator Cam™ Age: 5-10 years ... Be…" ...
+attempt 0 -> PUBLISHED
+LOGGED 16377543
+posting 15203367 | Gameboy Advance and Modern Nintendo Ds Catridges From Uk — UK Imported, Quality Checked | 150 | cat: Tools | cond: Used | photo: C:\Users\User\.hermes\workspace\Vault\business\2real\2real-agent\channel_upload_package\photos\15203367_v15203367.jpg
+desc: 'DISNEY PIXAR MONSTERS, Inc. UK Version Nintendo GameBoy Advance Cartridge GBA DS £3.83 - PicClick UK Disney Pixar Monst…' ...
+attempt 0 -> FAIL cond opt
+attempt 1 -> PUBLISHED
+LOGGED 15203367
+ALREADY POSTED 15047869
+posting 16578496 | Halfords Alloy Mini Bicycle Pump 227966 — UK Imported, Quality Checked | 220 | cat: Tools | cond: New | photo: C:\Users\User\.hermes\workspace\Vault\business\2real\2real-agent\channel_upload_package\photos\16578496_v16578496.jpg
+desc: '- Lightweight alloy mini pump with comfortable T-handle - Bike fitting bracket included that attaches the pump to the w…' ...
+attempt 0 -> FAIL publish
+attempt 1 -> FAIL publish
+attempt 2 -> PUBLISHED
+LOGGED 16578496
+posting 16537881 | DeWalt 18V XR Brushless Combi/Hammer Drill UK Used — UK Imported, Quality Checked | 1300 | cat: Tools | cond: Used | photo: C:\Users\User\.hermes\workspace\Vault\business\2real\2real-agent\channel_upload_package\photos\16537881_v16537881.jpg
+desc: 'Drill/Impact Drill DCD800, DCD805 DeWALT declares that these products described under Technical Data are in compliance… ' ...
+attempt 0 -> PUBLISHED
+LOGGED 16537881
+posting 16537987 | Ryobi 18V ONE+ Cordless Combi Impact Drill With Battery and Charger | 1500 | cat: Tools | cond: Used | photo: C:\Users\User\.hermes\workspace\Vault\business\2real\2real-agent\channel_upload_package\photos\16537987_v16537987.jpg
+desc: 'RYOBI ONE+ 18V Cordless 2-Tool Combo Kit with Drill/Driver, Impact Driver, (2) Compact Batteries, and Charger PCL1200K2…' ...
+attempt 0 -> PUBLISHED
+LOGGED 16537987
+
+BATCH SUMMARY:
+  14684108: skipped
+  16516589: published
+  16377543: published
+  15203367: published
+  15047869: skipped
+  16578496: published
+  16537881: published
+  16537987: published

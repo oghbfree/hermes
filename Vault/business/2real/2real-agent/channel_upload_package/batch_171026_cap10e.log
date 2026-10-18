@@ -1,0 +1,9 @@
+posting 16357770 | A3 Laminator Machine Fast Preheating 355mm/Min Hot Cold — UK Imported, Quality Checked | 750 | cat: Tools | cond: New | photo: C:\Users\User\.hermes\workspace\Vault\business\2real\2real-agent\channel_upload_package\photos\16357770_v16357770.jpg
+desc: 'A3/A4 hot & cold laminator, fast 355mm/min feed — laminates documents, cards and photos. Brand new, never opened.\n\nPayme' ...
+attempt 0 -> FAIL exc: URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))
+attempt 1 -> FAIL exc: URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))
+attempt 2 -> FAIL exc: URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))
+GAVE UP 16357770
+
+BATCH SUMMARY:
+  16357770: gave_up

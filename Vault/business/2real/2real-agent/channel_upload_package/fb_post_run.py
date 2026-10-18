@@ -189,15 +189,19 @@ def _post_one(jid, researched=""):
     dst_photo = src_photo[:-4] + '_v%d.jpg' % jid
     varied = G['vary_photo'](src_photo, dst_photo)
     tlow = title.lower()
-    if any(w in tlow for w in ('tp-link', 'defender', 'printer', 'laptop', 'monitor')):
+    if any(w in tlow for w in ('tp-link', 'defender', 'printer', 'laptop', 'monitor', 'router', 'mercusys', 'gps', 'apple tv', 'acer', 'mouse', 'intercom', 'camera', 'kinect', 'wii', 'nintendo', 'xbox', 'playstation', 'synthesizer', 'hi-fi', 'hifi', 'stereo', 'mac mini', 'macmini')):
         category = 'Electronics & computers'
     elif 'lego' in tlow or 'toy' in tlow:
         category = 'Toys'
+    elif any(w in tlow for w in ('tequila', 'shower rail', 'juicer', 'barbecue')):
+        category = 'Miscellaneous'
     else:
         category = 'Tools'
     # Accurate condition + specs from the Jiji listing (source of truth)
     details, jiji_title = find_jiji_details(jid)
-    condition = G['detect_condition'](jiji_title or title, details)
+    # 17 Oct 26 H rule: queue 'condition' field is authoritative when present;
+    # fall back to title/details detection only for legacy items without it.
+    condition = (item.get('condition') or G['detect_condition'](jiji_title or title, details))
     desc = G['make_desc'](title, details=details, condition=condition, spec=researched)
     print('posting', jid, '|', title, '|', price, '| cat:', category, '| cond:', condition, '| photo:', varied)
     print('desc:', repr(desc[:120]), '...')

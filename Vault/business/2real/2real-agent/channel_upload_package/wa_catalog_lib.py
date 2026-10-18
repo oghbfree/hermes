@@ -185,8 +185,14 @@ def wa_post_next(count=15):
         if is_duplicate(x['wa_title']):
             results.append((jid,'SKIP duplicate')); posted.add(jid)
             json.dump(sorted(posted), open(postedp,'w')); continue
-        desc=DESC_TMPL.format(title=x['wa_title'].rsplit(' ',1)[0])
-        r=wa_add_item(x['wa_title'], desc.replace('\n',' '), photo)
+        cond=x.get('condition','USED')
+        base=x['wa_title'].rsplit(' ',1)[0]
+        if cond=='NEW':
+            line='Brand New, Sealed'
+        else:
+            line='UK Pre-Owned, Tested Working'
+        desc=f"{base}. {line}. Delivery available across Accra. Call/WhatsApp 0204252252"
+        r=wa_add_item(x['wa_title'], desc, photo)
         results.append((jid, r))
         if r=='SAVED':
             posted.add(jid)

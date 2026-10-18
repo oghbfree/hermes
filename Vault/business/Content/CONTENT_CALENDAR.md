@@ -1,6 +1,6 @@
 # Content Calendar — 2 Real Enterprises & Akoma Robotics
 
-_Last updated: 2026-10-11_
+_Last updated: 2026-10-18_
 
 > Pipeline tracker for the multi-brand content engine. Moves each piece Idea → Draft → Review → Scheduled → Published.
 > This is the **effectiveness layer**: it tracks cadence adherence, what actually went live, and what to repurpose — closing the "we post every day but don't see results" gap.
@@ -22,13 +22,19 @@ _Last updated: 2026-10-11_
 
 | ID | Title | Type | Channel | Stage | Due | Notes |
 |----|-------|------|---------|-------|-----|-------|
-| C-1101 | Akoma Mon education (BUILD A ROBOT) | Post+Carousel+reel | IG/FB/TikTok/WA/LI | Scheduled | Mon 12/10 | week-2026-10-12/monday-akoma · awaiting H review |
-| C-1102 | 2Real Tue Gorilla repeat-seller set | Post+Carousel+MP | IG/FB/Marketplace/TikTok/WA/LI | Scheduled | Tue 13/10 | week-2026-10-12/tuesday-2real · real Jiji prices |
-| C-1103 | Akoma Wed student spotlight | Post+Carousel+reel | IG/FB/TikTok/WA/LI | Scheduled | Wed 14/10 | week-2026-10-12/wednesday-akoma |
-| C-1104 | 2Real Thu mechanic's toolkit | Post+Carousel+MP | IG/FB/Marketplace/TikTok/WA/LI | Scheduled | Thu 15/10 | week-2026-10-12/thursday-2real · real Jiji prices |
-| C-1105 | Akoma Fri Q&A (Ask Us Anything) | Post+Carousel+reel | IG/FB/TikTok/WA/LI | Scheduled | Fri 16/10 | week-2026-10-12/friday-akoma |
-| C-1106 | 2Real Sat Power weekend special | Post+Carousel+MP | IG/FB/Marketplace/TikTok/WA/LI | Scheduled | Sat 17/10 | week-2026-10-12/saturday-2real · real Jiji prices |
-| — | (No Sunday 18/10 — broadcast retired 04/10; week runs Mon–Sat) | | | | | |
+| C-1107 | Akoma Mon education (BUILD A ROBOT) | Post+Carousel+reel | IG/FB/TikTok/WA/LI | Scheduled | Mon 19/10 | week-2026-10-19/monday-akoma · awaiting H review |
+| C-1108 | 2Real Tue Garden & outdoor — clean cuts | Post+Carousel+MP | IG/FB/Marketplace/TikTok/WA/LI | Scheduled | Tue 20/10 | week-2026-10-19/tuesday-2real · real Jiji prices |
+| C-1109 | Akoma Wed student spotlight (I BUILT IT MYSELF) | Post+Carousel+reel | IG/FB/TikTok/WA/LI | Scheduled | Wed 21/10 | week-2026-10-19/wednesday-akoma |
+| C-1110 | 2Real Thu Site security — protect capital | Post+Carousel+MP | IG/FB/Marketplace/TikTok/WA/LI | Scheduled | Thu 22/10 | week-2026-10-19/thursday-2real · real Jiji prices |
+| C-1111 | Akoma Fri Q&A (MYTH VS FACT) | Post+Carousel+reel | IG/FB/TikTok/WA/LI | Scheduled | Fri 23/10 | week-2026-10-19/friday-akoma |
+| C-1112 | 2Real Sat Power weekend special | Post+Carousel+MP | IG/FB/Marketplace/TikTok/WA/LI | Scheduled | Sat 24/10 | week-2026-10-19/saturday-2real · real Jiji prices |
+| — | (No Sunday 25/10 — broadcast retired 04/10; week runs Mon–Sat) | | | | | |
+
+### Staged (generated, AWAITING H approval to post — nothing posts without H)
+- **Week 2026-10-12** (C-1101…C-1106): fully generated (73 PNG + 48 copy). All staged, **AWAITING PUBLISH** — no confirmed posts.
+- **Week 2026-10-05** (C-1001…C-1006): generated, staged, AWAITING PUBLISH.
+- **Week 2026-09-28**: generated, staged, AWAITING PUBLISH.
+- ⚠️ **BLOCKER:** 4 weeks now staged & unreleased. Last confirmed public post 17/09 (Hacksaw). Posting+confirmation loop is the only production gap — generation solved + repeatable.
 
 ### Retired-to-Published (Week 2026-10-05, generated 04/10 — staged, pending post by H/John)
 - C-1001 Akoma Reel #6 How-to · C-1002 2Real Myth-bust · C-1003 Akoma Reel #1 Curiosity · C-1004 2Real tool masterclass · C-1005 Akoma student spotlight · C-1006 2Real Weekend Special — all **Generated, staged, AWAITING H approval to post** (no confirmed posts since 17/09).
@@ -64,6 +70,7 @@ _Pieces move here from Scheduled after H confirms publish. Source: sent-log.md._
 - **Week 2026-09-21** — COMPLETE + VERIFIED on disk. Mon Akoma reel · Wed Akoma · Thu 2Real (tile masterclass incl 1100mm GH¢1,370) · Fri Akoma spotlight · Sat 2Real 3-item weekend special + marketplace. All images (4:5 FB, square IG) real-photo composites.
 - **Week 2026-10-05** — Generated + branded + copy-verified (Sun engine). 81 PNG + 4 MP4 reels + 57 copy. **AWAITING PUBLISH** (staging/post by H). WhatsApp number updated to **0204252252** (0233352252 retired) 04/10.
 - **Week 2026-10-12** — Generated + copy-verified (Sun engine, Mon–Sat; no Sunday). 73 PNG (all QC-PASS) + 48 copy files + posting-queue.md. **AWAITING PUBLISH** (all PENDING-REVIEW → H approves before anything posts). 2Real prices = real LIVE Jiji.
+- **Week 2026-10-19** — Generated + copy-verified (Sun engine 18/10, Mon–Sat; no Sunday). 68 PNG (56 stills + 12 covers, all QC-PASS) + 48 copy files (0 defects) + posting-queue.md + MASTER_PLAN.md. **AWAITING PUBLISH** (all PENDING-REVIEW → H approves). 2Real prices = real LIVE Jiji (1,305 active). ⚠️ 4th consecutive week staged unreleased since 17/09.
 
 ## Repurposing Queue
 
