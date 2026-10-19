@@ -1,5 +1,5 @@
 {
-  "updated": null,
+  "updated": "2026-10-18T18:00:00",
   "bundles": [
     {
       "name": "Adhesives Starter",
@@ -8,7 +8,14 @@
         "grab adhesive",
         "super glue gel"
       ],
-      "pitch": "The go-to adhesive set \u2014 glue, grab, and instant bond in one go."
+      "pitch": "The go-to adhesive set — glue, grab, and instant bond in one go.",
+      "categories": [
+        "glue",
+        "adhesive",
+        "epoxy",
+        "sealant",
+        "tape"
+      ]
     },
     {
       "name": "Power Tool Combo",
@@ -17,7 +24,16 @@
         "jigsaw",
         "circular saw"
       ],
-      "pitch": "Everything for a day on site \u2014 drill, jigsaw, saw."
+      "pitch": "Everything for a day on site — drill, jigsaw, saw.",
+      "categories": [
+        "saw",
+        "drill",
+        "jigsaw",
+        "grinder",
+        "sander",
+        "router",
+        "tool"
+      ]
     },
     {
       "name": "Mechanic's Kit",
@@ -26,7 +42,15 @@
         "tap and die",
         "socket set"
       ],
-      "pitch": "The mechanic's basics \u2014 ratchets, sockets, and thread tools."
+      "pitch": "The mechanic's basics — ratchets, sockets, and thread tools.",
+      "categories": [
+        "socket",
+        "ratchet",
+        "torque",
+        "wrench",
+        "spanner",
+        "car repair"
+      ]
     },
     {
       "name": "Painter's Pack",
@@ -35,7 +59,128 @@
         "brush",
         "roller"
       ],
-      "pitch": "Paint-ready: paints, brushes and rollers."
+      "pitch": "Paint-ready: paints, brushes and rollers.",
+      "categories": [
+        "paint",
+        "spray",
+        "brush",
+        "roller",
+        "filler"
+      ]
+    },
+    {
+      "name": "Outdoor & Camping Kit",
+      "items_hint": [
+        "sleeping bag",
+        "tent",
+        "lantern",
+        "headlamp",
+        "torch"
+      ],
+      "categories": [
+        "sleeping bag",
+        "camping",
+        "outdoor",
+        "headlamp",
+        "flashlight",
+        "lantern",
+        "tent",
+        "cooler"
+      ],
+      "pitch": "Everything for a night outdoors — bag, light and backup power."
+    },
+    {
+      "name": "Security & Locks Set",
+      "items_hint": [
+        "disc lock",
+        "padlock",
+        "chain lock",
+        "lock box",
+        "alarm"
+      ],
+      "categories": [
+        "lock",
+        "chain",
+        "padlock",
+        "security",
+        "safe",
+        "alarm"
+      ],
+      "pitch": "Bike and home security in one — chain, lock and alarm."
+    },
+    {
+      "name": "Kitchen Preservation Kit",
+      "items_hint": [
+        "vacuum sealer",
+        "kilner",
+        "preserving jar",
+        "sealer bags"
+      ],
+      "categories": [
+        "vacuum sealer",
+        "kilner",
+        "jar",
+        "preserv",
+        "food storage"
+      ],
+      "pitch": "Seal it and store it — vacuum sealer + clip-top preserving jars."
+    },
+    {
+      "name": "Power On-The-Go",
+      "items_hint": [
+        "inverter",
+        "power bank",
+        "car charger",
+        "charging pad"
+      ],
+      "categories": [
+        "inverter",
+        "charger",
+        "charging",
+        "power",
+        "usb",
+        "battery",
+        "jump starter"
+      ],
+      "pitch": "Stay powered — inverter, chargers and backup power for the car."
+    },
+    {
+      "name": "Comms Pair",
+      "items_hint": [
+        "walkie talkie",
+        "two-way radio",
+        "pmr446",
+        "radio set"
+      ],
+      "categories": [
+        "walkie talkie",
+        "radio",
+        "two-way",
+        "intercom",
+        "cb radio"
+      ],
+      "pitch": "Stay in touch on site or on the farm — a second radio completes the pair."
+    },
+    {
+      "name": "Site Hand Tools",
+      "items_hint": [
+        "crowbar",
+        "wrecking bar",
+        "spirit level",
+        "tape measure",
+        "hammer"
+      ],
+      "categories": [
+        "spanner",
+        "wrench",
+        "pliers",
+        "screwdriver",
+        "measuring",
+        "level",
+        "chisel",
+        "knife"
+      ],
+      "pitch": "The everyday carry for site work — grab, measure and cut."
     }
   ],
   "fb_groups": [

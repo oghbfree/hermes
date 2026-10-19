@@ -1657,7 +1657,7 @@
   },
   {
     "timestamp": "2026-08-31 11:10",
-    "customer_msg": "I’m still waiting for the video u said you’ll send",
+    "customer_msg": "I\u2019m still waiting for the video u said you\u2019ll send",
     "reply_sent": "We will get back to you shortly.",
     "status": "resolved",
     "age_hours": 461.4,
@@ -1843,7 +1843,7 @@
   },
   {
     "timestamp": "2026-08-31 11:11",
-    "customer_msg": "What’s ur liter",
+    "customer_msg": "What\u2019s ur liter",
     "reply_sent": "We will get back to you shortly.",
     "status": "resolved",
     "age_hours": 461.3,
@@ -2167,7 +2167,7 @@
   },
   {
     "timestamp": "2026-08-31 14:56",
-    "customer_msg": "[Reaction: 👍 to 3EB004F19FE2D54D09D31A]",
+    "customer_msg": "[Reaction: \ud83d\udc4d to 3EB004F19FE2D54D09D31A]",
     "reply_sent": "We will get back to you shortly.",
     "status": "resolved",
     "age_hours": 457.6,
@@ -2203,7 +2203,7 @@
   },
   {
     "timestamp": "2026-08-31 14:58",
-    "customer_msg": "The transparent one ☝️",
+    "customer_msg": "The transparent one \u261d\ufe0f",
     "reply_sent": "We will get back to you shortly.",
     "status": "resolved",
     "age_hours": 457.6,
@@ -2245,7 +2245,7 @@
   },
   {
     "timestamp": "2026-08-31 14:59",
-    "customer_msg": "What’s the brand name pls",
+    "customer_msg": "What\u2019s the brand name pls",
     "reply_sent": "We will get back to you shortly.",
     "status": "resolved",
     "age_hours": 457.5,
@@ -2623,7 +2623,7 @@
   },
   {
     "timestamp": "2026-09-01 10:46",
-    "customer_msg": "Ok I’m waiting",
+    "customer_msg": "Ok I\u2019m waiting",
     "reply_sent": "We will get back to you shortly.",
     "status": "resolved",
     "age_hours": 437.8,
@@ -2647,7 +2647,7 @@
   },
   {
     "timestamp": "2026-09-01 11:03",
-    "customer_msg": "Yes he’s on his way to your place",
+    "customer_msg": "Yes he\u2019s on his way to your place",
     "reply_sent": "We will get back to you shortly.",
     "status": "resolved",
     "age_hours": 437.5,
@@ -2671,7 +2671,7 @@
   },
   {
     "timestamp": "2026-09-01 11:07",
-    "customer_msg": "He’ll call you shortly",
+    "customer_msg": "He\u2019ll call you shortly",
     "reply_sent": "We will get back to you shortly.",
     "status": "resolved",
     "age_hours": 437.4,
@@ -2683,7 +2683,7 @@
   },
   {
     "timestamp": "2026-09-01 11:21",
-    "customer_msg": "Yes I’m sending the money now",
+    "customer_msg": "Yes I\u2019m sending the money now",
     "reply_sent": "We will get back to you shortly.",
     "status": "resolved",
     "age_hours": 437.2,
@@ -3331,7 +3331,7 @@
   },
   {
     "timestamp": "2026-09-05 11:32",
-    "customer_msg": "I have this screenshot from my bank account which shows i bought gas and electric from Edf 2 days ago,so screenshot your proof and date from your bank account and let me see,if you give me that proof i will give you back your £30 period",
+    "customer_msg": "I have this screenshot from my bank account which shows i bought gas and electric from Edf 2 days ago,so screenshot your proof and date from your bank account and let me see,if you give me that proof i will give you back your \u00a330 period",
     "reply_sent": "We will get back to you shortly.",
     "status": "resolved",
     "age_hours": 341.0,
@@ -3601,7 +3601,7 @@
   },
   {
     "timestamp": "2026-09-05 11:56",
-    "customer_msg": "[Reaction: 👍🏽 to A5F7F2A587152BD32ECF251E763097FD]",
+    "customer_msg": "[Reaction: \ud83d\udc4d\ud83c\udffd to A5F7F2A587152BD32ECF251E763097FD]",
     "reply_sent": "We will get back to you shortly.",
     "status": "resolved",
     "age_hours": 340.6,
@@ -4135,7 +4135,7 @@
   },
   {
     "timestamp": "2026-09-10 01:58",
-    "customer_msg": "🤝",
+    "customer_msg": "\ud83e\udd1d",
     "reply_sent": "We will get back to you shortly.",
     "status": "resolved",
     "age_hours": 230.6,
@@ -4147,7 +4147,7 @@
   },
   {
     "timestamp": "2026-09-10 01:58",
-    "customer_msg": "Good morning. I am assuming that you don’t have the item. Thanks for trying.",
+    "customer_msg": "Good morning. I am assuming that you don\u2019t have the item. Thanks for trying.",
     "reply_sent": "We will get back to you shortly.",
     "status": "resolved",
     "age_hours": 230.6,
@@ -4321,7 +4321,7 @@
   },
   {
     "timestamp": "2026-09-10 02:00",
-    "customer_msg": "🤝",
+    "customer_msg": "\ud83e\udd1d",
     "reply_sent": "We will get back to you shortly.",
     "status": "resolved",
     "age_hours": 230.5,
@@ -4357,7 +4357,7 @@
   },
   {
     "timestamp": "2026-09-10 02:00",
-    "customer_msg": "Thank you, I’m really looking forward to discussing this with you.",
+    "customer_msg": "Thank you, I\u2019m really looking forward to discussing this with you.",
     "reply_sent": "We will get back to you shortly.",
     "status": "resolved",
     "age_hours": 230.5,
@@ -4465,7 +4465,7 @@
   },
   {
     "timestamp": "2026-09-10 02:00",
-    "customer_msg": "Here is a small selection from the catalogue; if you can’t find anything that takes your fancy, please send me a photo.",
+    "customer_msg": "Here is a small selection from the catalogue; if you can\u2019t find anything that takes your fancy, please send me a photo.",
     "reply_sent": "We will get back to you shortly.",
     "status": "resolved",
     "age_hours": 230.5,
@@ -4729,7 +4729,7 @@
   },
   {
     "timestamp": "2026-09-10 09:29",
-    "customer_msg": "[Reaction: 👍 to 3EB0AA52D99A2D73FF7D7E]",
+    "customer_msg": "[Reaction: \ud83d\udc4d to 3EB0AA52D99A2D73FF7D7E]",
     "reply_sent": "We will get back to you shortly.",
     "status": "resolved",
     "age_hours": 223.0,
@@ -4819,7 +4819,7 @@
   },
   {
     "timestamp": "2026-09-10 09:36",
-    "customer_msg": "[Reaction: 👍 to 3EB0B5604CBF3D839FE868]",
+    "customer_msg": "[Reaction: \ud83d\udc4d to 3EB0B5604CBF3D839FE868]",
     "reply_sent": "We will get back to you shortly.",
     "status": "resolved",
     "age_hours": 222.9,
@@ -4927,7 +4927,7 @@
   },
   {
     "timestamp": "2026-09-10 10:00",
-    "customer_msg": "[Reaction: 🙏 to 3EB09E51325E248452FAD9]",
+    "customer_msg": "[Reaction: \ud83d\ude4f to 3EB09E51325E248452FAD9]",
     "reply_sent": "We will get back to you shortly.",
     "status": "resolved",
     "age_hours": 222.5,
@@ -5011,7 +5011,7 @@
   },
   {
     "timestamp": "2026-09-10 11:01",
-    "customer_msg": "You told me about à Kobe",
+    "customer_msg": "You told me about \u00e0 Kobe",
     "reply_sent": "We will get back to you shortly.",
     "status": "resolved",
     "age_hours": 221.5,
@@ -5089,7 +5089,7 @@
   },
   {
     "timestamp": "2026-09-10 12:03",
-    "customer_msg": "[Reaction: 👍 to A509A8F5EEF7F1D1F88AB05DDC34AD2B]",
+    "customer_msg": "[Reaction: \ud83d\udc4d to A509A8F5EEF7F1D1F88AB05DDC34AD2B]",
     "reply_sent": "We will get back to you shortly.",
     "status": "resolved",
     "age_hours": 220.5,
@@ -5167,7 +5167,7 @@
   },
   {
     "timestamp": "2026-09-10 13:46",
-    "customer_msg": "Hi 👋 I came across your listing on Jiji and noticed you have a good number of products available. Do you currently have a separate website or online store where customers can view your products, check prices, and place orders?",
+    "customer_msg": "Hi \ud83d\udc4b I came across your listing on Jiji and noticed you have a good number of products available. Do you currently have a separate website or online store where customers can view your products, check prices, and place orders?",
     "reply_sent": "We will get back to you shortly.",
     "status": "resolved",
     "age_hours": 218.8,
@@ -5179,7 +5179,7 @@
   },
   {
     "timestamp": "2026-09-10 13:49",
-    "customer_msg": "Alright, no problem 😊 I’ll look forward to hearing from you. Thank you.",
+    "customer_msg": "Alright, no problem \ud83d\ude0a I\u2019ll look forward to hearing from you. Thank you.",
     "reply_sent": "We will get back to you shortly.",
     "status": "resolved",
     "age_hours": 218.7,
@@ -5191,7 +5191,7 @@
   },
   {
     "timestamp": "2026-09-10 13:50",
-    "customer_msg": "Alright, no problem 😊 I’ll look forward to hearing from you. Thank you.",
+    "customer_msg": "Alright, no problem \ud83d\ude0a I\u2019ll look forward to hearing from you. Thank you.",
     "reply_sent": "We will get back to you shortly.",
     "status": "resolved",
     "age_hours": 218.7,
@@ -5215,7 +5215,7 @@
   },
   {
     "timestamp": "2026-09-10 13:54",
-    "customer_msg": "[Reaction: 🙏 to A5B219C42ED7D353F511571E230A1B92]",
+    "customer_msg": "[Reaction: \ud83d\ude4f to A5B219C42ED7D353F511571E230A1B92]",
     "reply_sent": "We will get back to you shortly.",
     "status": "resolved",
     "age_hours": 218.6,
@@ -5335,7 +5335,7 @@
   },
   {
     "timestamp": "2026-09-10 15:13",
-    "customer_msg": "[Reaction: 👍 to A546034CF097E7DD83551D29FCD73093]",
+    "customer_msg": "[Reaction: \ud83d\udc4d to A546034CF097E7DD83551D29FCD73093]",
     "reply_sent": "We will get back to you shortly.",
     "status": "resolved",
     "age_hours": 217.3,
@@ -5467,7 +5467,7 @@
   },
   {
     "timestamp": "2026-09-10 15:34",
-    "customer_msg": "[Reaction: 👍 to A5685E64A0EBEBBB92875D4AC3437F87]",
+    "customer_msg": "[Reaction: \ud83d\udc4d to A5685E64A0EBEBBB92875D4AC3437F87]",
     "reply_sent": "We will get back to you shortly.",
     "status": "resolved",
     "age_hours": 217.0,
@@ -5551,7 +5551,7 @@
   },
   {
     "timestamp": "2026-09-10 17:53",
-    "customer_msg": "I’m in Kasoa",
+    "customer_msg": "I\u2019m in Kasoa",
     "reply_sent": "We will get back to you shortly.",
     "status": "resolved",
     "age_hours": 214.6,
@@ -5575,7 +5575,7 @@
   },
   {
     "timestamp": "2026-09-10 17:56",
-    "customer_msg": "Because I’m from Kasoa coming ooo boss",
+    "customer_msg": "Because I\u2019m from Kasoa coming ooo boss",
     "reply_sent": "We will get back to you shortly.",
     "status": "resolved",
     "age_hours": 214.6,
@@ -5599,7 +5599,7 @@
   },
   {
     "timestamp": "2026-09-10 17:58",
-    "customer_msg": "Please tomorrow if I will meet you, which side can I meet you at oyarifa I don’t really know there. Can we meet at MADINA?",
+    "customer_msg": "Please tomorrow if I will meet you, which side can I meet you at oyarifa I don\u2019t really know there. Can we meet at MADINA?",
     "reply_sent": "We will get back to you shortly.",
     "status": "resolved",
     "age_hours": 214.6,
@@ -5635,7 +5635,7 @@
   },
   {
     "timestamp": "2026-09-10 18:01",
-    "customer_msg": "Because I’ll be using public transport",
+    "customer_msg": "Because I\u2019ll be using public transport",
     "reply_sent": "We will get back to you shortly.",
     "status": "resolved",
     "age_hours": 214.5,
@@ -6157,7 +6157,7 @@
   },
   {
     "timestamp": "2026-09-11 15:51",
-    "customer_msg": "Just realised it has no back 😟",
+    "customer_msg": "Just realised it has no back \ud83d\ude1f",
     "reply_sent": "We will get back to you shortly.",
     "status": "resolved",
     "age_hours": 192.7,
@@ -6505,7 +6505,7 @@
   },
   {
     "timestamp": "2026-09-12 11:54",
-    "customer_msg": "Good morning where I am as far so I have to leave home very early and yesterday I had things doing after I finish time was gone, so I couldn’t come… so God willing today I will come for it",
+    "customer_msg": "Good morning where I am as far so I have to leave home very early and yesterday I had things doing after I finish time was gone, so I couldn\u2019t come\u2026 so God willing today I will come for it",
     "reply_sent": "We will get back to you shortly.",
     "status": "resolved",
     "age_hours": 172.6,
@@ -6841,7 +6841,7 @@
   },
   {
     "timestamp": "2026-09-12 14:31",
-    "customer_msg": "I no…  but please Dash me something lol 😂",
+    "customer_msg": "I no\u2026  but please Dash me something lol \ud83d\ude02",
     "reply_sent": "We will get back to you shortly.",
     "status": "resolved",
     "age_hours": 170.0,
@@ -6853,7 +6853,7 @@
   },
   {
     "timestamp": "2026-09-12 14:32",
-    "customer_msg": "I’m in the car so I’ll get to MADINA soon",
+    "customer_msg": "I\u2019m in the car so I\u2019ll get to MADINA soon",
     "reply_sent": "We will get back to you shortly.",
     "status": "resolved",
     "age_hours": 170.0,
@@ -6913,7 +6913,7 @@
   },
   {
     "timestamp": "2026-09-12 15:33",
-    "customer_msg": "I’m still here",
+    "customer_msg": "I\u2019m still here",
     "reply_sent": "We will get back to you shortly.",
     "status": "resolved",
     "age_hours": 169.0,
@@ -7129,7 +7129,7 @@
   },
   {
     "timestamp": "2026-09-12 21:42",
-    "customer_msg": "👆, I responded",
+    "customer_msg": "\ud83d\udc46, I responded",
     "reply_sent": "We will get back to you shortly.",
     "status": "resolved",
     "age_hours": 162.8,
@@ -7147,7 +7147,7 @@
   },
   {
     "timestamp": "2026-09-12 21:42",
-    "customer_msg": "But seem this one doesn't have the phone holder 😞😞",
+    "customer_msg": "But seem this one doesn't have the phone holder \ud83d\ude1e\ud83d\ude1e",
     "reply_sent": "We will get back to you shortly.",
     "status": "resolved",
     "age_hours": 162.8,
@@ -7291,7 +7291,7 @@
   },
   {
     "timestamp": "2026-09-13 09:09",
-    "customer_msg": "I’ll come around at 9am",
+    "customer_msg": "I\u2019ll come around at 9am",
     "reply_sent": "We will get back to you shortly.",
     "status": "resolved",
     "age_hours": 151.4,
@@ -7489,7 +7489,7 @@
   },
   {
     "timestamp": "2026-09-13 09:34",
-    "customer_msg": "I’m infront of the police station",
+    "customer_msg": "I\u2019m infront of the police station",
     "reply_sent": "We will get back to you shortly.",
     "status": "resolved",
     "age_hours": 151.0,
@@ -7501,7 +7501,7 @@
   },
   {
     "timestamp": "2026-09-13 09:37",
-    "customer_msg": "It’s locked",
+    "customer_msg": "It\u2019s locked",
     "reply_sent": "We will get back to you shortly.",
     "status": "resolved",
     "age_hours": 150.9,
@@ -7651,7 +7651,7 @@
   },
   {
     "timestamp": "2026-09-13 10:21",
-    "customer_msg": "If you don’t trust me to pay on arrival then let use your rider tomorrow because I’m also doubtful paying before delivery",
+    "customer_msg": "If you don\u2019t trust me to pay on arrival then let use your rider tomorrow because I\u2019m also doubtful paying before delivery",
     "reply_sent": "We will get back to you shortly.",
     "status": "resolved",
     "age_hours": 150.2,
@@ -7675,7 +7675,7 @@
   },
   {
     "timestamp": "2026-09-13 10:29",
-    "customer_msg": "I can’t tomorrow so that we are both safe.",
+    "customer_msg": "I can\u2019t tomorrow so that we are both safe.",
     "reply_sent": "We will get back to you shortly.",
     "status": "resolved",
     "age_hours": 150.0,
@@ -7807,7 +7807,7 @@
   },
   {
     "timestamp": "2026-09-13 22:10",
-    "customer_msg": "Nice meeting you too.I’ll definitely get back to you 🙏",
+    "customer_msg": "Nice meeting you too.I\u2019ll definitely get back to you \ud83d\ude4f",
     "reply_sent": "We will get back to you shortly.",
     "status": "resolved",
     "age_hours": 138.4,
@@ -7867,7 +7867,7 @@
   },
   {
     "timestamp": "2026-09-13 22:10",
-    "customer_msg": "That’s fine with me",
+    "customer_msg": "That\u2019s fine with me",
     "reply_sent": "We will get back to you shortly.",
     "status": "resolved",
     "age_hours": 138.4,
@@ -7921,7 +7921,7 @@
   },
   {
     "timestamp": "2026-09-13 22:11",
-    "customer_msg": "I’m 10mins away",
+    "customer_msg": "I\u2019m 10mins away",
     "reply_sent": "We will get back to you shortly.",
     "status": "resolved",
     "age_hours": 138.3,
@@ -7979,9 +7979,9 @@
   {
     "chat_id": "177451053379703",
     "first_seen": "2026-10-10 10:22",
-    "stage": "saved",
-    "purchases": 4,
-    "last_seen": "2026-10-11 10:30"
+    "stage": "review_sent",
+    "purchases": 5,
+    "last_seen": "2026-10-18 13:36"
   },
   {
     "chat_id": "81819294801990",
@@ -8281,5 +8281,42 @@
     "stage": "saved",
     "purchases": 1,
     "last_seen": "2026-10-17 16:27"
+  },
+  {
+    "chat_id": "89760622215318",
+    "first_seen": "2026-10-18 09:09",
+    "stage": "review_sent",
+    "purchases": 1
+  },
+  {
+    "chat_id": "215839387177190",
+    "first_seen": "2026-10-18 10:11",
+    "stage": "saved",
+    "purchases": 1,
+    "last_seen": "2026-10-18 10:11"
+  },
+  {
+    "chat_id": "273512191230162",
+    "first_seen": "2026-10-18 10:11",
+    "stage": "saved",
+    "purchases": 1,
+    "last_seen": "2026-10-18 10:11"
+  },
+  {
+    "chat_id": "61001554722979",
+    "first_seen": "2026-10-18 10:12",
+    "stage": "saved",
+    "purchases": 1,
+    "last_seen": "2026-10-18 10:12"
+  },
+  {
+    "timestamp": "2026-10-19 05:14",
+    "source": "phone_call",
+    "customer_number": "+233 50 123 4567",
+    "customer_msg": "Customer wants a Bosch jigsaw, wants it delivered to East Legon near the airport",
+    "matched_items": [],
+    "call_id": "1a22eddceaa4",
+    "status": "pending",
+    "priority": "MEDIUM"
   }
 ]

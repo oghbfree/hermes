@@ -34,6 +34,18 @@
 
 ## Active
 
+* [ ] **[business | HIGH]** — Bring all tools home
+  → Notes: Consolidate tools from the shop to home (per H 19/10/26)
+  → Due: 2026-10-19
+
+* [ ] **[business | HIGH]** — Sell big items cheap
+  → Notes: Clear rotation: sell the big items at discounted price to free space/cash
+  → Due: 2026-10-19
+
+* [ ] **[personal | HIGH]** — Buy petrol
+  → Notes: Fuel for the Kia / travel
+  → Due: 2026-10-19
+
 * [ ] **[personal | HIGH]** — Put dP on car
   → Notes: Car maintenance - dP (display panel?) needs installation
   → Due: 2026-07-12

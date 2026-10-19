@@ -16,5 +16,14 @@
     "items_found": [],
     "action_needed": "TEAM_CHECK",
     "call_id": "7e1499e9eba5"
+  },
+  {
+    "timestamp": "2026-10-19T05:14:04.735236",
+    "customer_number": "+233 50 123 4567",
+    "transcript": "Hello I want to buy the Bosch jigsaw you have on Jiji please",
+    "summary": "Customer wants a Bosch jigsaw, wants it delivered to East Legon near the airport",
+    "items_found": [],
+    "action_needed": "TEAM_CHECK",
+    "call_id": "1a22eddceaa4"
   }
 ]

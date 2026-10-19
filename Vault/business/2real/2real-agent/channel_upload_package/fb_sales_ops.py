@@ -149,15 +149,25 @@ class PriceDrops:
 
 # ── 4. BUNDLE RECOMMENDATIONS ──────────────────────────────────────────────
 def recommend_bundles(item_title, max_n=2):
-    """Return bundle suggestions whose item-hints overlap the item's category."""
+    """Return bundle suggestions that GENUINELY fit the item.
+
+    Match order (fix 18 Oct 26 — the old fallback bundles[:1] offered
+    'Adhesives Starter' for every unrelated item):
+      1. exact item-hint overlap with the title (e.g. 'circular saw')
+      2. category-keyword overlap (bundle 'categories' list)
+      3. NOTHING — return [] rather than an irrelevant bundle.
+    Only append a 'Pairs well with...' line when a real match exists.
+    """
     b = _load(BUNDLE_F, {"bundles": []})
-    tl = item_title.lower(); out = []
+    tl = item_title.lower()
+    exact, cat = [], []
     for bun in b.get("bundles", []):
         if any(h in tl for h in bun.get("items_hint", [])):
-            out.append(bun)
-    if not out:  # generic fallback — offer the closest category bundle
-        out = b.get("bundles", [])[:1]
-    return out[:max_n]
+            exact.append(bun)
+        elif any(k in tl for k in bun.get("categories", [])):
+            cat.append(bun)
+    out = (exact or cat)[:max_n]
+    return out
 
 # ── 5. GENERAL LISTING + CROSS-SELL GROUPS ─────────────────────────────────
 def cross_sell_targets(category=""):

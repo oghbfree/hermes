@@ -7205,3 +7205,98 @@ Thanks
 - **Chat:** 50534736257241
 - **Customer:** Yes
 - **Reply:** [acknowledgment - no reply sent]
+
+## 2026-10-18 09:09
+- **Channel:** whatsapp
+- **Chat:** 89760622215318
+- **Customer:** [image received]
+- **Reply:** Thank you for your purchase! 🙏 Enjoy the item. If you have a moment, a review on Jiji helps other customers find us — it takes 30 seconds and helps a small business grow: https://jiji.com.gh/shop/2real-online
+
+## 2026-10-18 10:11
+- **Channel:** whatsapp
+- **Chat:** 215839387177190
+- **Customer:** [image received]
+- **Reply:** Thank you for your purchase! 🙏 Enjoy the item. If you have a moment, a review on Jiji helps other customers find us — it takes 30 seconds and helps a small business grow: https://jiji.com.gh/shop/2real-online
+
+## 2026-10-18 10:11
+- **Channel:** whatsapp
+- **Chat:** 215839387177190
+- **Customer:** Hi
+[owner reply] Thank you for contacting 2 Real Enterprises! Please let us know how we can help you.
+Hi
+Yes
+[owner reply] Ok
+Yes
+How much please
+[owner reply] 450
+Okay
+Do you do delivery?
+[owner reply] Yes with yango today
+Any reduction please
+Okay
+❓❓❓
+[owner reply] Fix price
+Okay
+Where are u located please
+[owner reply] Oyarifa
+[owner reply] And you
+Ofankor barrier
+[owner reply] Do you want delivery now
+Kindly check the delivery fee for me
+Yes
+[owner reply] Send me your exact location
+https://maps.app.goo.gl/zgmxbxrW78ERxnkA9
+- **Reply:** Thank you! 🙏 I've saved your number so you'll be first to know when new stock lands — quality UK tools and gadgets at good prices. Save this number as *2Real Stock Updates* so you don't miss a restock.
+
+## 2026-10-18 10:11
+- **Channel:** whatsapp
+- **Chat:** 273512191230162
+- **Customer:** [image received]
+- **Reply:** Thank you for your purchase! 🙏 Enjoy the item. If you have a moment, a review on Jiji helps other customers find us — it takes 30 seconds and helps a small business grow: https://jiji.com.gh/shop/2real-online
+
+## 2026-10-18 10:11
+- **Channel:** whatsapp
+- **Chat:** 273512191230162
+- **Customer:** Does it come with a stand and a catch tray?
+- **Reply:** Thank you! 🙏 I've saved your number so you'll be first to know when new stock lands — quality UK tools and gadgets at good prices. Save this number as *2Real Stock Updates* so you don't miss a restock.
+
+## 2026-10-18 10:12
+- **Channel:** whatsapp
+- **Chat:** 61001554722979
+- **Customer:** [image received]
+- **Reply:** Thank you for your purchase! 🙏 Enjoy the item. If you have a moment, a review on Jiji helps other customers find us — it takes 30 seconds and helps a small business grow: https://jiji.com.gh/shop/2real-online
+
+## 2026-10-18 10:12
+- **Channel:** whatsapp
+- **Chat:** 61001554722979
+- **Customer:** Good morning. Please I need A Torque WRENCH TO BUY. RANGE 1000- 3000NM
+[owner reply] Thank you for contacting 2 Real Enterprises! Please let us know how we can help you.
+[owner reply] Send a screenshot of the one you saw
+[owner reply] Okay it's available
+Please WHAT IS THE MAX  TORQUE...??
+I need Torque range 1000-3000Nm
+- **Reply:** Thank you! 🙏 I've saved your number so you'll be first to know when new stock lands — quality UK tools and gadgets at good prices. Save this number as *2Real Stock Updates* so you don't miss a restock.
+
+## 2026-10-18 10:52
+- **Channel:** whatsapp
+- **Chat:** 215839387177190
+- **Customer:** Okay
+- **Reply:** [acknowledgment - no reply sent]
+
+## 2026-10-18 13:36
+- **Channel:** whatsapp
+- **Chat:** 177451053379703
+- **Customer:** Pls assist  the kids just received from the class Teacher
+- **Reply:** Thank you for your purchase! 🙏 Enjoy the item. If you have a moment, a review on Jiji helps other customers find us — it takes 30 seconds and helps a small business grow: https://jiji.com.gh/shop/2real-online
+
+## 2026-10-18 15:59
+- **Channel:** whatsapp
+- **Chat:** 215839387177190
+- **Customer:** Ok
+- **Reply:** [acknowledgment - no reply sent]
+
+## 2026-10-18 16:04
+- **Channel:** whatsapp
+- **Chat:** 229338452639914
+- **Customer:** Okay.
+- **Reply:** [acknowledgment - no reply sent]

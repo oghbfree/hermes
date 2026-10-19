@@ -1,15 +1,16 @@
 # Daily Sales Log — 2Real Enterprises (Dome Market)
 
-**Format:** `DATE | TARGET_GHS | ACTUAL_GHS | TOP_3_SKUs | NOTES`
+**Format:** `DATE | TARGET_GHS | ACTUAL_GHS | COGS_GHS | MARGIN% | TOP_3_SKUs | NOTES`
 
 > **AUTHORITATIVE LEDGER (from Oct 2026):** This file + closed Jiji adverts = the ONLY sales record. Sales are NO LONGER entered in Zobaze (used for receipts only, plus a photo source for listings). Zobaze inventory/cost data is stale (June 2026) — not live stock or pricing.
+> **COGS column (from 18/10/26):** record cost of goods sold in GH₵ (convert £ at ~15 GH₵/£) so true profit/margin is computable. Leave blank if unknown.
 
 Append one line per day. The 4:30 AM briefing reads this file.
 
 ---
 
-| DATE | TARGET (GHS) | ACTUAL (GHS) | TOP 3 SKUs | NOTES |
-|------|--------------|--------------|------------|-------|
+| DATE | TARGET (GHS) | ACTUAL (GHS) | COGS (GHS) | MARGIN% | TOP 3 SKUs | NOTES |
+|------|--------------|--------------|------------|---------|------------|-------|
 | 12/07/26 |  |  |  | First entry — fill in after today's sales |
 | 18/08/26 |  | 200 |  | Logged via 4:30 AM briefing |
 | 17/08/26 |  | — |  | Day off (with mum) |
@@ -62,6 +63,7 @@ Append one line per day. The 4:30 AM briefing reads this file.
 | 15/10/26 |  | 340 | Jiji: Plastic Louvre Air Vent Grill 9"×9" w/ fly screen (140) — **Kuber Realty, MoMo, invoice requested**. Jiji: Stanley Light Duty Staple Gun 704400 (200, cost £7) | Kuber Realty = B2B lead — invoice INV-KUB-20261015 |
 | 16/10/26 |  | 2,380 | Jiji: Halfords Chain Wax lubricant spray (130) — **first sale from separating the special sprays + advertising them**. Jiji: **Dr Lomotey — Cocoa Clinic**: Folding Metal Frame Bed w/ Foam Mattress 75×38 (1,750). Walk-in regular: old display stand 4+ yrs (100), angle grinder not-working (200), repeat customer: Stanley toolbox (250) | Dr Lomotey = B2B (medical clinic). Spray-separation tactic WORKED day one |
 | 17/10/26 |  | 810 | Walk-in: wheelchair (430). Jiji: Power Devil Hammer Drill 420W (380) | Sat market day. **Neighbour's bulk clearance: her goods sold ~5,000 to a wholesaler (medium Kia Bongo truckful via Yango) — potential outlet for OUR dead stock too** |
+| 18/10/26 |  | 1,050 | 255 | 76% | Jiji: **Piano Paradise** — Gorilla Wood Glue 118ml ×2 @200 + 236ml ×1 @200 (discounted) = 600. **Bought 2nd cus** — Masterplug Weatherproof Outdoor Double Socket 15m = 450 | Both delivered by **Yango**. Piano Paradise invoice INV-PIA-20261018; 2nd invoice INV-CSH-20261018. COGS £17 (glue £7 + socket £10) @15 = 255. Gross profit 795 |
 | 23/08/26 |  | — |  | Closed |
 | 24/08/26 |  | — |  | Closed |
 

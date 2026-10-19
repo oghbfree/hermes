@@ -89,3 +89,9 @@ HKLM\SOFTWARE\Policies\Google\Chrome\DevToolsRemoteDebuggingAllowed=1 (needs adm
   Always run the poster as: `FB_CDP_URL=http://127.0.0.1:9222 python fb_post_run.py <ids...>`
 - Verify first: `curl -s http://127.0.0.1:9222/json/version` (must return Browser info).
 - When connecting the websocket manually use `suppress_origin=True` (plain connect → 403 Forbidden).
+- FALLBACK (18 Oct 26): if no live CDP debug port exists (both 9222 and 64365 dead/404), run the
+  posting flow inside the Hermes browser session `jiji-shop` instead: exec `fb_post_lib.py`
+  (strip the globals assert) with `js/goto_url/click_at_xy/wait_for_load` injected, and use
+  CDP `DOM.setFileInputFiles` for the photo upload. Post ~2 listings per browser call with a
+  45–60 s pause; if a call times out mid-post, check the live Selling page before re-posting
+  (the registry may have missed a published item — mark it via `Registry().mark_fb_posted`).

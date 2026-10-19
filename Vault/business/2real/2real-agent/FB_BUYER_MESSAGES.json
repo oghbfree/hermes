@@ -152,16 +152,17 @@
     },
     {
       "id": "nii_xbox360games",
-      "nudges_sent": 0,
-      "status": "open",
+      "nudges_sent": 1,
+      "status": "nudged",
       "created": "2026-10-16T02:04:47.347141",
       "buyer": "Nii",
       "item": "Xbox 360 Games CD Assorted Titles",
       "last_msg_from": "us",
       "last_ts": "2026-10-16T02:04",
       "last_dir": "out",
-      "last_out": "2026-10-16T12:00:00",
-      "updated": "2026-10-18T01:40:36.876792"
+      "last_out": "2026-10-18T17:41:12.067556",
+      "updated": "2026-10-18T17:41:12.071813",
+      "note": "18Oct 16:43 nudge MIS-SENT to Doris chat (wrong thread); correct nudge sent to Nii 18Oct evening; nudges_sent incremented."
     },
     {
       "id": {
@@ -249,19 +250,92 @@
     },
     {
       "id": "ananman-ingco-gluegun",
-      "nudges_sent": 0,
-      "status": "open",
+      "nudges_sent": 1,
+      "status": "nudged",
       "created": "2026-10-18T01:38:38.860824",
       "last_dir": "out",
-      "last_out": "2026-10-17T12:00:00"
+      "last_out": "2026-10-18T17:41:12.068307"
     },
     {
       "id": "hellen-magnumplus-talos-690",
-      "nudges_sent": 0,
-      "status": "open",
+      "nudges_sent": 1,
+      "status": "nudged",
       "created": "2026-10-18T01:38:38.861549",
       "last_dir": "out",
-      "last_out": "2026-10-17T12:00:00"
+      "last_out": "2026-10-18T17:41:12.068954"
+    },
+    {
+      "id": "Doris-Leapfrog",
+      "nudges_sent": 0,
+      "status": "open",
+      "created": "2026-10-18T16:42:15.243526",
+      "buyer": "Doris",
+      "listing_title": "Leapfrog 2 in 1 Touch Tablet and Laptop",
+      "last_dir": "out"
+    },
+    {
+      "id": "kwasi-fisher-f11-2500",
+      "nudges_sent": 0,
+      "status": "awaiting_buyer",
+      "created": "2026-10-18T17:41:12.069583",
+      "buyer": "Kwasi",
+      "listing_title": "Fisher F11 Metal Detector \u2014 Jewellery, Gold & Coins, 3 Modes \u2014 UK Imported, Quality Checked",
+      "price": 2500,
+      "last_dir": "out",
+      "last_out": "2026-10-18T17:41:12.067541",
+      "last_msg": "Full reply sent (available, GHS 2500, MoMo/cash, CTA). Buyer first asked 13:19; terse \"Yes\" reply by earlier run.",
+      "note": "prior terse \"Yes\" 13:32 18Oct"
+    },
+    {
+      "id": "doris-leapfrog-250",
+      "nudges_sent": 0,
+      "status": "awaiting_buyer",
+      "created": "2026-10-18T17:41:12.070394",
+      "buyer": "Doris",
+      "listing_title": "Leapfrog 2 in 1 Touch Tablet and Laptop \u2014 UK Imported, Quality Checked",
+      "price": 250,
+      "last_dir": "out",
+      "last_out": "2026-10-18T17:41:12.067541",
+      "note": "INCIDENT 18Oct 16:43: Xbox nudge mis-sent into Doris thread; apology+item correction sent 18Oct ~17:5x. Buyer query answered 16:41."
+    },
+    {
+      "id": "valerie-aochuan-gimbal",
+      "nudges_sent": 0,
+      "status": "closed",
+      "created": "2026-10-18T17:41:12.071097",
+      "buyer": "Valerie",
+      "listing_title": "AOCHUAN Smart XE 3-Axis Smartphone Gimbal Stabilizer \u2014 UK Imported, Quality Checked",
+      "last_dir": "in",
+      "last_msg": "Replied No (declined follow-up)",
+      "last_out": "2026-10-18T17:41:12.067541",
+      "note": "Buyer replied \"No\" 18Oct 16:01 \u2014 no further contact (no nudge, no discount).",
+      "item": "AOCHUAN Smart XE 3-Axis Gimbal Stabilizer",
+      "last_direction": "buyer",
+      "last_at": "2026-10-18T18:40:41.538953",
+      "updated": "2026-10-18T18:40:41.600269"
+    },
+    {
+      "id": "kwasi-fisher-f11",
+      "nudges_sent": 0,
+      "status": "open",
+      "created": "2026-10-18T18:40:41.540326",
+      "buyer": "Kwasi",
+      "item": "Fisher F11 Metal Detector",
+      "price": 2500,
+      "last_direction": "us",
+      "last_msg": "Sent price/payment/pickup details + CTA",
+      "last_at": "2026-10-18T18:40:41.538953"
+    },
+    {
+      "id": "doris-leapfrog-tablet",
+      "nudges_sent": 0,
+      "status": "open",
+      "created": "2026-10-18T18:40:41.626350",
+      "buyer": "Doris",
+      "item": "Leapfrog 2 in 1 Touch Tablet and Laptop",
+      "last_direction": "us",
+      "last_msg": "Nudge sent 18/10 16:43",
+      "last_at": "2026-10-18T18:40:41.538953"
     }
   ],
   "nudge_policy": {

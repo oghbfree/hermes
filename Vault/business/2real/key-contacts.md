@@ -17,6 +17,8 @@
 ## 👤 Sammy — Shop floor
 - Works with H at Dome
 - Helped clean up after rain damage (03/09)
+- **⚠️ Monday sick pattern (noted 19/10/26):** off sick on Mondays at least twice in the last ~3 months of operation. Flag if it repeats — a recurring Monday-absence pattern may need addressing.
+- **Owes 900 GH₵** for a Samsung TV — paying in **3 installments**, paid when he gets his wage at end of each month. Track collection.
 
 ## 🚚 Delivery — SOP
 - **Customer pays in advance** (preferred)

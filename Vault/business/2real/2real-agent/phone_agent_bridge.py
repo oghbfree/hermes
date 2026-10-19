@@ -23,17 +23,43 @@ from datetime import datetime
 
 # ─── PATHS ──────────────────────────────────────────────────────────────────
 BASE = Path(r"C:\Users\User\.hermes\workspace\Vault\business\2real\2real-agent")
-INVENTORY_FILE = BASE / "inventory_agent.json"
+# JIJI is the source of truth (NOT Zobaze/inventory_agent.json, which is stale June data).
+# The live Jiji scraper output holds all current listings with real prices/stock.
+INVENTORY_FILE = BASE / "jiji_listings_full.json"   # source of truth (dict: {count, scraped, items})
 LEADS_FILE = BASE / "customer_leads.json"
 INTERACTIONS_FILE = BASE.parent / "customer-interactions.md"
 SIP_LOG_FILE = BASE / "phone_call_log.json"
 
 # ─── INVENTORY MATCHING ────────────────────────────────────────────────────
 def load_inventory():
+    """Load from Jiji (source of truth). jiji_listings_full.json is {count, scraped, items: [...]}.
+    Normalise to a list of items with name/variant/category/price/stock fields."""
     if not INVENTORY_FILE.exists():
         return []
     with open(INVENTORY_FILE, "r", encoding="utf-8") as f:
-        return json.load(f)
+        data = json.load(f)
+    items = data.get("items", []) if isinstance(data, dict) else data
+    out = []
+    for it in items or []:
+        if not isinstance(it, dict):
+            continue
+        # Jiji fields vary; map to the searchable shape
+        name = it.get("title") or it.get("name") or it.get("subject") or ""
+        price = it.get("price") or it.get("price_value") or 0
+        try:
+            price = float(str(price).replace(",", "").replace("GH₵", "").strip() or 0)
+        except (ValueError, TypeError):
+            price = 0.0
+        out.append({
+            "name": name,
+            "variant": it.get("variant", ""),
+            "category": it.get("category", ""),
+            "price": price,
+            "stock": int(it.get("stock", 1) or 1),   # Jiji listing = offered; treat as in-stock unless noted
+            "url": it.get("url", ""),
+            "jiji_id": it.get("jiji_id") or it.get("id"),
+        })
+    return out
 
 def search_inventory(query, inventory):
     """Fuzzy match query words against inventory items."""
@@ -108,8 +134,23 @@ def log_lead(customer_number, message, items, call_id):
     with open(LEADS_FILE, "w", encoding="utf-8") as f:
         json.dump(leads, f, indent=2)
 
+# ─── TICKET HELPERS ─────────────────────────────────────────────────────────
+def _extract_items(summary, matches):
+    """Best-effort: the matched item names, else the first line of the summary."""
+    if matches:
+        return " + ".join(str(m[1].get("name", "?")).strip() for m in matches[:3])
+    # fallback: first meaningful sentence of the summary
+    s = (summary or "").strip().split("\n")[0][:120]
+    return s or "(item not captured — ask for it)"
+
+def _PAYMENT_RULE(delivery_type):
+    """Anti-loss payment rule — own riders vs Yango/Uber (H's policy, 19/10/26)."""
+    if delivery_type == "OUR_RIDERS":
+        return "💵 PAY: OK to collect payment on delivery (customer pays our rider before release)."
+    return "💵 PAY: CUSTOMER MUST PAY H FIRST (MoMo preferred) BEFORE dispatch — Yango/Uber rider is NOT trusted to collect on delivery."
+
 # ─── WEBHOOK HANDLER ────────────────────────────────────────────────────────
-def handle_webhook(transcript, summary="", customer_number="", caller_name=""):
+def handle_webhook(transcript, summary="", customer_number="", caller_name="", location="", delivery_type="APP_RIDER"):
     """
     Entry point. Called by the AI voice agent via webhook when a call ends.
     
@@ -118,6 +159,8 @@ def handle_webhook(transcript, summary="", customer_number="", caller_name=""):
         summary: AI-generated summary (what customer wanted)
         customer_number: caller's phone number (if available)
         caller_name: caller's name if captured
+        location: customer's drop-off landmark (if captured) — always ask
+        delivery_type: 'OUR_RIDERS' (trusted, pay-on-delivery OK) or 'APP_RIDER' (Yango/Uber, pay-before only). Default APP_RIDER = safest.
     """
     inventory = load_inventory()
     
@@ -147,40 +190,39 @@ def handle_webhook(transcript, summary="", customer_number="", caller_name=""):
     call_id = log_call(transcript, summary, [m[1].get("name") for m in matches], action, customer_number)
     log_lead(customer_number or "unknown", summary or transcript[:200], matches, call_id)
     
-    # Generate team message
-    team_msg_lines = [
-        f"📞 Phone Inquiry - {caller_name or customer_number or 'Unknown'}",
-        f"📋 {summary or 'No summary'}",
+    # Build the JOHN ACTION TICKET (the WhatsApp task sent to John to execute).
+    # Format per H (19/10/26): "customer wants X, location is X, WhatsApp contact X — need to fulfil."
+    # Always includes the dispatch/payment rule + the deliver-type so John packs right.
+    ticket_lines = [
+        "🔨 JOHN — ACTION TICKET (fulfil this order)",
+        f"👤 Customer: {caller_name or customer_number or 'caller'}" ,
+        f"📞 Customer WhatsApp: {customer_number or '(ask for number)'}",
+        f"📦 Customer wants: {_extract_items(summary or transcript, matches)}",
+        f"📍 Customer location: {location or '(ASK — nearest Accra/Tema landmark, not just town)'}",
+        f"🚚 Delivery: {delivery_type}",
     ]
-    
-    if matches:
-        team_msg_lines.append("")
-        team_msg_lines.append("📦 Matched Inventory:")
-        for score, item in matches[:3]:
-            stock_status = f"{item.get('stock')} in stock" if int(item.get("stock",0)) > 0 else "OUT OF STOCK"
-            price = float(item.get("price",0))
-            name = item.get("name","?")
-            team_msg_lines.append(f"  • {name} — GHS {price:,.0f} ({stock_status})")
-    
-    team_msg_lines.append("")
+    ticket_lines.append("")
+    ticket_lines.append("✅ YOUR JOB: pick + pack this item, organise the delivery, meet the customer/rider on handover.")
+    ticket_lines.append("🧾 Organise + label as part of your standard duties.")
     if action == "IN_STOCK":
-        team_msg_lines.append("✅ IN STOCK — Ready to quote customer")
+        ticket_lines.append("🟢 IN STOCK on Jiji — pack from shelf.")
     elif action == "SOURCE":
-        team_msg_lines.append("🔍 OUT OF STOCK — John to source UK comparables")
+        ticket_lines.append("🟠 NOT on Jiji — find/source UK comparable, then confirm price with H before quoting.")
     else:
-        team_msg_lines.append("❓ NOT IN SYSTEM — Team to check if we can source")
+        ticket_lines.append("⚪ Not matched to a listing — ask customer for the exact item, then confirm with H.")
+    ticket_lines.append("")
+    ticket_lines.append(_PAYMENT_RULE(delivery_type))
+    ticket_lines.append(f"Call ID: {call_id}")
     
-    team_msg_lines.append(f"Call ID: {call_id}")
-    
-    print("=== TEAM MESSAGE ===")
-    print("\n".join(team_msg_lines))
+    print("=== JOHN ACTION TICKET ===")
+    print("\n".join(ticket_lines))
     print("=== END ===")
     
     return {
         "call_id": call_id,
         "action_needed": action,
         "matches": [m[1].get("name") for m in matches],
-        "team_message": "\n".join(team_msg_lines)
+        "team_message": "\n".join(ticket_lines)
     }
 
 # ─── CLI ────────────────────────────────────────────────────────────────────

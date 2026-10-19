@@ -1,0 +1,46 @@
+ALREADY POSTED 16533438
+ALREADY POSTED 13930338
+posting 13393379 | Mophie 3 in 1 Wireless Charging Pad From Uk — UK Imported, Quality Checked | 750 | cat: Tools | cond: USED | photo: C:\Users\User\.hermes\workspace\Vault\business\2real\2real-agent\channel_upload_package\photos\13393379_v13393379.jpg
+desc: '3-in-1 wireless charging stand for iPhone/Apple Watch/AirPods, up to 15W fast charge Pre-owned, fully tested.\n\nNo credit' ...
+attempt 0 -> PUBLISHED
+LOGGED 13393379
+posting 12392972 | Magnum Plus Moto Rogue Chain With Rotary Lock 110cm X 8mm — UK Imported, Quality Checked | 730 | cat: Tools | cond: USED | photo: C:\Users\User\.hermes\workspace\Vault\business\2real\2real-agent\channel_upload_package\photos\12392972_v12392972.jpg
+desc: '8mm hardened steel square links, rotary lock, fits e-bikes & scooters, 110cm Used condition - inspected and working.\n\nNo' ...
+attempt 0 -> PUBLISHED
+LOGGED 12392972
+posting 16769534 | Magnum Plus Rogue 1.8 Heavy Duty Chain With Rotary Lock (180cm X 8mm) | 730 | cat: Tools | cond: USED | photo: C:\Users\User\.hermes\workspace\Vault\business\2real\2real-agent\channel_upload_package\photos\16769534_v16769534.jpg
+desc: '8mm hardened steel square links resist bolt cutters, stainless rotary lock, 180cm Used, tested and working.\n\nStrictly Mo' ...
+attempt 0 -> PUBLISHED
+LOGGED 16769534
+posting 16732025 | SilverCrest Kitchen Tools Vacuum Sealer 125W Model SV 125 C3 — UK Imported, Quality Checked | 730 | cat: Tools | cond: USED | photo: C:\Users\User\.hermes\workspace\Vault\business\2real\2real-agent\channel_upload_package\photos\16732025_v16732025.jpg
+desc: '125W vacuum sealer, heat-seals food bags for fridge/freezer storage, model SV 125 C3 Good used condition - quality check' ...
+attempt 0 -> PUBLISHED
+LOGGED 16732025
+posting 12481309 | Ring Powersource Car Inverter With 2.1a USB 150w — Brand New — UK Imported, Quality Checked | 720 | cat: Tools | cond: NEW | photo: C:\Users\User\.hermes\workspace\Vault\business\2real\2real-agent\channel_upload_package\photos\12481309_v12481309.jpg
+desc: '150W compact inverter, converts 12V DC to 230V mains, 2.1A USB port, model RINVU150 Brand new, unused stock.\n\nNo credit ' ...
+attempt 0 -> PUBLISHED
+LOGGED 12481309
+posting 16298321 | Genuine Kilner Preserver Bottle From Uk 12pcs — UK Imported, Quality Checked | 720 | cat: Tools | cond: USED | photo: C:\Users\User\.hermes\workspace\Vault\business\2real\2real-agent\channel_upload_package\photos\16298321_v16298321.jpg
+desc: 'Kilner 1L square clip-top glass preserving bottles, airtight, for drinks & sauces, 12 pcs Pre-owned, fully tested.\n\nNo c' ...
+attempt 0 -> PUBLISHED
+LOGGED 16298321
+posting 16696171 | Cobra MicroTalk PMR446 Two-Way Walkie Talkies — UK Imported, Quality Checked | 720 | cat: Tools | cond: USED | photo: C:\Users\User\.hermes\workspace\Vault\business\2real\2real-agent\channel_upload_package\photos\16696171_v16696171.jpg
+desc: 'Two-way radios, up to 3km range, 8 channels, 38 CTCSS privacy codes, backlit LCD, water resistant Good used condition - ' ...
+attempt 0 -> PUBLISHED
+LOGGED 16696171
+posting 16580709 | Black and Decker Heavy Duty Circular Saw 960W — UK Imported, Quality Checked | 700 | cat: Tools | cond: USED | photo: C:\Users\User\.hermes\workspace\Vault\business\2real\2real-agent\channel_upload_package\photos\16580709_v16580709.jpg
+desc: '230V corded circular saw, wood cutting, brand new blade fitted, heavy duty base plate Used condition - inspected and wor' ...
+attempt 0 -> PUBLISHED
+LOGGED 16580709
+
+BATCH SUMMARY:
+  16533438: skipped
+  13930338: skipped
+  13393379: published
+  12392972: published
+  16769534: published
+  16732025: published
+  12481309: published
+  16298321: published
+  16696171: published
+  16580709: published
