@@ -34,6 +34,10 @@
 
 ## Active
 
+* [ ] **[construction | HIGH]** — Check the generator and the cement mixer
+  → Notes: Inspect/verify condition (per H 19/10/26)
+  → Due: 2026-10-19
+
 * [ ] **[business | HIGH]** — Bring all tools home
   → Notes: Consolidate tools from the shop to home (per H 19/10/26)
   → Due: 2026-10-19
@@ -45,6 +49,26 @@
 * [ ] **[personal | HIGH]** — Buy petrol
   → Notes: Fuel for the Kia / travel
   → Due: 2026-10-19
+
+* [ ] **[personal | HIGH]** — Gomi
+  → Notes: To do today (H 19/10/26)
+  → Due: 2026-10-19
+
+* [ ] **[family | MEDIUM]** — Call Jnr
+  → Notes: Check-in call
+  → Due: 2026-10-19
+
+* [ ] **[finance | HIGH]** — Rent due (19th)
+  → Notes: Rent payment for the 19th
+  → Due: 2026-10-19
+
+* [ ] **[finance | HIGH]** — Rent due (21st)
+  → Notes: Rent payment for the 21st
+  → Due: 2026-10-21
+
+* [ ] **[business | MEDIUM]** — Work (21st)
+  → Notes: Work scheduled for the 21st
+  → Due: 2026-10-21
 
 * [ ] **[personal | HIGH]** — Put dP on car
   → Notes: Car maintenance - dP (display panel?) needs installation

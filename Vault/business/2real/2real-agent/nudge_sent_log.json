@@ -1382,5 +1382,165 @@
   "timestamp": "2026-10-17 12:01:12",
   "state": "skipped",
   "note": "duplicate lead - user already nudged once on another ad (one nudge per lead EVER)"
+ },
+ {
+  "name": "Francis Gbedivlo",
+  "user_id": 3249532,
+  "chat_id": "3249532_16734491",
+  "timestamp": "2026-10-20 05:08:58",
+  "state": "errant-sent",
+  "note": "MISDIRECTED: Rebecca(nurse) nudge was sent into Francis(Fujifilm) thread by error on 20Oct. Marked contacted - do NOT resend nudge to Francis."
+ },
+ {
+  "name": "Rebecca Monney",
+  "user_id": 1993884,
+  "chat_id": "1993884_15088976",
+  "timestamp": "2026-10-20 05:09:47",
+  "state": "sent",
+  "note": "nudge sent to correct thread 20Oct (verified)"
+ },
+ {
+  "name": "kofi appiah",
+  "user_id": 200862,
+  "chat_id": "200862_16614632",
+  "timestamp": "2026-10-20 05:10:23",
+  "state": "sent",
+  "sent": "enter"
+ },
+ {
+  "name": "Mavis Lokpo",
+  "user_id": 5576874,
+  "chat_id": "5576874_15088976",
+  "timestamp": "2026-10-20 05:10:38",
+  "state": "sent",
+  "sent": "enter"
+ },
+ {
+  "name": "Nana Kwame",
+  "user_id": 1318145,
+  "chat_id": "1318145_11658214",
+  "timestamp": "2026-10-20 05:10:54",
+  "state": "sent",
+  "sent": "enter"
+ },
+ {
+  "name": "Mr Mensah",
+  "user_id": 6609253,
+  "chat_id": "6609253_15088976",
+  "timestamp": "2026-10-20 05:11:09",
+  "state": "sent",
+  "sent": "enter"
+ },
+ {
+  "name": "Ntsri Emmanuel",
+  "user_id": 1975190,
+  "chat_id": "1975190_16524767",
+  "timestamp": "2026-10-20 05:11:27",
+  "state": "sent",
+  "sent": "enter"
+ },
+ {
+  "name": "Bright Opuni",
+  "user_id": 6661886,
+  "chat_id": "6661886_14354425",
+  "timestamp": "2026-10-20 05:11:42",
+  "state": "sent",
+  "sent": "enter"
+ },
+ {
+  "name": "Paa Kwesi Andoh",
+  "user_id": 11362,
+  "chat_id": "11362_9661450",
+  "timestamp": "2026-10-20 05:12:11",
+  "state": "sent",
+  "sent": "enter"
+ },
+ {
+  "name": "upjohn kofi",
+  "user_id": 2662105,
+  "chat_id": "2662105_16356333",
+  "timestamp": "2026-10-20 05:12:26",
+  "state": "sent",
+  "sent": "enter"
+ },
+ {
+  "name": "Storm Tek",
+  "user_id": 1348946,
+  "chat_id": "1348946_14505059",
+  "timestamp": "2026-10-20 05:12:42",
+  "state": "sent",
+  "sent": "enter"
+ },
+ {
+  "name": "Klutse Randy Atta",
+  "user_id": 6661617,
+  "chat_id": "6661617_16613155",
+  "timestamp": "2026-10-20 05:12:58",
+  "state": "sent",
+  "sent": "enter"
+ },
+ {
+  "name": "Nana Kwame",
+  "user_id": 3604110,
+  "chat_id": "3604110_14517695",
+  "timestamp": "2026-10-20 05:13:14",
+  "state": "sent",
+  "sent": "enter"
+ },
+ {
+  "name": "King J",
+  "user_id": 1092068,
+  "chat_id": "1092068_16766131",
+  "timestamp": "2026-10-20 05:13:30",
+  "state": "sent",
+  "sent": "enter"
+ },
+ {
+  "name": "Samuel Darko",
+  "user_id": 5006237,
+  "chat_id": "5006237_16321097",
+  "timestamp": "2026-10-20 05:13:55",
+  "state": "sent",
+  "sent": "enter"
+ },
+ {
+  "name": "Baulplex Energy",
+  "user_id": 6517806,
+  "chat_id": "6517806_16749606",
+  "timestamp": "2026-10-20 05:14:11",
+  "state": "sent",
+  "sent": "enter"
+ },
+ {
+  "name": "Emmanuelle Amoah",
+  "user_id": 1379751,
+  "chat_id": "1379751_11757539",
+  "timestamp": "2026-10-20 05:14:27",
+  "state": "sent",
+  "sent": "enter"
+ },
+ {
+  "name": "Ashleyn Livingstone",
+  "user_id": 6660810,
+  "chat_id": "6660810_15218455",
+  "timestamp": "2026-10-20 05:14:44",
+  "state": "sent",
+  "sent": "enter"
+ },
+ {
+  "name": "Emma GM",
+  "user_id": 401227,
+  "chat_id": "401227_16791434",
+  "timestamp": "2026-10-20 05:15:01",
+  "state": "sent",
+  "sent": "enter"
+ },
+ {
+  "name": "Obed Serkwah Adi",
+  "user_id": 5527908,
+  "chat_id": "5527908_12353903",
+  "timestamp": "2026-10-20 05:15:17",
+  "state": "sent",
+  "sent": "enter"
  }
 ]

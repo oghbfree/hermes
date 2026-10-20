@@ -2029,5 +2029,58 @@
       "unknown_count": 0
     },
     "saved_at": "2026-10-18T09:10:46.180963"
+  },
+  {
+    "date": "2026-10-19",
+    "trends": {
+      "total_inquiries": 1016,
+      "unresolved_count": 0,
+      "top_keywords": [
+        {
+          "word": "received",
+          "count": 250
+        },
+        {
+          "word": "image",
+          "count": 207
+        },
+        {
+          "word": "okay",
+          "count": 53
+        },
+        {
+          "word": "good",
+          "count": 49
+        },
+        {
+          "word": "morning",
+          "count": 29
+        },
+        {
+          "word": "one",
+          "count": 24
+        },
+        {
+          "word": "video",
+          "count": 21
+        },
+        {
+          "word": "pls",
+          "count": 21
+        },
+        {
+          "word": "sir",
+          "count": 21
+        },
+        {
+          "word": "jack",
+          "count": 21
+        }
+      ],
+      "items_in_stock_missed": [],
+      "items_customers_want_not_in_stock": [],
+      "unknown_count": 0
+    },
+    "saved_at": "2026-10-19T06:34:54.005927"
   }
 ]

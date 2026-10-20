@@ -29,6 +29,15 @@
 - **Platforms:** Customers can request Yango/Bolt/Uber themselves, or H arranges it
 - **Outside Accra:** Rider takes item to the relevant transport station, books it in. Customer pays for item at that point. Customer gets vehicle number or receipt to collect at their destination station
 
+## 💰 Ben — Farm worker + gardening-equipment debtor
+- **Also on record as:** Farm Manager / experienced farmer at **Senya Beraku** (+233 24 412 0093), on-site daily, trusted advisor (see `Vault/business/farm/contacts.md`, OPERATIONS_PROTOCOL).
+- **Owes 1,300 GH₵** for gardening equipment
+- **Working it off:** seems available + keen to do jobs; wants to subtract from the money owed
+- **Already helped** move things from warehouse → house (1 mile away)
+- **Watch:** he's chipping away at the debt via labour. Decide the rate per job (AGREE upfront, in writing/WhatsApp) so the 1,300 reduces by a known amount each job — otherwise the debt can drift without a clear settlement.
+- Suggested line: "Thanks for helping with the move — let's set it at X GH₵ off your 1,300 for that. That leaves you owing ___." Keep a running balance.
+
 ## 🎯 Notes
 - Frederick's repair loop + condemned buyer floor = negative-cost inventory
 - Toy customers (Blessed, Hajia) — potential repeat buyers for kids' items
+- Sammy: Monday-sick pattern + 900 GH₵ TV debt (3 installments)

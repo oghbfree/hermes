@@ -18,15 +18,32 @@ import json, os, re, shutil, subprocess, csv, urllib.request
 PKG = r'C:\Users\User\.hermes\workspace\Vault\business\2real\2real-agent\channel_upload_package'
 FB_CRON, WA_CRON = '5128ceaa2c09', '18cee69a1011'
 # Top-seller Gorilla SKU patterns (sales-log proven). Front these first.
+# Proven-seller front-load patterns (from daily-sales-log / margin history).
+# Sales-log proven lines are front-loaded so the posting crons list them first.
+#   Gorilla range : 85-90%+ margin, high repeat rate (sales-log proven 8-19 Oct)
+#   Berkey        : 2200 sold on £7 cost (96% margin, 19/10/26)
+#   Bosch (tools) : 1580 sold on £30 cost, strong walk-in/Jiji (19/10/26 + prior)
 GORILLA_WANT = (
     'grab adhesive', 'super glue', 'contact adhesive', 'epoxy',
     'mounting tape', 'glue original', 'wood glue',
 )
+PROVEN_WANT = {
+    # brand keyword -> matched against meta_feed brand column (lower), AND title
+    'berkey':  ('berkey',),
+    'bosch':   ('bosch', 'bosch drill', 'bosch jigsaw', 'bosch sander', 'bosch paint', 'bosch pst', 'bosch gbh'),
+    'gorilla': GORILLA_WANT,
+}
+# Score for front-loading: higher = posts first
+PROVEN_SCORE = {
+    'gorilla': 999.0,
+    'berkey':  990.0,
+    'bosch':   980.0,
+}
 _GORILLA_URLS = None  # lazy cache of {jiji_id: (title, image, price)} from meta_feed
 
 
-def _gorilla_feed():
-    """{jiji_id: (title, image_url, price)} for Gorilla rows, from meta_feed_full.csv."""
+def _proven_feed():
+    """{jiji_id: (title, image_url, price, brand)} for proven-seller rows (Gorilla/Berkey/Bosch), from meta_feed_full.csv."""
     global _GORILLA_URLS
     if _GORILLA_URLS is not None:
         return _GORILLA_URLS
@@ -36,37 +53,51 @@ def _gorilla_feed():
         with open(feed, encoding='utf-8') as f:
             for row in csv.reader(f):
                 # columns: id, title, desc, condition, status, price, url, image, brand
-                if len(row) >= 9 and 'gorilla' in (row[8] or '').lower():
-                    try:
-                        jid = int(float(row[0]))
-                    except (ValueError, TypeError):
-                        continue
-                    out[jid] = (row[1], row[7], row[5])
+                if len(row) >= 9:
+                    brand = (row[8] or '').lower()
+                    title = (row[1] or '').lower()
+                    # keep proven-seller brands (gorilla OR berkey OR bosch)
+                    if brand in ('gorilla', 'berkey', 'bosch') or any(
+                            w in title for w in ('berkey', 'bosch',) + GORILLA_WANT):
+                        try:
+                            jid = int(float(row[0]))
+                        except (ValueError, TypeError):
+                            continue
+                        out[jid] = (row[1], row[7], row[5], row[8])
     _GORILLA_URLS = out
     return out
 
 
 def gorilla_front(batch2, fb):
-    """Prepend proven-seller Gorilla SKUs not yet posted / not already in batch, with photos."""
-    feed = _gorilla_feed()
+    """Prepend ALL proven-seller SKUs (Gorilla/Berkey/Bosch) not yet posted / not already in batch, with photos.
+    Higher proven-score = posts first (Gorilla > Berkey > Bosch)."""
+    feed = _proven_feed()
     in_batch = {x['jiji_id'] for x in batch2}
     imgdir = os.path.join(PKG, 'photos')
     os.makedirs(imgdir, exist_ok=True)
     fresh = []
-    for jid, (title, image, price) in feed.items():
+    for jid, (title, image, price, brand) in feed.items():
         if jid in fb or jid in in_batch:
             continue
         tl = title.lower()
-        if not any(w in tl for w in GORILLA_WANT):
+        bl = (brand or '').lower()
+        score = None
+        for sname, kw_tups in PROVEN_WANT.items():
+            if sname == 'gorilla':
+                if any(w in tl for w in kw_tups):
+                    score = PROVEN_SCORE['gorilla']; break
+            else:
+                # brand match on brand column OR title
+                if any(w in tl for w in kw_tups) or (sname in bl):
+                    score = PROVEN_SCORE[sname]; break
+        if score is None:
             continue
-        # price: meta_feed is "200.00 GHS" -> strip to int
         try:
             px = int(float(re.sub(r'[^0-9.]', '', price)))
         except ValueError:
             continue
         if not image:
             continue
-        # ensure local photo exists
         photo = os.path.join(imgdir, '%d.jpg' % jid)
         if not os.path.exists(photo):
             try:
@@ -77,7 +108,7 @@ def gorilla_front(batch2, fb):
                 print('  photo dl fail %d: %s' % (jid, e))
                 continue
         fresh.append({'jiji_id': jid, 'title': title, 'price': px,
-                      'image': image, 'url': 'https://jiji.com.gh', 'score': 999.0})
+                      'image': image, 'url': 'https://jiji.com.gh', 'score': score})
     return fresh + batch2
 
 def jload(p): return json.load(open(p, encoding='utf-8'))

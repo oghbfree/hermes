@@ -24,6 +24,43 @@ BUSINESS = {
     "location": "Dome Market, Accra / Pickup: Oyarifa",
     "terms": "MoMo or cash only — no credit. No discounts without approval.",
 }
+LEDGER_FILE = os.path.abspath(os.path.join(ROOT, "..", "item_location_ledger.json"))
+
+
+def ledger_sync(jiji_id, *, location=None, sold=False):
+    """Keep the item_location_ledger.json in sync with the catalog_app.
+    - location: set the physical bag/box zone on the ledger record.
+    - sold: mark the ledger record SOLD (so the daily jiji-ledger report drops it).
+    Best-effort: if the ledger file doesn't exist yet, silently skip (ledger is optional until seeded)."""
+    if not os.path.exists(LEDGER_FILE):
+        return
+    try:
+        recs = json.load(open(LEDGER_FILE, encoding="utf-8"))
+    except Exception:
+        return
+    changed = False
+    for r in recs:
+        if str(r.get("jiji_id")) == str(jiji_id):
+            if location is not None:
+                r["location"] = location
+                if r.get("status") == "TO_TEST" and location:
+                    r["status"] = "TO_TEST"  # keep needing test; location now known
+                changed = True
+            if sold:
+                r["status"] = "SOLD"
+                changed = True
+            break
+    if changed:
+        try:
+            json.dump(recs, open(LEDGER_FILE, "w", encoding="utf-8"), indent=2, default=str)
+        except Exception:
+            pass
+
+
+def mark_sold_ledger(jiji_id):
+    ledger_sync(jiji_id, sold=True)
+
+
 INVOICE_DIR = os.path.join(ROOT, "receipts")
 os.makedirs(INVOICE_DIR, exist_ok=True)
 
@@ -369,6 +406,7 @@ class Handler(BaseHTTPRequestHandler):
                 it["canonical_price"] = float(body["canonical_price"])
             if body.get("location") is not None:
                 it["location"] = body["location"]
+                ledger_sync(str(it.get("jiji_id")), location=body["location"])   # sync ledger zone
             if body.get("qty") is not None:
                 it["_qty"] = int(body["qty"])
                 it["_close_ad"] = it["_qty"] <= 0
@@ -382,6 +420,7 @@ class Handler(BaseHTTPRequestHandler):
             it["_qty"] = qty
             it["_close_ad"] = qty <= 0
             save(items)
+            mark_sold_ledger(str(it.get("jiji_id")))   # sync ledger -> SOLD
             return self._send(200, json.dumps({"item": it}), "application/json")
 
         if self.path == "/api/receipt":
@@ -406,6 +445,8 @@ class Handler(BaseHTTPRequestHandler):
                     q = max(0, q - int(ln.get("qty") or 1))
                     it2["_qty"] = q
                     it2["_close_ad"] = q <= 0
+                    if q <= 0:
+                        mark_sold_ledger(str(it2.get("jiji_id")))   # sync ledger -> SOLD
             save(items)
             import datetime
             total = sum(float(l.get("price") or 0) * int(l.get("qty") or 1) for l in lines)

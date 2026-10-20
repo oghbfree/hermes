@@ -1,8 +1,21 @@
 # Real Estate Portfolio — Master File
 
-**Last updated:** 8/9/26
+**Last updated:** 19/10/26
 **Owner:** H (Oman Herbert Blankson)
 **Consolidated from:** archive/real-estate-insights.md, archive/property-deal-21-19.md, business/construction/*, handwritten notes
+
+---
+
+## RENT COLLECTION SCHEDULE (UK — as reported 19/10/26)
+
+| Property | When tenants pay | Latest payments received | Notes |
+|----------|------------------|--------------------------|-------|
+| **@15 (Property 15)** | ~17th (tenant 2); **22nd** (tenant 1); 3rd tenant ~around 17th | **3rd tenant £500** · **2nd tenant £872** (Oct 26) | 1st tenant pays 22nd |
+| **@14 (Croydon)** | 1st of month | — | Rooms 2 & 3 = £872 |
+| **@21 (21A Philip Walk)** | 1st of month | — | |
+| **@19 (19 Melford Court)** | — | **EMPTY** (tenants left 10 Sept) | Re-let or sell pending |
+
+**Reminder pattern:** 15 and 14/21 pay early in the month; 15's tenants pay mid/late (~17th & 22nd). Set reminders just before each to chase as needed.
 
 ---
 
