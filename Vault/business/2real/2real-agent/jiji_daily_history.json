@@ -3428,5 +3428,91 @@
     ],
     "date": "2026-10-19",
     "saved_at": "2026-10-19T06:34:53.948521"
+  },
+  {
+    "active": 1310,
+    "reviewing": 0,
+    "draft": 0,
+    "declined": 1,
+    "closed": 135,
+    "followers": 338,
+    "feedback": 209,
+    "clients": 1,
+    "top_remaining": "500 of 500",
+    "top_expires": "16/12/26",
+    "whatsapp_ads_active": false,
+    "whatsapp_ads_until": "ended 17 Oct - needs renew",
+    "balance_ghs": 0,
+    "top_items": [
+      {
+        "name": "KitchenAid Artisan Food Processor",
+        "price": 1100,
+        "impressions": 297,
+        "visitors": 51,
+        "chats": 0
+      },
+      {
+        "name": "Tunturi E301 Rowing Machine",
+        "price": 1400,
+        "impressions": 147,
+        "visitors": 28,
+        "chats": 0
+      },
+      {
+        "name": "Marvin's Magic Executive Trick Set",
+        "price": 230,
+        "impressions": 139,
+        "visitors": 11,
+        "chats": 0
+      },
+      {
+        "name": "Modular Cold Room Insulated Sandwich Panels",
+        "price": 40000,
+        "impressions": 138,
+        "visitors": 30,
+        "chats": 3
+      },
+      {
+        "name": "Keter Go Bar 2-in-1 Cooler Side Table",
+        "price": 800,
+        "impressions": 116,
+        "visitors": 12,
+        "chats": 0
+      },
+      {
+        "name": "Ryobi Chainsaw Protective Gloves",
+        "price": 300,
+        "impressions": 116,
+        "visitors": 26,
+        "chats": 0
+      },
+      {
+        "name": "Stanley Classic 99E Utility Knife",
+        "price": 140,
+        "impressions": 114,
+        "visitors": 19,
+        "chats": 0
+      },
+      {
+        "name": "Rentokil Advanced Mouse Trap",
+        "price": 170,
+        "impressions": 78,
+        "visitors": 15,
+        "chats": 0
+      }
+    ],
+    "needs_attention": [
+      "KitchenAid Artisan Food Processor - 297 impressions, 0 chats (high traffic, no sales)",
+      "Tunturi E301 Rowing Machine - 147 impressions, 0 chats",
+      "Marvin's Magic Executive Trick Set - 139 impressions, 0 chats",
+      "1 ad declined - fix/re-list"
+    ],
+    "action_items": [
+      "Renew WhatsApp ads - ended 17 Oct",
+      "Nudge top traffic items (KitchenAid, Tunturi, Marvin Magic) that have 0 chats",
+      "Check/fix the declined ad"
+    ],
+    "date": "2026-10-20",
+    "saved_at": "2026-10-20T06:36:40.789744"
   }
 ]

@@ -190,6 +190,14 @@
 
 ---
 
+## 2026-10-20 (Tue)
+
+### 🌅 Morning Health Check
+- **Status:** 🔴 DATA GAP — food diary last logged **28 Sep**, now **22 days silent** (29 Sep–20 Oct); red until restored. 🔴 **Renerve Plus supply still ZERO** — pack finished 28 Sep, tremor unmedicated **22 days; reorder still pending** (Pharmabay ~295 GH). 🔴 **31 Aug post-shock follow-up outcome still undocumented, now 50 days** — confirm attended & log tremor/X-ray/labs. 🔴 **Blood-work labs (1,075 GH panel) still PENDING** — requisition photo never reached Nita; blood work stays 6+ yrs stale until drawn. 🔔 **Dental appointment Mon 12 Oct (10:30am) — outcome still NOT logged, now 8 days**; confirm attended & whether Renerve reorder + lab chase happened there. 🟡 Watch: recurring AM headaches + sinus (22 Sep onset, no new logging since 29 Sep) — ibuprofen 400 mg daily carries achalasia/GI + kidney risk until labs run; left-arm tremor unmedicated in the gap; **no fresh vitals since 24 Aug (57 days)**; toenail fungus on Candid lotion. 🟢 Stable: no new acute onset since 29 Sep; no chest pain; no dysphagia episodes; pericarditis quiescent; vitals normal at 24 Aug visit. ACTION: **confirm & log Monday's dental outcome** (attended? Renerve reordered? labs chased?), reorder Renerve (tremor unmonitored 22 days), run the pending labs (kidney safety net for ibuprofen), take a fresh BP/pulse reading, book/confirm the 31 Aug review outcome, resume meal logging. For AM headaches: steam + warm compress + salt-water gargle + stop eating 3h before bed (reflux worsens phlegm) before reaching for ibuprofen.
+- **Check-in:** Asked H about breakfast, energy, symptoms
+
+---
+
 *New entries appended here by cron jobs and weekly reviews. See also `Vault/family/H/health/H_FOOD_MASTER.md` for detailed meal records and `Vault/family/H/H_PROFILE.md` for personal/business profile.*
 
 ---

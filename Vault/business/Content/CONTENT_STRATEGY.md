@@ -77,6 +77,25 @@ Strategy layer feeding `CONTENT_CALENDAR.md`. Every post maps to a pillar + a mi
 
 ---
 
+## 5b. SETH GODIN MARKETING PRINCIPLES (owner-mandated 20/10/26 — applies to EVERY post, both brands)
+
+> **Marketing = telling a true story that helps people reach their desired outcome so effectively they tell others.** (Not hustle, hype, or interruption.)
+
+**Non-negotiable for every post:**
+1. **NO cheap-pizza trap.** Never open with price. Hook = the OUTCOME/VALUE (job done right, kid's build working). Price supports (in the itemised list / closer), never headlines.
+2. **Smallest Viable Audience (SVA).** Every post targets ONE specific segment (name it in the first line). Never "appeal to everyone."
+3. **3 core desires — every post serves ONE:** Freedom-from-fear / Status / Affiliation. Set it in the per-post YAML (`desire:`).
+4. **Consistency over authenticity.** Reliable promise kept every time: CTA 0204252252, honest condition, tested-working, dependable delivery. Never a bad-day/hype post.
+5. **Empathy over technical feat.** Solve the customer's human problem; don't beg admiration for how goods were sourced.
+
+**Brand applications:** 2Real = honest tools that let a Ghanaian tradesperson do the job right + be proud (Status + Affiliation + Freedom-from-fear). Akoma = a child's curiosity built by hand that works (Affiliation + joy) — outcome, not spec sheet.
+
+**5-step process check** (every campaign): 1) thing worth making + story worth telling → 2) for a SMALL group → 3) story matching their narrative ("people like us do things like this") → 4) built-in viral mechanics (testimonial ask, shareable win) → 5) show up regularly/consistently/generously for years.
+
+Full doc: `Vault/business/Content/SETH_GODIN_MARKETING_PRINCIPLES.md`.
+
+---
+
 ## 6. Per-Post Schema (every asset follows this)
 
 ```yaml
@@ -86,9 +105,12 @@ platform: "instagram"
 content_type: "reel"          # reel | carousel | single | post | article | broadcast
 content_pillar: "Craft & Technique"   # from section 3
 mix_category: "Educational"   # Educational|Engaging|Promotional|BTS
+sva_audience: "the tradesperson who owns cheap tools"   # ONE named segment (SVA rule)
+desire: "freedom-from-fear"   # freedom-from-fear | status | affiliation (Godin rule)
 
 caption: |
   Full platform-native caption.
+  FIRST LINE names who it's for + the outcome/win (never price).
   Hook in first line (Instagram first 125 chars / LinkedIn first line / TikTok hook 1-3s).
 
 hashtags:

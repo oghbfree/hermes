@@ -65,6 +65,7 @@ Append one line per day. The 4:30 AM briefing reads this file.
 | 17/10/26 |  | 810 | Walk-in: wheelchair (430). Jiji: Power Devil Hammer Drill 420W (380) | Sat market day. **Neighbour's bulk clearance: her goods sold ~5,000 to a wholesaler (medium Kia Bongo truckful via Yango) — potential outlet for OUR dead stock too** |
 | 18/10/26 |  | 1,050 | 255 | 76% | Jiji: **Piano Paradise** — Gorilla Wood Glue 118ml ×2 @200 + 236ml ×1 @200 (discounted) = 600. **Bought 2nd cus** — Masterplug Weatherproof Outdoor Double Socket 15m = 450 | Both delivered by **Yango**. Piano Paradise invoice INV-PIA-20261018; 2nd invoice INV-CSH-20261018. COGS £17 (glue £7 + socket £10) @15 = 255. Gross profit 795 |
 | 19/10/26 |  | 4,330 | 660 | 85% | Jiji: **Berkey** Stainless Steel Countertop Water Filter (2,200, cost £7). **Xoopar** Geo Wireless Mouse Plus (200, £3). **Bosch** Paint Sprayer Electric (1,580, £30). **Stanley** Retractable Knife 010778 (350, £4) | 4 sales, all Jiji. COGS £44 @15 = 660. **Gross profit 3,670, 85% margin.** Berkey + Bosch = high-value. |
+| 20/10/26 |  | 810 | 245 | 70% | Walk-in: 2× spray paint (20), Boatemaa's friend — light + 2× extension plug blocks (50), pharmacist — Bosch 680 drill (700), 1× small Kilner bottle (30), 1× spray paint (10) | Walk-in only. COGS £16.30 @15 = 245 (sprays 40p ea=£0.80, friend £3, Bosch £12, Kilner 50p). **Jiji online: act ICT — 500W inverters @1,000 each, -3% VAT adj (not VAT-registered) = 970 each; QUANTITY NOT STATED — add to total once confirmed** |
 | 23/08/26 |  | — |  | Closed |
 | 24/08/26 |  | — |  | Closed |
 

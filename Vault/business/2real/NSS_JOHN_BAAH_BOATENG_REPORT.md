@@ -49,8 +49,7 @@ real operational responsibility — organizing inventory picking & packing, coor
 customer deliveries (both within Accra/Tema and outside), and overseeing the listing
 and testing of goods. He demonstrated strong initiative and good professional
 proficiency, learning the business's systems quickly and handling stock organization
-with care. Attendance and punctuality were generally good, with occasional absences
-which were granted permission. He is leaving on his own accord at the end of his
+with care. Attendance and punctuality were generally good. He is leaving on his own accord at the end of his
 service year.
 
 **12. IN THE LIGHT OF YOUR ASSESSMENT, DO YOU RECOMMEND THIS PERSONNEL FOR THE AWARD OF CERTIFICATE?**

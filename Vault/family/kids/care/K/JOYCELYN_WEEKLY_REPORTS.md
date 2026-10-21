@@ -4,6 +4,53 @@
 
 ---
 
+# WEEK 3 ENTRY — 12–16 Oct 2026 (photos received 20/10)
+
+## Kobena — Speech & Communication Daily Log (12–16 Oct)
+- **Targets:** WH questions (who/what/where/when) · Yes/No questions · personal questions (name, age, school) · complete sentences · initiating conversations · responding appropriately · reducing word/phrase repetition · naming & describing objects · reading aloud with appropriate voice · following verbal instructions
+- **Next target:** answer WH (where) questions; using Yes/No appropriately
+- **Strengths:** responded positively to visual support; showed interest in learning activities; responded well to greetings
+- **Needs continued support:** WH questions · personal questions (age, school) · eye contact when speaking · complete sentences
+- **Note:** "Please read the other side of the page" → the Recommendation for Parents sheet (below) is the reverse side.
+- Facilitator signed; parent signature blank.
+
+## Kobena — Recommendation for Parents (reverse side of his log)
+- Practise simple questions ("Where are you going?"). **Wait 5–10 seconds processing time** for Kobena to respond.
+- If no response, give a clue: "I am going to…"
+- If still needed, model the full answer: "I am going to school."
+- Encourage Kobena to **look towards the person speaking** when answering.
+
+## Nenyi — Speech & Communication Daily Log (12–16 Oct)
+- **Targets ticked:** /sh/ sound (ship, shoe, shop) · /k/ sound practice in words · speaking in complete sentences · answering simple questions · clear voice · reading short sentences aloud · correct pronunciation
+- **Next target:** answer wh- questions using full sentences
+- **Strengths:** improved /sh/ production in words; read aloud confidently with minimal support
+- **Needs continued support:** consistent /sh/ production in conversation
+- **Home practice:** 10 words containing /sh/; encourage pronouncing the ends of words when speaking/reading
+- Facilitator signed (J.E.G); parent signature blank.
+
+## Nenyi — Kansview Montessori Basic Five 'B' timetable (photo_5)
+| Day | 8–9 | 9–10 | 10:30–11:30 | 11:30–12 | 12:30–1 | 1–2 | 2–3 |
+|---|---|---|---|---|---|---|---|
+| Mon | Maths | Library | Computing | Science | Science | English | R.M.E |
+| Tue | Maths | Twi | History | English | English | Creative Arts | R.M.E |
+| Wed | Science | Maths | English | Abacus | Abacus | R.M.E | History |
+| Thu | Maths | English | Science | Creative Arts | Creative Arts | Twi | Computing |
+| Fri | P.E | Science | Maths | French | French | Music | Club Activity |
+
+## Week-3 analysis
+1. **Kobena's WH questions are the recurring frontier** — weak in Week 2 (personal questions), still flagged in Week 3. The processing-time protocol (5–10s wait → clue → model) is the right home drill; use it during meals.
+2. **Nenyi's /sh/ has moved from "substitution" (Week 2) to "improving in words, inconsistent in conversation"** — clear progress. Word-level largely conquered; conversation-level generalization is the next rung.
+3. **Kobena + visual support** — he responds well to it (noted twice across weeks); keep picture cues at home.
+4. Nenyi's timetable confirms French + Abacus + Twi — useful for homework support and could inform content for at-home enrichment.
+
+## Week-3 actions
+- [ ] Home: run the 5–10 second wait → clue → full-model sequence when asking Kobe questions (esp. "Where" questions)
+- [ ] Home: Nenyi — 10 /sh/ words per session; prompt word endings
+- [ ] Both sheets: parent signature still blank — sign
+- [ ] Watch for /w/ target on Nenyi's next sheet (listed but unticked)
+
+---
+
 # WEEK 2 ENTRY — 5–9 Oct 2026 (sent 4/10... photos received 4 Oct evening, dated 5th–9th Oct sheet)
 
 ## Kobena — Daily Communication Checklist (5–9 Oct)

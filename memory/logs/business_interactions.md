@@ -113,3 +113,13 @@
 - **Confirmation to topic 2:** NOT sent (success only)
 - **Urgent alert:** sent to Telegram topic 141
 - **Notes:** WhatsApp adapter explicitly disabled (`platforms.whatsapp.enabled: false` in config.yaml); no gateway process detected; WhatsApp absent from `hermes send --list`. Job `last_status` was already `error` on 2026-09-08. Per WhatsApp-only protocol for Kanzoni, NO Telegram fallback used. Requires re-enabling WhatsApp platform (`platforms.whatsapp.enabled: true`) + gateway restart to restore.
+
+## 2026-10-20 07:10 — Weekly Tuesday Check-In → Kanzoni (Farm/Beekeeping Associate)
+- **Channel:** WhatsApp
+- **Target:** whatsapp:233248957794
+- **Status:** ✅ Sent (`hermes send` exit 0)
+- **Type:** Weekly Tuesday rapport check-in
+- **Variation:** Template B (ISO week 43 — odd)
+- **Message:** "Good morning Kanzoni, hope you're having a great start to the week. How's everyone at home? Just checking in to see how things are moving."
+- **Confirmation:** ✅ posted to Telegram topic 2 (-1003784520976:2) → `sent`
+- **Notes:** Delivered via `hermes send` through the default-profile gateway (WhatsApp paired, active flushes confirmed).
