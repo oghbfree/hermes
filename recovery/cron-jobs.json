@@ -1,0 +1,2736 @@
+{
+  "jobs": [
+    {
+      "id": "bc929d4338f1",
+      "name": "Evening habit reflect",
+      "prompt": "Review today's session history (use session_search with sort='newest' to find today's conversations). Based on what the user did and discussed today, answer two things:\n1. One recurring task or workflow they do repeatedly that should be set up as a cron job (with a suggested schedule and what it should do).\n2. One piece of knowledge, note, or structure to add to their Obsidian vault (suggest the folder, filename, and what content to capture).\n\nKeep answers short and actionable. Format as two bullet points. If nothing useful was discussed today, say \"No useful patterns today \u2014 keep logging and I'll flag something once useful work happens.\"",
+      "skills": [
+        "obsidian"
+      ],
+      "skill": "obsidian",
+      "model": "deepseek/deepseek-v4-flash-0731",
+      "provider": "openrouter",
+      "base_url": null,
+      "script": null,
+      "no_agent": false,
+      "context_from": null,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 19 * * *",
+        "display": "0 19 * * *"
+      },
+      "schedule_display": "0 19 * * *",
+      "repeat": {
+        "times": null,
+        "completed": 126
+      },
+      "enabled": true,
+      "state": "scheduled",
+      "paused_at": null,
+      "paused_reason": null,
+      "created_at": "2026-06-07T00:35:40.116212+01:00",
+      "next_run_at": "2026-10-23T19:00:00+00:00",
+      "last_run_at": "2026-10-22T19:02:00.072176+00:00",
+      "last_status": "ok",
+      "last_error": null,
+      "last_delivery_error": null,
+      "deliver": "local",
+      "origin": null,
+      "enabled_toolsets": null,
+      "workdir": null,
+      "profile": null,
+      "fire_claim": null,
+      "failure_streak": 0,
+      "provider_snapshot": null,
+      "model_snapshot": null,
+      "last_dispatch": {
+        "scheduled_at": "2026-10-22T19:00:00+00:00",
+        "dispatched_at": "2026-10-22T19:00:53.954629+00:00",
+        "lateness_seconds": 54.0,
+        "kind": "on_time"
+      }
+    },
+    {
+      "id": "96fa9febc949",
+      "name": "tasks-queue-sync",
+      "prompt": "Read C:\\Users\\User\\.hermes\\workspace\\Vault\\tasks-queue.md and compare with current kanban board (hermes kanban list). For any new [ ] tasks in the file that don't have a matching kanban card, create them with hermes kanban create. For any kanban tasks marked done that appear as [x] in the file, mark them complete. Report what changed.",
+      "skills": [],
+      "skill": null,
+      "model": "deepseek/deepseek-v4-flash-0731",
+      "provider": "openrouter",
+      "base_url": null,
+      "script": null,
+      "no_agent": false,
+      "context_from": null,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 9 * * *",
+        "display": "0 9 * * *"
+      },
+      "schedule_display": "0 9 * * *",
+      "repeat": {
+        "times": null,
+        "completed": 130
+      },
+      "enabled": true,
+      "state": "scheduled",
+      "paused_at": null,
+      "paused_reason": null,
+      "created_at": "2026-06-07T07:18:37.149115+01:00",
+      "next_run_at": "2026-10-23T09:00:00+00:00",
+      "last_run_at": "2026-10-22T10:15:13.563363+00:00",
+      "last_status": "ok",
+      "last_error": null,
+      "last_delivery_error": null,
+      "deliver": "origin",
+      "origin": null,
+      "enabled_toolsets": null,
+      "workdir": null,
+      "profile": null,
+      "fire_claim": null,
+      "failure_streak": 0,
+      "provider_snapshot": null,
+      "model_snapshot": null,
+      "last_dispatch": {
+        "scheduled_at": "2026-10-22T09:00:00+00:00",
+        "dispatched_at": "2026-10-22T10:13:15.778359+00:00",
+        "lateness_seconds": 4395.8,
+        "kind": "late"
+      }
+    },
+    {
+      "id": "1efc20613995",
+      "name": "tasks-md-to-kanban",
+      "prompt": "Sync TASKS.md to Kanban board.\n\n1. Read C:\\Users\\User\\.hermes\\workspace\\Vault\\TASKS.md\n2. Run `hermes kanban list` to see current board\n3. For each [ ] task in TASKS.md that doesn't already have a kanban card, create one:\n   - Title: the task text\n   - Assignee: default\n   - Body: include project category and any notes\n4. For each [x] task in TASKS.md, mark the corresponding kanban card as done\n5. Report what was synced (new tasks added, tasks marked done)\n\nUse `hermes kanban create \"title\" --assignee default --body \"...\"` for new tasks.\nUse `hermes kanban complete <id>` for done tasks.",
+      "skills": [],
+      "skill": null,
+      "model": "deepseek/deepseek-v4-flash-0731",
+      "provider": "openrouter",
+      "base_url": null,
+      "script": null,
+      "no_agent": false,
+      "context_from": null,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 10 * * *",
+        "display": "0 10 * * *"
+      },
+      "schedule_display": "0 10 * * *",
+      "repeat": {
+        "times": null,
+        "completed": 129
+      },
+      "enabled": false,
+      "state": "scheduled",
+      "paused_at": "2026-10-22T23:16:53",
+      "paused_reason": "Merged into tasks-queue-sync (right-size 22/10/26) \u2014 duplicate push to kanban",
+      "created_at": "2026-06-07T07:18:41.342015+01:00",
+      "next_run_at": "2026-10-23T10:00:00+00:00",
+      "last_run_at": "2026-10-22T10:17:37.484915+00:00",
+      "last_status": "ok",
+      "last_error": null,
+      "last_delivery_error": null,
+      "deliver": "origin",
+      "origin": null,
+      "enabled_toolsets": null,
+      "workdir": null,
+      "profile": null,
+      "fire_claim": null,
+      "failure_streak": 0,
+      "provider_snapshot": null,
+      "model_snapshot": null,
+      "last_dispatch": {
+        "scheduled_at": "2026-10-22T10:00:00+00:00",
+        "dispatched_at": "2026-10-22T10:13:15.778359+00:00",
+        "lateness_seconds": 795.8,
+        "kind": "late"
+      },
+      "last_failure": {
+        "at": "2026-10-18T10:11:58.881827+00:00",
+        "detail": "Hermes stopped because your settings file (C:\\Users\\User\\AppData\\Local\\hermes\\config.yaml) has a formatting error at line 289. Fix it with `hermes config edit` and check with `hermes config check`, or add --ignore-user-config to run once with default settings. Details: found duplicate key \"platforms\" with value \"{}\" (original value: \"{}\")"
+      }
+    },
+    {
+      "id": "1cf75a0caf85",
+      "name": "sunday-content-engine",
+      "prompt": "Read C:\\Users\\User\\.hermes\\workspace\\Vault\\business\\Content\\content-assets\\SUNDAY_CONTENT_ENGINE_PROMPT.md and execute it exactly as written. Do not invent or omit steps; follow the prompt\u2019s brand schedule, use brand logos only, platform requirements, asset paths, and formatting rules. Use image_gen with image_url for image-to-image polish, and video_gen with image_url for video-to-video refinement where the backend supports it. Render only the final assets; replace draft media with final media before delivery.",
+      "skills": [
+        "social-media-operations",
+        "songwriting-and-ai-music"
+      ],
+      "skill": "social-media-operations",
+      "model": "deepseek/deepseek-v4-flash-0731",
+      "provider": "openrouter",
+      "base_url": null,
+      "script": null,
+      "no_agent": false,
+      "context_from": null,
+      "schedule": {
+        "kind": "cron",
+        "expr": "30 4 * * 0",
+        "display": "30 4 * * 0"
+      },
+      "schedule_display": "30 4 * * 0",
+      "repeat": {
+        "times": null,
+        "completed": 22
+      },
+      "enabled": false,
+      "state": "paused",
+      "paused_at": "2026-10-07T05:34:58.094685+00:00",
+      "paused_reason": null,
+      "created_at": "2026-06-07T07:18:43.353739+01:00",
+      "next_run_at": "2026-10-11T04:30:00+00:00",
+      "last_run_at": "2026-10-04T04:33:46.843965+00:00",
+      "last_status": "ok",
+      "last_error": null,
+      "last_delivery_error": null,
+      "deliver": "telegram:-1003784520976:26",
+      "origin": null,
+      "enabled_toolsets": null,
+      "workdir": null,
+      "profile": null,
+      "fire_claim": null,
+      "failure_streak": 0,
+      "provider_snapshot": null,
+      "model_snapshot": null,
+      "last_dispatch": {
+        "scheduled_at": "2026-10-04T04:30:00+00:00",
+        "dispatched_at": "2026-10-04T04:30:55.975075+00:00",
+        "lateness_seconds": 56.0,
+        "kind": "on_time"
+      }
+    },
+    {
+      "id": "3b593315ac1c",
+      "name": "mum-health-morning",
+      "prompt": "You are the morning care check-in for Comfort Blankson (age 91, elderly care). You receive morning care logs from caregivers via Telegram topic 4 (Mum Health).\n\nMASTER FILES (canonical \u2014 these are the ONLY files you write to):\n- MEDICAL: C:\\Users\\User\\.hermes\\workspace\\Vault\\family\\mum\\health\\MUM_MEDICAL_MASTER.md\n- FOOD: C:\\Users\\User\\.hermes\\workspace\\Vault\\family\\mum\\health\\MUM_FOOD_MASTER.md\n- PROFILE: C:\\Users\\User\\.hermes\\workspace\\Vault\\family\\mum\\MUM_PROFILE.md\n\nDo NOT create individual daily report files unless a caregiver has sent a NEW detailed report not yet captured. All new entries go into the master files.\n\nTASK:\n1. Read MUM_MEDICAL_MASTER.md and MUM_FOOD_MASTER.md to get current status.\n2. Check Telegram topic 4 for any new unread morning care report from the caregiver.\n3. If a new report is found: confirm receipt, flag readings outside acceptable ranges (BP >=140/90, pulse outside 60-100, temp above 37.5), post a simple acknowledgement to telegram:-1003784520976:4.\n4. Append a dated morning entry to the bottom of MUM_MEDICAL_MASTER.md with today's date and the check-in summary (including any BP/pulse/temp vitals and whether Furosemide 20mg was given).\n\nAPPEND FORMAT for MUM_MEDICAL_MASTER.md:\n---\n## YYYY-MM-DD (Day) \u2014 Morning\n- **Status:** [brief summary of red flags and stable items]\n- **Uplift:** [massage/spa/outing/exercise/laughter today \u2014 see MUM_UPLIFT_PROGRAMME]\n- **Vitals:** BP [x/y], Pulse [x], Temp [x]\u00b0C (if captured)\n- **Medication:** Furosemide 20mg given (Yes/No) \u2014 STOP if BP <100 or >140\n- **Check-in:** Asked caregiver about breakfast, morning meds, pain, energy/mood, mobility\n\nDo NOT send reminders if a report is already present for today.\n\nUPLIFT IS PART OF THE HEALTH LOG (owner-mandated 21/10/26): well-being is health. Read MUM_UPLIFT_PROGRAMME.md daily and track uplift/self-care IN THE SAME daily entry via an \"Uplift:\" line \u2014 things like massage, spa/beauty treats, outings, laughter, exercise, family moments. STANDING FOLLOW-UP: after any spa/beauty treat (e.g. 21/10 Kenus wax+pedicure+manicure), ask the check-in whether she enjoyed it and wants a recurrence \u2014 NEVER assume. Append the \"Uplift:\" line each day.\n",
+      "skills": [
+        "lifebot-family"
+      ],
+      "skill": "lifebot-family",
+      "model": "deepseek/deepseek-v4-flash-0731",
+      "provider": "openrouter",
+      "base_url": null,
+      "script": null,
+      "no_agent": false,
+      "context_from": null,
+      "schedule": {
+        "kind": "cron",
+        "expr": "4 8 * * *",
+        "display": "4 8 * * *"
+      },
+      "schedule_display": "4 8 * * *",
+      "repeat": {
+        "times": null,
+        "completed": 130
+      },
+      "enabled": true,
+      "state": "scheduled",
+      "paused_at": null,
+      "paused_reason": null,
+      "created_at": "2026-06-07T07:18:47.582718+01:00",
+      "next_run_at": "2026-10-23T08:04:00+00:00",
+      "last_run_at": "2026-10-22T10:20:59.865865+00:00",
+      "last_status": "ok",
+      "last_error": null,
+      "last_delivery_error": null,
+      "deliver": "telegram:-1003784520976:4",
+      "origin": null,
+      "enabled_toolsets": [
+        "web",
+        "file",
+        "search"
+      ],
+      "workdir": "C:\\Users\\User\\.hermes\\workspace\\Vault\\family\\mum\\health",
+      "profile": null,
+      "fire_claim": null,
+      "failure_streak": 0,
+      "provider_snapshot": null,
+      "model_snapshot": null,
+      "last_dispatch": {
+        "scheduled_at": "2026-10-22T08:04:00+00:00",
+        "dispatched_at": "2026-10-22T10:13:15.778359+00:00",
+        "lateness_seconds": 7755.8,
+        "kind": "catch_up"
+      },
+      "last_failure": {
+        "at": "2026-10-14T16:36:42.399346+00:00",
+        "detail": "RuntimeError: agent reported failure"
+      }
+    },
+    {
+      "id": "fb07221a65b8",
+      "name": "mum-health-afternoon",
+      "prompt": "You are the afternoon care check-in for Comfort Blankson (age 91, elderly care). You receive afternoon care logs from caregivers via Telegram topic 4 (Mum Health).\n\nMASTER FILES (canonical \u2014 these are the ONLY files you write to):\n- MEDICAL: C:\\Users\\User\\.hermes\\workspace\\Vault\\family\\mum\\health\\MUM_MEDICAL_MASTER.md\n- FOOD: C:\\Users\\User\\.hermes\\workspace\\Vault\\family\\mum\\health\\MUM_FOOD_MASTER.md\n- PROFILE: C:\\Users\\User\\.hermes\\workspace\\Vault\\family\\mum\\MUM_PROFILE.md\n\nDo NOT create individual daily report files unless a caregiver has sent a NEW detailed report not yet captured. All new entries go into the master files.\n\nTASK:\n1. Read MUM_MEDICAL_MASTER.md and MUM_FOOD_MASTER.md to get current status.\n2. Post an afternoon check-in prompt to telegram:-1003784520976:4 asking about lunch, afternoon medications, pain/discomfort, energy/mood, and any incidents since morning.\n3. If a caregiver replies with a new report: confirm receipt, flag abnormal readings, and append a dated entry to the master files.\n\nAPPEND FORMAT for MUM_MEDICAL_MASTER.md:\n---\n## YYYY-MM-DD (Day) \u2014 Afternoon\n- **Status:** [brief summary of red flags and stable items]\n- **Uplift:** [massage/spa/outing/exercise/laughter today \u2014 see MUM_UPLIFT_PROGRAMME]\n- **Vitals:** BP [x/y], Pulse [x], Temp [x]\u00b0C (if captured)\n- **Medication:** Furosemide 20mg given (Yes/No) \u2014 STOP if BP <100 or >140\n- **Lunch:** [what was eaten, if reported] (\u2192 also logged in MUM_FOOD_MASTER.md)\n- **Check-in:** Asked caregiver about lunch, meds, pain, energy/mood, incidents\n\nAPPEND FORMAT for MUM_FOOD_MASTER.md (add to the daily table):\n- Date row update: lunch meal under the date's Lunch column.\n\nUPLIFT IS PART OF THE HEALTH LOG (owner-mandated 21/10/26): well-being is health. Read MUM_UPLIFT_PROGRAMME.md daily and track uplift/self-care IN THE SAME daily entry via an \"Uplift:\" line \u2014 things like massage, spa/beauty treats, outings, laughter, exercise, family moments. STANDING FOLLOW-UP: after any spa/beauty treat (e.g. 21/10 Kenus wax+pedicure+manicure), ask the check-in whether she enjoyed it and wants a recurrence \u2014 NEVER assume. Append the \"Uplift:\" line each day.\n",
+      "skills": [
+        "lifebot-family"
+      ],
+      "skill": "lifebot-family",
+      "model": "deepseek/deepseek-v4-flash-0731",
+      "provider": "openrouter",
+      "base_url": null,
+      "script": null,
+      "no_agent": false,
+      "context_from": null,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 13 * * *",
+        "display": "0 13 * * *"
+      },
+      "schedule_display": "0 13 * * *",
+      "repeat": {
+        "times": null,
+        "completed": 131
+      },
+      "enabled": true,
+      "state": "scheduled",
+      "paused_at": null,
+      "paused_reason": null,
+      "created_at": "2026-06-07T07:18:49.643232+01:00",
+      "next_run_at": "2026-10-23T13:00:00+00:00",
+      "last_run_at": "2026-10-22T13:05:30.877871+00:00",
+      "last_status": "error",
+      "last_error": "RuntimeError: Hermes can't reach the model provider. You may be offline. Check your internet connection and try again.",
+      "last_delivery_error": "delivery error: Telegram send failed: httpx.ConnectError: All connection attempts failed (target telegram:-1003784520976:4)",
+      "deliver": "telegram:-1003784520976:4",
+      "origin": null,
+      "enabled_toolsets": [
+        "web",
+        "file",
+        "search"
+      ],
+      "workdir": "C:\\Users\\User\\.hermes\\workspace\\Vault\\family\\mum\\health",
+      "profile": null,
+      "fire_claim": null,
+      "failure_streak": 1,
+      "provider_snapshot": null,
+      "model_snapshot": null,
+      "last_dispatch": {
+        "scheduled_at": "2026-10-22T13:00:00+00:00",
+        "dispatched_at": "2026-10-22T13:00:33.873547+00:00",
+        "lateness_seconds": 33.9,
+        "kind": "on_time"
+      },
+      "last_failure": {
+        "at": "2026-10-22T13:05:30.877871+00:00",
+        "detail": "RuntimeError: Hermes can't reach the model provider. You may be offline. Check your internet connection and try again."
+      }
+    },
+    {
+      "id": "6a95ab36d017",
+      "name": "mum-health-evening",
+      "prompt": "You are the evening care check-in for Comfort Blankson (age 91, elderly care). You receive evening care logs from caregivers via Telegram topic 4 (Mum Health).\n\nMASTER FILES (canonical \u2014 these are the ONLY files you write to):\n- MEDICAL: C:\\Users\\User\\.hermes\\workspace\\Vault\\family\\mum\\health\\MUM_MEDICAL_MASTER.md\n- FOOD: C:\\Users\\User\\.hermes\\workspace\\Vault\\family\\mum\\health\\MUM_FOOD_MASTER.md\n- PROFILE: C:\\Users\\User\\.hermes\\workspace\\Vault\\family\\mum\\MUM_PROFILE.md\n\nDo NOT create individual daily report files unless a caregiver has sent a NEW detailed report not yet captured. All new entries go into the master files.\n\nTASK:\n1. Read MUM_MEDICAL_MASTER.md and MUM_FOOD_MASTER.md to get current status.\n2. Post an evening check-in prompt to telegram:-1003784520976:4 asking about dinner, evening medications, pain/discomfort, energy/mood, and an overall day summary.\n3. If a caregiver replies with a new evening report: confirm receipt, flag abnormal readings, and append a dated entry to the master files.\n\nAPPEND FORMAT for MUM_MEDICAL_MASTER.md:\n---\n## YYYY-MM-DD (Day) \u2014 Evening\n- **Status:** [brief summary of red flags and stable items]\n- **Uplift:** [massage/spa/outing/exercise/laughter today \u2014 see MUM_UPLIFT_PROGRAMME]\n- **Vitals:** BP [x/y], Pulse [x], Temp [x]\u00b0C (if captured)\n- **Medication:** Furosemide 20mg given (Yes/No) \u2014 STOP if BP <100 or >140\n- **Dinner:** [what was eaten, if reported] (\u2192 also logged in MUM_FOOD_MASTER.md)\n- **Check-in:** Asked caregiver about dinner, meds, pain, energy/mood, day summary\n\nAPPEND FORMAT for MUM_FOOD_MASTER.md (add to the daily table):\n- Date row update: dinner meal under the date's Dinner column.\n\nUPLIFT IS PART OF THE HEALTH LOG (owner-mandated 21/10/26): well-being is health. Read MUM_UPLIFT_PROGRAMME.md daily and track uplift/self-care IN THE SAME daily entry via an \"Uplift:\" line \u2014 things like massage, spa/beauty treats, outings, laughter, exercise, family moments. STANDING FOLLOW-UP: after any spa/beauty treat (e.g. 21/10 Kenus wax+pedicure+manicure), ask the check-in whether she enjoyed it and wants a recurrence \u2014 NEVER assume. Append the \"Uplift:\" line each day.\n",
+      "skills": [
+        "lifebot-family"
+      ],
+      "skill": "lifebot-family",
+      "model": "deepseek/deepseek-v4-flash-0731",
+      "provider": "openrouter",
+      "base_url": null,
+      "script": null,
+      "no_agent": false,
+      "context_from": null,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 19 * * *",
+        "display": "0 19 * * *"
+      },
+      "schedule_display": "0 19 * * *",
+      "repeat": {
+        "times": null,
+        "completed": 126
+      },
+      "enabled": true,
+      "state": "scheduled",
+      "paused_at": null,
+      "paused_reason": null,
+      "created_at": "2026-06-07T07:18:51.780984+01:00",
+      "next_run_at": "2026-10-23T19:00:00+00:00",
+      "last_run_at": "2026-10-22T19:02:09.488928+00:00",
+      "last_status": "ok",
+      "last_error": null,
+      "last_delivery_error": null,
+      "deliver": "telegram:-1003784520976:4",
+      "origin": null,
+      "enabled_toolsets": [
+        "web",
+        "file",
+        "search"
+      ],
+      "workdir": "C:\\Users\\User\\.hermes\\workspace\\Vault\\family\\mum\\health",
+      "profile": null,
+      "fire_claim": null,
+      "failure_streak": 0,
+      "provider_snapshot": null,
+      "model_snapshot": null,
+      "last_dispatch": {
+        "scheduled_at": "2026-10-22T19:00:00+00:00",
+        "dispatched_at": "2026-10-22T19:00:53.954629+00:00",
+        "lateness_seconds": 54.0,
+        "kind": "on_time"
+      },
+      "last_failure": {
+        "at": "2026-10-16T19:57:52.144013+00:00",
+        "detail": "RuntimeError: Operation interrupted: waiting for model response (3422.1s elapsed)."
+      }
+    },
+    {
+      "id": "e5be79ac5f9a",
+      "name": "health-check-morning",
+      "prompt": "You are LifeBot for H \u2014 the morning health check.\n\nMASTER FILES (canonical \u2014 the ONLY files you write to):\n- MEDICAL: C:\\Users\\User\\.hermes\\workspace\\Vault\\family\\H\\health\\H_MEDICAL_MASTER.md\n- FOOD: C:\\Users\\User\\.hermes\\workspace\\Vault\\family\\H\\health\\H_FOOD_MASTER.md\n\nLifeBot philosophy: ground every statement in H's actual data, compare against HIS OWN baseline (meal streak, last meals, days since vitals/labs/appointments), and end with ONE tailored lever for today.\n\nTASK:\n1. Read both master files to get current status.\n2. Compose a concise morning health summary: \ud83d\udd34 red flags (with real day counts) / \ud83d\udfe1 watch / \ud83d\udfe2 good + data-gap notice (meals <2 days = \ud83d\udfe1, <5 = \ud83d\udd34).\n3. POST to telegram:-1003784520976:2 (Health Log topic).\n4. Append a dated entry to the bottom of H_MEDICAL_MASTER.md exactly in this format:\n```\n---\n\n## 2026-XX-XX (Day)\n\n### \ud83c\udf05 Morning Health Check\n- **Status:** [summary]\n- **Check-in:** Asked H about breakfast, energy, symptoms\n```\n5. End the posted message with ONE lever for today (e.g. \"stop eating 3h before bed for the reflux\" or \"take vitals today\").",
+      "skills": [
+        "lifebot-family"
+      ],
+      "skill": "lifebot-family",
+      "model": "deepseek/deepseek-v4-flash-0731",
+      "provider": "openrouter",
+      "base_url": null,
+      "script": null,
+      "no_agent": false,
+      "context_from": null,
+      "schedule": {
+        "kind": "cron",
+        "expr": "4 8 * * *",
+        "display": "4 8 * * *"
+      },
+      "schedule_display": "4 8 * * *",
+      "repeat": {
+        "times": null,
+        "completed": 129
+      },
+      "enabled": true,
+      "state": "scheduled",
+      "paused_at": null,
+      "paused_reason": null,
+      "created_at": "2026-06-07T07:18:53.848956+01:00",
+      "next_run_at": "2026-10-23T08:04:00+00:00",
+      "last_run_at": "2026-10-22T10:15:36.258484+00:00",
+      "last_status": "ok",
+      "last_error": null,
+      "last_delivery_error": null,
+      "deliver": "local",
+      "origin": null,
+      "enabled_toolsets": [
+        "web",
+        "file",
+        "search"
+      ],
+      "workdir": "C:\\Users\\User\\.hermes\\workspace\\Vault\\family\\H",
+      "profile": null,
+      "fire_claim": null,
+      "failure_streak": 0,
+      "provider_snapshot": null,
+      "model_snapshot": null,
+      "last_dispatch": {
+        "scheduled_at": "2026-10-22T08:04:00+00:00",
+        "dispatched_at": "2026-10-22T10:13:15.778359+00:00",
+        "lateness_seconds": 7755.8,
+        "kind": "catch_up"
+      },
+      "last_failure": {
+        "at": "2026-10-14T16:36:38.929376+00:00",
+        "detail": "RuntimeError: agent reported failure"
+      }
+    },
+    {
+      "id": "1811327d1a56",
+      "name": "health-check-afternoon",
+      "prompt": "You are LifeBot for H \u2014 the afternoon health check.\n\nMASTER FILES (canonical \u2014 the ONLY files you write to):\n- MEDICAL: C:\\Users\\User\\.hermes\\workspace\\Vault\\family\\H\\health\\H_MEDICAL_MASTER.md\n- FOOD: C:\\Users\\User\\.hermes\\workspace\\Vault\\family\\H\\health\\H_FOOD_MASTER.md\n\nLifeBot philosophy: ground every statement in H's actual data; check the food master to see what H ate today so far.\n\nTASK:\n1. Read H_FOOD_MASTER.md to see today's logged meals.\n2. Post this exact afternoon check-in message to telegram:-1003784520976:2 (Health Log topic):\n\n\ud83c\udf24\ufe0f Afternoon Health Check\n\nHey H, how's the day going?\n\nPlease log:\n\u2022 \ud83c\udf7d\ufe0f Lunch \u2014 have you eaten? What did you have?\n\u2022 \u2615 Drinks \u2014 what have you had since morning?\n\u2022 \ud83e\ude7a Symptoms \u2014 any aches, pains, or issues?\n\u2022 \u26a1 Energy \u2014 how are you feeling out of 10?\n\nKeep going! \ud83d\udcaa\n\n3. If the food master shows nothing logged today, note that gently in a short second line appended to the message (e.g. \"ps: no meals logged yet today \u2014 even a quick note helps\").\n\n4. When H responds, append the response to H_MEDICAL_MASTER.md:\n```\n---\n\n## 2026-XX-XX (Day)\n\n### \ud83c\udf24\ufe0f Afternoon Check-in\n- **Lunch:** [user response]\n- **Drinks:** [user response]\n- **Symptoms:** [user response]\n- **Energy:** [user response]\n```",
+      "skills": [
+        "lifebot-family"
+      ],
+      "skill": "lifebot-family",
+      "model": "deepseek/deepseek-v4-flash-0731",
+      "provider": "openrouter",
+      "base_url": null,
+      "script": null,
+      "no_agent": false,
+      "context_from": null,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 13 * * *",
+        "display": "0 13 * * *"
+      },
+      "schedule_display": "0 13 * * *",
+      "repeat": {
+        "times": null,
+        "completed": 130
+      },
+      "enabled": true,
+      "state": "scheduled",
+      "paused_at": null,
+      "paused_reason": null,
+      "created_at": "2026-06-07T07:18:55.920483+01:00",
+      "next_run_at": "2026-10-23T13:00:00+00:00",
+      "last_run_at": "2026-10-22T13:05:19.317227+00:00",
+      "last_status": "error",
+      "last_error": "RuntimeError: Hermes can't reach the model provider. You may be offline. Check your internet connection and try again.",
+      "last_delivery_error": null,
+      "deliver": "local",
+      "origin": null,
+      "enabled_toolsets": [
+        "web",
+        "file",
+        "search"
+      ],
+      "workdir": "C:\\Users\\User\\.hermes\\workspace\\Vault\\family\\H",
+      "profile": null,
+      "fire_claim": null,
+      "failure_streak": 1,
+      "provider_snapshot": null,
+      "model_snapshot": null,
+      "last_dispatch": {
+        "scheduled_at": "2026-10-22T13:00:00+00:00",
+        "dispatched_at": "2026-10-22T13:00:33.873547+00:00",
+        "lateness_seconds": 33.9,
+        "kind": "on_time"
+      },
+      "last_failure": {
+        "at": "2026-10-22T13:05:19.317227+00:00",
+        "detail": "RuntimeError: Hermes can't reach the model provider. You may be offline. Check your internet connection and try again."
+      }
+    },
+    {
+      "id": "42d142d01603",
+      "name": "health-check-evening",
+      "prompt": "You are LifeBot for H \u2014 the evening health check.\n\nMASTER FILES (canonical \u2014 the ONLY files you write to):\n- MEDICAL: C:\\Users\\User\\.hermes\\workspace\\Vault\\family\\H\\health\\H_MEDICAL_MASTER.md\n- FOOD: C:\\Users\\User\\.hermes\\workspace\\Vault\\family\\H\\health\\H_FOOD_MASTER.md\n\nLifeBot philosophy: ground every statement in H's actual data; check the food master to see what H ate today so far.\n\nTASK:\n1. Read H_FOOD_MASTER.md to see today's logged meals.\n2. Post this exact evening check-in message to telegram:-1003784520976:2 (Health Log topic):\n\n\ud83c\udf19 Evening Health Check\n\nEvening H \u2014 hope the day went well!\n\nQuick end-of-day log:\n\u2022 \ud83c\udf7d\ufe0f Dinner \u2014 what did you have?\n\u2022 \ud83e\ude7a Symptoms today \u2014 anything to note?\n\u2022 \u26a1 Energy out of 10?\n\u2022 \ud83d\ude34 How was your sleep last night?\n\nRest well! \ud83d\udecc\n\n3. If the food master shows nothing logged today, note that gently in a short second line (e.g. \"ps: no meals logged today \u2014 a quick note keeps your 30-day streak alive\").\n\n4. When H responds, append the response to H_MEDICAL_MASTER.md:\n```\n---\n\n## 2026-XX-XX (Day)\n\n### \ud83c\udf19 Evening Check-in\n- **Dinner:** [user response]\n- **Symptoms:** [user response]\n- **Energy:** [user response]\n- **Sleep:** [user response]\n```",
+      "skills": [
+        "lifebot-family"
+      ],
+      "skill": "lifebot-family",
+      "model": "deepseek/deepseek-v4-flash-0731",
+      "provider": "openrouter",
+      "base_url": null,
+      "script": null,
+      "no_agent": false,
+      "context_from": null,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 19 * * *",
+        "display": "0 19 * * *"
+      },
+      "schedule_display": "0 19 * * *",
+      "repeat": {
+        "times": null,
+        "completed": 126
+      },
+      "enabled": true,
+      "state": "scheduled",
+      "paused_at": null,
+      "paused_reason": null,
+      "created_at": "2026-06-07T07:18:58.059275+01:00",
+      "next_run_at": "2026-10-23T19:00:00+00:00",
+      "last_run_at": "2026-10-22T19:01:07.241278+00:00",
+      "last_status": "ok",
+      "last_error": null,
+      "last_delivery_error": null,
+      "deliver": "local",
+      "origin": null,
+      "enabled_toolsets": [
+        "web",
+        "file",
+        "search"
+      ],
+      "workdir": "C:\\Users\\User\\.hermes\\workspace\\Vault\\family\\H",
+      "profile": null,
+      "fire_claim": null,
+      "failure_streak": 0,
+      "provider_snapshot": null,
+      "model_snapshot": null,
+      "last_dispatch": {
+        "scheduled_at": "2026-10-22T19:00:00+00:00",
+        "dispatched_at": "2026-10-22T19:00:53.954629+00:00",
+        "lateness_seconds": 54.0,
+        "kind": "on_time"
+      }
+    },
+    {
+      "id": "c918124458f7",
+      "name": "mum-health-weekly-review",
+      "prompt": "You are the weekly health reviewer for Comfort Blankson (age 91, elderly care). Today is Sunday.\n\nMASTER FILES (canonical \u2014 read the week's data from here):\n- MEDICAL: C:\\Users\\User\\.hermes\\workspace\\Vault\\family\\mum\\health\\MUM_MEDICAL_MASTER.md\n- FOOD: C:\\Users\\User\\.hermes\\workspace\\Vault\\family\\mum\\health\\MUM_FOOD_MASTER.md\n- PROFILE: C:\\Users\\User\\.hermes\\workspace\\Vault\\family\\mum\\MUM_PROFILE.md\n\nTASK:\n1. Read MUM_MEDICAL_MASTER.md and MUM_FOOD_MASTER.md, focusing on data from the past 7 days.\n2. Analyze trends, red flags, and patterns (BP trend, Furosemide stop-rule events, meal consistency, new symptoms).\n3. Post the weekly report to telegram:-1003784520976:4 using this format:\n\ud83d\udcca Mum's Weekly Health Review \u2014 [date range]\n\ud83d\udd34 Red Flags / \ud83d\udfe1 Watch / \ud83d\udfe2 Good\n\ud83d\udcc8 Trends summary\n\ud83d\udca1 Recommendations\n\nKeep it concise and actionable. Do NOT create or edit vault files.",
+      "skills": [
+        "lifebot-family"
+      ],
+      "skill": "lifebot-family",
+      "model": "deepseek/deepseek-v4-flash-0731",
+      "provider": "openrouter",
+      "base_url": null,
+      "script": null,
+      "no_agent": false,
+      "context_from": null,
+      "schedule": {
+        "kind": "cron",
+        "expr": "6 9 * * 0",
+        "display": "6 9 * * 0"
+      },
+      "schedule_display": "6 9 * * 0",
+      "repeat": {
+        "times": null,
+        "completed": 20
+      },
+      "enabled": true,
+      "state": "scheduled",
+      "paused_at": null,
+      "paused_reason": null,
+      "created_at": "2026-06-07T07:19:02.348981+01:00",
+      "next_run_at": "2026-10-25T09:06:00+00:00",
+      "last_run_at": "2026-10-18T09:08:20.994167+00:00",
+      "last_status": "ok",
+      "last_error": null,
+      "last_delivery_error": null,
+      "deliver": "telegram:-1003784520976:4",
+      "origin": null,
+      "enabled_toolsets": null,
+      "workdir": null,
+      "profile": null,
+      "fire_claim": null,
+      "provider_snapshot": null,
+      "model_snapshot": null,
+      "failure_streak": 0,
+      "last_dispatch": {
+        "scheduled_at": "2026-10-18T09:06:00+00:00",
+        "dispatched_at": "2026-10-18T09:06:51.497456+00:00",
+        "lateness_seconds": 51.5,
+        "kind": "on_time"
+      }
+    },
+    {
+      "id": "9fc966ea5d04",
+      "name": "monthly-evolution",
+      "prompt": "Synthesize all WEEKLY_LEARNING files from the past month to document the system's macro-evolution. Identify trends, improvements, and persistent issues. Save to C:\\Users\\User\\.hermes\\workspace\\Vault\\insights\\MONTHLY_EVOLUTION_[MONTH].md. Post summary to Telegram topic 20 (Memory Review).",
+      "skills": [],
+      "skill": null,
+      "model": "deepseek/deepseek-v4-flash-0731",
+      "provider": "openrouter",
+      "base_url": null,
+      "script": null,
+      "no_agent": false,
+      "context_from": null,
+      "schedule": {
+        "kind": "cron",
+        "expr": "21 9 1 * *",
+        "display": "21 9 1 * *"
+      },
+      "schedule_display": "21 9 1 * *",
+      "repeat": {
+        "times": null,
+        "completed": 4
+      },
+      "enabled": true,
+      "state": "scheduled",
+      "paused_at": null,
+      "paused_reason": null,
+      "created_at": "2026-06-07T07:19:10.499726+01:00",
+      "next_run_at": "2026-11-01T09:21:00+00:00",
+      "last_run_at": "2026-10-01T09:21:24.990848+00:00",
+      "last_status": "error",
+      "last_error": "RuntimeError: Failed to initialize OpenAI client: No module named 'pydantic_core._pydantic_core'",
+      "last_delivery_error": null,
+      "deliver": "telegram:-1003784520976:20",
+      "origin": null,
+      "enabled_toolsets": null,
+      "workdir": null,
+      "profile": null,
+      "fire_claim": null,
+      "provider_snapshot": null,
+      "model_snapshot": null,
+      "failure_streak": 1,
+      "last_dispatch": {
+        "scheduled_at": "2026-10-01T09:21:00+00:00",
+        "dispatched_at": "2026-10-01T09:21:22.962068+00:00",
+        "lateness_seconds": 23.0,
+        "kind": "on_time"
+      }
+    },
+    {
+      "id": "1b7107630fe3",
+      "name": "security-policy-check",
+      "prompt": "Perform internal system audit. Check for exposed credentials, verify channel integrity, review recent security events. Save report to C:\\Users\\User\\.hermes\\workspace\\Vault\\System\\Assistant\\SECURITY_AUDIT_[TODAY_DATE].md. Post summary to Telegram topic 20 (Memory Review).\n\nKeep the audit focused: credential exposure, channel integrity, recent security events. Max 500 words for the telegram summary.",
+      "skills": [],
+      "skill": null,
+      "model": "deepseek/deepseek-v4-flash-0731",
+      "provider": "openrouter",
+      "base_url": null,
+      "script": null,
+      "no_agent": false,
+      "context_from": null,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 7 * * *",
+        "display": "0 7 * * *"
+      },
+      "schedule_display": "0 7 * * *",
+      "repeat": {
+        "times": null,
+        "completed": 270
+      },
+      "enabled": true,
+      "state": "scheduled",
+      "paused_at": null,
+      "paused_reason": null,
+      "created_at": "2026-06-07T07:19:14.542277+01:00",
+      "next_run_at": "2026-10-23T07:00:00+00:00",
+      "last_run_at": "2026-10-22T10:17:50.086030+00:00",
+      "last_status": "ok",
+      "last_error": null,
+      "last_delivery_error": null,
+      "deliver": "telegram:-1003784520976:20",
+      "origin": null,
+      "enabled_toolsets": null,
+      "workdir": null,
+      "profile": null,
+      "fire_claim": null,
+      "failure_streak": 0,
+      "provider_snapshot": null,
+      "model_snapshot": null,
+      "last_dispatch": {
+        "scheduled_at": "2026-10-22T07:00:00+00:00",
+        "dispatched_at": "2026-10-22T10:13:15.778359+00:00",
+        "lateness_seconds": 11595.8,
+        "kind": "catch_up"
+      },
+      "last_failure": {
+        "at": "2026-10-21T07:05:50.215105+00:00",
+        "detail": "RuntimeError: Hermes can't reach the model provider. You may be offline. Check your internet connection and try again."
+      }
+    },
+    {
+      "id": "586aebcd5e57",
+      "name": "daily-backup",
+      "prompt": "Run system backup. Duplicate all critical workspace and memory files to the local backup directory. Verify integrity. Report backup status including file counts and any errors.\n\nCRITICAL SECURITY RULE: EXCLUDE ALL SECRET-BEARING FILES from the backup copy. Do NOT copy .env, auth.json, google_token.json, *.secret_cache, bws_cache.json, or any *_cache.json that contains API keys/tokens. Back up workspace, memories, skills, cron config (jobs.json only, no .env), databases, documents \u2014 but never plaintext credentials or tokens. If a source contains secrets, skip it. This prevents backups from regenerating plaintext credential copies.",
+      "skills": [],
+      "skill": null,
+      "model": "deepseek/deepseek-v4-flash-0731",
+      "provider": "openrouter",
+      "base_url": null,
+      "script": null,
+      "no_agent": false,
+      "context_from": null,
+      "schedule": {
+        "kind": "cron",
+        "expr": "3 23 * * 0",
+        "display": "3 23 * * 0"
+      },
+      "schedule_display": "3 23 * * 0",
+      "repeat": {
+        "times": null,
+        "completed": 72
+      },
+      "enabled": true,
+      "state": "scheduled",
+      "paused_at": null,
+      "paused_reason": null,
+      "created_at": "2026-06-07T07:19:18.587160+01:00",
+      "next_run_at": "2026-10-25T23:03:00+00:00",
+      "last_run_at": "2026-10-18T23:16:00.561437+00:00",
+      "last_status": "ok",
+      "last_error": null,
+      "last_delivery_error": null,
+      "deliver": "origin",
+      "origin": null,
+      "enabled_toolsets": null,
+      "workdir": null,
+      "profile": null,
+      "fire_claim": null,
+      "provider_snapshot": null,
+      "model_snapshot": null,
+      "failure_streak": 0,
+      "last_dispatch": {
+        "scheduled_at": "2026-10-18T23:03:00+00:00",
+        "dispatched_at": "2026-10-18T23:03:17.860195+00:00",
+        "lateness_seconds": 17.9,
+        "kind": "on_time"
+      }
+    },
+    {
+      "id": "2769dd3ed4e7",
+      "name": "cron-status-report",
+      "prompt": "Scan the cron jobs list and last 24 hours of execution logs. Produce the Daily Cron Status Report showing: total jobs, success rate, failed jobs, and any stuck/paused jobs. Post to Telegram topic 20 (Memory Review).",
+      "skills": [],
+      "skill": null,
+      "model": "deepseek/deepseek-v4-flash-0731",
+      "provider": "openrouter",
+      "base_url": null,
+      "script": null,
+      "no_agent": false,
+      "context_from": null,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 9 * * *",
+        "display": "0 9 * * *"
+      },
+      "schedule_display": "0 9 * * *",
+      "repeat": {
+        "times": null,
+        "completed": 130
+      },
+      "enabled": true,
+      "state": "scheduled",
+      "paused_at": null,
+      "paused_reason": null,
+      "created_at": "2026-06-07T07:19:20.583276+01:00",
+      "next_run_at": "2026-10-23T09:00:00+00:00",
+      "last_run_at": "2026-10-22T10:18:05.581023+00:00",
+      "last_status": "ok",
+      "last_error": null,
+      "last_delivery_error": null,
+      "deliver": "telegram:-1003784520976:20",
+      "origin": null,
+      "enabled_toolsets": null,
+      "workdir": null,
+      "profile": null,
+      "fire_claim": null,
+      "failure_streak": 0,
+      "provider_snapshot": null,
+      "model_snapshot": null,
+      "last_dispatch": {
+        "scheduled_at": "2026-10-22T09:00:00+00:00",
+        "dispatched_at": "2026-10-22T10:13:15.778359+00:00",
+        "lateness_seconds": 4395.8,
+        "kind": "late"
+      },
+      "last_failure": {
+        "at": "2026-10-13T12:55:07.070600+00:00",
+        "detail": "TimeoutError: Cron job 'cron-status-report' idle for 1444s (limit 600s) \u2014 last activity: \u23f3 waiting on provider \u2014 retrying in 5s (attempt 2/3)"
+      }
+    },
+    {
+      "id": "a3cdfceac0c9",
+      "name": "github-memory-backup",
+      "prompt": "Synchronize the local workspace with the remote GitHub repository at https://github.com/oghbfree/hermes.git\n\n1. cd /c/Users/User/.hermes/workspace\n2. git add -A\n3. git commit -q -m \"Daily workspace backup $(date +%Y-%m-%d)\" || echo \"Nothing to commit\"\n4. git push origin main 2>&1 || git push origin master 2>&1\n\nReport what was committed: how many files changed, and any errors. If the repo is already up to date, say \"Up to date \u2014 no changes to push.\"",
+      "skills": [],
+      "skill": null,
+      "model": "deepseek/deepseek-v4-flash-0731",
+      "provider": "openrouter",
+      "base_url": null,
+      "script": null,
+      "no_agent": false,
+      "context_from": null,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 6 * * *",
+        "display": "0 6 * * *"
+      },
+      "schedule_display": "0 6 * * *",
+      "repeat": {
+        "times": null,
+        "completed": 75
+      },
+      "enabled": true,
+      "state": "scheduled",
+      "paused_at": null,
+      "paused_reason": null,
+      "created_at": "2026-06-07T07:19:22.604845+01:00",
+      "next_run_at": "2026-10-23T06:00:00+00:00",
+      "last_run_at": "2026-10-22T06:01:17.539338+00:00",
+      "last_status": "ok",
+      "last_error": null,
+      "last_delivery_error": null,
+      "deliver": "telegram:-1003784520976:20",
+      "origin": null,
+      "enabled_toolsets": null,
+      "workdir": null,
+      "profile": null,
+      "fire_claim": null,
+      "failure_streak": 0,
+      "provider_snapshot": null,
+      "model_snapshot": null,
+      "last_dispatch": {
+        "scheduled_at": "2026-10-22T06:00:00+00:00",
+        "dispatched_at": "2026-10-22T06:00:29.837983+00:00",
+        "lateness_seconds": 29.8,
+        "kind": "on_time"
+      }
+    },
+    {
+      "id": "2e2d1d6ece88",
+      "name": "job-applications-check",
+      "prompt": "Check for new job applications. Review candidate pipeline and filter applicants based on criteria. Update recruitment tracking. Post summary of new applications and pipeline status to Telegram topic 28 (Jobs).\n\nUse C:\\Users\\User\\.hermes\\workspace\\Vault\\jobs\\ for all recruitment files.",
+      "skills": [],
+      "skill": null,
+      "model": "deepseek/deepseek-v4-flash-0731",
+      "provider": "openrouter",
+      "base_url": null,
+      "script": null,
+      "no_agent": false,
+      "context_from": null,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 8 * * *",
+        "display": "0 8 * * *"
+      },
+      "schedule_display": "0 8 * * *",
+      "repeat": {
+        "times": null,
+        "completed": 129
+      },
+      "enabled": true,
+      "state": "scheduled",
+      "paused_at": null,
+      "paused_reason": null,
+      "created_at": "2026-06-07T07:19:26.671069+01:00",
+      "next_run_at": "2026-10-23T08:00:00+00:00",
+      "last_run_at": "2026-10-22T10:18:57.345458+00:00",
+      "last_status": "ok",
+      "last_error": null,
+      "last_delivery_error": null,
+      "deliver": "telegram:-1003784520976:28",
+      "origin": null,
+      "enabled_toolsets": null,
+      "workdir": null,
+      "profile": null,
+      "fire_claim": null,
+      "failure_streak": 0,
+      "provider_snapshot": null,
+      "model_snapshot": null,
+      "last_dispatch": {
+        "scheduled_at": "2026-10-22T08:00:00+00:00",
+        "dispatched_at": "2026-10-22T10:13:15.778359+00:00",
+        "lateness_seconds": 7995.8,
+        "kind": "catch_up"
+      },
+      "last_failure": {
+        "at": "2026-10-14T16:36:36.615902+00:00",
+        "detail": "TimeoutError: Cron job 'job-applications-check' idle for 29277s (limit 600s) \u2014 last activity: concurrent tools running (5s, 1 remaining: search_files)"
+      }
+    },
+    {
+      "id": "c3db50f4f9af",
+      "name": "checkin-mum",
+      "prompt": "Send a check-in message to Mum (Comfort Blankson, +233 503 65 4902) on WhatsApp. Ask about her health, mood, and any needs. Keep it warm and caring. Log the interaction. If WhatsApp is unavailable, report the failure.",
+      "skills": [],
+      "skill": null,
+      "model": "deepseek/deepseek-v4-flash-0731",
+      "provider": "openrouter",
+      "base_url": null,
+      "script": null,
+      "no_agent": false,
+      "context_from": null,
+      "schedule": {
+        "kind": "cron",
+        "expr": "18 10 * * 0,1,2,3,4,5,6",
+        "display": "18 10 * * 0,1,2,3,4,5,6"
+      },
+      "schedule_display": "18 10 * * 0,1,2,3,4,5,6",
+      "repeat": {
+        "times": null,
+        "completed": 103
+      },
+      "enabled": true,
+      "state": "scheduled",
+      "paused_at": null,
+      "paused_reason": null,
+      "created_at": "2026-06-07T07:19:30.748528+01:00",
+      "next_run_at": "2026-10-23T10:18:00+00:00",
+      "last_run_at": "2026-10-22T10:25:25.617746+00:00",
+      "last_status": "ok",
+      "last_error": null,
+      "last_delivery_error": null,
+      "deliver": "origin",
+      "origin": null,
+      "enabled_toolsets": null,
+      "workdir": null,
+      "profile": null,
+      "fire_claim": null,
+      "failure_streak": 0,
+      "provider_snapshot": null,
+      "model_snapshot": null,
+      "last_dispatch": {
+        "scheduled_at": "2026-10-22T10:18:00+00:00",
+        "dispatched_at": "2026-10-22T10:18:33.937682+00:00",
+        "lateness_seconds": 33.9,
+        "kind": "on_time"
+      },
+      "last_failure": {
+        "at": "2026-10-18T10:18:52.044366+00:00",
+        "detail": "Hermes stopped because your settings file (C:\\Users\\User\\AppData\\Local\\hermes\\config.yaml) has a formatting error at line 289. Fix it with `hermes config edit` and check with `hermes config check`, or add --ignore-user-config to run once with default settings. Details: found duplicate key \"platforms\" with value \"{}\" (original value: \"{}\")"
+      }
+    },
+    {
+      "id": "f21f8326c44b",
+      "name": "checkin-dad",
+      "prompt": "Send a check-in message to Dad on WhatsApp (+447983254695). Ask about his health, mobility, and any needs. Keep it warm and caring. Log the interaction. If WhatsApp is unavailable, report the failure.",
+      "skills": [],
+      "skill": null,
+      "model": "deepseek/deepseek-v4-flash-0731",
+      "provider": "openrouter",
+      "base_url": null,
+      "script": null,
+      "no_agent": false,
+      "context_from": null,
+      "schedule": {
+        "kind": "cron",
+        "expr": "4 10 * * 0,1,4",
+        "display": "4 10 * * 0,1,4"
+      },
+      "schedule_display": "4 10 * * 0,1,4",
+      "repeat": {
+        "times": null,
+        "completed": 54
+      },
+      "enabled": true,
+      "state": "scheduled",
+      "paused_at": null,
+      "paused_reason": null,
+      "created_at": "2026-06-07T07:19:32.793956+01:00",
+      "next_run_at": "2026-10-25T10:04:00+00:00",
+      "last_run_at": "2026-10-22T10:18:57.929323+00:00",
+      "last_status": "ok",
+      "last_error": null,
+      "last_delivery_error": null,
+      "deliver": "origin",
+      "origin": null,
+      "enabled_toolsets": null,
+      "workdir": null,
+      "profile": null,
+      "fire_claim": null,
+      "failure_streak": 0,
+      "provider_snapshot": null,
+      "model_snapshot": null,
+      "last_dispatch": {
+        "scheduled_at": "2026-10-22T10:04:00+00:00",
+        "dispatched_at": "2026-10-22T10:13:15.778359+00:00",
+        "lateness_seconds": 555.8,
+        "kind": "late"
+      },
+      "last_failure": {
+        "at": "2026-10-18T10:12:01.063701+00:00",
+        "detail": "Hermes stopped because your settings file (C:\\Users\\User\\AppData\\Local\\hermes\\config.yaml) has a formatting error at line 289. Fix it with `hermes config edit` and check with `hermes config check`, or add --ignore-user-config to run once with default settings. Details: found duplicate key \"platforms\" with value \"{}\" (original value: \"{}\")"
+      }
+    },
+    {
+      "id": "4ff54e93664b",
+      "name": "jnr-payment-reminder",
+      "prompt": "Send a payment reminder to Jnr via WhatsApp. Remind him about the outstanding payment. Keep it polite & professional. Log the interaction.",
+      "skills": [],
+      "skill": null,
+      "model": null,
+      "provider": null,
+      "base_url": null,
+      "script": null,
+      "no_agent": false,
+      "context_from": null,
+      "schedule": {
+        "kind": "cron",
+        "expr": "5 10 */3 * *",
+        "display": "5 10 */3 * *"
+      },
+      "schedule_display": "5 10 */3 * *",
+      "repeat": {
+        "times": null,
+        "completed": 24
+      },
+      "enabled": false,
+      "state": "paused",
+      "paused_at": "2026-08-19T02:20:49.608422+00:00",
+      "paused_reason": null,
+      "created_at": "2026-06-07T07:19:44.913303+01:00",
+      "next_run_at": "2026-08-19T10:05:00+00:00",
+      "last_run_at": "2026-08-17T00:26:07.977447+00:00",
+      "last_status": "ok",
+      "last_error": null,
+      "last_delivery_error": null,
+      "deliver": "origin",
+      "origin": null,
+      "enabled_toolsets": null,
+      "workdir": null,
+      "profile": null,
+      "fire_claim": null
+    },
+    {
+      "id": "16c8a6f32eb5",
+      "name": "dad-health-weekly-review",
+      "prompt": "You are the weekly health reviewer for Robert Herbert-Blankson (age 92, H's dad, UK). Today is Sunday.\n\nTASK:\n1. Read the dad wellbeing files from the past 7 days in C:\\Users\\User\\.hermes\\workspace\\memories\\family\\dad\\\n2. Analyze trends, red flags, and patterns from the 3-day check-ins\n3. Search for any new relevant health information about his conditions (prostate cancer survivor care, BKA rehabilitation, DVT prevention in elderly)\n4. Post the weekly report to telegram topic 16 (Dad)\n\nReport format:\n\ud83d\udcca Dad's Weekly Health Review \u2014 [date range]\n\n\ud83d\udd34 Red Flags / \ud83d\udfe1 Watch / \ud83d\udfe2 Good\n\n\ud83d\udcc8 Trends summary\n\n\ud83d\udca1 Recommendations: (1-3 actionable items)\n\nKeep it concise and actionable.",
+      "skills": [
+        "lifebot-family"
+      ],
+      "skill": "lifebot-family",
+      "model": "deepseek/deepseek-v4-flash-0731",
+      "provider": "openrouter",
+      "base_url": null,
+      "script": null,
+      "no_agent": false,
+      "context_from": null,
+      "schedule": {
+        "kind": "cron",
+        "expr": "30 9 * * 0",
+        "display": "30 9 * * 0"
+      },
+      "schedule_display": "30 9 * * 0",
+      "repeat": {
+        "times": null,
+        "completed": 19
+      },
+      "enabled": true,
+      "state": "scheduled",
+      "paused_at": null,
+      "paused_reason": null,
+      "created_at": "2026-06-07T07:19:53.424237+01:00",
+      "next_run_at": "2026-10-25T09:30:00+00:00",
+      "last_run_at": "2026-10-18T10:11:58.516904+00:00",
+      "last_status": "error",
+      "last_error": "Hermes stopped because your settings file (C:\\Users\\User\\AppData\\Local\\hermes\\config.yaml) has a formatting error at line 289. Fix it with `hermes config edit` and check with `hermes config check`, or add --ignore-user-config to run once with default settings. Details: found duplicate key \"platforms\" with value \"{}\" (original value: \"{}\")",
+      "last_delivery_error": null,
+      "deliver": "telegram:-1003784520976:16",
+      "origin": null,
+      "enabled_toolsets": null,
+      "workdir": null,
+      "profile": null,
+      "fire_claim": null,
+      "provider_snapshot": null,
+      "model_snapshot": null,
+      "failure_streak": 1,
+      "last_dispatch": {
+        "scheduled_at": "2026-10-18T09:30:00+00:00",
+        "dispatched_at": "2026-10-18T10:11:04.670351+00:00",
+        "lateness_seconds": 2464.7,
+        "kind": "late"
+      },
+      "last_failure": {
+        "at": "2026-10-18T10:11:58.516904+00:00",
+        "detail": "Hermes stopped because your settings file (C:\\Users\\User\\AppData\\Local\\hermes\\config.yaml) has a formatting error at line 289. Fix it with `hermes config edit` and check with `hermes config check`, or add --ignore-user-config to run once with default settings. Details: found duplicate key \"platforms\" with value \"{}\" (original value: \"{}\")"
+      }
+    },
+    {
+      "id": "1505fd537513",
+      "name": "Morning Priority Check-in",
+      "prompt": "It's your morning check-in with H. Do the following:\n\n1. Send H a direct message to Telegram Topic 1. Be concise, direct, no fluff.\n\n2. FORMAT:\n\n**\u2600\ufe0f Good Morning \u2014 [DATE]**\n\n**\ud83d\udcca Target:** 2,500 GH\u20b5  |  **Actual:** [from sales log]\n\n**\ud83d\ude97 Leave:** 07:00  |  Ride: ~90 GH\u20b5  |  60 min to Dome\n\n**\ud83c\udfaf Priority:** 2,500 GH\u20b5 target (floor 1,640). [1-line from sales log: pending payments, follow ups]\n\n[Weather if available]\n\n3. READ the daily-sales-log.md for context. Keep it under 600 chars. H reads this at 07:00.",
+      "skills": [],
+      "skill": null,
+      "model": "deepseek/deepseek-v4-flash-0731",
+      "provider": "openrouter",
+      "base_url": null,
+      "script": null,
+      "no_agent": false,
+      "context_from": null,
+      "schedule": {
+        "kind": "cron",
+        "expr": "45 6 * * *",
+        "display": "45 6 * * *"
+      },
+      "schedule_display": "45 6 * * *",
+      "repeat": {
+        "times": null,
+        "completed": 127
+      },
+      "enabled": false,
+      "state": "scheduled",
+      "paused_at": null,
+      "paused_reason": null,
+      "created_at": "2026-06-07T07:19:55.496851+01:00",
+      "next_run_at": "2026-10-20T06:45:00+00:00",
+      "last_run_at": "2026-10-19T06:50:17.208175+00:00",
+      "last_status": "error",
+      "last_error": "RuntimeError: Hermes can't reach the model provider. You may be offline. Check your internet connection and try again.",
+      "last_delivery_error": "live adapter send failed: send_path_degraded; live adapter delivery to telegram:-1003784520976:1 failed: send_path_degraded; delivery error: Telegram send failed: httpx.ConnectError: All connection attempts failed (target telegram:-1003784520976:1); queued text for telegram:-1003784520976:1 for redelivery once the live adapter reconnects",
+      "deliver": "telegram:-1003784520976:1",
+      "origin": null,
+      "enabled_toolsets": null,
+      "workdir": null,
+      "profile": null,
+      "fire_claim": null,
+      "failure_streak": 1,
+      "provider_snapshot": null,
+      "model_snapshot": null,
+      "last_dispatch": {
+        "scheduled_at": "2026-10-19T06:45:00+00:00",
+        "dispatched_at": "2026-10-19T06:45:17.869056+00:00",
+        "lateness_seconds": 17.9,
+        "kind": "on_time"
+      },
+      "last_failure": {
+        "at": "2026-10-19T06:50:17.208175+00:00",
+        "detail": "RuntimeError: Hermes can't reach the model provider. You may be offline. Check your internet connection and try again."
+      }
+    },
+    {
+      "id": "e0e77e600e81",
+      "name": "Fluid CC Payment Reminder",
+      "prompt": "Send H a WhatsApp reminder message (target: whatsapp, his number +233 20 425 2252) about his Fluid credit card payment. The message should say:\n\n\"\ud83d\udcb3 Fluid CC Payment Reminder\n\nYour Fluid credit card payment is due on the 22nd (in 7 days).\n\nCurrent balance: ~\u00a31800\nMinimum payment: ~\u00a35\n\nTry to pay as much above the minimum as you can to reduce the debt faster. Even an extra \u00a320-50 makes a difference over time.\n\nLet me know if you want me to help you work out a payment plan.\"\n\nKeep it short and direct. H doesn't like fluff.",
+      "skills": [],
+      "skill": null,
+      "model": "deepseek/deepseek-v4-flash-0731",
+      "provider": "openrouter",
+      "base_url": null,
+      "script": null,
+      "no_agent": false,
+      "context_from": null,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 10 15 * *",
+        "display": "0 10 15 * *"
+      },
+      "schedule_display": "0 10 15 * *",
+      "repeat": {
+        "times": null,
+        "completed": 4
+      },
+      "enabled": true,
+      "state": "scheduled",
+      "paused_at": null,
+      "paused_reason": null,
+      "created_at": "2026-06-07T07:19:57.512060+01:00",
+      "next_run_at": "2026-11-15T10:00:00+00:00",
+      "last_run_at": "2026-10-15T11:43:48.588831+00:00",
+      "last_status": "ok",
+      "last_error": null,
+      "last_delivery_error": null,
+      "deliver": "origin",
+      "origin": null,
+      "enabled_toolsets": null,
+      "workdir": null,
+      "profile": null,
+      "fire_claim": null,
+      "provider_snapshot": null,
+      "model_snapshot": null,
+      "last_dispatch": {
+        "scheduled_at": "2026-10-15T10:00:00+00:00",
+        "dispatched_at": "2026-10-15T11:38:31.611251+00:00",
+        "lateness_seconds": 5911.6,
+        "kind": "late"
+      },
+      "failure_streak": 0
+    },
+    {
+      "id": "5d80f08b4d6b",
+      "name": "2Real \u2014 Daily Operations Check",
+      "prompt": "You are the AI agent for 2 Real Enterprises. Run the daily operations check AND deliver today's WhatsApp Status post from the content engine.\n\n## \u23f1 1. Determine today's day \u2192 pick the right content-engine day folder\nRun `date \"+%A\"` (or the Python `datetime` equivalent) to get today's weekday, then map it to the latest content week's day folder:\n\n| Weekday | Content folder | Brand + Status asset |\n|---|---|---|\n| Monday | monday-akoma | Akoma \u2014 has whatsapp-status |\n| Tuesday | tuesday-2real | 2Real \u2014 has whatsapp-status |\n| Wednesday | wednesday-akoma | Akoma \u2014 has whatsapp-status |\n| Thursday | thursday-2real | 2Real \u2014 has whatsapp-status |\n| Friday | friday-akoma | Akoma \u2014 has whatsapp-status |\n| Saturday | saturday-2real | 2Real \u2014 has whatsapp-status |\n| Sunday | (none) | no posting day \u2014 skip status, ops check only |\n\n## \ud83d\uddbc 2. Pull today's WhatsApp Status asset (SUNDAY CONTENT ENGINE INTEGRATION)\n1. Find the LATEST content week folder: the newest `week-YYYY-MM-DD` under\n   `C:\\Users\\User\\.hermes\\workspace\\Vault\\business\\Content\\content-output\\` (list with `ls -dt` / `search_files` and pick the newest \u2014 do NOT assume a date).\n2. Read that day's pre-built status from the week folder:\n   `<week>/<day-folder>/whatsapp-status/image.png` and `.../caption.txt`\n   (the Sunday content engine already renders + captions these, Jiji-priced and QC'd).\n3. Deliver the WhatsApp Status as `<day> WhatsApp Status`:\n   - The CAPTION text \u2014 content verbatim from `caption.txt`.\n   - The IMAGE \u2014 attach the `image.png` path (it is a real on-disk asset). Include the path in your reply and, if within your toolset, send it to the team channel.\n4. If the day folder or `whatsapp-status/` is MISSING (week not generated yet), FALL BACK to step 4 below (compose from live Jiji), and note \"status: fallback (no engine asset)\".\n\n## \ud83d\udccb 3. Core ops check (unchanged)\n- Read `C:\\Users\\User\\.hermes\\workspace\\Vault\\business\\2real\\2real-agent\\customer_leads.json` \u2014 pending inquiries in the last 24h\n- Read `C:\\Users\\User\\.hermes\\workspace\\Vault\\business\\2real\\2real-agent\\sourcing_log.json` \u2014 sourcing requests near/past the 24h SLA\n- Source-of-truth inventory: `jiji_listings_full.json` (NOT inventory_agent.json) \u2014 flag sold-out or low-risk listings\n- If there are pending inquiries, overdue sourcing, or urgent stock items, raise an alert with details\n\n## \ud83d\udcb0 4. Fallback WhatsApp Status suggestion (ONLY if no engine asset for today)\nCompose 3-5 featured in-stock items from LIVE Jiji listings (`jiji_listings_full.json`, status=active). Use the exact Jiji price_title. Never use inventory_agent.json (Zobaze) prices \u2014 Jiji is the source of truth.\n\n## \ud83d\udce6 WhatsApp Status posting reminder\nStatus posts are pre-approved by H from the Sunday engine batch (content-output/posting-queue.md). Deliver today's as the recommended status post; do NOT publish to a live audience without H approval.\n\n## \u2696 Business Rules (NEVER break these)\n- No credit. MoMo or cash only.\n- No discounts without H approval.\n- CTA everywhere is WhatsApp **0204252252** (never the old 0204252252).\n- Jiji listings are the source of truth for pricing/stock (NOT inventory_agent.json / Zobaze).\n\n## Output\n1. The ops-check summary + any alerts.\n2. Today's WhatsApp Status post (caption verbatim + image path).\n",
+      "skills": [
+        "2real-enterprises-agent"
+      ],
+      "skill": "2real-enterprises-agent",
+      "model": "deepseek/deepseek-v4-flash-0731",
+      "provider": "openrouter",
+      "base_url": null,
+      "script": null,
+      "no_agent": false,
+      "context_from": null,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 9 * * *",
+        "display": "0 9 * * *"
+      },
+      "schedule_display": "0 9 * * *",
+      "repeat": {
+        "times": null,
+        "completed": 128
+      },
+      "enabled": true,
+      "state": "scheduled",
+      "paused_at": null,
+      "paused_reason": null,
+      "created_at": "2026-06-07T23:07:14.607446+01:00",
+      "next_run_at": "2026-10-23T09:00:00+00:00",
+      "last_run_at": "2026-10-22T10:16:02.269542+00:00",
+      "last_status": "ok",
+      "last_error": null,
+      "last_delivery_error": null,
+      "deliver": "origin",
+      "origin": null,
+      "enabled_toolsets": null,
+      "workdir": null,
+      "profile": null,
+      "fire_claim": null,
+      "failure_streak": 0,
+      "provider_snapshot": null,
+      "model_snapshot": null,
+      "last_dispatch": {
+        "scheduled_at": "2026-10-22T09:00:00+00:00",
+        "dispatched_at": "2026-10-22T10:13:15.778359+00:00",
+        "lateness_seconds": 4395.8,
+        "kind": "late"
+      }
+    },
+    {
+      "id": "5f6fafe0aba8",
+      "name": "Dad \u2014 3-Day Condition & Wellbeing Check",
+      "prompt": "You are the periodic care check-in for Robert Herbert-Blankson (age 92, H's dad, UK). You run every 3 days.\n\n## Your Task\n\n1. **Search for latest information** about Dad's conditions using web_search:\n   - Search for \"prostate cancer survivor elderly care 2026\" or similar relevant topics\n   - Search for \"below knee amputee care elderly mobility\" updates\n   - Search for \"deep vein thrombosis prevention elderly wheelchair\"\n   - Search for any new NHS guidelines relevant to his conditions\n   - Focus on: NEW findings, updated care recommendations, wellbeing tips, nutrition advice for his specific conditions\n\n2. **Compile a brief intelligence update** covering:\n   - Any new relevant health information about his conditions (prostate removed, BKA, dilated blood vessel)\n   - Practical wellbeing tips appropriate for his situation\n   - Any NHS/social care updates that might affect him\n   - Nutrition/hydration advice for elderly wheelchair-bound patients\n   - Mental wellbeing considerations for elderly amputees\n\n3. **Post to Telegram topic 16 (Dad)** with format:\n\n   \ud83d\udd14 Dad's 3-Day Check \u2014 [DATE]\n\n   **Health Intelligence:**\n   \u2022 [Any new info about his conditions]\n\n   **Wellbeing Tips:**\n   \u2022 [Practical tips for his situation]\n\n   **Action Items (if any):**\n   \u2022 [Things to raise with his care team]\n\n   Keep it under 300 words. Be warm and respectful.\n\n4. **Save a copy** to C:\\Users\\User\\.hermes\\workspace\\memories\\family\\dad\\DAD_WELLBEING_[DATE].md\n\nDad's conditions: Right leg amputated below knee, prostate removed, dilated blood vessel, wheelchair-bound, lives in UK at [address on file].",
+      "skills": [
+        "lifebot-family"
+      ],
+      "skill": "lifebot-family",
+      "model": "deepseek/deepseek-v4-flash-0731",
+      "provider": "openrouter",
+      "base_url": null,
+      "script": null,
+      "no_agent": false,
+      "context_from": null,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 10 */3 * *",
+        "display": "0 10 */3 * *"
+      },
+      "schedule_display": "0 10 */3 * *",
+      "repeat": {
+        "times": null,
+        "completed": 40
+      },
+      "enabled": true,
+      "state": "scheduled",
+      "paused_at": null,
+      "paused_reason": null,
+      "created_at": "2026-06-23T02:09:57.632312+01:00",
+      "next_run_at": "2026-10-25T10:00:00+00:00",
+      "last_run_at": "2026-10-22T10:16:13.075154+00:00",
+      "last_status": "ok",
+      "last_error": null,
+      "last_delivery_error": null,
+      "deliver": "telegram:-1003784520976:16",
+      "origin": null,
+      "enabled_toolsets": null,
+      "workdir": null,
+      "fire_claim": null,
+      "failure_streak": 0,
+      "provider_snapshot": null,
+      "model_snapshot": null,
+      "last_dispatch": {
+        "scheduled_at": "2026-10-22T10:00:00+00:00",
+        "dispatched_at": "2026-10-22T10:13:15.778359+00:00",
+        "lateness_seconds": 795.8,
+        "kind": "late"
+      },
+      "last_failure": {
+        "at": "2026-10-13T12:55:07.186717+00:00",
+        "detail": "TimeoutError: Cron job 'Dad \u2014 3-Day Condition & Wellbeing Check' idle for 1437s (limit 600s) \u2014 last activity: \u23f3 waiting on provider \u2014 retrying in 5s (attempt 2/3)"
+      }
+    },
+    {
+      "id": "4f223316a340",
+      "name": "h-health-weekly-review",
+      "prompt": "You are LifeBot for H \u2014 the weekly health reviewer. Today is Sunday.\n\nMASTER FILES (canonical \u2014 only these files exist):\n- MEDICAL: C:\\Users\\User\\.hermes\\workspace\\Vault\\family\\H\\health\\H_MEDICAL_MASTER.md\n- FOOD: C:\\Users\\User\\.hermes\\workspace\\Vault\\family\\H\\health\\H_FOOD_MASTER.md\n- PROFILE: C:\\Users\\User\\.hermes\\workspace\\Vault\\family\\H\\H_PROFILE.md\n\nLifeBot philosophy: compare THIS week against H's own prior weeks (use the trend table in the medical master), use real counts, end with ONE lever.\n\nTASK:\n1. Read both master files for the past week.\n2. Analyze trends, red flags, patterns \u2014 use H's own history as the baseline.\n3. Post the weekly report to telegram:-1003784520976:2 (Health Log topic).\n4. Append the weekly summary to the bottom of H_MEDICAL_MASTER.md.\n\nReport format:\n\ud83d\udcca H's Weekly Health Review \u2014 [date range]\n\ud83d\udd34 Red Flags / \ud83d\udfe1 Watch / \ud83d\udfe2 Good\n\ud83d\udcc8 Trends summary\n\ud83d\udca1 Recommendations\n\nAPPEND FORMAT:\n```\n---\n\n### \ud83d\udcca Weekly Review \u2014 [date range]\n**Generated:** [date]\n\n\ud83d\udd34 **Red Flags:** [summary]\n\ud83d\udfe1 **Watch:** [summary]\n\ud83d\udfe2 **Good:** [summary]\n\ud83d\udcc8 **Trends:** [week-over-week changes]\n\ud83d\udca1 **Top 3 Actions This Week:** [1. / 2. / 3.]\n```",
+      "skills": [
+        "lifebot-family"
+      ],
+      "skill": "lifebot-family",
+      "model": "deepseek/deepseek-v4-flash-0731",
+      "provider": "openrouter",
+      "base_url": null,
+      "script": null,
+      "no_agent": false,
+      "context_from": null,
+      "schedule": {
+        "kind": "cron",
+        "expr": "6 9 * * 0",
+        "display": "6 9 * * 0"
+      },
+      "schedule_display": "6 9 * * 0",
+      "repeat": {
+        "times": null,
+        "completed": 17
+      },
+      "enabled": true,
+      "state": "scheduled",
+      "paused_at": null,
+      "paused_reason": null,
+      "created_at": "2026-06-25T05:40:55.363455+01:00",
+      "next_run_at": "2026-10-25T09:06:00+00:00",
+      "last_run_at": "2026-10-18T09:08:27.119173+00:00",
+      "last_status": "ok",
+      "last_error": null,
+      "last_delivery_error": null,
+      "deliver": "telegram:-1003784520976:2",
+      "origin": null,
+      "enabled_toolsets": null,
+      "workdir": "C:\\Users\\User\\.hermes\\workspace\\Vault\\family\\H",
+      "fire_claim": null,
+      "provider_snapshot": null,
+      "model_snapshot": null,
+      "failure_streak": 0,
+      "last_dispatch": {
+        "scheduled_at": "2026-10-18T09:06:00+00:00",
+        "dispatched_at": "2026-10-18T09:06:51.497456+00:00",
+        "lateness_seconds": 51.5,
+        "kind": "on_time"
+      }
+    },
+    {
+      "id": "18ac03e4dfcb",
+      "name": "farm-morning-prompt",
+      "prompt": "You are the morning prompt for the Senya Beraku farm lead (Ben/Eastwood).\n\n**SEND THIS EXACT MESSAGE to WhatsApp group \"Farm Ops\" (or individual):**\n\n```\n\ud83c\udf05 FARM MORNING CHECK \u2014 {{date}}\nReply with:\n1. Pond level (cm):\n2. Drains: flowing / blocked at [where]:\n3. Goats: present / missing \u2014 last seen:\n4. Crops waterlogged: [beds] \u2014 action taken:\n5. Pump: off / running [hrs]:\n6. Staff present: [names]\n7. Today's priority task:\n```\n\nLog their reply to `farm/daily/{{date}}.md` under \"## Morning Check\".\nIf no reply by 8:00 AM, alert H on Telegram: \ud83d\udcf5 **NO MORNING CHECK** \u2014 Farm lead silent. Call now.\n\nUse the Obsidian vault at `C:/Users/User/.hermes/workspace/Vault/business/farm/`",
+      "skills": [
+        "obsidian"
+      ],
+      "skill": "obsidian",
+      "model": null,
+      "provider": null,
+      "provider_snapshot": "openrouter",
+      "model_snapshot": "nvidia/nemotron-3-ultra-550b-a55b:free",
+      "base_url": null,
+      "script": null,
+      "no_agent": false,
+      "context_from": null,
+      "schedule": {
+        "kind": "cron",
+        "expr": "30 6 * * *",
+        "display": "30 6 * * *"
+      },
+      "schedule_display": "30 6 * * *",
+      "repeat": {
+        "times": null,
+        "completed": 9
+      },
+      "enabled": false,
+      "state": "paused",
+      "paused_at": "2026-07-08T06:52:35.324777+01:00",
+      "paused_reason": null,
+      "created_at": "2026-06-29T07:03:39.847692+01:00",
+      "next_run_at": "2026-07-09T06:30:00+01:00",
+      "last_run_at": "2026-07-08T06:30:21.902013+01:00",
+      "last_status": "error",
+      "last_error": "RuntimeError: Skipped to prevent unintended spend: global inference config drifted since this job was created (model 'nvidia/nemotron-3-ultra-550b-a55b:free' -> 'deepseek/deepseek-v4-flash'), and this job is unpinned. No inference call was made. To run on the new config, pin it explicitly: `cronjob action=update job_id=18ac03e4dfcb provider=<provider> model=<model>` (or pin the original values to keep them). See #44585.",
+      "last_delivery_error": null,
+      "deliver": "telegram:-1003784520976:14",
+      "origin": {
+        "platform": "telegram",
+        "chat_id": "-1003784520976",
+        "chat_name": "Agent Hermes",
+        "thread_id": "14",
+        "user_id": "123286468"
+      },
+      "enabled_toolsets": null,
+      "workdir": "C:\\Users\\User\\.hermes\\workspace\\Vault\\business\\farm",
+      "fire_claim": null
+    },
+    {
+      "id": "b4967125dd84",
+      "name": "farm-evening-log",
+      "prompt": "Compile the daily farm log to Obsidian.\n\n**Steps**:\n1. Read WhatsApp messages from \"Farm Ops\" group since 6:00 AM today.\n2. Extract: morning check, midday harvest/sales, evening check, notes.\n3. Write/append to `farm/daily/{{date}}.md` using the template in FARM_WORKFLOW.md.\n4. If morning or evening check missing, add **\u26a0\ufe0f MISSING** flag in log.\n5. Deliver summary to Telegram: \"\u2705 Daily log saved: {{date}} \u2014 Harvest: X kg, Sales: GHS Y, Pond: Z cm, Issues: [list]\"\n\nUse the Obsidian vault at `C:/Users/User/.hermes/workspace/Vault/business/farm/`",
+      "skills": [
+        "obsidian"
+      ],
+      "skill": "obsidian",
+      "model": null,
+      "provider": null,
+      "provider_snapshot": "openrouter",
+      "model_snapshot": "nvidia/nemotron-3-ultra-550b-a55b:free",
+      "base_url": null,
+      "script": null,
+      "no_agent": false,
+      "context_from": null,
+      "schedule": {
+        "kind": "cron",
+        "expr": "30 18 * * *",
+        "display": "30 18 * * *"
+      },
+      "schedule_display": "30 18 * * *",
+      "repeat": {
+        "times": null,
+        "completed": 9
+      },
+      "enabled": false,
+      "state": "paused",
+      "paused_at": "2026-07-08T06:52:36.362453+01:00",
+      "paused_reason": null,
+      "created_at": "2026-06-29T07:03:52.009665+01:00",
+      "next_run_at": "2026-07-08T18:30:00+01:00",
+      "last_run_at": "2026-07-08T03:52:50.208759+01:00",
+      "last_status": "error",
+      "last_error": "RuntimeError: Skipped to prevent unintended spend: global inference config drifted since this job was created (model 'nvidia/nemotron-3-ultra-550b-a55b:free' -> 'deepseek/deepseek-v4-flash'), and this job is unpinned. No inference call was made. To run on the new config, pin it explicitly: `cronjob action=update job_id=b4967125dd84 provider=<provider> model=<model>` (or pin the original values to keep them). See #44585.",
+      "last_delivery_error": null,
+      "deliver": "telegram:-1003784520976:14",
+      "origin": {
+        "platform": "telegram",
+        "chat_id": "-1003784520976",
+        "chat_name": "Agent Hermes",
+        "thread_id": "14",
+        "user_id": "123286468"
+      },
+      "enabled_toolsets": null,
+      "workdir": "C:\\Users\\User\\.hermes\\workspace\\Vault\\business\\farm",
+      "fire_claim": null
+    },
+    {
+      "id": "5e0b8e1ad0ab",
+      "name": "farm-weekly-review",
+      "prompt": "Generate the weekly farm review.\n\n**Read**: All `farm/daily/YYYY-MM-DD.md` from past 7 days.\n**Write**: `farm/weekly/YYYY-WW.md` with:\n\n```markdown\n# Weekly Farm Review \u2014 Week {{week_num}} ({{date_start}} to {{date_end}})\n\n## \ud83d\udcca Harvest Summary\n| Crop | Total kg | Avg Price (GHS/kg) | Revenue (GHS) |\n|------|----------|-------------------|---------------|\n| Tomato | | | |\n| Pepper | | | |\n| Plantain (bunches) | | | |\n| Coconut (pcs) | | | |\n| Other | | | |\n**Total Revenue**: GHS\n\n## \ud83d\udcb0 Expense Summary\n| Category | Amount (GHS) |\n|----------|-------------|\n| Labor | |\n| Feed | |\n| Fuel | |\n| Inputs (seeds, organic spray) | |\n| Repairs | |\n| Training | |\n**Total Expenses**: GHS\n\n## \ud83d\udca7 Water System\n- Pond level trend: Start {{start_cm}} cm \u2192 End {{end_cm}} cm\n- Rainfall total: {{total_mm}} mm\n- Drainage issues: [list]\n- Irrigation hours: {{hrs}}\n\n## \ud83d\udc10 Livestock\n- Goats: [status, health, feed, housing progress]\n- Missing/stolen: [incidents]\n\n## \ud83d\udc1d Apiary\n- Hive inspections: [count]\n- Honey harvest: [kg]\n- Training progress: [Kanzoni/Kwasi]\n\n## \ud83c\udf31 Crop Health\n- Waterlogging incidents: [beds, severity, action]\n- Pest/disease: [crop, issue, treatment]\n- Mulch coverage: [beds done / total]\n\n## \ud83d\udc65 Staff Performance\n- Ben: [days present, tasks completed, issues]\n- Eastwood: [days present, tasks completed, issues]\n- Kalidou replacement: [status]\n\n## \ud83c\udfaf Next Week Priorities\n1. [Priority 1]\n2. [Priority 2]\n3. [Priority 3]\n\n## \ud83d\udea8 Escalations to H\n- [Any item needing owner decision/funds]\n```\n\nDeliver the review to Telegram thread 14 (Agent Hermes).\n\nUse the Obsidian vault at `C:/Users/User/.hermes/workspace/Vault/business/farm/`",
+      "skills": [
+        "obsidian"
+      ],
+      "skill": "obsidian",
+      "model": null,
+      "provider": null,
+      "provider_snapshot": "openrouter",
+      "model_snapshot": "nvidia/nemotron-3-ultra-550b-a55b:free",
+      "base_url": null,
+      "script": null,
+      "no_agent": false,
+      "context_from": null,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 9 * * 0",
+        "display": "0 9 * * 0"
+      },
+      "schedule_display": "0 9 * * 0",
+      "repeat": {
+        "times": null,
+        "completed": 1
+      },
+      "enabled": false,
+      "state": "paused",
+      "paused_at": "2026-07-08T06:52:37.408245+01:00",
+      "paused_reason": null,
+      "created_at": "2026-06-29T07:04:11.237120+01:00",
+      "next_run_at": "2026-07-12T09:00:00+01:00",
+      "last_run_at": "2026-07-05T09:00:53.854471+01:00",
+      "last_status": "error",
+      "last_error": "RuntimeError: Skipped to prevent unintended spend: global inference config drifted since this job was created (model 'nvidia/nemotron-3-ultra-550b-a55b:free' -> 'nvidia/nemotron-3-super-120b-a12b:free'), and this job is unpinned. No inference call was made. To run on the new config, pin it explicitly: `cronjob action=update job_id=5e0b8e1ad0ab provider=<provider> model=<model>` (or pin the original values to keep them). See #44585.",
+      "last_delivery_error": "delivery error: Telegram send failed: httpx.ConnectError: [Errno 11001] getaddrinfo failed",
+      "deliver": "telegram:-1003784520976:14",
+      "origin": {
+        "platform": "telegram",
+        "chat_id": "-1003784520976",
+        "chat_name": "Agent Hermes",
+        "thread_id": "14",
+        "user_id": "123286468"
+      },
+      "enabled_toolsets": null,
+      "workdir": "C:\\Users\\User\\.hermes\\workspace\\Vault\\business\\farm",
+      "fire_claim": null
+    },
+    {
+      "id": "0092ed0f34dd",
+      "name": "farm-market-prices",
+      "prompt": "Fetch current Senya/Kasoa market prices for farm crops.\n\n**Method**: Ask Eastwood/Ben to do quick market walk or call contacts.\n**Send WhatsApp to Farm Ops**:\n```\n\ud83d\udcb0 MARKET PRICE CHECK \u2014 {{date}}\nReply with current prices (GHS):\n- Tomato (kg):\n- Pepper (kg):\n- Onion (kg):\n- Plantain (bunch):\n- Coconut (pc):\n- Maize (kg):\n- Sweet potato (kg):\n- Honey (kg):\n```\n\nLog to `farm/daily/{{date}}.md` and `farm/finance/prices.md`.\nAlert H if any crop price < production cost (est: tomato GHS 12/kg, pepper GHS 18/kg).\n\nUse the Obsidian vault at `C:/Users/User/.hermes/workspace/Vault/business/farm/`",
+      "skills": [
+        "obsidian"
+      ],
+      "skill": "obsidian",
+      "model": null,
+      "provider": null,
+      "provider_snapshot": "openrouter",
+      "model_snapshot": "nvidia/nemotron-3-ultra-550b-a55b:free",
+      "base_url": null,
+      "script": null,
+      "no_agent": false,
+      "context_from": null,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 7 * * 2,4",
+        "display": "0 7 * * 2,4"
+      },
+      "schedule_display": "0 7 * * 2,4",
+      "repeat": {
+        "times": null,
+        "completed": 3
+      },
+      "enabled": false,
+      "state": "paused",
+      "paused_at": "2026-07-08T06:52:38.448984+01:00",
+      "paused_reason": null,
+      "created_at": "2026-06-29T07:04:26.639624+01:00",
+      "next_run_at": "2026-07-09T07:00:00+01:00",
+      "last_run_at": "2026-07-07T07:02:37.501097+01:00",
+      "last_status": "error",
+      "last_error": "RuntimeError: Skipped to prevent unintended spend: global inference config drifted since this job was created (model 'nvidia/nemotron-3-ultra-550b-a55b:free' -> 'deepseek/deepseek-v4-flash'), and this job is unpinned. No inference call was made. To run on the new config, pin it explicitly: `cronjob action=update job_id=0092ed0f34dd provider=<provider> model=<model>` (or pin the original values to keep them). See #44585.",
+      "last_delivery_error": null,
+      "deliver": "telegram:-1003784520976:14",
+      "origin": {
+        "platform": "telegram",
+        "chat_id": "-1003784520976",
+        "chat_name": "Agent Hermes",
+        "thread_id": "14",
+        "user_id": "123286468"
+      },
+      "enabled_toolsets": null,
+      "workdir": "C:\\Users\\User\\.hermes\\workspace\\Vault\\business\\farm",
+      "fire_claim": null
+    },
+    {
+      "id": "797184cf4a40",
+      "name": "farm-finance-weekly",
+      "prompt": "Weekly farm P&L summary.\n\n**Read**: `farm/daily/` logs for Mon\u2013Fri this week + `farm/finance/prices.md`.\n**Calculate**:\n- Revenue by crop (harvest kg \u00d7 market price)\n- Expenses by category (from daily logs)\n- Net cash flow\n- Cash on hand (from Zobase / WhatsApp records)\n\n**Deliver to Telegram**:\n```\n\ud83d\udcb0 FARM WEEKLY P&L \u2014 Week {{week_num}}\nRevenue: GHS {{revenue}}\nExpenses: GHS {{expenses}}\nNet: GHS {{net}}\nCash: GHS {{cash}}\n\nTop crop: {{crop}} (GHS {{amount}})\nBiggest cost: {{category}} (GHS {{amount}})\n\n\u26a0\ufe0f Flags: [any crop selling below cost, cash < 2 weeks expenses, unpaid labor]\n```\n\nUse the Obsidian vault at `C:/Users/User/.hermes/workspace/Vault/business/farm/`",
+      "skills": [
+        "obsidian"
+      ],
+      "skill": "obsidian",
+      "model": null,
+      "provider": null,
+      "provider_snapshot": "openrouter",
+      "model_snapshot": "nvidia/nemotron-3-ultra-550b-a55b:free",
+      "base_url": null,
+      "script": null,
+      "no_agent": false,
+      "context_from": null,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 18 * * 5",
+        "display": "0 18 * * 5"
+      },
+      "schedule_display": "0 18 * * 5",
+      "repeat": {
+        "times": null,
+        "completed": 1
+      },
+      "enabled": false,
+      "state": "paused",
+      "paused_at": "2026-07-08T06:52:40.530820+01:00",
+      "paused_reason": null,
+      "created_at": "2026-06-29T07:05:06.704459+01:00",
+      "next_run_at": "2026-07-10T18:00:00+01:00",
+      "last_run_at": "2026-07-04T02:26:17.175396+01:00",
+      "last_status": "error",
+      "last_error": "RuntimeError: Skipped to prevent unintended spend: global inference config drifted since this job was created (model 'nvidia/nemotron-3-ultra-550b-a55b:free' -> 'deepseek/deepseek-v4-flash'), and this job is unpinned. No inference call was made. To run on the new config, pin it explicitly: `cronjob action=update job_id=797184cf4a40 provider=<provider> model=<model>` (or pin the original values to keep them). See #44585.",
+      "last_delivery_error": null,
+      "deliver": "telegram:-1003784520976:14",
+      "origin": {
+        "platform": "telegram",
+        "chat_id": "-1003784520976",
+        "chat_name": "Agent Hermes",
+        "thread_id": "14",
+        "user_id": "123286468"
+      },
+      "enabled_toolsets": null,
+      "workdir": "C:\\Users\\User\\.hermes\\workspace\\Vault\\business\\farm",
+      "fire_claim": null
+    },
+    {
+      "id": "45e8631c9b66",
+      "name": "farm-dry-season-prep",
+      "prompt": "**DRY SEASON PREPARATION CHECKLIST ACTIVATED**\n\nCreate `farm/dry-season-prep-{{year}}.md` with:\n\n```markdown\n# Dry Season Prep \u2014 {{year}}\n\n## \ud83c\udf0a Water Security\n- [ ] Pond at max capacity (target 150+ cm)\n- [ ] Pond shade cloth installed (reduce evap 60%)\n- [ ] Treadle pump tested + hose no leaks\n- [ ] Drip tape laid for 500 m\u00b2 min\n- [ ] Mulch all beds 15 cm (cocoa husk / coir / grass)\n- [ ] Vetiver hedges established on all contours\n- [ ] Zai pits dug for tomato/pepper beds\n\n## \ud83d\udc10 Livestock\n- [ ] Goat housing complete (raised slatted floor, shade, water tank, lock)\n- [ ] Dry season feed stockpiled (3 months: grass, moringa, leucaena, crop residue)\n- [ ] Mineral lick + deworming done\n\n## \ud83d\udc1d Apiary\n- [ ] Hives strong (5+ frames brood) going into dry\n- [ ] Water stations at apiary (shallow, stones for bees)\n- [ ] Kwasi monthly visits scheduled\n\n## \ud83c\udf31 Crops\n- [ ] Dry season nursery: tomato, pepper, onion, cabbage, lettuce\n- [ ] Early maize planted (irrigated)\n- [ ] Sweet potato vines multiplied for planting\n- [ ] Moringa/leucaena coppiced for mulch + fodder\n\n## \ud83d\udcb0 Finance\n- [ ] 3 months operating cash reserved\n- [ ] Input procurement done (seeds, organic spray, drip parts)\n```\n\nDeliver checklist to Telegram with \ud83d\udea8 **DRY SEASON PREP STARTED** \u2014 90 days to ready.\n\nUse the Obsidian vault at `C:/Users/User/.hermes/workspace/Vault/business/farm/`",
+      "skills": [
+        "obsidian"
+      ],
+      "skill": "obsidian",
+      "model": null,
+      "provider": null,
+      "provider_snapshot": "openrouter",
+      "model_snapshot": "nvidia/nemotron-3-ultra-550b-a55b:free",
+      "base_url": null,
+      "script": null,
+      "no_agent": false,
+      "context_from": null,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 9 1 11 *",
+        "display": "0 9 1 11 *"
+      },
+      "schedule_display": "0 9 1 11 *",
+      "repeat": {
+        "times": null,
+        "completed": 0
+      },
+      "enabled": false,
+      "state": "paused",
+      "paused_at": "2026-07-08T06:52:41.564031+01:00",
+      "paused_reason": null,
+      "created_at": "2026-06-29T07:05:31.216222+01:00",
+      "next_run_at": "2026-11-01T09:00:00+01:00",
+      "last_run_at": null,
+      "last_status": null,
+      "last_error": null,
+      "last_delivery_error": null,
+      "deliver": "telegram:-1003784520976:14",
+      "origin": {
+        "platform": "telegram",
+        "chat_id": "-1003784520976",
+        "chat_name": "Agent Hermes",
+        "thread_id": "14",
+        "user_id": "123286468"
+      },
+      "enabled_toolsets": null,
+      "workdir": "C:\\Users\\User\\.hermes\\workspace\\Vault\\business\\farm"
+    },
+    {
+      "id": "44349f1fac40",
+      "name": "farm-staff-check",
+      "prompt": "Staff presence verification.\n\n**Check**: WhatsApp \"Farm Ops\" for morning check-ins from Ben/Eastwood on scheduled days.\n- Ben: expected daily\n- Eastwood: expected Mon/Wed/Fri (2x/week minimum)\n\n**If missing 2+ consecutive scheduled days**:\nAlert H: \ud83d\udc64 **STAFF ABSENT**: {{name}} missing {{days}} days. Last contact: {{date}}. Backup: [Ben calls replacement / you authorize temp hire].\n\nLog to `farm/staff/attendance-{{year}}-{{month}}.md`.\n\nUse the Obsidian vault at `C:/Users/User/.hermes/workspace/Vault/business/farm/`",
+      "skills": [
+        "obsidian"
+      ],
+      "skill": "obsidian",
+      "model": null,
+      "provider": null,
+      "provider_snapshot": "openrouter",
+      "model_snapshot": "nvidia/nemotron-3-ultra-550b-a55b:free",
+      "base_url": null,
+      "script": null,
+      "no_agent": false,
+      "context_from": null,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 8 * * 1,3,5",
+        "display": "0 8 * * 1,3,5"
+      },
+      "schedule_display": "0 8 * * 1,3,5",
+      "repeat": {
+        "times": null,
+        "completed": 4
+      },
+      "enabled": false,
+      "state": "paused",
+      "paused_at": "2026-07-08T06:52:42.609486+01:00",
+      "paused_reason": null,
+      "created_at": "2026-06-29T07:05:45.714026+01:00",
+      "next_run_at": "2026-07-08T08:00:00+01:00",
+      "last_run_at": "2026-07-06T08:00:13.897708+01:00",
+      "last_status": "error",
+      "last_error": "RuntimeError: Skipped to prevent unintended spend: global inference config drifted since this job was created (model 'nvidia/nemotron-3-ultra-550b-a55b:free' -> 'deepseek/deepseek-v4-flash'), and this job is unpinned. No inference call was made. To run on the new config, pin it explicitly: `cronjob action=update job_id=44349f1fac40 provider=<provider> model=<model>` (or pin the original values to keep them). See #44585.",
+      "last_delivery_error": null,
+      "deliver": "telegram:-1003784520976:14",
+      "origin": {
+        "platform": "telegram",
+        "chat_id": "-1003784520976",
+        "chat_name": "Agent Hermes",
+        "thread_id": "14",
+        "user_id": "123286468"
+      },
+      "enabled_toolsets": null,
+      "workdir": "C:\\Users\\User\\.hermes\\workspace\\Vault\\business\\farm",
+      "fire_claim": null
+    },
+    {
+      "id": "0ef160b1c270",
+      "name": "Daily Marketplace Monitor",
+      "prompt": "Run the daily UK marketplace monitoring routine for Freegle, Vinted, Trash Nothing, Shpock, Nextdoor, East Dulwich Forum, and Facebook Marketplace.\n\nUse the marketplace-monitor skill to check all 7 platforms for items of interest in the East Dulwich / South London area (SE22, SE15, SE5 postcodes).\n\nCategories to monitor:\n- Furniture (sofa, table, chairs, wardrobe, bed, desk, bookshelf)\n- Electronics (TV, laptop, monitor, phone, tablet, speaker, camera)\n- Garden (lawnmower, hedge trimmer, shed, greenhouse, tools, pots)\n- Building materials (bricks, tiles, timber, paint, plasterboard, insulation)\n- Appliances (fridge, washing machine, dishwasher, oven, microwave)\n- Baby/Kids (cot, pram, high chair, toys, clothes bundles)\n- Bikes (road bike, mountain bike, kids bike, e-bike)\n- Free/zero-cost items (free, free to collect, collection only, must go today)\n\nLocation filters: East Dulwich, Dulwich, SE22, SE15, Peckham, Camberwell, Nunhead, Herne Hill (3-5 mile radius from SE22)\n\nActions for each platform:\n1. Freegle - Check East Dulwich, Dulwich, South London groups for Offered/Wanted\n2. Vinted - Check saved searches for SE22/SE15/SE5, clothing/shoes/accessories\n3. Trash Nothing - Check London/South London groups, Offered/Wanted\n4. Shpock - Search SE22/5 miles, Home & Garden, Electronics, Fashion, Toys\n5. Nextdoor - Check East Dulwich, Dulwich Village, Peckham Rye neighborhoods, For Sale & Free\n6. East Dulwich Forum - Check Classifieds: For Sale, Wanted, Free, Services\n7. Facebook Marketplace - SE22, 5km radius, Home & Garden, Electronics, Clothing, Vehicles\n\nLog findings to: C:\\Users\\User\\.hermes\\workspace\\marketplace-logs\\YYYY-MM-DD.md using the DAILY_LOG_TEMPLATE.md format.\n\nSave any high-interest items (furniture, electronics, garden tools, building materials, bikes, free items) to the \"High-Interest Items\" section with links and action needed.",
+      "skills": [
+        "marketplace-monitor",
+        "browser"
+      ],
+      "skill": "marketplace-monitor",
+      "model": null,
+      "provider": null,
+      "provider_snapshot": "openrouter",
+      "model_snapshot": "nvidia/nemotron-3-ultra-550b-a55b:free",
+      "base_url": null,
+      "script": null,
+      "no_agent": false,
+      "context_from": null,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 7 * * *",
+        "display": "0 7 * * *"
+      },
+      "schedule_display": "0 7 * * *",
+      "repeat": {
+        "times": null,
+        "completed": 37
+      },
+      "enabled": false,
+      "state": "paused",
+      "paused_at": "2026-08-19T01:48:35.875547+00:00",
+      "paused_reason": null,
+      "created_at": "2026-07-13T10:13:02.952130+01:00",
+      "next_run_at": "2026-08-19T07:00:00+00:00",
+      "last_run_at": "2026-08-18T07:00:38.346670+00:00",
+      "last_status": "error",
+      "last_error": "RuntimeError: [drift_skip:silent] Skipped to prevent unintended spend: global inference config drifted since this job was created (model 'nvidia/nemotron-3-ultra-550b-a55b:free' -> 'deepseek/deepseek-v4-flash-0731'), and this job is unpinned. No inference call was made. To run on the new config, pin it explicitly: `cronjob action=update job_id=0ef160b1c270 provider=<provider> model=<model>` (or pin the original values to keep them). This alert is sent once; the job stays skipped until the config is pinned or restored. See #44585.",
+      "last_delivery_error": null,
+      "deliver": "local",
+      "origin": null,
+      "enabled_toolsets": null,
+      "workdir": null,
+      "fire_claim": null,
+      "drift_alerted": true
+    },
+    {
+      "id": "aebf7e736923",
+      "name": "Mom Morning Exercise Reminders",
+      "prompt": "Send a short Telegram reminder to the Home channel for Mom's morning exercise session. Here is the exact routine to describe:\n\n## \u2600\ufe0f Morning Session \u2014 Precision Ankle Pump Routine (~6 minutes)\n*Best done before getting out of bed (exercises 1\u20134 seated on edge of bed; exercise 5 standing with chair for balance)*\n\n1. **Precision Ankle Pump** \u2014 20 reps (90s)\n   - Sit flat, back supported. Press heel down, pull toes toward shin. Hold 2s at top, release flat.\n2. **Seated Calf Raise** \u2014 15 reps (60s)\n   - Lift both heels high. Hold 2s at top. Lower very slowly over 2s (eccentric).\n3. **Slow Ankle Circle** \u2014 10 each direction per foot (90s)\n   - Lift one foot. Slow full circles: 10 clockwise, 10 counter-clockwise. Switch feet.\n4. **Seated Knee Extension** \u2014 10 per leg (60s)\n   - Straighten leg parallel to floor. Hold 2s at full extension. Lower slowly. Alternate.\n5. **Standing Heel Raise** \u2014 15 reps (60s)\n   - Stand behind chair for balance. Rise onto balls of feet. Hold 2s at top. Lower over 2-3s.\n\nWrite a warm, encouraging reminder message. Keep it friendly. Sign off as \"Your AI Health Coach\"",
+      "skills": [],
+      "skill": null,
+      "model": "deepseek/deepseek-v4-flash-0731",
+      "provider": "openrouter",
+      "provider_snapshot": null,
+      "model_snapshot": null,
+      "base_url": null,
+      "script": null,
+      "no_agent": false,
+      "context_from": null,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 8 * * *",
+        "display": "0 8 * * *"
+      },
+      "schedule_display": "0 8 * * *",
+      "repeat": {
+        "times": null,
+        "completed": 91
+      },
+      "enabled": true,
+      "state": "scheduled",
+      "paused_at": null,
+      "paused_reason": null,
+      "created_at": "2026-07-18T04:12:38.493477+01:00",
+      "next_run_at": "2026-10-23T08:00:00+00:00",
+      "last_run_at": "2026-10-22T10:14:12.275919+00:00",
+      "last_status": "ok",
+      "last_error": null,
+      "last_delivery_error": null,
+      "deliver": "telegram:123286468",
+      "origin": {
+        "platform": "telegram",
+        "chat_id": "-1003784520976",
+        "chat_name": "Agent Hermes",
+        "thread_id": "424",
+        "user_id": "123286468"
+      },
+      "enabled_toolsets": null,
+      "workdir": null,
+      "fire_claim": null,
+      "failure_streak": 0,
+      "last_dispatch": {
+        "scheduled_at": "2026-10-22T08:00:00+00:00",
+        "dispatched_at": "2026-10-22T10:13:15.778359+00:00",
+        "lateness_seconds": 7995.8,
+        "kind": "catch_up"
+      },
+      "last_failure": {
+        "at": "2026-10-14T16:36:42.127177+00:00",
+        "detail": "RuntimeError: agent reported failure"
+      }
+    },
+    {
+      "id": "3ebd2dc4487c",
+      "name": "Mom Evening Exercise Reminders",
+      "prompt": "Send a short Telegram reminder to the Home channel for Mom's evening exercise session. Here is the exact routine to describe:\n\n## \ud83c\udf19 Evening Session \u2014 Precision Ankle Pump Routine (~6 minutes)\n*Best done after dinner in a comfortable chair with back support \u2014 TV time works well*\n\n1. **Precision Ankle Pump** \u2014 20 reps (90s)\n   - Sit flat, back supported. Press heel down, pull toes toward shin. Hold 2s at top, release flat.\n2. **Seated Calf Raise** \u2014 15 reps (60s)\n   - Lift both heels high. Hold 2s at top. Lower very slowly over 2s (eccentric).\n3. **Slow Ankle Circle** \u2014 10 each direction per foot (90s)\n   - Lift one foot. Slow full circles: 10 clockwise, 10 counter-clockwise. Switch feet.\n4. **Seated Knee Extension** \u2014 10 per leg (60s)\n   - Straighten leg parallel to floor. Hold 2s at full extension. Lower slowly. Alternate.\n5. **Standing Heel Raise** \u2014 15 reps (60s)\n   - Stand behind chair for balance. Rise onto balls of feet. Hold 2s at top. Lower over 2-3s.\n\nWrite a warm, encouraging reminder message. Make it feel like a gentle evening nudge. Sign off as \"Your AI Health Coach\"",
+      "skills": [],
+      "skill": null,
+      "model": "deepseek/deepseek-v4-flash-0731",
+      "provider": "openrouter",
+      "provider_snapshot": null,
+      "model_snapshot": null,
+      "base_url": null,
+      "script": null,
+      "no_agent": false,
+      "context_from": null,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 20 * * *",
+        "display": "0 20 * * *"
+      },
+      "schedule_display": "0 20 * * *",
+      "repeat": {
+        "times": null,
+        "completed": 32
+      },
+      "enabled": false,
+      "state": "paused",
+      "paused_at": "2026-08-23T11:38:02.820981+00:00",
+      "paused_reason": null,
+      "created_at": "2026-07-18T04:12:43.827229+01:00",
+      "next_run_at": "2026-08-23T20:00:00+00:00",
+      "last_run_at": "2026-08-22T20:14:52.935756+00:00",
+      "last_status": "error",
+      "last_error": "RuntimeError: [drift_skip:silent] Skipped to prevent unintended spend: global inference config drifted since this job was created (model 'nvidia/nemotron-3-ultra-550b-a55b:free' -> 'deepseek/deepseek-v4-flash-0731'), and this job is unpinned. No inference call was made. To run on the new config, on the host running Hermes pin it explicitly: `hermes cron edit 3ebd2dc4487c --provider <provider> --model <model>` (or pin the original values to keep them). This alert is sent once; the job stays skipped until the config is pinned or restored. See #44585.",
+      "last_delivery_error": null,
+      "deliver": "telegram:123286468",
+      "origin": {
+        "platform": "telegram",
+        "chat_id": "-1003784520976",
+        "chat_name": "Agent Hermes",
+        "thread_id": "424",
+        "user_id": "123286468"
+      },
+      "enabled_toolsets": null,
+      "workdir": null,
+      "fire_claim": null,
+      "drift_alerted": true,
+      "failure_streak": 5
+    },
+    {
+      "id": "bcc20c0ac526",
+      "name": "Hughie-payment-reminder",
+      "prompt": "Send a payment reminder to H (+447940081651) via WhatsApp. Remind him about the outstanding payment. Keep it polite & professional, no elaboration, to the point! Log the interaction.",
+      "skills": [],
+      "skill": null,
+      "model": "deepseek/deepseek-v4-flash-0731",
+      "provider": "openrouter",
+      "provider_snapshot": null,
+      "model_snapshot": null,
+      "base_url": null,
+      "script": null,
+      "no_agent": false,
+      "context_from": null,
+      "schedule": {
+        "kind": "cron",
+        "expr": "5 10 */25 * *",
+        "display": "5 10 */25 * *"
+      },
+      "schedule_display": "5 10 */25 * *",
+      "repeat": {
+        "times": null,
+        "completed": 5
+      },
+      "enabled": true,
+      "state": "scheduled",
+      "paused_at": null,
+      "paused_reason": null,
+      "created_at": "2026-07-19T13:29:04.957489+00:00",
+      "next_run_at": "2026-10-26T10:05:00+00:00",
+      "last_run_at": "2026-10-01T10:11:54.913011+00:00",
+      "last_status": "ok",
+      "last_error": null,
+      "last_delivery_error": null,
+      "deliver": "origin",
+      "origin": null,
+      "enabled_toolsets": null,
+      "workdir": null,
+      "fire_claim": null,
+      "failure_streak": 0,
+      "last_dispatch": {
+        "scheduled_at": "2026-10-01T10:05:00+00:00",
+        "dispatched_at": "2026-10-01T10:05:46.360924+00:00",
+        "lateness_seconds": 46.4,
+        "kind": "on_time"
+      }
+    },
+    {
+      "id": "2610509d6f2a",
+      "name": "Monthly-Tax-Submission-Audit",
+      "prompt": "You are the Monthly Tax Submission Audit agent. Your task is to verify if John has filed his monthly tax return (Form 10-M) for the previous month, and take appropriate action based on the results.\n\nTAX YEAR: 2026\nFORM: Form 10-M (Monthly Return)\nCONTACT: John (john.doe@example.com)\n\n## WORKFLOW\n\n### 1. Determine Reporting Period\n- Calculate the previous calendar month relative to today's date\n- Example: If today is July 15, 2026, the reporting period is June 2026\n\n### 2. Data Retrieval\n- Check the primary tax submission portal for a \"Submitted\" timestamp for Form 10-M for the previous month\n- If the portal status is ambiguous or unavailable, check the email inbox/sent folder for a confirmation receipt from the tax authority\n\n### 3. Validation\n- If a submission is found, verify that:\n  - The document is Form 10-M\n  - The period matches the previous calendar month\n  - The submission is complete and valid\n\n### 4. Definition of Done (DoD)\n- IF a valid submission is found for the previous month:\n  - Log an audit trail entry with timestamp and reference ID to memory/logs/tax_audit_[YYYY-MM].md\n  - Take no further action\n- IF no valid submission is found (Missing/Incomplete):\n  - IF today's date is on or before the 7th of the current month:\n    - Send a high-priority nudge to John via WhatsApp/email (primary communication channel)\n    - Message: \"URGENT: Monthly tax return (Form 10-M) for [PREVIOUS_MONTH] [YEAR] has not been submitted. Please submit immediately to avoid penalties.\"\n  - ELSE (after the 7th):\n    - Log the overdue submission to memory/logs/tax_overdue_[YYYY-MM].md\n    - Take no further nudges (escalation handled elsewhere)\n\n### 5. Error Handling\n- IF access to the tax portal is denied (authentication/authorization error):\n  - Log a system error with timestamp and error details to memory/logs/tax_errors_[YYYY-MM].md\n  - Notify the Automation Architect via Telegram Topic 141: \"\ud83d\udea8 TAX PORTAL ACCESS ERROR: Credentials for tax portal may need refreshing. Error: [ERROR_DETAILS]\"\n\n### 6. Implementation Notes\n- Use web_search or web_extract to check tax portal status if it's web-based\n- Use appropriate tools to check email if needed (implement based on available email integration)\n- Use send_message for WhatsApp/email nudges to John\n- Use memory(action='add') to log audit trails, errors, and overdue notices\n- Use send_message to notify Automation Architect on Telegram\n- Today's date can be obtained through standard JavaScript Date object in the execution context\n\n## EXECUTION FREQUENCY\nThis job should run daily at 7:00 AM, but will only take action (send nudges) on days 1-7 of each month, in accordance with the \"Repeat Daily until the 7th of the month\" requirement.",
+      "skills": [],
+      "skill": null,
+      "model": "deepseek/deepseek-v4-flash-0731",
+      "provider": "openrouter",
+      "provider_snapshot": null,
+      "model_snapshot": null,
+      "base_url": null,
+      "script": null,
+      "no_agent": false,
+      "context_from": null,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 7 1 * *",
+        "display": "0 7 1 * *"
+      },
+      "schedule_display": "0 7 1 * *",
+      "repeat": {
+        "times": null,
+        "completed": 89
+      },
+      "enabled": true,
+      "state": "scheduled",
+      "paused_at": null,
+      "paused_reason": null,
+      "created_at": "2026-07-19T13:41:37.987268+00:00",
+      "next_run_at": "2026-10-23T07:00:00+00:00",
+      "last_run_at": "2026-10-22T10:19:58.729853+00:00",
+      "last_status": "ok",
+      "last_error": null,
+      "last_delivery_error": null,
+      "deliver": "local",
+      "origin": null,
+      "enabled_toolsets": null,
+      "workdir": null,
+      "fire_claim": null,
+      "failure_streak": 0,
+      "last_dispatch": {
+        "scheduled_at": "2026-10-22T07:00:00+00:00",
+        "dispatched_at": "2026-10-22T10:13:15.778359+00:00",
+        "lateness_seconds": 11595.8,
+        "kind": "catch_up"
+      },
+      "last_failure": {
+        "at": "2026-10-21T07:06:00.483751+00:00",
+        "detail": "RuntimeError: Hermes can't reach the model provider. You may be offline. Check your internet connection and try again."
+      }
+    },
+    {
+      "id": "ee8cb400a91b",
+      "name": "field-intel-ground-updates-john",
+      "prompt": "You are the Field Intel & Ground Updates agent for John. Your task is to send a daily check-in message to John Monday through Friday at 8:00 AM UTC (Accra Time GMT+0) to gather on-the-ground updates.\n\n## WORKFLOW\n\n### 1. Daily Message (Monday-Friday)\nSend the following message via WhatsApp to `233233352252`:\n\"Greetings John! \ud83d\udc4b How be? Whats the latest? Any updates?\"\n\n### 2. Confirmation Notification\nAfter sending the WhatsApp message, post a confirmation to Telegram Topic 2:\n\"\ud83c\udf0d Field check-in sent to John. Monitoring for ground updates.\"\n\n### 3. Error Handling\nIf the WhatsApp message fails to send, escalate to Telegram Topic 141 (#urgent) with error details.\n\n### 4. Response Processing Note\nWhen John responds to this message, a human or follow-up process should:\n1. Identify: stock intel, technical progress, or \"ground\" friction mentioned\n2. Log: Record details in `memory/business/BUSINESS_CHECKINS_$(date +%Y-%m).md`\n   Format: `[Date] | [Time] | Person: John | Update: [Ground Intel] | Status: [Action Required/Info Only]`\n3. If technical blocker reported: Add to `tasks-queue.md` with tag `\u26a0\ufe0f FIELD ISSUE`\n\n## GUIDELINES\n- Tone: Casual, rhythmic (\"How be?\"), and grounded\n- Timing: Monday through Friday at 8:00 AM UTC (matches Accra Time GMT+0)\n- Error Handling: WhatsApp failures \u2192 Telegram Topic 141 (#urgent)\n\n## IMPLEMENTATION NOTES\n- Use send_message tool for WhatsApp to 233233352252\n- Use send_message tool for Telegram Topic 2 confirmation\n- Use send_message tool for Telegram Topic 141 error alerts\n- This job handles the outgoing message and confirmation; processing John's response requires separate handling",
+      "skills": [],
+      "skill": null,
+      "model": "deepseek/deepseek-v4-flash-0731",
+      "provider": "openrouter",
+      "provider_snapshot": null,
+      "model_snapshot": null,
+      "base_url": null,
+      "script": null,
+      "no_agent": false,
+      "context_from": null,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 8 * * 1,2,3,4,5",
+        "display": "0 8 * * 1,2,3,4,5"
+      },
+      "schedule_display": "0 8 * * 1,2,3,4,5",
+      "repeat": {
+        "times": null,
+        "completed": 51
+      },
+      "enabled": false,
+      "state": "paused",
+      "paused_at": "2026-10-04T07:00:41.047882+00:00",
+      "paused_reason": null,
+      "created_at": "2026-07-19T13:49:27.691556+00:00",
+      "next_run_at": "2026-10-05T08:00:00+00:00",
+      "last_run_at": "2026-10-02T08:05:53.060119+00:00",
+      "last_status": "error",
+      "last_error": "RuntimeError: Hermes can't reach the model provider. You may be offline. Check your internet connection and try again.",
+      "last_delivery_error": null,
+      "deliver": "local",
+      "origin": null,
+      "enabled_toolsets": null,
+      "workdir": null,
+      "fire_claim": null,
+      "failure_streak": 1,
+      "last_dispatch": {
+        "scheduled_at": "2026-10-02T08:00:00+00:00",
+        "dispatched_at": "2026-10-02T08:00:53.097567+00:00",
+        "lateness_seconds": 53.1,
+        "kind": "on_time"
+      }
+    },
+    {
+      "id": "f747316d1579",
+      "name": "stephanie-nurse-wellbeing-checkin",
+      "prompt": "You are the Stephanie wellbeing check-in agent. Your task is to check in with Stephanie (mum's nurse) every Tuesday at 9:00 AM UTC.\n\n## WORKFLOW\n\n### 1. Message Generation\nSend a warm, friendly WhatsApp message to Stephanie (233548236698) checking in on her wellbeing. Keep it natural and human \u2014 no technical jargon, no file paths, no system references.\n\nSuggested message:\n\"Hello Stephanie, hope you're doing well. Just checking in \u2014 how are you feeling today? Is there anything you need or any support required? Also, just a gentle reminder to keep up with the care procedures for mum. Let me know if anything needs attention.\"\n\n### 2. Response Logging\nWhen Stephanie responds, the interaction should be logged.\n\n### 3. System Notification\nAfter sending, post a status update to Telegram Topic 2: \"\ud83e\ude7a Stephanie nurse wellbeing check-in sent.\"\n\n## GUIDELINES\n- Tone: Warm, friendly, professional\n- Schedule: Weekly on Tuesdays at 9:00 AM UTC\n- Error Handling: If WhatsApp delivery fails, log the error\n- NEVER include file paths, system directories, or internal technical details in messages to Stephanie\n- NEVER reference \"procedures at [path]\" \u2014 she should just be reminded to keep up with care standards",
+      "skills": [],
+      "skill": null,
+      "model": "deepseek/deepseek-v4-flash-0731",
+      "provider": "openrouter",
+      "provider_snapshot": null,
+      "model_snapshot": null,
+      "base_url": null,
+      "script": null,
+      "no_agent": false,
+      "context_from": null,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 9 * * 2",
+        "display": "0 9 * * 2"
+      },
+      "schedule_display": "0 9 * * 2",
+      "repeat": {
+        "times": null,
+        "completed": 13
+      },
+      "enabled": true,
+      "state": "scheduled",
+      "paused_at": null,
+      "paused_reason": null,
+      "created_at": "2026-07-19T14:13:31.210207+00:00",
+      "next_run_at": "2026-10-27T09:00:00+00:00",
+      "last_run_at": "2026-10-20T11:09:46.518039+00:00",
+      "last_status": "error",
+      "last_error": "TimeoutError: Cron job 'stephanie-nurse-wellbeing-checkin' idle for 0s (limit 600s) \u2014 last activity: sequential tool running (3286s): terminal",
+      "last_delivery_error": null,
+      "deliver": "local",
+      "origin": null,
+      "enabled_toolsets": null,
+      "workdir": null,
+      "fire_claim": null,
+      "failure_streak": 1,
+      "last_dispatch": {
+        "scheduled_at": "2026-10-20T09:00:00+00:00",
+        "dispatched_at": "2026-10-20T09:00:18.960410+00:00",
+        "lateness_seconds": 19.0,
+        "kind": "on_time"
+      },
+      "last_failure": {
+        "at": "2026-10-20T11:09:46.518039+00:00",
+        "detail": "TimeoutError: Cron job 'stephanie-nurse-wellbeing-checkin' idle for 0s (limit 600s) \u2014 last activity: sequential tool running (3286s): terminal"
+      }
+    },
+    {
+      "id": "f3228b7ede78",
+      "name": "2Real \u2014 Customer Inquiry Loop",
+      "prompt": "Run the 2Real customer inquiry loop to check for new customer interactions from the past 4 hours.\n\nExecute this command:\ncd /c/Users/User/.hermes/workspace/Vault/business/2real/2real-agent && /c/Users/User/AppData/Local/Programs/Python/Python314/python.exe customer_inquiry_loop.py\n\nThis script scans customer-interactions.md for new entries, cross-references against inventory_agent.json, and:\n- Flags items that ARE in stock but got a \"We will get back to you\" (hook missed them)\n- Flags items that are out of stock and need sourcing\n- Tracks SLA breaches (inquiries older than 24h)\n- Logs new leads to customer_leads.json\n\nNEW \u2014 SOURCING INTELLIGENCE (private, H's decision only):\nFor every customer request for an item NOT in inventory_agent.json, append one entry to sourcing_log.json:\n{\"date\": \"<today>\", \"item\": \"<item as requested>\", \"qty\": \"<qty or 1>\", \"customer\": \"<chat id>\", \"repeat\": <count of prior requests for same item>}\n(merge repeats: same item \u2192 increment repeat count, update date; keep other fields from the first entry)\nThen read back sourcing_log.json and include in your report a PRIVATE section:\n\nSOURCING OPPORTUNITIES (private \u2014 H decides):\n- <item> | qty <n> | requested <repeat>x | last <date> | customer <id or name>\n\nThis section is for H only \u2014 it is never sent to customers or staff. No sourcing action is taken; H evaluates whether each is worth arbitraging. Supplier leads go in Vault/business/2real/ghana-sourcing/ghana_suppliers.md when H provides them.\n\nReport the summary output. Keep it concise \u2014 actionable items: stock-found-but-missed, out-of-stock items, SLA breaches, and the private SOURCING OPPORTUNITIES list.\n\n## SOURCE-OF-TRUTH + CTA (aligned, do not regress)\n- The loop script now prefers LIVE Jiji listings (`load_inventory()` reads jiji_listings_full.json; active = in-stock at the exact Jiji price). inventory_agent.json (Zobaze) is ONLY a photo/reference fallback \u2014 never the availability or price truth.\n- CTA in every customer reply / WhatsApp contact: **0204252252** (never the old 0204252252).\n",
+      "skills": [],
+      "skill": null,
+      "model": "deepseek/deepseek-v4-flash-0731",
+      "provider": "openrouter",
+      "provider_snapshot": null,
+      "model_snapshot": null,
+      "base_url": null,
+      "script": null,
+      "no_agent": false,
+      "monitor_script": null,
+      "monitor_url": null,
+      "monitor_state": null,
+      "context_from": null,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 9 * * *",
+        "display": "0 9 * * *"
+      },
+      "schedule_display": "0 9 * * *",
+      "repeat": {
+        "times": null,
+        "completed": 311
+      },
+      "enabled": true,
+      "state": "scheduled",
+      "paused_at": null,
+      "paused_reason": null,
+      "created_at": "2026-08-14T02:20:24.029597+00:00",
+      "next_run_at": "2026-10-23T02:19:11.513692+00:00",
+      "last_run_at": "2026-10-22T22:19:11.513692+00:00",
+      "last_status": "ok",
+      "last_error": null,
+      "last_delivery_error": null,
+      "deliver": "origin",
+      "origin": null,
+      "enabled_toolsets": [
+        "terminal"
+      ],
+      "workdir": null,
+      "fire_claim": null,
+      "failure_streak": 0,
+      "last_dispatch": {
+        "scheduled_at": "2026-10-22T22:18:09.353112+00:00",
+        "dispatched_at": "2026-10-22T22:18:50.685217+00:00",
+        "lateness_seconds": 41.3,
+        "kind": "on_time"
+      },
+      "last_failure": {
+        "at": "2026-10-20T15:47:51.842819+00:00",
+        "detail": "RuntimeError: Model output entered a repetition loop and the stream was cut mid-loop; discarding the degenerate response."
+      }
+    },
+    {
+      "id": "063e05279b98",
+      "name": "2Real \u2014 Weekly Jiji Catalog Refresh",
+      "prompt": "Weekly auto-refresh of the 2Real Jiji listing catalog. The bundled script jiji_refresh.py runs the full Jiji scraper (jiji_scrape_all.py in the 2Real agent dir) which pulls all current 2Real listings from Jiji's API into jiji_listings_full.json and jiji_page_listings.json so the WhatsApp customer responder stays current. No further action is needed \u2014 the script's stdout is delivered. If the output says it FAILED, flag it for attention.\n\n\n## STEP 2 \u2014 REBUILD FB/WA QUEUES FROM FRESH JIJI (keep uploads non-stale)\nAfter the scrape succeeds, run the queue rebuild so FB/WA post CURRENT prices (the old\nmeta_feed prices go stale \u2014 e.g. TP-Link Tapo C200 was 870 in the feed but 650 live):\ncd /c/Users/User/.hermes/workspace/Vault/business/2real/2real-agent/channel_upload_package && /c/Users/User/AppData/Local/Programs/Python/Python314/python.exe rebuild_queues_from_jiji.py\nThen promote the fresh batch to the live queues:\ncd /c/Users/User/.hermes/workspace/Vault/business/2real/2real-agent/channel_upload_package && /c/Users/User/AppData/Local/Programs/Python/Python314/python.exe promote_batch2.py\nReport: items rebuilt, photos present, and whether promote succeeded (FB next50 + WA wa_queue refilled).\n",
+      "skills": [],
+      "skill": null,
+      "model": "deepseek/deepseek-v4-flash-0731",
+      "provider": "openrouter",
+      "provider_snapshot": null,
+      "model_snapshot": null,
+      "base_url": null,
+      "script": "jiji_refresh.py",
+      "no_agent": true,
+      "monitor_script": null,
+      "monitor_url": null,
+      "monitor_state": null,
+      "context_from": null,
+      "schedule": {
+        "kind": "cron",
+        "expr": "30 2 * * 1",
+        "display": "30 2 * * 1"
+      },
+      "schedule_display": "30 2 * * 1",
+      "repeat": {
+        "times": null,
+        "completed": 11
+      },
+      "enabled": true,
+      "state": "scheduled",
+      "paused_at": null,
+      "paused_reason": null,
+      "created_at": "2026-08-14T05:00:44.453903+00:00",
+      "next_run_at": "2026-10-26T02:30:00+00:00",
+      "last_run_at": "2026-10-18T18:10:39.372105+00:00",
+      "last_status": "ok",
+      "last_error": null,
+      "last_delivery_error": null,
+      "deliver": "telegram:-1003784520976:1",
+      "origin": null,
+      "enabled_toolsets": [
+        "file"
+      ],
+      "workdir": null,
+      "fire_claim": null,
+      "failure_streak": 0,
+      "last_dispatch": {
+        "scheduled_at": "2026-10-12T06:00:00+00:00",
+        "dispatched_at": "2026-10-12T06:00:34.147352+00:00",
+        "lateness_seconds": 34.1,
+        "kind": "on_time"
+      }
+    },
+    {
+      "id": "d719cd80fa5b",
+      "name": "integrated-daily-synthesis",
+      "prompt": "Compile the integrated daily synthesis and consolidate memory for today. Run at end of day (22:05).\n\n## YOUR TASKS\n\n### 1. Gather Data\n- Read health logs (H + Comfort) from the past 24 hours in Vault/family/\n- Read business checkins and cron output files\n- Use session_search to find recent conversations from today\n\n### 2. Produce Synthesis\nWrite a structured report covering: Health status (H + Mum + Dad), Business operations, Security posture, System health, Key issues. Save to Vault/insights/INTEGRATED_INSIGHTS_[DATE].md.\n\n### 3. Consolidate Memory (REAL consolidation, not append-only)\n- **PRUNE first:** scan MEMORY.md (the sat-nav profile's canonical memory) for STALE or LOW-VALUE entries \u2014 superseded facts, entries older than the working window, things already fully captured in Vault docs. Rewrite/merge instead of appending; memory is a hard-budgeted store and must shrink to make room for today's durable facts.\n- Add ONLY genuinely new, cross-session-durable facts (a new standing fact, a corrected number/rule, a new key contract/contact) \u2014 NOT day's task progress or work logs (those belong in the Vault). If memory is near-full, DROP the weakest stale entry to fit.\n- Update MEMORY.md and the USER profile only if the fact is durable and applies to every future session.\n\n### 3b. Write Obsidian notes (with wikilinks so they connect in the graph)\n- Write the synthesis to Vault/insights/INTEGRATED_INSIGHTS_[DATE].md\n- Write a daily processing note to Vault/Daily/YYYY-MM-DD.md\n- In BOTH notes use Obsidian wikilinks `[[...]]` to link related files: today's health logs ([[MUM_HEALTH_2026-10-XX]] / [[H_HEALTH...]]), the sales log ([[daily-sales-log]]), the key-contacts and invoices ([[INV-...]]), yesterday's insight ([[INTEGRATED_INSIGHTS_<YES-DATE>]]). Link, don't bury \u2014 put 2-4 relevant wikilinks at the top under a `## Related` header.\n- Archive any old session request dumps\n\n### 4. Deliver\nPost a single consolidated summary to Telegram topic 20 (Memory Review). Keep it under 400 words. Cover: health, business, system issues, and memory changes.",
+      "skills": [],
+      "skill": null,
+      "model": "deepseek/deepseek-v4-flash-0731",
+      "provider": "openrouter",
+      "provider_snapshot": null,
+      "model_snapshot": null,
+      "base_url": null,
+      "script": null,
+      "no_agent": false,
+      "monitor_script": null,
+      "monitor_url": null,
+      "monitor_state": null,
+      "context_from": null,
+      "schedule": {
+        "kind": "cron",
+        "expr": "5 22 * * *",
+        "display": "5 22 * * *"
+      },
+      "schedule_display": "5 22 * * *",
+      "repeat": {
+        "times": null,
+        "completed": 66
+      },
+      "enabled": true,
+      "state": "scheduled",
+      "paused_at": null,
+      "paused_reason": null,
+      "created_at": "2026-08-17T20:00:34.809937+00:00",
+      "next_run_at": "2026-10-23T22:05:00+00:00",
+      "last_run_at": "2026-10-22T22:18:48.632196+00:00",
+      "last_status": "ok",
+      "last_error": null,
+      "last_delivery_error": null,
+      "deliver": "telegram:-1003784520976:20",
+      "origin": null,
+      "enabled_toolsets": null,
+      "workdir": null,
+      "fire_claim": null,
+      "failure_streak": 0,
+      "last_dispatch": {
+        "scheduled_at": "2026-10-22T22:05:00+00:00",
+        "dispatched_at": "2026-10-22T22:05:50.680029+00:00",
+        "lateness_seconds": 50.7,
+        "kind": "on_time"
+      }
+    },
+    {
+      "id": "bc35042ebe90",
+      "name": "Market Seller Daily Briefing - 4:30 AM",
+      "prompt": "You are the 4:30 AM daily market briefing for H (selling at Dome Market, based in Oyarifa/Weija).\n\nDELIVER TO: Telegram topic 10 (this chat)\n\nTASK: Assemble and deliver ONE concise message by 4:30 AM with:\n\n1. **WEATHER (6\u201310 AM Accra)**\n   - Windy.app rain radar snapshot: will it rain 6\u201310 AM over Accra/Dome? (Yes/No + timing)\n   - GMet (Ghana Met Agency) official alert if any \u2014 check @GMet_Ghana on X or meteo.gov.gh\n   - One-line action: \"Pack tarps\" / \"Light jacket\" / \"Clear \u2014 full display\"\n\n2. **TRANSPORT: YANGO PRICE ESTIMATES (4:30\u20135:00 AM pickup)**\n   - Oyarifa \u2192 Dome Market (your usual 4:40 AM departure)\n   - Weija \u2192 Dome Market (alternative days)\n   - Show: Yango (preferred), Bolt, Uber \u2014 estimated GHS range at 4:40 AM\n   - Note: \"Share ride saves ~30%\" if applicable\n\n3. **SALES: YESTERDAY TARGET vs ACTUAL**\n   - Target: read from local sales log file\n   - Actual: read from same file\n   - Variance: +/\u2212 GHS and %\n   - Top 3 SKUs sold (if provided)\n   - One-line pace note\n\nDATA SOURCES:\n- Windy radar: check https://www.windy.com/-Rain-thunderstorms/rain,radar?rain,radar\n- GMet: check https://meteo.gov.gh \n- Yango estimates: approximate from known 4:40 AM rates (Oyarifa\u2192Dome ~GHS 30\u201345, Weija\u2192Dome ~GHS 40\u201360). State \"estimated\" clearly.\n- Sales data: read from `C:\\Users\\User\\.hermes\\workspace\\Vault\\business\\2real\\daily-sales-log.md`\n\nFORMAT: One Telegram message, scannable in 30 seconds. Use emojis, bold, line breaks. No fluff.\n\nDELIVER TO: telegram:-1003784520976:10",
+      "skills": [],
+      "skill": null,
+      "model": "deepseek/deepseek-v4-flash-0731",
+      "provider": "openrouter",
+      "provider_snapshot": null,
+      "model_snapshot": null,
+      "base_url": null,
+      "script": null,
+      "no_agent": false,
+      "monitor_script": null,
+      "monitor_url": null,
+      "monitor_state": null,
+      "context_from": null,
+      "schedule": {
+        "kind": "cron",
+        "expr": "30 4 * * *",
+        "display": "30 4 * * *"
+      },
+      "schedule_display": "30 4 * * *",
+      "repeat": {
+        "times": null,
+        "completed": 63
+      },
+      "enabled": false,
+      "state": "scheduled",
+      "paused_at": null,
+      "paused_reason": null,
+      "created_at": "2026-08-17T20:08:03.990334+00:00",
+      "next_run_at": "2026-10-20T04:30:00+00:00",
+      "last_run_at": "2026-10-19T04:30:46.635489+00:00",
+      "last_status": "ok",
+      "last_error": null,
+      "last_delivery_error": null,
+      "deliver": "telegram:-1003784520976:10",
+      "origin": null,
+      "enabled_toolsets": [
+        "web",
+        "file",
+        "terminal"
+      ],
+      "workdir": null,
+      "fire_claim": null,
+      "failure_streak": 0,
+      "last_dispatch": {
+        "scheduled_at": "2026-10-19T04:30:00+00:00",
+        "dispatched_at": "2026-10-19T04:30:17.854136+00:00",
+        "lateness_seconds": 17.9,
+        "kind": "on_time"
+      }
+    },
+    {
+      "id": "315e72289b85",
+      "name": "2Real \u2014 Daily Jiji Report",
+      "prompt": "Collect today's Jiji shop performance data and produce the daily report. The report must be DYNAMIC \u2014 always use the CURRENT live numbers, never hardcoded/stale figures.\n\n## CONTEXT\n- **Jiji is the source of truth.** Read the CURRENT live listing count from `C:\\Users\\User\\.hermes\\workspace\\Vault\\business\\2real\\2real-agent\\jiji_listings_full.json` (field `count` / `items` length) \u2014 do NOT assume a fixed number. H is actively adding listings, so the count changes daily.\n- Zobaze inventory_agent.json is stale (June) \u2014 treat inventory-based numbers as approximate, never as truth.\n\n## STEP 1: Collect Jiji Stats (LIVE, from the persistent browser)\nUse the PERSISTENT CDP browser on port 9222 (the same one FB/WhatsApp/Jiji crons use \u2014 already logged into the Two Real Enterprises account). Do NOT open a new browser / browser_exec / a separate session.\n- Verify the browser is up: `curl -s http://127.0.0.1:9222/json/version` (if down, `bash launch_2real_browser.sh` first).\n- Navigate to https://jiji.com.gh/profile and extract the CURRENT account overview: active, reviewing, draft, declined, closed, followers, feedback, new clients (+XX). Use the ACTUAL numbers shown today.\n- From https://jiji.com.gh/profile/my-balance/current: TOP+ credits remaining + expiry, WhatsApp ads status/expiry, GHC balance \u2014 current values.\n- Top 5-10 items by impressions from the profile grid (name, price, impressions, visitors, phone views, chats).\n- Items needing attention: high impressions + 0 chats, declining impressions, new declined ads.\n\n## STEP 2: Save & Format\nRun:\ncd /c/Users/User/.hermes/workspace/Vault/business/2real/2real-agent && /c/Users/User/AppData/Local/Programs/Python/Python314/python.exe jiji_daily_report.py '<JSON_DATA>'\n\nJSON_DATA must contain the ACTUAL numbers you extracted in STEP 1 (active count, reviewing, draft, declined, closed, followers, feedback, clients, top_remaining, top_expires, whatsapp_ads_active, whatsapp_ads_until, balance_ghs, top_items, needs_attention, action_items). Do NOT reuse yesterday's or example values \u2014 every field is today's live reading. The script auto-adds the \"Top Customer Requests\" section from customer-interactions.md.\n\n## STEP 3: Christmas Countdown (dynamic)\nRun:\ncd /c/Users/User/.hermes/workspace/Vault/business/2real/2real-agent && /c/Users/User/AppData/Local/Programs/Python/Python314/python.exe christmas_tracker.py\nInclude its full output block: days to Christmas, UK order deadline (2026-10-31) warning, CURRENT gap items listed vs remaining (read the live gap count \u2014 do not hardcode 332), and pace needed (6/day to clear by Nov 15).\n\n## STEP 4: Report\nOutput the formatted report as your final response - concise, phone-readable:\n1. What's new since yesterday (note any change in listing count vs yesterday)\n2. What needs immediate action\n3. TOP+ picks for today\n4. Top customer requests\n5. Christmas countdown\n\nIf the persistent browser is unreachable, fall back to last data from jiji_daily_history.json and note the limitation.",
+      "skills": [],
+      "skill": null,
+      "model": "deepseek/deepseek-v4-flash-0731",
+      "provider": "openrouter",
+      "provider_snapshot": null,
+      "model_snapshot": null,
+      "base_url": null,
+      "script": null,
+      "no_agent": false,
+      "monitor_script": null,
+      "monitor_url": null,
+      "monitor_state": null,
+      "context_from": null,
+      "schedule": {
+        "kind": "cron",
+        "expr": "30 6 * * *",
+        "display": "30 6 * * *"
+      },
+      "schedule_display": "30 6 * * *",
+      "repeat": {
+        "times": null,
+        "completed": 61
+      },
+      "enabled": true,
+      "state": "scheduled",
+      "paused_at": null,
+      "paused_reason": null,
+      "created_at": "2026-08-22T05:21:12.330898+00:00",
+      "next_run_at": "2026-10-23T06:30:00+00:00",
+      "last_run_at": "2026-10-22T10:20:52.579668+00:00",
+      "last_status": "ok",
+      "last_error": null,
+      "last_delivery_error": null,
+      "failure_streak": 0,
+      "deliver": "origin",
+      "origin": null,
+      "enabled_toolsets": [
+        "browser",
+        "file",
+        "terminal"
+      ],
+      "workdir": null,
+      "fire_claim": null,
+      "last_dispatch": {
+        "scheduled_at": "2026-10-22T06:30:00+00:00",
+        "dispatched_at": "2026-10-22T10:13:15.778359+00:00",
+        "lateness_seconds": 13395.8,
+        "kind": "catch_up"
+      },
+      "last_failure": {
+        "at": "2026-10-15T07:37:44.284802+00:00",
+        "detail": "RuntimeError: Operation interrupted: retrying API call after error (retry 2/3)."
+      }
+    },
+    {
+      "id": "8e85475422df",
+      "name": "weekly-intelligence-briefing",
+      "prompt": "[IMPORTANT: You are running as a scheduled cron job. DELIVERY: Your final response will be automatically delivered to the user \u2014 do NOT use send_message or try to deliver the output yourself. Just produce your report/output as your final response and the system handles the rest. SILENT: If there is genuinely nothing new to report after 2 search attempts per section, respond with exactly \"[SILENT]\".]\n\nYou are the WEEKLY TRENDS & INTELLIGENCE BRIEFING for H (Oman Herbert Blankson).\n\nCONTEXT \u2014 H is a portfolio entrepreneur with:\n- 2Real Enterprises (hardware/tools retail, Dome market + Oyarifa warehouse, Jiji, Zobaze)\n- Akoma Robotics (STEM education, school partnerships, mBot courses for children)\n- UK property (HMO rooms ~\u00a32.6k/mo, Melford Court rented, 21A Philip Walk)\n- Takoradi land x2 (New Amanful, Borkro \u2014 development pending)\n- Senya farm (goats, plantain, coconut, apiary)\n- Mum (Comfort, 91) daily care with nurse Stephanie\n- Moving permanently to Accra, Ghana\n\nHIS PERSONAL INTERESTS:\n- Educational hip hop: Nas, KRS-One, Public Enemy, Common, Mos Def, Conway the Machine\n- Golf and tennis \u2014 wants to involve his children\n- Investments: BTC, ETH, crypto generally, stocks (hardware, education, property sectors), gold (Ghana), silver\n- Personal life improvement (health, fitness, routines, finance)\n\nHIS INVESTMENT HABITS (read from `C:\\Users\\User\\.hermes\\workspace\\Vault\\business\\2real\\investments-tracker.md`):\n- SikaSave: 40 GH\u20b5/week\n- BTC P2P Binance: 50+ GH\u20b5/day (4-5% above spot)\n- Report any changes or opportunities\n\nTASK: Use web_search and web_extract to scan sources. Use web_search for X/Twitter (prefix queries with \"site:twitter.com\" or \"site:x.com\" for social). Use web_extract for YouTube video pages (pass the video URL). For newsletters/saved sources show a placeholder saying \"not yet configured.\"\n\nBEFORE searching, read the daily sales log at `C:\\Users\\User\\.hermes\\workspace\\Vault\\business\\2real\\daily-sales-log.md` and the investments tracker to include his latest actuals.\n\nProduce ONE structured message ranking findings by relevance. Sections:\n\n\ud83d\udfe2 TIER 1 \u2014 HIGH (score 8\u201310/10): Business ops for 2Real/Akoma/property/farm/Ghana, crypto/BTC/ETH/gold/silver prices/news, Ghana market intelligence. Include his weekly sales total and BTC stacking progress.\n\n\ud83d\udfe1 TIER 2 \u2014 MEDIUM (score 5\u20137/10): Personal improvement, golf/tennis family programs in Accra, educational hip hop \u2014 new albums/interviews/docs\n\n\u26aa TIER 3 \u2014 CULTURAL (score 1\u20134/10): Hip hop anniversaries, Nas/PE/Common/Mos Def/Conway the Machine news, stocks in his sectors, silver\n\nFORMAT: Scannable Telegram message. Emojis, bold, bullets. Include \"Bottom line\" at end. Under 4000 chars.\n\nFor web_search queries use these exact searches:\n1. \"Ghana business news today\" + \"Ghana hardware market\" + \"Ghana real estate 2026\"\n2. \"BTC ETH gold price today\" + \"crypto news Ghana\" + \"Binance P2P Ghana\"\n3. \"site:twitter.com Ghana business trends\" + \"site:x.com educational hip hop\"\n4. \"site:youtube.com Nas interview 2026\" + \"golf lessons for kids Accra\" + \"tennis for children Ghana\"\n5. \"UK property market 2026\" + \"STEM education trends Africa 2026\"\n6. \"silver price 2026\" + \"hardware retail stocks\" + \"Ghana gold mining\"\n7. \"Nas documentary\" OR \"KRS-One news\" OR \"Public Enemy 2026\" OR \"Common album\" OR \"Mos Def interview\" OR \"Conway the Machine 2026\"\n\nSkip any search that returns nothing useful after 2 attempts. Do not pad.",
+      "skills": [],
+      "skill": null,
+      "model": null,
+      "provider": null,
+      "provider_snapshot": "openrouter",
+      "model_snapshot": "deepseek/deepseek-v4-flash",
+      "base_url": null,
+      "script": null,
+      "no_agent": false,
+      "monitor_script": null,
+      "monitor_url": null,
+      "monitor_state": null,
+      "context_from": null,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 8 * * 0",
+        "display": "0 8 * * 0"
+      },
+      "schedule_display": "0 8 * * 0",
+      "repeat": {
+        "times": null,
+        "completed": 9
+      },
+      "enabled": true,
+      "state": "scheduled",
+      "paused_at": null,
+      "paused_reason": null,
+      "created_at": "2026-08-24T05:07:41.670162+00:00",
+      "next_run_at": "2026-10-25T08:00:00+00:00",
+      "last_run_at": "2026-10-18T09:07:57.296773+00:00",
+      "last_status": "ok",
+      "last_error": null,
+      "last_delivery_error": null,
+      "failure_streak": 0,
+      "deliver": "telegram:-1003784520976:10",
+      "origin": null,
+      "enabled_toolsets": [
+        "web",
+        "file",
+        "browser"
+      ],
+      "workdir": null,
+      "fire_claim": null,
+      "last_dispatch": {
+        "scheduled_at": "2026-10-18T08:00:00+00:00",
+        "dispatched_at": "2026-10-18T09:05:49.737133+00:00",
+        "lateness_seconds": 3949.7,
+        "kind": "late"
+      },
+      "drift_alerted": true
+    },
+    {
+      "id": "8ea5ea4a772e",
+      "name": "2Real - Monday Christmas Gap Re-scan",
+      "prompt": "Weekly 2Real Christmas gap re-scan. Today is Monday. Runs at 3am AFTER the Weekly Jiji Catalog Refresh (2:30am) has already re-scraped Jiji into jiji_listings_full.json \u2014 so the catalog is FRESH; do NOT re-scrape.\n\n## STEP 1: Re-run gap analysis (catalog already fresh from the 2:30am refresh)\ncd /c/Users/User/.hermes/workspace/Vault/business/2real/2real-agent && /c/Users/User/AppData/Local/Programs/Python/Python314/python.exe christmas_gap_analysis.py\nNote the new \"GAP\" count vs last week (last was 332). The drop = items John listed this week.\n\n## STEP 2: Update tracker\nTake the new gap count and record progress:\ncd /c/Users/User/.hermes/workspace/Vault/business/2real/2real-agent && /c/Users/User/AppData/Local/Programs/Python/Python314/python.exe christmas_tracker.py <new_gap_remaining>\nwhere <new_gap_remaining> = items still not listed (new GAP count).\nIf the new GAP count is HIGHER than last week, note that new stock was likely added - flag to H.\n\n## STEP 3: Report\nProduce a short phone-readable report:\n- Jiji catalog size (should be ~1,300+ and growing)\n- Gap items: last week 332 -> this week X (delta)\n- Christmas countdown: days left, UK order deadline status (2026-10-31)\n- Pace check: is John clearing 6+/day? (delta vs 42 items/week needed)\n- Next 10 priority items from the top of christmas_gap_list.json for John to list this week\n\nIf zobaze inventory_agent.json was updated (check file mtime newer than June 2026), note that the gap list is now based on fresh stock data.",
+      "skills": [],
+      "skill": null,
+      "model": "deepseek/deepseek-v4-flash-0731",
+      "provider": "openrouter",
+      "provider_snapshot": "openrouter",
+      "model_snapshot": "z-ai/glm-5.3-flash",
+      "base_url": null,
+      "script": null,
+      "no_agent": false,
+      "monitor_script": null,
+      "monitor_url": null,
+      "monitor_state": null,
+      "context_from": null,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 3 * * 1",
+        "display": "0 3 * * 1"
+      },
+      "schedule_display": "0 3 * * 1",
+      "repeat": {
+        "times": null,
+        "completed": 4
+      },
+      "enabled": true,
+      "state": "scheduled",
+      "paused_at": null,
+      "paused_reason": null,
+      "created_at": "2026-09-18T17:31:51.704778+00:00",
+      "next_run_at": "2026-10-26T03:00:00+00:00",
+      "last_run_at": "2026-10-12T07:03:27.314539+00:00",
+      "last_status": "ok",
+      "last_error": null,
+      "last_delivery_error": null,
+      "last_delivery_unverified": null,
+      "failure_streak": 0,
+      "deliver": "origin",
+      "origin": null,
+      "enabled_toolsets": null,
+      "workdir": null,
+      "last_dispatch": {
+        "scheduled_at": "2026-10-12T07:00:00+00:00",
+        "dispatched_at": "2026-10-12T07:00:34.140210+00:00",
+        "lateness_seconds": 34.1,
+        "kind": "on_time"
+      },
+      "fire_claim": null
+    },
+    {
+      "id": "5128ceaa2c09",
+      "name": "2Real - FB Marketplace Batch Poster",
+      "prompt": "2Real FB Marketplace poster. POST UP TO 5 NEW LISTINGS PER RUN (no more)\n\n## HARD DAILY CEILING \u2014 15 listings/day (anti-ban safe cap, from playbook)\n- **15 listings/day TOTAL across ALL runs. This is a ceiling, not a target. Never exceed 15/day no matter how many cron runs fire.**\n- **Enforce with a daily counter:** `C:\\Users\\User\\.hermes\\workspace\\Vault\\business\\2real\\fb-marketplace\\fb_daily_count_<YYYYMMDD>.json` \u2014 contains `{\"posted\": N}` for today.\n  - **At run start:** read the counter. If today total >= 15 \u2192 **post 0, stop, report \"daily ceiling hit\".**\n  - **Each run posts at most (15 \u2212 already-posted-today) items.** Never more.\n  - **After each successful post:** increment the counter and save (same file). Verify on disk.\n- This REPLACES the old unlimited-queue behavior. **Ban safety over speed. 15/day is the max you may ever post on FB Marketplace.**\n \u2014 cap raised by H on 17 Oct 26 to finish the queue faster. Follow EXACTLY.\n\n## Context\n- Playbook (read first): C:\\Users\\User\\.hermes\\workspace\\Vault\\business\\2real\\2real-agent\\FB_MARKETPLACE_PLAYBOOK.md \u2014 especially the ANTI-BAN HARDENING section (12 Oct 26).\n- Package dir: C:\\Users\\User\\.hermes\\workspace\\Vault\\business\\2real\\2real-agent\\channel_upload_package\n  - next50.json = queue (jiji_id, title, price) | fb_posted.json = posted IDs | photos\\{jiji_id}.jpg\n  - fb_post_lib.py = tested posting library (exec it in browser session 'jiji-shop'). It now includes: make_desc(title) for anti-ban text variation, vary_photo(src,dst) for photo hash variation, open_category() for the new FB combobox flow, and post_one().\n  - fb_desc_fixed.json = first10 IDs whose \\n descriptions were handled\n\n## FB PROFILE\nPosts MUST appear on the **Oman Ghan Herbert-blankson** profile. The 'jiji-shop' browser session is logged into it \u2014 do NOT switch portfolios or business accounts.\n\n## DEDUP SOURCE OF TRUTH (single registry \u2014 NEVER re-scan, NEVER re-verify)\n- The canonical dedup memory is `Vault/business/2real/2real-agent/channel_posted_master.json`\n  (= CHANNEL_POSTED_REGISTRY.md in Obsidian) + the `channel_dedup.py` helper.\n- Before posting any item, check `Registry().is_fb_posted(jid)` / `posted_anywhere(jid)`.\n  SKIP any ID present on EITHER channel. Do NOT re-scan the live FB page for this.\n- After EVERY successful PUBLISH, call `Registry().mark_fb_posted(jid)` so the memory\n  updates immediately. The registry IS the record \u2014 no separate audit needed.\n\n## DUPLICATE-PREVENTION (H: \"avoid at all costs\" \u2014 highest priority)\n- NEVER post an item whose jiji_id is already in fb_posted.json. The queue is now\n  pre-filtered at promote time, but re-check at post time: skip any posted ID and\n  move to the next unposted item. Item 1 of a batch must NEVER be a repeat.\n- One listing per product \u2014 a product already on FB (even under a different jiji_id)\n  must not be re-posted. If unsure, check fb_posted.json first.\n\n## TITLE KEYWORDS (FB search visibility)\n- Enrich the listing TITLE with high-search keywords so FB Marketplace search finds it.\n  FB rewards detail + relevant keywords. Format: `[Brand] [Product] [Key spec] \u2014 [UK Imported, Quality Checked]`\n  (per the FB playbook). Add the most-searched terms buyers use (brand, product type,\n  key spec, use-case) \u2014 but keep the title natural and under FB's length limit.\n- Do NOT change the price. Do NOT invent specs that aren't real. Only add keywords that\n  genuinely describe the item (from the researched specs / Jiji details).\n- Example: `Bosch PST 650 Jigsaw 500W \u2014 UK Imported, Quality Checked` (not just `Bosch Jigsaw`).\n\n## ACCURATE CONDITION + DETAILED DESCRIPTION (H's requirements)\n- CONDITION: Before posting, look up the item in `jiji_listings_full.json` (source of\n  truth). If the title/details signal USED (used, second hand, pre-owned, refurbished,\n  brand user, tested working, read description), set FB Condition = **Used**. Otherwise\n  New. Do NOT default everything to New \u2014 some items are used.\n- DESCRIPTION: build from RESEARCH + Jiji details. For each item, do a quick\n  web_search (e.g. \"<product name> specifications\") to pull the KEY specs/features\n  (power, capacity, size, material, key selling points). Combine the researched specs\n  with the Jiji listing `details` first-sentence. Keep the spec portion concise\n  (under ~120 characters). Then the payment/pickup closer.\n  fb_post_lib.make_desc(title, details, condition) accepts the researched spec text\n  as `details` \u2014 pass the researched specs + the Jiji details + detected condition.\n  If web research is unavailable, fall back to the Jiji details alone.\n\n## STEP 1 \u2014 Post up to five listings (BATCH MODE \u2014 one session)\nPick the first ~5 items in next50.json that are NOT in fb_posted.json. Post them ALL in ONE batch call so a single CDP browser session is reused (far faster than reconnect-per-item):\n\ncd /c/Users/User/.hermes/workspace/Vault/business/2real/2real-agent/channel_upload_package && /c/Users/User/AppData/Local/Programs/Python/Python314/python.exe fb_post_run.py <jid1> <jid2> <jid3> <jid4> <jid5>\n\n- Sleep 45-60s BETWEEN listings (reduced from 120-180s; still safely anti-velocity).\n- The runner already: builds desc from researched/Jiji specs + accurate condition, micro-varies the photo (_v), sets category, checks the unified dedup registry, marks fb_posted + the master registry after each PUBLISHED.\n- If one item fails twice, the runner skips it; if two in a row fail, END THE RUN (possible FB flow change or flag \u2014 do not force).\n- Use CDP DOM.setFileInputFiles for the photo if base64 JS injection errors ('chunk is longer than limit').\n\n## STEP 1.5 \u2014 RENEW / REFRESH CHECK (added 22/10/26 \u2014 verified against live FB)\nRun the renewal audit as part of the same run (one CDP session, AFTER posting):\n`cd /c/Users/User/.hermes/workspace/Vault/business/2real/2real-agent/channel_upload_package && /c/Users/User/AppData/Local/Programs/Python/Python314/python.exe fb_check_renewals.py`\n- **FB Marketplace reality (verified 22/10/26):** there is NO manual \"Renew\" button for ACTIVE listings \u2014 FB keeps them live and auto-refreshes. \"More options\" on a card = Mark as sold/pending, Share, Delete only.\n- The script: walks the selling page, counts Active/Expired/Inactive/Paused, and clicks **Renew/Sell-again ONLY on genuinely EXPIRED listings** (capped at 5/run, 8s between clicks, anti-ban).\n- Report in the run summary: `<N> active, <M> expired renewed (or 0 \u2014 nothing to renew)`. If the script reports 0 renew-able, that is the correct, healthy result.\n- **Do NOT auto-edit active listings to fake a refresh** \u2014 editing at volume risks the 15/day ceiling + ban. If H wants a recency boost on specific stale items, propose them (STEP 3 style), never auto-edit.\n- If the browser/session isn't available, note it and continue (posting is the priority; renewal is best-effort).\n\n\n## STEP 2.5 \u2014 SHARE NEW LISTINGS TO BUY/SELL GROUPS (added 22/10/26)\nAfter ANY listing publishes successfully (STEP 1 rc=PUBLISHED), fb_post_run.py\nautomatically shares that exact listing into H's buy/sell groups:\n**GHANA MARKET PLACE** and **ACCRA BUY AND SELL** (public groups H joined; names\nverified in the live FB group picker 22/10/26).\nMechanism: fb_share_groups.py opens the fresh listing -> Share -> Group ->\nsearch exact group name -> click row -> Share now. Failure-tolerant: if a group\nshare fails, the Marketplace listing itself is already live and STAYS live; log\nthe skip and continue (NEVER fail the run, NEVER undo the publish).\nSafety gate: group sharing only fires when the runner env has FB_SHARE_GROUPS=1\n(the flag is set in the runner env; do NOT flip it unless H confirms).\nAnti-ban: one share at a time, 8s between groups, sequential not parallel.\n\n\n## STEP 2 \u2014 Handle buyer messages + nudge quiet buyers\nRead the FB Marketplace inbox (in the `jiji-shop` session).\n- For each NEW buyer message: reply with the item's Jiji-truth price/stock + payment terms (no credit),\n  end with CTA 0204252252. Record the thread via `fb_sales_ops.BuyerThreads().upsert(...)`.\n- Revive quiet threads: `BuyerThreads().due_for_nudge()` returns threads where WE spoke last and the\n  buyer went silent past the window (24h first / 72h second, max 2). Send `nudge_text(t, n)` and call\n  `mark_nudged(id)`. NEVER offer a discount in a nudge (H approves discounts).\n- If the inbox can't be read this run, note it and continue (don't block posting).\n\n## STEP 3 \u2014 Slow-item price drops (PROPOSE only \u2014 H approves)\nRead `FB_LISTING_PERFORMANCE.json`; register each posted listing (register(jiji_id,title,price)).\n`PriceDrops().slow_candidates()` lists unsold listings >14 days with low engagement and proposes -10%.\nDELIVER these as PROPOSALS to H \u2014 do NOT change any price. Only after H replies \"approved\" does the\nprice change (update Jiji FIRST, then FB \u2014 one price everywhere). Business rule: no discounts without H.\n\n## STEP 4 \u2014 Bundle line + cross-sell\n- Append a \"Pairs well with\u2026\" bundle line to new listings using\n  `fb_sales_ops.recommend_bundles(title)` (or offer it as a follow-up in buyer chat).\n- Cross-sell: `cross_sell_targets(category)` returns best-fit FB groups (cap 2/run). Post to APPROVED\n  groups only \u2014 a NEW group needs H approval first.\n\n## STEP 5 \u2014 Report (short)\n- X posted, Y remaining, Z buyer msgs answered, N nudges sent, price-drop proposals (list), bundles/cross-sells.\n- When remaining = 0: say QUEUE COMPLETE.\n\n## Rules\n- Never change prices \u2014 they come from next50.json exactly (price DROPS are proposals H approves).\n- One listing per product \u2014 never re-post an ID already in fb_posted.json (exception: only when H orders a re-list).\n- New FB group posting + any discount = H approval required.\n- Read `FB_SALES_OPS_PLAYBOOK.md` alongside `FB_MARKETPLACE_PLAYBOOK.md`.\n- If Meta flags/locks the account, STOP immediately and report to H.\n\n## CONDITION RULE (mandatory since 17/10/26 \u2014 misrepresentation risk)\nEvery queue item now carries a 'condition' field ('NEW' or 'USED'). When posting:\n- FB Marketplace: set the Condition dropdown to EXACTLY the item's 'condition' value ('Used' or 'New'). Never default to New.\n- Description line: USED items get 'UK Pre-Owned, Tested Working' (or 'For parts/repair' where title says so); NEW items get 'Brand New, Sealed'.\n- WhatsApp catalog: NEW items titled normally; USED items include 'UK Used' or 'Pre-owned' in title/description honestly.\n- If a queue item lacks the 'condition' field, classify by title: explicit 'brand new/sealed' = NEW; explicit 'pre-owned/used/for parts/bare unit/vintage/untested' = USED; sealed consumables (sprays, tapes, blades, batteries, LEGO) = NEW; EVERYTHING ELSE = USED (H buys at auction ~1/3 UK retail \u2014 default used, never guess new). Never post an unclassified item.\n\n## AI-TELL LINTER (mandatory since 19/10/26 \u2014 every description)\nBefore posting ANY listing/catalogue text, run it through SlopMonster's AI-tell linter:\n`python content_tool.py slopcheck '<description text>'` (sat-nav profile launcher \u2192 SlopMonster).\n- If it returns 5/5 CLEAN (exit 0): post as-is.\n- If it returns <5/5 (exit 1, AI-tells flagged): REWRITE to remove the tells\n  (kill 'delve/seamless/revolutionary', 'not just X but Y', rule-of-three rhythms,\n  stacked em-dashes, invented stats), make it concrete and human (e.g. \"UK Imported,\n  tested working\" + a specific spec), then re-check until 5/5.\nNEVER ship AI-sounding copy \u2014 it kills trust and conversions on Jiji/FB/WhatsApp.\n",
+      "skills": [],
+      "skill": null,
+      "model": "deepseek/deepseek-v4-flash-0731",
+      "provider": "openrouter",
+      "base_url": null,
+      "script": null,
+      "no_agent": false,
+      "monitor_script": null,
+      "monitor_url": null,
+      "monitor_state": null,
+      "context_from": null,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 9,13,18 * * *",
+        "display": "0 9,13,18 * * *"
+      },
+      "schedule_display": "0 9-19/2 * * *",
+      "repeat": {
+        "times": null,
+        "completed": 166
+      },
+      "enabled": true,
+      "state": "scheduled",
+      "paused_at": null,
+      "paused_reason": null,
+      "created_at": "2026-09-29T20:22:28.049585+00:00",
+      "next_run_at": "2026-10-23T09:00:00+00:00",
+      "last_run_at": "2026-10-22T20:45:23.247294+00:00",
+      "last_status": "error",
+      "last_error": "RuntimeError: agent reported failure",
+      "last_delivery_error": null,
+      "last_delivery_unverified": null,
+      "failure_streak": 1,
+      "deliver": "origin",
+      "origin": null,
+      "enabled_toolsets": null,
+      "workdir": null,
+      "last_dispatch": {
+        "scheduled_at": "2026-10-22T18:00:00+00:00",
+        "dispatched_at": "2026-10-22T18:00:53.918856+00:00",
+        "lateness_seconds": 53.9,
+        "kind": "on_time"
+      },
+      "fire_claim": null,
+      "last_failure": {
+        "at": "2026-10-22T20:45:23.247294+00:00",
+        "detail": "RuntimeError: agent reported failure"
+      }
+    },
+    {
+      "id": "18cee69a1011",
+      "name": "2Real - WhatsApp Catalogue Poster",
+      "prompt": "2Real WhatsApp Web Catalogue poster. Add up to 15 catalogue items per run from the premium-priced queue. Follow EXACTLY.\n\n## CONTEXT\n- Package dir: C:\\Users\\User\\.hermes\\workspace\\Vault\\business\\2real\\2real-agent\\channel_upload_package\n  - wa_queue.json (premium titles+prices), wa_catalog_posted.json (posted IDs \u2014 the ONLY state file you may edit),\n    wa_catalog_existing.json (live catalogue baseline), photos/{jiji_id}.jpg, wa_catalog_lib.py (proven library).\n- **BROWSER = the PERSISTENT CDP browser on port 9222** (the SAME one FB + Jiji crons use). It is already logged\n  into WhatsApp Business (2Real +233 20 425 2252). Do NOT open a new browser, do NOT re-pair, do NOT scan a QR.\n  If the persistent browser is not running, start it with: `bash launch_2real_browser.sh` (in the package dir),\n  then verify `curl -s http://127.0.0.1:9222/json/version` returns Browser info before proceeding.\n- **DRIVER: run `python wa_cdp_run.py <count>`** (in the package dir) \u2014 this attaches to the WhatsApp tab on the\n  persistent :9222 browser and posts catalogue items via CDP. It is the PROVEN driver (verified 18 Oct 26).\n  Do NOT use the browser tool / browser_exec / a 'jiji-shop' session for this \u2014 that opens a SEPARATE browser.\n\n## STEPS\n1. Read wa_queue.json and wa_catalog_posted.json with read_file BEFORE posting.\n2. Run `python wa_cdp_run.py 3` in the package dir (posts 3 items per call, saves wa_catalog_posted.json after\n   EVERY item, re-checks duplicates against wa_catalog_existing.json automatically). Repeat in chunks of 3 until\n   you've attempted up to 15 items or the queue is empty. A timeout never loses more than 3 items.\n3. If an item fails, retry it once; after a second failure skip it and continue.\n4. If wa_cdp_run.py reports [CRON_FAILURE] (no WhatsApp tab, or login wall), end the run immediately and leave\n   state files untouched.\n\n## COLLECTION ASSIGNMENT (mandatory since 15/10/26)\n- Every item in wa_queue.json carries a 'collection' field. Assign the posted item to the EXACT collection named.\n- Valid collections: Gorilla Glue and Tapes From UK | Master Lock and Keysafe | Magnum Locks | Stanley Knife/ Blades | Glue Guns Corded & Cordless | Car Inverters | Stanley & Other UK Brand Plier | Spanners | Floodlights & Work Lights | Original Heavy Duty Sanders | Wood, Blocks, Metal Drills | Car & Drill Chargers | Screwdrivers & Sockets | Jigsaws | Staples/Nail Guns | Brand New LEGO Adults & Kids | Power Tools \u2014 UK Brand | Hand Tools \u2014 Spanners, Sockets & Pliers | Electronics & Audio | Home & Furniture | Kids & Baby Tech | Office & B2B | Garden & Farm | Paint, Sprays & Consumables | Sports & Leisure\n- If wa_queue.json lacks 'collection' for an item, match its title against wa_collections_rules.json and write the result back into wa_queue.json before posting. Never leave a new catalog item uncollected.\n\n## CONDITION RULE (mandatory since 17/10/26)\n- Every queue item carries a 'condition' field ('NEW' or 'USED'). WhatsApp catalogue: USED items get 'UK Pre-Owned, Tested Working' (or 'For parts/repair' where title says so); NEW items get 'Brand New, Sealed'. Never misrepresent condition.\n\n## REPORT (short)\n- X added this run, Y remaining in wa_queue.json, list any FAILs/SKIPs with reasons.\n- When remaining = 0: say CATALOGUE QUEUE COMPLETE.\n- NEVER mark an item posted without a SAVED result. No invented output.\n\n## AI-TELL LINTER (mandatory since 19/10/26 \u2014 every description)\nBefore posting ANY listing/catalogue text, run it through SlopMonster's AI-tell linter:\n`python content_tool.py slopcheck '<description text>'` (sat-nav profile launcher \u2192 SlopMonster).\n- If it returns 5/5 CLEAN (exit 0): post as-is.\n- If it returns <5/5 (exit 1, AI-tells flagged): REWRITE to remove the tells\n  (kill 'delve/seamless/revolutionary', 'not just X but Y', rule-of-three rhythms,\n  stacked em-dashes, invented stats), make it concrete and human (e.g. \"UK Imported,\n  tested working\" + a specific spec), then re-check until 5/5.\nNEVER ship AI-sounding copy \u2014 it kills trust and conversions on Jiji/FB/WhatsApp.\n",
+      "skills": [
+        "whatsapp-web-catalog",
+        "facebook-marketplace-automation"
+      ],
+      "skill": "whatsapp-web-catalog",
+      "model": "deepseek/deepseek-v4-flash-0731",
+      "provider": "openrouter",
+      "base_url": null,
+      "script": null,
+      "no_agent": false,
+      "monitor_script": null,
+      "monitor_url": null,
+      "monitor_state": null,
+      "context_from": null,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 9 * * *",
+        "display": "0 9 * * *"
+      },
+      "schedule_display": "0 9 * * *",
+      "repeat": {
+        "times": null,
+        "completed": 39
+      },
+      "enabled": true,
+      "state": "scheduled",
+      "paused_at": null,
+      "paused_reason": null,
+      "created_at": "2026-10-12T03:45:58.527173+00:00",
+      "next_run_at": "2026-10-23T09:00:00+00:00",
+      "last_run_at": "2026-10-22T10:25:15.897339+00:00",
+      "last_status": "ok",
+      "last_error": null,
+      "last_delivery_error": null,
+      "last_delivery_unverified": null,
+      "failure_streak": 0,
+      "deliver": "local",
+      "origin": null,
+      "enabled_toolsets": null,
+      "workdir": null,
+      "fire_claim": null,
+      "last_dispatch": {
+        "scheduled_at": "2026-10-22T09:00:00+00:00",
+        "dispatched_at": "2026-10-22T10:13:15.778359+00:00",
+        "lateness_seconds": 4395.8,
+        "kind": "late"
+      },
+      "last_failure": {
+        "at": "2026-10-19T01:02:15.581232+00:00",
+        "detail": "**2Real WhatsApp Catalogue Poster \u2014 19 Oct run failed: WA session logged out (QR wall).**\n\n**What happened (verified, not guessed):**\n- Attempted to run `wa_post_next(15)` in browser session `jiji-shop` against `web.whatsapp.com`.\n- The page shows the persistent **\"Scan to log in\" QR login wall** \u2014 no chat/UI loaded.\n- I waited 70+s, reloaded multiple times, and fully re-navigated (per the playbook's fresh-spawn recovery step) \u2014 the QR wall never cleared.\n- I also inspected the local hermes-profile Chrome (port 55422 from `DevToolsActivePort`), which holds the persisted WA login (IndexedDB + Local Storage present and being written). It **also** shows the QR wall \u2014 the linked-device session itself is no longer valid on the server side, not a transient render issue.\n- Per playbook/task rules: QR/login wall = hard stop. I must NOT re-pair, scan, or guess credentials, and no user is present to scan.\n\n**State files untouched (verified):**\n- `wa_catalog_posted.json` \u2014 not modified (193 items logged, unchanged).\n- `wa_queue.json` \u2014 not modified (238 items, 174 still pending, all with collection + condition).\n- No item was posted or marked posted; no `wa_post_next` call ever executed.\n- My temporary CDP probe scripts were removed; pre-existing `wa_cdp_run*.py` lib files left intact.\n\n**Next step required (human):** The WhatsApp Business web session needs to be re-linked once by scanning the QR (or re-pairing the linked device) from the phone app. After that the daily 09:00 cron can resume. Queue is healthy and untouched, ready to post when the session returns."
+      }
+    },
+    {
+      "id": "0c0f87b59450",
+      "name": "2Real - Jiji Lead Nudger (20/run)",
+      "prompt": "2Real Jiji Lead Nudge (batch sender). You are H's Jiji lead-nudging agent for the 2 Real Enterprises seller account.\n\nTASK each run:\n1. Read queue file: C:/Users/User/.hermes/workspace/Vault/business/2real/2real-agent/nudge_queue.json\n2. Read sent log: C:/Users/User/.hermes/workspace/Vault/business/2real/2real-agent/nudge_sent_log.json (skip anyone already sent; one nudge per lead EVER)\n3. Take the NEXT 20 unsent leads (queue is ordered newest-first), open each lead's chat via https://jiji.com.gh + their chat_url path, use the 'message' field verbatim, send via the contenteditable composer + Enter dispatch (single Enter dispatch only - double sends bug), verify composer empty + message text in thread, then append {name, user_id, chat_id, timestamp} to nudge_sent_log.json after EACH send (timeout-proof per-item saves).\n4. If browser session/login fails, stop immediately and report - do not retry more than twice.\n5. When queue is fully sent, report QUEUE COMPLETE.\n\nRULES:\n- One nudge per lead, never two (H's standing rule).\n- Never send to leads already replied/negotiating (nudge_leads.json hot leads are H's manual conversations - DO NOT touch them).\n- Send pace: ~30s between messages. If any send errors, log it and continue to next lead.\n- WhatsApp CTA number 0204252252 only.\n\nSessions: browser session name 'jiji-shop-login' (headed mode, logged into Jiji as 2Real seller).",
+      "skills": [],
+      "skill": null,
+      "model": "deepseek/deepseek-v4-flash-0731",
+      "provider": "openrouter",
+      "base_url": null,
+      "script": null,
+      "no_agent": false,
+      "monitor_script": null,
+      "monitor_url": null,
+      "monitor_state": null,
+      "context_from": null,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 10,12,14,16 * * *",
+        "display": "0 10,12,14,16 * * *"
+      },
+      "schedule_display": "0 10,12,14,16 * * *",
+      "repeat": {
+        "times": null,
+        "completed": 33
+      },
+      "enabled": true,
+      "state": "scheduled",
+      "paused_at": null,
+      "paused_reason": "Duplicate sends detected - auditing before resume",
+      "created_at": "2026-10-15T04:57:40.983008+00:00",
+      "next_run_at": "2026-10-23T10:00:00+00:00",
+      "last_run_at": "2026-10-22T16:01:22.712480+00:00",
+      "last_status": "ok",
+      "last_error": null,
+      "last_delivery_error": null,
+      "last_delivery_unverified": null,
+      "last_failure": {
+        "at": "2026-10-18T12:03:15.696879+00:00",
+        "detail": "Hermes stopped because your settings file (C:\\Users\\User\\AppData\\Local\\hermes\\config.yaml) has a formatting error at line 289. Fix it with `hermes config edit` and check with `hermes config check`, or add --ignore-user-config to run once with default settings. Details: found duplicate key \"platforms\" with value \"{}\" (original value: \"{}\")"
+      },
+      "failure_streak": 0,
+      "deliver": "local",
+      "origin": null,
+      "enabled_toolsets": null,
+      "workdir": null,
+      "fire_claim": null,
+      "paused": true,
+      "last_dispatch": {
+        "scheduled_at": "2026-10-22T16:00:00+00:00",
+        "dispatched_at": "2026-10-22T16:00:53.934123+00:00",
+        "lateness_seconds": 53.9,
+        "kind": "on_time"
+      }
+    },
+    {
+      "id": "cfaf31ec0569",
+      "name": "2Real \u2014 Monday Rider Availability Check",
+      "enabled": true,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 19 * * 0",
+        "display": "0 19 * * 0"
+      },
+      "prompt": "You are the 2Real chief-of-staff. It is SUNDAY night. Draft the Monday rider-coordination check.\n\n## READ THE RIDER LIST FROM THE STATE FILE (source of truth \u2014 do NOT hardcode riders)\nRead `C:\\Users\\User\\.hermes\\workspace\\Vault\\business\\2real\\rider-network-state.md`. Parse the\n**Riders** table (every row = every rider the cron must message this week). Draft one message for EACH\nrow. If H added a new rider row, include them \u2014 never drop a rider that's in the table. If the table is\nempty, say \"no riders on the list\" and stop.\n\n## SELF-EVOLVING LOGIC per rider (from the state file)\n- If the rider's **Base location is KNOWN** (not \"pending\"/blank) \u2192 message asks **availability only**.\n- If the rider's **Base location is UNKNOWN / pending** \u2192 message asks availability AND \"which side of\n  Accra is your base / which area do you usually cover?\".\n- The base is asked ONCE (first send); once known it's never re-asked. New riders with a pre-known base\n  go straight to availability-only.\n\n## PRICING RULE (from H \u2014 NEVER break)\nDo NOT ask riders for a delivery PRICE. Customers give their exact drop-off location (nearest Accra/Tema\nlandmark) on the day; a price can only be quoted AFTER the run's destination is known. Pricing is\nper-run, on the day. Never pre-ask a price in the weekly check.\n\n## TONE\nReady-to-send WhatsApp message per rider: bare first-person English, Ghanaian warm-professional, NO bot\nprefix, NO emoji overload, under 55 words, uses the rider's name.\n\n## OUTPUT FORMAT\nA compact copy-paste block:\n```\n\u26a0\ufe0f RIDER CHECK \u2014 send tonight for MONDAY 7\u20139am\n\n1\ufe0f\u20e3 <Name> (+233 \u2026) [base: KNOWN/UNKNOWN]:\n<message text>\n\n2\ufe0f\u20e3 \u2026 (one per rider in the table)\n\nSTATE REMINDER: <one line \u2014 e.g. if any base changed / a rider left / a new rider was added, tell H to\nreply to sat-nav to update rider-network-state.md>\n```\nDo NOT send any message yourself \u2014 H sends from his phone. Just deliver the ready-to-send drafts.",
+      "deliver": "origin",
+      "skills": [],
+      "script": null,
+      "last_status": "ok",
+      "failure_streak": 0,
+      "next_run_at": "2026-10-25T19:00:00+00:00",
+      "last_dispatch": {
+        "scheduled_at": "2026-10-18T19:00:00+00:00",
+        "dispatched_at": "2026-10-18T19:00:17.917896+00:00",
+        "lateness_seconds": 17.9,
+        "kind": "on_time"
+      },
+      "fire_claim": null,
+      "last_run_at": "2026-10-18T19:12:33.532965+00:00",
+      "last_error": null,
+      "last_delivery_error": null,
+      "state": "scheduled",
+      "model": "deepseek/deepseek-v4-flash-0731",
+      "provider": "openrouter"
+    },
+    {
+      "id": "a48d35a53ed5",
+      "name": "2Real \u2014 Daily Jiji\u2192Ledger Report",
+      "enabled": true,
+      "schedule": {
+        "kind": "cron",
+        "expr": "30 4 * * *",
+        "display": "30 4 * * *"
+      },
+      "prompt": "Run the 2Real daily Jiji\u2192Ledger reconciliation report.\n\n## TASK\nExecute: `C:\\Users\\User\\AppData\\Local\\Programs\\Python\\Python314\\python.exe jiji_ledger_daily_report.py`\n(in `C:\\Users\\User\\.hermes\\workspace\\Vault\\business\\2real\\2real-agent\\`)\n\nThis reads Jiji (source of truth, jiji_listings_full.json) + the item_location_ledger.json and:\n1. Auto-seeds NEW Jiji listings as TO_TEST ledger rows (so they're 'added to the ledger the day before').\n2. Flags items on the ledger no longer active on Jiji (likely SOLD) for review.\n3. Lists items with no physical location (assign a zone) and untested items (test before quoting).\n\n## OUTPUT\nDeliver the full printed report verbatim (it's short + phone-readable). It inherently tells us WHAT TO DO today:\n- new items to locate+test+list\n- items needing a location zone\n- untested items to test before quoting\n- items that left Jiji (likely sold) to mark/close in the ledger\n\nDo NOT edit the ledger yourself unless a specific discrepancy needs a fix. Just run + deliver the report. If the script errors (missing file/venv), report the error.",
+      "model": "deepseek/deepseek-v4-flash-0731",
+      "provider": "openrouter",
+      "deliver": "origin",
+      "repeat": {
+        "times": null,
+        "completed": 3
+      },
+      "next_run_at": "2026-10-23T04:30:00+00:00",
+      "last_dispatch": {
+        "scheduled_at": "2026-10-22T04:30:00+00:00",
+        "dispatched_at": "2026-10-22T04:30:29.824031+00:00",
+        "lateness_seconds": 29.8,
+        "kind": "on_time"
+      },
+      "fire_claim": null,
+      "last_run_at": "2026-10-22T04:30:45.086836+00:00",
+      "last_status": "ok",
+      "last_error": null,
+      "failure_streak": 0,
+      "last_delivery_error": null,
+      "state": "scheduled"
+    },
+    {
+      "id": "13a1edb06ab3",
+      "name": "Monday \u2014 Kyei Rose Check-in",
+      "enabled": true,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 10 * * 1",
+        "display": "0 10 * * 1"
+      },
+      "prompt": "You are H's weekly Monday check-in assistant. It is MONDAY.\n\n## TASK\nDraft a ready-to-send WhatsApp message to **Kyei** (+233 50 334 4556) about the roses.\n\nThe message must:\n1. Ask how **the roses are growing** this week (check-in on their progress).\n2. Let Kyei know there are **2 plant pots in the house ready to plant something** \u2014 mention them, so he's aware they're available.\n\nTone: warm, natural, first-person (as H), Ghanaian-friendly, under 80 words, no bot prefix, no emoji overload.\n\n## OUTPUT\nReply with a compact copy-paste block:\n```\n\u26a0\ufe0f MONDAY ROSE CHECK-IN \u2014 send to Kyei (+233 50 334 4556)\n\n<message text>\n```\nDo NOT send it yourself \u2014 H sends from his phone (he owns the contact). Just deliver the draft.",
+      "model": "deepseek/deepseek-v4-flash-0731",
+      "provider": "openrouter",
+      "deliver": "origin",
+      "repeat": {
+        "times": null,
+        "completed": 1
+      },
+      "next_run_at": "2026-10-26T10:00:00+00:00",
+      "last_dispatch": {
+        "scheduled_at": "2026-10-19T10:00:00+00:00",
+        "dispatched_at": "2026-10-19T12:28:42.217201+00:00",
+        "lateness_seconds": 8922.2,
+        "kind": "catch_up"
+      },
+      "fire_claim": null,
+      "last_run_at": "2026-10-19T13:42:29.828847+00:00",
+      "last_status": "ok",
+      "last_error": null,
+      "failure_streak": 0,
+      "last_delivery_error": null,
+      "state": "scheduled"
+    },
+    {
+      "id": "834db0933b81",
+      "name": "2Real \u2014 Morning Number Briefing",
+      "enabled": true,
+      "schedule": {
+        "kind": "cron",
+        "expr": "30 5 * * *",
+        "display": "30 5 * * *"
+      },
+      "prompt": "You are H's single daily MORNING NUMBER briefing. Deliver ONE concise, scannable, phone-readable Telegram message (under ~650 chars) that gives H the number that matters and what to do today.\n\n## THE NUMBER (read live, never hardcode)\n1. **YESTERDAY'S SALES** \u2014 read `C:\\Users\\User\\.hermes\\workspace\\Vault\\business\\2real\\daily-sales-log.md` (latest data row).\n2. **TARGET vs ACTUAL** \u2014 H's daily target is **2,500 GH\u20b5** (break-even ~1,111; strong day 2,500). Show variance +/\u2212 and %.\n3. **MARGIN** \u2014 if the row has COGS/margin% columns, note the gross margin; else estimate \"no COGS logged\".\n4. **PACE** \u2014 one line: is the week on track to beat break-even? (avg last 7 days vs 1,111)\n\n## CONTEXT (fold in, short)\n- Today's day-location: **Mon = Oyarifa** (testing/packing/listing/pickup), **Tue\u2013Sat = Dome Market**. Leave ~07:00.\n- **Transport:** Oyarifa\u2192Dome ~GHS 30-45, Weija\u2192Dome ~GHS 40-60 (Yango preferred, share saves ~30%).\n- **Weather (6-10am Accra):** check https://www.windy.com/rain,radar + https://meteo.gov.gh \u2014 Yes/No rain + one-line action (pack tarps / light jacket / clear full display).\n- **Priority (2-3 items max):** pull today's top tasks from `Vault/tasks-queue.md` (Active section) + any pending follow-ups in the sales log notes (unpaid balances, rider confirmations).\n\n## FORMAT (exactly this shape, scannable in 30s)\n```\n\u2600\ufe0f GOOD MORNING [DATE]\n\n\ud83d\udcca NUMBER: yesterday GHS [actual] vs 2,500 target ([+/- %])\n   Break-even 1,111 | Margin [x%] | Pace: [on/off track]\n\n\ud83d\udccd Today: [Dome / Oyarifa] | Leave 07:00 | Ride ~[range]\n\n\ud83c\udf27 Weather 6-10am: [rain or clear] \u2192 [action]\n\n\ud83c\udfaf Priority:\n\u2022 [2-3 bullets from tasks + follow-ups]\n\nKeep it tight. H reads this before leaving.\n",
+      "model": "deepseek/deepseek-v4-flash-0731",
+      "provider": "openrouter",
+      "deliver": "telegram:-1003784520976:1",
+      "repeat": {
+        "times": null,
+        "completed": 3
+      },
+      "skills": [],
+      "skill": null,
+      "script": null,
+      "enabled_toolsets": null,
+      "no_agent": false,
+      "next_run_at": "2026-10-23T05:30:00+00:00",
+      "last_dispatch": {
+        "scheduled_at": "2026-10-22T05:30:00+00:00",
+        "dispatched_at": "2026-10-22T05:30:29.839123+00:00",
+        "lateness_seconds": 29.8,
+        "kind": "on_time"
+      },
+      "fire_claim": null,
+      "last_run_at": "2026-10-22T05:30:50.969462+00:00",
+      "last_status": "ok",
+      "last_error": null,
+      "failure_streak": 0,
+      "last_delivery_error": null,
+      "state": "scheduled"
+    },
+    {
+      "id": "495290ec458a",
+      "name": "2Real \u2014 Weekly Competitor & Price Scan",
+      "enabled": true,
+      "schedule": {
+        "kind": "cron",
+        "expr": "30 5 * * 2",
+        "display": "30 5 * * 2"
+      },
+      "prompt": "Weekly competitor + price intelligence scan for 2Real Enterprises. Delivers a concise benchmark update to Telegram (owner H) so he can keep pricing sharp.\n\n## SCAN (use the persistent :9222 browser \u2014 it's logged into Jiji as Two Real Enterprises; do NOT open a new ephemeral browser)\n1. **Jiji competitors** \u2014 search Jiji (https://jiji.com.gh/search?query=...) for: power tools/drills, hand tools, generators/power-solar, electronics. Capture the top competitor listings + GHS prices (title/price/seller if visible). Compare against Vault/business/2real/COMPETITOR_BENCHMARK.md and note what CHANGED (new sellers, price moves, new entrants).\n2. **EJ Deals** (UK surplus source, not a Jiji competitor) \u2014 try https://ejdeals.co.uk/ (may DNS-fail; if so skip silently, note 'unreachable this week'). Note any relevant new stock in the categories 2Real resells (Electronics/Tech, Car Parts, Home/Lighting).\n3. **Own positioning check** \u2014 for the current week's featured 2Real items, is each price at/below the competitor band for that category (see COMPETITOR_BENCHMARK.md section 4)? Flag any item priced ABOVE the benchmark as a pricing risk.\n\n## OUTPUT\n1. Append a dated block to Vault/business/2real/COMPETITOR_BENCHMARK.md (new listings, price moves, new competitors, EJ Deals stock).\n2. Send a SHORT Telegram summary (~200 words) to topic: 5. Include: 3-5 pricing moves/observations, any new competitor, any 2Real item priced above benchmark (with a reprice suggestion), EJ Deals head-up if relevant.\nNEVER invent competitor prices \u2014 only report what the browser/DOM actually showed. If Jiji/FB return nothing readable, say so honestly.\n\nCURRENT BENCHMARK (anchor of truth): Vault/business/2real/COMPETITOR_BENCHMARK.md \u2014 read it before scanning.",
+      "model": "deepseek/deepseek-v4-flash-0731",
+      "provider": "openrouter",
+      "deliver": "telegram:-1003784520976:5",
+      "repeat": {
+        "times": null,
+        "completed": 1
+      },
+      "skills": [],
+      "skill": null,
+      "script": null,
+      "enabled_toolsets": null,
+      "no_agent": false,
+      "next_run_at": "2026-10-27T05:30:00+00:00",
+      "last_dispatch": {
+        "scheduled_at": "2026-10-20T05:30:00+00:00",
+        "dispatched_at": "2026-10-20T05:30:20.699027+00:00",
+        "lateness_seconds": 20.7,
+        "kind": "on_time"
+      },
+      "fire_claim": null,
+      "last_run_at": "2026-10-20T05:49:02.733375+00:00",
+      "last_status": "ok",
+      "last_error": null,
+      "failure_streak": 0,
+      "last_delivery_error": null,
+      "state": "scheduled"
+    }
+  ],
+  "updated_at": "2026-10-22T22:19:11.515617+00:00"
+}
