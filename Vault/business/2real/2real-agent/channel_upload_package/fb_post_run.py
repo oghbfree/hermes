@@ -3,6 +3,7 @@
 Usage: python fb_post_run.py <jiji_id>  -> posts that item if not in fb_posted.json.
 """
 import sys, os, json, time, base64
+import subprocess
 
 pkg = r'C:\Users\User\.hermes\workspace\Vault\business\2real\2real-agent\channel_upload_package'
 sys.path.insert(0, pkg)
@@ -43,7 +44,11 @@ UPLOAD_OK = """(() => {
   return imgs.length>0;
 })()"""
 
+_PUBLISHED_URL = ''  # module-level; set by post_one_checked on successful publish
+
 def post_one_checked(title, price, photo, category, desc, condition="New"):
+    global _PUBLISHED_URL
+    _PUBLISHED_URL = ''
     C.goto_url('https://www.facebook.com/marketplace/create/item')
     time.sleep(6)
     # choose 'Item for sale' if shown
@@ -116,7 +121,21 @@ def post_one_checked(title, price, photo, category, desc, condition="New"):
             C.js("""(() => { const b=[...document.querySelectorAll('div[role=button],button')].filter(e=>e.offsetParent!==null).find(e=>(e.textContent||'').trim()===%s); if(!b) return 'no'; const ME=t=>new MouseEvent(t,{bubbles:true,cancelable:true,view:window}); ['mousedown','mouseup','click'].forEach(t=>b.dispatchEvent(ME(t))); return 'ok'; })()""" % json.dumps(p.get('label','')))
             time.sleep(2.5)
             if p.get('label') == 'Publish':
-                time.sleep(2)
+                time.sleep(4)
+                # capture the just-published listing URL for group sharing
+                try:
+                    u = C.js('location.href') or ''
+                    if '/marketplace/item/' in u:
+                        _PUBLISHED_URL = u
+                    else:
+                        # fallback: selling page newest listing
+                        C.goto_url('https://www.facebook.com/marketplace/you/selling')
+                        time.sleep(6)
+                        lu = C.js("(() => { const a=document.querySelector('a[href*=\"/marketplace/item/\"]'); return a ? a.href.split('?')[0] : ''; })") or ''
+                        _PUBLISHED_URL = lu
+                except Exception:
+                    _PUBLISHED_URL = ''
+                time.sleep(1)
                 return 'PUBLISHED'
         else:
             time.sleep(1)
@@ -158,6 +177,28 @@ def enrich_title(t):
     if len(t) + len(suffix) <= 95:
         return t + suffix
     return t[:95]
+
+def share_groups_after_publish(jid, item_url):
+    """Share the freshly-published listing into H's buy/sell groups (best-effort).
+    Never fails the post — the listing is already live.
+    DEFAULT ON per H directive 22/10/26 ("post to Accra Buy and Sell and Ghana
+    Marketplace at the same time"). Disable with FB_SHARE_GROUPS=0/off."""
+    if os.environ.get('FB_SHARE_GROUPS', '').strip().lower() in ('0', 'off', 'no', 'false'):
+        print('GROUP-SHARE disabled via FB_SHARE_GROUPS=0 — listing stays Marketplace-only')
+        return
+    if not item_url:
+        print('GROUP-SHARE skipped (no listing url captured for', jid, ')')
+        return
+    try:
+        py = r'C:\Users\User\AppData\Local\Programs\Python\Python314\python.exe'
+        r = subprocess.run(
+            [py, os.path.join(pkg, 'fb_share_groups.py'), item_url],
+            capture_output=True, text=True, timeout=240, cwd=pkg,
+            env={**os.environ, 'FB_SHARE_GROUPS': '1'})
+        print('GROUP-SHARE', jid, '->', (r.stdout or r.stderr).replace('\n', ' ')[:300])
+    except Exception as e:
+        print('GROUP-SHARE EXC', jid, ':', repr(e))
+
 
 def _post_one(jid, researched=""):
     if not researched:
@@ -220,6 +261,7 @@ def _post_one(jid, researched=""):
             except Exception:
                 pass
             print('LOGGED', jid)
+            share_groups_after_publish(jid, _PUBLISHED_URL)
             return 0, 'published'
         if rc in ('FAIL no photo preview', 'FAIL fields: %r', 'FAIL fields: \'retry\''):
             pass

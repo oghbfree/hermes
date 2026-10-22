@@ -99,6 +99,12 @@
 | 4 Oct | Corn-dough porridge + 2 boiled eggs · 🧂 salt rock (self-administered 9am) | Kokonte + light soup (all) | — (drink with family; radio) |
 | 11 Oct | Corn dough porridge · 🧂 salt rock | — (waakye from masseuse saved for eve) | Waakye (held to 12 Oct lunch) |
 | 12 Oct | — (waakye heated 3:30pm) | Waakye (masseuse's, heated — fine) | — |
+| 15 Oct | Tom brown 10am (all) | Waakye (self-heated 2:32pm — ate EARLY vs 4pm protocol, "very hungry") | Declined 4:10 dinner ("already eaten") |
+| 16 Oct | Ekoegbemi 10am (all) | — | Boiled yam + kontomire stew 4pm (all) · watermelon juice (sip only — pain day) |
+| 17 Oct | Corn dough porridge + 2 boiled eggs 10am (all) · hot honey water | Rice + boiled beans 4pm (all; no salad) | Warm pineapple juice 7:45pm (all) |
+| 18 Oct | Pawpaw + scrambled eggs 10am (all) · lemon water resumed | Boiled yam + kontomire + boiled eggs 4pm (all — shared with Aunty Felicia) | — |
+| 19 Oct | Tom brown 10:26am (all) · lemon water (all) | Kenkey + pepper + sardine (left a little kenkey) | Warm pineapple juice 7:55pm (drank all) |
+| 20 Oct | Oblayo 10am (left a little) | — | Rice + boiled beans 4pm (left the salad — prefers warm) |
 
 > **Backfill complete (12 Oct 26):** Meals to 12 Oct. 🥛 **MILK SPOILT — discarded (strained w/ new cheesecloth + heated, still off; heat ≠ safe with spoiled milk). Perishable protocol: check on arrival, refrigerate immediately, date, carer spot-checks before serving.** Cheesecloth delivered 11 Oct ✓ (rider). Gentle swaps: Don Simon → watermelon juice; kelewele occasional.
 

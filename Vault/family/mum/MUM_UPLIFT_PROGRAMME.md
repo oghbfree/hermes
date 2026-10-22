@@ -2,6 +2,7 @@
 ## For Comfort (92) — with Stephanie & family
 > **Created:** 12 Sep 2026 · **Based on:** what the daily logs show genuinely lifts her
 > **Principles:** gentle, short, regular · her pace & her choice (she decides — independence is her medicine) · never force · pair movement with fun · stop if pain
+> **PART OF THE HEALTH LOG (21/10/26):** the daily mum-health check-in cron tracks an **"Uplift:" line** in the same MUM_MEDICAL_MASTER entry as vitals/meds. Well-being = health. Spa/beauty treats, massages, outings, laughter and exercise are recorded there, not in a separate system.
 
 ---
 
@@ -78,7 +79,8 @@ From her own daily reports (Aug–Sep):
 **Connection (the real medicine):**
 - 📞 **Scheduled family calls** — one per day: UK family, sisters, nieces/nephews
 - 👵 **"Ask Granny" session** — grandkids each ask one life question; record answers (her legacy!)
-- 🚗 **Fortnightly outing** — garden visit, drive, market browse (she responds so well to getting out)
+| 🚗 **Fortnightly outing** — garden visit, drive, market browse (she responds so well to getting out)
+| 💅 **Spa/self-care treat** — **21/10/26:** wax + pedicure + manicure at **Kenus** (10,000 GH₵ by H). Logs as an uplift event — she "thrives on looking after herself + going out". Recur if she loved it (ask, don't assume)
 - 🍷 **Friday red wine** — her long-standing dinner ritual (confirm amount with Dr Ferguson)
 
 ---

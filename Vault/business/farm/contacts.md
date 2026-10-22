@@ -9,8 +9,8 @@ updated: 2026-08-17
 ## Core Team
 | Name | Role | Pay | Phone | WhatsApp | Notes |
 |------|------|-----|-------|----------|-------|
-| **Ben** | Experienced farmer, on-site daily | — | +233 XX XXXXXXX | Yes | Knows farm inside out, fixed irrigation before |
-| **Eastwood** | **TERMINATED 2026-07-01** — Paid off 600 GHS, happy departure | — | — | — | **No longer on roster** |
+| **Ben** | **Friend & companion (NOT staff/farm manager)** — accompanies H sometimes; same hometown, lives close | — | +233 24 412 0093 | Yes | **Corrected 21/10/26:** roving friend, not on-site daily, no staff role. Owes 1,300 GHS for gardening equipment |
+| **Eastwood** | **TERMINATED 2026-07-01** — Paid off 600 GHS, happy departure | — | — | — | **No longer on roster.** **21/10/26:** H gave 200 GHS toward his child's lodging fee (goodwill, not in-roster work). Keep as a contact, not a staff line |
 | **Kwasi** | Bee trainer / hive constructor & maintenance | — | +233 XX XXXXXXX | Yes | **Exclusive hive partner (8/9/26)**: empty hives GHS 600 (with queen excluder + front gate, uniform size), colonised GHS 1,000. Located Winneba. Fee: GHS 200–300/day + transport for services. |
 | **Habib** | Farm caretaker (on-site) | **GHS 750/month** | +233 55 845 7027 | Yes | Elder Muslim from mum's village. Samsung S7. No light/electricity at farm. |
 | **Kanzoni** | Apiary operator + transport | **GHS 300–400/trip** | +233 24 895 7794 | Yes | Uses his pickup (H has no car). Tuesday check-ins. Rate increases for multi-day/heavy work. |

@@ -10,6 +10,12 @@
 | 13/10/26 | Driving mirror fix quote — Abbosey Okai | 300 (quoted, not yet paid) | vehicle | Sammy took mirror to Abbosey Okai; parts/fit quote 300 |
 | 13/10/26 | Sammy transport allowance | 50 | business | mirror errand |
 | 13/10/26 | H transport to La Paz (car check before work) | 75 | vehicle | saw car before Dome shift |
+| 21/10/26 | Fredrick — illness support | 400 | personal | GIFT/support, not business. Frederick = repair resource (key-contacts); goodwill keeps him on tap |
+| 21/10/26 | Eastwood — child's lodging fee contribution | 200 | personal | GIFT/support to ex-farm manager. Not business |
+| 21/10/26 | Mum — wax + pedicure + manicure from **Kenus** | 10,000 | family | Beauty/uplift treat for Comfort. Large but deliberate (she thrives on looking after herself / going out). Logged family, not business |
+| 21/10/26 | **Godwin** rider delivery — 500W inverter returned from act | 30 | business | Godwin (Eben's rider, Adenta) 0547652010 brought the act inverter back; Eben couldn't — used his rider. Charge 30 delivery |
+
+**21/10 outgoings:** 600 gifts (Frederick 400 + Eastwood 200) + 10,000 mum spa (Kenus) + 30 Godwin delivery = **10,630 total**. Mum + gifts = family/personal; 30 = business delivery.
 
 **Vehicle running total (13/10):** 445 spent (320 + 50 + 75) + 300 pending mirror fix.
 

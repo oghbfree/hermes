@@ -8,6 +8,7 @@
 ## 🔧 Frederick — Repair Resource
 - Repairs broken / non-working electricals
 - Already paid 200 GH₵ for fixing 3 items (28/08)
+- **21/10/26:** ill, hasn't worked a while — H gave **400 GH₵ illness support** (logged daily-expenses-log, not COGS). Goodwill keeps repair resource on tap
 - **Use for:** Take damaged electronics at low cost, pay Frederick to fix, resell as working at 2-3x. Converts losses into margin
 
 ## 👨‍💼 John — Operations
@@ -29,9 +30,13 @@
 - **Platforms:** Customers can request Yango/Bolt/Uber themselves, or H arranges it
 - **Outside Accra:** Rider takes item to the relevant transport station, books it in. Customer pays for item at that point. Customer gets vehicle number or receipt to collect at their destination station
 
-## 💰 Ben — Farm worker + gardening-equipment debtor
-- **Also on record as:** Farm Manager / experienced farmer at **Senya Beraku** (+233 24 412 0093), on-site daily, trusted advisor (see `Vault/business/farm/contacts.md`, OPERATIONS_PROTOCOL).
+## 💰 Ben — Friend & farm companion + gardening-equipment debtor
+- **Friend who lives close to H, from the same hometown** — accompanies H to the farm sometimes; NOT a farm manager/employee and NOT on-site daily (corrected 21/10/26). Roving companion, not a staff role. Phone +233 24 412 0093.
 - **Owes 1,300 GH₵** for gardening equipment
+
+## 🛵 Godwin — Rider (Eben's backup, Adenta)
+- +233 54 765 2010 · based **Adenta**
+- **21/10/26:** Eben unavailable → Godwin returned the 500W inverter from **act** for 30 GH₵ delivery. Added to rider network (Sunday cron now messages him).
 - **Working it off:** seems available + keen to do jobs; wants to subtract from the money owed
 - **Already helped** move things from warehouse → house (1 mile away)
 - **Watch:** he's chipping away at the debt via labour. Decide the rate per job (AGREE upfront, in writing/WhatsApp) so the 1,300 reduces by a known amount each job — otherwise the debt can drift without a clear settlement.

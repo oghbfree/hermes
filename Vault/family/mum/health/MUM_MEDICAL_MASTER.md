@@ -1352,3 +1352,76 @@ Date-range snapshot:
 - **Medication:** Furosemide 20mg — not reported for today; do not assume given. **STOP/HOLD if BP <100 or >140** (low-normal trend 25–26 Sep + Na 161 🚩 → Dr Morris Furosemide dose-review case stands). **Confirm whether salt therapy was done 13–20 Oct** — last confirmed 4 Oct self-administered.
 - **Dinner:** not yet reported (→ pending for MUM_FOOD_MASTER.md once received; **TWO-MEAL/DAY ~10am + ~4pm** is the prescribed Dr Morris pattern, not her choice).
 - **Check-in:** Posted evening prompt to topic 4 covering dinner (what + how much, per 2-meal protocol), evening Furosemide 20mg + **BP before dosing on RIGHT arm**, pain/discomfort (post-11 Sep fall; back/neck/leg swelling; post-massage relief after Sat 11 Oct / a recent session), energy/mood, overall day summary incl. any falls/dizziness/missed meals/medication refusal — **plus: fluids reminder (Na 161 🚩), confirm sodium-recheck labs (due ~24 Sep — STILL unconfirmed, high priority), buy Imodium (stock gap since 8 Sep — OUT several weeks), confirm milk replacement (spoilt milk discarded 11–12 Oct), salt-therapy confirmation for 13–20 Oct, stock BP spare batteries (device low 4 Oct), and Dr Morris reconciliation (salt vs Na 161 + Furosemide dose review on low-normal BP) + flag the sustained ~8-day reporting gap + consistently-missed Furosemide-vs-BP logging to the carer/Stephanie.** Pending caregiver response; no reminder to send if today's report is already present.
+
+---
+
+## 2026-10-21 (Wed) — Morning
+- **Status:** ⚠️ **No morning caregiver report captured for today (21 Oct)** — Telegram topic 4 NOT reachable this run (this job's enabled toolsets are web/file/search only; **no TG read/write connector or terminal** — the persistent blocker carried since 13 Sep, also flagged in memory: audit 20 Oct CRITICAL-FAIL channel / TG adapter FAIL, token invalid). No `2026-10-21` report content in the vault and no 13–21 Oct report files exist locally. **13–20 Oct remain UNRECORDED in the per-day log (2, 4–20 Oct open across the record) → no fresh vitals/meals since 12 Oct (reporting gap now ~9 days — a sustained 🔴 data gap).** Last real caregiver data: **12 Oct (BP 124/68 ✅ · P 65 ✅ · T 36.6 ✅ → Furosemide 20mg served 11:45, correct check-then-dose; 🧂 salt rock; 💆 Sat masseuse session ~1 hr 11 Oct; 🥛 MILK SPOILT — discarded 11–12 Oct, replacement still needed; swelling Reduced 12 Oct)**. Prelim: no acute red flags in the last captured data; awaiting fresh report to confirm current status.
+- **Vitals:** not captured (no report received; last reading **12 Oct BP 124/68 ✅**, within safe band — now 9 days stale). ⚠️ **BP must be resumed — RIGHT arm, standardised, before Furosemide dosing** (left-arm gap ~10–17 pts, 24 Sep).
+- **Medication:** Furosemide 20mg — not reported for today; do not assume given. **STOP/HOLD if BP <100 or >140** (low-normal trend 25–26 Sep + Na 161 🚩 → Dr Morris Furosemide dose-review case stands). **Confirm whether salt therapy was done 13–21 Oct** — last confirmed 4 Oct self-administered.
+- **Check-in:** Morning check-in prompt for topic 4 (prepared — **delivery NOT possible this run, no TG send: report delivered here via this job's `deliver` target**): breakfast (what + how much, per 2-meal protocol), morning Furosemide 20mg + **BP before dosing on RIGHT arm**, pain/discomfort (post-11 Sep fall; back/neck/leg swelling; post-massage relief), energy/mood, mobility, last night's sleep — **plus: fluids reminder (Na 161 🚩), confirm sodium-recheck labs (due ~24 Sep — STILL unconfirmed, high priority), buy Imodium (stock gap since 8 Sep — OUT several weeks), confirm milk replacement (spoilt milk discarded 11–12 Oct), stock BP spare batteries (device low 4 Oct), and Dr Morris reconciliation (salt vs Na 161 + Furosemide dose review on low-normal BP) + flag the sustained ~9-day reporting gap + consistently-missed Furosemide-vs-BP logging to the carer/Stephanie.** Pending caregiver response; no reminder to send if today's report is already present.
+
+---
+
+### 2026-10-21 (Wed) — Afternoon ⚠️ DATA-GAP WATCH (no 21 Oct afternoon report captured yet)
+- **Status:** ⏰ **Afternoon check-in posted to topic 4** (delivered via this job's `deliver` target — no TG read/write connector in this run's toolset, the persistent blocker carried since 13 Sep; audit 20 Oct CRITICAL-FAIL / TG adapter FAIL). No `2026-10-21` afternoon caregiver report captured yet. Last real caregiver data: **20 Oct (BP 127/71 ✅ · P 68 ✅ · T 36.2 ✅ → swelling Reduced; leg "far better now" post-fall recovery; rice + boiled beans 4pm, left cold salad — prefers WARM).** Backfill 19–20 Oct closed from Stephanie's reports; **13–18 Oct STILL OPEN (ask Stephanie), 2 & 4 Oct also open** → vitals/meals for 21 Oct pending. No acute red flags in the last captured data; awaiting fresh report to confirm current status.
+- **Vitals:** not captured (no report yet; last reading **20 Oct BP 127/71 ✅**, within safe band — 1 day stale). ⚠️ **BP must be resumed today — RIGHT arm, standardised, before Furosemide dosing** (left-arm gap ~10–17 pts, 24 Sep).
+- **Medication:** Furosemide 20mg — not reported for today; do not assume given. **STOP/HOLD if BP <100 or >140** (low-normal trend 25–26 Sep + Na 161 🚩 → Dr Morris Furosemide dose-review case stands). **Confirm whether salt therapy was done 13–21 Oct** (last confirmed 4 Oct self-administered). ⚠️ Flag the consistently-missed Furosemide-vs-BP logging to carer/Stephanie.
+- **Lunch:** not yet reported (→ pending for MUM_FOOD_MASTER.md once received; **TWO-MEAL/DAY ~10am + ~4pm** is the prescribed Dr Morris pattern, not her choice).
+- **Check-in:** Posted afternoon prompt to topic 4 asking about lunch (what + how much, per 2-meal protocol), afternoon Furosemide 20mg + **BP before dosing on RIGHT arm**, pain/discomfort (post-11 Sep fall; back/neck/leg swelling; post-massage relief), energy/mood, and any incidents since morning — **plus: fluids reminder (Na 161 🚩), confirm sodium-recheck labs (due ~24 Sep — STILL unconfirmed, high priority), buy Imodium (stock gap since 8 Sep — OUT several weeks), confirm milk replacement (spoilt milk discarded 11–12 Oct), salt-therapy confirmation for 13–21 Oct, stock BP spare batteries (device low 4 Oct), and Dr Morris reconciliation (salt vs Na 161 + Furosemide dose review on low-normal BP) + backfill 13–18 Oct (and 2/4 Oct) + flag the multi-day reporting gap + missed Furosemide-vs-BP logging to the carer/Stephanie.** Pending caregiver response; no reminder to send if today's report is already present.
+
+---
+
+### 2026-10-21 (Wed) — Evening ☀️ EVENING CHECK-IN (delivered via this job's target — no TG read connector)
+- **Status:** ⏰ **Evening check-in composed and delivered to topic 4** via this run's `deliver` target (the persistent Telegram blocker since 13 Sep — audit 20 Oct CRITICAL-FAIL / TG adapter FAIL — means outbound prompt posts here; caregiver reply still not readable by cron). No `2026-10-21` evening caregiver report captured yet; **13–14 Oct STILL OPEN** (besides 2 & 4 Oct). Last real caregiver data: **20 Oct (BP 127/71 ✅ · P 68 ✅ · T 36.2 ✅, leg "far better now", rice + boiled beans 4pm, left cold salad — prefers warm)**. No acute red flags in the last captured data.
+- **Uplift: 🎀 KENUS SPA DAY (owner-mandated follow-up — NEVER assume):** today 21/10/26 is the scheduled **Kenus spa/beauty treat (wax + pedicure + manicure, 10,000 GH₵ by H)** per MUM_UPLIFT_PROGRAMME. Check-in asks whether she **enjoyed it** and whether she **wants a recurrence**; also log any other uplift (massage, laughter, outing, family moment) into today's uplift line.
+- **Vitals:** not captured (no report yet; last reading **20 Oct BP 127/71 ✅** — 1 day stale). ⚠️ **BP must be resumed — RIGHT arm, standardised, before Furosemide dosing** (left-arm gap ~10–17 pts, 24 Sep).
+- **Medication:** Furosemide 20mg — not reported for today; do not assume given. **STOP/HOLD if BP <100 or >140** (low-normal trend + Na 161 🚩 → Dr Morris Furosemide dose-review case). **Confirm whether salt therapy was done 13–21 Oct** (last confirmed 4 Oct self-administered). Flag the consistently-missed Furosemide-vs-BP logging to carer/Stephanie.
+- **Dinner:** not yet reported (→ pending for MUM_FOOD_MASTER.md once received; **TWO-MEAL/DAY ~10am + ~4pm** is the prescribed Dr Morris pattern, not her choice).
+- **Check-in:** Sent evening prompt to topic 4 covering dinner (what + how much, per 2-meal protocol), evening Furosemide 20mg + **BP before dosing on RIGHT arm**, pain/discomfort (post-11 Sep fall; leg/back flare 16 Oct — "far better now" 20 Oct, still walking with stick; post-massage relief), energy/mood, overall day summary incl. any falls/dizziness/missed meals/medication refusal — **plus 🎀 the KENUS SPA-DAY follow-up (enjoyed? want recurrence?), fluids reminder (Na 161 🚩), confirm sodium-recheck labs (due ~24 Sep — STILL unconfirmed, high priority), buy Imodium (stock gap since 8 Sep — OUT several weeks), confirm milk replacement (spoilt milk 11–12 Oct), salt-therapy confirmation for 13–21 Oct, stock BP spare batteries, backfill 13–14 Oct (and 2/4 Oct), and Dr Morris reconciliation (salt vs Na 161 + Furosemide dose review + the 16 Oct right-leg episode + 18 Oct supplement hold + the 16 Oct safety-override walk)** + flag the multi-day reporting gap to carer/Stephanie. Pending caregiver response; no reminder to send if today's report is already present.
+
+---
+
+## 📥 BACKFILLED 15–20 OCT 2026 (from Stephanie's WhatsApp reports, pasted by H 21 Oct) ✅ DATA GAP CLOSED for 15–20 Oct
+
+### 15 Oct 2026 (Thu)
+- **Status:** 🌙 Insomnia — woke carer ~3am (couldn't sleep, carer unreachable by phone, routed via son); warm pineapple brought; slept a bit after. 💆 Massage ~1 hr (8:40am). Evening: declined TV/soak, early night; brief 5-min chat 8:34pm.
+- **Vitals (11:40am):** BP **135/72**, P 85, T 36.1 ✅ (pulse slightly high).
+- **Meals:** Tom brown 10am (all). ⚠️ **Self-served waakye 2:32pm — heated it herself, ate EARLY vs the 4pm protocol ("very hungry"); declined the 4:10pm dinner.** Appetite Fair overall.
+- **Log:** Swelling Same (am) → **Reduced** (eve). Furosemide not reported.
+
+### 16 Oct 2026 (Thu) — ⚠️⚠️ LEG/BACK PAIN FLARE + UNSAFE WALK + RIGHT-LEG EPISODE
+- **Morning:** Son visited early. Hot-water bath. 🚩 **Leg + back pain, LEFT side** → carer applied Aboniki 9:40am. Circulation booster 10:12 (said left side better after). Breakfast ekoegbemi (all).
+- **Vitals (11:32am):** BP **137/72**, P 73, T 36.0 ✅.
+- **⚠️ SAFETY EVENT:** ~1:10pm **she INSISTED on a walk after carer judged it unsafe** (pain, poor gait) — said "her son told her to go for a walk." Carer couldn't reach son; she was already dressed outside; carer relented and assisted. **She limped the entire walk.** Autonomy-vs-safety conflict — document for Dr Morris; consider safer alternative (short assisted indoor/corridor walks).
+- **⚠️ 3:30pm ACUTE EPISODE:** found standing at toilet holding walking stick, **"couldn't lift her RIGHT leg at all," speaking in pain.** Feet elevated on pillow; carer planned paracetamol post-dinner.
+- **Evening:** **Paracetamol 500mg 4:35pm** (carer-administered this time). Dinner boiled yam + kontomire (all). Pain INCREASED — Diclolex ointment applied across left side 6:42pm; toilet assist 7:20pm (moving right leg hard); watermelon juice (one sip only); **called son 9pm to complain of pain.**
+- **Log:** Swelling Same → Reduced → Same. Mood Fair throughout despite pain.
+
+### 17 Oct 2026 (Fri)
+- **Night:** ⚠️ **Pain continued — frequent toilet calls all night, NO SLEEP.** Morning: hot honey water 7:10; **lemon water promised to resume "tomorrow"** (son had talked to her). Hot-towel massage + Aboniki 8:12am. Breakfast corn dough porridge + 2 eggs (all).
+- **Afternoon:** capsules 11am w/ water; slept on sofa 12:32–1:30; **2pm: walked to washroom HERSELF with walking stick** (improvement ✓); TV with carer 3:12. Rice + boiled beans (all; no salad).
+- **Evening:** leg "slightly better — walks bit by bit with stick." Hot-towel massage + Aboniki 6:22pm. Warm pineapple juice (all). Goodnight 8:25.
+- **Log:** Swelling Same → **Reduced** (eve).
+
+### 18 Oct 2026 (Sun) — 💊 SUPPLEMENT HOLD (new med flag)
+- **Night:** 2:01am wake — warm orange; slept a bit. **Leg "okay compared to yesterday."** Lemon water RESUMED (as promised). Breakfast pawpaw + scrambled eggs (all).
+- **Vitals (11:30am):** BP **132/67**, P 69, T 36.0 ✅.
+- **⚠️ MEDICATION FLAG:** told carer she's **putting the AVS and the liquid supplement ON HOLD — feels sick after taking them** (self-initiated hold). Identify which products (AVS?) and flag to Dr Morris.
+- **Social:** son + grandsons 12:27; Aunty Felicia 3:12; dinner (yam + kontomire + boiled eggs) shared with sister 4pm (all).
+- **Evening:** declined hot-water massage ("already applied Aboniki; masseuse coming tomorrow"). 35-min chat; goodnight 8:30.
+- **Log:** Swelling Same → **Reduced** (eve).
+
+### 19 Oct 2026 (Mon)
+- **Morning:** son visited; leg still painful but better. **Lemon water drunk ALL.** 💆 Masseuse ~1 hr (9:40). Tom brown 10:26 (all).
+- **Afternoon:** long sleep (12:30–2pm+); chat 3:12; kenkey + pepper + sardine 4:05 (left a little kenkey).
+- **Evening:** living room from 5pm; **BP 115/72, P 66, T 36.0 ✅ (5:40pm) — lowest recent systolic, healthy**; TV with carer; warm pineapple juice (all); goodnight 8:15.
+- **Log:** Swelling Same → **Reduced**. Furosemide not reported.
+
+### 20 Oct 2026 (Tue)
+- **Morning:** feeling okay; **leg "far better now."** 35-min chat; declined lemon water; laundry; phone. Oblayo 10am (left a little). Capsules confirmed taken 11am.
+- **Afternoon:** **BP 127/71, P 68, T 36.2 ✅ (11:40am)**; sound sleep 12–2pm (room ventilated); TV from 3pm; rice + boiled beans 4pm (left the salad — warm-salad preference repeats).
+- **Evening:** TV with carer 6:18–7pm; bed 7:12; goodnight 7:37 (early). Swelling **Reduced**.
+- **Log:** Mood Fair, Appetite Fair. Furosemide not reported.
+
+> **Backfill complete (21 Oct 26):** 15–20 Oct CLOSED (13–14 Oct still open — request from Stephanie; 2, 4 Oct also open). **Trajectory: leg/back pain flare 16 Oct (worst — right-leg lift episode + unsafe walk + carer paracetamol) → steady recovery 17–20 ("far better now" 20 Oct, walking with stick).** ✅ BP healthy all readings (115–137 systolic). 💆 Massage 15 & 19 Oct (masseuse cadence running). ⚠️ **NEW FLAGS: (1) 16 Oct safety-override walk — she insisted against carer's judgement; (2) right-leg lift episode 3:30pm 16 Oct — describe to Dr Morris (post-fall sequelae?); (3) 18 Oct supplement hold (AVS + liquid, sickness) — identify products, inform Dr Morris; (4) 15 Oct early self-served meal vs 2-meal protocol (hunger); (5) Furosemide-vs-BP logging still absent from Stephanie's reports.** Pending: sodium recheck labs, Imodium, milk replacement, BP spare batteries, Dr Morris reconciliation. Latest: **20 Oct (BP 127/71 ✅, leg far better)**.

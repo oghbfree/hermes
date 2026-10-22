@@ -19,6 +19,7 @@
 | Bernard | +233 24 544 4141 | _(pending first reply)_ | no | — |
 | Jerry | +233 54 041 8575 | _(pending first reply)_ | no | — |
 | Eben | +233 24 757 5993 | _(pending first reply)_ | no | — |
+| Godwin (Eben's rider) | +233 54 765 2010 | Adenta | yes | 21/10/26 — returned 500W inverter from act (Eben unavailable) |
 | Abdul (Yango) | +233 25 774 7640 | _(pending first reply)_ | no | — |
 | Justice (Yango) | +233 59 951 3321 | _(pending first reply)_ | no | — |
 | Jacob (Yango) | +233 59 844 4870 | _(pending first reply)_ | no | — |

@@ -2,7 +2,16 @@
 
 Durable facts from periodic daily-processing runs.
 
-_facts below are limited to verified findings. Last refreshed: 2026-10-17 (EOD)._
+_facts below are limited to verified findings. Last refreshed: 2026-10-22 (EOD)._
+
+## 2026-10-21 Consolidated (Wed, EOD)
+- 🟢 **INTEGRATED_INSIGHTS_2026-10-21.md written** (Vault/insights + workspace + AppData memories/insights synced). `Vault/Daily/2026-10-21.md` created. **Mum data gap CLOSED for 15–20 Oct** via H-pasted Stephanie WhatsApp reports (backfilled 21 Oct 08:19, deduped). Latest real: **20 Oct BP 127/71 ✅ · P 68 ✅ · T 36.2 ✅ · leg "far better now"**. Remaining open dates: 13–14 Oct (2 & 4 Oct detail).
+- 🚩 **Mum — flags for Dr Morris:** 16 Oct **right-leg LIFT episode (3:30pm) + safety-override walk** (post-fall sequelae suspects); 18 Oct **AVS + liquid supplement HOLD** (feels sick — identify products); salt-vs-Na 161 + Furosemide dose review stands; Furosemide-vs-BP logging STILL missing from Stephanie's reports. 🎀 **Kenus SPA DAY 21/10 (10k GH₵ by H) — outcome UNCONFIRMED** (follow-up asked). Open: Imodium OUT, milk replacement, BP spare batteries, sodium-recheck labs.
+- 🦷 **H (52):** food diary silent **23 days** (since 28 Sep) · Renerve ZERO **23 days** (tremor unmedicated; ~295 GH pending) · 31 Aug review 51d undocumented · 1,075 GH labs pending · 12 Oct dental outcome unlogged 9d · no vitals 58d. 🟡 ibuprofen 400mg daily (kidney/GI risk until labs). 🟢 22d clear of acute symptoms.
+- 💼 **2Real (21/10):** **Sales GHS 390 @ 71% profit 276** (Technics speaker 150, repeat spray customer, Jiji Geo Mouse 200 @£1). **Market rent due 21 Oct — confirm paid.** act ICT inverters @970 qty STILL TBD. **Christmas UK order deadline 31 Oct = 9 DAYS LEFT**, gap 294. Jiji 1,310 active, followers 339 (+1), Pro bonus 7,122. **Declined ad Daewoo smartwatch (fix cat); WhatsApp Ads expired 17 Oct — renew.** FB poster: 5 posted (15/15 ceiling, 79 queue; FB inbox redirects → 1 chat + 3 nudges deferred — flagged-account risk check if persists). WA Catalogue: 15 added (27 left; 2 false-positive dupes patched). Inquiry loop: 1,070/427 auto-resolved, **0 flags**; Olymech RFQ 20d overdue; Bosch jigsaw lead pending; 2 photo requests 21 Oct from repeat buyer 165953442713654. Content: 4 weeks staged / **0 approved posts since 17/09** (posting loop = blocker).
+- 🔒 **Security 21 Oct:** audit + tax aduit FAILED 07:05–07:06 (provider unreachable, transient). Latest valid = 20 Oct audit (0 new credential exposure; CRITICAL was TG adapter FAIL — see system). No new exposure.
+- 🖥️ **System:** Gateway RUNNING PID **20060** (21 Oct 11:55; state fresh 22 Oct 01:29). **Telegram adapter RECOVERED 22 Oct 01:25 via sticky IPv4 (149.154.166.110)** after transient dual-stack ConnectErrors — getUpdates gen 8 progressing. **WhatsApp paired.** DNS/network instability STILL host-wide (unresolved). Cron SLA 21 Oct **≈94% (31/33 pass)**; both fails were the same provider outage. Backup: last full 18 Oct (weekly Sun) — next 25 Oct.
+
 
 ## 2026-10-17 Consolidated (Sat, EOD)
 - 🟢 **INTEGRATED_INSIGHTS_2026-10-17.md written** (Vault/insights + .hermes + AppData memories/insights synced). `Vault/Daily/2026-10-17.md` created. **System HEALTHY:** Gateway RUNNING (live PID **2788** — clean restart since 10-16's 15160; tasklist-verified), Telegram + WhatsApp both `connected`+live, cron SLA healthy (59 outputs today, 0 CRON_FAILURE).
