@@ -116,6 +116,45 @@ def type_group_search(name):
     return r
 
 
+def resolve_listing_url_by_title(title):
+    """Find the /marketplace/item/ URL of the listing whose selling-page card
+    shows `title`. Exact full-title match wins; partial core-title match only when
+    unambiguous. Returns '' if none/ambiguous — caller skips rather than risk
+    sharing the wrong listing."""
+    norm = lambda s: ''.join(ch for ch in str(s or '').lower() if ch.isalnum())
+    full = norm(title)
+    core = norm((title or '').split('\u2014')[0])[:32]
+    expr = """(() => {
+      const full=%s, core=%s;
+      const as=[].slice.call(document.querySelectorAll('a[href*="/marketplace/item/"]')).filter(e=>e.offsetParent!==null);
+      const norm=s=>(s||'').toLowerCase().replace(/[^a-z0-9]/g,'');
+      let fullHit=null, coreHits=[];
+      for (const a of as) {
+        const t=norm(a.innerText);
+        if (full && full.length>=14 && t.includes(full)) { fullHit=a; break; }
+        if (core && core.length>=14 && t.includes(core)) coreHits.push(a);
+      }
+      if (fullHit) return fullHit.href.split('?')[0];
+      if (coreHits.length===1) return coreHits[0].href.split('?')[0];
+      return '';
+    })()""" % (json.dumps(full), json.dumps(core))
+    C.goto_url('https://www.facebook.com/marketplace/you/selling')
+    try:
+        C.wait_for_load()
+    except Exception:
+        pass
+    time.sleep(8)
+    for _ in range(3):
+        try:
+            u = C.js(expr)
+            if u:
+                return u
+        except Exception:
+            pass
+        time.sleep(3)
+    return ''
+
+
 def dialog_text():
     return C.js("""(() => {
       const ds=[...document.querySelectorAll('[role=dialog]')].filter(d=>d.offsetParent!==null);
@@ -173,6 +212,13 @@ def main():
     C.connect(substr='facebook.com', exclude_substr='marketplace/create')
     total_ok = 0
     for u in urls:
+        if u.startswith('LOOKUP:'):
+            title = u[len('LOOKUP:'):]
+            u = resolve_listing_url_by_title(title)
+            if not u:
+                print(f'LOOKUP failed for {title!r} — sharing skipped (not found/ambiguous)')
+                continue
+            print(f'LOOKUP resolved {title!r} -> {u}')
         ok, msgs = share_one_listing(u)
         total_ok += ok
         print(f'{u}: ' + ' | '.join(msgs))

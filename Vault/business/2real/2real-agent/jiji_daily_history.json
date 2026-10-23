@@ -3628,5 +3628,120 @@
     ],
     "date": "2026-10-21",
     "saved_at": "2026-10-21T06:34:40.910331"
+  },
+  {
+    "active": 1315,
+    "reviewing": 0,
+    "draft": 0,
+    "declined": 1,
+    "closed": 130,
+    "followers": 339,
+    "feedback": 209,
+    "clients": 1,
+    "top_remaining": "500 of 500",
+    "top_expires": "16/12/26",
+    "whatsapp_ads_active": false,
+    "whatsapp_ads_until": "ended 17 Oct - needs renew",
+    "balance_ghs": 0,
+    "pro_sales_bonus_ghs": 7022,
+    "top_items": [
+      {
+        "name": "KitchenAid Artisan Food Processor",
+        "price": 950,
+        "impressions": 280,
+        "visitors": 54,
+        "phone_views": 1,
+        "chats": 0
+      },
+      {
+        "name": "Modular Cold Room Insulated Sandwich Panels With Door",
+        "price": 40000,
+        "impressions": 179,
+        "visitors": 35,
+        "phone_views": 3,
+        "chats": 3
+      },
+      {
+        "name": "Marvin's Magic the Executive Magic Collection Trick Set",
+        "price": 230,
+        "impressions": 174,
+        "visitors": 16,
+        "phone_views": 3,
+        "chats": 0
+      },
+      {
+        "name": "Tunturi E301 Rowing Machine",
+        "price": 1400,
+        "impressions": 153,
+        "visitors": 28,
+        "phone_views": 1,
+        "chats": 0
+      },
+      {
+        "name": "Keter Go Bar 2-in-1 Portable Outdoor Cooler Side Table",
+        "price": 800,
+        "impressions": 135,
+        "visitors": 13,
+        "phone_views": 0,
+        "chats": 0
+      },
+      {
+        "name": "Ryobi Chainsaw Protective Gloves (Class 2)",
+        "price": 300,
+        "impressions": 121,
+        "visitors": 26,
+        "phone_views": 0,
+        "chats": 0
+      },
+      {
+        "name": "Stanley Classic 99E Retractable Utility Knife",
+        "price": 140,
+        "impressions": 121,
+        "visitors": 19,
+        "phone_views": 0,
+        "chats": 0
+      },
+      {
+        "name": "Rentokil Advanced Mouse Trap - Reusable Easy-Set Pest Control Trap",
+        "price": 170,
+        "impressions": 88,
+        "visitors": 17,
+        "phone_views": 0,
+        "chats": 0
+      },
+      {
+        "name": "Muse M-168 P Projection Clock Radio PLL Dual Alarm FM/MW Digital Clock",
+        "price": 320,
+        "impressions": 78,
+        "visitors": 5,
+        "phone_views": 0,
+        "chats": 0
+      },
+      {
+        "name": "Draper 250mm Cast Aluminium Boat Spirit Level",
+        "price": 135,
+        "impressions": 56,
+        "visitors": 4,
+        "phone_views": 0,
+        "chats": 0
+      }
+    ],
+    "needs_attention": [
+      "DECLINED (still open): Genuine Daewoo Cnx+ Wireless Smartwatch From Uk (GHS 550) - switch to Smart Watches, correct mistake, re-submit",
+      "KitchenAid Artisan Food Processor: 280 impressions / 54 visitors, 0 chats - high traffic not converting",
+      "Marvin's Magic Executive Magic Collection: 174 impressions, 3 phone views, 0 chats",
+      "WhatsApp Ads EXPIRED 17 Oct - renewal needed (no active status on balance page)",
+      "Pro Sales Bonus dropped to GHS 7,022 (was 7,122)"
+    ],
+    "action_items": [
+      "Fix declined Daewoo smartwatch ad - switch category to Smart Watches + re-submit (open since yesterday)",
+      "Renew WhatsApp Ads (expired since 17 Oct)",
+      "Follow up Cold Room Panels - 3 chats today, biggest conversion signal",
+      "Nudge KitchenAid & Marvin's Magic buyers - strong traffic, no chats",
+      "TOP+ 500 credits valid to 16/12/26 - use on hot Christmas items",
+      "Reactivate 5 closed ads - closed count dropped 135->130"
+    ],
+    "date": "2026-10-22",
+    "saved_at": "2026-10-22T10:20:06.967968"
   }
 ]

@@ -2,7 +2,15 @@
 
 Durable facts from periodic daily-processing runs.
 
-_facts below are limited to verified findings. Last refreshed: 2026-10-22 (EOD)._
+_facts below are limited to verified findings. Last refreshed: 2026-10-22 22:08 (EOD)._
+
+## 2026-10-22 Consolidated (Thu, EOD)
+- 🟢 **INTEGRATED_INSIGHTS_2026-10-22.md written** (Vault/insights + workspace + AppData memories/insights synced). `Vault/Daily/2026-10-22.md` created. **No fresh Mum data 21–22 Oct** (topic-4 connector down since 13 Sep); 🎀 **Kenus spa day (21/10, 10k GH₵) outcome STILL UNCONFIRMED**; 13–14 Oct + 2/4 Oct still open. Latest real: **20 Oct BP 127/71 ✅ · leg "far better"**.
+- 🦷 **H (52):** food diary silent **24d** · Renerve ZERO **24d** (tremor unmedicated; ~295 GH pending) · 31 Aug review 52d undocumented · 1,075 GH labs pending · 12 Oct dental unlogged 10d · no vitals 59d. 🟢 23d acute-free. Check-ins posted, no replies.
+- 👴 **Dad:** 3-day check ran, no acute flags; **16 Jul foot outcome unrecorded**; cadence slipped (last log 04/10). checkin-dad WhatsApp FAILED 10:18 (send path down AM, recovered PM).
+- 💼 **2Real (22/10):** 22 Oct sales NOT yet logged (21 Oct GHS 390 @71% profit 276). act ICT @970 qty TBD · **Olymech RFQ 3 wks overdue** · Bosch jigsaw lead 72h+ · **Christmas UK order deadline 31 Oct = 8 DAYS** (gap 294, pace 13/day) · Jiji 1,315 active, Pro bonus 7,022 · FB 7–8 posted today, queue 74, Anakwa replied ✓, Opoku/John pending, 7 nudge-due · WA Catalogue 15 (cap) · 1,070 inquiries 0 unresolved · 1,310 Jiji items need zones (John) · content approval backlog = blocker (0 posts since 17/09) · Sept VAT Form 10-M STILL overdue.
+- 🔒 **Security 22 Oct:** audit PASS-ish — **TG adapter RECOVERED + HOLDING** (polling gen 13; token valid @Ogaitchhermesbot); WA paired+connected; topic 20 verified (msg 12400). 0 new credential exposure; 0 backup `.env`. DNS/IP ConnectError bursts (07:55, 10:13) recovered via fallback. Debt: dual-root token divergence, 26/55 silent jobs, 25 `.env`-readers, multiplex token-share, allow_all_users.
+- 🖥️ **System:** Gateway RUNNING — PID changed 20060→**16816** (restart today); TG connected 21:50; WA send path down AM (10:18–10:20) → **recovered PM (node 16720 :3000 LISTENING)**. **Cron SLA 89% (33/37)** — 4 fails "provider unreachable" 13:05/19:46 (health-check-afternoon, mum-health-afternoon, FB Poster ×2). Backup last full 18 Oct, next 25 Oct; github-memory-backup ✅ e96a610 (48 files).
 
 ## 2026-10-21 Consolidated (Wed, EOD)
 - 🟢 **INTEGRATED_INSIGHTS_2026-10-21.md written** (Vault/insights + workspace + AppData memories/insights synced). `Vault/Daily/2026-10-21.md` created. **Mum data gap CLOSED for 15–20 Oct** via H-pasted Stephanie WhatsApp reports (backfilled 21 Oct 08:19, deduped). Latest real: **20 Oct BP 127/71 ✅ · P 68 ✅ · T 36.2 ✅ · leg "far better now"**. Remaining open dates: 13–14 Oct (2 & 4 Oct detail).
@@ -427,49 +435,14 @@ _facts below are limited to verified findings. Last refreshed: 2026-10-22 (EOD).
 
 ## System
 - MEMORY.md baseline recreated from verified workspace state.
-- workspace/AGENTS.md flagged with BOM (U+FEFF invisible unicode) — do not trust guidance until manually reviewed and BOM stripped.
-- Config-dir mismatch expected on Windows: `~/.hermes/config` points to Hermes config dir, not workspace.
 - Canonical vault path: `C:\Users\User\.hermes\workspace\Vault\`.
 - Python full path: `C:\Users\User\AppData\Local\Programs\Python\Python314\python.exe` (uv-managed cp311 on PATH).
 - Obsidian skill confirmed vault at `C:\Users\User\.hermes\workspace\Vault\`.
-- **Gateway DEAD AGAIN as of 2026-07-12** — Security audit confirms PID 26404 dead, crash loop 21+ days. Previous Jul 7 recovery (PID 17112) lost. `concurrent_log_handler` ModuleNotFoundError unresolved for Python 3.14 (gateway needs Python 3.11 venv).
-- **49 backup .env copies** (CRITICAL — worsened from 28): 27 in backups/, 4 in state-snapshots/, 17 in ~/hermes-backup/, 1 in ~/.openclaw/.
-- **Config drift: v29→v33 active** — 4 versions behind latest doctor schema.
-- **WhatsApp unpaired 69+ days** — creds.json missing, manual QR re-pair required.
-- **27/40 cron jobs silent delivery** — 13 deliver to Telegram topics, 27 deliver to `origin` or `local`.
-- **Nightly-consolidation job stale** — `3534ca8a8925` last ran Jun 17, not running nightly despite being enabled.
-- Telegram topic 20 (Memory Review) exists and accepts messages (verified msg_id=8750 from security audit Jul 12).
-- 2Real inventory sync runs 12+/day — all successful, already up to date.
-- **Jul 11-16: 83% cron failure rate** (~49/59 runs failed) — systemic Connection error + rate limits across 17+ unique job IDs. DNS/network instability persisting since Jul 1.
-- **Jiji computer-use jobs flooding logs** — 38eaa5d0ada1 (every 10min) + f9f90bd47965 (every 5min) produce ~140+ failed runs/day with no value. Both still enabled in jobs.json.
-- **Security audit Jul 12 GENERATED (00:09 UTC)** — CRITICAL FAIL: 7 CRITICAL, 3 FAIL, 4 WARN. Key findings: Telegram token INVALID (HTTP 404), gateway PID dead, DNS failure host-level, InvalidToken confirmed in logs (15+ occurrences), 49 backup .env copies, WhatsApp 65+ days unpaired. Delivered to topic 20 (msg_id=8750).
-- **Security audit Jul 13 FAILED** — 1b7107630fe3 (00:50 UTC) crashed with "Response remained truncated after 4 continuation attempts". No report saved to Vault. Still CRITICAL FAIL status from Jul 12.
-- **Security audit Jul 14 GENERATED (00:04 UTC)** — CRITICAL FAIL: 7 CRITICAL findings (Telegram token INVALID 404, 49 backup .env copies, WhatsApp unpaired 65+ days, gateway PID dead, DNS failure host-level, 23 workspace scripts read .env directly, AGENTS.md BOM). Delivered to topic 20 (msg_id=8750).
-- **Security audit Jul 15 FAILED** — Rate limited (`free-models-per-day-high-balance`). No report generated. Jul 14 CRITICAL FAIL status remains current.
-- **Security audit Jul 16 FAILED** — Rate limited (`free-models-per-day-high-balance`). No report generated. Jul 14 CRITICAL FAIL status remains current.
-- **No new Mum meal data Jul 7-8** — carer did not report meals/vitals for Comfort on Jul 7. Jul 9-14: full coverage with vitals (BP 134/65 Jul 9 AM).
-- **H health: Electrical shock (12 Jun) follow-up 33 days OVERDUE** — medical evaluation STILL PENDING (was 32 days overdue Jul 15). No vitals 44 days (since Jun 1). 3-day meal gap Jul 8-10. No health entries Jul 8-10, 13-15.
-- **Integrated-daily-synthesis job STILL MISSING** from jobs.json — not running since Jun 20. No INTEGRATED_INSIGHTS since Jun 23.
-- **Telegram token INVALID (404)** — confirmed by security audit. Token revoked by Telegram. Must rotate via @BotFather.
-- **Jul 11 Security audit RUN and DELIVERED** — 1b7107630fe3 (00:09) completed, report saved to Vault, summary posted to Telegram topic 20 (msg_id=8750). Overall CRITICAL FAIL: 7 CRITICAL, 3 FAIL, 4 WARN.
-- **Jul 11 Daily backup SUCCESS** — 586aebcd5e57 completed, 27,553 workspace files exact match, all 5 DBs byte-for-byte verified.
-- **Jul 13 Daily backup SUCCESS** — 586aebcd5e57 (00:30) completed, 27,567 workspace files exact match, all 5 DBs byte-for-byte verified (state.db 411.9MB, kanban.db 1.7MB, memory_store.db 323KB).
-- **Jul 13 Mum health logs CONTINUE** — morning/midday/evening reports logged Jul 12, 13 with vitals (BP 132/74 Jul 13 AM).
-- **Jul 14 Mum health logs CONTINUE** — full day coverage via Telegram: morning BP 122/68, evening BP 129/63.
-- **Jul 15 Mum health logs CONTINUE** — morning/midday/evening reports with vitals.
-- **Jul 11 H health log GAP WIDENING** — no entries Jul 8, 9, 10 (3 days). No vitals since Jun 1 (40 days). Electrical shock follow-up 29 days overdue.
-- **Jul 12 H health auto-generated** — morning check created, electrical shock follow-up now 30 days overdue. No manual entries for meals/vitals.
-- **Ebony goodnight Jul 13 FAILED** — WhatsApp bridge offline (creds.json missing, 56+ days). Failure logged and Telegram notification sent to topic 2.
-- **Ebony goodnight Jul 14 FAILED** — WhatsApp still unpaired.
-- **Ebony goodnight Jul 15 FAILED** — WhatsApp still unpaired.
-- **23 workspace scripts read .env directly** — Leak tokens to process table, shell history, logs. Created during delivery attempts.
-- **AGENTS.md UTF-8 BOM persists** — Prompt injection risk, blocks cron execution.
+- Current live state (22 Oct 2026): Gateway RUNNING PID 16816, Telegram+WhatsApp connected, token valid, 0 backup .env, cron SLA 89% — see INTEGRATED_INSIGHTS_2026-10-22.md. July-era System facts below were superseded; historical details live in session archives / prior INTEGRATED_INSIGHTS files.
 
 ## Missing/Blank Master Files
-- No INTEGRATED_INSIGHTS since 2026-06-23 (synthesis job missing).
-- No `workspace/memories/insights/` dir — insights under `Vault/insights/` or missing.
-- H health log: no recent entries observed.
-- Integrated-daily-synthesis job missing from jobs.json — not running since Jun 20.
+- RESOLVED: integrated-daily-synthesis job restored (INTEGRATED_INSIGHTS regenerated daily since Jul 16; latest 2026-10-22).
+- H health log: gaps persist — food diary silent 24d (28 Sep), no vitals since 24 Aug (see INTEGRATED_INSIGHTS_2026-10-22.md).
 
 ## Mum Health (Comfort Blankson) — Jul 4-6 Summary
 

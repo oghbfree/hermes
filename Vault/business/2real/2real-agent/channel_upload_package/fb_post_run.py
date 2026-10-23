@@ -46,6 +46,64 @@ UPLOAD_OK = """(() => {
 
 _PUBLISHED_URL = ''  # module-level; set by post_one_checked on successful publish
 
+def _norm_title(s):
+    return ''.join(ch for ch in str(s or '').lower() if ch.isalnum())
+
+
+def _js_find_marketplace_anchor(full_norm, core_norm):
+    """JS: find an /marketplace/item/ anchor whose card text matches the listing.
+    Exact full-title match wins; partial core-title match only when unambiguous
+    (e.g. two 'Belkin BoostCharge' variants must NOT be confused)."""
+    return """(() => {
+      const full=%s, core=%s;
+      const as=[...document.querySelectorAll('a[href*="/marketplace/item/"]')].filter(e=>e.offsetParent!==null);
+      const norm=s=>(s||'').toLowerCase().replace(/[^a-z0-9]/g,'');
+      let fullHit=null, coreHits=[];
+      for (const a of as) {
+        const t=norm(a.innerText);
+        if (full && full.length>=14 && t.includes(full)) { fullHit=a; break; }
+        if (core && core.length>=14 && t.includes(core)) coreHits.push(a);
+      }
+      if (fullHit) return fullHit.href.split('?')[0];
+      if (coreHits.length===1) return coreHits[0].href.split('?')[0];
+      return '';
+    })()""" % (json.dumps(full_norm), json.dumps(core_norm))
+
+
+def _capture_published_url(title):
+    """Best-effort capture of the just-published listing URL (for group sharing).
+    1) wait ~14s for FB's post-publish redirect to /marketplace/item/
+    2) scan the current DOM for a live-listing link showing our title
+    3) fallback: selling page, TITLE-anchored lookup (never the first-anchor guess)
+    Returns '' when none/ambiguous — the share is skipped, the listing stays live."""
+    full_norm = _norm_title(title)
+    core_norm = _norm_title((title or '').split('\u2014')[0])[:32]
+    try:
+        for _ in range(7):
+            u = C.js('location.href') or ''
+            if '/marketplace/item/' in u:
+                return u.split('?')[0]
+            time.sleep(2)
+    except Exception:
+        pass
+    try:
+        lu = C.js(_js_find_marketplace_anchor(full_norm, core_norm))
+        if lu:
+            return lu
+    except Exception:
+        pass
+    try:
+        C.goto_url('https://www.facebook.com/marketplace/you/selling')
+        time.sleep(8)
+        for _ in range(3):
+            lu = C.js(_js_find_marketplace_anchor(full_norm, core_norm))
+            if lu:
+                return lu
+            time.sleep(3)
+    except Exception:
+        pass
+    return ''
+
 def post_one_checked(title, price, photo, category, desc, condition="New"):
     global _PUBLISHED_URL
     _PUBLISHED_URL = ''
@@ -123,18 +181,7 @@ def post_one_checked(title, price, photo, category, desc, condition="New"):
             if p.get('label') == 'Publish':
                 time.sleep(4)
                 # capture the just-published listing URL for group sharing
-                try:
-                    u = C.js('location.href') or ''
-                    if '/marketplace/item/' in u:
-                        _PUBLISHED_URL = u
-                    else:
-                        # fallback: selling page newest listing
-                        C.goto_url('https://www.facebook.com/marketplace/you/selling')
-                        time.sleep(6)
-                        lu = C.js("(() => { const a=document.querySelector('a[href*=\"/marketplace/item/\"]'); return a ? a.href.split('?')[0] : ''; })") or ''
-                        _PUBLISHED_URL = lu
-                except Exception:
-                    _PUBLISHED_URL = ''
+                _PUBLISHED_URL = _capture_published_url(title)
                 time.sleep(1)
                 return 'PUBLISHED'
         else:
@@ -178,15 +225,17 @@ def enrich_title(t):
         return t + suffix
     return t[:95]
 
-def share_groups_after_publish(jid, item_url):
+def share_groups_after_publish(jid, item_url, title=''):
     """Share the freshly-published listing into H's buy/sell groups (best-effort).
     Never fails the post — the listing is already live.
-    DEFAULT ON per H directive 22/10/26 ("post to Accra Buy and Sell and Ghana
-    Marketplace at the same time"). Disable with FB_SHARE_GROUPS=0/off."""
+    If no URL was captured, pass LOOKUP:<title> so fb_share_groups can resolve
+    the fresh listing URL from the selling page itself (title-anchored)."""
     if os.environ.get('FB_SHARE_GROUPS', '').strip().lower() in ('0', 'off', 'no', 'false'):
         print('GROUP-SHARE disabled via FB_SHARE_GROUPS=0 — listing stays Marketplace-only')
         return
-    if not item_url:
+    if not item_url and title:
+        item_url = 'LOOKUP:' + title
+    if not item_url or not item_url.strip():
         print('GROUP-SHARE skipped (no listing url captured for', jid, ')')
         return
     try:
@@ -261,7 +310,7 @@ def _post_one(jid, researched=""):
             except Exception:
                 pass
             print('LOGGED', jid)
-            share_groups_after_publish(jid, _PUBLISHED_URL)
+            share_groups_after_publish(jid, _PUBLISHED_URL, title)
             return 0, 'published'
         if rc in ('FAIL no photo preview', 'FAIL fields: %r', 'FAIL fields: \'retry\''):
             pass

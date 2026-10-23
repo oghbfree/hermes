@@ -34,6 +34,12 @@
 - **Friend who lives close to H, from the same hometown** — accompanies H to the farm sometimes; NOT a farm manager/employee and NOT on-site daily (corrected 21/10/26). Roving companion, not a staff role. Phone +233 24 412 0093.
 - **Owes 1,300 GH₵** for gardening equipment
 
+## 🧹 Kyei — John-replacement (cleaning/pick-pack, STARTED 22/10/26)
+- **+233 50 334 4556** (also known contact for the rose-garden check-in)
+- **Role:** cleaning / items in order / pick & pack / misc 2Real tasks (John-leaving cover). Working **Mon 9am-12 or 4-7pm · Tue-Fri 1h · Sun AM** ≈ 8h/wk, GH₵600/mo.
+- **STARTED 22/10/26 (day one):** did an hour cleaning cables/laptop chargers. **Kyei is a VISUAL guy — he needs to be SHOWN exactly how to do each task, not told.** Demo each task once, then let him repeat.
+- **Scope (from SAP play):** physical bags/cleaning only on day one — NO catalog_app POS / prices / customer chats until H says otherwise.
+
 ## 🛵 Godwin — Rider (Eben's backup, Adenta)
 - +233 54 765 2010 · based **Adenta**
 - **21/10/26:** Eben unavailable → Godwin returned the 500W inverter from **act** for 30 GH₵ delivery. Added to rider network (Sunday cron now messages him).

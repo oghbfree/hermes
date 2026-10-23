@@ -392,6 +392,20 @@
       "last_dir": "out",
       "last_out": "2026-10-21T09:18:28.573091",
       "last_msg": "This one has sold, we have others - are you on WhatsApp. CTA 0204252252"
+    },
+    {
+      "id": {
+        "name": "Agnes",
+        "item": "Leapfrog 2 in 1 Touch Tablet and Laptop",
+        "price": 250,
+        "thread": "Leapfrog",
+        "last_side": "agent",
+        "ts": "2026-10-22T21:00",
+        "note": "Replied in stock at GHS250 + CTA"
+      },
+      "nudges_sent": 0,
+      "status": "open",
+      "created": "2026-10-22T22:45:07.622189"
     }
   ],
   "nudge_policy": {
