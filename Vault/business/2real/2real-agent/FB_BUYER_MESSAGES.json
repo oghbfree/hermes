@@ -250,11 +250,11 @@
     },
     {
       "id": "ananman-ingco-gluegun",
-      "nudges_sent": 1,
+      "nudges_sent": 2,
       "status": "nudged",
       "created": "2026-10-18T01:38:38.860824",
       "last_dir": "out",
-      "last_out": "2026-10-18T17:41:12.068307"
+      "last_out": "2026-10-23T13:37:04.180603"
     },
     {
       "id": "hellen-magnumplus-talos-690",
@@ -374,23 +374,25 @@
     {
       "id": "opoku-lvyuan-inverter",
       "nudges_sent": 0,
-      "status": "open",
+      "status": "awaiting_buyer",
       "created": "2026-10-21T09:18:08.985859",
       "buyer": "Opoku",
-      "listing_title": "LVYUAN 800w/2000w Pure Sine-Wave Power Inverter \u2014 UK Imported, Quality Checked",
+      "listing_title": "LVYUAN 800w/2000w Pure Sine-Wave Power Inverter",
       "last_dir": "out",
-      "last_out": "2026-10-21T09:18:08.985847",
-      "last_msg": "Yes, available! LVYUAN 800w/2000w inverter GHS 900, fairly used UK, works well. MoMo/cash. CTA 0204252252"
+      "last_out": "2026-10-23T13:40:00.856485",
+      "last_msg": "Replied: GHS 900, we are in Oyarifa near Adenta-Dodowa road, CTA when arriving (buyer said just before Oyarifa)",
+      "price": 900,
+      "updated": "2026-10-23T13:40:00.857404"
     },
     {
       "id": "amuzu-bosch-pst50a",
-      "nudges_sent": 0,
-      "status": "open",
+      "nudges_sent": 1,
+      "status": "nudged",
       "created": "2026-10-21T09:18:28.573103",
       "buyer": "Amuzu",
       "listing_title": "Bosch Drill Jigsaw PST 50a",
       "last_dir": "out",
-      "last_out": "2026-10-21T09:18:28.573091",
+      "last_out": "2026-10-23T13:39:44.633728",
       "last_msg": "This one has sold, we have others - are you on WhatsApp. CTA 0204252252"
     },
     {
@@ -406,6 +408,31 @@
       "nudges_sent": 0,
       "status": "open",
       "created": "2026-10-22T22:45:07.622189"
+    },
+    {
+      "id": "promisekirk-universal-flightcase",
+      "nudges_sent": 0,
+      "status": "awaiting_buyer",
+      "created": "2026-10-23T13:40:00.856485",
+      "buyer": "Promise Kirk",
+      "listing_title": "Universal Flight Case 111cml X 47cmh X 45cmw Heavy Duty Storage Uk",
+      "price": 2800,
+      "last_dir": "out",
+      "last_out": "2026-10-23T17:15:25.138509",
+      "last_msg": "Sure, call or WhatsApp 0204252252 anytime. The Universal Flight Case (111x47x45cm) is here in Oyarifa near Adenta-Dodowa road - you are welcome to come see it before deciding. Just let me know when you are around.",
+      "updated": "2026-10-23T17:15:25.139799"
+    },
+    {
+      "id": "rose-dog-agility-hurdle",
+      "nudges_sent": 0,
+      "status": "open",
+      "created": "2026-10-23T17:15:25.138548",
+      "buyer": "Rose",
+      "listing_title": "Dog Agility Hurdle",
+      "price": 600,
+      "last_dir": "out",
+      "last_out": "2026-10-23T17:15:25.138509",
+      "last_msg": "Hi Rose! Yes, the Dog Agility Hurdle is still available at GHS 600. UK imported, quality checked. Pickup Oyarifa or Dome, delivery can be arranged. WhatsApp 0204252252 for quick order."
     }
   ],
   "nudge_policy": {

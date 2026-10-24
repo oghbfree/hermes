@@ -2,7 +2,15 @@
 
 Durable facts from periodic daily-processing runs.
 
-_facts below are limited to verified findings. Last refreshed: 2026-10-22 22:08 (EOD)._
+_facts below are limited to verified findings. Last refreshed: 2026-10-23 23:45 (EOD)._
+
+## 2026-10-23 Consolidated (Fri, EOD)
+- 🟢 **INTEGRATED_INSIGHTS_2026-10-23.md written** (Vault/insights + workspace + AppData memories/insights synced). `Vault/Daily/2026-10-23.md` created. **Mum: 🚩 3rd consecutive day unrecorded (21–23 Oct) — ESCALATE TO STEPHANIE**; 🎀 Kenus spa (21/10) outcome STILL unconfirmed; 13–14 Oct + 2/4 Oct open; Fri masseuse cadence to confirm. Latest real: **20 Oct BP 127/71 ✅ · leg "far better"**.
+- 🦷 **H (52):** ✅ food diary RESUMED 22 Oct (watermelon/pineapple/roasted plantain+peanuts, Vit C+B) — 25-day gap flag cleared; nothing logged 23 Oct. 🔴 Renerve ZERO **25d** · 31 Aug review 53d undocumented · labs pending · dental unlogged 11d · **no vitals 60d**. 🟢 24d acute-free.
+- 👴 **Dad:** no new check-ins; cadence slipped (last log 04/10); 16 Jul foot unrecorded; WhatsApp send path healthy today.
+- 💼 **2Real (23/10):** 23 Oct sales NOT logged (22 Oct GHS 340+ @55%, profit 284; **Kyei started — visual learner, cable cleaning**; white-paint COGS unconfirmed). 🎉 **WhatsApp Catalogue QUEUE COMPLETE** (0 remaining; 367 posted IDs — dedupe false-positives verified). **FB: 15 posted = daily ceiling; queue 50; LeaderPro FSK-1020 RECALLED (GOV.UK shock risk) — HELD, H decision; 20:45 run failed.** Jiji ~1,310 active · Daewoo smartwatch still declined (→Smart Watches) · **WhatsApp Ads expired since 17 Oct (6 days)** · Cold Room Panels 3 chats (hot) · Olymech RFQ **22 days overdue** (chase 020 894 5854) · act ICT @970 qty TBD · **Christmas UK order deadline 31 Oct = 8 DAYS** (gap 294, pace 13/day) · Joycelyn 2,500 due 31 Oct · Sept Form 10-M STILL overdue · Friday Akoma A14 PENDING-REVIEW · recruitment 0 new (72) · 12 kanban cards created.
+- 🔒 **Security 23 Oct:** audit FAILED 07:06 (model provider unreachable) — latest valid = **22 Oct PASS-ish** (TG adapter recovered + holding, token valid, WA paired; 0 exposure, 0 backup .env).
+- 🖥️ **System:** Gateway RUNNING — PID changed 16816→**17516** (restart today); TG connected 23:31, WA connected 08:46. **Cron SLA 81% (22/27)** — 5 fails (Jiji report 06:35, security 07:06, health-check-afternoon 13:05, mum-health-afternoon 13:05 + TG ConnectError, FB Poster 20:45) = provider/network instability, not config. Backup last full 18 Oct, next 25 Oct; github-memory-backup ✅ `81a6267` (+recovery snapshot `16d9b45`).
 
 ## 2026-10-22 Consolidated (Thu, EOD)
 - 🟢 **INTEGRATED_INSIGHTS_2026-10-22.md written** (Vault/insights + workspace + AppData memories/insights synced). `Vault/Daily/2026-10-22.md` created. **No fresh Mum data 21–22 Oct** (topic-4 connector down since 13 Sep); 🎀 **Kenus spa day (21/10, 10k GH₵) outcome STILL UNCONFIRMED**; 13–14 Oct + 2/4 Oct still open. Latest real: **20 Oct BP 127/71 ✅ · leg "far better"**.
@@ -438,28 +446,11 @@ _facts below are limited to verified findings. Last refreshed: 2026-10-22 22:08 
 - Canonical vault path: `C:\Users\User\.hermes\workspace\Vault\`.
 - Python full path: `C:\Users\User\AppData\Local\Programs\Python\Python314\python.exe` (uv-managed cp311 on PATH).
 - Obsidian skill confirmed vault at `C:\Users\User\.hermes\workspace\Vault\`.
-- Current live state (22 Oct 2026): Gateway RUNNING PID 16816, Telegram+WhatsApp connected, token valid, 0 backup .env, cron SLA 89% — see INTEGRATED_INSIGHTS_2026-10-22.md. July-era System facts below were superseded; historical details live in session archives / prior INTEGRATED_INSIGHTS files.
+- Current live state (23 Oct 2026): Gateway RUNNING PID 17516, Telegram+WhatsApp connected, token valid, 0 backup .env, cron SLA 81% (22/27, provider-instability fails) — see INTEGRATED_INSIGHTS_2026-10-23.md. July-era System facts below were superseded; historical details live in session archives / prior INTEGRATED_INSIGHTS files.
 
 ## Missing/Blank Master Files
 - RESOLVED: integrated-daily-synthesis job restored (INTEGRATED_INSIGHTS regenerated daily since Jul 16; latest 2026-10-22).
 - H health log: gaps persist — food diary silent 24d (28 Sep), no vitals since 24 Aug (see INTEGRATED_INSIGHTS_2026-10-22.md).
-
-## Mum Health (Comfort Blankson) — Jul 4-6 Summary
-
-### Jul 4 (full reports with vitals)
-- **Morning**: Slept okay but not too well. Breakfast: corn dough porridge + 2 boiled eggs. Vitals: BP 127/69, P 82, T 36.7. Exercises done, compression socks, Furosemide 20mg given.
-- **Midday**: Mixed fruit snack. Lunch: Kenkey with pepper and fried fish, shrimps. Surfaces cleaned.
-- **Evening**: Dinner: boiled cocoyam with vegetable stew. Pedicure + foot massage (Epsom salt, moisturizing cream). Vitals: BP 133/69, P 71, T 36.6. Warm milk before bed. Mood: Fair. Appetite: Fair. Swelling: Same.
-
-### Jul 5
-- Breakfast: Granola with warm milk
-- Lunch: Fish pie / fish & stew
-- Dinner: Grasscutter/snail light soup (appetite: good)
-
-### Jul 6
-- Breakfast: 3 fried eggs with onion and tomato
-- Lunch: Kenkey and fish
-- Dinner: (not yet logged)
 
 ## Farm Update
 - **farm-goat-search cron STOPPED and REMOVED** (Jul 5) — goats not found, H will replace in due course.

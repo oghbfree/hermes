@@ -7635,3 +7635,46 @@ Yes
 - **Chat:** 29743135097036
 - **Customer:** Ok
 - **Reply:** [acknowledgment - no reply sent]
+
+## 2026-10-23 07:55
+- **Channel:** whatsapp
+- **Chat:** 35009083797667
+- **Customer:** Sure
+- **Reply:** [acknowledgment - no reply sent]
+
+## 2026-10-23 08:05
+- **Channel:** whatsapp
+- **Chat:** 35009083797667
+- **Customer:** Yes
+- **Reply:** [acknowledgment - no reply sent]
+
+## 2026-10-23 08:34
+- **Channel:** whatsapp
+- **Chat:** 35009083797667
+- **Customer:** Ok
+- **Reply:** [acknowledgment - no reply sent]
+
+## 2026-10-23 08:37
+- **Channel:** whatsapp
+- **Chat:** 65618560733201
+- **Customer:** As discussed on phone, please ensure that the item is thoroughly tested and confirmed to be in good working condition before supplying it to us.
+If the item is delivered to our end user and found to be faulty or not working as expected, we will have to return it for repair or replacement.
+- **Reply:** Thank you for your purchase! 🙏 Enjoy the item. If you have a moment, a review on Jiji helps other customers find us — it takes 30 seconds and helps a small business grow: https://jiji.com.gh/shop/2real-online
+
+## 2026-10-23 08:38
+- **Channel:** whatsapp
+- **Chat:** 35009083797667
+- **Customer:** Ok
+- **Reply:** [acknowledgment - no reply sent]
+
+## 2026-10-23 08:54
+- **Channel:** whatsapp
+- **Chat:** 65618560733201
+- **Customer:** Agreed but since it will not be tested with our team present, we are buying it based on just your assurance that it works so its only fair we reach an agreement once we notice item is faulty and not working as it should
+- **Reply:** Thank you! 🙏 I've saved your number so you'll be first to know when new stock lands — quality UK tools and gadgets at good prices. Save this number as *2Real Stock Updates* so you don't miss a restock.
+
+## 2026-10-23 15:42
+- **Channel:** whatsapp
+- **Chat:** 254610392518824
+- **Customer:** Ok
+- **Reply:** [acknowledgment - no reply sent]

@@ -95,7 +95,7 @@ class BuyerThreads:
 
     def nudge_text(self, t, n):
         """Warm revive/nudge copy — no pressure, no discount-offering (H approves discounts)."""
-        item = t.get("listing_title", "the item")
+        item = t.get("listing_title") or "item"
         if n == 0:
             return (f"Hi! Just checking in on the {item} you asked about — still available if you'd "
                     f"like it. Happy to answer any questions. {CTA}")
