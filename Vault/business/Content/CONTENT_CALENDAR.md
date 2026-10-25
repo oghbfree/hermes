@@ -28,9 +28,14 @@ _Last updated: 2026-10-18_
 | C-1110 | 2Real Thu Site security — protect capital | Post+Carousel+MP | IG/FB/Marketplace/TikTok/WA/LI | Scheduled | Thu 22/10 | week-2026-10-19/thursday-2real · real Jiji prices |
 | C-1111 | Akoma Fri Q&A (MYTH VS FACT) | Post+Carousel+reel | IG/FB/TikTok/WA/LI | Scheduled | Fri 23/10 | week-2026-10-19/friday-akoma |
 | C-1112 | 2Real Sat Power weekend special | Post+Carousel+MP | IG/FB/Marketplace/TikTok/WA/LI | Scheduled | Sat 24/10 | week-2026-10-19/saturday-2real · real Jiji prices |
-| — | (No Sunday 25/10 — broadcast retired 04/10; week runs Mon–Sat) | | | | | |
+| C-1113 | Sunday 25/10 WA+FB group posts (REACTIVATED) | Group adverts | 11 WA + 4 FB groups | Scheduled | Sun 25/10 | content-output/sunday-groups/ · 5 stills + paste-ready bundle · AWAITING H approval |
+| — | (Sunday broadcast/distribution RETIRED 04/10 — replaced by group adverts) | | | | | |
 
 ### Staged (generated, AWAITING H approval to post — nothing posts without H)
+- **✅ TESTIMONIALS — GREENLIT 23/10/26, SCHEDULED Sun 25/10** (H: "go both"):
+  - `content-output/testimonials/2real-testimonial-01-francis-piano` (T-01) — francis same-day delivery story → **FB + IG + WA Status**
+  - `content-output/testimonials/2real-testimonial-02-b2b-trust` (T-02) — B2B trust, 3 real reviews (MA LI KE / Osman / SK GOODNEWS) → **FB + IG + LinkedIn + WA Status**
+  - Verified on disk: real logo, real verbatim quotes, "Jiji reviewer" attribution, CTA 0204252252, SlopMonster 5/5 CLEAN, no AI. Asset source: `TESTIMONIALS_BANK.md`.
 - **Week 2026-10-12** (C-1101…C-1106): fully generated (73 PNG + 48 copy). All staged, **AWAITING PUBLISH** — no confirmed posts.
 - **Week 2026-10-05** (C-1001…C-1006): generated, staged, AWAITING PUBLISH.
 - **Week 2026-09-28**: generated, staged, AWAITING PUBLISH.

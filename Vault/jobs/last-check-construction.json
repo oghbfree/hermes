@@ -1,8 +1,8 @@
 {
   "role": "construction",
-  "last_check": "2026-10-23T08:02:28Z",
-  "total_applicants": 13,
-  "new_since_last": 0,
-  "last_timestamp": "26/09/2026 14:42:00",
+  "last_check": "2026-10-24T08:01:00Z",
+    "total_applicants": 14,
+    "new_since_last": 1,
+    "last_timestamp": "24/10/2026 06:29:52",
   "auth_status": "active"
 }

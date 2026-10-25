@@ -1,0 +1,15 @@
+posting 12261870 | Ingco Sledge Hammer 5KG — UK Imported, Quality Checked | 510 | cat: Tools | cond: USED | photo: C:\Users\User\.hermes\workspace\Vault\business\2real\2real-agent\channel_upload_package\photos\12261870_v12261870.jpg
+desc: 'INGCO sledge hammer HSM01498, 5kg drop-forged carbon-steel head, heat-treated 45# steel, 900mm fibreglass handle. Heavy…' ...
+attempt 0 -> PUBLISHED
+LOGGED 12261870
+GROUP-SHARE 12261870 -> LOOKUP failed for 'Ingco Sledge Hammer 5KG — UK Imported, Quality Checked' — sharing skipped (not found/ambiguous) DONE — 0/2 group shares 
+posting 16681453 | Black Decker BD664 400-Watt Corded Power Drill — UK Imported, Quality Checked | 500 | cat: Tools | cond: USED | photo: C:\Users\User\.hermes\workspace\Vault\business\2real\2real-agent\channel_upload_package\photos\16681453_v16681453.jpg
+desc: 'Black+Decker BD664 corded drill, 400W, variable speed 0-3000rpm, reversible, 13mm chuck, double-insulated, UK 240V. Pre-' ...
+attempt 0 -> FAIL no photo preview
+attempt 1 -> FAIL no file input
+attempt 2 -> FAIL no file input
+GAVE UP 16681453
+
+BATCH SUMMARY:
+  12261870: published
+  16681453: gave_up

@@ -3743,5 +3743,89 @@
     ],
     "date": "2026-10-22",
     "saved_at": "2026-10-22T10:20:06.967968"
+  },
+  {
+    "active": 1318,
+    "reviewing": 0,
+    "draft": 0,
+    "declined": 1,
+    "closed": 130,
+    "followers": 339,
+    "feedback": 209,
+    "clients": 1,
+    "top_remaining": "500 of 500",
+    "top_expires": "16/12/26",
+    "whatsapp_ads_active": false,
+    "whatsapp_ads_until": "ended 17 Oct - needs renew",
+    "balance_ghs": 0,
+    "pro_sales_bonus": 6822,
+    "top_items": [
+      {
+        "name": "Facilitator for a Child With Autism",
+        "price": 1000,
+        "impressions": 2606,
+        "visitors": 334,
+        "chats": 7,
+        "phone_views": 13
+      },
+      {
+        "name": "Panasonic Lumix Digital Camera With Battery",
+        "price": 931,
+        "impressions": 1282,
+        "visitors": 429,
+        "chats": 33,
+        "phone_views": 9
+      },
+      {
+        "name": "Xbox One Kinect Sensor (Model 1520)",
+        "price": 300,
+        "impressions": 1480,
+        "visitors": 306,
+        "chats": 11,
+        "phone_views": 6
+      },
+      {
+        "name": "Complete Nintendo Wii Console",
+        "price": 945,
+        "impressions": 1218,
+        "visitors": 523,
+        "chats": 8,
+        "phone_views": 4
+      },
+      {
+        "name": "Panasonic Stereo Tuner Amp Sound System",
+        "price": 650,
+        "impressions": 1117,
+        "visitors": 543,
+        "chats": 12,
+        "phone_views": 12
+      },
+      {
+        "name": "LVYUAN 800w/2000w Pure Sine-Wave Power Inverter",
+        "price": 855,
+        "impressions": 1018,
+        "visitors": 211,
+        "chats": 19,
+        "phone_views": 9
+      }
+    ],
+    "needs_attention": [
+      "DECLINED (still open): Genuine Daewoo Cnx+ Wireless Smartwatch From Uk (GHS 550) - switch to Smart Watches, correct, re-submit",
+      "Samsung Wireless Charger Duo EP-P4300: 696 imp / 51 vis, 0 chats - high traffic not converting",
+      "Olympus FE-170 camera: 611 imp, 0 chats - stale listing",
+      "Magnum Plus Security Chain 180cm: 298 visitors / 389 imp, 0 chats - strong interest, no chats",
+      "LEGO Harry Potter Knight Bus: 204 visitors, 0 chats - nudge buyers",
+      "Pro Sales Bonus dropped to GHS 6,822 (was 7,022)"
+    ],
+    "action_items": [
+      "Fix declined Daewoo smartwatch - switch to Smart Watches + re-submit (open since 21 Oct)",
+      "Renew WhatsApp Ads (expired 17 Oct) before UK order push",
+      "Follow up Panasonic Lumix - 33 chats today, hottest item",
+      "Nudge Samsung charger, Magnum chain, LEGO Knight Bus buyers - strong traffic no chats",
+      "TOP+ 500 credits valid to 16/12/26 - concentrate on Christmas hot items",
+      "Raise Pro Sales bid - 'Competitors are winning' flag on profile"
+    ],
+    "date": "2026-10-24",
+    "saved_at": "2026-10-24T06:42:13.778147"
   }
 ]

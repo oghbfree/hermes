@@ -118,6 +118,53 @@ def save_state(state):
     with open(LOOP_STATE, "w", encoding="utf-8") as f:
         json.dump(state, f, indent=2)
 
+# ─── SOURCING INTELLIGENCE (INTERNAL ONLY — H decides) ─────────────────────
+# H's policy (24 Oct 26): customer requests for items we can't fulfil are
+# captured privately in sourcing_log.json — NEVER quoted, researched, or sent
+# to anyone outside 2Real until H explicitly approves each deal.
+
+def load_sourcing_log():
+    if not SOURCING_LOG.exists():
+        return []
+    try:
+        with open(SOURCING_LOG, "r", encoding="utf-8") as f:
+            data = json.load(f)
+        return data if isinstance(data, list) else []
+    except (json.JSONDecodeError, OSError):
+        return []
+
+def save_sourcing_log(entries):
+    with open(SOURCING_LOG, "w", encoding="utf-8") as f:
+        json.dump(entries, f, indent=2, ensure_ascii=False)
+
+def detect_qty(text):
+    """Best-effort qty from message text; defaults to 1."""
+    m = re.search(r"(\d+)\s*(?:pcs?|pieces?|units?|ea|qty|bx|boxes|pack)", text, re.I)
+    return int(m.group(1)) if m else 1
+
+def log_sourcing_opportunity(entry, result):
+    """Append or merge a sourcing opportunity. Same item → repeat+1, date
+    updated, first entry's qty/customer kept. Never auto-sent."""
+    log = load_sourcing_log()
+    msg = entry.get("customer") or result.get("customer_msg", "")
+    item_key = re.sub(r"[^a-z0-9]+", " ", msg.lower()).strip() or "unknown request"
+    today = datetime.now().strftime("%Y-%m-%d")
+    cust = entry.get("chat_id") or entry.get("customer") or entry.get("channel", "")
+    for e in log:
+        ek = re.sub(r"[^a-z0-9]+", " ", e.get("item", "").lower()).strip()
+        if ek and ek == item_key:
+            e["repeat"] = int(e.get("repeat", 1)) + 1
+            e["date"] = today
+            return log, True
+    log.append({
+        "date": today,
+        "item": msg,
+        "qty": str(detect_qty(msg)),
+        "customer": cust,
+        "repeat": 1,
+    })
+    return log, False
+
 def item_in_inventory(query, inventory):
     """Check if a query item exists in inventory (simple token match)."""
     q = re.sub(r"[^a-z0-9\s]", "", query.lower().strip())
@@ -159,6 +206,9 @@ def parse_interactions(text):
         m_chan = re.match(r"-\s+\*\*Channel:\*\*\s+(.+)", line)
         if m_chan and current:
             current["channel"] = m_chan.group(1).strip()
+        m_chat = re.match(r"-\s+\*\*Chat:\*\*\s+(.+)", line)
+        if m_chat and current:
+            current["chat_id"] = m_chat.group(1).strip()
         m_cust = re.match(r"-\s+\*\*Customer:\*\*\s+(.+)", line)
         if m_cust and current:
             current["customer"] = m_cust.group(1).strip()
@@ -318,6 +368,25 @@ def main():
         leads.extend(new_leads)
         save_leads(leads)
         print(f"📝 Added {len(new_leads)} new leads to customer_leads.json")
+
+    # Sourcing intelligence: capture requests we can't fulfil (INTERNAL ONLY).
+    sourcing_new = sourcing_merged = 0
+    for r in results:
+        if r["status"] in ("out_of_stock", "unknown_item"):
+            entry = next(
+                (e for e in entries if f"{e.get('timestamp','')}|{e.get('customer','')}" == r["hash"]),
+                {"timestamp": r["timestamp"], "customer": r["customer_msg"], "channel": "whatsapp"},
+            )
+            log, merged = log_sourcing_opportunity(entry, r)
+            save_sourcing_log(log)
+            if merged:
+                sourcing_merged += 1
+            else:
+                sourcing_new += 1
+    if not SOURCING_LOG.exists() and not sourcing_new:
+        save_sourcing_log([])
+    if sourcing_new or sourcing_merged:
+        print(f"📥 Sourcing log: +{sourcing_new} new, {sourcing_merged} merged (INTERNAL — H decides)")
     
     # Print summary
     print(f"✅ Auto-resolved: {len(auto_resolved)}")

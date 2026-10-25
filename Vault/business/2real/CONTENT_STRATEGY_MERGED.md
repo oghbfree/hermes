@@ -35,7 +35,7 @@ Instagram / TikTok / LinkedIn → reuse the week's stills + reels; don't spend p
 | **Thu** | 🔋 Power, Solar & Inverters | Weekend assets staged; FB listings push; CTWA set 2 (Tools) | Content engine batch + FB Poster |
 | **Fri** | 🎁 Kids & Toys | Peak Status + email/broadcast-ready bundle | Status 12:30/19:30 |
 | **Sat** | 🔥 Deal of the Day + Gorilla/consumables | **weekend special live** (biggest retail day) | Status + CTWA + FB boost Sat/Sun |
-| **Sun** | Silent (no Status) → **BUT WhatsApp-group adverts + FB-group posts** | Sunday Jiji push + recap; content-engine run (generates next week) | **§6**
+|| **Sun** | **📱 WhatsApp + FB group posts** (ACTIVE — §6 engine) | sunday-content-engine generates group-ready stills + copy + FB catalog push; Jiji recap | **coach** (targeting/first-lines) + sat-nav (assets) + content-buddy + taiwah (copy) |
 
 **Cadence guardrails (merged):**
 - CTA **0204252252** everywhere, never the old number.
@@ -105,19 +105,22 @@ H: paste Status 12:30/19:30 · click CTWA setup once (10 min/week) · spot-check
 ## 6. NEW — WhatsApp Groups + Facebook Groups (FREE distribution)
 
 ### Why
-You're already in local WhatsApp groups that **allow businesses to advertise on Sundays**, and we need a **Facebook Groups strategy** — this is the cheapest multi-surface reach beyond our own Status/feed.
+You're already in 11 WhatsApp groups that **allow business posts** — this is the cheapest multi-surface reach beyond our own Status/feed. Confirmed cadences from H's group join.
 
 ### WhatsApp-group Sundays (the "Sunday multiplier")
-- **When:** Sunday is our Silent Status day → use it for **group adverts instead** (no clash, matches group permission rules).
-- **Format (each approved group):** 1 clean photo + item + price + condition + CTA. Never spam; follow that group's advertising rule (many = Sunday-only).
-- **Cadence:** 2–4 groups/week, rotate; log which group → which post → any replies.
-- **Golden rule:** read the group's rules first; if it says "no ads", don't post (a ban wastes the account).
+- **When:** Sunday is now an **ACTIVE engine day** (no longer Silent). sunday-content-engine generates group-ready stills + copy.
+- **General rule (most groups):** 2 posts/day per group. Sunday = catalogue day (unlimited items).
+- **Garage Sale (⚠️ stricter):** Sundays only, 1 flyer/link per business ad. 4 pictures max (personal items only). No pets. Follow admin rules strictly.
+- **Entrepreneurs Club / Spurs:** No product posts. Network only.
+- **Format:** 1 clean photo + item + price + condition + CTA 0204252252.
+- **Log every post** to `Vault/business/networking/whatsapp-group-log.md`.
+- **Golden rule:** read the group's rules first; if it says "no ads", don't post.
 
 ### Facebook Groups strategy
-- **Join list (target):** local buy/sell (Accra, Dome, Oyarifa), trades/contractors/builders, tools & hardware, parenting (for Akoma), entrepreneurs.
-- **Mini-list to join first:** Ghana Tools & Hardware Buy/Sell; Accra Buy & Sell; Contractors & Builders Ghana; a Dome-area community group.
+- **Join list:** 6 groups joined (Accra Buy & Sell, Buy & Sell New or Used ACCRA, GHANA MARKET PLACE, Construction Workers in Ghana, Entrepreneurs/Business Owners Ghana, Parents United GH)
 - **Post format:** same Sunday cadence as WhatsApp groups; use the week's best still; CTA 0204252252.
-- **Anti-spam:** post at group-appropriate times, engage (comment) before selling, cap 1–2 group posts/week until the account is known. New group = coach suggests from his networking playbook + H approves.
+- **Anti-spam:** post at group-appropriate times, engage before selling, cap 1–2 group posts/week until known.
+- **FB rules to verify:** each group's pinned rules (H to check — login-bound).
 
 ### Owner of this
 **`coach`** — he owns networking + group strategy (it's literally his SOUL.md). sat-nav supplies the ready-to-post assets (stills + copy); he picks the target groups, drafts the group-specific first line (community-tone, not ad-speak), and logs results to `Vault/business/networking/`.

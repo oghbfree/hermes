@@ -83,3 +83,50 @@ unanswered (813/832)** · 43 contact views + 24 saved-ads NOT followed up · GH�
 2. **Fix & resubmit 4 newly-declined ads** (9 total pending).
 3. **Reply to 19 unanswered client chats** + follow up 43 contact views + 24 saved-ads — first reply wins.
 4. H run the Jiji harvest once interactively so per-listing data is fresh for next Saturday.
+## 2026-10-24 (Sat) — Weekly Harvest + Review
+
+**Harvest status:** ✅ **SUCCESS — fresh per-listing harvest via CDP harvester** (`jiji_ads_harvest_cdp.py`, connected to persistent Chrome :9222, logged in as Two Real Enterprises). Saved **1,250 ads** to `jiji_ads_performance.json` (scraped 2026-10-24 07:02). All 1,250 ads populated with nested totals — no fabricated numbers.
+
+**Account totals (THIS week, live):**
+| Metric | Total |
+|--------|-------|
+| Impressions | 276,530 |
+| Visitors | 45,454 |
+| Chats | 1,485 |
+| Chats/visitors (conversion) | **3.27%** |
+| Count-contacts | 1,356 |
+| Ads with ≥1 chat | 566 |
+| Ads with 0 impressions | **0** (healthy — every active ad has reach) |
+| Reverse-flow flags (vis≥20, 0 chats) | **138** |
+
+*(Per-listing WoW baseline unavailable: the only ordered backup (17/10) predates the 19/10 cdp field-extraction fix and holds all-zero totals — not comparable. Account-level WoW below is real from `jiji_daily_history.json`.)*
+
+**TOP-10 by chats:** Panasonic Lumix camera (33c) · LVYUAN power inverter (19c) · Elite Construction Team wanted (18c) · Skateboard (16c) · Female Private Driver (16c) · Mini Guitar Amp 15W (15c) · Xbox 360 games (15c) · Farm Workers (14c) · Live-in Private Nurse (14c) · Wireless Mouse w/LED (13c).
+
+**Top movers / hot items (daily history, 24/10):** Panasonic Lumix camera — 33 chats (hottest item) · LVYUAN Inverter — 19 chats · Facilitator for Child with Autism — 2,606 imp / 334 vis / 7 chats / 13 phone views.
+
+**Reverse-flow fixes (strong flags, vis≥20 & 0 chats):**
+1. **Magnum Plus Colossus Security Chain 180cm** — 298 visitors / 389 imp / **0 chats** → rework title/photo/price.
+2. **LEGO Harry Potter Knight Bus (COMPLETE)** — 204 visitors / 365 imp / **0 chats** → rework.
+3. **ELC Water Wave Pool for Kids** — 163 visitors / 275 imp / **0 chats** → rework.
+
+**Account picture — WoW (source: fresh `jiji_daily_history.json` 24/10):**
+| Metric | 17–20 Oct | 24 Oct | WoW Δ |
+|--------|-----------|--------|-------|
+| Active listings | 1,310 | **1,318** | **+8** |
+| Followers | 338 | **339** | **+1** |
+| Clients | 1 | **1** | 0 |
+| Declined ads | 1–4 | **1** | stable |
+| Closed | 130–135 | 130 | 0 |
+| WhatsApp ads | expired **17 Oct** | **still expired** | 🔴 blocker |
+| Balance (GHS) | 0 | **0** | 🔴 persistent |
+| Pro Sales bonus | — | **6,822** | dropping (−200) |
+
+**URGENT action items for H/John:**
+1. **Renew WhatsApp ads** — expired since **17 Oct**, never renewed. Direct reach blocker.
+2. **Panasonic Lumix camera = 33 chats** — follow up now, hottest item in shop.
+3. **Reply to 566 live-thread ads' chats** — first reply wins.
+4. **Fix declined Daewoo Cnx+ smartwatch** (open since 21 Oct — switch to Smart Watches category, re-submit).
+5. **Rework top-3 reverse-flow items** (Magnum chain, LEGO Knight Bus, ELC pool).
+6. GH¢0 balance persists; raise Pro Sales bid (competitors winning flag on profile).
+
