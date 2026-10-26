@@ -1,4 +1,4 @@
-﻿### Source: Books\Books to read.md
+### Source: Books\Books to read.md
 Processed: 2026-03-13 08:10:07
 ---
 title: Books to read

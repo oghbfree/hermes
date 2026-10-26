@@ -1,4 +1,4 @@
-﻿# EVOLUTION.md - Agent Evolution History
+# EVOLUTION.md - Agent Evolution History
 
 This file tracks how the system changes over time. Updated monthly by orchestrator during Monthly Evolution Review.
 Each entry is a snapshot of what changed, why, and what improved.

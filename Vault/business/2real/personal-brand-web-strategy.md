@@ -1,4 +1,4 @@
-﻿Personal Brand \& Web Presence Strategy - Strategic Ideas
+Personal Brand \& Web Presence Strategy - Strategic Ideas
 Date: 28 March 2026
 
 ## 1\. WEB ARCHITECTURE - Hub and Spoke Model

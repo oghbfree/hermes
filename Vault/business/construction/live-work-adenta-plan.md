@@ -1,4 +1,4 @@
-﻿# Container Strategy \& Relocation Plan — 2026-05-04
+# Container Strategy \& Relocation Plan — 2026-05-04
 
 ## Live-Work Property
 

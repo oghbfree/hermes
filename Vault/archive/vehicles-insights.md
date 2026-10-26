@@ -1,4 +1,4 @@
-﻿# Vehicles Insights
+# Vehicles Insights
 
 ## 2017 KIA RIO - Full Details
 - **Vehicle**: KIA Rio Hatchback (2017-2023) First Edition 1.0 T-GDi 118bhp ISG 5d

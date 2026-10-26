@@ -103,12 +103,15 @@ Useful to trace the full hire history. Locate in session DB via `@session:defaul
 
 ## 6. OPEN ACTIONS / WATCHLIST
 
-- [ ] ✅ **60-day review done — 17 Aug 26** (see `STEPHANIE_REVIEW_60DAY_2026-08-17.md`)
-- [ ] **90-day / probation-end review — due 8 Sep 2026** (in new house): probation → 1-yr fixed term, salary GH¢ 2,000→2,500, expanded "run the whole house" role + pay discussion, travel notice, backup/escalation chain
+- [ ] ✅ **60-day review done** (see `STEPHANIE_REVIEW_60DAY_2026-08-17.md`)
+- [ ] ⚠️ **TRIAL EXTENDED +1 month — performance-based** (see `STEPHANIE_TRIAL_EXTENSION.md`). Permanent contract NOT signed in Sep. 7 items to fix: report detail/accuracy (incl. Dr Morris meds = 3 elements + masseuse info), mushroom tea on schedule+logged, push water, daily elevation+Epsom soaks, Furosemide refusal logging + BP stop-rule (10-8 refused; 144 reading), forward-planning+meal prep+expiry checks, more room visits+logging
+- [ ] **Speak to Stephanie** — over a month overdue (said would after paying her)
+- [ ] Decide **firm review date** (~2 weeks) + **salary step** (2,000→2,500: moves with extension or gated?)
+- [ ] **CCTV still not installed** in new house (consent in place; install pending)
+- [ ] H **on the fence** — Mum gives mixed messages re Stephanie; reconcile
 - [ ] Buy **large-print Bible** for Stephanie (from 60-day review)
-- [ ] Follow-ups for Stephanie: report detail/accuracy, garlic per protocol, mushroom tea frequency, water intake, daily elevation, compression-stocking logging, log room visits, more proactive + forward-planning
 - [ ] Confirm `stephanie-nurse-wellbeing-checkin` delivery target (currently `local`)
-- [ ] Move: Mum relocation + packing list (see `kanban`/`maa-joyce-checklist`); confirm move date for review alignment
+- [ ] House move maintenance/repairs (see `NEW_HOUSE_MAINTENANCE.md`)
 - [ ] Cross-check any future nurse hiring against this master so Stephanie stays the canonical carer
 
 ---
@@ -123,3 +126,6 @@ Useful to trace the full hire history. Locate in session DB via `@session:defaul
 - **Stephanie morning routine (new house):** `Vault/business/2real/Nursing/STEPHANIE_MORNING_ROUTINE.md` (compound cleaning, security morning→evening, sofa/cushion setup, no-flies, bins, windows/doors)
 - **Stephanie 60-day review (17 Aug 26):** `Vault/business/2real/Nursing/STEPHANIE_REVIEW_60DAY_2026-08-17.md`
 - **New-house security/camera (17 Aug 26):** `Vault/business/2real/Nursing/NEW_HOUSE_SECURITY_CAMERA.md` — VM380 Pro solar camera (installed by Frederick), MTN SIM GH¢25 (15 sim/7 data/3 airtime)
+- **Trial extension (record & message):** `Vault/business/2real/Nursing/STEPHANIE_TRIAL_EXTENSION.md` — performance-based +1 month, 7 items, context (CCTV pending, H on fence, spoken-to gap)
+- **Task bank (keep occupied):** `Vault/business/2real/Nursing/STEPHANIE_TASK_BANK.md` — cooking/baking from scratch, making/mending, deep-clean, security, records/planning
+- **New-house maintenance/repairs:** `Vault/business/2real/Nursing/NEW_HOUSE_MAINTENANCE.md` — main gate (welder+key), stiff front door, water-heater refit (plumber), ask re mosquito nets

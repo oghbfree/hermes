@@ -1,4 +1,4 @@
-﻿## APPLICATIONS REPORT - 2026-04-13
+## APPLICATIONS REPORT - 2026-04-13
  
 ### Summary
 - **Financial Literacy**: Permission denied (OAuth token missing)

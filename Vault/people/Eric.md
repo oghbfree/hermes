@@ -1,4 +1,4 @@
-﻿- **Eric**: WhatsApp: +447553403038
+- **Eric**: WhatsApp: +447553403038
   - Not an employee, friendly rapport
   - Rents a garage from h on Hermitage Road â€” has goods stored there
   - Emptied a garage on Walworth Road â€” needs tidying up

@@ -1,4 +1,4 @@
-﻿
+
 ---
 Source: voice-transcription
 OriginalPath: C:\Users\User\.openclaw\media\inbound\file_2---6c32e6de-5ae1-457d-a7e8-0a1112832652.ogg

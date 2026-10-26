@@ -1,4 +1,4 @@
-﻿ ### Source: things to buy\2019-05-02T03_46_37.291+01_00.txt-1.md
+ ### Source: things to buy\2019-05-02T03_46_37.291+01_00.txt-1.md
 Processed: 2026-03-13 08:10:19
 ---
 title: 2019-05-02T03_46_37.291+01_00.txt

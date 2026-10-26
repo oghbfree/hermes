@@ -1,4 +1,4 @@
-﻿# OpenClaw — Standard Operating Procedure (SOP)
+# OpenClaw — Standard Operating Procedure (SOP)
 
 *Document ID: OPENCLAW-SOP-001
 *Version: 1.0

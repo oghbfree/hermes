@@ -1,4 +1,4 @@
-﻿### Source: Working day\Adjei\Pay 400 every 25th.md
+### Source: Working day\Adjei\Pay 400 every 25th.md
 Processed: 2026-03-13 08:10:19
 ---
 title: Pay 400 every 25th

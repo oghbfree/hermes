@@ -1,4 +1,4 @@
-﻿# LEARNING_SYSTEM.md - Iterative Learning Framework
+# LEARNING_SYSTEM.md - Iterative Learning Framework
 
 This system captures every failure as a rule and every success as a formula for continuous evolution.
 

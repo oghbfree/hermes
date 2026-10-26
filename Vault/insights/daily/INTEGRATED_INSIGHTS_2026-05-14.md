@@ -1,4 +1,4 @@
-﻿# Integrated Daily Insights â€” 2026-05-14 (Thursday) â€” FINAL
+# Integrated Daily Insights â€” 2026-05-14 (Thursday) â€” FINAL
 
 **Period:** Full day May 14, 2026 (22:05 synthesis run)
 **Generated:** 2026-05-14 22:05 UTC+1

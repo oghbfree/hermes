@@ -1,4 +1,4 @@
-﻿# Session: 2026-04-03 09:11:06 UTC
+# Session: 2026-04-03 09:11:06 UTC
 
 - **Session Key**: agent:librarian:whatsapp:direct:+233204252252
 - **Session ID**: c13996be-4f05-4058-b6ad-d824758dd9aa

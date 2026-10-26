@@ -1,4 +1,4 @@
-﻿### Source: YB\Acid or Alkaline_ What pH Means in Gardenspeak.md
+### Source: YB\Acid or Alkaline_ What pH Means in Gardenspeak.md
 Processed: 2026-03-13 08:10:20
 ---
 title: Acid or Alkaline? What pH Means in Gardenspeak

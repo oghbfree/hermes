@@ -105,6 +105,11 @@
 | 18 Oct | Pawpaw + scrambled eggs 10am (all) · lemon water resumed | Boiled yam + kontomire + boiled eggs 4pm (all — shared with Aunty Felicia) | — |
 | 19 Oct | Tom brown 10:26am (all) · lemon water (all) | Kenkey + pepper + sardine (left a little kenkey) | Warm pineapple juice 7:55pm (drank all) |
 | 20 Oct | Oblayo 10am (left a little) | — | Rice + boiled beans 4pm (left the salad — prefers warm) |
+| 21 Oct | Corn dough porridge + 2 boiled eggs 9am (all) · lemon water 7:45 (all) | — | Boiled yam + cocoyam + kontomire stew 4:05pm (all) |
+| 22 Oct | Obrayo 10:03 (left little) | — | Kenkey + pepper + sardine 4pm (left little) |
+| 23 Oct | Corn dough porridge + 2 eggs 10:07 (all) · lemon water (all) | — | Mpotompoto 4pm (all) |
+| 24 Oct | Ekoegbemi 10am (left little) | — | Rice + boiled beans 4pm (all) · 🍎 apple (evening, asked for it) |
+| 25 Oct | Porridge + 2 boiled eggs | Banku with grasscutter light soup | — |
 
 > **Backfill complete (12 Oct 26):** Meals to 12 Oct. 🥛 **MILK SPOILT — discarded (strained w/ new cheesecloth + heated, still off; heat ≠ safe with spoiled milk). Perishable protocol: check on arrival, refrigerate immediately, date, carer spot-checks before serving.** Cheesecloth delivered 11 Oct ✓ (rider). Gentle swaps: Don Simon → watermelon juice; kelewele occasional.
 

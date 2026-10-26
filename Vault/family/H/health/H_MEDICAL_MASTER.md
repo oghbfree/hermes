@@ -742,3 +742,27 @@
 ### 🌙 Evening Health Check
 - **Status:** Food diary — nothing logged today (24 Oct) yet (current through **22 Oct**; 23 & 24 Oct silent → 2-day gap, at the 🟡 threshold — evening prompt sent to prompt a quick note and keep the resumed logging alive). Red flags unchanged from this morning's check: **Renerve Plus supply ZERO** (tremor unmedicated 26 days) · **31 Aug post-shock follow-up outcome undocumented (54 days)** · **blood-work labs (1,075 GH panel) still pending** · **dental (12 Oct) outcome unlogged (12 days)** · **no fresh vitals since 24 Aug (61 days)**. 🟢 No new acute onset since 29 Sep; no chest pain; no dysphagia episodes; pericarditis quiescent.
 - **Check-in:** Sent evening check-in to Health Log topic — asked H about dinner, symptoms, energy, sleep.
+
+---
+
+## 2026-10-25 (Sun)
+
+### 🌅 Morning Health Check
+- **Status:** 🟡 DATA GAP widening — food diary last logged **22 Oct**, now **3 days silent** (23–25 Oct); at the 🟡 threshold, regresses to red at 5 days — keep logging. 🔴 **Renerve Plus supply still ZERO** — pack finished 28 Sep, tremor unmedicated **27 days; reorder still pending** (Pharmabay ~295 GH). 🔴 **31 Aug post-shock follow-up outcome still undocumented, now 55 days** — confirm attended & log tremor/X-ray/labs. 🔴 **Blood-work labs (1,075 GH panel) still PENDING** — requisition photo never reached Nita; blood work stays 6+ yrs stale until drawn. 🔔 **Dental appointment Mon 12 Oct (10:30am) — outcome still NOT logged, now 13 days**; confirm attended & whether Renerve reorder + lab chase happened there. 🟡 Watch: recurring AM headaches + sinus (22 Sep onset) — ibuprofen 400 mg daily carries achalasia/GI + kidney risk until labs run; left arm tremor unmedicated in the gap; **no fresh vitals since 24 Aug (62 days)**; toenail fungus on Candid lotion. 🟢 Stable: no new acute onset since 29 Sep; no chest pain; no dysphagia episodes; pericarditis quiescent; vitals normal at 24 Aug visit. ACTION: **reorder Renerve today** (tremor unmonitored 27 days) and while at the pharmacy confirm & log the **dental (12 Oct) outcome + 31 Aug review outcome**; run the pending labs (kidney safety net for ibuprofen), take a fresh BP/pulse reading, keep logging meals (resumed 22 Oct — only 3 days since, don't let it slip). For AM headaches: steam + warm compress + salt-water gargle + stop eating 3h before bed (reflux worsens phlegm) before reaching for ibuprofen.
+- **Check-in:** Asked H about breakfast, energy, symptoms
+
+
+---
+
+### 📊 Weekly Review — Oct 19–25, 2026
+**Generated:** Sun 25 Oct 2026
+
+🔴 **Red Flags:** (1) **Renerve Plus supply still ZERO** — pack finished 28 Sep, left-arm tremor unmedicated **27 days**; reorder still pending (~295 GH, Pharmabay). (2) **31 Aug post-shock follow-up outcome still undocumented, now 55 days** — tremor response + toe X-ray result unrecorded; blocks the whole onward pipeline. (3) **Blood-work labs (1,075 GH panel) still not run since 24 Aug** — requisition photo never reached Nita; blood work remains 6+ yrs stale. (4) **Dental appointment Mon 12 Oct (10:30am) — outcome still NOT logged, now 13 days**; confirmed-attended unknown, Renerve reorder + lab chase unverified.
+
+🟡 **Watch:** Food diary **re-engaged 22 Oct** (watermelon 08:00, pineapple 12:00, roasted plantain + peanuts, Vit C + Vit B) after 3 collapsed weeks — but slipped again immediately (23–25 Oct silent, now **3-day gap** at the 🔴 threshold). Recurring **AM headaches + sinus** (22 Sep onset, 33 days) on **ibuprofen 400 mg daily** — achalasia/GI + kidney risk until labs run; keep ≤400 mg with food, short-term only. **No fresh vitals since 24 Aug (62 days)** — monitoring far past acceptable. Tremor unmedicated across the Renerve gap. Toenail fungus on Candid lotion only.
+
+🟢 **Good:** **No new acute onset since 29 Sep — 26 days clear** of chest pain, dysphagia episodes, or new neurological symptoms; pericarditis quiescent; vitals normal at 24 Aug visit. **Food diary logging BROKE a 24-day silence on 22 Oct** — the first real dietary data since 28 Sep, and meals/supplements were clean (fruit + plantain + peanuts, Vit C + B).
+
+📈 **Trends:** Mixed week — the first positive signal in a month. **Food logging**: 0/7 for a third straight week, but logging **re-engaged 22 Oct** (🔴→🟡 partial) only to drift to a 3-day gap by week's end — logging remains fragile. All structural items continued regressing: **Renerve unmedicated 20→27 days**, **31 Aug review 48→55 days**, **vitals 55→62 days**, **dental 6→13 days**, labs unchanged (all 🔴). The one care contact of the month (dental 12 Oct) still unverified, and the 31 Aug review + labs remain the gating items on all forward care.
+
+💡 **Top 3 Actions This Week:** 1. **Reorder Renerve Plus** — tremor unmedicated 27 days; make the pharmacy call/trip double as the chance to confirm & log **the 31 Aug review outcome + the 12 Oct dental outcome** (attended? labs chased?) in one go. 2. **Run the pending 1,075 GH lab panel** (re-send requisition / call UGMC) — it is the kidney-safety net for your daily ibuprofen and unblocks everything downstream. 3. **Take a fresh BP/pulse reading (62 days since last) and keep meal logging alive** (resumed 22 Oct — 3 days silent again, don't lose it); manage AM headaches with the sleep protocol first (steam + salt-water gargle + stop eating 3h before bed) before reaching for ibuprofen. Daily ibuprofen without labs is not safe past this week.

@@ -1,4 +1,4 @@
-﻿# APPLICATIONS REPORT - 2026-05-14
+# APPLICATIONS REPORT - 2026-05-14
 
 ## Summary
 - **Financial Literacy**: âš ï¸ Permission denied (sheet not shared with `oghbfree@gmail.com`)

@@ -1,4 +1,4 @@
-﻿# BA Complaint - Case Record
+# BA Complaint - Case Record
 
 **Booking Ref:** SQ2RK2
 **Case Ref:** 05550725

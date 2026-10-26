@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-12T07:02:56.145125",
-  "total_gap": 294,
+  "generated": "2026-10-26T03:00:38.162492",
+  "total_gap": 291,
   "items": [
     {
       "name": "Blyss Uban Video Intercom And Outdoor Button",
@@ -21,7 +21,7 @@
       "margin": 1550,
       "gift": false,
       "priority": 1550,
-      "best_partial_match": "Bosch GBH 24 VRE Professional Cordless Rotary Hamm",
+      "best_partial_match": "Bosch GBH 24 v Professional Cordless SDS-Plus Rota",
       "partial_score": 0.3
     },
     {
@@ -142,7 +142,7 @@
       "margin": 550,
       "gift": false,
       "priority": 550,
-      "best_partial_match": "DeWALT Extreme Runtime XR FlexVolt 250mm Circular ",
+      "best_partial_match": "DeWALT Extreme Workshop Series 60 Table / Mitre Sa",
       "partial_score": 0.38
     },
     {
@@ -164,7 +164,7 @@
       "margin": 500,
       "gift": false,
       "priority": 500,
-      "best_partial_match": "Circular Saw With Exposed Handle 1020W 52mm Diamet",
+      "best_partial_match": "Black and Decker Heavy Duty Circular Saw 960W",
       "partial_score": 0.5
     },
     {
@@ -252,7 +252,7 @@
       "margin": 450,
       "gift": false,
       "priority": 450,
-      "best_partial_match": "DeWalt 14.4 Volt Cordless Drill/Driver Kit One Bat",
+      "best_partial_match": "Stanley FatMax\nCoping Saw",
       "partial_score": 0.25
     },
     {
@@ -296,7 +296,7 @@
       "margin": 410,
       "gift": false,
       "priority": 410,
-      "best_partial_match": "GARDENA Automatic Irrigation Micro-Drip System Com",
+      "best_partial_match": "A/C Reusable R134a Car Air Conditioning Charging H",
       "partial_score": 0.2
     },
     {
@@ -340,7 +340,7 @@
       "margin": 388,
       "gift": false,
       "priority": 388,
-      "best_partial_match": "Parkside 20V Angle Grinder PWSA20-Li C3 W 2.0Ah Ba",
+      "best_partial_match": "DeWalt 14.4 Volt Cordless Drill/Driver Kit One Bat",
       "partial_score": 0.29
     },
     {
@@ -407,28 +407,6 @@
       "gift": false,
       "priority": 348,
       "best_partial_match": "Gorilla Wood Glue (532ml)",
-      "partial_score": 0.33
-    },
-    {
-      "name": "Bosch IXO Cordless Screwdriver Cardboard Box",
-      "price": 430.0,
-      "cost": 90.0,
-      "stock": 1,
-      "margin": 340,
-      "gift": false,
-      "priority": 340,
-      "best_partial_match": "Parkside 4v Cordless Screwdriver With Exchangeable",
-      "partial_score": 0.33
-    },
-    {
-      "name": "Bosch IXO Cordless Screwdriver Plastic Box",
-      "price": 430.0,
-      "cost": 90.0,
-      "stock": 1,
-      "margin": 340,
-      "gift": false,
-      "priority": 340,
-      "best_partial_match": "Parkside 4v Cordless Screwdriver With Exchangeable",
       "partial_score": 0.33
     },
     {
@@ -560,7 +538,7 @@
       "margin": 270,
       "gift": false,
       "priority": 270,
-      "best_partial_match": "Apple Magic Mouse No Back Cover",
+      "best_partial_match": "Irwin Marples 6-Piece MS500 All-Purpose Wood Chise",
       "partial_score": 0.2
     },
     {
@@ -670,7 +648,7 @@
       "margin": 230,
       "gift": false,
       "priority": 230,
-      "best_partial_match": "Roughneck v Series Claw Hammer 20 Oz",
+      "best_partial_match": "Bosch GBH 24 v Professional Cordless SDS-Plus Rota",
       "partial_score": 0.2
     },
     {
@@ -703,7 +681,7 @@
       "margin": 210,
       "gift": false,
       "priority": 210,
-      "best_partial_match": "Original Bosch Hammer Drill 500W",
+      "best_partial_match": "Bosch GBH 24 v Professional Cordless SDS-Plus Rota",
       "partial_score": 0.5
     },
     {
@@ -725,7 +703,7 @@
       "margin": 210,
       "gift": false,
       "priority": 210,
-      "best_partial_match": "DeWalt 18V XR Brushless Combi/Hammer Drill UK Used",
+      "best_partial_match": "DeWALT Extreme Workshop Series 60 Table / Mitre Sa",
       "partial_score": 0.29
     },
     {
@@ -802,7 +780,7 @@
       "margin": 200,
       "gift": false,
       "priority": 200,
-      "best_partial_match": "Powersource 500w Compact Inverter With Usb 500w 12",
+      "best_partial_match": "HTRC Smart Battery Charger (12v/24v Pulse Repair C",
       "partial_score": 0.25
     },
     {
@@ -846,8 +824,8 @@
       "margin": 195,
       "gift": false,
       "priority": 195,
-      "best_partial_match": "Bristan Nurture Basin Mixer Tap With Clicker Waste",
-      "partial_score": 0.38
+      "best_partial_match": "Outwell Vision 200 Pop Up Tent",
+      "partial_score": 0.25
     },
     {
       "name": "Luceco Castra Wi-Fi Security Flood Light 2100 Lumens",
@@ -868,7 +846,7 @@
       "margin": 160,
       "gift": false,
       "priority": 192,
-      "best_partial_match": "Original Bosch Hammer Drill 500W",
+      "best_partial_match": "Bosch GBH 24 v Professional Cordless SDS-Plus Rota",
       "partial_score": 0.4
     },
     {
@@ -890,7 +868,7 @@
       "margin": 190,
       "gift": false,
       "priority": 190,
-      "best_partial_match": "Rolson Four Head Rivet Gun With 60pc Rivets and Wr",
+      "best_partial_match": "Stanley Tr250 Sharpshooter Plus Heavy-Duty Staple/",
       "partial_score": 0.5
     },
     {
@@ -1000,7 +978,7 @@
       "margin": 165,
       "gift": false,
       "priority": 165,
-      "best_partial_match": "Master Lock Select 5423EURD Wall-Mounted Push Butt",
+      "best_partial_match": "Master Lock Select Access 5426EURD High Security P",
       "partial_score": 0.38
     },
     {
@@ -1110,7 +1088,7 @@
       "margin": 150,
       "gift": false,
       "priority": 150,
-      "best_partial_match": "Makita Finishing Palm Sander With Dustbag - Brand ",
+      "best_partial_match": "Ryobi Corded 1/4-Sheet Palm Sander With Attached D",
       "partial_score": 0.4
     },
     {
@@ -1187,7 +1165,7 @@
       "margin": 135,
       "gift": false,
       "priority": 135,
-      "best_partial_match": "Stanley Tylon 8m/26ft Tape Measure",
+      "best_partial_match": "Stanley Tape Measure Tylon 5m/16\u2019",
       "partial_score": 0.44
     },
     {
@@ -1297,7 +1275,7 @@
       "margin": 110,
       "gift": false,
       "priority": 110,
-      "best_partial_match": "Stanley Sta 010780 Fatmax Fixed Blade Knife",
+      "best_partial_match": "Stanley TCT Circular Saw Blade 210mm X 30mm 24T (S",
       "partial_score": 0.4
     },
     {
@@ -1308,7 +1286,7 @@
       "margin": 90,
       "gift": false,
       "priority": 108,
-      "best_partial_match": "Original Bosch Hammer Drill 500W",
+      "best_partial_match": "Bosch GBH 24 v Professional Cordless SDS-Plus Rota",
       "partial_score": 0.33
     },
     {
@@ -1506,7 +1484,7 @@
       "margin": 90,
       "gift": false,
       "priority": 90,
-      "best_partial_match": "Original Bosch Hammer Drill 500W",
+      "best_partial_match": "Bosch GBH 24 v Professional Cordless SDS-Plus Rota",
       "partial_score": 0.33
     },
     {
@@ -1517,7 +1495,7 @@
       "margin": 90,
       "gift": false,
       "priority": 90,
-      "best_partial_match": "Original Bosch Hammer Drill 500W",
+      "best_partial_match": "Bosch GBH 24 v Professional Cordless SDS-Plus Rota",
       "partial_score": 0.33
     },
     {
@@ -1528,7 +1506,7 @@
       "margin": 90,
       "gift": false,
       "priority": 90,
-      "best_partial_match": "Original Bosch Hammer Drill 500W",
+      "best_partial_match": "Bosch GBH 24 v Professional Cordless SDS-Plus Rota",
       "partial_score": 0.33
     },
     {
@@ -1539,7 +1517,7 @@
       "margin": 90,
       "gift": false,
       "priority": 90,
-      "best_partial_match": "Original Bosch Hammer Drill 500W",
+      "best_partial_match": "Bosch GBH 24 v Professional Cordless SDS-Plus Rota",
       "partial_score": 0.33
     },
     {
@@ -1583,7 +1561,7 @@
       "margin": 75,
       "gift": false,
       "priority": 90,
-      "best_partial_match": "Binatone Latitude Twin Pack Walkie Talkie With Up ",
+      "best_partial_match": "Outwell Vision 200 Pop Up Tent",
       "partial_score": 0.33
     },
     {
@@ -1627,7 +1605,7 @@
       "margin": 70,
       "gift": false,
       "priority": 84,
-      "best_partial_match": "Halfords Enamel Spray Paint Various Colors Availab",
+      "best_partial_match": "Halfords Plastic Bumper Spray Paint Light Grey 300",
       "partial_score": 0.33
     },
     {
@@ -1726,7 +1704,7 @@
       "margin": 40,
       "gift": true,
       "priority": 80,
-      "best_partial_match": "Parkside Cutting Disc Set 12 Pack Metal 125mm for ",
+      "best_partial_match": "4-Pack of Energizer Accu Recharge Universal AA Bat",
       "partial_score": 0.2
     },
     {
@@ -1781,7 +1759,7 @@
       "margin": 75,
       "gift": false,
       "priority": 75,
-      "best_partial_match": "Titan 210mm Electric Sliding Mitre Saw",
+      "best_partial_match": "DeWALT Extreme Workshop Series 60 Table / Mitre Sa",
       "partial_score": 0.5
     },
     {
@@ -1792,7 +1770,7 @@
       "margin": 58,
       "gift": false,
       "priority": 70,
-      "best_partial_match": "8 Inch Handheld Bolt Cutters",
+      "best_partial_match": "Irwin Record 14-Inch Heavy-Duty Bolt Cutters (Mode",
       "partial_score": 0.5
     },
     {
@@ -1847,7 +1825,7 @@
       "margin": 69,
       "gift": false,
       "priority": 69,
-      "best_partial_match": "TDK DVD-R Recordable Discs Single Sided",
+      "best_partial_match": "Irwin Marples 6-Piece MS500 All-Purpose Wood Chise",
       "partial_score": 0.14
     },
     {
@@ -1891,7 +1869,7 @@
       "margin": 57,
       "gift": false,
       "priority": 68,
-      "best_partial_match": "Stanley TCT Circular Saw Blade 210mm X 30mm 24T (S",
+      "best_partial_match": "Stanley FatMax\nCoping Saw",
       "partial_score": 0.4
     },
     {
@@ -1913,7 +1891,7 @@
       "margin": 66,
       "gift": false,
       "priority": 66,
-      "best_partial_match": "Parkside Cutting Disc Set 12 Pack Metal 125mm for ",
+      "best_partial_match": "Stanley FatMax\nCoping Saw",
       "partial_score": 0.25
     },
     {
@@ -1935,7 +1913,7 @@
       "margin": 63,
       "gift": false,
       "priority": 63,
-      "best_partial_match": "Parkside Cutting Disc Set 12 Pack Metal 125mm for ",
+      "best_partial_match": "Stanley FatMax\nCoping Saw",
       "partial_score": 0.25
     },
     {
@@ -2056,7 +2034,7 @@
       "margin": 54,
       "gift": false,
       "priority": 54,
-      "best_partial_match": "Lowenergie Outdoor Dusk to Dawn Auto-Light Switch ",
+      "best_partial_match": "Panasonic Stereo Tuner Amp Sound System Set Cd,rad",
       "partial_score": 0.17
     },
     {
@@ -2133,7 +2111,7 @@
       "margin": 50,
       "gift": false,
       "priority": 50,
-      "best_partial_match": "Circular Saw With Exposed Handle 1020W 52mm Diamet",
+      "best_partial_match": "DeWALT Extreme Workshop Series 60 Table / Mitre Sa",
       "partial_score": 0.33
     },
     {
@@ -2221,7 +2199,7 @@
       "margin": 45,
       "gift": false,
       "priority": 45,
-      "best_partial_match": "BEMIS Adjustable Shower Tray Feet SET OF 4",
+      "best_partial_match": "A/C Reusable R134a Car Air Conditioning Charging H",
       "partial_score": 0.25
     },
     {
@@ -2254,7 +2232,7 @@
       "margin": 42,
       "gift": false,
       "priority": 42,
-      "best_partial_match": "Stanley Dynagrip 3-Piece Wood Chisel Set Model: ST",
+      "best_partial_match": "Stanley FatMax\nCoping Saw",
       "partial_score": 0.4
     },
     {
@@ -2265,7 +2243,7 @@
       "margin": 42,
       "gift": false,
       "priority": 42,
-      "best_partial_match": "Yale Smart Keyless Connected Door Lock With Nightl",
+      "best_partial_match": "Original ION Profile LP Vinyl-to-Mp3 Turntable",
       "partial_score": 0.25
     },
     {
@@ -2397,7 +2375,7 @@
       "margin": 36,
       "gift": false,
       "priority": 36,
-      "best_partial_match": "Network Cabinet 24u 600 X 600 Brand New",
+      "best_partial_match": "Unex Sd160s 16-Port 10/100mbps Nexswitch Network S",
       "partial_score": 0.25
     },
     {
@@ -2573,7 +2551,7 @@
       "margin": 30,
       "gift": false,
       "priority": 30,
-      "best_partial_match": "Original Bosch Hammer Drill 500W",
+      "best_partial_match": "Bosch GBH 24 v Professional Cordless SDS-Plus Rota",
       "partial_score": 0.2
     },
     {
@@ -2639,7 +2617,7 @@
       "margin": 30,
       "gift": false,
       "priority": 30,
-      "best_partial_match": "Parkside Cutting Disc Set 12 Pack Metal 125mm for ",
+      "best_partial_match": "4-Pack of Energizer Accu Recharge Universal AA Bat",
       "partial_score": 0.33
     },
     {
@@ -2672,7 +2650,7 @@
       "margin": 28,
       "gift": false,
       "priority": 28,
-      "best_partial_match": "Lowenergie Outdoor Dusk to Dawn Auto-Light Switch ",
+      "best_partial_match": "Bosch GBH 24 v Professional Cordless SDS-Plus Rota",
       "partial_score": 0.17
     },
     {
@@ -2716,7 +2694,7 @@
       "margin": 22,
       "gift": false,
       "priority": 27,
-      "best_partial_match": "Halfords Flexible Vinyl Interior Aerosol Spray Pai",
+      "best_partial_match": "Bosch Paint Spray System 650W",
       "partial_score": 0.4
     },
     {
@@ -2870,7 +2848,7 @@
       "margin": 22,
       "gift": false,
       "priority": 22,
-      "best_partial_match": "Halfords Enamel Spray Paint Various Colors Availab",
+      "best_partial_match": "Halfords Plastic Bumper Spray Paint Light Grey 300",
       "partial_score": 0.33
     },
     {
@@ -2969,7 +2947,7 @@
       "margin": 22,
       "gift": false,
       "priority": 22,
-      "best_partial_match": "Halfords Advanced\n7 Piece Stubby Spanner Set",
+      "best_partial_match": "Halfords Compression Tester 808070 - Brand New",
       "partial_score": 0.2
     },
     {
@@ -2980,7 +2958,7 @@
       "margin": 22,
       "gift": false,
       "priority": 22,
-      "best_partial_match": "Faithfull 6-Piece Flex Head Ratchet Combination Sp",
+      "best_partial_match": "Stanley Staple Pins Type a 6mm 1000pcs",
       "partial_score": 0.33
     },
     {
@@ -3079,7 +3057,7 @@
       "margin": 21,
       "gift": false,
       "priority": 21,
-      "best_partial_match": "Draper Socket Set 1/4 Drive Metric 27pc 4-13mm X27",
+      "best_partial_match": "Stanley Staple Pins Type a 6mm 1000pcs",
       "partial_score": 0.33
     },
     {
@@ -3112,7 +3090,7 @@
       "margin": 20,
       "gift": false,
       "priority": 20,
-      "best_partial_match": "Titan 210mm Electric Sliding Mitre Saw",
+      "best_partial_match": "DeWALT Extreme Workshop Series 60 Table / Mitre Sa",
       "partial_score": 0.25
     },
     {
@@ -3134,7 +3112,7 @@
       "margin": 18,
       "gift": false,
       "priority": 18,
-      "best_partial_match": "Parkside Cutting Disc Set 12 Pack Metal 125mm for ",
+      "best_partial_match": "4-Pack of Energizer Accu Recharge Universal AA Bat",
       "partial_score": 0.2
     },
     {
@@ -3182,17 +3160,6 @@
       "partial_score": 0.5
     },
     {
-      "name": "Cable Ties Bundle",
-      "price": 15.0,
-      "cost": 5.0,
-      "stock": 20,
-      "margin": 10,
-      "gift": false,
-      "priority": 12,
-      "best_partial_match": "UNION (Assa Abloy) Cable Window Door Restrictor",
-      "partial_score": 0.33
-    },
-    {
       "name": "Spray Paint Gold/Bronze",
       "price": 30.0,
       "cost": 0.0,
@@ -3200,7 +3167,7 @@
       "margin": 9,
       "gift": false,
       "priority": 11,
-      "best_partial_match": "Halfords Flexible Vinyl Interior Aerosol Spray Pai",
+      "best_partial_match": "Bosch Paint Spray System 650W",
       "partial_score": 0.5
     },
     {

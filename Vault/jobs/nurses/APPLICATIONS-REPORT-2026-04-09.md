@@ -1,4 +1,4 @@
-﻿# APPLICATIONS REPORT - 2026-04-09
+# APPLICATIONS REPORT - 2026-04-09
 
 ## Summary
 - **Financial Literacy**: âš ï¸ Permission denied (sheet not shared with OAuth account)

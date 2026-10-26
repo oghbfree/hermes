@@ -1,4 +1,4 @@
-﻿
+
 farm
 Nenyi:Waiting for judgment from Cape coast hard copy of 
 Hold on, site plan, plan, sign, from forefathers. sign indenture some one has....kas agreed land to senya...kas went... no one was there. Changing the site plan then indenenture. Is it going to remove the companies name from it what will be the outcome. Will the land goes in your name...hows my name going to reflect on it. What proof that land is mine my ownership 

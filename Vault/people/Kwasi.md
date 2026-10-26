@@ -1,4 +1,4 @@
-﻿- **Kwasi**: WhatsApp: +233247582932
+- **Kwasi**: WhatsApp: +233247582932
   - Manages h's hives and apiary in Ghana
   - Has his own apiary and mushroom business on the side
   - Currently inactive on h's apiary due to funding constraints

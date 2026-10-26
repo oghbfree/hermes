@@ -1,4 +1,4 @@
-﻿# Raw Data Processing Log
+# Raw Data Processing Log
 
 *Last updated: 2026-03-18 18:21*
 

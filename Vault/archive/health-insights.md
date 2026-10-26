@@ -1,4 +1,4 @@
-﻿### Source: Meds\anti bacterial.md
+### Source: Meds\anti bacterial.md
 Processed: 2026-03-13 08:10:13
 ---
 title: anti bacterial

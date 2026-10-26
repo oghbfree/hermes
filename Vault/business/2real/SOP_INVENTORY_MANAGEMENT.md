@@ -1,4 +1,4 @@
-﻿# SOP 3: INVENTORY MANAGEMENT â€” 2 Real Enterprises
+# SOP 3: INVENTORY MANAGEMENT â€” 2 Real Enterprises
 **Version:** 1.0 | **Date:** 2026-05-14
 
 ---

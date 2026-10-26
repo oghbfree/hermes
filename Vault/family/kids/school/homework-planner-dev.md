@@ -1,4 +1,4 @@
-﻿# Homework Planning System - Development Outline
+# Homework Planning System - Development Outline
 
 ## Project: Academic Planner for K (11) & N (10)
 

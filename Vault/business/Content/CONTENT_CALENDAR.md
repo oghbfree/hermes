@@ -29,6 +29,13 @@ _Last updated: 2026-10-18_
 | C-1111 | Akoma Fri Q&A (MYTH VS FACT) | Post+Carousel+reel | IG/FB/TikTok/WA/LI | Scheduled | Fri 23/10 | week-2026-10-19/friday-akoma |
 | C-1112 | 2Real Sat Power weekend special | Post+Carousel+MP | IG/FB/Marketplace/TikTok/WA/LI | Scheduled | Sat 24/10 | week-2026-10-19/saturday-2real · real Jiji prices |
 | C-1113 | Sunday 25/10 WA+FB group posts (REACTIVATED) | Group adverts | 11 WA + 4 FB groups | Scheduled | Sun 25/10 | content-output/sunday-groups/ · 5 stills + paste-ready bundle · AWAITING H approval |
+| C-1114 | Akoma Mon KIDS: CREATORS educational (BUILD A ROBOT) | Post+reel#6 | WA Status/CTWA/FB/TikTok/LI | Scheduled | Mon 26/10 | week-2026-10-26/monday-akoma · awaiting H review |
+| C-1115 | 2Real Tue Power tools & hardware | Post+MP+reel#4 | IG/FB/Marketplace/WA/LI | Scheduled | Tue 27/10 | week-2026-10-26/tuesday-2real · live Jiji prices · Bosch/DeWalt/Ryobi/Stanley |
+| C-1116 | Akoma Wed I BUILT IT MYSELF (kid+robot story) | Post+reel#8 | IG/FB/TikTok/WA/LI | Scheduled | Wed 28/10 | week-2026-10-26/wednesday-akoma · human-story pillar |
+| C-1117 | 2Real Thu Power & light (solar/inverters) + real-builders story | Post+h-story+reel#7 | IG/FB/Marketplace/WA/LI | Scheduled | Thu 29/10 | week-2026-10-26/thursday-2real · LVYUAN/Ring/NEBO · real photo |
+| C-1118 | Akoma Fri MYTH vs FACT | Post+reel#1 | IG/FB/TikTok/WA/LI | Scheduled | Fri 30/10 | week-2026-10-26/friday-akoma · split layout |
+| C-1119 | 2Real Sat Weekend deal Gorilla + testimonial | Post+testimonial+reel#3 | IG/FB/Marketplace/WA/LI | Scheduled | Sat 31/10 | week-2026-10-26/saturday-2real · MA LI KE quote |
+| C-1120 | Sunday 1/11 WA+FB group posts | Group adverts | 11 WA + 4 FB groups | Scheduled | Sun 1/11 | week-2026-10-26/sunday-groups/SUNDAY-GROUPS-PASTE-READY.md · AWAITING H approval |
 | — | (Sunday broadcast/distribution RETIRED 04/10 — replaced by group adverts) | | | | | |
 
 ### Staged (generated, AWAITING H approval to post — nothing posts without H)
@@ -76,6 +83,7 @@ _Pieces move here from Scheduled after H confirms publish. Source: sent-log.md._
 - **Week 2026-10-05** — Generated + branded + copy-verified (Sun engine). 81 PNG + 4 MP4 reels + 57 copy. **AWAITING PUBLISH** (staging/post by H). WhatsApp number updated to **0204252252** (0233352252 retired) 04/10.
 - **Week 2026-10-12** — Generated + copy-verified (Sun engine, Mon–Sat; no Sunday). 73 PNG (all QC-PASS) + 48 copy files + posting-queue.md. **AWAITING PUBLISH** (all PENDING-REVIEW → H approves before anything posts). 2Real prices = real LIVE Jiji.
 - **Week 2026-10-19** — Generated + copy-verified (Sun engine 18/10, Mon–Sat; no Sunday). 68 PNG (56 stills + 12 covers, all QC-PASS) + 48 copy files (0 defects) + posting-queue.md + MASTER_PLAN.md. **AWAITING PUBLISH** (all PENDING-REVIEW → H approves). 2Real prices = real LIVE Jiji (1,305 active). ⚠️ 4th consecutive week staged unreleased since 17/09.
+- **Week 2026-10-26** — Generated + copy-verified (Sun engine 25/10, Mon–Sat + Sunday groups). 17 PNG stills (all QC-PASS) + 30 copy files (all SlopMonster 5/5 CLEAN, 0 defects) + posting-queue.md + STRATEGY_BRIEF.md + MASTER_PLAN.md + sunday-groups/SUNDAY-GROUPS-PASTE-READY.md (11 WA + 4 FB). **AWAITING PUBLISH** (all PENDING-REVIEW → H approves). 2Real prices = real LIVE Jiji (1,310 active). Human-story + testimonial pillars active. Reels = scripts/shotlists ready, MP4 gated on voiceover.
 
 ## Repurposing Queue
 

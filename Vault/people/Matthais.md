@@ -1,4 +1,4 @@
-﻿- **Matthias**: WhatsApp: +233544898392
+- **Matthias**: WhatsApp: +233544898392
   - Known for 6+ years, trusted contact
   - Travels from Agona to New Amanful to check on h's land
   - Has car problems currently â€” affects his ability to travel to sites

@@ -1,4 +1,4 @@
-﻿# Kia Rio Dealer Outreach Templates
+# Kia Rio Dealer Outreach Templates
 
 ## Dashboard Dealers â€” Message Template
 

@@ -1,4 +1,4 @@
-﻿# 2 Real Enterprises â€” SOP Compiled Reference
+# 2 Real Enterprises â€” SOP Compiled Reference
 **Version:** 1.0 | **Date:** 2026-05-14
 
 ---

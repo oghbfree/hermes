@@ -1,4 +1,4 @@
-﻿# Maa Joyce - Relocation Checklist
+# Maa Joyce - Relocation Checklist
 
 **Contact:** TBC
 **Location:** STC Junction, Weija

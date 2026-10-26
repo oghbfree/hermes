@@ -1,4 +1,4 @@
-﻿# HEURISTICS.md - Decision Shortcuts
+# HEURISTICS.md - Decision Shortcuts
 
 Quick IF/THEN rules that remove decision fatigue. Updated monthly.
 When a recurring decision is made 3+ times, encode it here.

@@ -1,4 +1,4 @@
-﻿# Job Applications Report - 2026-04-16
+# Job Applications Report - 2026-04-16
 
 No new submissions today.
 

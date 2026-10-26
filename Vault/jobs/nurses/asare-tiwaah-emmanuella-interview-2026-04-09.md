@@ -1,4 +1,4 @@
-﻿# Interview Notes - Asare Tiwaah Emmanuella (2026-04-09)
+# Interview Notes - Asare Tiwaah Emmanuella (2026-04-09)
 
 ## Q1: First three things to check after long road trip
 she can drive but no licence, offer seat check vitals

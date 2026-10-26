@@ -1,4 +1,4 @@
-﻿# Workflow & System Insights
+# Workflow & System Insights
 
 *Last updated: 2026-03-16 12:01*
 

@@ -1,4 +1,4 @@
-﻿prp deal
+prp deal
 
 Glucose monitor check if my glucose gets lower and lower during the day after 12 hours fasting is it insulinoma. I do a clinoptilolite or Zeolite cleanse, add some milk thistle to mop everything out properly 
 Look up Pmr

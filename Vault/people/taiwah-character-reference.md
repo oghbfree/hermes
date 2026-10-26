@@ -1,4 +1,4 @@
-﻿# Taiwah - AI Influencer Character Reference
+# Taiwah - AI Influencer Character Reference
 
 ## Overview
 - **Name**: Taiwah

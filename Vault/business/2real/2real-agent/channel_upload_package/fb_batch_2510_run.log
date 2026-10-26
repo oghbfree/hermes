@@ -1,0 +1,37 @@
+posting 16524698 | Luceco Solar Guardian 5W Floodlight PIR Motion Sensor Stand Bracket | 500 | cat: Tools | cond: NEW | photo: C:\Users\User\.hermes\workspace\Vault\business\2real\2real-agent\channel_upload_package\photos\16524698_v16524698.jpg
+desc: 'Luceco Solar Guardian 5W solar floodlight, PIR motion sensor, IP65, 550lm 4000K, Li-Ion battery, stand bracket, no wiri…' ...
+attempt 0 -> PUBLISHED
+LOGGED 16524698
+GROUP-SHARE 16524698 -> LOOKUP failed for 'Luceco Solar Guardian 5W Floodlight PIR Motion Sensor Stand Bracket' — sharing skipped (not found/ambiguous) DONE — 0/2 group shares 
+posting 12484092 | Rolson Pro Chisel Set 4pcs — UK Imported, Quality Checked | 500 | cat: Tools | cond: NEW | photo: C:\Users\User\.hermes\workspace\Vault\business\2real\2real-agent\channel_upload_package\photos\12484092_v12484092.jpg
+desc: 'Rolson 56135 4pc CRV steel wood chisel set, heat-treated bevel-edge blades, 10/16/19/25mm, impact-resistant handles Bran' ...
+attempt 0 -> FAIL no file input
+attempt 1 -> FAIL no photo preview
+attempt 2 -> PUBLISHED
+LOGGED 12484092
+GROUP-SHARE 12484092 -> LOOKUP failed for 'Rolson Pro Chisel Set 4pcs — UK Imported, Quality Checked' — sharing skipped (not found/ambiguous) DONE — 0/2 group shares 
+posting 16380484 | Foldable Trolley Red Wagon — UK Imported, Quality Checked | 500 | cat: Tools | cond: USED | photo: C:\Users\User\.hermes\workspace\Vault\business\2real\2real-agent\channel_upload_package\photos\16380484_v16380484.jpg
+desc: 'Foldable red utility wagon, steel frame, fabric bin, 4 wheels, folds flat; garden/camping hauling Pre-owned, fully teste' ...
+attempt 0 -> FAIL no file input
+attempt 1 -> FAIL no photo preview
+attempt 2 -> PUBLISHED
+LOGGED 16380484
+GROUP-SHARE 16380484 -> LOOKUP failed for 'Foldable Trolley Red Wagon — UK Imported, Quality Checked' — sharing skipped (not found/ambiguous) DONE — 0/2 group shares 
+posting 16360539 | Laptop Cooling Fan With LED Four Fans — UK Imported, Quality Checked | 500 | cat: Electronics & computers | cond: USED | photo: C:\Users\User\.hermes\workspace\Vault\business\2real\2real-agent\channel_upload_package\photos\16360539_v16360539.jpg
+desc: 'Laptop cooling pad, 4 built-in quiet fans, blue LED, USB powered, fits standard laptops Good used condition - quality ch' ...
+attempt 0 -> PUBLISHED
+LOGGED 16360539
+GROUP-SHARE 16360539 -> LOOKUP failed for 'Laptop Cooling Fan With LED Four Fans — UK Imported, Quality Checked' — sharing skipped (not found/ambiguous) DONE — 0/2 group shares 
+posting 16360516 | Gaming Laptop Cooling Pad With RGB Six Fans for 11-17.3” Laptop — UK Imported, Quality Checked | 500 | cat: Electronics & computers | cond: NEW | photo: C:\Users\User\.hermes\workspace\Vault\business\2real\2real-agent\channel_upload_package\photos\16360516_v16360516.jpg
+desc: 'TopMate C11 RGB gaming cooler, 6 quiet fans, 7 RGB modes, 5 height settings, 2 USB ports, fits 11-17.3in laptops Brand n' ...
+attempt 0 -> FAIL no file input
+attempt 1 -> FAIL no file input
+attempt 2 -> FAIL no file input
+GAVE UP 16360516
+
+BATCH SUMMARY:
+  16524698: published
+  12484092: published
+  16380484: published
+  16360539: published
+  16360516: gave_up

@@ -1,4 +1,4 @@
-﻿# SOP 5: GRA TAX FILING â€” 2 Real Enterprises
+# SOP 5: GRA TAX FILING â€” 2 Real Enterprises
 **Version:** 1.0 | **Date:** 2026-05-14
 
 ---

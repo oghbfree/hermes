@@ -1,4 +1,4 @@
-﻿# Real Estate Insights — ARCHIVE
+# Real Estate Insights — ARCHIVE
 
 > **🔄 This data is now consolidated in `Vault/insights/real-estate-portfolio.md`**
 > Last updated: 12/8/26 — see master file for current status

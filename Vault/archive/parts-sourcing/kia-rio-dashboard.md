@@ -1,4 +1,4 @@
-﻿# Kia Rio Parts â€” Contact Database
+# Kia Rio Parts â€” Contact Database
 
 **Vehicle**: Kia Rio 1.0 Turbo (T-GDi), 2017 model, UK spec (RHD)
 **Goal**: Convert to LHD for use in Ghana

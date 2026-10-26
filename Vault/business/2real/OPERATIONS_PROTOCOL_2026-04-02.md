@@ -1,4 +1,4 @@
-﻿# 2 Real Enterprises - Operations Protocol
+# 2 Real Enterprises - Operations Protocol
 **Document Date:** 2026-04-02
 **Location:** Warehouse (Ghana)
 **Currency:** GHS (Ghana Cedi)

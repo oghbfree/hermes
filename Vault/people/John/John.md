@@ -1,4 +1,4 @@
-﻿- **John**: Employee, student, works at warehouse. WhatsApp: +233233352252  
+- **John**: Employee, student, works at warehouse. WhatsApp: +233233352252  
   - Student with Monday classes, then works at warehouse
   - First interaction: 2026-03-13 (one off  test at school, heading to warehouse)
 

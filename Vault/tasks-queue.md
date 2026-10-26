@@ -1,4 +1,4 @@
-﻿# \# TASKS\_QUEUE
+# \# TASKS\_QUEUE
 
 # 
 
@@ -170,6 +170,10 @@
   → Notes: Arrange iron and ironing board with Kwasi
   → Due: not specified
   → Flags: [WAITING: Kwasi]
+
+* [ ] **[family | MEDIUM]** — Change Mum's name at UGMC / Focus Hospital to match NHIS card
+  → Notes: Update Mum's registered name at University of Ghana Medical Centre (UGMC) and Focus Hospital so it corresponds with her NHIS card (per H 25/10/26)
+  → Due: not specified
 
 ---
 

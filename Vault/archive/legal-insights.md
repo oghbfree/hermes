@@ -1,4 +1,4 @@
-﻿### Source: Kayl Amo\Court.md
+### Source: Kayl Amo\Court.md
 Processed: 2026-03-13 08:10:13
 ---
 title: Court

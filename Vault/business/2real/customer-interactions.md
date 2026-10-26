@@ -7869,3 +7869,42 @@ Hi
 - **Chat:** 28725395599476
 - **Customer:** so please that is actually price
 - **Reply:** Thank you! 🙏 I've saved your number so you'll be first to know when new stock lands — quality UK tools and gadgets at good prices. Save this number as *2Real Stock Updates* so you don't miss a restock.
+
+## 2026-10-25 10:16
+- **Channel:** whatsapp
+- **Chat:** 28725395599476
+- **Customer:** okay
+- **Reply:** [acknowledgment - no reply sent]
+
+## 2026-10-25 10:20
+- **Channel:** whatsapp
+- **Chat:** 28725395599476
+- **Customer:** okay
+- **Reply:** [acknowledgment - no reply sent]
+
+## 2026-10-25 15:51
+- **Channel:** whatsapp
+- **Chat:** 28725395599476
+- **Customer:** okay
+- **Reply:** [acknowledgment - no reply sent]
+
+## 2026-10-25 15:51
+- **Channel:** whatsapp
+- **Chat:** 158651914449118
+- **Customer:** Received?
+[owner reply] Thank you for your purchase! 🙏 Enjoy the tape. If you have a moment, a review on Jiji helps us a lot — it's how other customers find us: [jiji.com.gh/shop/2real-online]. It takes 30 seconds and helps a small business like ours grow.
+[owner reply] https://jiji.com.gh/opinions/rbPd2oROVhelYWPjYkQWbhpx
+Could you send me his number? It says order already complete again
+- **Reply:** Thank you for your purchase! 🙏 Enjoy the item. If you have a moment, a review on Jiji helps other customers find us — it takes 30 seconds and helps a small business grow: https://jiji.com.gh/shop/2real-online
+
+## 2026-10-25 17:47
+- **Channel:** whatsapp
+- **Chat:** 184220358025300
+- **Customer:** [image received]
+- **Reply:** Thank you for your purchase! 🙏 Enjoy the item. If you have a moment, a review on Jiji helps other customers find us — it takes 30 seconds and helps a small business grow: https://jiji.com.gh/shop/2real-online
+
+## 2026-10-25 17:48
+- **Channel:** whatsapp
+- **Chat:** 184220358025300
+- **Customer:** [image received]
+- **Reply:** Thank you! 🙏 I've saved your number so you'll be first to know when new stock lands — quality UK tools and gadgets at good prices. Save this number as *2Real Stock Updates* so you don't miss a restock.

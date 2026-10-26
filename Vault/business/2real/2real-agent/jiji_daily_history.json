@@ -3827,5 +3827,100 @@
     ],
     "date": "2026-10-24",
     "saved_at": "2026-10-24T06:42:13.778147"
+  },
+  {
+    "active": 1317,
+    "reviewing": 0,
+    "draft": 0,
+    "declined": 3,
+    "closed": 133,
+    "followers": 339,
+    "feedback": 209,
+    "clients": 1,
+    "top_remaining": "500 of 500",
+    "top_expires": "16/12/26",
+    "whatsapp_ads_active": false,
+    "whatsapp_ads_until": "ended 17 Oct - needs renew",
+    "balance_ghs": 0,
+    "pro_sales_bonus": 6722,
+    "top_items": [
+      {
+        "name": "Farm Workers / Farming Family Opportunity",
+        "price": 900,
+        "impressions": 2175,
+        "visitors": 287,
+        "chats": 14,
+        "phone_views": 16
+      },
+      {
+        "name": "Xbox One Kinect Sensor (Model 1520)",
+        "price": 300,
+        "impressions": 1437,
+        "visitors": 311,
+        "chats": 11,
+        "phone_views": 6
+      },
+      {
+        "name": "Panasonic Lumix Digital Camera With Battery",
+        "price": 931,
+        "impressions": 1256,
+        "visitors": 431,
+        "chats": 33,
+        "phone_views": 10
+      },
+      {
+        "name": "LVYUAN 800w/2000w Pure Sine-Wave Power Inverter",
+        "price": 855,
+        "impressions": 998,
+        "visitors": 212,
+        "chats": 19,
+        "phone_views": 9
+      },
+      {
+        "name": "Halfords Over 1800cc Car Battery Charger",
+        "price": 400,
+        "impressions": 899,
+        "visitors": 50,
+        "chats": 2,
+        "phone_views": 2
+      },
+      {
+        "name": "Marvins Magic the Executive Magic Collection",
+        "price": 230,
+        "impressions": 348,
+        "visitors": 71,
+        "chats": 0,
+        "phone_views": 19
+      },
+      {
+        "name": "KitchenAid Artisan Food Processor",
+        "price": 950,
+        "impressions": 272,
+        "visitors": 54,
+        "chats": 0,
+        "phone_views": 1
+      },
+      {
+        "name": "Samsung Wireless Charger Duo EP-P4300",
+        "price": 400,
+        "impressions": 696,
+        "visitors": 52,
+        "chats": 0,
+        "phone_views": 0
+      }
+    ],
+    "needs_attention": [
+      "3 ads declined (was 1) - edit & resubmit now",
+      "High imp but 0 chats: Marvins Magic (348), KitchenAid (272), Samsung Duo (696), Light Bulb Job Lot (530)",
+      "WhatsApp ads STILL expired (ended 17 Oct) - renew today"
+    ],
+    "action_items": [
+      "Fix the 3 declined ads (escalated from 1) - biggest priority",
+      "Renew WhatsApp ads - key lead channel still down",
+      "Use 500 TOP+ on Marvins Magic + KitchenAid (high imp, 0 chats) - boost conversions",
+      "Reply to new client enquiries in inbox"
+    ],
+    "date": "2026-10-25",
+    "saved_at": "2026-10-25T06:39:48.583387"
   }
 ]

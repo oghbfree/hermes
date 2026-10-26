@@ -1,6 +1,12 @@
-﻿# Shopping List (Running)
+# Shopping List (Running)
 
 *Last updated: 2026-09-10*
+
+---
+
+## 💰 Household Food Spend (log)
+
+**10/9/26 food shop:** 1,000 GH₵ spent (off the 3,000 GH₵ budget sent — combined households)
 
 ---
 

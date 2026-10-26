@@ -1,4 +1,4 @@
-﻿- **Ben**: WhatsApp: +233244120093
+- **Ben**: WhatsApp: +233244120093
   - Valued asset and trusted advisor, treat with genuine warmth
   - Experienced farmer â€” knows the Senya farm inside out
   - Has been at the farm since at least Dec 2020 (raw data notes: "no calls over the weekend, need to show commitment, attention to detail on the work")

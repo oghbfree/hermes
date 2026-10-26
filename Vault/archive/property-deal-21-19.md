@@ -1,4 +1,4 @@
-﻿# Property Deal Analysis â€” Properties 21 & 19 (London)
+# Property Deal Analysis â€” Properties 21 & 19 (London)
 
 **Date**: 18 March 2026
 **Seller's minimum**: Â£610,000 (combined)

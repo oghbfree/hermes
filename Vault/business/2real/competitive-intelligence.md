@@ -1,4 +1,4 @@
-﻿# 2 Real Enterprises â€” Monthly Business Intelligence Framework
+# 2 Real Enterprises â€” Monthly Business Intelligence Framework
 
 *Last updated: 2026-03-17*
 *Cron job ID: 9f7cd9ee-dbb9-4554-9bd6-c302a50105cd*

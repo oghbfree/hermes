@@ -1,4 +1,4 @@
-﻿# Health Log
+# Health Log
 
 ## 2026-03-13 (Friday)
 

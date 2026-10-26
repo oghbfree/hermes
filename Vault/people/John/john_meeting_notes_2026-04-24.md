@@ -1,4 +1,4 @@
-﻿# John Meeting Notes - 2026-04-24
+# John Meeting Notes - 2026-04-24
 **Received:** 2026-04-24 14:52 GMT+1
 **Source:** WhatsApp from +233204252252 (2 Real Enterprises)
 **Context:** Handwritten notes from meeting with John

@@ -1,4 +1,4 @@
-﻿9 NEW PHONE PROTOCOL
+9 NEW PHONE PROTOCOL
 
 WhatsApp Business and tracking systems
 

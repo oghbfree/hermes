@@ -1,4 +1,4 @@
-﻿# Interview Notes - TETTEH DORCAS WORLALI (2026-04-09)
+# Interview Notes - TETTEH DORCAS WORLALI (2026-04-09)
 
 ## Q1: First three things to check after long road trip
 makes sure she rested after

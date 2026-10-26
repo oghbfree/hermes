@@ -152,7 +152,7 @@
     },
     {
       "id": "nii_xbox360games",
-      "nudges_sent": 1,
+      "nudges_sent": 2,
       "status": "nudged",
       "created": "2026-10-16T02:04:47.347141",
       "buyer": "Nii",
@@ -160,9 +160,10 @@
       "last_msg_from": "us",
       "last_ts": "2026-10-16T02:04",
       "last_dir": "out",
-      "last_out": "2026-10-18T17:41:12.067556",
-      "updated": "2026-10-18T17:41:12.071813",
-      "note": "18Oct 16:43 nudge MIS-SENT to Doris chat (wrong thread); correct nudge sent to Nii 18Oct evening; nudges_sent incremented."
+      "last_out": "2026-10-25T18:28:07.349137",
+      "updated": "2026-10-25T18:19:16.423839",
+      "note": "18Oct 16:43 nudge MIS-SENT to Doris chat (wrong thread); correct nudge sent to Nii 18Oct evening; nudges_sent incremented.",
+      "listing_title": "Xbox 360 Games CD Assorted Titles"
     },
     {
       "id": {
@@ -258,11 +259,13 @@
     },
     {
       "id": "hellen-magnumplus-talos-690",
-      "nudges_sent": 1,
+      "nudges_sent": 2,
       "status": "nudged",
       "created": "2026-10-18T01:38:38.861549",
       "last_dir": "out",
-      "last_out": "2026-10-18T17:41:12.068954"
+      "last_out": "2026-10-25T18:29:27.145465",
+      "listing_title": "Magnum Plus Talos Anti-Theft Disc Lock (5.5mm pin)",
+      "updated": "2026-10-25T18:28:07.347220"
     },
     {
       "id": "Doris-Leapfrog",
@@ -351,24 +354,24 @@
     },
     {
       "id": "richard-panasonic-stereo",
-      "nudges_sent": 0,
-      "status": "open",
+      "nudges_sent": 2,
+      "status": "nudged",
       "created": "2026-10-21T09:16:52.144172",
       "buyer": "Richard",
       "listing_title": "Panasonic Stereo Tuner Amp Sound System Set Cd,radio,aux, Cassette",
       "last_dir": "out",
-      "last_out": "2026-10-21T09:16:52.144132",
+      "last_out": "2026-10-25T17:15:51.205334",
       "last_msg": "Yes - still available at GHS 650. UK pre-owned, tested working. MoMo/cash. CTA 0204252252"
     },
     {
       "id": "michael-kwesi-karcher-900",
-      "nudges_sent": 0,
-      "status": "open",
+      "nudges_sent": 2,
+      "status": "nudged",
       "created": "2026-10-21T09:17:36.858462",
       "buyer": "Michael Kwesi",
       "listing_title": "Karcher 900 Pressure Washer Pre Owned \u2014 UK Imported, Quality Checked",
       "last_dir": "out",
-      "last_out": "2026-10-21T09:17:36.858439",
+      "last_out": "2026-10-25T17:15:51.205334",
       "last_msg": "Yes - Karcher 900 still available at GHS 1,000. Tested working. MoMo/cash. CTA 0204252252"
     },
     {
@@ -424,15 +427,75 @@
     },
     {
       "id": "rose-dog-agility-hurdle",
-      "nudges_sent": 0,
-      "status": "open",
+      "nudges_sent": 1,
+      "status": "nudged",
       "created": "2026-10-23T17:15:25.138548",
       "buyer": "Rose",
       "listing_title": "Dog Agility Hurdle",
       "price": 600,
       "last_dir": "out",
-      "last_out": "2026-10-23T17:15:25.138509",
+      "last_out": "2026-10-25T17:15:51.205334",
       "last_msg": "Hi Rose! Yes, the Dog Agility Hurdle is still available at GHS 600. UK imported, quality checked. Pickup Oyarifa or Dome, delivery can be arranged. WhatsApp 0204252252 for quick order."
+    },
+    {
+      "id": "famous-halfords-dlock",
+      "nudges_sent": 0,
+      "status": "awaiting_buyer",
+      "created": "2026-10-25T17:08:58.700195",
+      "listing_title": "Halfords 23cm D Lock Plus 120cm Extension Cable",
+      "buyer": "Famous",
+      "price": 500,
+      "last_dir": "out",
+      "last_out": "2026-10-25T17:08:58.700195",
+      "needs_reply": false
+    },
+    {
+      "id": "edward-draper-ratscrew",
+      "nudges_sent": 0,
+      "status": "awaiting_buyer",
+      "created": "2026-10-25T17:08:58.703193",
+      "listing_title": "Draper Ratchet and Screwdriver Bit Set (78 Piece) - 28029",
+      "buyer": "Edward",
+      "price": 650,
+      "last_dir": "out",
+      "last_out": "2026-10-25T17:08:58.700195",
+      "needs_reply": false
+    },
+    {
+      "id": "benedicta-leapfrog-250",
+      "nudges_sent": 0,
+      "status": "awaiting_buyer",
+      "created": "2026-10-25T17:08:58.704192",
+      "listing_title": "Leapfrog 2 in 1 Touch Tablet and Laptop",
+      "buyer": "Benedicta",
+      "price": 250,
+      "last_dir": "out",
+      "last_out": "2026-10-25T17:08:58.700195",
+      "needs_reply": false
+    },
+    {
+      "id": "dora-leapfrog-250",
+      "nudges_sent": 0,
+      "status": "awaiting_buyer",
+      "created": "2026-10-25T17:08:58.706195",
+      "listing_title": "Leapfrog 2 in 1 Touch Tablet and Laptop",
+      "buyer": "Dora",
+      "price": 250,
+      "last_dir": "out",
+      "last_out": "2026-10-25T17:08:58.700195",
+      "needs_reply": false
+    },
+    {
+      "id": "agnes-minelab-gofind22",
+      "nudges_sent": 0,
+      "status": "awaiting_buyer",
+      "created": "2026-10-25T23:35:18.914626",
+      "buyer": "Agnes",
+      "listing_title": "Minelab GO-FIND 22 Metal Detector",
+      "price": 2600,
+      "last_dir": "out",
+      "last_out": "2026-10-25T23:33:00",
+      "note": "Replied in stock at GHS2600 + CTA 25Oct 23:33"
     }
   ],
   "nudge_policy": {

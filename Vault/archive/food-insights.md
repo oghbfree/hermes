@@ -1,4 +1,4 @@
-﻿### Source: Food & Drink\10 Quirky Facts About Mass-produced Food _ Discove.md
+### Source: Food & Drink\10 Quirky Facts About Mass-produced Food _ Discove.md
 Processed: 2026-03-13 08:10:13
 ---
 title: '10 Quirky Facts About Mass-produced Food : Discovery Channel'

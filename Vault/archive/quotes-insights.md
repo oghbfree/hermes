@@ -1,4 +1,4 @@
-﻿### Source: Quotes\Arthur Ashe Why Me_.md
+### Source: Quotes\Arthur Ashe Why Me_.md
 Processed: 2026-03-13 08:10:18
 ---
 title: Arthur Ashe Why Me?

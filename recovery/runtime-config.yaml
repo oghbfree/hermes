@@ -41,7 +41,7 @@ approvals:
   destructive_slash_confirm: true
   mcp_reload_confirm: true
   mode: manual
-  timeout: 185
+  timeout: 238
 auxiliary:
   approval:
     api_key: ''

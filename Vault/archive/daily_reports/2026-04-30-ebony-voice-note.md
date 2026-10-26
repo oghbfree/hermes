@@ -1,4 +1,4 @@
-﻿# Voice Note from Ebony - 2026-04-30 09:00 BST
+# Voice Note from Ebony - 2026-04-30 09:00 BST
 
 ## Summary
 Ebony sent a lengthy, emotional voice note. She is at breaking point — overwhelmed with caring for the children alone, dealing with a sick child (Kwamena), no car, and feeling abandoned. Key points:

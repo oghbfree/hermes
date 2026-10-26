@@ -634,6 +634,12 @@
 | 🍠 15:00 | 2 pieces roasted plantain + peanuts |
 | 💊 | Vitamin C, Vitamin B |
 
+### Sun 25 Oct
+| Meal | Items |
+|------|-------|
+| ☀️ Breakfast | 4 fried eggs |
+| ☀️ Lunch | Banku with grasscutter light soup |
+
 ---
 
 ## 📈 Nutritional Trends *(updated with gap-fill data)*

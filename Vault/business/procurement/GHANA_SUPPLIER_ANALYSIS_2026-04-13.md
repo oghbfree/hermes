@@ -1,4 +1,4 @@
-﻿# Ghana Supplier Analysis - 2026-04-13
+# Ghana Supplier Analysis - 2026-04-13
 
 | Supplier Name | Price | Stock | Lead Time | Quality | Steering Conv. | Dash Change | Recommendation | Next Action |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |

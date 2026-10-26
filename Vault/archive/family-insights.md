@@ -1,4 +1,4 @@
-﻿# Family Insights
+# Family Insights
 
 *Last updated: 2026-04-27 04:51*
 

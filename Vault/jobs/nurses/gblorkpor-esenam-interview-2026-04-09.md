@@ -1,4 +1,4 @@
-﻿# Interview Notes - Gblorkpor Esenam (2026-04-09)
+# Interview Notes - Gblorkpor Esenam (2026-04-09)
 
 ## Q1: First three things to check after long road trip
 Warm welcome, offer her a seat

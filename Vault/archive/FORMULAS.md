@@ -1,4 +1,4 @@
-﻿# FORMULAS.md - Proven Success Patterns
+# FORMULAS.md - Proven Success Patterns
 
 Every success teaches a formula. This file documents what DOES work based on repeated validation.
 

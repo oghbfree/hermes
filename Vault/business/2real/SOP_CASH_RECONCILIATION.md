@@ -1,4 +1,4 @@
-﻿# SOP 2: CASH RECONCILIATION â€” 2 Real Enterprises
+# SOP 2: CASH RECONCILIATION â€” 2 Real Enterprises
 **Version:** 1.0 | **Date:** 2026-05-14
 
 ---

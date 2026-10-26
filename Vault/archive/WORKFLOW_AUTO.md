@@ -1,4 +1,4 @@
-﻿# WORKFLOW_AUTO.md - Automated Startup Workflow
+# WORKFLOW_AUTO.md - Automated Startup Workflow
 
 This file defines what happens automatically on startup and every 48 hours.
 Executor: **orchestrator** (primary). All output logged to `memory/YYYY-MM-DD.md` and #cron-status.

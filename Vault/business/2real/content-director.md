@@ -1,4 +1,4 @@
-﻿# 2Real Content Director â€” Gemini Gem Setup
+# 2Real Content Director â€” Gemini Gem Setup
 
 *Copy everything below the line into your Gemini Gem's "Instructions" field.*
 *Then save as a Gem named: **2Real Content Director***

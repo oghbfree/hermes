@@ -12,7 +12,15 @@
     {
       "date": "2026-10-12",
       "gap_remaining": 294
+    },
+    {
+      "date": "2026-10-19",
+      "gap_remaining": 332
+    },
+    {
+      "date": "2026-10-26",
+      "gap_remaining": 291
     }
   ],
-  "gap_remaining": 294
+  "gap_remaining": 291
 }

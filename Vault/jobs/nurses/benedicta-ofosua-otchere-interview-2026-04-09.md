@@ -1,4 +1,4 @@
-﻿# Interview Notes - Benedicta ofosua otchere (2026-04-09)
+# Interview Notes - Benedicta ofosua otchere (2026-04-09)
 
 ## Q1: First three things to check after long road trip
 let her rest for a while
