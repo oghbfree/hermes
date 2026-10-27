@@ -496,6 +496,21 @@
       "last_dir": "out",
       "last_out": "2026-10-25T23:33:00",
       "note": "Replied in stock at GHS2600 + CTA 25Oct 23:33"
+    },
+    {
+      "id": {
+        "thread_id": "gaggenau-stephanie-doh",
+        "buyer": "Stephanie (Doh Edzenyunye)",
+        "item_title": "Gaggenau Industrial Deep Fryer From UK",
+        "price": 1000,
+        "last_msg_from": "us",
+        "last_msg_time": "2026-10-26 22:5x",
+        "note": "Replied: available, GHS1000, MoMo/cash, pickup Oyarifa, 0204252252"
+      },
+      "nudges_sent": 0,
+      "status": "open",
+      "created": "2026-10-26T22:57:00.026963",
+      "updated": "2026-10-26T22:57:44.117078"
     }
   ],
   "nudge_policy": {

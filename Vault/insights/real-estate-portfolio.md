@@ -298,6 +298,9 @@
 - ✅ Sent **20 GHS** for transport
 - ⏳ Odoom to confirm spraying finished by **Monday**
 
+**Check-in sent (26/10/26):**
+- 📲 WhatsApp check-in sent to Godfred Odoom (233240484465) — site status, weeding/spraying, weed burning schedule, coconut trees, needs/observations. Awaiting reply.
+
 **Additional instructions for Odoom:**
 - Check the burning of dry weeds — does it need to be done again?
 - Mix ashes from burning **with the fertiliser**

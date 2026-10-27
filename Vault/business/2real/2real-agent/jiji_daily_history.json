@@ -3922,5 +3922,121 @@
     ],
     "date": "2026-10-25",
     "saved_at": "2026-10-25T06:39:48.583387"
+  },
+  {
+    "active": 1327,
+    "reviewing": 0,
+    "draft": 0,
+    "declined": 1,
+    "closed": 133,
+    "followers": 339,
+    "feedback": 210,
+    "clients": 1,
+    "top_remaining": "500 of 500",
+    "top_expires": "16/12/26",
+    "whatsapp_ads_active": false,
+    "whatsapp_ads_until": "ended 17 Oct - needs renew",
+    "balance_ghs": 0,
+    "pro_sales_bonus_ghs": 6622,
+    "top_items": [
+      {
+        "name": "Female Private Driver",
+        "price": 0,
+        "impressions": 6007,
+        "visitors": 750,
+        "phone_views": 27,
+        "chats": 18
+      },
+      {
+        "name": "Live in Private Nurse / Under Graduate Nurse for Elderly Care",
+        "price": 0,
+        "impressions": 3485,
+        "visitors": 540,
+        "phone_views": 25,
+        "chats": 14
+      },
+      {
+        "name": "Elite Construction Team Wanted - Foremen All Trades",
+        "price": 0,
+        "impressions": 3259,
+        "visitors": 537,
+        "phone_views": 26,
+        "chats": 20
+      },
+      {
+        "name": "Live-in Graduate Nurse For Private Elderly Care (Accra)",
+        "price": 0,
+        "impressions": 2992,
+        "visitors": 607,
+        "phone_views": 24,
+        "chats": 10
+      },
+      {
+        "name": "Financial Literacy Facilitator",
+        "price": 0,
+        "impressions": 2846,
+        "visitors": 223,
+        "phone_views": 5,
+        "chats": 2
+      },
+      {
+        "name": "Facilitator for a Child With Autism",
+        "price": 1000,
+        "impressions": 2514,
+        "visitors": 344,
+        "phone_views": 14,
+        "chats": 8
+      },
+      {
+        "name": "Building an Elite Construction Team",
+        "price": 0,
+        "impressions": 2321,
+        "visitors": 339,
+        "phone_views": 12,
+        "chats": 10
+      },
+      {
+        "name": "Robotics/Coding Training Facilitator (Part-Time/Contract)",
+        "price": 0,
+        "impressions": 2249,
+        "visitors": 209,
+        "phone_views": 9,
+        "chats": 5
+      },
+      {
+        "name": "Farm Workers / Farming Family Opportunity",
+        "price": 800,
+        "impressions": 2150,
+        "visitors": 303,
+        "phone_views": 16,
+        "chats": 15
+      },
+      {
+        "name": "Robotics Coding Facilitator \u2013 Akoma Robotics (Commission-Based)",
+        "price": 0,
+        "impressions": 2020,
+        "visitors": 174,
+        "phone_views": 4,
+        "chats": 2
+      }
+    ],
+    "needs_attention": [
+      "1 ad still declined (was 3 yesterday, 2 fixed) - find and resubmit the remaining one",
+      "High imp / 0 chats: Samsung Wireless Charger Duo (727), Olympus FE-170 (642), Smart Air Compressor (609), Moveable Ramps (536), Light Bulb Job Lot (530)",
+      "Marvin's Magic 348 imp / 25 phone views / 0 chats - strong phone interest, chase by call",
+      "Learning Resources Measure-Mate: 465 imp / 70 vis / 18 phone views / 0 chats",
+      "GHS 0 balance - recharge; Pro Sales budget banner says raise it for more hot leads",
+      "WhatsApp ads still expired (ended 17 Oct) - renewal unconfirmed"
+    ],
+    "action_items": [
+      "Reply fast to hot ads with live calls: Elite Construction Team (20 chats), Female Private Driver (18), Farm Workers (15), LVYUAN Inverter (19), Panasonic Lumix (36)",
+      "Follow today's chat movers: LG Tallboy Speaker (+2 today), Yamaha PSR-150 (+1), Stanley Pocket Knife (+1), Oxford GP Chain (+1), Anycubic 3D printer (+1)",
+      "Fix the last declined ad",
+      "Renew WhatsApp ads (expired 17 Oct) before Christmas push",
+      "Use 500 TOP+ credits (valid to 16/12/26) on Christmas hot items - Xbox Kinect (1420 imp/11 chats), Nintendo Wii (1194/8), PS/Lumix",
+      "Raise Pro Sales budget - banner flagging more hot leads available"
+    ],
+    "date": "2026-10-26",
+    "saved_at": "2026-10-26T06:35:31.524206"
   }
 ]

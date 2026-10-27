@@ -55,11 +55,19 @@ def _api_get(path):
 
 
 def leads_from_potential_clients(typ):  # 56 contact_view, 67 saved_ad, 58 callback
-    body = _api_get(f'potential-clients?type={typ}')
+    # Paginate: follow result.next_url (-> type=T&page=N) until null, ~20/page.
     out = []
-    try:
-        res = json.loads(body or '{}').get('result') or {}
-        for item in res.get('leads') or []:
+    page = 1
+    while True:
+        path = f'potential-clients?type={typ}' + (f'&page={page}' if page > 1 else '')
+        body = _api_get(path)
+        try:
+            res = json.loads(body or '{}').get('result') or {}
+        except Exception as e:
+            print(f"type{typ} page{page} parse err:", e)
+            break
+        items = res.get('leads') or []
+        for item in items:
             u = item.get('lead_user') or {}
             a = item.get('advert') or {}
             name = ((u.get('first_name') or '').strip() + ' ' + (u.get('last_name') or '').strip()).strip() or str(u.get('user_id') or '')
@@ -74,8 +82,11 @@ def leads_from_potential_clients(typ):  # 56 contact_view, 67 saved_ad, 58 callb
                 "phone": u.get('phone') or '',
                 "source": {56: 'contact_view', 67: 'saved_ad', 58: 'callback'}[typ],
             })
-    except Exception as e:
-        print(f"type{typ} parse err:", e)
+        nx = res.get('next_url')
+        if not nx or not items:
+            break
+        page += 1
+        time.sleep(0.4)
     return out
 
 

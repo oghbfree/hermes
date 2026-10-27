@@ -103,3 +103,42 @@ Others: MERAKEE Enterprise (East Legon), First Icon (Accra), THESSCO ENT (Kwashi
 - Black & Decker 18V Hammer Kit GH₵ 1,500 · Bosch GBH 24V SDS GH₵ 1,350 · Saber 18V Combi GH₵ 600 — all under combos ✓
 - Stanley LED Utility Light GH₵ 350 & Gorilla/LEGO/new-stock hero lines sit outside the tool bands (gift/consumables) — not compared.
 - **No 2Real featured item priced above its category benchmark.** No reprice required this week.
+
+---
+
+## WEEK 27/10/26 — LIVE SCAN (logged-in Jiji DOM, all prices captured live; own 2Real ads identified & excluded)
+
+### Power Tools / Drills — MAJOR: combo floor COLLAPSED + new brand-new entry at ~600
+- **Oraimo MaxDrill 20V Cordless — new flood of brand-new units at GH₵ 580–630** across MANY sellers (Madina / **2X Enterprise**, Accra Metro, Dansoman, Sowutwuom, Cape Coast, Kumasi). New brand-new 20V cordless floor sits at ~GH₵ 600 — well below the old 850 single-drill ceiling.
+- **Combo band floor fell from GH₵ 2,500 → ~1,160–1,850:** TOTAL 20V Drill+Wrench Kit GH₵ 1,850 · EMTOP 20V Brushless Drill+Impact Wrench GH₵ 1,399 (Kumasi) · INGCO 2pc Drill+Blender GH₵ 1,160 · INGCO 3pc (Drill+Grinder+Wrench) GH₵ 2,300 · Cordless CKLI2006 2pc GH₵ 2,380 · 3-in-1 (Drill+Laser) GH₵ 1,950.
+- **New top:** Dewalt 20V Impact Drill Combo DCK283D2 GH₵ 4,500 (Kaneshie, **POWER TOOLS MALL**) — breaks the old 4,000 top.
+- Singles: DCA 1100W rotary hammer GH₵ 1,399 (Adabraka ×2) · INGCO 1500w GH₵ 1,200 (Accra Metro) · 58V Rechargeable Drill+Toolbox GH₵ 680 (Tesano) · 4-in-1 Rechargeable Drill+Concrete Cutter GH₵ 2,600 (Spintex).
+- **2Real OWN ads ranking in top-15 for 'power drill':** B&D 520W UK Used GH₵ 580 (Dome) + B&D BD664 400W Used GH₵ 500 (Dome) — good native visibility.
+
+### Hand Tools — floor HOLDS at GH₵ 449 (no further drop)
+- INGCO 32pc GH₵ 449 (Circle) unchanged · INGCO 32pc GH₵ 561 (Dansoman, ENTERPRISE) · INGCO 9pc GH₵ 275 (New Town) · 85pc GH₵ 375 (Kokomlemle, ENTERPRISE) · 175pc GH₵ 715 (Kumasi) · 168pc GH₵ 700 (Accra Metro)/780 (Ga West) · 120pcs GH₵ 899 (Cantonments)/970 (East Legon).
+- Insulated holds: 16pc GH₵ 1,040 (Kumasi) · 26pc GH₵ 3,175 (Lapaz) · INGCO 26pc GH₵ 4,400 (Accra Metro). 66pc Brushless Drill+Hand set GH₵ 2,699 (Accra New Town, DIAMOND) holds.
+- Entry band stable ~275–449 (new 9pc entry rate: GH₵ 275).
+
+### Generators — 7kva inverter genset BACK and CHEAPER (GH₵ 4,000–6,000)
+- Ecoolmax 7kva: GH₵ 6,000 ×2 · 5,000 ×2 · **4,000 (new low)**. 7.5kva diesel GH₵ 6,000. **Sub-6k band reappeared** (last week it had vanished).
+- 10kva: GH₵ 14,000 · 13,000 · 12,000 ×3 · 11,000 · **10,000 (new low, petrol 14kw)** · 9,000 for 12kva Ecoolmax.
+- Industrial/diesel (not 2Real band): Perkins 10kva GH₵ 21,000–27,000 · 15kva Easystarter GH₵ 27,940 · 35kva Perkins GH₵ 150,000.
+
+### Solar / Inverters — low end holds; new mid entrants
+- Low holds: 3000w/24v GH₵ 1,600 (Tema) · Sturnus 2000VA GH₵ 4,000 (New Town) · Sturnus 1000va GH₵ 3,600 · Sako 3kva (refurb) GH₵ 4,200 (East Legon) · 3kw pure-sine GH₵ 3,500 (Kumasi).
+- **New mid entrants:** Menshark 6kw GH₵ 5,300 (Accra Metro) · 6.2kw Hybrid GH₵ 5,800 · Evada 5kw 48v GH₵ 6,000 · Galaxy 5kw GH₵ 7,800/8,400 · Ivem Felicity 48v 8kw GH₵ 8,000 (holds) · Cwups 10.2kw GH₵ 18,910 (Accra Metro, new top-mid).
+
+### Electronics — unchanged (repair-shop dominated)
+- Still "Contact for price" repair shops (Mark Electronics/Agbogba). Products: Nasco AC 1.5hp GH₵ 2,799–2,999 · Nasco 6kg Washing Machine GH₵ 2,999 · Delta 12v Adaptor GH₵ 250 · Electronics Cleaner GH₵ 45. No product competitor moves.
+
+### EJ DEALS (UK source)
+- **UNREACHABLE this week — ejdeals.co.uk DNS fails again** (Non-existent domain). No new-stock read. Holds as a potential UK surplus source only.
+
+### Own-positioning — ONE PRICING RISK (Parkside)
+- **⚠ Parkside 20V Drill/Driver Set GH₵ 2,300 — NOW ABOVE combos.** Last week's "below the 2,500 combos ✓" is no longer safe: the combo floor collapsed to GH₵ 1,160–1,850 (TOTAL 1,850, EMTOP brushless drill+impact wrench 1,399, INGCO 2pc 1,160) — all brand-new. **Reprice Parkside to ≤ GH₵ 1,850 or bundle with a bit set to justify the 2,300.**
+- Makita 6281d Drill + Charger GH₵ 850 — at the new single-drill ceiling; OK (Makita brand premium + charger included) but the Oraimo brand-new 20V at 580–630 is direct pressure → **watch**. Consider 750–800.
+- Saber 18V Combi GH₵ 600 vs brand-new Oraimo 20V at 580–630 — at/above a brand-new competitor; hold for now (combi spec justifies) but flag.
+- Bosch Hammer 500W GH₵ 680 · DeWalt Impact Wrench GH₵ 850 · Ryobi 18V Combi GH₵ 1,500 · Stanley Locking Pliers GH₵ 220 (this week's FB featured) — all at/below band ✓
+- B&D 18V Hammer Kit GH₵ 1,500 · Bosch GBH 24V SDS GH₵ 1,350 — under combos ✓
+- **Flag for H: Parkside needs a reprice (2,300 → ≤1,850, or bundle).**

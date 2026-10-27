@@ -176,7 +176,7 @@ def wa_post_next(count=15):
     done=0
     for x in queue:
         if done>=count: break
-        jid=x['jiji_id']
+        jid=str(x['jiji_id'])  # posted.json stores ids as strings
         if jid in posted:
             continue
         photo=os.path.join(pkg, x['photo'])

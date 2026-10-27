@@ -27,6 +27,7 @@ Single source of truth for recurring hard deadlines and open loops that must not
 | **Jiji declined ad — Daewoo smartwatch** | — | Jiji | Re-submit declined listing |
 | **act ICT — 500W inverters @ GH₵ 970** | 20 Oct | daily-sales-log 20/10 | Confirm quantity (qty not stated); add to total |
 | **White paint — price & cost** | 22 Oct | daily-sales-log 22/10 | Confirm price + cost for COGS entry |
+| **Theresa Elorm Seshie — kids 43pc set** | 10 Oct | daily-sales-log | Cost not stated (sold 195) — confirm for COGS; potential repeat Xmas party orders |
 | **B2B repeat-buyer broadcast** | ongoing | b2b-wholesale-leads.md | WhatsApp **Eric** (Enterprise Ins) when office/IT stock lands; **Dr Lomotey** (Cocoa Clinic) for furniture/office; **tool lover** 0245849519 for mechanic's tools |
 
 ---
