@@ -511,6 +511,19 @@
       "status": "open",
       "created": "2026-10-26T22:57:00.026963",
       "updated": "2026-10-26T22:57:44.117078"
+    },
+    {
+      "id": {
+        "id": "adzidobo-leapfrog",
+        "buyer": "Adzidobo",
+        "listing_title": "Kids Tablet and Laptop Foldable Leapfrog",
+        "price": 250,
+        "direction": "out",
+        "listing_id": "16377526"
+      },
+      "nudges_sent": 0,
+      "status": "open",
+      "created": "2026-10-27T17:28:57.596190"
     }
   ],
   "nudge_policy": {

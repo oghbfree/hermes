@@ -279,9 +279,9 @@ def _post_one(jid, researched=""):
     dst_photo = src_photo[:-4] + '_v%d.jpg' % jid
     varied = G['vary_photo'](src_photo, dst_photo)
     tlow = title.lower()
-    if any(w in tlow for w in ('tp-link', 'defender', 'printer', 'laptop', 'monitor', 'router', 'mercusys', 'gps', 'apple tv', 'acer', 'mouse', 'intercom', 'camera', 'kinect', 'wii', 'nintendo', 'xbox', 'playstation', 'synthesizer', 'hi-fi', 'hifi', 'stereo', 'mac mini', 'macmini')):
+    if any(w in tlow for w in ('tp-link', 'defender', 'printer', 'laptop', 'monitor', 'router', 'mercusys', 'gps', 'apple tv', 'acer', 'mouse', 'intercom', 'camera', 'kinect', 'wii', 'nintendo', 'xbox', 'playstation', 'synthesizer', 'hi-fi', 'hifi', 'stereo', 'mac mini', 'macmini', 'speaker', 'amp')):
         category = 'Electronics & computers'
-    elif 'lego' in tlow or 'toy' in tlow:
+    elif any(w in tlow for w in ('lego', 'toy', 'baby', 'walker', 'kids')):
         category = 'Toys'
     elif any(w in tlow for w in ('tequila', 'shower rail', 'juicer', 'barbecue')):
         category = 'Miscellaneous'

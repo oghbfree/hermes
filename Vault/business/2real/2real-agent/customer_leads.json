@@ -8502,5 +8502,24 @@
     "first_seen": "2026-10-26 13:57",
     "stage": "review_sent",
     "purchases": 1
+  },
+  {
+    "chat_id": "45015820673152",
+    "first_seen": "2026-10-27 09:45",
+    "stage": "review_sent",
+    "purchases": 1
+  },
+  {
+    "chat_id": "59206728184000",
+    "first_seen": "2026-10-27 10:10",
+    "stage": "review_sent",
+    "purchases": 1
+  },
+  {
+    "chat_id": "79302611746967",
+    "first_seen": "2026-10-27 11:11",
+    "stage": "saved",
+    "purchases": 1,
+    "last_seen": "2026-10-27 11:11"
   }
 ]

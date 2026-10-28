@@ -4038,5 +4038,120 @@
     ],
     "date": "2026-10-26",
     "saved_at": "2026-10-26T06:35:31.524206"
+  },
+  {
+    "active": 1326,
+    "reviewing": 0,
+    "draft": 0,
+    "declined": 2,
+    "closed": 133,
+    "followers": 340,
+    "feedback": 210,
+    "clients": 1,
+    "top_remaining": "500 of 500",
+    "top_expires": "16/12/26",
+    "whatsapp_ads_active": false,
+    "whatsapp_ads_until": "ended 17 Oct - renewal unconfirmed",
+    "balance_ghs": 0,
+    "pro_sales_bonus_ghs": 6522,
+    "top_items": [
+      {
+        "name": "Female Private Driver",
+        "price": 0,
+        "impressions": 6027,
+        "visitors": 757,
+        "chats": 18,
+        "phone_views": 29
+      },
+      {
+        "name": "Live in Private Nurse / Under Graduate Nurse for Elderly Care",
+        "price": 0,
+        "impressions": 3440,
+        "visitors": 549,
+        "chats": 15,
+        "phone_views": 26
+      },
+      {
+        "name": "Elite Construction Team Wanted - Foremen All Trades",
+        "price": 0,
+        "impressions": 3207,
+        "visitors": 540,
+        "chats": 20,
+        "phone_views": 26
+      },
+      {
+        "name": "Live-in Graduate Nurse For Private Elderly Care (Accra)",
+        "price": 0,
+        "impressions": 2972,
+        "visitors": 613,
+        "chats": 11,
+        "phone_views": 25
+      },
+      {
+        "name": "Financial Literacy Facilitator",
+        "price": 0,
+        "impressions": 2864,
+        "visitors": 226,
+        "chats": 2,
+        "phone_views": 5
+      },
+      {
+        "name": "Facilitator for a Child With Autism",
+        "price": 1250,
+        "impressions": 2524,
+        "visitors": 351,
+        "chats": 8,
+        "phone_views": 14
+      },
+      {
+        "name": "Building an Elite Construction Team",
+        "price": 0,
+        "impressions": 2324,
+        "visitors": 342,
+        "chats": 11,
+        "phone_views": 12
+      },
+      {
+        "name": "Robotics/Coding Training Facilitator (Part-Time/Contract)",
+        "price": 0,
+        "impressions": 2245,
+        "visitors": 210,
+        "chats": 5,
+        "phone_views": 9
+      },
+      {
+        "name": "Farm Workers / Farming Family Opportunity",
+        "price": 900,
+        "impressions": 2138,
+        "visitors": 309,
+        "chats": 15,
+        "phone_views": 16
+      },
+      {
+        "name": "Xbox One Kinect Sensor (Model 1520)",
+        "price": 300,
+        "impressions": 1381,
+        "visitors": 317,
+        "chats": 11,
+        "phone_views": 6
+      }
+    ],
+    "needs_attention": [
+      "2 ads DECLINED (up from 1 yesterday) - resubmit now: 1) Stanley 93x190mm Sanding Sheets GHS120 (reason: Switch to Hand Tools) 2) Genuine Daewoo CNX+ Smartwatch GHS550 (reason: Switch to Smart Watches)",
+      "High imp / 0 chats: Samsung Wireless Charger Duo (726), Lowenergie Light Switch (698), Olympus FE-170 (648), Smart Air Compressor (602), Moveable Ramps (537), Light Bulb Job Lot (517)",
+      "Marvin's Magic 559 imp / 48 phone views / 0 chats - strong phone interest, chase by call",
+      "Learning Resources Measure-Mate 477 imp / 73 vis / 18 phone views / 0 chats",
+      "GHS 0 balance - recharge; Pro Sales bonus 6,522 (down 100)"
+    ],
+    "action_items": [
+      "Resubmit both declined ads (fix categories per Jiji reason)",
+      "Reply fast to hot ads with live calls: Elite Construction Team (20 chats), Female Private Driver (18), Farm Workers (15), Live-in Nurse (15), Panasonic Lumix (37)",
+      "Chase by call high-phone-view no-chat items: Marvin's Magic (48 pv), Measure-Mate (18 pv), Samsung Charger Duo (0/726 imp)",
+      "Renew WhatsApp ads (expired 17 Oct) before Christmas push",
+      "Use 500 TOP+ credits (valid to 16/12/26) on Christmas hot items - Xbox Kinect (1381 imp/11 chats), Xbox 360 Speed Wheel (1193/9), Panasonic Lumix (1218/37)",
+      "Raise Pro Sales budget - banner flagging more hot leads available; bonus now 6,522"
+    ],
+    "date": "2026-10-27",
+    "saved_at": "2026-10-27T06:45:35.485746"
   }
 ]

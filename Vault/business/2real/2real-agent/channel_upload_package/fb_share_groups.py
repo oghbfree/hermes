@@ -34,12 +34,14 @@ SLEEP_BETWEEN = 8
 
 JS_BY_TEXT = """(label, exact) => {{
   const want = String({label!r}).trim();
-  const norm = s => s.replace(/\\s+/g,' ').trim().toLowerCase();
+  const norm = s => (s||'').replace(/\\s+/g,' ').trim().toLowerCase();
+  const want_norm = norm(want).replace(/[^a-z0-9 ]/g,'');
   // 1) any clickable element containing the text (whole document; FB dialog shells
   //    pollute [role=dialog] arrays so we do NOT scope there)
-  for (const e of [...document.querySelectorAll('div[role=button],a[role=link],span[role=button],a[role=option],div[role=option],div[role=checkbox],div[role=radio],div[role=menuitem]')]) {{
-    const t = (e.innerText||'').trim().replace(/\\s+/g,' ');
-    if ({exact} ? t.toLowerCase()===want.toLowerCase() : t.toLowerCase().includes(want.toLowerCase())) {{
+  for (const e of [...document.querySelectorAll('div[role=button],a[role=link],span[role=button],a[role=option],div[role=option],div[role=checkbox],div[role=radio],div[role=menuitem],div[role=listitem]')]) {{
+    const t = norm(e.innerText);
+    const t_norm = t.replace(/[^a-z0-9 ]/g,'').trim();
+    if ({exact} ? (t === want_norm || t_norm === want_norm || t_norm.startsWith(want_norm) || t.startsWith(want)) : (t.includes(want.toLowerCase()) || t_norm.includes(want_norm))) {{
       const rc = e.getBoundingClientRect();
       if (rc.width>0 && rc.height>0) return JSON.stringify({{x:rc.x+rc.width/2, y:rc.y+rc.height/2}});
     }}
@@ -47,7 +49,7 @@ JS_BY_TEXT = """(label, exact) => {{
   // 2) visible leaf node with exact text (group names are bare SPANs)
   for (const e of [...document.querySelectorAll('span,div,a')]) {{
     if (e.children && e.children.length>0) continue;
-    if (norm(e.innerText||'')!==want.toLowerCase()) continue;
+    if (norm(e.innerText||'') !== want_norm && !norm(e.innerText||'').startsWith(want_norm)) continue;
     if (!e.offsetParent) continue;
     const rc = e.getBoundingClientRect();
     if (rc.width>0 && rc.height>0) return JSON.stringify({{x:rc.x+rc.width/2, y:rc.y+rc.height/2}});
@@ -66,8 +68,6 @@ def click_by_text(label, exact=True, tries=8, delay=1.5):
             return True
         time.sleep(delay)
     return False
-
-
 def open_share_dialog():
     """Return True if the Share dialog (with 'Group' share-to) is visible."""
     C.js("""(() => {
@@ -183,8 +183,10 @@ def share_one_listing(url):
                 msgs.append(f'{g}: no share dialog'); close_dialog(); continue
             if not click_share_to_group():
                 msgs.append(f'{g}: group picker did not open'); close_dialog(); continue
-            type_group_search(g)
-            if not click_by_text(g, exact=True, tries=6, delay=1.5):
+            # 27 Oct 26: don't type into 'Search for groups' — the sidebar "All
+            # groups" list already renders the target rows and typing triggers a
+            # re-render that breaks the row click. Click the row directly.
+            if not click_by_text(g, exact=True, tries=8, delay=1.5):
                 msgs.append(f'{g}: group row not found (search: {g})'); close_dialog(); continue
             time.sleep(1.5)
             if not click_by_text('Share now', exact=True, tries=6, delay=1.5):

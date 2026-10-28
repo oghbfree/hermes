@@ -7,6 +7,8 @@
 | Buyer | Phone | What they buy | Notes |
 |---|---|---|---|
 | (tool-lover) | 024 584 9519 | mechanic's tools | bought 4 items in one order 07/10; "wants more mechanic's tools" — save for list |
+| **Edwin Kwabena Adubofuor** | 055 025 3348 | tile drill bits, universal fit packs | contractor w/ ministries contract 27/10 — B2B tool/consumables repeat potential |
+| **Theophilus** (Airbnb) | 050 059 9813 | Master Lock 5400D lock box | Airbnb host 27/10 — wants Airbnb-related items; cross-sell target |
 
 ## 🟡 Named, need number → high-value targets (fill in from WhatsApp threads)
 | Buyer | What they buy | Why they matter | Phone? |
@@ -18,6 +20,8 @@
 | **Mr Swindoll** | Bosch jigsaw + barter (Commando Balm) | repeat + promotes your balm | ❓ |
 | **Blessed** | kids' VTech/LeapFrog (3 purchases) | family-electronics repeat | ❓ |
 | **Mr Berry** | power tools (circular saw) | first-customer-deal walk-in | ❓ |
+| **Emmanuel** | tennis rackets (Head + Wilson) | met at tennis Mon 26/10; sports/rackets repeat | ❓ |
+| **walk-in welder** | Makita 110v angle grinder | welder 27/10 — grinding discs/rods consumables potential | ❓ |
 
 ## 🏢 B2B / business leads (invoice + relationship)
 | Business | What they buy | Why they matter | Contact |
