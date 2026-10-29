@@ -116,9 +116,9 @@
     "tested": "no",
     "works": "n/a",
     "condition": "",
-    "status": "TO_TEST",
-    "note": "auto-seeded from Jiji",
-    "last_updated": "2026-10-20"
+    "status": "SOLD",
+    "note": "auto-seeded from Jiji | left Jiji, marked SOLD 28/10/26",
+    "last_updated": "2026-10-29"
   },
   {
     "jiji_id": "imXHpWopYMdoJE7c4j4ba2W9",
@@ -545,9 +545,9 @@
     "tested": "no",
     "works": "n/a",
     "condition": "",
-    "status": "TO_TEST",
-    "note": "auto-seeded from Jiji",
-    "last_updated": "2026-10-20"
+    "status": "SOLD",
+    "note": "auto-seeded from Jiji | left Jiji, marked SOLD 28/10/26",
+    "last_updated": "2026-10-29"
   },
   {
     "jiji_id": "wtCTwk0YyFa2i1Pgv3OOuDBK",
@@ -2481,9 +2481,9 @@
     "tested": "no",
     "works": "n/a",
     "condition": "",
-    "status": "TO_TEST",
-    "note": "auto-seeded from Jiji",
-    "last_updated": "2026-10-20"
+    "status": "SOLD",
+    "note": "auto-seeded from Jiji | left Jiji, marked SOLD 28/10/26",
+    "last_updated": "2026-10-29"
   },
   {
     "jiji_id": "B6KAB8kd6L4V3DMs26WPzKNu",
@@ -2943,9 +2943,9 @@
     "tested": "no",
     "works": "n/a",
     "condition": "",
-    "status": "TO_TEST",
-    "note": "auto-seeded from Jiji",
-    "last_updated": "2026-10-20"
+    "status": "SOLD",
+    "note": "auto-seeded from Jiji | left Jiji, marked SOLD 28/10/26",
+    "last_updated": "2026-10-29"
   },
   {
     "jiji_id": "kFKLugPRjyfvBvxwJ4mZRFh9",
@@ -3317,9 +3317,9 @@
     "tested": "no",
     "works": "n/a",
     "condition": "",
-    "status": "TO_TEST",
-    "note": "auto-seeded from Jiji",
-    "last_updated": "2026-10-20"
+    "status": "SOLD",
+    "note": "auto-seeded from Jiji | left Jiji, marked SOLD 28/10/26",
+    "last_updated": "2026-10-29"
   },
   {
     "jiji_id": "8pQhHckrHMDRwgN8G74KH7rt",
@@ -6573,9 +6573,9 @@
     "tested": "no",
     "works": "n/a",
     "condition": "",
-    "status": "TO_TEST",
-    "note": "auto-seeded from Jiji",
-    "last_updated": "2026-10-20"
+    "status": "SOLD",
+    "note": "auto-seeded from Jiji | left Jiji, marked SOLD 28/10/26",
+    "last_updated": "2026-10-29"
   },
   {
     "jiji_id": "nGfaQPTikElTLYj3f6PSjJ9U",
@@ -8014,9 +8014,9 @@
     "tested": "no",
     "works": "n/a",
     "condition": "",
-    "status": "TO_TEST",
-    "note": "auto-seeded from Jiji",
-    "last_updated": "2026-10-20"
+    "status": "SOLD",
+    "note": "auto-seeded from Jiji | left Jiji, marked SOLD 28/10/26",
+    "last_updated": "2026-10-29"
   },
   {
     "jiji_id": "BKmiIjadBQjz5zyUe4ciRM8t",
@@ -14086,9 +14086,9 @@
     "tested": "no",
     "works": "n/a",
     "condition": "",
-    "status": "TO_TEST",
-    "note": "auto-seeded from Jiji",
-    "last_updated": "2026-10-20"
+    "status": "SOLD",
+    "note": "auto-seeded from Jiji | left Jiji, marked SOLD 28/10/26",
+    "last_updated": "2026-10-29"
   },
   {
     "jiji_id": "yBaspl4edviSE60QvdV6hd3q",
@@ -14562,5 +14562,335 @@
     "status": "TO_TEST",
     "note": "auto-seeded from Jiji",
     "last_updated": "2026-10-26"
+  },
+  {
+    "jiji_id": "6ttZJgIGcAq053UE0ndn1F7U",
+    "title": "Vintage Hanging Porcelain Head Jester / Harlequin Pierrot Doll",
+    "location": "",
+    "tested": "no",
+    "works": "n/a",
+    "condition": "",
+    "status": "TO_TEST",
+    "note": "auto-seeded from Jiji",
+    "last_updated": "2026-10-29"
+  },
+  {
+    "jiji_id": "jFN2sd9cHWPOXtj7xSPppdMr",
+    "title": "Hanging Flying Ghost Halloween Decoration With Mesh Streamers",
+    "location": "",
+    "tested": "no",
+    "works": "n/a",
+    "condition": "",
+    "status": "TO_TEST",
+    "note": "auto-seeded from Jiji",
+    "last_updated": "2026-10-29"
+  },
+  {
+    "jiji_id": "dyAKpaWfLCLmpNztc31pm8mp",
+    "title": "Black High-Collar Halloween Costume Cloak / Cape",
+    "location": "",
+    "tested": "no",
+    "works": "n/a",
+    "condition": "",
+    "status": "TO_TEST",
+    "note": "auto-seeded from Jiji",
+    "last_updated": "2026-10-29"
+  },
+  {
+    "jiji_id": "un1JuznTPx9GtRvZ6PUrep3i",
+    "title": "Dainese Flexagon Tech CE Level 2 Body Armor Vest",
+    "location": "",
+    "tested": "no",
+    "works": "n/a",
+    "condition": "",
+    "status": "TO_TEST",
+    "note": "auto-seeded from Jiji",
+    "last_updated": "2026-10-29"
+  },
+  {
+    "jiji_id": "wSPcvXWrUtGGVsLyIYldlLwM",
+    "title": "Green LED Cactus Neon Light Desk Lamp USB Powered",
+    "location": "",
+    "tested": "no",
+    "works": "n/a",
+    "condition": "",
+    "status": "TO_TEST",
+    "note": "auto-seeded from Jiji",
+    "last_updated": "2026-10-29"
+  },
+  {
+    "jiji_id": "39p2DXgzs8iI3Xpo9nAhmr6P",
+    "title": "HP ENVY Photo 6230 Wireless Color All-in-One Photo Printer",
+    "location": "",
+    "tested": "no",
+    "works": "n/a",
+    "condition": "",
+    "status": "TO_TEST",
+    "note": "auto-seeded from Jiji",
+    "last_updated": "2026-10-29"
+  },
+  {
+    "jiji_id": "b76ElO4KXFM7yermHF1fBGxz",
+    "title": "BabyStart Ultrasonic Cool Mist Humidifier 3.2 Liter Tank Model SK6151",
+    "location": "",
+    "tested": "no",
+    "works": "n/a",
+    "condition": "",
+    "status": "TO_TEST",
+    "note": "auto-seeded from Jiji",
+    "last_updated": "2026-10-29"
+  },
+  {
+    "jiji_id": "5BIWOOG4KCFyUGjvUoVBX2jE",
+    "title": "Clairol Electric Heated Foot Spa & Bubble Bath Massager",
+    "location": "",
+    "tested": "no",
+    "works": "n/a",
+    "condition": "",
+    "status": "TO_TEST",
+    "note": "auto-seeded from Jiji",
+    "last_updated": "2026-10-29"
+  },
+  {
+    "jiji_id": "sGGfX6opMKZ78xgRWQRorR7R",
+    "title": "Bosch CYL-9 SoftCeramic 5-Piece Tile Drill Bit Set (5.5mm - 10mm)",
+    "location": "",
+    "tested": "no",
+    "works": "n/a",
+    "condition": "",
+    "status": "TO_TEST",
+    "note": "auto-seeded from Jiji",
+    "last_updated": "2026-10-29"
+  },
+  {
+    "jiji_id": "GyioY21YXQmLYPCY8orrwWz",
+    "title": "Oxelo Roller Skate & Inline Skate Carrying Bag",
+    "location": "",
+    "tested": "no",
+    "works": "n/a",
+    "condition": "",
+    "status": "TO_TEST",
+    "note": "auto-seeded from Jiji",
+    "last_updated": "2026-10-29"
+  },
+  {
+    "jiji_id": "r1cHZtBshbZTvb89H7X3FkRl",
+    "title": "Singing Machine SML650W Karaoke Player",
+    "location": "",
+    "tested": "no",
+    "works": "n/a",
+    "condition": "",
+    "status": "TO_TEST",
+    "note": "auto-seeded from Jiji",
+    "last_updated": "2026-10-29"
+  },
+  {
+    "jiji_id": "kFQEcp6IgRKF80fWBdby53Z7",
+    "title": "Lakeland 5-Tier Electric Food Dehydrator (250W) \u2013 Model Ref 12456",
+    "location": "",
+    "tested": "no",
+    "works": "n/a",
+    "condition": "",
+    "status": "TO_TEST",
+    "note": "auto-seeded from Jiji",
+    "last_updated": "2026-10-29"
+  },
+  {
+    "jiji_id": "uRJ7sE3G9xSY3E8isfSnH309",
+    "title": "MAM Thermal Insulated Baby Bottle Bag Pouch",
+    "location": "",
+    "tested": "no",
+    "works": "n/a",
+    "condition": "",
+    "status": "TO_TEST",
+    "note": "auto-seeded from Jiji",
+    "last_updated": "2026-10-29"
+  },
+  {
+    "jiji_id": "dseQumrE14zBIy49w2IrSiA3",
+    "title": "Hand-Crank Spiralizer Manual Apple Peeler, Corer & Slicer Machine",
+    "location": "",
+    "tested": "no",
+    "works": "n/a",
+    "condition": "",
+    "status": "TO_TEST",
+    "note": "auto-seeded from Jiji",
+    "last_updated": "2026-10-29"
+  },
+  {
+    "jiji_id": "ubotwb38jaMPloumHWp5bYrj",
+    "title": "Eurohike Portable Folding Camp Bed (180 X 61 Cm) W Tubular Steel Frame",
+    "location": "",
+    "tested": "no",
+    "works": "n/a",
+    "condition": "",
+    "status": "TO_TEST",
+    "note": "auto-seeded from Jiji",
+    "last_updated": "2026-10-29"
+  },
+  {
+    "jiji_id": "19hygF4Mr6AT4AsCRPgrmrNV",
+    "title": "C2G Cables to Go 2-Port HDMI Video Splitter 1 in 2 Out (Model 40471)",
+    "location": "",
+    "tested": "no",
+    "works": "n/a",
+    "condition": "",
+    "status": "TO_TEST",
+    "note": "auto-seeded from Jiji",
+    "last_updated": "2026-10-29"
+  },
+  {
+    "jiji_id": "5cJL3leymATx4iZvN1xoW7me",
+    "title": "POC POCito VPD Air B-4 Kids Protection Vest",
+    "location": "",
+    "tested": "no",
+    "works": "n/a",
+    "condition": "",
+    "status": "TO_TEST",
+    "note": "auto-seeded from Jiji",
+    "last_updated": "2026-10-29"
+  },
+  {
+    "jiji_id": "mrqGkEV0y5HxOrYwQ9QFACFU",
+    "title": "Full Body Electric Heating Massage Mat Cushion",
+    "location": "",
+    "tested": "no",
+    "works": "n/a",
+    "condition": "",
+    "status": "TO_TEST",
+    "note": "auto-seeded from Jiji",
+    "last_updated": "2026-10-29"
+  },
+  {
+    "jiji_id": "g81qjiXFLIMh7XVzC9l0hEPC",
+    "title": "Homedics Shiatsu Cushion Massager With Heat (Model SP-10H / SP-100H)",
+    "location": "",
+    "tested": "no",
+    "works": "n/a",
+    "condition": "",
+    "status": "TO_TEST",
+    "note": "auto-seeded from Jiji",
+    "last_updated": "2026-10-29"
+  },
+  {
+    "jiji_id": "oHIyT4ARirAFzCmRSno8iJez",
+    "title": "Wooden Bead Back Roller Massager Strap",
+    "location": "",
+    "tested": "no",
+    "works": "n/a",
+    "condition": "",
+    "status": "TO_TEST",
+    "note": "auto-seeded from Jiji",
+    "last_updated": "2026-10-29"
+  },
+  {
+    "jiji_id": "nHFBaU3pS8FwpaFyeUJNpmT",
+    "title": "HP OfficeJet 4658 Wireless All-in-One Inkjet Printer",
+    "location": "",
+    "tested": "no",
+    "works": "n/a",
+    "condition": "",
+    "status": "TO_TEST",
+    "note": "auto-seeded from Jiji",
+    "last_updated": "2026-10-29"
+  },
+  {
+    "jiji_id": "rpQbbELVfgS5DVdktFH7a4tN",
+    "title": "Vintage Engraved Silver Plated Brass Wine Goblet Chalice Set 6 Pieces",
+    "location": "",
+    "tested": "no",
+    "works": "n/a",
+    "condition": "",
+    "status": "TO_TEST",
+    "note": "auto-seeded from Jiji",
+    "last_updated": "2026-10-29"
+  },
+  {
+    "jiji_id": "WnVIKBQju0rHIvVqjxXhRgf",
+    "title": "KitchenAid Artisan Series 4.8L Tilt-Head Stand Mixer With Splash Guard",
+    "location": "",
+    "tested": "no",
+    "works": "n/a",
+    "condition": "",
+    "status": "TO_TEST",
+    "note": "auto-seeded from Jiji",
+    "last_updated": "2026-10-29"
+  },
+  {
+    "jiji_id": "hAOubyPqvQYlMCibcZT6vXLM",
+    "title": "Copper Geometric Metal Honeycomb 6-Bottle Wine Rack",
+    "location": "",
+    "tested": "no",
+    "works": "n/a",
+    "condition": "",
+    "status": "TO_TEST",
+    "note": "auto-seeded from Jiji",
+    "last_updated": "2026-10-29"
+  },
+  {
+    "jiji_id": "1s6mQMG8R6deCxTxsFh8gnDs",
+    "title": "Maison Modern Arched Frosted Glass Bedside Table Lamp",
+    "location": "",
+    "tested": "no",
+    "works": "n/a",
+    "condition": "",
+    "status": "TO_TEST",
+    "note": "auto-seeded from Jiji",
+    "last_updated": "2026-10-29"
+  },
+  {
+    "jiji_id": "mGA5SWTcFjfuoxfquTf2fIWs",
+    "title": "Vintage Textured Metallic Table Lamp Stand",
+    "location": "",
+    "tested": "no",
+    "works": "n/a",
+    "condition": "",
+    "status": "TO_TEST",
+    "note": "auto-seeded from Jiji",
+    "last_updated": "2026-10-29"
+  },
+  {
+    "jiji_id": "mzmJO88mC4NxO363TDS4GZHx",
+    "title": "Vintage Gas Pump Decorative Table Lamp Novelty Light",
+    "location": "",
+    "tested": "no",
+    "works": "n/a",
+    "condition": "",
+    "status": "TO_TEST",
+    "note": "auto-seeded from Jiji",
+    "last_updated": "2026-10-29"
+  },
+  {
+    "jiji_id": "ozIopvpAxBFT2LnHfb3mAOK8",
+    "title": "Vintage Industrial Metal Spotlight Desk Lamp",
+    "location": "",
+    "tested": "no",
+    "works": "n/a",
+    "condition": "",
+    "status": "TO_TEST",
+    "note": "auto-seeded from Jiji",
+    "last_updated": "2026-10-29"
+  },
+  {
+    "jiji_id": "2wukfTqEvM5ajBEj1auvjRNK",
+    "title": "ZTE Rogers Smart Drive 4G LTE OBD-II Vehicle Wi-Fi Hotspot GPS Tracker",
+    "location": "",
+    "tested": "no",
+    "works": "n/a",
+    "condition": "",
+    "status": "TO_TEST",
+    "note": "auto-seeded from Jiji",
+    "last_updated": "2026-10-29"
+  },
+  {
+    "jiji_id": "gsGLQOj3fHlHcBkcQKDWU6bQ",
+    "title": "QuickSeat Portable Kids Folding Camping & Beach Chair W Carry Bag",
+    "location": "",
+    "tested": "no",
+    "works": "n/a",
+    "condition": "",
+    "status": "TO_TEST",
+    "note": "auto-seeded from Jiji",
+    "last_updated": "2026-10-29"
   }
 ]

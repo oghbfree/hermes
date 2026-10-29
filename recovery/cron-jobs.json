@@ -22,15 +22,15 @@
       "schedule_display": "0 19 * * *",
       "repeat": {
         "times": null,
-        "completed": 131
+        "completed": 132
       },
       "enabled": true,
       "state": "scheduled",
       "paused_at": null,
       "paused_reason": null,
       "created_at": "2026-06-07T00:35:40.116212+01:00",
-      "next_run_at": "2026-10-28T19:00:00+00:00",
-      "last_run_at": "2026-10-27T19:01:59.118529+00:00",
+      "next_run_at": "2026-10-29T19:00:00+00:00",
+      "last_run_at": "2026-10-28T20:51:00.392272+00:00",
       "last_status": "ok",
       "last_error": null,
       "last_delivery_error": null,
@@ -44,10 +44,10 @@
       "provider_snapshot": null,
       "model_snapshot": null,
       "last_dispatch": {
-        "scheduled_at": "2026-10-27T19:00:00+00:00",
-        "dispatched_at": "2026-10-27T19:00:24.591047+00:00",
-        "lateness_seconds": 24.6,
-        "kind": "on_time"
+        "scheduled_at": "2026-10-28T19:00:00+00:00",
+        "dispatched_at": "2026-10-28T20:49:17.711017+00:00",
+        "lateness_seconds": 6557.7,
+        "kind": "late"
       }
     },
     {
@@ -70,17 +70,17 @@
       "schedule_display": "0 9 * * *",
       "repeat": {
         "times": null,
-        "completed": 135
+        "completed": 136
       },
       "enabled": true,
       "state": "scheduled",
       "paused_at": null,
       "paused_reason": null,
       "created_at": "2026-06-07T07:18:37.149115+01:00",
-      "next_run_at": "2026-10-28T09:00:00+00:00",
-      "last_run_at": "2026-10-27T09:57:56.050787+00:00",
-      "last_status": "ok",
-      "last_error": null,
+      "next_run_at": "2026-10-29T09:00:00+00:00",
+      "last_run_at": "2026-10-28T20:50:03.332223+00:00",
+      "last_status": "error",
+      "last_error": "RuntimeError: Operation interrupted: retrying API call after error (retry 1/3).",
       "last_delivery_error": null,
       "deliver": "origin",
       "origin": null,
@@ -88,14 +88,18 @@
       "workdir": null,
       "profile": null,
       "fire_claim": null,
-      "failure_streak": 0,
+      "failure_streak": 1,
       "provider_snapshot": null,
       "model_snapshot": null,
       "last_dispatch": {
-        "scheduled_at": "2026-10-27T09:00:00+00:00",
-        "dispatched_at": "2026-10-27T09:43:15.056189+00:00",
-        "lateness_seconds": 2595.1,
-        "kind": "late"
+        "scheduled_at": "2026-10-28T09:00:00+00:00",
+        "dispatched_at": "2026-10-28T12:56:11.022541+00:00",
+        "lateness_seconds": 14171.0,
+        "kind": "catch_up"
+      },
+      "last_failure": {
+        "at": "2026-10-28T20:50:03.332223+00:00",
+        "detail": "RuntimeError: Operation interrupted: retrying API call after error (retry 1/3)."
       }
     },
     {
@@ -223,18 +227,18 @@
       "schedule_display": "4 8 * * *",
       "repeat": {
         "times": null,
-        "completed": 135
+        "completed": 136
       },
       "enabled": true,
       "state": "scheduled",
       "paused_at": null,
       "paused_reason": null,
       "created_at": "2026-06-07T07:18:47.582718+01:00",
-      "next_run_at": "2026-10-28T08:04:00+00:00",
-      "last_run_at": "2026-10-27T09:59:08.571622+00:00",
-      "last_status": "ok",
-      "last_error": null,
-      "last_delivery_error": null,
+      "next_run_at": "2026-10-29T08:04:00+00:00",
+      "last_run_at": "2026-10-28T08:09:48.116645+00:00",
+      "last_status": "error",
+      "last_error": "RuntimeError: Hermes can't reach the model provider. You may be offline. Check your internet connection and try again.",
+      "last_delivery_error": "delivery error: Telegram send failed: httpx.ConnectError: All connection attempts failed (target telegram:-1003784520976:4)",
       "deliver": "telegram:-1003784520976:4",
       "origin": null,
       "enabled_toolsets": [
@@ -245,18 +249,18 @@
       "workdir": "C:\\Users\\User\\.hermes\\workspace\\Vault\\family\\mum\\health",
       "profile": null,
       "fire_claim": null,
-      "failure_streak": 0,
+      "failure_streak": 1,
       "provider_snapshot": null,
       "model_snapshot": null,
       "last_dispatch": {
-        "scheduled_at": "2026-10-27T08:04:00+00:00",
-        "dispatched_at": "2026-10-27T09:43:15.056189+00:00",
-        "lateness_seconds": 5955.1,
-        "kind": "late"
+        "scheduled_at": "2026-10-28T08:04:00+00:00",
+        "dispatched_at": "2026-10-28T08:04:33.397272+00:00",
+        "lateness_seconds": 33.4,
+        "kind": "on_time"
       },
       "last_failure": {
-        "at": "2026-10-14T16:36:42.399346+00:00",
-        "detail": "RuntimeError: agent reported failure"
+        "at": "2026-10-28T08:09:48.116645+00:00",
+        "detail": "RuntimeError: Hermes can't reach the model provider. You may be offline. Check your internet connection and try again."
       }
     },
     {
@@ -281,15 +285,15 @@
       "schedule_display": "0 13 * * *",
       "repeat": {
         "times": null,
-        "completed": 136
+        "completed": 137
       },
       "enabled": true,
       "state": "scheduled",
       "paused_at": null,
       "paused_reason": null,
       "created_at": "2026-06-07T07:18:49.643232+01:00",
-      "next_run_at": "2026-10-28T13:00:00+00:00",
-      "last_run_at": "2026-10-27T13:01:14.484701+00:00",
+      "next_run_at": "2026-10-29T13:00:00+00:00",
+      "last_run_at": "2026-10-28T20:52:30.882634+00:00",
       "last_status": "ok",
       "last_error": null,
       "last_delivery_error": null,
@@ -307,10 +311,10 @@
       "provider_snapshot": null,
       "model_snapshot": null,
       "last_dispatch": {
-        "scheduled_at": "2026-10-27T13:00:00+00:00",
-        "dispatched_at": "2026-10-27T13:00:24.576442+00:00",
-        "lateness_seconds": 24.6,
-        "kind": "on_time"
+        "scheduled_at": "2026-10-28T13:00:00+00:00",
+        "dispatched_at": "2026-10-28T20:49:17.711017+00:00",
+        "lateness_seconds": 28157.7,
+        "kind": "catch_up"
       },
       "last_failure": {
         "at": "2026-10-25T13:05:17.068538+00:00",
@@ -339,15 +343,15 @@
       "schedule_display": "0 19 * * *",
       "repeat": {
         "times": null,
-        "completed": 131
+        "completed": 132
       },
       "enabled": true,
       "state": "scheduled",
       "paused_at": null,
       "paused_reason": null,
       "created_at": "2026-06-07T07:18:51.780984+01:00",
-      "next_run_at": "2026-10-28T19:00:00+00:00",
-      "last_run_at": "2026-10-27T19:01:52.293202+00:00",
+      "next_run_at": "2026-10-29T19:00:00+00:00",
+      "last_run_at": "2026-10-28T20:51:49.244237+00:00",
       "last_status": "ok",
       "last_error": null,
       "last_delivery_error": null,
@@ -365,10 +369,10 @@
       "provider_snapshot": null,
       "model_snapshot": null,
       "last_dispatch": {
-        "scheduled_at": "2026-10-27T19:00:00+00:00",
-        "dispatched_at": "2026-10-27T19:00:24.591047+00:00",
-        "lateness_seconds": 24.6,
-        "kind": "on_time"
+        "scheduled_at": "2026-10-28T19:00:00+00:00",
+        "dispatched_at": "2026-10-28T20:49:17.711017+00:00",
+        "lateness_seconds": 6557.7,
+        "kind": "late"
       },
       "last_failure": {
         "at": "2026-10-16T19:57:52.144013+00:00",
@@ -397,17 +401,17 @@
       "schedule_display": "4 8 * * *",
       "repeat": {
         "times": null,
-        "completed": 134
+        "completed": 135
       },
       "enabled": true,
       "state": "scheduled",
       "paused_at": null,
       "paused_reason": null,
       "created_at": "2026-06-07T07:18:53.848956+01:00",
-      "next_run_at": "2026-10-28T08:04:00+00:00",
-      "last_run_at": "2026-10-27T09:58:37.143991+00:00",
-      "last_status": "ok",
-      "last_error": null,
+      "next_run_at": "2026-10-29T08:04:00+00:00",
+      "last_run_at": "2026-10-28T08:09:29.603164+00:00",
+      "last_status": "error",
+      "last_error": "RuntimeError: Hermes can't reach the model provider. You may be offline. Check your internet connection and try again.",
       "last_delivery_error": null,
       "deliver": "local",
       "origin": null,
@@ -419,18 +423,18 @@
       "workdir": "C:\\Users\\User\\.hermes\\workspace\\Vault\\family\\H",
       "profile": null,
       "fire_claim": null,
-      "failure_streak": 0,
+      "failure_streak": 1,
       "provider_snapshot": null,
       "model_snapshot": null,
       "last_dispatch": {
-        "scheduled_at": "2026-10-27T08:04:00+00:00",
-        "dispatched_at": "2026-10-27T09:43:15.056189+00:00",
-        "lateness_seconds": 5955.1,
-        "kind": "late"
+        "scheduled_at": "2026-10-28T08:04:00+00:00",
+        "dispatched_at": "2026-10-28T08:04:33.397272+00:00",
+        "lateness_seconds": 33.4,
+        "kind": "on_time"
       },
       "last_failure": {
-        "at": "2026-10-14T16:36:38.929376+00:00",
-        "detail": "RuntimeError: agent reported failure"
+        "at": "2026-10-28T08:09:29.603164+00:00",
+        "detail": "RuntimeError: Hermes can't reach the model provider. You may be offline. Check your internet connection and try again."
       }
     },
     {
@@ -455,15 +459,15 @@
       "schedule_display": "0 13 * * *",
       "repeat": {
         "times": null,
-        "completed": 135
+        "completed": 136
       },
       "enabled": true,
       "state": "scheduled",
       "paused_at": null,
       "paused_reason": null,
       "created_at": "2026-06-07T07:18:55.920483+01:00",
-      "next_run_at": "2026-10-28T13:00:00+00:00",
-      "last_run_at": "2026-10-27T13:01:02.019802+00:00",
+      "next_run_at": "2026-10-29T13:00:00+00:00",
+      "last_run_at": "2026-10-28T20:50:51.081020+00:00",
       "last_status": "ok",
       "last_error": null,
       "last_delivery_error": null,
@@ -481,10 +485,10 @@
       "provider_snapshot": null,
       "model_snapshot": null,
       "last_dispatch": {
-        "scheduled_at": "2026-10-27T13:00:00+00:00",
-        "dispatched_at": "2026-10-27T13:00:24.576442+00:00",
-        "lateness_seconds": 24.6,
-        "kind": "on_time"
+        "scheduled_at": "2026-10-28T13:00:00+00:00",
+        "dispatched_at": "2026-10-28T20:49:17.711017+00:00",
+        "lateness_seconds": 28157.7,
+        "kind": "catch_up"
       },
       "last_failure": {
         "at": "2026-10-25T13:05:28.984545+00:00",
@@ -513,15 +517,15 @@
       "schedule_display": "0 19 * * *",
       "repeat": {
         "times": null,
-        "completed": 131
+        "completed": 132
       },
       "enabled": true,
       "state": "scheduled",
       "paused_at": null,
       "paused_reason": null,
       "created_at": "2026-06-07T07:18:58.059275+01:00",
-      "next_run_at": "2026-10-28T19:00:00+00:00",
-      "last_run_at": "2026-10-27T19:01:23.287576+00:00",
+      "next_run_at": "2026-10-29T19:00:00+00:00",
+      "last_run_at": "2026-10-28T20:50:48.792997+00:00",
       "last_status": "ok",
       "last_error": null,
       "last_delivery_error": null,
@@ -539,10 +543,10 @@
       "provider_snapshot": null,
       "model_snapshot": null,
       "last_dispatch": {
-        "scheduled_at": "2026-10-27T19:00:00+00:00",
-        "dispatched_at": "2026-10-27T19:00:24.591047+00:00",
-        "lateness_seconds": 24.6,
-        "kind": "on_time"
+        "scheduled_at": "2026-10-28T19:00:00+00:00",
+        "dispatched_at": "2026-10-28T20:49:17.711017+00:00",
+        "lateness_seconds": 6557.7,
+        "kind": "late"
       }
     },
     {
@@ -663,15 +667,15 @@
       "schedule_display": "0 7 * * *",
       "repeat": {
         "times": null,
-        "completed": 275
+        "completed": 276
       },
       "enabled": true,
       "state": "scheduled",
       "paused_at": null,
       "paused_reason": null,
       "created_at": "2026-06-07T07:19:14.542277+01:00",
-      "next_run_at": "2026-10-28T07:00:00+00:00",
-      "last_run_at": "2026-10-27T07:07:10.687263+00:00",
+      "next_run_at": "2026-10-29T07:00:00+00:00",
+      "last_run_at": "2026-10-28T07:03:03.701432+00:00",
       "last_status": "ok",
       "last_error": null,
       "last_delivery_error": null,
@@ -685,9 +689,9 @@
       "provider_snapshot": null,
       "model_snapshot": null,
       "last_dispatch": {
-        "scheduled_at": "2026-10-27T07:00:00+00:00",
-        "dispatched_at": "2026-10-27T07:00:45.777180+00:00",
-        "lateness_seconds": 45.8,
+        "scheduled_at": "2026-10-28T07:00:00+00:00",
+        "dispatched_at": "2026-10-28T07:00:33.392320+00:00",
+        "lateness_seconds": 33.4,
         "kind": "on_time"
       },
       "last_failure": {
@@ -763,17 +767,17 @@
       "schedule_display": "0 9 * * *",
       "repeat": {
         "times": null,
-        "completed": 135
+        "completed": 136
       },
       "enabled": true,
       "state": "scheduled",
       "paused_at": null,
       "paused_reason": null,
       "created_at": "2026-06-07T07:19:20.583276+01:00",
-      "next_run_at": "2026-10-28T09:00:00+00:00",
-      "last_run_at": "2026-10-27T10:01:11.648606+00:00",
-      "last_status": "ok",
-      "last_error": null,
+      "next_run_at": "2026-10-29T09:00:00+00:00",
+      "last_run_at": "2026-10-28T20:49:58.949312+00:00",
+      "last_status": "error",
+      "last_error": "TimeoutError: Cron job 'cron-status-report' idle for 3s (limit 600s) — last activity: waiting for provider response (streaming)",
       "last_delivery_error": null,
       "deliver": "telegram:-1003784520976:20",
       "origin": null,
@@ -781,18 +785,18 @@
       "workdir": null,
       "profile": null,
       "fire_claim": null,
-      "failure_streak": 0,
+      "failure_streak": 1,
       "provider_snapshot": null,
       "model_snapshot": null,
       "last_dispatch": {
-        "scheduled_at": "2026-10-27T09:00:00+00:00",
-        "dispatched_at": "2026-10-27T09:43:15.056189+00:00",
-        "lateness_seconds": 2595.1,
-        "kind": "late"
+        "scheduled_at": "2026-10-28T09:00:00+00:00",
+        "dispatched_at": "2026-10-28T12:56:11.022541+00:00",
+        "lateness_seconds": 14171.0,
+        "kind": "catch_up"
       },
       "last_failure": {
-        "at": "2026-10-13T12:55:07.070600+00:00",
-        "detail": "TimeoutError: Cron job 'cron-status-report' idle for 1444s (limit 600s) — last activity: ⏳ waiting on provider — retrying in 5s (attempt 2/3)"
+        "at": "2026-10-28T20:49:58.949312+00:00",
+        "detail": "TimeoutError: Cron job 'cron-status-report' idle for 3s (limit 600s) — last activity: waiting for provider response (streaming)"
       }
     },
     {
@@ -815,15 +819,15 @@
       "schedule_display": "0 6 * * *",
       "repeat": {
         "times": null,
-        "completed": 80
+        "completed": 81
       },
       "enabled": true,
       "state": "scheduled",
       "paused_at": null,
       "paused_reason": null,
       "created_at": "2026-06-07T07:19:22.604845+01:00",
-      "next_run_at": "2026-10-29T06:00:00+00:00",
-      "last_run_at": "2026-10-27T06:01:33.151168+00:00",
+      "next_run_at": "2026-10-30T06:00:00+00:00",
+      "last_run_at": "2026-10-28T06:01:40.624237+00:00",
       "last_status": "ok",
       "last_error": null,
       "last_delivery_error": null,
@@ -833,16 +837,16 @@
       "workdir": null,
       "profile": null,
       "fire_claim": {
-        "at": "2026-10-28T06:00:33.674955+00:00",
-        "by": "DESKTOP-25Q3AQC:15048:412e780e330548319184997e4a8104f0"
+        "at": "2026-10-29T06:00:05.633748+00:00",
+        "by": "DESKTOP-25Q3AQC:15048:561e12b0bba249a8ab8fd463ef127506"
       },
       "failure_streak": 0,
       "provider_snapshot": null,
       "model_snapshot": null,
       "last_dispatch": {
-        "scheduled_at": "2026-10-28T06:00:00+00:00",
-        "dispatched_at": "2026-10-28T06:00:33.379879+00:00",
-        "lateness_seconds": 33.4,
+        "scheduled_at": "2026-10-29T06:00:00+00:00",
+        "dispatched_at": "2026-10-29T06:00:05.236536+00:00",
+        "lateness_seconds": 5.2,
         "kind": "on_time"
       },
       "last_failure": {
@@ -870,36 +874,36 @@
       "schedule_display": "0 8 * * *",
       "repeat": {
         "times": null,
-        "completed": 134
+        "completed": 135
       },
       "enabled": true,
       "state": "scheduled",
       "paused_at": null,
       "paused_reason": null,
       "created_at": "2026-06-07T07:19:26.671069+01:00",
-      "next_run_at": "2026-10-28T08:00:00+00:00",
-      "last_run_at": "2026-10-27T10:00:00.788640+00:00",
-      "last_status": "ok",
-      "last_error": null,
-      "last_delivery_error": null,
+      "next_run_at": "2026-10-29T08:00:00+00:00",
+      "last_run_at": "2026-10-28T08:05:37.554493+00:00",
+      "last_status": "error",
+      "last_error": "RuntimeError: Hermes can't reach the model provider. You may be offline. Check your internet connection and try again.",
+      "last_delivery_error": "delivery error: Telegram send failed: httpx.ConnectError: All connection attempts failed (target telegram:-1003784520976:28)",
       "deliver": "telegram:-1003784520976:28",
       "origin": null,
       "enabled_toolsets": null,
       "workdir": null,
       "profile": null,
       "fire_claim": null,
-      "failure_streak": 0,
+      "failure_streak": 1,
       "provider_snapshot": null,
       "model_snapshot": null,
       "last_dispatch": {
-        "scheduled_at": "2026-10-27T08:00:00+00:00",
-        "dispatched_at": "2026-10-27T09:43:15.056189+00:00",
-        "lateness_seconds": 6195.1,
-        "kind": "late"
+        "scheduled_at": "2026-10-28T08:00:00+00:00",
+        "dispatched_at": "2026-10-28T08:00:33.413797+00:00",
+        "lateness_seconds": 33.4,
+        "kind": "on_time"
       },
       "last_failure": {
-        "at": "2026-10-14T16:36:36.615902+00:00",
-        "detail": "TimeoutError: Cron job 'job-applications-check' idle for 29277s (limit 600s) — last activity: concurrent tools running (5s, 1 remaining: search_files)"
+        "at": "2026-10-28T08:05:37.554493+00:00",
+        "detail": "RuntimeError: Hermes can't reach the model provider. You may be offline. Check your internet connection and try again."
       }
     },
     {
@@ -922,17 +926,17 @@
       "schedule_display": "18 10 * * 0,1,2,3,4,5,6",
       "repeat": {
         "times": null,
-        "completed": 108
+        "completed": 109
       },
       "enabled": true,
       "state": "scheduled",
       "paused_at": null,
       "paused_reason": null,
       "created_at": "2026-06-07T07:19:30.748528+01:00",
-      "next_run_at": "2026-10-28T10:18:00+00:00",
-      "last_run_at": "2026-10-27T10:19:29.304771+00:00",
-      "last_status": "ok",
-      "last_error": null,
+      "next_run_at": "2026-10-29T10:18:00+00:00",
+      "last_run_at": "2026-10-28T20:49:59.166750+00:00",
+      "last_status": "error",
+      "last_error": "TimeoutError: Cron job 'checkin-mum' idle for 28275s (limit 600s) — last activity: ⏳ Provider temporarily unavailable — retrying automatically in 67s (cycle 3/5)",
       "last_delivery_error": null,
       "deliver": "origin",
       "origin": null,
@@ -940,18 +944,18 @@
       "workdir": null,
       "profile": null,
       "fire_claim": null,
-      "failure_streak": 0,
+      "failure_streak": 1,
       "provider_snapshot": null,
       "model_snapshot": null,
       "last_dispatch": {
-        "scheduled_at": "2026-10-27T10:18:00+00:00",
-        "dispatched_at": "2026-10-27T10:18:24.572706+00:00",
-        "lateness_seconds": 24.6,
-        "kind": "on_time"
+        "scheduled_at": "2026-10-28T10:18:00+00:00",
+        "dispatched_at": "2026-10-28T12:56:11.022541+00:00",
+        "lateness_seconds": 9491.0,
+        "kind": "catch_up"
       },
       "last_failure": {
-        "at": "2026-10-18T10:18:52.044366+00:00",
-        "detail": "Hermes stopped because your settings file (C:\\Users\\User\\AppData\\Local\\hermes\\config.yaml) has a formatting error at line 289. Fix it with `hermes config edit` and check with `hermes config check`, or add --ignore-user-config to run once with default settings. Details: found duplicate key \"platforms\" with value \"{}\" (original value: \"{}\")"
+        "at": "2026-10-28T20:49:59.166750+00:00",
+        "detail": "TimeoutError: Cron job 'checkin-mum' idle for 28275s (limit 600s) — last activity: ⏳ Provider temporarily unavailable — retrying automatically in 67s (cycle 3/5)"
       }
     },
     {
@@ -1221,17 +1225,17 @@
       "schedule_display": "0 9 * * *",
       "repeat": {
         "times": null,
-        "completed": 133
+        "completed": 134
       },
       "enabled": true,
       "state": "scheduled",
       "paused_at": null,
       "paused_reason": null,
       "created_at": "2026-06-07T23:07:14.607446+01:00",
-      "next_run_at": "2026-10-28T09:00:00+00:00",
-      "last_run_at": "2026-10-27T09:57:54.660554+00:00",
-      "last_status": "ok",
-      "last_error": null,
+      "next_run_at": "2026-10-29T09:00:00+00:00",
+      "last_run_at": "2026-10-28T20:50:04.259469+00:00",
+      "last_status": "error",
+      "last_error": "RuntimeError: Operation interrupted: retrying API call after error (retry 1/3).",
       "last_delivery_error": null,
       "deliver": "origin",
       "origin": null,
@@ -1239,14 +1243,18 @@
       "workdir": null,
       "profile": null,
       "fire_claim": null,
-      "failure_streak": 0,
+      "failure_streak": 1,
       "provider_snapshot": null,
       "model_snapshot": null,
       "last_dispatch": {
-        "scheduled_at": "2026-10-27T09:00:00+00:00",
-        "dispatched_at": "2026-10-27T09:43:15.056189+00:00",
-        "lateness_seconds": 2595.1,
-        "kind": "late"
+        "scheduled_at": "2026-10-28T09:00:00+00:00",
+        "dispatched_at": "2026-10-28T12:56:11.022541+00:00",
+        "lateness_seconds": 14171.0,
+        "kind": "catch_up"
+      },
+      "last_failure": {
+        "at": "2026-10-28T20:50:04.259469+00:00",
+        "detail": "RuntimeError: Operation interrupted: retrying API call after error (retry 1/3)."
       }
     },
     {
@@ -1271,35 +1279,35 @@
       "schedule_display": "0 10 */3 * *",
       "repeat": {
         "times": null,
-        "completed": 41
+        "completed": 42
       },
       "enabled": true,
       "state": "scheduled",
       "paused_at": null,
       "paused_reason": null,
       "created_at": "2026-06-23T02:09:57.632312+01:00",
-      "next_run_at": "2026-10-28T10:00:00+00:00",
-      "last_run_at": "2026-10-25T10:01:33.838518+00:00",
-      "last_status": "ok",
-      "last_error": null,
+      "next_run_at": "2026-10-31T10:00:00+00:00",
+      "last_run_at": "2026-10-28T20:50:01.709136+00:00",
+      "last_status": "error",
+      "last_error": "RuntimeError: Operation interrupted: retrying API call after error (retry 1/3).",
       "last_delivery_error": null,
       "deliver": "telegram:-1003784520976:16",
       "origin": null,
       "enabled_toolsets": null,
       "workdir": null,
       "fire_claim": null,
-      "failure_streak": 0,
+      "failure_streak": 1,
       "provider_snapshot": null,
       "model_snapshot": null,
       "last_dispatch": {
-        "scheduled_at": "2026-10-25T10:00:00+00:00",
-        "dispatched_at": "2026-10-25T10:00:20.779224+00:00",
-        "lateness_seconds": 20.8,
-        "kind": "on_time"
+        "scheduled_at": "2026-10-28T10:00:00+00:00",
+        "dispatched_at": "2026-10-28T12:56:11.022541+00:00",
+        "lateness_seconds": 10571.0,
+        "kind": "catch_up"
       },
       "last_failure": {
-        "at": "2026-10-13T12:55:07.186717+00:00",
-        "detail": "TimeoutError: Cron job 'Dad — 3-Day Condition & Wellbeing Check' idle for 1437s (limit 600s) — last activity: ⏳ waiting on provider — retrying in 5s (attempt 2/3)"
+        "at": "2026-10-28T20:50:01.709136+00:00",
+        "detail": "RuntimeError: Operation interrupted: retrying API call after error (retry 1/3)."
       }
     },
     {
@@ -1752,18 +1760,18 @@
       "schedule_display": "0 8 * * *",
       "repeat": {
         "times": null,
-        "completed": 96
+        "completed": 97
       },
       "enabled": true,
       "state": "scheduled",
       "paused_at": null,
       "paused_reason": null,
       "created_at": "2026-07-18T04:12:38.493477+01:00",
-      "next_run_at": "2026-10-28T08:00:00+00:00",
-      "last_run_at": "2026-10-27T09:46:30.100850+00:00",
-      "last_status": "ok",
-      "last_error": null,
-      "last_delivery_error": null,
+      "next_run_at": "2026-10-29T08:00:00+00:00",
+      "last_run_at": "2026-10-28T08:05:33.389506+00:00",
+      "last_status": "error",
+      "last_error": "RuntimeError: Hermes can't reach the model provider. You may be offline. Check your internet connection and try again.",
+      "last_delivery_error": "delivery error: Telegram send failed: httpx.ConnectError: All connection attempts failed (target telegram:123286468)",
       "deliver": "telegram:123286468",
       "origin": {
         "platform": "telegram",
@@ -1775,16 +1783,16 @@
       "enabled_toolsets": null,
       "workdir": null,
       "fire_claim": null,
-      "failure_streak": 0,
+      "failure_streak": 1,
       "last_dispatch": {
-        "scheduled_at": "2026-10-27T08:00:00+00:00",
-        "dispatched_at": "2026-10-27T09:43:15.056189+00:00",
-        "lateness_seconds": 6195.1,
-        "kind": "late"
+        "scheduled_at": "2026-10-28T08:00:00+00:00",
+        "dispatched_at": "2026-10-28T08:00:33.413797+00:00",
+        "lateness_seconds": 33.4,
+        "kind": "on_time"
       },
       "last_failure": {
-        "at": "2026-10-14T16:36:42.127177+00:00",
-        "detail": "RuntimeError: agent reported failure"
+        "at": "2026-10-28T08:05:33.389506+00:00",
+        "detail": "RuntimeError: Hermes can't reach the model provider. You may be offline. Check your internet connection and try again."
       }
     },
     {
@@ -2056,17 +2064,17 @@
       "schedule_display": "0 9 * * *",
       "repeat": {
         "times": null,
-        "completed": 316
+        "completed": 317
       },
       "enabled": true,
       "state": "scheduled",
       "paused_at": null,
       "paused_reason": null,
       "created_at": "2026-08-14T02:20:24.029597+00:00",
-      "next_run_at": "2026-10-28T09:00:00+00:00",
-      "last_run_at": "2026-10-27T09:46:18.477297+00:00",
-      "last_status": "ok",
-      "last_error": null,
+      "next_run_at": "2026-10-29T09:00:00+00:00",
+      "last_run_at": "2026-10-28T20:50:03.510556+00:00",
+      "last_status": "error",
+      "last_error": "RuntimeError: Operation interrupted: retrying API call after error (retry 1/3).",
       "last_delivery_error": null,
       "deliver": "origin",
       "origin": null,
@@ -2075,16 +2083,16 @@
       ],
       "workdir": null,
       "fire_claim": null,
-      "failure_streak": 0,
+      "failure_streak": 1,
       "last_dispatch": {
-        "scheduled_at": "2026-10-27T09:00:00+00:00",
-        "dispatched_at": "2026-10-27T09:43:15.056189+00:00",
-        "lateness_seconds": 2595.1,
-        "kind": "late"
+        "scheduled_at": "2026-10-28T09:00:00+00:00",
+        "dispatched_at": "2026-10-28T12:56:11.022541+00:00",
+        "lateness_seconds": 14171.0,
+        "kind": "catch_up"
       },
       "last_failure": {
-        "at": "2026-10-20T15:47:51.842819+00:00",
-        "detail": "RuntimeError: Model output entered a repetition loop and the stream was cut mid-loop; discarding the degenerate response."
+        "at": "2026-10-28T20:50:03.510556+00:00",
+        "detail": "RuntimeError: Operation interrupted: retrying API call after error (retry 1/3)."
       }
     },
     {
@@ -2106,13 +2114,13 @@
       "context_from": null,
       "schedule": {
         "kind": "cron",
-        "expr": "30 2 * * 1",
-        "display": "30 2 * * 1"
+        "expr": "30 2 * * 0,3",
+        "display": "30 2 * * 0,3"
       },
       "schedule_display": "30 2 * * 1",
       "repeat": {
         "times": null,
-        "completed": 12
+        "completed": 13
       },
       "enabled": true,
       "state": "scheduled",
@@ -2120,7 +2128,7 @@
       "paused_reason": null,
       "created_at": "2026-08-14T05:00:44.453903+00:00",
       "next_run_at": "2026-11-02T02:30:00+00:00",
-      "last_run_at": "2026-10-26T02:32:22.729833+00:00",
+      "last_run_at": "2026-10-29T01:21:32.514949+00:00",
       "last_status": "ok",
       "last_error": null,
       "last_delivery_error": null,
@@ -2164,15 +2172,15 @@
       "schedule_display": "5 22 * * *",
       "repeat": {
         "times": null,
-        "completed": 71
+        "completed": 72
       },
       "enabled": true,
       "state": "scheduled",
       "paused_at": null,
       "paused_reason": null,
       "created_at": "2026-08-17T20:00:34.809937+00:00",
-      "next_run_at": "2026-10-28T22:05:00+00:00",
-      "last_run_at": "2026-10-27T22:16:40.783039+00:00",
+      "next_run_at": "2026-10-29T22:05:00+00:00",
+      "last_run_at": "2026-10-28T22:14:26.009603+00:00",
       "last_status": "ok",
       "last_error": null,
       "last_delivery_error": null,
@@ -2183,9 +2191,9 @@
       "fire_claim": null,
       "failure_streak": 0,
       "last_dispatch": {
-        "scheduled_at": "2026-10-27T22:05:00+00:00",
-        "dispatched_at": "2026-10-27T22:05:02.322010+00:00",
-        "lateness_seconds": 2.3,
+        "scheduled_at": "2026-10-28T22:05:00+00:00",
+        "dispatched_at": "2026-10-28T22:05:05.230563+00:00",
+        "lateness_seconds": 5.2,
         "kind": "on_time"
       }
     },
@@ -2268,15 +2276,15 @@
       "schedule_display": "30 6 * * *",
       "repeat": {
         "times": null,
-        "completed": 66
+        "completed": 67
       },
       "enabled": true,
       "state": "scheduled",
       "paused_at": null,
       "paused_reason": null,
       "created_at": "2026-08-22T05:21:12.330898+00:00",
-      "next_run_at": "2026-10-28T06:30:00+00:00",
-      "last_run_at": "2026-10-27T06:46:14.928714+00:00",
+      "next_run_at": "2026-10-29T06:30:00+00:00",
+      "last_run_at": "2026-10-28T06:43:45.556170+00:00",
       "last_status": "ok",
       "last_error": null,
       "last_delivery_error": null,
@@ -2291,9 +2299,9 @@
       "workdir": null,
       "fire_claim": null,
       "last_dispatch": {
-        "scheduled_at": "2026-10-27T06:30:00+00:00",
-        "dispatched_at": "2026-10-27T06:30:45.731287+00:00",
-        "lateness_seconds": 45.7,
+        "scheduled_at": "2026-10-28T06:30:00+00:00",
+        "dispatched_at": "2026-10-28T06:30:33.405943+00:00",
+        "lateness_seconds": 33.4,
         "kind": "on_time"
       },
       "last_failure": {
@@ -2358,8 +2366,8 @@
     },
     {
       "id": "8ea5ea4a772e",
-      "name": "2Real - Monday Christmas Gap Re-scan",
-      "prompt": "Weekly 2Real Christmas gap re-scan. Today is Monday. Runs at 3am AFTER the Weekly Jiji Catalog Refresh (2:30am) has already re-scraped Jiji into jiji_listings_full.json — so the catalog is FRESH; do NOT re-scrape.\n\n## STEP 1: Re-run gap analysis (catalog already fresh from the 2:30am refresh)\ncd /c/Users/User/.hermes/workspace/Vault/business/2real/2real-agent && /c/Users/User/AppData/Local/Programs/Python/Python314/python.exe christmas_gap_analysis.py\nNote the new \"GAP\" count vs last week (last was 332). The drop = items John listed this week.\n\n## STEP 2: Update tracker\nTake the new gap count and record progress:\ncd /c/Users/User/.hermes/workspace/Vault/business/2real/2real-agent && /c/Users/User/AppData/Local/Programs/Python/Python314/python.exe christmas_tracker.py <new_gap_remaining>\nwhere <new_gap_remaining> = items still not listed (new GAP count).\nIf the new GAP count is HIGHER than last week, note that new stock was likely added - flag to H.\n\n## STEP 3: Report\nProduce a short phone-readable report:\n- Jiji catalog size (should be ~1,300+ and growing)\n- Gap items: last week 332 -> this week X (delta)\n- Christmas countdown: days left, UK order deadline status (2026-10-31)\n- Pace check: is John clearing 6+/day? (delta vs 42 items/week needed)\n- Next 10 priority items from the top of christmas_gap_list.json for John to list this week\n\nIf zobaze inventory_agent.json was updated (check file mtime newer than June 2026), note that the gap list is now based on fresh stock data.",
+      "name": "2Real - Sunday Christmas Gap Re-scan",
+      "prompt": "Weekly 2Real Christmas gap re-scan. Today is Sunday. Runs at 3am AFTER the Weekly Jiji Catalog Refresh (2:30am) has already re-scraped Jiji into jiji_listings_full.json — so the catalog is FRESH; do NOT re-scrape.\n\n## STEP 1: Re-run gap analysis (catalog already fresh from the 2:30am refresh)\ncd /c/Users/User/.hermes/workspace/Vault/business/2real/2real-agent && /c/Users/User/AppData/Local/Programs/Python/Python314/python.exe christmas_gap_analysis.py\nNote the new \"GAP\" count vs last week (last was 332). The drop = items John listed this week.\n\n## STEP 2: Update tracker\nTake the new gap count and record progress:\ncd /c/Users/User/.hermes/workspace/Vault/business/2real/2real-agent && /c/Users/User/AppData/Local/Programs/Python/Python314/python.exe christmas_tracker.py <new_gap_remaining>\nwhere <new_gap_remaining> = items still not listed (new GAP count).\nIf the new GAP count is HIGHER than last week, note that new stock was likely added - flag to H.\n\n## STEP 3: Report\nProduce a short phone-readable report:\n- Jiji catalog size (should be ~1,300+ and growing)\n- Gap items: last week 332 -> this week X (delta)\n- Christmas countdown: days left, UK order deadline status (2026-10-31)\n- Pace check: is John clearing 6+/day? (delta vs 42 items/week needed)\n- Next 10 priority items from the top of christmas_gap_list.json for John to list this week\n\nIf zobaze inventory_agent.json was updated (check file mtime newer than June 2026), note that the gap list is now based on fresh stock data.",
       "skills": [],
       "skill": null,
       "model": "deepseek/deepseek-v4-flash-0731",
@@ -2375,8 +2383,8 @@
       "context_from": null,
       "schedule": {
         "kind": "cron",
-        "expr": "0 3 * * 1",
-        "display": "0 3 * * 1"
+        "expr": "0 3 * * 0",
+        "display": "0 3 * * 0"
       },
       "schedule_display": "0 3 * * 1",
       "repeat": {
@@ -2430,15 +2438,15 @@
       "schedule_display": "0 9-19/2 * * *",
       "repeat": {
         "times": null,
-        "completed": 189
+        "completed": 194
       },
       "enabled": true,
       "state": "scheduled",
       "paused_at": null,
       "paused_reason": null,
       "created_at": "2026-09-29T20:22:28.049585+00:00",
-      "next_run_at": "2026-10-28T09:00:00+00:00",
-      "last_run_at": "2026-10-27T18:16:58.400864+00:00",
+      "next_run_at": "2026-10-29T09:00:00+00:00",
+      "last_run_at": "2026-10-29T02:25:14.819322+00:00",
       "last_status": "ok",
       "last_error": null,
       "last_delivery_error": null,
@@ -2449,15 +2457,15 @@
       "enabled_toolsets": null,
       "workdir": null,
       "last_dispatch": {
-        "scheduled_at": "2026-10-27T18:00:00+00:00",
-        "dispatched_at": "2026-10-27T18:00:24.578976+00:00",
-        "lateness_seconds": 24.6,
-        "kind": "on_time"
+        "scheduled_at": "2026-10-28T13:00:00+00:00",
+        "dispatched_at": "2026-10-28T20:49:17.711017+00:00",
+        "lateness_seconds": 28157.7,
+        "kind": "catch_up"
       },
       "fire_claim": null,
       "last_failure": {
-        "at": "2026-10-25T16:23:06.905325+00:00",
-        "detail": "RuntimeError: ⚠️ No reply: the turn stopped while a tool result was still pending and the model produced no follow-up text. Send `continue` to let it summarize."
+        "at": "2026-10-28T20:50:04.569729+00:00",
+        "detail": "TimeoutError: Cron job '2Real - FB Marketplace Batch Poster' idle for 28239s (limit 600s) — last activity: waiting for provider response (streaming)"
       }
     },
     {
@@ -2485,15 +2493,15 @@
       "schedule_display": "0 9 * * *",
       "repeat": {
         "times": null,
-        "completed": 46
+        "completed": 50
       },
       "enabled": true,
       "state": "scheduled",
       "paused_at": null,
       "paused_reason": null,
       "created_at": "2026-10-12T03:45:58.527173+00:00",
-      "next_run_at": "2026-10-28T09:00:00+00:00",
-      "last_run_at": "2026-10-27T09:58:26.870930+00:00",
+      "next_run_at": "2026-10-29T09:00:00+00:00",
+      "last_run_at": "2026-10-29T02:59:30.399589+00:00",
       "last_status": "ok",
       "last_error": null,
       "last_delivery_error": null,
@@ -2505,20 +2513,20 @@
       "workdir": null,
       "fire_claim": null,
       "last_dispatch": {
-        "scheduled_at": "2026-10-27T09:00:00+00:00",
-        "dispatched_at": "2026-10-27T09:43:15.056189+00:00",
-        "lateness_seconds": 2595.1,
-        "kind": "late"
+        "scheduled_at": "2026-10-28T09:00:00+00:00",
+        "dispatched_at": "2026-10-28T12:56:11.022541+00:00",
+        "lateness_seconds": 14171.0,
+        "kind": "catch_up"
       },
       "last_failure": {
-        "at": "2026-10-19T01:02:15.581232+00:00",
-        "detail": "**2Real WhatsApp Catalogue Poster — 19 Oct run failed: WA session logged out (QR wall).**\n\n**What happened (verified, not guessed):**\n- Attempted to run `wa_post_next(15)` in browser session `jiji-shop` against `web.whatsapp.com`.\n- The page shows the persistent **\"Scan to log in\" QR login wall** — no chat/UI loaded.\n- I waited 70+s, reloaded multiple times, and fully re-navigated (per the playbook's fresh-spawn recovery step) — the QR wall never cleared.\n- I also inspected the local hermes-profile Chrome (port 55422 from `DevToolsActivePort`), which holds the persisted WA login (IndexedDB + Local Storage present and being written). It **also** shows the QR wall — the linked-device session itself is no longer valid on the server side, not a transient render issue.\n- Per playbook/task rules: QR/login wall = hard stop. I must NOT re-pair, scan, or guess credentials, and no user is present to scan.\n\n**State files untouched (verified):**\n- `wa_catalog_posted.json` — not modified (193 items logged, unchanged).\n- `wa_queue.json` — not modified (238 items, 174 still pending, all with collection + condition).\n- No item was posted or marked posted; no `wa_post_next` call ever executed.\n- My temporary CDP probe scripts were removed; pre-existing `wa_cdp_run*.py` lib files left intact.\n\n**Next step required (human):** The WhatsApp Business web session needs to be re-linked once by scanning the QR (or re-pairing the linked device) from the phone app. After that the daily 09:00 cron can resume. Queue is healthy and untouched, ready to post when the session returns."
+        "at": "2026-10-28T20:49:58.221206+00:00",
+        "detail": "TimeoutError: Cron job '2Real - WhatsApp Catalogue Poster' idle for 28242s (limit 600s) — last activity: API error recovery (attempt 1/3)"
       }
     },
     {
       "id": "0c0f87b59450",
       "name": "2Real - Jiji Lead Nudger (20/run)",
-      "prompt": "2Real Jiji Lead Nudge — daily batch (harvest + send up to 50). You are H's Jiji lead-nudging agent for the 2 Real Enterprises seller account. Runs ONCE a day, 50 nudges max.\n\nTASK each run:\nSTEP 0 — HARVEST fresh leads (this is the source of truth — the old queue exhausts):\n  `cd C:/Users/User/.hermes/workspace/Vault/business/2real/2real-agent && C:/Users/User/AppData/Local/Programs/Python/Python314/python.exe nudge_harvest.py --max 60`\n  This pulls the Jiji messenger's UNANSWERED conversations (customer wrote last) into nudge_queue.json. It never sends.\n\nSTEP 1 — SEND up to 50:\n1. Read nudge_queue.json.\n2. Read nudge_sent_log.json (skip anyone already sent; one nudge per lead EVER).\n3. Take the NEXT 50 unsent leads (queue is newest-first), open each lead's chat via https://jiji.com.gh + their chat_url path, use the 'message' field verbatim, send via the contenteditable composer + single Enter dispatch (double sends bug — ONE enter only), verify composer empty + message text in thread, then append {name, user_id, chat_id, timestamp} to nudge_sent_log.json after EACH send (timeout-proof per-item saves).\n4. If browser session/login fails, stop immediately, report — do not retry more than twice.\n5. When queue is fully sent, report QUEUE COMPLETE.\n\nRULES:\n- One nudge per lead, never two (H's standing rule).\n- Never send to leads already replied/negotiating (nudge_leads.json hot leads are H's manual conversations — DO NOT touch them).\n- Send pace: ~30s between messages. Log any send error, continue to next lead.\n- WhatsApp CTA 0204252252 only.\n\nSessions: browser session name 'jiji-shop-login' (headed, logged into Jiji as 2Real seller).\nReport at end: X nudges sent today, Y remaining in queue.",
+      "prompt": "2Real Jiji Lead Nudge - daily batch (harvest + send up to 50). You are H's Jiji lead-nudging agent for the 2 Real Enterprises seller account. Runs ONCE a day, 50 nudges max.\n\nTASK each run:\nSTEP 0 - HARVEST fresh leads (this is the source of truth - the old queue exhausts):\n  `cd C:/Users/User/.hermes/workspace/Vault/business/2real/2real-agent && C:/Users/User/AppData/Local/Programs/Python/Python314/python.exe nudge_harvest.py --max 60`\n  This pulls the Jiji messenger's UNANSWERED conversations + saved-ads/contact-view/callback buckets into nudge_queue.json. It never sends.\n\nSTEP 1 - SEND up to 50:\n1. Read nudge_queue.json.\n2. Read nudge_sent_log.json (skip anyone already sent; one nudge per lead EVER - saved_ads: one per distinct item).\n3. Take the NEXT 50 unsent leads (queue is newest-first), open each lead's chat via https://jiji.com.gh + their chat_url path, use the 'message' field verbatim, send via the contenteditable composer + single Enter dispatch (double sends bug - ONE enter only), verify composer empty + message text in thread, then append {name, user_id, chat_id, timestamp} to nudge_sent_log.json after EACH send (timeout-proof per-item saves).\n4. If browser session/login fails, stop immediately, report - do not retry more than twice.\n5. When queue is fully sent, report QUEUE COMPLETE.\n\nAD-TYPE RULE (owner 28/10/26 - differentiate jobs from goods):\n- Each lead carries ad_type = 'job' or 'goods' (nudge_harvest.py now tags it).\n- 'job' lead -> the item is a JOB 2Real advertised (e.g. hiring driver/welder/cleaner/electrician). Send ONLY the job-appropriate message already in lead['message'] (acknowledge the enquiry/app; NEVER pivot to selling goods).\n- 'goods' lead -> normal product nudge (already in lead['message']).\n- If ad_type missing, treat as 'goods'.\n\nRULES:\n- One nudge per lead, never two (H's standing rule).\n- Never send to leads already replied/negotiating (nudge_leads.json hot leads are H's manual conversations - DO NOT touch them).\n- Send pace: ~30s between messages. Log any send error per-item and continue.\n- CTA everywhere: 0204252252.\n- Do NOT edit nudge_harvest.py or this cron - run the harvest + send as specified. Report tersely: leads harvested, sent count, any failures.",
       "skills": [],
       "skill": null,
       "model": "deepseek/deepseek-v4-flash-0731",
@@ -2538,22 +2546,22 @@
       "schedule_display": "0 10 * * *",
       "repeat": {
         "times": null,
-        "completed": 43
+        "completed": 45
       },
       "enabled": true,
       "state": "scheduled",
       "paused_at": null,
       "paused_reason": "Duplicate sends detected - auditing before resume",
       "created_at": "2026-10-15T04:57:40.983008+00:00",
-      "next_run_at": "2026-10-28T10:00:00+00:00",
-      "last_run_at": "2026-10-27T10:17:08.015885+00:00",
+      "next_run_at": "2026-10-29T10:00:00+00:00",
+      "last_run_at": "2026-10-29T00:33:34.218504+00:00",
       "last_status": "ok",
       "last_error": null,
       "last_delivery_error": null,
       "last_delivery_unverified": null,
       "last_failure": {
-        "at": "2026-10-25T17:31:36.430843+00:00",
-        "detail": "RuntimeError: Hermes can't reach the model provider. You may be offline. Check your internet connection and try again."
+        "at": "2026-10-28T20:49:58.423574+00:00",
+        "detail": "TimeoutError: Cron job '2Real - Jiji Lead Nudger (20/run)' idle for 3s (limit 600s) — last activity: ⏳ waiting on provider — retrying in 3s (attempt 1/3)"
       },
       "failure_streak": 0,
       "deliver": "telegram:-1003784520976:1",
@@ -2563,10 +2571,10 @@
       "fire_claim": null,
       "paused": true,
       "last_dispatch": {
-        "scheduled_at": "2026-10-27T10:00:00+00:00",
-        "dispatched_at": "2026-10-27T10:00:24.571806+00:00",
-        "lateness_seconds": 24.6,
-        "kind": "on_time"
+        "scheduled_at": "2026-10-28T10:00:00+00:00",
+        "dispatched_at": "2026-10-28T12:56:11.022541+00:00",
+        "lateness_seconds": 10571.0,
+        "kind": "catch_up"
       }
     },
     {
@@ -2614,17 +2622,17 @@
       "deliver": "origin",
       "repeat": {
         "times": null,
-        "completed": 9
+        "completed": 10
       },
-      "next_run_at": "2026-10-29T04:30:00+00:00",
+      "next_run_at": "2026-10-30T04:30:00+00:00",
       "last_dispatch": {
-        "scheduled_at": "2026-10-28T04:30:00+00:00",
-        "dispatched_at": "2026-10-28T04:30:33.367530+00:00",
-        "lateness_seconds": 33.4,
+        "scheduled_at": "2026-10-29T04:30:00+00:00",
+        "dispatched_at": "2026-10-29T04:30:05.240919+00:00",
+        "lateness_seconds": 5.2,
         "kind": "on_time"
       },
       "fire_claim": null,
-      "last_run_at": "2026-10-28T04:31:08.174184+00:00",
+      "last_run_at": "2026-10-29T04:30:25.887638+00:00",
       "last_status": "ok",
       "last_error": null,
       "failure_streak": 0,
@@ -2678,22 +2686,22 @@
       "deliver": "telegram:-1003784520976:1",
       "repeat": {
         "times": null,
-        "completed": 9
+        "completed": 10
       },
       "skills": [],
       "skill": null,
       "script": null,
       "enabled_toolsets": null,
       "no_agent": false,
-      "next_run_at": "2026-10-29T05:30:00+00:00",
+      "next_run_at": "2026-10-30T05:30:00+00:00",
       "last_dispatch": {
-        "scheduled_at": "2026-10-28T05:30:00+00:00",
-        "dispatched_at": "2026-10-28T05:30:33.369699+00:00",
-        "lateness_seconds": 33.4,
+        "scheduled_at": "2026-10-29T05:30:00+00:00",
+        "dispatched_at": "2026-10-29T05:30:05.234904+00:00",
+        "lateness_seconds": 5.2,
         "kind": "on_time"
       },
       "fire_claim": null,
-      "last_run_at": "2026-10-28T05:31:03.313966+00:00",
+      "last_run_at": "2026-10-29T05:30:34.421351+00:00",
       "last_status": "ok",
       "last_error": null,
       "failure_streak": 0,
@@ -2763,15 +2771,15 @@
       "schedule_display": "0 18 * * 1-6",
       "repeat": {
         "times": null,
-        "completed": 4
+        "completed": 5
       },
       "enabled": true,
       "state": "scheduled",
       "paused_at": null,
       "paused_reason": null,
       "created_at": "2026-10-23T09:13:51.641120+00:00",
-      "next_run_at": "2026-10-28T18:00:00+00:00",
-      "last_run_at": "2026-10-27T18:00:44.168973+00:00",
+      "next_run_at": "2026-10-29T18:00:00+00:00",
+      "last_run_at": "2026-10-28T20:51:20.355341+00:00",
       "last_status": "ok",
       "last_error": null,
       "last_delivery_error": null,
@@ -2788,13 +2796,13 @@
       ],
       "workdir": "C:\\Users\\User\\.hermes\\workspace\\Vault\\business\\2real",
       "last_dispatch": {
-        "scheduled_at": "2026-10-27T18:00:00+00:00",
-        "dispatched_at": "2026-10-27T18:00:24.578976+00:00",
-        "lateness_seconds": 24.6,
-        "kind": "on_time"
+        "scheduled_at": "2026-10-28T18:00:00+00:00",
+        "dispatched_at": "2026-10-28T20:49:17.711017+00:00",
+        "lateness_seconds": 10157.7,
+        "kind": "catch_up"
       },
       "fire_claim": null
     }
   ],
-  "updated_at": "2026-10-28T06:00:33.677048+00:00"
+  "updated_at": "2026-10-29T06:00:05.634996+00:00"
 }

@@ -30,12 +30,12 @@ WhatsApp 0204252252 — send the tool you need and I'll tell you what's in stock
 ---
 
 ## POST 3 — LOCAL / ACCRA BUY & SELL, GHANA RECOMMENDS, WINNERS PAGE
-*Angle: everyday movers (Gorilla proven seller, spray paint, smalls). Price-forward; pickup + delivery.*
+*Angle: everyday movers (Gorilla proven seller, spray paint range — pearlescent/normal/variety, smalls). Price-forward; pickup + delivery.*
 
 Dome Market today, a few things worth knowing about:
 
 • Gorilla Glue & adhesives (the ones that actually hold) in stock now
-• Spray paint: assorted colours
+• Spray paint: pearlescent, normal, huge variety of colours and finishes
 • Household smalls, extensions, bits and pieces
 • Plus live Jiji deals, send me what you're hunting
 

@@ -4153,5 +4153,119 @@
     ],
     "date": "2026-10-27",
     "saved_at": "2026-10-27T06:45:35.485746"
+  },
+  {
+    "active": 1338,
+    "reviewing": 0,
+    "draft": 0,
+    "declined": 9,
+    "closed": 133,
+    "followers": 340,
+    "feedback": 210,
+    "clients": 1,
+    "top_remaining": "500 of 500",
+    "top_expires": "16/12/26",
+    "whatsapp_ads_active": false,
+    "whatsapp_ads_until": "ended 17 Oct - add-on available (20 ads / 14 days / GH\u20b5180)",
+    "balance_ghs": 0,
+    "pro_sales_bonus_ghs": 6422,
+    "top_items": [
+      {
+        "name": "Female Private Driver",
+        "price": 0,
+        "impressions": 6099,
+        "visitors": 766,
+        "chats": 19,
+        "phone_views": 0
+      },
+      {
+        "name": "Live in Private Nurse / Under Graduate Nurse for Elderly Care",
+        "price": 0,
+        "impressions": 3435,
+        "visitors": 552,
+        "chats": 15,
+        "phone_views": 0
+      },
+      {
+        "name": "Elite Construction Team Wanted - Foremen All Trades",
+        "price": 0,
+        "impressions": 3197,
+        "visitors": 542,
+        "chats": 20,
+        "phone_views": 0
+      },
+      {
+        "name": "Live-in Graduate Nurse For Private Elderly Care (Accra)",
+        "price": 0,
+        "impressions": 2971,
+        "visitors": 615,
+        "chats": 11,
+        "phone_views": 0
+      },
+      {
+        "name": "Financial Literacy Facilitator",
+        "price": 0,
+        "impressions": 2878,
+        "visitors": 227,
+        "chats": 2,
+        "phone_views": 0
+      },
+      {
+        "name": "Facilitator for a Child With Autism",
+        "price": 1000,
+        "impressions": 2540,
+        "visitors": 356,
+        "chats": 8,
+        "phone_views": 0
+      },
+      {
+        "name": "Building an Elite Construction Team",
+        "price": 0,
+        "impressions": 2333,
+        "visitors": 343,
+        "chats": 11,
+        "phone_views": 0
+      },
+      {
+        "name": "Robotics/Coding Training Facilitator (Part-Time/Contract)",
+        "price": 0,
+        "impressions": 2263,
+        "visitors": 214,
+        "chats": 5,
+        "phone_views": 0
+      },
+      {
+        "name": "Farm Workers / Farming Family Opportunity",
+        "price": 800,
+        "impressions": 2141,
+        "visitors": 314,
+        "chats": 15,
+        "phone_views": 0
+      },
+      {
+        "name": "Robotics Coding Facilitator \u2013 Akoma Robotics (Commission-Based)",
+        "price": 0,
+        "impressions": 2031,
+        "visitors": 181,
+        "chats": 2,
+        "phone_views": 0
+      }
+    ],
+    "needs_attention": [
+      "Financial Literacy Facilitator \u2014 2878 impressions, 2 chats",
+      "Robotics Coding Facilitator \u2013 Akoma Robotics (Commission-Bas \u2014 2031 impressions, 2 chats",
+      "Stem Special Education Facilitator - Robotics Program for Ch \u2014 1369 impressions, 1 chats",
+      "Sterling Goods 12-in-1 Stainless Steel Bicycle Shaped Multi  \u2014 1065 impressions, 2 chats",
+      "Halfords Over 1800cc Car Battery Charger \u2014 911 impressions, 2 chats",
+      "Halfords Alloy Mini Bicycle Pump 227966 \u2014 837 impressions, 2 chats"
+    ],
+    "action_items": [
+      "Re-categorize + resubmit the 9 declined ads (wrong category: massagers, tools, garden, etc.)",
+      "Renew WhatsApp Button add-on (20 ads / 14 days / GH\u20b5180) - dormant since 17 Oct",
+      "Improve listings: Financial Literacy Facilitator + Akoma Robotics (high impressions, few chats)",
+      "Pro Sales balance GH\u20b56,422 - monitor bid spend"
+    ],
+    "date": "2026-10-28",
+    "saved_at": "2026-10-28T06:43:18.408566"
   }
 ]

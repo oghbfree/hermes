@@ -343,14 +343,16 @@
     {
       "id": "john-sony-loudspeakers-900",
       "nudges_sent": 0,
-      "status": "replied-await",
+      "status": "closed",
       "created": "2026-10-19T15:20:13.321311",
       "buyer": "John",
-      "listing_title": "Sony 2 Long Loudspeakers 6 Ohms 90W \u2014 UK Imported, Quality Checked",
+      "listing_title": "Sony 2 Long Loudspeakers 6 Ohms 90W",
       "item": "Sony 2 Long Loudspeakers 6 Ohms 90W",
       "price": 900,
-      "last_dir": "in",
-      "note": "New buyer msg 19Oct 08:40 (thumbs-up) on Sony Loudspeakers. Reply NOT SENT this run: FB composer pane kept reverting to legacy Meta AI chat, could not safely open John thread. Reply ready: available GHS900, MoMo/cash no credit, Oyarifa pickup/delivery, CTA 0204252252. Send next run before thread goes cold."
+      "last_dir": "out",
+      "note": "SOLD. 29Oct: mistaken available reply -> CORRECTION sent. Flagged to H.",
+      "last_out": "2026-10-29T01:00:29.113099",
+      "updated": "2026-10-29T01:00:29.117955"
     },
     {
       "id": "richard-panasonic-stereo",
@@ -390,13 +392,15 @@
     {
       "id": "amuzu-bosch-pst50a",
       "nudges_sent": 1,
-      "status": "nudged",
+      "status": "flagged",
       "created": "2026-10-21T09:18:28.573103",
       "buyer": "Amuzu",
       "listing_title": "Bosch Drill Jigsaw PST 50a",
       "last_dir": "out",
       "last_out": "2026-10-23T13:39:44.633728",
-      "last_msg": "This one has sold, we have others - are you on WhatsApp. CTA 0204252252"
+      "last_msg": "This one has sold, we have others - are you on WhatsApp. CTA 0204252252",
+      "note": "Nudge SKIPPED 29Oct: last out said sold - contradiction risk. Flagged to H.",
+      "updated": "2026-10-29T01:00:29.121160"
     },
     {
       "id": {
@@ -427,15 +431,17 @@
     },
     {
       "id": "rose-dog-agility-hurdle",
-      "nudges_sent": 1,
+      "nudges_sent": 2,
       "status": "nudged",
       "created": "2026-10-23T17:15:25.138548",
       "buyer": "Rose",
       "listing_title": "Dog Agility Hurdle",
       "price": 600,
       "last_dir": "out",
-      "last_out": "2026-10-25T17:15:51.205334",
-      "last_msg": "Hi Rose! Yes, the Dog Agility Hurdle is still available at GHS 600. UK imported, quality checked. Pickup Oyarifa or Dome, delivery can be arranged. WhatsApp 0204252252 for quick order."
+      "last_out": "2026-10-29T01:00:29.113099",
+      "last_msg": "Hi Rose! Yes, the Dog Agility Hurdle is still available at GHS 600. UK imported, quality checked. Pickup Oyarifa or Dome, delivery can be arranged. WhatsApp 0204252252 for quick order.",
+      "note": "Nudge #2 sent 29Oct",
+      "updated": "2026-10-29T01:00:29.119669"
     },
     {
       "id": "famous-halfords-dlock",
@@ -524,6 +530,30 @@
       "nudges_sent": 0,
       "status": "open",
       "created": "2026-10-27T17:28:57.596190"
+    },
+    {
+      "id": "ninii-designjet-t520",
+      "nudges_sent": 0,
+      "status": "replied",
+      "created": "2026-10-29T01:00:29.114244",
+      "buyer": "Ninii",
+      "listing_title": "HP DesignJet T520 24in Large Format CAD Plotter",
+      "price": 9000,
+      "last_dir": "out",
+      "last_out": "2026-10-29T01:00:29.113099",
+      "note": "Replied 29Oct: available GHS9000 + terms + CTA"
+    },
+    {
+      "id": "gaggenau-stephanie-doh",
+      "nudges_sent": 0,
+      "status": "replied",
+      "created": "2026-10-29T01:00:29.116343",
+      "buyer": "Stephanie (Doh Edzenyunye)",
+      "listing_title": "Gaggenau Industrial Deep Fryer From UK",
+      "price": 1000,
+      "last_dir": "out",
+      "last_out": "2026-10-29T01:00:29.113099",
+      "note": "Replied 29Oct: available GHS1000 + terms + CTA"
     }
   ],
   "nudge_policy": {

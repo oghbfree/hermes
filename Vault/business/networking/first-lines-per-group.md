@@ -42,19 +42,19 @@
 ## POST 3 — LOCAL / ACCRA BUY & SELL, GHANA RECOMMENDS, WINNERS PAGE
 
 ### Ghana Recommends
-*Angle: Local volume movers, value-forward.*
+*Angle: Local volume movers, value-forward. Spray paint range — NOT just metallic: pearlescent + normal spray + huge variety of colours/shades. "Colour for the finish you need."*
 
->"Morning. Dome Market has some things worth knowing about this week — Gorilla Glue fresh stock, spray paints assorted colours, and bits I've tested and priced to move."
+>"Morning. Dome Market has some things worth knowing about this week — Gorilla Glue fresh stock, spray paints in pearlescent and a full range of colours (not just metallic), and bits I've tested and priced to move."
 
 ### Winners Page
-*Angle: Volume, deals, local audience.*
+*Angle: Volume, deals, local audience. Spray paint = colour-for-the-job, not generic.*
 
->"Morning, fam. Some fresh deals landed at 2Real this week. Tools, hardware, gadgets — UK-imported, tested working, honest prices. Dome Market or Oyarifa pickup."
+>"Morning, fam. Some fresh deals landed at 2Real this week. Tools, hardware, gadgets — UK-imported, tested working, honest prices. Dome Market or Oyarifa pickup. Spray paints in pearlescent, normal, assorted colours — whatever finish your job needs."
 
 ### Accra Buy & Sell
-*Angle: Price-forward, new stock, local marketplace.*
+*Angle: Price-forward, new stock, local marketplace. Spray paint as a repeat-sale line.*
 
->"Morning. New stock at 2Real — tools, hardware, tech. UK-imported, tested, priced so they don't sit on the shelf. Come see at Dome Market or send a message."
+>"Morning. New stock at 2Real — tools, hardware, tech, and spray paint in pearlescent and a rainbow of colours. UK-imported, tested, priced so they don't sit on the shelf. Come see at Dome Market or send a message."
 
 ---
 

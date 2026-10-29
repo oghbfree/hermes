@@ -38,9 +38,48 @@ def load(p):
         return []
 
 
-def build_message(name, item, socially=False):
+# Job-ad vs goods-ad classification (H 28/10/26): a reply to a JOB 2Real advertised
+# must not get a "can I sell you this item" nudge (confusing + off-brand), and a
+# goods reply must not get a recruitment nudge. Tag each lead with ad_type + give
+# each type its own template. Jiji job/service categories + keyword signals.
+JOB_CATEGORIES = {'jobs', 'services', 'job vacancies', 'job seekers', 'labor',
+                  'domestic help', 'security services', 'freelance', 'recruitment'}
+JOB_KEYWORDS = ('hiring', 'vacancy', 'position', 'welder', 'driver', 'cleaner', 'security',
+                'nss', 'apply', 'cv', 'salary', 'job', 'recruit', 'labour', 'labor',
+                'caregiver', 'mechanic wanted', 'assistant', 'contractor wanted', 'intern',
+                'electrician', 'plumber', 'carpenter', 'mason', 'tiler', 'painter', 'apprentice',
+                ' shop wiring', 'needed for', 'wanted for', 'required for', 'hiring a', 'lookin for a')
+
+
+def ad_type_for(title, advert=None):
+    """Return 'job' or 'goods' for an ad. Prefer the API advert's category if the
+    API returns one (cased/plural-tolerant), else keyword-scan the title."""
+    t = (title or '').strip()
+    if advert:
+        cat = str(advert.get('category') or advert.get('category_name') or '').strip().lower()
+        if cat:
+            for jc in JOB_CATEGORIES:
+                if jc in cat or cat in jc:
+                    return 'job'
+    tl = t.lower()
+    for kw in JOB_KEYWORDS:
+        if kw in tl:
+            return 'job'
+    return 'goods'
+
+
+def build_message(name, item, socially=False, ad_type='goods'):
     name = (name or '').strip()
     item = (item or '').strip()
+    if ad_type == 'job':
+        # A JOB ad response: acknowledge the enquiry/app; never pivot to selling goods.
+        if socially:
+            return (f"Hi {name}! Just checking in on the position you enquired about — "
+                    f"happy to update you on the role if you're still interested. "
+                    f"Message me on WhatsApp {CTA} when convenient. No pressure!")
+        return (f"Hi {name}! Following up on the job/position you were interested in — "
+                f"let me know if you'd still like details or if anything's changed. "
+                f"Message me on WhatsApp {CTA}.")
     if socially:
         return (f"Hi {name}! Not sure if you're still looking, but the {item} is available "
                 f"at a good price — pickup Oyarifa or Dome, delivery via Yango/Uber arranged. "
@@ -74,13 +113,15 @@ def leads_from_potential_clients(typ):  # 56 contact_view, 67 saved_ad, 58 callb
             chat = u.get('chat_url') or ''
             if not chat and u.get('user_id'):
                 chat = f"/profile-messages/{u.get('user_id')}_{a.get('advert_id')}?utm_source=from_leads"
+            ad_title = a.get('title') or ''
             out.append({
                 "name": name, "user_id": u.get('user_id'),
-                "item": a.get('title') or '', "price": a.get('price'),
+                "item": ad_title, "price": a.get('price'),
                 "advert_id": a.get('advert_id'), "chat_url": chat,
                 "last_seen": u.get('last_seen') or '',
                 "phone": u.get('phone') or '',
                 "source": {56: 'contact_view', 67: 'saved_ad', 58: 'callback'}[typ],
+                "ad_type": ad_type_for(ad_title, a),
             })
         nx = res.get('next_url')
         if not nx or not items:
@@ -98,13 +139,15 @@ def unanswered_chats():
             cust, adv, lmsg = rm.get('user') or {}, rm.get('advert') or {}, rm.get('last_msg') or {}
             if lmsg.get('from_user_id') == SELLER_ID:
                 continue
+            ad_title = adv.get('title') or ''
             out.append({
                 "name": cust.get('user_name') or '', "user_id": cust.get('id'),
-                "item": adv.get('title') or '', "price": adv.get('price'),
+                "item": ad_title, "price": adv.get('price'),
                 "advert_id": adv.get('id'),
                 "chat_url": (f"/profile-messages/{cust.get('id')}_{adv.get('id')}?utm_source=from_leads" if adv.get('id') else ''),
                 "last_seen": lmsg.get('date_created') or '', "phone": '',
                 "source": "unanswered_chat",
+                "ad_type": ad_type_for(ad_title, adv),
             })
     except Exception as e:
         print("chats err:", e)
@@ -126,16 +169,36 @@ def main():
     sent = load(SENT)
     existing = load(QUEUE)
     sent_ids = {str(x.get('user_id')) for x in sent if x.get('user_id')} | {str(x.get('chat_id') or '').split('_')[0] for x in sent if x.get('chat_id')}
+    # Multi-item saved-ads are logged separately at (user,advert) granularity (29 Oct 26)
+    try:
+        mlog = json.load(open(os.path.join(BASE, 'nudge_multi_sent_log.json'), encoding='utf-8')) or []
+    except Exception:
+        mlog = []
+    mlog_items = {(str(x.get('user_id')), str(x.get('advert_id'))) for x in mlog if x.get('advert_id')}
     q_ids = {str(x.get('user_id')) for x in existing if x.get('user_id')}
+    # Item-level sent coverage for saved_ads (rule 29 Oct 26: one nudge per DISTINCT
+    # saved item, not per user). Items already sent carry user_id + advert_id/chat_id.
+    sent_items = {(str(x.get('user_id')), str(x.get('advert_id'))) for x in sent if x.get('advert_id')} | \
+                 {(str(x.get('chat_id') or '').split('_')[0], str(x.get('chat_id') or '').split('_')[1]) for x in sent if '_' in str(x.get('chat_id') or '')} | mlog_items
+    q_items = {(str(x.get('user_id')), str(x.get('advert_id'))) for x in existing if x.get('advert_id')}
     seen = set(); new_leads = []
 
     def add(lead, social):
         uid = lead.get('user_id')
         if not uid: return False
         k = str(uid)
-        if k in seen or k in sent_ids or k in q_ids: return False
+        if k in seen: return False
         seen.add(k)
-        lead['message'] = build_message(lead.get('name', ''), lead.get('item', ''), social)
+        # saved_ads: allow one nudge per distinct (user, advert); skip only if that
+        # exact item is already covered. Other buckets stay user-level (one/lead).
+        if lead.get('source') == 'saved_ad':
+            it = (str(uid), str(lead.get('advert_id')))
+            if it in sent_items or it in q_items: return False
+        else:
+            if k in sent_ids or k in q_ids: return False
+        lead.setdefault('ad_type', 'goods')
+        lead['message'] = build_message(lead.get('name', ''), lead.get('item', ''), social,
+                                        lead.get('ad_type', 'goods'))
         new_leads.append(lead); return True
 
     bundles = [

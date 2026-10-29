@@ -14,3 +14,4 @@
 
 ---
 *Add new corrections below this line.*
+- 28/10/26 | coach | H: "2Real spray-paint range is NOT just metallic — we have pearlescent, normal spray, and a huge variety of colours/shades. Pitch it as 'colour for the job/finish you need'." | ✅ updated first-lines-per-group.md (Ghana Rec/Winners/Accra B&S) + first-group-posts.md (Post 3 spray line); sat-nav recorded in 2real-enterprises-operations skill

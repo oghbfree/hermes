@@ -30,6 +30,16 @@ PROVEN_WANT = {'berkey': ('berkey',), 'bosch': ('bosch', 'bosch drill', 'bosch j
 PROVEN_SCORE = {'gorilla': 999.0, 'berkey': 990.0, 'bosch': 980.0}
 _SCRAP_PRICE = re.compile(r'[^0-9.]')
 
+# WhatsApp catalogue collection rules — loaded once at feed time so every fed item
+# is collected immediately (source category_name/category is often empty).
+wa_rules = []
+_rules_path = os.path.join(PKG, 'wa_collections_rules.json')
+if os.path.exists(_rules_path):
+    try:
+        wa_rules = json.load(open(_rules_path, encoding='utf-8'))['rules']
+    except Exception:
+        wa_rules = []
+
 
 def jload(p):
     try:
@@ -74,6 +84,48 @@ def _feed():
                     except (ValueError, TypeError): continue
                     out[jid] = (row[1], row[7], row[5], row[8])
     return out
+
+
+def assign_collection(title):
+    """Assign a WhatsApp catalogue collection from wa_collections_rules.json (first match wins),
+    then a judgement SUPPLEMENT for gaps the rules file misses. The source next50 items carry
+    category_name/category that is often empty — the catalogue requires a real collection on every
+    item, so we self-assign at feed time instead of leaving it to a patch-up pass."""
+    tl = title.lower()
+    for r in wa_rules:
+        if re.search(r['match'], tl):
+            return r['collection']
+    supplement = (
+        ('Hand Tools — Spanners, Sockets & Pliers', ('plane', 'handsaw', 'hand saw', 'hatchet', ' axe ', 'chisel', 'smoothing')),
+        ('Garden & Farm', ('shear', 'shears', 'pruner', 'secateur', 'topiary', 'hedge', 'machete', 'scythe')),
+        ('Office & B2B', ('headiest', 'headset', 'microphone', ' with mic', 'computer head', 'desk phone')),
+        ('Electronics & Audio', ('sound machine', 'white noise', 'loudspeaker', 'speaker system', 'camera', 'webcam', 'router')),
+        ('Master Lock and Keysafe', ('disc lock', 'padlock', 'lock box', 'keysafe', 'chain lock', 'bike lock')),
+        ('Staples/Nail Guns', ('staple gun', 'tacker', 'nail gun', 'stapler')),
+        ('Glue Guns Corded & Cordless', ('glue gun', 'hot glue', 'glue stick gun')),
+        ('Power Tools — UK Brand', ('rotary tool', 'dremel', 'multi-tool', 'multi tool', 'impact driver', 'circular saw')),
+    )
+    for col, kws in supplement:
+        if any(k in tl for k in kws):
+            return col
+    return ''
+
+
+def classify_condition(title, src_condition):
+    """Honest NEW/USED gate at refill time (H's rule: almost nothing is provably new).
+    NEW only when the title proves it ('brand new/sealed/new in box') OR the item is a sealed
+    consumable (spray/tape/glue/epoxy/adhesive/battery/blade/LEGO/filter). A 'glue gun' or 'staple gun'
+    is a POWER TOOL, not a consumable — default it to USED even if 'glue'/'stapl' matches."""
+    tl = title.lower()
+    provably_new = any(k in tl for k in ('brand new', 'brand-new', 'sealed', 'new in box', 'unopened'))
+    consumable = any(k in tl for k in ('spray', 'tape', 'glue', 'epoxy', 'adhesive', 'sealant',
+                                        'battery pack', 'blade', 'filter', ' lego', 'lubricant', ' wax ',
+                                        ' lego ', 'lego star', 'lego marvel', 'lego harry', 'lego city'))
+    if provably_new:
+        return 'NEW'
+    if consumable and ' gun' not in tl:
+        return 'NEW'
+    return 'USED'
 
 
 def norm(t):
@@ -136,7 +188,7 @@ def main():
     deduped = [(it, sc) for it, sc in by_id.values()]
 
     # exclude already-posted / already-in-queue
-    candidates = [(it, sc) for it, sc in deduped if it['jiji_id'] not in done_ids]
+    candidates = [(it, sc) for it, sc in deduped if str(it['jiji_id']) not in {str(x) for x in done_ids}]
     # sort by proven score desc, then price desc (premium-first feel)
     candidates.sort(key=lambda x: (-x[1], -(x[0].get('price') or 0)))
 
@@ -144,6 +196,7 @@ def main():
     fresh = []
     for it, sc in candidates[:cap*3]:  # allow slack for title-dedup drops
         if len(fresh) >= cap: break
+        it['jiji_id'] = int(it['jiji_id'])
         price = int(round((it.get('price') or 0) * 1.2 / 10.0) * 10)
         title = re.sub(r'\s+', ' ', it.get('title') or '').strip()
         wa_title = '%s %dgh' % (title, price)
@@ -151,14 +204,15 @@ def main():
             print('  dup-title skip:', wa_title[:60])
             continue
         photo = ensure_photo(it['jiji_id'])
+        title_raw = it.get('title') or ''
         fresh.append({
             'jiji_id': it['jiji_id'],
             'wa_title': wa_title,
             'jiji_price': it.get('price'),
             'wa_price': price,
             'photo': os.path.relpath(photo, PKG),
-            'condition': it.get('condition', 'NEW' if 'new' in (it.get('title') or '').lower() else 'USED'),
-            'collection': it.get('category_name') or it.get('category') or '',
+            'condition': classify_condition(title_raw, it.get('condition')),
+            'collection': assign_collection(title_raw) or it.get('category_name') or it.get('category') or '',
             'source': 'feed_wa',
             'score': sc,
         })

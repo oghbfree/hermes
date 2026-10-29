@@ -18,6 +18,7 @@
 - 28/10/26 | content-buddy | Formal DM confirmation: JD + GUARDRAILS + CORRECTIONS_LOG + HOUSE_RULES all read; draft-only (sat-nav verifies, H sends), audit duty accepted (logged adoption), CTA/Jiji/Godin/no-fabrication/SlopMonster rails binding | ✅ aligned (formal)
 - 28/10/26 | taiwah | Cadence-gap deliverable VERIFIED on disk: gorilla-reel card + 20s script, live Jiji prices, CTA 0204252252, no face render, sat-nav re-ran SlopMonster → 5/5 CLEAN (not taken on faith) | ✅ READY for H send
 - 28/10/26 | coach | Read BOT_JOB_SPECS/coach.md + GUARDRAILS.md + AUDIT_LOG/CORRECTIONS_LOG; alignment confirmed (draft-only, no ⏳-group posts, audit lines after state changes) | ✅ confirmed
+- 28/10/26 | coach | Updated spray paint copy across first-lines-per-group.md + first-group-posts.md (pearlescent/normal/variety angle per H correction) | ✅ both files patched; correction logged to CORRECTIONS_LOG
 
 2026-10-28 | hermes | switched content-buddy primary model to deepseek-v4-flash-0731 + fallback GLM-5.3-flash + reasoning_effort=low (H approved "yes") | DONE - verified live
 2026-10-28 | hermes | read + adopted HOUSE_RULES.md, BOT_JOB_SPECS/hermes.md, GUARDRAILS.md; replied to sat-nav with alignment + front-door caveat | DONE

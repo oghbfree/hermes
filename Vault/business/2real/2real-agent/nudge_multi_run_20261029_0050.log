@@ -1,0 +1,24 @@
+PLAN: 21 rows, 21 to send (after item-level dedup)
+[1/21] ok: uid=124047 :: Neu Master Ntc0040-Au Electric Tacker, a | verified in thread
+[2/21] ok: uid=124047 :: Gorilla Heavy Duty Grab Adhesive Crystal | verified in thread
+[3/21] ok: uid=2138459 :: Little Life Toddler Backpack With Lead | verified in thread
+[4/21] ok: uid=2138459 :: Draper Socket Set 1/4 Drive Metric 27pc  | verified in thread
+[5/21] ok: uid=2138459 :: Draper 24 Volt Cordless Combi Hammer Dri | verified in thread
+[6/21] ok: uid=2138459 :: Parkside Angled Bit Holder With Bit Set  | verified in thread
+[7/21] ok: uid=2138459 :: Roughneck Gorilla Rou11005 v-Series Claw | verified in thread
+[8/21] ok: uid=2138459 :: Smith and Locke Combination Push Button  | verified in thread
+[9/21] ok: uid=1974082 :: Draper 80-Piece Security Screwdriver Bit | verified in thread
+[10/21] ok: uid=1974082 :: Ryobi Drill Battery Charger | verified in thread
+[11/21] ok: uid=1974082 :: Lithium Ion Battery Pack Fbli20011 | verified in thread
+[12/21] ok: uid=839273 :: Trust 42-in-1 USB 2.0 Multi-Card Reader  | verified in thread
+[13/21] ok: uid=839273 :: TeckNet 1080P Full HD Webcam Featuring a | verified in thread
+[14/21] ok: uid=6496963 :: Olympus FE-170 6.0MP Compact Digital Cam | verified in thread
+[15/21] ok: uid=6496963 :: Panasonic Lumix Digital Camera With Batt | verified in thread
+[16/21] ok: uid=422331 :: Erbauer 32-Piece Master Screwdriver Bit  | verified in thread
+[17/21] ok: uid=422331 :: Erbauer 180mm X 22.2mm Continuous Rim Di | verified in thread
+[18/21] ok: uid=422331 :: Astarve Pneumatic Compressed Air Duster  | verified in thread
+[19/21] ok: uid=422331 :: Erbauer 16oz 454g Steel Rip Claw Hammer  | verified in thread
+[20/21] ok: uid=422331 :: Wickes 6-Piece Wood Auger Bit Set | verified in thread
+[21/21] ok: uid=422331 :: Stanley Dynagrip 3-Piece Wood Chisel Set | verified in thread
+
+DONE: 21 ok/uncertain, 0 failed. item log: 21
