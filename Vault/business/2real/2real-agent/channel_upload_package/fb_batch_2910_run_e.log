@@ -1,0 +1,33 @@
+posting 16618972 | Samsung Wireless Charger Duo Model: EP-P4300 — UK Imported, Quality Checked | 400 | cat: Tools | cond: USED | photo: C:\Users\User\.hermes\workspace\Vault\business\2real\2real-agent\channel_upload_package\photos\16618972_v16618972.jpg
+desc: 'Wireless Fast Charging up to 9W, charges phone plus watch/buds at once, Qi certified, USB Type-C. UK Imported. Used cond' ...
+attempt 0 -> PUBLISHED
+LOGGED 16618972
+GROUP-SHARE 16618972 -> LOOKUP failed for 'Samsung Wireless Charger Duo Model: EP-P4300 — UK Imported, Quality Checked' — sharing skipped (not found/ambiguous) DONE — 0/2 group shares 
+posting 16482202 | Lowepro Nova 160 AW Camera Shoulder Bag — UK Imported, Quality Checked | 480 | cat: Electronics & computers | cond: USED | photo: C:\Users\User\.hermes\workspace\Vault\business\2real\2real-agent\channel_upload_package\photos\16482202_v16482202.jpg
+desc: 'Fits DSLR with attached lens plus 1-2 extra lenses and flash; 840D nylon; All Weather rain cover; padded strap. Used con' ...
+attempt 0 -> PUBLISHED
+LOGGED 16482202
+GROUP-SHARE 16482202 -> LOOKUP failed for 'Lowepro Nova 160 AW Camera Shoulder Bag — UK Imported, Quality Checked' — sharing skipped (not found/ambiguous) DONE — 0/2 group shares 
+posting 16390735 | Genuine Roscomar Walking Shoes Size 39 — UK Imported, Quality Checked | 200 | cat: Tools | cond: USED | photo: C:\Users\User\.hermes\workspace\Vault\business\2real\2real-agent\channel_upload_package\photos\16390735_v16390735.jpg
+desc: 'Comfort walking shoes, size 39 (UK). Robust sole, everyday wear. Good used condition - quality checked.\n\nNo credit - MoM' ...
+attempt 0 -> PUBLISHED
+LOGGED 16390735
+GROUP-SHARE 16390735 -> LOOKUP failed for 'Genuine Roscomar Walking Shoes Size 39 — UK Imported, Quality Checked' — sharing skipped (not found/ambiguous) DONE — 0/2 group shares 
+posting 16537161 | T-Rex Clear Mounting Tape (Extra Thick Double Sided Tape) — UK Imported, Quality Checked | 150 | cat: Tools | cond: NEW | photo: C:\Users\User\.hermes\workspace\Vault\business\2real\2real-agent\channel_upload_package\photos\16537161_v16537161.jpg
+desc: 'Extra thick double-sided clear mounting tape; holds up to 30 lbs; all-weather strong adhesive. Fresh stock, brand new.\n\n' ...
+attempt 0 -> PUBLISHED
+LOGGED 16537161
+GROUP-SHARE 16537161 -> LOOKUP failed for 'T-Rex Clear Mounting Tape (Extra Thick Double Sided Tape) — UK Imported, Quality Checked' — sharing skipped (not found/ambiguous) DONE — 0/2 group shares 
+posting 5985587 | Tags for Tagging Gun — UK Imported, Quality Checked | 180 | cat: Tools | cond: USED | photo: C:\Users\User\.hermes\workspace\Vault\business\2real\2real-agent\channel_upload_package\photos\5985587_v5985587.jpg
+desc: 'Plastic fastening tags for tagging gun; standard refill pack. Used condition - inspected and working.\n\nStrictly MoMo or ' ...
+attempt 0 -> FAIL cat open
+attempt 1 -> PUBLISHED
+LOGGED 5985587
+GROUP-SHARE 5985587 -> LOOKUP failed for 'Tags for Tagging Gun — UK Imported, Quality Checked' — sharing skipped (not found/ambiguous) DONE — 0/2 group shares 
+
+BATCH SUMMARY:
+  16618972: published
+  16482202: published
+  16390735: published
+  16537161: published
+  5985587: published

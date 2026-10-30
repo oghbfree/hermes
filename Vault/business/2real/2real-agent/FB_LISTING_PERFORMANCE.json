@@ -8770,6 +8770,36 @@
       "chats": 0,
       "sold": false,
       "price_drops": 0
+    },
+    {
+      "jiji_id": "14443676",
+      "title": "Ryobi R18id2-0 Impact Wrench 1/4\" Hex 18v One+ 200nm (Body Only)",
+      "price": 1200,
+      "posted_date": "2026-10-29",
+      "views": 0,
+      "chats": 0,
+      "sold": false,
+      "price_drops": 0
+    },
+    {
+      "jiji_id": "16589887",
+      "title": "Ryobi 18V ONE+ Cordless Impact Driver",
+      "price": 1200,
+      "posted_date": "2026-10-29",
+      "views": 0,
+      "chats": 0,
+      "sold": false,
+      "price_drops": 0
+    },
+    {
+      "jiji_id": "16482090",
+      "title": "BaoFeng BF-888S UHF Two-Way Radio / Walkie-Talkie",
+      "price": 300,
+      "posted_date": "2026-10-29",
+      "views": 0,
+      "chats": 0,
+      "sold": false,
+      "price_drops": 0
     }
   ],
   "price_drop_policy": {

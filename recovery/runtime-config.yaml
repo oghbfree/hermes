@@ -1,4 +1,4 @@
-_config_version: 50
+_config_version: 51
 GATEWAY_ALLOW_ALL_USERS: true
 agent:
   api_max_retries: 3
@@ -375,6 +375,7 @@ gateway:
   strict: false
   trust_recent_files: true
   trust_recent_files_seconds: 600
+  multiplex_profiles: true
 goals:
   max_turns: 20
 group_sessions_per_user: true
@@ -487,7 +488,8 @@ moa:
 model:
   default: z-ai/glm-5.3-flash
   provider: openrouter
-  base_url: ''
+  base_url: 'https://openrouter.ai/api/v1'
+  api_mode: chat_completions
 model_catalog:
   enabled: true
   url: https://hermes-agent.nousresearch.com/docs/api/model-catalog.json

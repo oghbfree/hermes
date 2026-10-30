@@ -1,564 +1,627 @@
 {
-  "updated": "2026-10-19T15:20:13.324285",
-  "threads": [
-    {
-      "id": {
-        "thread_id": "awurabena_lumix",
-        "buyer": "Awurabena",
-        "item": "Panasonic Lumix Compact Digital Camera",
-        "last_direction": "us",
-        "last_msg": "Yes, are you interested?",
-        "last_ts": "2026-10-15T08:39:43.372904",
-        "nudge_count": 0
-      },
-      "nudges_sent": 0,
-      "status": "open",
-      "created": "2026-10-15T08:39:43.372919"
-    },
-    {
-      "id": {
-        "thread_id": "awurabena_lumix",
-        "buyer": "Awurabena",
-        "item": "Panasonic Lumix Compact Digital Camera \u2014 UK Used",
-        "last_direction": "us",
-        "last_msg": "Still available. MoMo or cash only - no credit. Pickup in Oyarifa by appointment. Call/WhatsApp 0204252252.",
-        "last_ts": "2026-10-15T08:39:54.956965",
-        "nudge_count": 0
-      },
-      "nudges_sent": 0,
-      "status": "open",
-      "created": "2026-10-15T08:39:54.956979"
-    },
-    {
-      "id": {
-        "thread_id": "awurabena-panasonic-980",
-        "buyer": "Awurabena",
-        "listing": "Panasonic Lumix Compact Digital Camera With Battery & Charger \u2014 UK Used",
-        "last_msg": "Hi Awurabena! The model is the Panasonic Lumix DMC-ZS5 compact digital camera, UK used and tested in good working condition, sold with its battery and charger. It's GHS 980, still available. MoMo or cash only - no credit. Pickup in Oyarifa by appointment. Call/WhatsApp 0204252252.",
-        "last_dir": "us",
-        "status": "awaiting_buyer"
-      },
-      "nudges_sent": 0,
-      "status": "open",
-      "created": "2026-10-15T08:57:40.639024"
-    },
-    {
-      "id": {
-        "buyer": "Awurabena",
-        "item": "Panasonic Lumix Compact Digital Camera",
-        "last_msg": "Hi Awurabena! The model is the Panasonic Lumix DMC-ZS5 compact digital camera, UK used and tested in good working condition, sold with its battery and charger. It's GHS 980, still available. MoMo or cash only - no credit. Pickup in Oyarifa by appointment. Call/WhatsApp 0204252252.",
-        "who": "seller"
-      },
-      "nudges_sent": 0,
-      "status": "open",
-      "created": "2026-10-15T09:07:29.211199"
-    },
-    {
-      "id": "awurabena-panasonic-lumix",
-      "nudges_sent": 2,
-      "status": "nudged",
-      "created": "2026-10-15T09:22:27.685441",
-      "buyer": "Awurabena",
-      "listing_title": "Panasonic Lumix Compact Digital Camera With Battery & Charger \u2014 UK Used, Tested Working",
-      "last_dir": "out",
-      "last_msg": "Hi Awurabena! The model is the Panasonic Lumix DMC-ZS5 compact digital camera, UK used and tested in good working condition, sold with its battery and charger. It's GHS 980, still available. MoMo or cash only - no credit. Pickup in Oyarifa by appointment. Call/WhatsApp 0204252252.",
-      "last_out": "2026-10-16T11:39:43.188494"
-    },
-    {
-      "id": "chris-xbox360-075",
-      "nudges_sent": 2,
-      "status": "nudged",
-      "created": "2026-10-15T11:52:08.088770",
-      "buyer": "Chris",
-      "listing_title": "Xbox 360 Games CD Assorted Titles Read Description",
-      "price": 80,
-      "last_msg": "Hi Chris - quick correction and update: the item in this chat is the Xbox 360 Games CD Assorted Titles (UK used) at GHS 80. Still available. WhatsApp 0204252252",
-      "last_dir": "out",
-      "last_out": "2026-10-16T12:14:52.278015",
-      "updated": "2026-10-16T12:14:52.277340"
-    },
-    {
-      "id": "chris_xbox360",
-      "nudges_sent": 0,
-      "status": "open",
-      "created": "2026-10-15T13:12:26.995646",
-      "buyer": "Chris",
-      "item": "Xbox 360 Games CD Assorted Titles Read Description \u2014 UK Used, Quality Checked",
-      "price": 80,
-      "last_from": "us",
-      "last_ts": "2026-10-15T13:12:26"
-    },
-    {
-      "id": "awurabena_lumix",
-      "nudges_sent": 0,
-      "status": "open",
-      "created": "2026-10-15T13:12:26.996269",
-      "buyer": "Awurabena",
-      "item": "Panasonic Lumix DMC-ZS5",
-      "price": 980,
-      "last_from": "us",
-      "last_ts": "2026-10-16T08:57",
-      "item_title": "Panasonic Lumix Compact Digital Camera With Battery & Charger \u2014 UK Used, Tested Working",
-      "last_buyer_msg": "model enquiry",
-      "last_reply": "Panasonic Lumix DMC-ZS5, UK used tested working, GHS 980. MoMo or cash only. Oyarifa pickup. 0204252252.",
-      "replied_by": "agent",
-      "source": "fb_marketplace",
-      "updated": "2026-10-16T02:04:47.348490",
-      "last_msg_from": "us"
-    },
-    {
-      "id": {
-        "thread_id": "chris-xbox360",
-        "listing_title": "Xbox 360 Games CD Assorted Titles \u2014 UK Used, Quality Checked",
-        "buyer": "Chris",
-        "last_dir": "us",
-        "last_text": "Yes, still available! GHS 80...",
-        "status": "open"
-      },
-      "nudges_sent": 0,
-      "status": "open",
-      "created": "2026-10-15T15:03:14.294730"
-    },
-    {
-      "id": {
-        "thread_id": "awurabena-panasonic-lumix",
-        "listing_title": "Panasonic Lumix Compact Digital Camera With Battery & Charger \u2014 UK Used",
-        "buyer": "Awurabena",
-        "last_dir": "us",
-        "last_text": "Lumix DMC-ZS5 GHS 980...",
-        "status": "open"
-      },
-      "nudges_sent": 0,
-      "status": "open",
-      "created": "2026-10-15T15:03:14.295702"
-    },
-    {
-      "id": "chris_xbox360games",
-      "nudges_sent": 2,
-      "status": "nudged",
-      "created": "2026-10-15T17:27:48.852813",
-      "buyer": "Chris",
-      "item_title": "Xbox 360 Games CD Assorted Titles Read Description \u2014 UK Used, Quality Checked",
-      "last_buyer_msg": "Is this still available?",
-      "last_reply": "Yes, still available! Assorted Xbox 360 game CDs (UK used) - GHS 80. MoMo or cash only. Pickup Oyarifa. Call/WhatsApp 0204252252.",
-      "replied_by": "agent",
-      "source": "fb_marketplace",
-      "item": "Xbox 360 Games CD Assorted Titles",
-      "last_msg_from": "us",
-      "last_ts": "2026-10-16T02:05",
-      "updated": "2026-10-16T02:06:06.879565",
-      "last_out": "2026-10-16T02:06:06.878326",
-      "last_dir": "out"
-    },
-    {
-      "id": "nii_xbox360games",
-      "nudges_sent": 2,
-      "status": "nudged",
-      "created": "2026-10-16T02:04:47.347141",
-      "buyer": "Nii",
-      "item": "Xbox 360 Games CD Assorted Titles",
-      "last_msg_from": "us",
-      "last_ts": "2026-10-16T02:04",
-      "last_dir": "out",
-      "last_out": "2026-10-25T18:28:07.349137",
-      "updated": "2026-10-25T18:19:16.423839",
-      "note": "18Oct 16:43 nudge MIS-SENT to Doris chat (wrong thread); correct nudge sent to Nii 18Oct evening; nudges_sent incremented.",
-      "listing_title": "Xbox 360 Games CD Assorted Titles"
-    },
-    {
-      "id": {
-        "thread_id": "chris-xbox360-80",
-        "buyer": "Chris",
-        "listing": "Xbox 360 Games CD Assorted Titles \u2014 UK Used",
-        "last_msg": "Hi again - the item is still here if you are still interested. GHS 80. MoMo or cash only - no credit. Pickup in Oyarifa by appointment. Call/WhatsApp 0204252252.",
-        "last_dir": "us",
-        "status": "awaiting_buyer",
-        "nudge_count": 1
-      },
-      "nudges_sent": 0,
-      "status": "open",
-      "created": "2026-10-16T11:37:53.895691"
-    },
-    {
-      "id": "hellen-magnum-talos-690",
-      "nudges_sent": 0,
-      "status": "replied-await",
-      "created": "2026-10-17T11:34:26.320960",
-      "buyer": "Hellen",
-      "listing_title": "Magnum Plus Talos Anti-Theft Disc Lock Motorcycle 5.5mm Pin",
-      "price": 690,
-      "last_dir": "out",
-      "note": "Buyer asked availability Fri 18:51; we replied 03:24 17Oct with price/CTA; awaiting buyer.",
-      "source": "cron-171026-inbox-scan"
-    },
-    {
-      "id": "ananman-ingco-gg258",
-      "nudges_sent": 0,
-      "status": "open",
-      "created": "2026-10-17T15:03:59.940922",
-      "buyer": "Ananman",
-      "item": "Ingco Glue Gun Gg258",
-      "last_from": "us",
-      "note": "Asked delivery; replied GHS150, MoMo/cash, Oyarifa pickup/delivery, CTA 0204252252 (17 Oct 14:5x)"
-    },
-    {
-      "id": "ananman_ingco_gg258",
-      "nudges_sent": 0,
-      "status": "active",
-      "created": "2026-10-17T16:27:08.130296",
-      "buyer": "Ananman",
-      "item": "Ingco Glue Gun Gg258",
-      "price": 150,
-      "last_our_msg": "2026-10-17T16:27:08",
-      "last_buyer_msg": "2026-10-17T16:27:08"
-    },
-    {
-      "id": {
-        "thread_id": "hellen-magnumplus-talos-690",
-        "buyer": "Hellen",
-        "listing_title": "Magnum Plus Talos Anti-Theft Disc Lock Motorcycle 5.5mm Pin - UK Imported",
-        "price": 690,
-        "last_msg": "Hi Hellen! Yes, available - GHS 690. MoMo or cash only. Oyarifa pickup/delivery. WhatsApp 0204252252",
-        "last_dir": "us"
-      },
-      "nudges_sent": 0,
-      "status": "open",
-      "created": "2026-10-17T19:01:24.834811"
-    },
-    {
-      "id": {
-        "thread_id": "ananman-ingco-gluegun",
-        "buyer": "Ananman",
-        "listing_title": "Ingco Glue Gun GG258",
-        "last_msg": "We are in Oyarifa (near Adenta-Dodowa road), Accra. Pickup by appointment, or delivery within Accra. WhatsApp 0204252252",
-        "last_dir": "us"
-      },
-      "nudges_sent": 0,
-      "status": "open",
-      "created": "2026-10-17T19:01:24.835760"
-    },
-    {
-      "id": "valerie-aochuan-gimbal-950",
-      "nudges_sent": 0,
-      "status": "awaiting_buyer",
-      "created": "2026-10-18T01:38:38.860090",
-      "buyer": "Valerie",
-      "listing_title": "AOCHUAN Smart XE 3-Axis Smartphone Gimbal Stabilizer \u2014 UK Imported, Quality Checked",
-      "price": 950,
-      "last_dir": "out",
-      "last_msg": "Yes, are you interested?",
-      "last_out": "2026-10-18T01:15:00"
-    },
-    {
-      "id": "ananman-ingco-gluegun",
-      "nudges_sent": 2,
-      "status": "nudged",
-      "created": "2026-10-18T01:38:38.860824",
-      "last_dir": "out",
-      "last_out": "2026-10-23T13:37:04.180603"
-    },
-    {
-      "id": "hellen-magnumplus-talos-690",
-      "nudges_sent": 2,
-      "status": "nudged",
-      "created": "2026-10-18T01:38:38.861549",
-      "last_dir": "out",
-      "last_out": "2026-10-25T18:29:27.145465",
-      "listing_title": "Magnum Plus Talos Anti-Theft Disc Lock (5.5mm pin)",
-      "updated": "2026-10-25T18:28:07.347220"
-    },
-    {
-      "id": "Doris-Leapfrog",
-      "nudges_sent": 0,
-      "status": "open",
-      "created": "2026-10-18T16:42:15.243526",
-      "buyer": "Doris",
-      "listing_title": "Leapfrog 2 in 1 Touch Tablet and Laptop",
-      "last_dir": "out"
-    },
-    {
-      "id": "kwasi-fisher-f11-2500",
-      "nudges_sent": 0,
-      "status": "awaiting_buyer",
-      "created": "2026-10-18T17:41:12.069583",
-      "buyer": "Kwasi",
-      "listing_title": "Fisher F11 Metal Detector \u2014 Jewellery, Gold & Coins, 3 Modes \u2014 UK Imported, Quality Checked",
-      "price": 2500,
-      "last_dir": "out",
-      "last_out": "2026-10-18T17:41:12.067541",
-      "last_msg": "Full reply sent (available, GHS 2500, MoMo/cash, CTA). Buyer first asked 13:19; terse \"Yes\" reply by earlier run.",
-      "note": "prior terse \"Yes\" 13:32 18Oct"
-    },
-    {
-      "id": "doris-leapfrog-250",
-      "nudges_sent": 0,
-      "status": "awaiting_buyer",
-      "created": "2026-10-18T17:41:12.070394",
-      "buyer": "Doris",
-      "listing_title": "Leapfrog 2 in 1 Touch Tablet and Laptop \u2014 UK Imported, Quality Checked",
-      "price": 250,
-      "last_dir": "out",
-      "last_out": "2026-10-18T17:41:12.067541",
-      "note": "INCIDENT 18Oct 16:43: Xbox nudge mis-sent into Doris thread; apology+item correction sent 18Oct ~17:5x. Buyer query answered 16:41."
-    },
-    {
-      "id": "valerie-aochuan-gimbal",
-      "nudges_sent": 0,
-      "status": "closed",
-      "created": "2026-10-18T17:41:12.071097",
-      "buyer": "Valerie",
-      "listing_title": "AOCHUAN Smart XE 3-Axis Smartphone Gimbal Stabilizer \u2014 UK Imported, Quality Checked",
-      "last_dir": "in",
-      "last_msg": "Replied No (declined follow-up)",
-      "last_out": "2026-10-18T17:41:12.067541",
-      "note": "Buyer replied \"No\" 18Oct 16:01 \u2014 no further contact (no nudge, no discount).",
-      "item": "AOCHUAN Smart XE 3-Axis Gimbal Stabilizer",
-      "last_direction": "buyer",
-      "last_at": "2026-10-18T18:40:41.538953",
-      "updated": "2026-10-18T18:40:41.600269"
-    },
-    {
-      "id": "kwasi-fisher-f11",
-      "nudges_sent": 0,
-      "status": "open",
-      "created": "2026-10-18T18:40:41.540326",
-      "buyer": "Kwasi",
-      "item": "Fisher F11 Metal Detector",
-      "price": 2500,
-      "last_direction": "us",
-      "last_msg": "Sent price/payment/pickup details + CTA",
-      "last_at": "2026-10-18T18:40:41.538953"
-    },
-    {
-      "id": "doris-leapfrog-tablet",
-      "nudges_sent": 0,
-      "status": "open",
-      "created": "2026-10-18T18:40:41.626350",
-      "buyer": "Doris",
-      "item": "Leapfrog 2 in 1 Touch Tablet and Laptop",
-      "last_direction": "us",
-      "last_msg": "Nudge sent 18/10 16:43",
-      "last_at": "2026-10-18T18:40:41.538953"
-    },
-    {
-      "id": "john-sony-loudspeakers-900",
-      "nudges_sent": 0,
-      "status": "closed",
-      "created": "2026-10-19T15:20:13.321311",
-      "buyer": "John",
-      "listing_title": "Sony 2 Long Loudspeakers 6 Ohms 90W",
-      "item": "Sony 2 Long Loudspeakers 6 Ohms 90W",
-      "price": 900,
-      "last_dir": "out",
-      "note": "SOLD. 29Oct: mistaken available reply -> CORRECTION sent. Flagged to H.",
-      "last_out": "2026-10-29T01:00:29.113099",
-      "updated": "2026-10-29T01:00:29.117955"
-    },
-    {
-      "id": "richard-panasonic-stereo",
-      "nudges_sent": 2,
-      "status": "nudged",
-      "created": "2026-10-21T09:16:52.144172",
-      "buyer": "Richard",
-      "listing_title": "Panasonic Stereo Tuner Amp Sound System Set Cd,radio,aux, Cassette",
-      "last_dir": "out",
-      "last_out": "2026-10-25T17:15:51.205334",
-      "last_msg": "Yes - still available at GHS 650. UK pre-owned, tested working. MoMo/cash. CTA 0204252252"
-    },
-    {
-      "id": "michael-kwesi-karcher-900",
-      "nudges_sent": 2,
-      "status": "nudged",
-      "created": "2026-10-21T09:17:36.858462",
-      "buyer": "Michael Kwesi",
-      "listing_title": "Karcher 900 Pressure Washer Pre Owned \u2014 UK Imported, Quality Checked",
-      "last_dir": "out",
-      "last_out": "2026-10-25T17:15:51.205334",
-      "last_msg": "Yes - Karcher 900 still available at GHS 1,000. Tested working. MoMo/cash. CTA 0204252252"
-    },
-    {
-      "id": "opoku-lvyuan-inverter",
-      "nudges_sent": 0,
-      "status": "awaiting_buyer",
-      "created": "2026-10-21T09:18:08.985859",
-      "buyer": "Opoku",
-      "listing_title": "LVYUAN 800w/2000w Pure Sine-Wave Power Inverter",
-      "last_dir": "out",
-      "last_out": "2026-10-23T13:40:00.856485",
-      "last_msg": "Replied: GHS 900, we are in Oyarifa near Adenta-Dodowa road, CTA when arriving (buyer said just before Oyarifa)",
-      "price": 900,
-      "updated": "2026-10-23T13:40:00.857404"
-    },
-    {
-      "id": "amuzu-bosch-pst50a",
-      "nudges_sent": 1,
-      "status": "flagged",
-      "created": "2026-10-21T09:18:28.573103",
-      "buyer": "Amuzu",
-      "listing_title": "Bosch Drill Jigsaw PST 50a",
-      "last_dir": "out",
-      "last_out": "2026-10-23T13:39:44.633728",
-      "last_msg": "This one has sold, we have others - are you on WhatsApp. CTA 0204252252",
-      "note": "Nudge SKIPPED 29Oct: last out said sold - contradiction risk. Flagged to H.",
-      "updated": "2026-10-29T01:00:29.121160"
-    },
-    {
-      "id": {
-        "name": "Agnes",
-        "item": "Leapfrog 2 in 1 Touch Tablet and Laptop",
-        "price": 250,
-        "thread": "Leapfrog",
-        "last_side": "agent",
-        "ts": "2026-10-22T21:00",
-        "note": "Replied in stock at GHS250 + CTA"
-      },
-      "nudges_sent": 0,
-      "status": "open",
-      "created": "2026-10-22T22:45:07.622189"
-    },
-    {
-      "id": "promisekirk-universal-flightcase",
-      "nudges_sent": 0,
-      "status": "awaiting_buyer",
-      "created": "2026-10-23T13:40:00.856485",
-      "buyer": "Promise Kirk",
-      "listing_title": "Universal Flight Case 111cml X 47cmh X 45cmw Heavy Duty Storage Uk",
-      "price": 2800,
-      "last_dir": "out",
-      "last_out": "2026-10-23T17:15:25.138509",
-      "last_msg": "Sure, call or WhatsApp 0204252252 anytime. The Universal Flight Case (111x47x45cm) is here in Oyarifa near Adenta-Dodowa road - you are welcome to come see it before deciding. Just let me know when you are around.",
-      "updated": "2026-10-23T17:15:25.139799"
-    },
-    {
-      "id": "rose-dog-agility-hurdle",
-      "nudges_sent": 2,
-      "status": "nudged",
-      "created": "2026-10-23T17:15:25.138548",
-      "buyer": "Rose",
-      "listing_title": "Dog Agility Hurdle",
-      "price": 600,
-      "last_dir": "out",
-      "last_out": "2026-10-29T01:00:29.113099",
-      "last_msg": "Hi Rose! Yes, the Dog Agility Hurdle is still available at GHS 600. UK imported, quality checked. Pickup Oyarifa or Dome, delivery can be arranged. WhatsApp 0204252252 for quick order.",
-      "note": "Nudge #2 sent 29Oct",
-      "updated": "2026-10-29T01:00:29.119669"
-    },
-    {
-      "id": "famous-halfords-dlock",
-      "nudges_sent": 0,
-      "status": "awaiting_buyer",
-      "created": "2026-10-25T17:08:58.700195",
-      "listing_title": "Halfords 23cm D Lock Plus 120cm Extension Cable",
-      "buyer": "Famous",
-      "price": 500,
-      "last_dir": "out",
-      "last_out": "2026-10-25T17:08:58.700195",
-      "needs_reply": false
-    },
-    {
-      "id": "edward-draper-ratscrew",
-      "nudges_sent": 0,
-      "status": "awaiting_buyer",
-      "created": "2026-10-25T17:08:58.703193",
-      "listing_title": "Draper Ratchet and Screwdriver Bit Set (78 Piece) - 28029",
-      "buyer": "Edward",
-      "price": 650,
-      "last_dir": "out",
-      "last_out": "2026-10-25T17:08:58.700195",
-      "needs_reply": false
-    },
-    {
-      "id": "benedicta-leapfrog-250",
-      "nudges_sent": 0,
-      "status": "awaiting_buyer",
-      "created": "2026-10-25T17:08:58.704192",
-      "listing_title": "Leapfrog 2 in 1 Touch Tablet and Laptop",
-      "buyer": "Benedicta",
-      "price": 250,
-      "last_dir": "out",
-      "last_out": "2026-10-25T17:08:58.700195",
-      "needs_reply": false
-    },
-    {
-      "id": "dora-leapfrog-250",
-      "nudges_sent": 0,
-      "status": "awaiting_buyer",
-      "created": "2026-10-25T17:08:58.706195",
-      "listing_title": "Leapfrog 2 in 1 Touch Tablet and Laptop",
-      "buyer": "Dora",
-      "price": 250,
-      "last_dir": "out",
-      "last_out": "2026-10-25T17:08:58.700195",
-      "needs_reply": false
-    },
-    {
-      "id": "agnes-minelab-gofind22",
-      "nudges_sent": 0,
-      "status": "awaiting_buyer",
-      "created": "2026-10-25T23:35:18.914626",
-      "buyer": "Agnes",
-      "listing_title": "Minelab GO-FIND 22 Metal Detector",
-      "price": 2600,
-      "last_dir": "out",
-      "last_out": "2026-10-25T23:33:00",
-      "note": "Replied in stock at GHS2600 + CTA 25Oct 23:33"
-    },
-    {
-      "id": {
-        "thread_id": "gaggenau-stephanie-doh",
-        "buyer": "Stephanie (Doh Edzenyunye)",
-        "item_title": "Gaggenau Industrial Deep Fryer From UK",
-        "price": 1000,
-        "last_msg_from": "us",
-        "last_msg_time": "2026-10-26 22:5x",
-        "note": "Replied: available, GHS1000, MoMo/cash, pickup Oyarifa, 0204252252"
-      },
-      "nudges_sent": 0,
-      "status": "open",
-      "created": "2026-10-26T22:57:00.026963",
-      "updated": "2026-10-26T22:57:44.117078"
-    },
-    {
-      "id": {
-        "id": "adzidobo-leapfrog",
-        "buyer": "Adzidobo",
-        "listing_title": "Kids Tablet and Laptop Foldable Leapfrog",
-        "price": 250,
-        "direction": "out",
-        "listing_id": "16377526"
-      },
-      "nudges_sent": 0,
-      "status": "open",
-      "created": "2026-10-27T17:28:57.596190"
-    },
-    {
-      "id": "ninii-designjet-t520",
-      "nudges_sent": 0,
-      "status": "replied",
-      "created": "2026-10-29T01:00:29.114244",
-      "buyer": "Ninii",
-      "listing_title": "HP DesignJet T520 24in Large Format CAD Plotter",
-      "price": 9000,
-      "last_dir": "out",
-      "last_out": "2026-10-29T01:00:29.113099",
-      "note": "Replied 29Oct: available GHS9000 + terms + CTA"
-    },
-    {
-      "id": "gaggenau-stephanie-doh",
-      "nudges_sent": 0,
-      "status": "replied",
-      "created": "2026-10-29T01:00:29.116343",
-      "buyer": "Stephanie (Doh Edzenyunye)",
-      "listing_title": "Gaggenau Industrial Deep Fryer From UK",
-      "price": 1000,
-      "last_dir": "out",
-      "last_out": "2026-10-29T01:00:29.113099",
-      "note": "Replied 29Oct: available GHS1000 + terms + CTA"
-    }
-  ],
-  "nudge_policy": {
-    "first_nudge_hours": 24,
-    "second_nudge_hours": 72,
-    "max_nudges": 2
+ "updated": "2026-10-30T01:51:23.702990",
+ "threads": [
+  {
+   "id": {
+    "thread_id": "awurabena_lumix",
+    "buyer": "Awurabena",
+    "item": "Panasonic Lumix Compact Digital Camera",
+    "last_direction": "us",
+    "last_msg": "Yes, are you interested?",
+    "last_ts": "2026-10-15T08:39:43.372904",
+    "nudge_count": 0
+   },
+   "nudges_sent": 0,
+   "status": "open",
+   "created": "2026-10-15T08:39:43.372919"
+  },
+  {
+   "id": {
+    "thread_id": "awurabena_lumix",
+    "buyer": "Awurabena",
+    "item": "Panasonic Lumix Compact Digital Camera \u2014 UK Used",
+    "last_direction": "us",
+    "last_msg": "Still available. MoMo or cash only - no credit. Pickup in Oyarifa by appointment. Call/WhatsApp 0204252252.",
+    "last_ts": "2026-10-15T08:39:54.956965",
+    "nudge_count": 0
+   },
+   "nudges_sent": 0,
+   "status": "open",
+   "created": "2026-10-15T08:39:54.956979"
+  },
+  {
+   "id": {
+    "thread_id": "awurabena-panasonic-980",
+    "buyer": "Awurabena",
+    "listing": "Panasonic Lumix Compact Digital Camera With Battery & Charger \u2014 UK Used",
+    "last_msg": "Hi Awurabena! The model is the Panasonic Lumix DMC-ZS5 compact digital camera, UK used and tested in good working condition, sold with its battery and charger. It's GHS 980, still available. MoMo or cash only - no credit. Pickup in Oyarifa by appointment. Call/WhatsApp 0204252252.",
+    "last_dir": "us",
+    "status": "awaiting_buyer"
+   },
+   "nudges_sent": 0,
+   "status": "open",
+   "created": "2026-10-15T08:57:40.639024"
+  },
+  {
+   "id": {
+    "buyer": "Awurabena",
+    "item": "Panasonic Lumix Compact Digital Camera",
+    "last_msg": "Hi Awurabena! The model is the Panasonic Lumix DMC-ZS5 compact digital camera, UK used and tested in good working condition, sold with its battery and charger. It's GHS 980, still available. MoMo or cash only - no credit. Pickup in Oyarifa by appointment. Call/WhatsApp 0204252252.",
+    "who": "seller"
+   },
+   "nudges_sent": 0,
+   "status": "open",
+   "created": "2026-10-15T09:07:29.211199"
+  },
+  {
+   "id": "awurabena-panasonic-lumix",
+   "nudges_sent": 2,
+   "status": "nudged",
+   "created": "2026-10-15T09:22:27.685441",
+   "buyer": "Awurabena",
+   "listing_title": "Panasonic Lumix Compact Digital Camera With Battery & Charger \u2014 UK Used, Tested Working",
+   "last_dir": "out",
+   "last_msg": "Hi Awurabena! The model is the Panasonic Lumix DMC-ZS5 compact digital camera, UK used and tested in good working condition, sold with its battery and charger. It's GHS 980, still available. MoMo or cash only - no credit. Pickup in Oyarifa by appointment. Call/WhatsApp 0204252252.",
+   "last_out": "2026-10-16T11:39:43.188494"
+  },
+  {
+   "id": "chris-xbox360-075",
+   "nudges_sent": 2,
+   "status": "nudged",
+   "created": "2026-10-15T11:52:08.088770",
+   "buyer": "Chris",
+   "listing_title": "Xbox 360 Games CD Assorted Titles Read Description",
+   "price": 80,
+   "last_msg": "Hi Chris - quick correction and update: the item in this chat is the Xbox 360 Games CD Assorted Titles (UK used) at GHS 80. Still available. WhatsApp 0204252252",
+   "last_dir": "out",
+   "last_out": "2026-10-16T12:14:52.278015",
+   "updated": "2026-10-16T12:14:52.277340"
+  },
+  {
+   "id": "chris_xbox360",
+   "nudges_sent": 0,
+   "status": "open",
+   "created": "2026-10-15T13:12:26.995646",
+   "buyer": "Chris",
+   "item": "Xbox 360 Games CD Assorted Titles Read Description \u2014 UK Used, Quality Checked",
+   "price": 80,
+   "last_from": "us",
+   "last_ts": "2026-10-15T13:12:26"
+  },
+  {
+   "id": "awurabena_lumix",
+   "nudges_sent": 0,
+   "status": "open",
+   "created": "2026-10-15T13:12:26.996269",
+   "buyer": "Awurabena",
+   "item": "Panasonic Lumix DMC-ZS5",
+   "price": 980,
+   "last_from": "us",
+   "last_ts": "2026-10-16T08:57",
+   "item_title": "Panasonic Lumix Compact Digital Camera With Battery & Charger \u2014 UK Used, Tested Working",
+   "last_buyer_msg": "model enquiry",
+   "last_reply": "Panasonic Lumix DMC-ZS5, UK used tested working, GHS 980. MoMo or cash only. Oyarifa pickup. 0204252252.",
+   "replied_by": "agent",
+   "source": "fb_marketplace",
+   "updated": "2026-10-16T02:04:47.348490",
+   "last_msg_from": "us"
+  },
+  {
+   "id": {
+    "thread_id": "chris-xbox360",
+    "listing_title": "Xbox 360 Games CD Assorted Titles \u2014 UK Used, Quality Checked",
+    "buyer": "Chris",
+    "last_dir": "us",
+    "last_text": "Yes, still available! GHS 80...",
+    "status": "open"
+   },
+   "nudges_sent": 0,
+   "status": "open",
+   "created": "2026-10-15T15:03:14.294730"
+  },
+  {
+   "id": {
+    "thread_id": "awurabena-panasonic-lumix",
+    "listing_title": "Panasonic Lumix Compact Digital Camera With Battery & Charger \u2014 UK Used",
+    "buyer": "Awurabena",
+    "last_dir": "us",
+    "last_text": "Lumix DMC-ZS5 GHS 980...",
+    "status": "open"
+   },
+   "nudges_sent": 0,
+   "status": "open",
+   "created": "2026-10-15T15:03:14.295702"
+  },
+  {
+   "id": "chris_xbox360games",
+   "nudges_sent": 2,
+   "status": "nudged",
+   "created": "2026-10-15T17:27:48.852813",
+   "buyer": "Chris",
+   "item_title": "Xbox 360 Games CD Assorted Titles Read Description \u2014 UK Used, Quality Checked",
+   "last_buyer_msg": "Is this still available?",
+   "last_reply": "Yes, still available! Assorted Xbox 360 game CDs (UK used) - GHS 80. MoMo or cash only. Pickup Oyarifa. Call/WhatsApp 0204252252.",
+   "replied_by": "agent",
+   "source": "fb_marketplace",
+   "item": "Xbox 360 Games CD Assorted Titles",
+   "last_msg_from": "us",
+   "last_ts": "2026-10-16T02:05",
+   "updated": "2026-10-16T02:06:06.879565",
+   "last_out": "2026-10-16T02:06:06.878326",
+   "last_dir": "out"
+  },
+  {
+   "id": "nii_xbox360games",
+   "nudges_sent": 2,
+   "status": "nudged",
+   "created": "2026-10-16T02:04:47.347141",
+   "buyer": "Nii",
+   "item": "Xbox 360 Games CD Assorted Titles",
+   "last_msg_from": "us",
+   "last_ts": "2026-10-16T02:04",
+   "last_dir": "out",
+   "last_out": "2026-10-25T18:28:07.349137",
+   "updated": "2026-10-25T18:19:16.423839",
+   "note": "18Oct 16:43 nudge MIS-SENT to Doris chat (wrong thread); correct nudge sent to Nii 18Oct evening; nudges_sent incremented.",
+   "listing_title": "Xbox 360 Games CD Assorted Titles"
+  },
+  {
+   "id": {
+    "thread_id": "chris-xbox360-80",
+    "buyer": "Chris",
+    "listing": "Xbox 360 Games CD Assorted Titles \u2014 UK Used",
+    "last_msg": "Hi again - the item is still here if you are still interested. GHS 80. MoMo or cash only - no credit. Pickup in Oyarifa by appointment. Call/WhatsApp 0204252252.",
+    "last_dir": "us",
+    "status": "awaiting_buyer",
+    "nudge_count": 1
+   },
+   "nudges_sent": 0,
+   "status": "open",
+   "created": "2026-10-16T11:37:53.895691"
+  },
+  {
+   "id": "hellen-magnum-talos-690",
+   "nudges_sent": 0,
+   "status": "replied-await",
+   "created": "2026-10-17T11:34:26.320960",
+   "buyer": "Hellen",
+   "listing_title": "Magnum Plus Talos Anti-Theft Disc Lock Motorcycle 5.5mm Pin",
+   "price": 690,
+   "last_dir": "out",
+   "note": "Buyer asked availability Fri 18:51; we replied 03:24 17Oct with price/CTA; awaiting buyer.",
+   "source": "cron-171026-inbox-scan"
+  },
+  {
+   "id": "ananman-ingco-gg258",
+   "nudges_sent": 0,
+   "status": "open",
+   "created": "2026-10-17T15:03:59.940922",
+   "buyer": "Ananman",
+   "item": "Ingco Glue Gun Gg258",
+   "last_from": "us",
+   "note": "Asked delivery; replied GHS150, MoMo/cash, Oyarifa pickup/delivery, CTA 0204252252 (17 Oct 14:5x)"
+  },
+  {
+   "id": "ananman_ingco_gg258",
+   "nudges_sent": 0,
+   "status": "active",
+   "created": "2026-10-17T16:27:08.130296",
+   "buyer": "Ananman",
+   "item": "Ingco Glue Gun Gg258",
+   "price": 150,
+   "last_our_msg": "2026-10-17T16:27:08",
+   "last_buyer_msg": "2026-10-17T16:27:08"
+  },
+  {
+   "id": {
+    "thread_id": "hellen-magnumplus-talos-690",
+    "buyer": "Hellen",
+    "listing_title": "Magnum Plus Talos Anti-Theft Disc Lock Motorcycle 5.5mm Pin - UK Imported",
+    "price": 690,
+    "last_msg": "Hi Hellen! Yes, available - GHS 690. MoMo or cash only. Oyarifa pickup/delivery. WhatsApp 0204252252",
+    "last_dir": "us"
+   },
+   "nudges_sent": 0,
+   "status": "open",
+   "created": "2026-10-17T19:01:24.834811"
+  },
+  {
+   "id": {
+    "thread_id": "ananman-ingco-gluegun",
+    "buyer": "Ananman",
+    "listing_title": "Ingco Glue Gun GG258",
+    "last_msg": "We are in Oyarifa (near Adenta-Dodowa road), Accra. Pickup by appointment, or delivery within Accra. WhatsApp 0204252252",
+    "last_dir": "us"
+   },
+   "nudges_sent": 0,
+   "status": "open",
+   "created": "2026-10-17T19:01:24.835760"
+  },
+  {
+   "id": "valerie-aochuan-gimbal-950",
+   "nudges_sent": 0,
+   "status": "awaiting_buyer",
+   "created": "2026-10-18T01:38:38.860090",
+   "buyer": "Valerie",
+   "listing_title": "AOCHUAN Smart XE 3-Axis Smartphone Gimbal Stabilizer \u2014 UK Imported, Quality Checked",
+   "price": 950,
+   "last_dir": "out",
+   "last_msg": "Yes, are you interested?",
+   "last_out": "2026-10-18T01:15:00"
+  },
+  {
+   "id": "ananman-ingco-gluegun",
+   "nudges_sent": 2,
+   "status": "nudged",
+   "created": "2026-10-18T01:38:38.860824",
+   "last_dir": "out",
+   "last_out": "2026-10-23T13:37:04.180603"
+  },
+  {
+   "id": "hellen-magnumplus-talos-690",
+   "nudges_sent": 2,
+   "status": "nudged",
+   "created": "2026-10-18T01:38:38.861549",
+   "last_dir": "out",
+   "last_out": "2026-10-25T18:29:27.145465",
+   "listing_title": "Magnum Plus Talos Anti-Theft Disc Lock (5.5mm pin)",
+   "updated": "2026-10-25T18:28:07.347220"
+  },
+  {
+   "id": "Doris-Leapfrog",
+   "nudges_sent": 0,
+   "status": "open",
+   "created": "2026-10-18T16:42:15.243526",
+   "buyer": "Doris",
+   "listing_title": "Leapfrog 2 in 1 Touch Tablet and Laptop",
+   "last_dir": "out"
+  },
+  {
+   "id": "kwasi-fisher-f11-2500",
+   "nudges_sent": 0,
+   "status": "awaiting_buyer",
+   "created": "2026-10-18T17:41:12.069583",
+   "buyer": "Kwasi",
+   "listing_title": "Fisher F11 Metal Detector \u2014 Jewellery, Gold & Coins, 3 Modes \u2014 UK Imported, Quality Checked",
+   "price": 2500,
+   "last_dir": "out",
+   "last_out": "2026-10-18T17:41:12.067541",
+   "last_msg": "Full reply sent (available, GHS 2500, MoMo/cash, CTA). Buyer first asked 13:19; terse \"Yes\" reply by earlier run.",
+   "note": "prior terse \"Yes\" 13:32 18Oct"
+  },
+  {
+   "id": "doris-leapfrog-250",
+   "nudges_sent": 0,
+   "status": "awaiting_buyer",
+   "created": "2026-10-18T17:41:12.070394",
+   "buyer": "Doris",
+   "listing_title": "Leapfrog 2 in 1 Touch Tablet and Laptop \u2014 UK Imported, Quality Checked",
+   "price": 250,
+   "last_dir": "out",
+   "last_out": "2026-10-18T17:41:12.067541",
+   "note": "INCIDENT 18Oct 16:43: Xbox nudge mis-sent into Doris thread; apology+item correction sent 18Oct ~17:5x. Buyer query answered 16:41."
+  },
+  {
+   "id": "valerie-aochuan-gimbal",
+   "nudges_sent": 0,
+   "status": "closed",
+   "created": "2026-10-18T17:41:12.071097",
+   "buyer": "Valerie",
+   "listing_title": "AOCHUAN Smart XE 3-Axis Smartphone Gimbal Stabilizer \u2014 UK Imported, Quality Checked",
+   "last_dir": "in",
+   "last_msg": "Replied No (declined follow-up)",
+   "last_out": "2026-10-18T17:41:12.067541",
+   "note": "Buyer replied \"No\" 18Oct 16:01 \u2014 no further contact (no nudge, no discount).",
+   "item": "AOCHUAN Smart XE 3-Axis Gimbal Stabilizer",
+   "last_direction": "buyer",
+   "last_at": "2026-10-18T18:40:41.538953",
+   "updated": "2026-10-18T18:40:41.600269"
+  },
+  {
+   "id": "kwasi-fisher-f11",
+   "nudges_sent": 0,
+   "status": "open",
+   "created": "2026-10-18T18:40:41.540326",
+   "buyer": "Kwasi",
+   "item": "Fisher F11 Metal Detector",
+   "price": 2500,
+   "last_direction": "us",
+   "last_msg": "Sent price/payment/pickup details + CTA",
+   "last_at": "2026-10-18T18:40:41.538953"
+  },
+  {
+   "id": "doris-leapfrog-tablet",
+   "nudges_sent": 0,
+   "status": "open",
+   "created": "2026-10-18T18:40:41.626350",
+   "buyer": "Doris",
+   "item": "Leapfrog 2 in 1 Touch Tablet and Laptop",
+   "last_direction": "us",
+   "last_msg": "Nudge sent 18/10 16:43",
+   "last_at": "2026-10-18T18:40:41.538953"
+  },
+  {
+   "id": "john-sony-loudspeakers-900",
+   "nudges_sent": 0,
+   "status": "closed",
+   "created": "2026-10-19T15:20:13.321311",
+   "buyer": "John",
+   "listing_title": "Sony 2 Long Loudspeakers 6 Ohms 90W",
+   "item": "Sony 2 Long Loudspeakers 6 Ohms 90W",
+   "price": 900,
+   "last_dir": "out",
+   "note": "SOLD. 29Oct: mistaken available reply -> CORRECTION sent. Flagged to H.",
+   "last_out": "2026-10-29T01:00:29.113099",
+   "updated": "2026-10-29T01:00:29.117955"
+  },
+  {
+   "id": "richard-panasonic-stereo",
+   "nudges_sent": 2,
+   "status": "nudged",
+   "created": "2026-10-21T09:16:52.144172",
+   "buyer": "Richard",
+   "listing_title": "Panasonic Stereo Tuner Amp Sound System Set Cd,radio,aux, Cassette",
+   "last_dir": "out",
+   "last_out": "2026-10-25T17:15:51.205334",
+   "last_msg": "Yes - still available at GHS 650. UK pre-owned, tested working. MoMo/cash. CTA 0204252252"
+  },
+  {
+   "id": "michael-kwesi-karcher-900",
+   "nudges_sent": 2,
+   "status": "nudged",
+   "created": "2026-10-21T09:17:36.858462",
+   "buyer": "Michael Kwesi",
+   "listing_title": "Karcher 900 Pressure Washer Pre Owned \u2014 UK Imported, Quality Checked",
+   "last_dir": "out",
+   "last_out": "2026-10-25T17:15:51.205334",
+   "last_msg": "Yes - Karcher 900 still available at GHS 1,000. Tested working. MoMo/cash. CTA 0204252252"
+  },
+  {
+   "id": "opoku-lvyuan-inverter",
+   "nudges_sent": 0,
+   "status": "awaiting_buyer",
+   "created": "2026-10-21T09:18:08.985859",
+   "buyer": "Opoku",
+   "listing_title": "LVYUAN 800w/2000w Pure Sine-Wave Power Inverter",
+   "last_dir": "out",
+   "last_out": "2026-10-23T13:40:00.856485",
+   "last_msg": "Replied: GHS 900, we are in Oyarifa near Adenta-Dodowa road, CTA when arriving (buyer said just before Oyarifa)",
+   "price": 900,
+   "updated": "2026-10-23T13:40:00.857404"
+  },
+  {
+   "id": "amuzu-bosch-pst50a",
+   "nudges_sent": 1,
+   "status": "flagged",
+   "created": "2026-10-21T09:18:28.573103",
+   "buyer": "Amuzu",
+   "listing_title": "Bosch Drill Jigsaw PST 50a",
+   "last_dir": "out",
+   "last_out": "2026-10-23T13:39:44.633728",
+   "last_msg": "This one has sold, we have others - are you on WhatsApp. CTA 0204252252",
+   "note": "Nudge SKIPPED 29Oct: last out said sold - contradiction risk. Flagged to H.",
+   "updated": "2026-10-29T01:00:29.121160"
+  },
+  {
+   "id": {
+    "name": "Agnes",
+    "item": "Leapfrog 2 in 1 Touch Tablet and Laptop",
+    "price": 250,
+    "thread": "Leapfrog",
+    "last_side": "agent",
+    "ts": "2026-10-22T21:00",
+    "note": "Replied in stock at GHS250 + CTA"
+   },
+   "nudges_sent": 0,
+   "status": "open",
+   "created": "2026-10-22T22:45:07.622189"
+  },
+  {
+   "id": "promisekirk-universal-flightcase",
+   "nudges_sent": 0,
+   "status": "awaiting_buyer",
+   "created": "2026-10-23T13:40:00.856485",
+   "buyer": "Promise Kirk",
+   "listing_title": "Universal Flight Case 111cml X 47cmh X 45cmw Heavy Duty Storage Uk",
+   "price": 2800,
+   "last_dir": "out",
+   "last_out": "2026-10-23T17:15:25.138509",
+   "last_msg": "Sure, call or WhatsApp 0204252252 anytime. The Universal Flight Case (111x47x45cm) is here in Oyarifa near Adenta-Dodowa road - you are welcome to come see it before deciding. Just let me know when you are around.",
+   "updated": "2026-10-23T17:15:25.139799"
+  },
+  {
+   "id": "rose-dog-agility-hurdle",
+   "nudges_sent": 2,
+   "status": "nudged",
+   "created": "2026-10-23T17:15:25.138548",
+   "buyer": "Rose",
+   "listing_title": "Dog Agility Hurdle",
+   "price": 600,
+   "last_dir": "out",
+   "last_out": "2026-10-29T01:00:29.113099",
+   "last_msg": "Hi Rose! Yes, the Dog Agility Hurdle is still available at GHS 600. UK imported, quality checked. Pickup Oyarifa or Dome, delivery can be arranged. WhatsApp 0204252252 for quick order.",
+   "note": "Nudge #2 sent 29Oct",
+   "updated": "2026-10-29T01:00:29.119669"
+  },
+  {
+   "id": "famous-halfords-dlock",
+   "nudges_sent": 0,
+   "status": "awaiting_buyer",
+   "created": "2026-10-25T17:08:58.700195",
+   "listing_title": "Halfords 23cm D Lock Plus 120cm Extension Cable",
+   "buyer": "Famous",
+   "price": 500,
+   "last_dir": "out",
+   "last_out": "2026-10-25T17:08:58.700195",
+   "needs_reply": false
+  },
+  {
+   "id": "edward-draper-ratscrew",
+   "nudges_sent": 0,
+   "status": "awaiting_buyer",
+   "created": "2026-10-25T17:08:58.703193",
+   "listing_title": "Draper Ratchet and Screwdriver Bit Set (78 Piece) - 28029",
+   "buyer": "Edward",
+   "price": 650,
+   "last_dir": "out",
+   "last_out": "2026-10-25T17:08:58.700195",
+   "needs_reply": false
+  },
+  {
+   "id": "benedicta-leapfrog-250",
+   "nudges_sent": 0,
+   "status": "awaiting_buyer",
+   "created": "2026-10-25T17:08:58.704192",
+   "listing_title": "Leapfrog 2 in 1 Touch Tablet and Laptop",
+   "buyer": "Benedicta",
+   "price": 250,
+   "last_dir": "out",
+   "last_out": "2026-10-25T17:08:58.700195",
+   "needs_reply": false
+  },
+  {
+   "id": "dora-leapfrog-250",
+   "nudges_sent": 0,
+   "status": "awaiting_buyer",
+   "created": "2026-10-25T17:08:58.706195",
+   "listing_title": "Leapfrog 2 in 1 Touch Tablet and Laptop",
+   "buyer": "Dora",
+   "price": 250,
+   "last_dir": "out",
+   "last_out": "2026-10-25T17:08:58.700195",
+   "needs_reply": false
+  },
+  {
+   "id": "agnes-minelab-gofind22",
+   "nudges_sent": 0,
+   "status": "awaiting_buyer",
+   "created": "2026-10-25T23:35:18.914626",
+   "buyer": "Agnes",
+   "listing_title": "Minelab GO-FIND 22 Metal Detector",
+   "price": 2600,
+   "last_dir": "out",
+   "last_out": "2026-10-25T23:33:00",
+   "note": "Replied in stock at GHS2600 + CTA 25Oct 23:33"
+  },
+  {
+   "id": {
+    "thread_id": "gaggenau-stephanie-doh",
+    "buyer": "Stephanie (Doh Edzenyunye)",
+    "item_title": "Gaggenau Industrial Deep Fryer From UK",
+    "price": 1000,
+    "last_msg_from": "us",
+    "last_msg_time": "2026-10-26 22:5x",
+    "note": "Replied: available, GHS1000, MoMo/cash, pickup Oyarifa, 0204252252"
+   },
+   "nudges_sent": 0,
+   "status": "open",
+   "created": "2026-10-26T22:57:00.026963",
+   "updated": "2026-10-26T22:57:44.117078"
+  },
+  {
+   "id": {
+    "id": "adzidobo-leapfrog",
+    "buyer": "Adzidobo",
+    "listing_title": "Kids Tablet and Laptop Foldable Leapfrog",
+    "price": 250,
+    "direction": "out",
+    "listing_id": "16377526"
+   },
+   "nudges_sent": 0,
+   "status": "open",
+   "created": "2026-10-27T17:28:57.596190"
+  },
+  {
+   "id": "ninii-designjet-t520",
+   "nudges_sent": 0,
+   "status": "replied",
+   "created": "2026-10-29T01:00:29.114244",
+   "buyer": "Ninii",
+   "listing_title": "HP DesignJet T520 24in Large Format CAD Plotter",
+   "price": 9000,
+   "last_dir": "out",
+   "last_out": "2026-10-29T01:00:29.113099",
+   "note": "Replied 29Oct: available GHS9000 + terms + CTA"
+  },
+  {
+   "id": "gaggenau-stephanie-doh",
+   "nudges_sent": 0,
+   "status": "replied",
+   "created": "2026-10-29T01:00:29.116343",
+   "buyer": "Stephanie (Doh Edzenyunye)",
+   "listing_title": "Gaggenau Industrial Deep Fryer From UK",
+   "price": 1000,
+   "last_dir": "out",
+   "last_out": "2026-10-29T01:00:29.113099",
+   "note": "Replied 29Oct: available GHS1000 + terms + CTA"
+  },
+  {
+   "id": "richard-jbl-charge5",
+   "nudges_sent": 0,
+   "status": "awaiting_buyer",
+   "created": "2026-10-29T13:08:00.648148",
+   "buyer": "Richard Agye",
+   "listing_title": "JBL Charge 5 - Portable Waterproof Bluetooth Speaker With Powerbank",
+   "price": 2400,
+   "last_dir": "out",
+   "last_out": "2026-10-29T13:08:00.647756",
+   "last_text": "Replied: available GHS 2,400, MoMo/cash, Oyarifa/delivery, CTA 0204252252"
+  },
+  {
+   "id": "joyce-coldpress-juicer",
+   "nudges_sent": 0,
+   "status": "awaiting_buyer",
+   "created": "2026-10-29T13:08:00.649395",
+   "buyer": "Joyce",
+   "listing_title": "Slow Cold Press Juicer Extractor Cream \u2014 UK Imported, Quality Checked",
+   "price": 1500,
+   "last_dir": "out",
+   "last_out": "2026-10-29T13:08:00.647756",
+   "last_text": "Replied: available GHS 1,500, MoMo/cash, Oyarifa/delivery, CTA 0204252252"
+  },
+  {
+   "id": "ahmed-karcher900",
+   "nudges_sent": 0,
+   "status": "awaiting_buyer",
+   "created": "2026-10-29T17:29:20.173173",
+   "buyer": "Ahmed",
+   "listing_title": "Karcher 900 Pressure Washer Pre Owned",
+   "price": 1000,
+   "last_dir": "out",
+   "note": "Sent WhatsApp 0204252252 29Oct 03:22; buyer asked for number; waiting"
+  },
+  {
+   "id": "rich-halfords200w-inverter",
+   "nudges_sent": 0,
+   "status": "awaiting_buyer",
+   "created": "2026-10-29T17:29:20.174358",
+   "buyer": "Rich",
+   "listing_title": "Halfords 200w Power Car Inverter With Uk Plug Usb Usb-C",
+   "price": null,
+   "last_dir": "out",
+   "note": "Asked if buyer wants delivery today (Wed)"
+  },
+  {
+   "id": {
+    "thread_id": "simon_baofeng_bf888s",
+    "buyer": "Simon",
+    "item": "BaoFeng BF-888S UHF Two-Way Radio",
+    "last_direction": "us",
+    "last_msg": "Hi Simon! Yes, still available \u2014 BaoFeng BF-888S UHF two-way radio, UK imported, tested working. It\u2019s GHS 300. MoMo or cash only, no credit. Pickup in Oyarifa by appointment. Call/WhatsApp 0204252252.",
+    "last_ts": "2026-10-30T01:51:23.702960",
+    "nudge_count": 0
+   },
+   "nudges_sent": 0,
+   "status": "open",
+   "created": "2026-10-30T01:51:23.702988",
+   "listing_title": "BaoFeng BF-888S UHF Two-Way Radio",
+   "price": 300,
+   "reply_sent": true
   }
+ ],
+ "nudge_policy": {
+  "first_nudge_hours": 24,
+  "second_nudge_hours": 72,
+  "max_nudges": 2
+ }
 }

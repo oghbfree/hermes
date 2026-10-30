@@ -4,8 +4,8 @@
 
 ### Totals
 
-- **73 total applicants** (updated 2026-10-27)
-- **Nurses: 53** (NMC + 3-5yrs experience: 7/53, top pick: Charlotte Nortey - NMC + car + licence)
+- **74 total applicants** (updated 2026-10-29)
+- **Nurses: 54** (NMC + 3-5yrs experience: 7/54, top pick: Charlotte Nortey - NMC + car + licence)
 - **Facilitators: 4** (Eyiah #1, Patrick Bediako #2, Kwaku #3, Courage Agbalekpor #4)
 - **Construction: 14** (Awal #1, Kwame #2, Derrick #3, Amane John #4, Amuzu #5, Woedzagbagba #6, Eric #7, Arthur Kofi Shadrack #8, Benjamin Kotey #9 - laborer, below threshold)
 - **Financial Literacy: 2** (Felix Boateng #1, Benjamin Lolo #2)
@@ -36,17 +36,17 @@
 **Facilitator #1: Eyiah Michael Osardu**
 - BSc IT | mBot exp | Coding 5/5 | Mon-Fri avail
 
-### New This Pull (2026-10-27)
+### New This Pull (2026-10-29)
 
-**0 new applications** since last reported pull (2026-10-26). Totals unchanged at **73**.
+**1 new application** — Nyamekye Jane (nurse, 28/10). NMC **No**, Degree still in school, 0–2yrs, no car → **below threshold**. Totals now **74**.
 
-### Latest Pull (2026-10-27)
+### Latest Pull (2026-10-29)
 
-**0 new applications** since 2026-10-26. Token refreshed 2026-10-27. Pipeline totals **73** (53 nurses, 14 construction, 4 facilitators, 2 financial literacy; priority counts recomputed from live data: nurses 7, construction foreman+6yrs 7, facilitators 2, fin-lit 2).
+**1 new application** since 2026-10-27. Token refreshed 2026-10-29. Pipeline totals **74** (54 nurses, 14 construction, 4 facilitators, 2 financial literacy; priority counts recomputed from live data: nurses 7, construction foreman+6yrs 7, facilitators 2, fin-lit 2).
 
 ### Detailed Reports
 
-- [[jobs/APPLICATIONS-REPORT-2026-10-27.md]] (0 new apps; token refreshed; priority counts recomputed 7/7/2/2)
+- [[jobs/APPLICATIONS-REPORT-2026-10-29.md]] (+1 nurse below threshold; token refreshed; priority counts recomputed 7/7/2/2)
 - [[jobs/APPLICATIONS-REPORT-2026-10-24.md]] (+1 construction below threshold; token refreshed; priority counts recomputed 7/7/2/2)
 - [[jobs/APPLICATIONS-REPORT-2026-10-22.md]] (0 new apps; token refreshed; priority counts recomputed 7/7/2/2)
 - [[jobs/APPLICATIONS-REPORT-2026-10-21.md]] (0 new apps; token refreshed; priority counts recomputed 7/7/2/2)
@@ -103,10 +103,10 @@
 
 ### Status
 
-- **Google Sheets Auth: ACTIVE** - Token refreshed 2026-10-27
-- Last successful pull: 2026-10-27
+- **Google Sheets Auth: ACTIVE** - Token refreshed 2026-10-29
+- Last successful pull: 2026-10-29
 - All 4 pipelines accessible
-- 0 new applications since 2026-10-26 (this pull)
+- 1 new application since 2026-10-27 (Nyamekye Jane, nurse, below threshold)
 
 ## Related
 

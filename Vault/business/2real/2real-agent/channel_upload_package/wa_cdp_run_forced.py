@@ -81,7 +81,7 @@ for sid in ids:
     if r == "SAVED":
         posted = load_list(postedp)
         if sid not in [str(p) for p in posted]:
-            posted.append(int(sid)); json.dump(sorted(posted), open(postedp, "w"))
+            posted.append(str(sid)); json.dump(sorted(posted), open(postedp, "w"))
         ex_l = load_list(ex)
         if x["wa_title"] not in ex_l:
             ex_l.append(x["wa_title"]); json.dump(sorted(set(ex_l)), open(ex, "w"))

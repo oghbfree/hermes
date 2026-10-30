@@ -4267,5 +4267,121 @@
     ],
     "date": "2026-10-28",
     "saved_at": "2026-10-28T06:43:18.408566"
+  },
+  {
+    "active": 1350,
+    "reviewing": 0,
+    "draft": 0,
+    "declined": 3,
+    "closed": 132,
+    "followers": 340,
+    "feedback": 210,
+    "clients": 1,
+    "top_remaining": "500 of 500",
+    "top_expires": "16/12/26",
+    "whatsapp_ads_active": false,
+    "whatsapp_ads_until": "ended 17 Oct - add-on available (20 ads / 14 days / GH\u20b5180)",
+    "balance_ghs": 0,
+    "pro_sales_bonus_ghs": 6322,
+    "top_items": [
+      {
+        "name": "Female Private Driver",
+        "price": 0,
+        "impressions": 6060,
+        "visitors": 770,
+        "chats": 19,
+        "phone_views": 29
+      },
+      {
+        "name": "Live in Private Nurse / Under Graduate Nurse for Elderly Care",
+        "price": 0,
+        "impressions": 3361,
+        "visitors": 558,
+        "chats": 17,
+        "phone_views": 28
+      },
+      {
+        "name": "Elite Construction Team Wanted - Foremen All Trades",
+        "price": 0,
+        "impressions": 3159,
+        "visitors": 546,
+        "chats": 22,
+        "phone_views": 27
+      },
+      {
+        "name": "Live-in Graduate Nurse For Private Elderly Care (Accra)",
+        "price": 0,
+        "impressions": 2921,
+        "visitors": 617,
+        "chats": 11,
+        "phone_views": 26
+      },
+      {
+        "name": "Financial Literacy Facilitator",
+        "price": 0,
+        "impressions": 2858,
+        "visitors": 229,
+        "chats": 2,
+        "phone_views": 5
+      },
+      {
+        "name": "Facilitator for a Child With Autism",
+        "price": 1000,
+        "impressions": 2529,
+        "visitors": 360,
+        "chats": 8,
+        "phone_views": 14
+      },
+      {
+        "name": "Building an Elite Construction Team",
+        "price": 0,
+        "impressions": 2343,
+        "visitors": 346,
+        "chats": 11,
+        "phone_views": 12
+      },
+      {
+        "name": "Robotics/Coding Training Facilitator (Part-Time/Contract)",
+        "price": 0,
+        "impressions": 2234,
+        "visitors": 215,
+        "chats": 5,
+        "phone_views": 9
+      },
+      {
+        "name": "Farm Workers / Farming Family Opportunity",
+        "price": 800,
+        "impressions": 2132,
+        "visitors": 317,
+        "chats": 17,
+        "phone_views": 17
+      },
+      {
+        "name": "Robotics Coding Facilitator \u2013 Akoma Robotics (Commission-Based)",
+        "price": 0,
+        "impressions": 2006,
+        "visitors": 182,
+        "chats": 2,
+        "phone_views": 4
+      }
+    ],
+    "needs_attention": [
+      "NEW decline (3h ago): Biometric Fingerprint Access Control Terminal - resubmit with correct category",
+      "Still declined (from 28 Oct): Stanley 93x190mm Sanding Sheets + Genuine Daewoo CNX+ Smartwatch - fix categories",
+      "High imp / 0 chats: Lowenergie Light Switch (735 imp), Samsung Wireless Charger Duo (730), Smart Air Compressor (597), Moveable Ramps (524), Light Bulb Job Lot (505)",
+      "High phone views / 0 chats - call NOW: Marvin Magic (55 pv), LEGO Harry Potter Knight Bus (22 pv), Measure-Mate (18 pv)",
+      "Financial Literacy Facilitator (2858 imp / 2 chats) + Akoma Robotics (2006 imp / 2 chats) - warm up listings",
+      "WhatsApp ads dark 12 days (expired 17 Oct)"
+    ],
+    "action_items": [
+      "Resubmit all 3 declined ads with correct categories (watch the new Biometric Fingerprint decline)",
+      "Renew WhatsApp Button add-on (20 ads / 14 days / GH\u20b5180) before Christmas push - 12 days dark",
+      "Chase by phone: Marvin Rainbow Magic (55 pv), LEGO Harry Potter (22 pv), Measure-Mate (18 pv) - all 0 chats",
+      "Use 500 TOP+ credits (valid to 16/12/26) on Christmas hot items - Xbox Kinect, Panasonic Lumix (38 chats), LVYUAN inverter (19 chats)",
+      "Pro Sales balance GH\u20b56,322 (down 100) - monitor bid spend",
+      "Jiji balance GH\u20b50 - recharge to run promotions"
+    ],
+    "date": "2026-10-29",
+    "saved_at": "2026-10-29T06:45:15.134460"
   }
 ]

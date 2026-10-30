@@ -77,7 +77,7 @@ def gorilla_front(batch2, fb):
     os.makedirs(imgdir, exist_ok=True)
     fresh = []
     for jid, (title, image, price, brand) in feed.items():
-        if jid in fb or jid in in_batch:
+        if str(jid) in fb or jid in in_batch:
             continue
         tl = title.lower()
         bl = (brand or '').lower()
@@ -116,11 +116,13 @@ def jsave(p, d): json.dump(d, open(p, 'w', encoding='utf-8'), indent=1)
 
 def main():
     n50 = jload(PKG + r'\next50.json')
-    fb = set(jload(PKG + r'\fb_posted.json'))
-    wa = set(jload(PKG + r'\wa_catalog_posted.json'))
-    fb_left = [x for x in n50 if x['jiji_id'] not in fb]
+    # fb_posted/wa_catalog_posted can be MIXED int/str (e.g. 300 ints + 437 strs).
+    # Normalize to string sets so queue IDs always compare correctly.
+    fb = {str(x) for x in jload(PKG + r'\fb_posted.json')}
+    wa = {str(x) for x in jload(PKG + r'\wa_catalog_posted.json')}
+    fb_left = [x for x in n50 if str(x['jiji_id']) not in fb]
     waq = jload(PKG + r'\wa_queue.json')
-    wa_left = [x for x in waq if x['jiji_id'] not in wa]
+    wa_left = [x for x in waq if str(x['jiji_id']) not in wa]
     if fb_left or wa_left:
         print('REFUSE: FB remaining %d, WA remaining %d — promote only when BOTH are 0.' % (len(fb_left), len(wa_left)))
         return
@@ -131,7 +133,7 @@ def main():
     # DUPLICATE-PREVENTION (H: "avoid at all costs"): drop any item ALREADY in fb_posted.json
     # so the queue never re-queues a posted listing. This is what caused "item 1 is a duplicate".
     pre = len(batch2)
-    batch2 = [x for x in batch2 if x['jiji_id'] not in fb]
+    batch2 = [x for x in batch2 if str(x['jiji_id']) not in fb]
     dropped = pre - len(batch2)
     if dropped:
         print('  duplicate-prevention: dropped %d already-posted item(s) from the new queue' % dropped)
@@ -150,7 +152,7 @@ def main():
         return False
     q = []
     for x in batch2:
-        if x['jiji_id'] in wa:
+        if str(x['jiji_id']) in wa:
             continue
         price = int(round((x['price'] or 0) * 1.2 / 10.0) * 10)
         title = re.sub(r'\s+', ' ', x['title']).strip()
