@@ -73,10 +73,16 @@ Append one line per day. The 4:30 AM briefing reads this file.
 | 10/10/26 Sat |  | 195 |  | Jiji: 43-piece children's set @195 — buyer **Theresa Elorm Seshie** (0543871100), for her children's club Christmas party. Cost not stated — flag to confirm. Voice-note confirmed price 195 (she first balked at 800; H found more pieces in-house, closed at 195). B2B-adjacent lead: club organizer — potential repeat Xmas party orders |
 | 27/10/26 Tue |  | 2,610 | 585 | 78% | Jiji: **Edwin Kwabena Adubofuor** (0550253348) — Wickes tile drill bit 3pk + universal fit 4pk @200 each = 400 (cost £4 ea). **Theophilus Airbnb** (0500599813) — Master Lock 5400D lock box 650 (cost £12). **Emmanuel** (tennis Mon) — 2x tennis rackets Head + Wilson w/ bags @400 each = 800 (cost £5 ea). Walk-in: Gorilla tape white 10m ×2 @280 = 560 (cost £4 total), Makita 110v angle grinder 200 (cost £5). | **COGS £39 @15 = 585** (Edwin £8 + Theophilus £12 + Emmanuel £10 + Gorilla £4 + Makita £5). **Margin 78%, profit 2,025.** Edwin = contractor w/ ministries contract (B2B potential). Theophilus = Airbnb host wanting related items. Emmanuel = new sports/rackets repeat. Both Edwins + Theophilus saved to broadcast list |
 | 28/10/26 Wed |  | 25 | 6 | 76% | Jiji: 1× metallic gray spray paint @25 | **COGS £0.40 @15 = 6** (spray can unit cost). **Margin 76%, profit 19.** |
+| 30/10/26 Fri |  | 420 | 132 | 69% | Walk-in: Samsung 14in TV (230, cost £7). Jiji: 2× blue spray paint @25 = 50 (cost 40p ea, **different customer**). Jiji: 19V Delta electronics charger (140, cost £1). | **COGS £8.80 @15 = 132** (TV £7 + blue £0.80 + Delta £1). **Margin 69%, profit 288.** TV = big-ticket walk-in win. 
 | 29/10/26 Thu |  | 220 | 69 | 69% | Jiji: Gorilla mounting tape heavy duty (150, cost £3). Jiji: 2× blue spray paint @25 = 50 (cost 40p ea). Walk-in: 2× white spray paint @10 = 20 (cost 40p ea) — **different repeat buyer** (white spray = separate repeat customer). | **COGS £4.60 @15 = 69** (Gorilla £3 + blue £0.80 + white £0.80). **Margin 69%, profit 151.** Sprays keep moving — 3 lines, 2 repeat-buyer types |
 
 | 23/08/26 |  | — |  | Closed |
 | 24/08/26 |  | — |  | Closed |
+
+## 31/10/26 Saturday
+| DATE | ACTUAL (GHS) | COGS (GHS) | MARGIN% | TOP SKUs | NOTES |
+|------|--------------|------------|---------|----------|-------|
+| 31/10/26 Sat | 3,185 | 300 | 91% | Walk-in: Performance Power 210mm slide compound Mitre saw (725, cost £17). Walk-in: 4-plug extension (80, cost £3). **Hagija**: 7 Amazon bags of toys (2,000 paid of 6,000; balance 4,000 due Mon from her bro). Jiji: Maxell CD-RW 80 × 2 @190 = 380 | **COGS £20 @15 = 300** (Mitre £17 + extension £3). Toys cost not stated — flag. **Hagija balance 4,000 = RECEIVABLE, due Monday (her bro). Charge Monday.** Electronics-hold: Sat was TV+speaker test/reorganise day |
 
 ## How to Use
 Each evening (or next morning before 4:30 AM), add one line:

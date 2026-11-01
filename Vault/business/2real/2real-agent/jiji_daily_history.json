@@ -4383,5 +4383,106 @@
     ],
     "date": "2026-10-29",
     "saved_at": "2026-10-29T06:45:15.134460"
+  },
+  {
+    "active": 1351,
+    "reviewing": 0,
+    "draft": 0,
+    "declined": 5,
+    "closed": 133,
+    "followers": 342,
+    "feedback": 210,
+    "clients": 1,
+    "top_remaining": "500 of 500",
+    "top_expires": "16/12/26",
+    "whatsapp_ads_active": false,
+    "whatsapp_ads_until": "expired 17 Oct - WhatsApp20 add-on available at GH\u20b5180 (20 ads / 14 days)",
+    "balance_ghs": 0,
+    "pro_sales_bonus_ghs": 6147,
+    "top_items": [
+      {
+        "name": "Female Private Driver",
+        "price": 0,
+        "impressions": 6022,
+        "visitors": 783,
+        "phone_views": 30,
+        "chats": 0
+      },
+      {
+        "name": "Live in Private Nurse / Under Graduate Nurse for Elderly Care",
+        "price": 0,
+        "impressions": 3260,
+        "visitors": 560,
+        "phone_views": 28,
+        "chats": 0
+      },
+      {
+        "name": "Elite Construction Team Wanted - Foremen All Trades",
+        "price": 0,
+        "impressions": 3117,
+        "visitors": 549,
+        "phone_views": 27,
+        "chats": 0
+      },
+      {
+        "name": "Live-in Graduate Nurse For Private Elderly Care (Accra)",
+        "price": 0,
+        "impressions": 2867,
+        "visitors": 619,
+        "phone_views": 26,
+        "chats": 0
+      },
+      {
+        "name": "Panasonic Lumix Digital Camera With Battery and Charger",
+        "price": 980,
+        "impressions": 1176,
+        "visitors": 450,
+        "phone_views": 10,
+        "chats": 38
+      },
+      {
+        "name": "Xbox One Kinect Sensor (Model 1520)",
+        "price": 300,
+        "impressions": 1303,
+        "visitors": 329,
+        "phone_views": 6,
+        "chats": 11
+      },
+      {
+        "name": "LVYUAN 800w/2000w Pure Sine-Wave Power Inverter",
+        "price": 900,
+        "impressions": 1032,
+        "visitors": 234,
+        "phone_views": 9,
+        "chats": 19
+      },
+      {
+        "name": "Complete Nintendo Wii Console",
+        "price": 1050,
+        "impressions": 1158,
+        "visitors": 559,
+        "phone_views": 5,
+        "chats": 9
+      }
+    ],
+    "needs_attention": [
+      "2 NEW declines (2h ago): Koo-Di Pop-Up Travel Bassinet Cot (GHS 200) + Norton Clipper Blade 230mm Turbo (GHS 270) - re-categorise & resubmit",
+      "3 still declared (from 28 Oct): Biometric Fingerprint Terminal, Stanley Sanding Sheets, Daewoo Smartwatch - fix categories",
+      "WhatsApp ads STILL dark 13 days (expired 17 Oct) - add-on GH\u20b5180 available - critical before Christmas push",
+      "Service ads just renewed -> perf counters reset (Female Private Driver 6022 imp / 30 pv / 0 chats was pulling 19 chats before renewal) - warm up",
+      "Marvin's Magic 939 imp / 746 visitors / 114 phone views / 0 chats - CALL NOW",
+      "Measure-Mate 491 imp / 23 pv / 0 ch + ELC Water Wave Pool 222 imp / 12 pv / 0 ch - chase by phone",
+      "Jiji balance GHS 0 - recharge to run promos; Pro Sales GHS 6,147 (down 175)"
+    ],
+    "action_items": [
+      "Resubmit all 5 declined ads (2 new today + 3 from 28 Oct) with correct categories",
+      "Renew WhatsApp Button add-on (20 ads / 14 days / GHS 180) - 13 days dark, Christmas push pending",
+      "Use TOP+ credits (500, valid to 16/12/26) on hot sellers: Panasonic Lumix (38 ch), LVYUAN inverter (19 ch), Xbox Kinect (11 ch), Nintendo Wii (9 ch), Yamaha PSR-150 (13 ch)",
+      "Chase by phone NOW: Marvin's Magic (114 pv), Measure-Mate (23 pv), ELC Water Wave Pool (12 pv) - all 0 chats despite high phone views",
+      "Recharge Jiji balance (GHS 0) to run promos; monitor Pro Sales spend (6,147, -175/day)",
+      "CHRISTMAS: UK order deadline is TODAY 31 Oct - LOCK now"
+    ],
+    "date": "2026-10-30",
+    "saved_at": "2026-10-30T14:55:50.258336"
   }
 ]

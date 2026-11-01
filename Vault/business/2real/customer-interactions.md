@@ -8073,3 +8073,136 @@ I want to try and see first
 - **Chat:** 110415539384428
 - **Customer:** Ok
 - **Reply:** [acknowledgment - no reply sent]
+
+## 2026-10-30 15:38
+- **Channel:** whatsapp
+- **Chat:** 188403136077878
+- **Customer:** [image received]
+- **Reply:** Thank you for your purchase! 🙏 Enjoy the item. If you have a moment, a review on Jiji helps other customers find us — it takes 30 seconds and helps a small business grow: https://jiji.com.gh/shop/2real-online
+
+## 2026-10-30 15:38
+- **Channel:** whatsapp
+- **Chat:** 188403136077878
+- **Customer:** I remember I bought these types of CDs from your site
+- **Reply:** Thank you! 🙏 I've saved your number so you'll be first to know when new stock lands — quality UK tools and gadgets at good prices. Save this number as *2Real Stock Updates* so you don't miss a restock.
+
+## 2026-10-30 15:40
+- **Channel:** whatsapp
+- **Chat:** 188403136077878
+- **Customer:** [image received]
+- **Reply:** Thank you for your purchase! 🙏 Enjoy the item. If you have a moment, a review on Jiji helps other customers find us — it takes 30 seconds and helps a small business grow: https://jiji.com.gh/shop/2real-online
+
+## 2026-10-30 15:40
+- **Channel:** whatsapp
+- **Chat:** 188403136077878
+- **Customer:** I remember I bought these types of CDs from your site
+- **Reply:** Thank you! 🙏 I've saved your number so you'll be first to know when new stock lands — quality UK tools and gadgets at good prices. Save this number as *2Real Stock Updates* so you don't miss a restock.
+
+## 2026-10-30 18:12
+- **Channel:** whatsapp
+- **Chat:** 206335077523585
+- **Customer:** No
+- **Reply:** [acknowledgment - no reply sent]
+
+## 2026-10-30 18:26
+- **Channel:** whatsapp
+- **Chat:** 206335077523585
+- **Customer:** Yes
+- **Reply:** [acknowledgment - no reply sent]
+
+## 2026-10-30 19:03
+- **Channel:** whatsapp
+- **Chat:** 206335077523585
+- **Customer:** Alright
+- **Reply:** [acknowledgment - no reply sent]
+
+## 2026-10-30 19:11
+- **Channel:** whatsapp
+- **Chat:** 188403136077878
+- **Customer:** Okay
+- **Reply:** [acknowledgment - no reply sent]
+
+## 2026-10-31 10:36
+- **Channel:** whatsapp
+- **Chat:** 23893221859387
+- **Customer:** [image received]
+- **Reply:** Thank you for your purchase! 🙏 Enjoy the item. If you have a moment, a review on Jiji helps other customers find us — it takes 30 seconds and helps a small business grow: https://jiji.com.gh/shop/2real-online
+
+## 2026-10-31 10:36
+- **Channel:** whatsapp
+- **Chat:** 23893221859387
+- **Customer:** Available please
+[owner reply] How much? And do you have a picture?
+- **Reply:** Thank you! 🙏 I've saved your number so you'll be first to know when new stock lands — quality UK tools and gadgets at good prices. Save this number as *2Real Stock Updates* so you don't miss a restock.
+
+## 2026-10-31 11:26
+- **Channel:** whatsapp
+- **Chat:** 24941579776231
+- **Customer:** Yes
+- **Reply:** [acknowledgment - no reply sent]
+
+## 2026-10-31 12:09
+- **Channel:** whatsapp
+- **Chat:** 99389972439238
+- **Customer:** [image received]
+- **Reply:** Thank you for your purchase! 🙏 Enjoy the item. If you have a moment, a review on Jiji helps other customers find us — it takes 30 seconds and helps a small business grow: https://jiji.com.gh/shop/2real-online
+
+## 2026-10-31 12:09
+- **Channel:** whatsapp
+- **Chat:** 99389972439238
+- **Customer:** [image received]
+- **Reply:** Thank you! 🙏 I've saved your number so you'll be first to know when new stock lands — quality UK tools and gadgets at good prices. Save this number as *2Real Stock Updates* so you don't miss a restock.
+
+## 2026-10-31 13:51
+- **Channel:** whatsapp
+- **Chat:** 271970314780724
+- **Customer:** [image received]
+- **Reply:** Thank you for your purchase! 🙏 Enjoy the item. If you have a moment, a review on Jiji helps other customers find us — it takes 30 seconds and helps a small business grow: https://jiji.com.gh/shop/2real-online
+
+## 2026-10-31 13:52
+- **Channel:** whatsapp
+- **Chat:** 271970314780724
+- **Customer:** Can I get it in a Dome branch
+- **Reply:** Thank you! 🙏 I've saved your number so you'll be first to know when new stock lands — quality UK tools and gadgets at good prices. Save this number as *2Real Stock Updates* so you don't miss a restock.
+
+## 2026-10-31 14:00
+- **Channel:** whatsapp
+- **Chat:** 186672213925906
+- **Customer:** Yeah
+- **Reply:** [acknowledgment - no reply sent]
+
+## 2026-10-31 14:32
+- **Channel:** whatsapp
+- **Chat:** 271970314780724
+- **Customer:** Okay thanks
+- **Reply:** [acknowledgment - no reply sent]
+
+## 2026-10-31 14:34
+- **Channel:** whatsapp
+- **Chat:** 115169883639822
+- **Customer:** Kk
+- **Reply:** [acknowledgment - no reply sent]
+
+## 2026-10-31 14:46
+- **Channel:** whatsapp
+- **Chat:** 192092932427949
+- **Customer:** Alright
+- **Reply:** [acknowledgment - no reply sent]
+
+## 2026-10-31 14:47
+- **Channel:** whatsapp
+- **Chat:** 115169883639822
+- **Customer:** Ok
+- **Reply:** [acknowledgment - no reply sent]
+
+## 2026-10-31 15:37
+- **Channel:** whatsapp
+- **Chat:** 98608389030014
+- **Customer:** [image received]
+- **Reply:** Thank you for your purchase! 🙏 Enjoy the item. If you have a moment, a review on Jiji helps other customers find us — it takes 30 seconds and helps a small business grow: https://jiji.com.gh/shop/2real-online
+
+## 2026-10-31 15:37
+- **Channel:** whatsapp
+- **Chat:** 98608389030014
+- **Customer:** [image received]
+- **Reply:** Thank you! 🙏 I've saved your number so you'll be first to know when new stock lands — quality UK tools and gadgets at good prices. Save this number as *2Real Stock Updates* so you don't miss a restock.

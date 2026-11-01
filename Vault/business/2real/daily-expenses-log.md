@@ -24,3 +24,5 @@
 - Kia Rio arrived in the container (solely H's; duty 66,988 GH₵ paid separately).
 - AC refill + mirror = first recorded vehicle running costs since arrival.
 - Mr Swindoll (Dome walk-in) promotes **Commando Balm** — accepted 5 pieces as part-payment for Bosch jigsaw (300) + JBL Eon engine (30). Barter accepted at Dome; Sammy field-tested with success.
+| 30/10/26 | Tennis rackets restock — Dunlop Revelation Exact (Gold/Black) 250 + Dunlop M-Fil 700 (Orange/Silver) 250 + Artengo Tennis Bag 100 | 600 | business | New inventory purchase for resale. Plus delivery 34 GH (below). |
+| 30/10/26 | Tennis racket/bag delivery | 34 | business | Carrier delivery for the 600 packet above. |

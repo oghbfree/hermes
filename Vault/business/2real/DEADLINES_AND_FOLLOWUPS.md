@@ -22,7 +22,7 @@ Single source of truth for recurring hard deadlines and open loops that must not
 
 | Item | Since | Source | Next action |
 |------|-------|--------|-------------|
-| **Olymech RFQ 6000997164** | 01 Oct (~20d) | sourcing_log.json | Chase Olymech Interyradin (+233 20 894 5854): strapping buckles, Stanley 10-778 knife, Band-It 201 |
+| **Olymech RFQ 6000997164** | 01 Oct (~29d) | sourcing_log.json | Chase Olymech Interyradin (+233 20 894 5854): strapping buckles, Stanley 10-778 knife, Band-It 201 |
 | **WhatsApp Ads renewal** | expired 17 Oct | content/ads | Renew; ads have been down since 17 Oct |
 | **Jiji declined ad — Daewoo smartwatch** | — | Jiji | Re-submit declined listing |
 | **act ICT — 500W inverters @ GH₵ 970** | 20 Oct | daily-sales-log 20/10 | Confirm quantity (qty not stated); add to total |
@@ -40,7 +40,7 @@ Single source of truth for recurring hard deadlines and open loops that must not
 | Stanley 10-778 FatMax retractable knife | 5 EA | 1x | 01 Oct | Olymech RFQ 6000997164 |
 | Band-It 201 SS buckle 3/8", box 100 | 2 BX | 1x | 01 Oct | Olymech RFQ 6000997164 |
 | Bigger size variant 229×229mm | 1 EA | 1x | 12 Oct | 204565098029169 |
-| Unidentified (photo request) | 1 EA | 1x | 21 Oct | 165953442713654 (repeat buyer, photo sent 13:25) |
+| Unidentified (photo requests ×2) | 2 EA | 1x | 21 Oct | 165953442713654 (repeat buyer, photos 13:25 + 13:35) |
 
 No sourcing action taken automatically — H evaluates each for arbitrage. Supplier leads → `Vault/business/2real/ghana-sourcing/ghana_suppliers.md` when H provides them.
 

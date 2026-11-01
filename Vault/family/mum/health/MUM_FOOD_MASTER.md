@@ -110,6 +110,8 @@
 | 23 Oct | Corn dough porridge + 2 eggs 10:07 (all) · lemon water (all) | — | Mpotompoto 4pm (all) |
 | 24 Oct | Ekoegbemi 10am (left little) | — | Rice + boiled beans 4pm (all) · 🍎 apple (evening, asked for it) |
 | 25 Oct | Porridge + 2 boiled eggs | Banku with grasscutter light soup | — |
+| 30 Oct | — | Boiled yam + kontomire stew (4pm, all) | — (khebab from son ~6:30pm; watermelon juice 7:35pm all) |
+| 31 Oct | Baked beans + 2 boiled eggs (all) · pineapple juice | — (pending afternoon check-in) | — |
 
 > **Backfill complete (12 Oct 26):** Meals to 12 Oct. 🥛 **MILK SPOILT — discarded (strained w/ new cheesecloth + heated, still off; heat ≠ safe with spoiled milk). Perishable protocol: check on arrival, refrigerate immediately, date, carer spot-checks before serving.** Cheesecloth delivered 11 Oct ✓ (rider). Gentle swaps: Don Simon → watermelon juice; kelewele occasional.
 

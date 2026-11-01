@@ -9,8 +9,19 @@ STRICT matching only. No fuzzy, no synonyms, no LLM fallback.
 import json
 import re
 import os
+import sys
 from pathlib import Path
 from datetime import datetime
+
+# Conversational-context layer (fixes irrelevant cold matches on terse answers):
+# a customer's "10" after we ask "8/10/12mm staples?" must resolve against the
+# item already on the table, not match the whole catalog cold.
+sys.path.insert(0, os.path.join(os.path.dirname(__file__)) if os.path.dirname(__file__) else ".")
+try:
+    from convo_context import resolve_message, load_convo, save_convo, update_context, is_terse_followup
+    CONVO_CONTEXT_AVAILABLE = True
+except Exception:
+    CONVO_CONTEXT_AVAILABLE = False
 
 # ─── CONFIG ────────────────────────────────────────────────────────────────
 ZOBaze_INVENTORY_PATH = Path(r"C:\Users\User\.hermes\workspace\Vault\business\2real\2real-agent\inventory_agent.json")
@@ -370,13 +381,33 @@ def draft_reply(customer_message, items, jiji_titles, customer_number=None):
     if not text:
         return ""
     
+    # 0) Conversational context: resolve a terse follow-up ("10", "12mm", "blue")
+    #    against the item already being discussed, so we match the RIGHT listing
+    #    instead of cold-matching the whole catalog.
+    ctx = None
+    resolved_text = text
+    meta = {"kind": "pass_through"}
+    if CONVO_CONTEXT_AVAILABLE and customer_number:
+        ctx = load_convo(customer_number)
+        resolved_text, meta = resolve_message(text, ctx)
+        # A terse answer ("10") with NO live item context must NOT cold-match the
+        # catalog (it would return irrelevant items containing "10"). Stay silent —
+        # it's a fragment, not a query. The plugin's ack/hold paths also keep quiet.
+        if meta.get("kind") == "terse_no_context":
+            return ""
+
+    # Track the customer's product interest so a later terse answer has context.
+    if CONVO_CONTEXT_AVAILABLE and customer_number and ctx is not None:
+        update_context(customer_number, seller_msg="", customer_msg=text)
+        ctx = load_convo(customer_number)
+
     # 1) Check intent (non-product)
-    intent = detect_intent(text)
+    intent = detect_intent(resolved_text)
     if intent:
         return intent
     
     # 2) JIJI — PRIMARY source
-    jiji_title, j_score = match_jiji(text, jiji_titles)
+    jiji_title, j_score = match_jiji(resolved_text, jiji_titles)
     if jiji_title:
         return (f"2Real Enterprises. Yes, we have \"{jiji_title}\" on our Jiji shop. "
                 "Message back for price and availability and I'll confirm stock for you.")
