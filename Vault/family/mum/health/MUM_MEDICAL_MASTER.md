@@ -1758,3 +1758,73 @@ Date-range snapshot:
 - **Dinner:** not yet reported (→ pending for MUM_FOOD_MASTER.md; **TWO-MEAL/DAY ~10am + ~4pm** is the prescribed Dr Morris pattern, not her choice).
 - **Check-in:** Posted evening prompt to topic 4 covering dinner (what + how much, per 2-meal protocol), evening Furosemide 20mg + **BP before dosing on RIGHT arm (standardise — left-arm gap ~10–17 pts, 24 Sep)**, pain/discomfort (post-16 Oct right-leg lift / left-side leg-back; still walking with stick — "far better" 20 Oct), energy/mood, overall day summary incl. any falls/dizziness/missed meals/medication refusal — **plus: ⚠️ perceptual-episode follow-up (did "seeing someone" recur today? — if repeated, escalate to Dr Morris SAME DAY); 🎀 Kenus-spa recurrence ask (enjoyed? want it again?); medication/salt adherence since the 21 Oct refusal; restore the daily reporting flow for the open 25–29 Oct gap with Stephanie (standing CRITICAL escalation); fluids reminder (Na 161 🚩); confirm sodium-recheck labs (due ~24 Sep — STILL unconfirmed, high priority); buy Imodium (out since 8 Sep); milk replacement (spoilt 11–12 Oct); stock BP spare batteries; and Dr Morris reconciliation (salt vs Na 161 + Furosemide dose review + 16 Oct right-leg episode + 18 Oct supplement hold + 21 Oct refusal + 24 Oct perceptual episode).** Pending caregiver response; no reminder to send if today's report is already present.
 - **ONE-RUN LEVER:** **Actively check again tonight whether the "seeing someone in her room" episode has recurred — a single recurrence means calling Dr Morris the same day. This remains the top watch item.**
+
+---
+
+## ✅ 2026-10-31 (Sat) — Afternoon & Evening BACKFILL (from STEPHANIE_INBOX — 31 Oct now fully closed)
+
+### 31 Oct 2026 (Sat) — Afternoon ✅
+- **Status:** Walked around the house (12pm); sat at the porch ~20 min (12:25pm) then came back in; chat with carer ~25 min (1pm); laying in bed, eyes closed (1:40pm); sleeping in bed with small fan by her side (2pm); came to kitchen for brief chat with carer then returned to room (2:45pm). Restful, no pain/incident flagged.
+- **Vitals:** not captured.
+- **Lunch (4pm):** Banku with pepper and fried fish (ate all). Log: Mood Fair · Appetite Fair · **Swelling Same** · Skin Okay.
+- **Medication:** Furosemide 20mg — not reported; do not assume given. Salt therapy unconfirmed.
+
+### 31 Oct 2026 (Sat) — Evening ✅
+- **Status:** Living room, TV on 5:38pm; carer came to sit with her 6:36pm, watched together; still watching TV 7pm; went to her room 7:22pm; laying in bed 7:40pm, bid goodnight. Calm early evening. *(No recurrence of the 24 Oct perceptual episode.)*
+- **Vitals:** not captured.
+- **Dinner:** not explicitly reported this time — laid to bed ~7:40pm (early night). Log: Mood Fair · Appetite Fair · **Swelling Same** · Skin Okay.
+- **Medication:** Furosemide 20mg — not reported; do not assume given.
+
+> **Backfill note (1 Nov 26):** 31 Oct now **fully closed** (morning BP 131/67 ✅ · afternoon · evening). 🚩 Data gap **25–29 Oct REMAINS OPEN** (5 days unlogged — standing top escalation with Stephanie). **24 Oct perceptual episode: NO recurrence in the 30/31 Oct reports — reconfirm today (one recurrence = Dr Morris same day).** Kenus-spa (21 Oct) recurrence ask STILL OPEN · sodium recheck labs (due ~24 Sep) UNCONFIRMED · Imodium out since 8 Sep · milk replacement pending · BP spare batteries to stock. Latest: **31 Oct (BP 131/67 ✅ morning; calm restful 31 Oct day).**
+
+---
+
+## 2026-11-01 (Sun) — Morning ⏰ CHECK-IN PENDING (no 01 Nov report captured yet)
+
+- **Status:** 🟢 Stable through 31 Oct (morning BP 131/67 ✅ · P 64 ✅ · T 36.6 ✅; calm restful afternoon + early evening; swelling **Same**, all logs Fair). **No recurrence of the 24 Oct perceptual episode in the 30/31 Oct inbox reports — actively reconfirm today.** Data gap **25–29 Oct remains open** (5 days unlogged — standing top escalation with Stephanie). No new 01 Nov caregiver report in the inbox yet; last confirmed vitals **31 Oct (BP 131/67 ✅)**.
+- **Uplift:** 🎀 **Kenus-spa (21 Oct) recurrence ask STILL OPEN** (owner-mandated 21/10/26: NEVER assume — did she enjoy the wax + pedicure + manicure? want a recurrence?). Today = Sun (not a Tue+Fri masseuse cadence day; Sat 11 Oct had a session — confirm cadence/past sessions where relevant). 31 Oct she chose an around-the-house walk over morning exercises (autonomy ✓ — keep offering, don't push). Standard uplift menu: 😄 laugh ritual, 🌺 garden/flowers, 📞 family call, 🚶 compound walk, seated exercises. 🍷 Friday red-wine amount (30 Oct) unconfirmed.
+- **Vitals:** not captured (no report; last reading **31 Oct BP 131/67 ✅ · P 64 · T 36.6** at 10:45am — within safe band, Furosemide stop rule <100/>140 NOT triggered).
+- **Medication:** Furosemide 20mg — not reported; do not assume given. **STOP/HOLD if BP <100 or >140.** **Confirm whether salt therapy has resumed** (unconfirmed since 4 Oct; ⚠️ 21 Oct she REFUSED capsules + salt rock — watch whether that refusal repeated). ⚠️ 18 Oct AVS + liquid supplement hold (self-initiated, sickness) — identify products for Dr Morris.
+- **Check-in:** Acknowledged + closing the 31 Oct afternoon/evening reports; **01 Nov morning prompt posted to topic 4** covering breakfast (what + how much, per 2-meal ~10am + ~4pm protocol), morning Furosemide 20mg + **BP before dosing on RIGHT arm (standardise — left-arm gap ~10–17 pts, 24 Sep)**, pain/discomfort (post-16 Oct right-leg lift / left-side leg-back; walking with stick — "far better" 20 Oct), energy/mood, mobility, last night's sleep — **plus: ⚠️ perceptual-episode follow-up (did "seeing someone" recur today? — if repeated, escalate to Dr Morris SAME DAY); 🎀 Kenus-spa recurrence ask (enjoyed? want it again?); medication/salt adherence since the 21 Oct refusal; restore the daily reporting flow for the open 25–29 Oct gap with Stephanie (standing CRITICAL escalation — a direct WhatsApp/phone call to Stephanie is warranted); fluids reminder (Na 161 🚩); confirm sodium-recheck labs (due ~24 Sep — STILL unconfirmed, high priority); buy Imodium (out since 8 Sep — now 8+ weeks); milk replacement (spoilt 11–12 Oct); stock BP spare batteries (device low 4 Oct); and Dr Morris reconciliation (salt vs Na 161 + Furosemide dose review + 16 Oct right-leg episode + 18 Oct supplement hold + 21 Oct refusal + 24 Oct perceptual episode).** Pending caregiver response; no reminder to send if today's report is already present.
+- **ONE-LEVER:** **Actively check today whether the "seeing someone in her room" episode has recurred — a single recurrence means calling Dr Morris the same day. This remains the top watch item.**
+
+---
+
+## 2026-11-01 (Sun) — Afternoon ⏰ AFTERNOON CHECK-IN POSTED
+
+- **Status:** 🟢 Stable through 31 Oct (morning BP 131/67 ✅ · P 64 ✅ · T 36.6 ✅; calm restful afternoon + early evening; swelling **Same**, all logs Fair). **No recurrence of the 24 Oct perceptual episode in the 30/31 Oct reports — actively reconfirm today.** Data gap **25–29 Oct remains open** (5 days unlogged — standing top escalation with Stephanie). No new 01 Nov caregiver report in the inbox yet; last confirmed vitals **31 Oct (BP 131/67 ✅)**. STEPHANIE_SILENT_INTAKE: 0/5 unprocessed — no ingestion needed.
+- **Uplift:** 🎀 **Kenus-spa (21 Oct) recurrence ask STILL OPEN** (owner-mandated 21/10/26: NEVER assume — did she enjoy the wax + pedicure + manicure? want a recurrence?). Today = Sun (family-visit day by pattern — son/grandsons/Felicia often Sunday). 31 Oct she chose an around-the-house walk over morning exercises (autonomy ✓ — keep offering, don't push). Standard uplift menu: 😄 laugh ritual, 🌺 garden/flowers, 📞 family call, 🚶 compound walk, seated exercises. 🍷 Friday red-wine amount (30 Oct) unconfirmed.
+- **Vitals:** not captured (no report; last reading **31 Oct BP 131/67 ✅ · P 64 · T 36.6** at 10:45am — within safe band, Furosemide stop rule <100/>140 NOT triggered). ⚠️ **BP must be resumed today — RIGHT arm, standardised, before Furosemide dosing** (left-arm gap ~10–17 pts, 24 Sep).
+- **Medication:** Furosemide 20mg — not reported; do not assume given. **STOP/HOLD if BP <100 or >140.** **Confirm whether salt therapy has resumed** (unconfirmed since 4 Oct; ⚠️ 21 Oct she REFUSED capsules + salt rock — watch whether that refusal repeated). ⚠️ 18 Oct AVS + liquid supplement hold (self-initiated, sickness) — identify products for Dr Morris.
+- **Lunch:** not yet reported (→ pending for MUM_FOOD_MASTER.md once received; **TWO-MEAL/DAY ~10am + ~4pm** is the prescribed Dr Morris pattern, not her choice).
+- **Check-in:** Posted afternoon prompt to topic 4 asking about lunch (what + how much), afternoon Furosemide 20mg + **BP before dosing on RIGHT arm (standardise)**, pain/discomfort (post-16 Oct right-leg lift / left-side leg-back; walking with stick — "far better" 20 Oct), energy/mood, and any incidents since morning — **plus: ⚠️ perceptual-episode follow-up (did "seeing someone" recur today? — if repeated, escalate to Dr Morris SAME DAY); 🎀 Kenus-spa recurrence ask (enjoyed? want it again?); medication/salt adherence since the 21 Oct refusal; restore the daily reporting flow for the open 25–29 Oct gap with Stephanie (standing CRITICAL escalation — direct WhatsApp/phone call to Stephanie warranted); fluids reminder (Na 161 🚩); confirm sodium-recheck labs (due ~24 Sep — STILL unconfirmed, high priority); buy Imodium (out since 8 Sep — now 8+ weeks); milk replacement (spoilt 11–12 Oct); stock BP spare batteries (device low 4 Oct); and Dr Morris reconciliation (salt vs Na 161 + Furosemide dose review + 16 Oct right-leg episode + 18 Oct supplement hold + 21 Oct refusal + 24 Oct perceptual episode).** Pending caregiver response; no reminder to send if today's report is already present.
+- **ONE-LEVER:** **Actively check today whether the "seeing someone in her room" episode has recurred — a single recurrence means calling Dr Morris the same day. This remains the top watch item.**
+
+---
+
+## ✅ 2026-11-01 (Sun) — Morning & Afternoon CAPTURED (from STEPHANIE_INBOX — 1 Nov day closed)
+
+### 1 Nov 2026 (Sun) — Morning ✅
+- **Status:** Feeling okay (7am check). **Asked carer to apply medicated powder at her back 7:45am (done)** — recurrent back-itch care (also 3 Oct) — watch/ask about itch tonight. Sitting on bed with phone 8:40am; **living-room walk 9:25am** (mobility ✓) then back to her room.
+- **Vitals (10:53am):** **BP 138/65 · P 71 · T 36.6** ✅ healthy — within safe band (Furosemide stop rule <100/>140 NOT triggered; systolic near but under threshold).
+- **Medication:** Furosemide 20mg — not explicitly reported; BP healthy, assume per protocol unless flagged. Salt therapy still unconfirmed (open since 4 Oct).
+- **Breakfast (10am):** Ekoegbemi (ate all) + tea (10:13am, left little). Log: Mood Fair · Appetite Fair · **Swelling Same** · Skin Okay.
+
+### 1 Nov 2026 (Sun) — Afternoon ✅
+- **Status:** 🧡 **SON + GRANDSONS VISITED 12pm–3pm** (Sunday family-visit pattern ✓) — interactions 1:30pm, TV together 2:20pm (son stepped out, due back), all left 3pm. **Complained of hunger 3:10pm and asked for dinner early** (couldn't wait for the 4pm slot) — appetite holding up ✓. Restful, no pain/fall flagged.
+- **Vitals:** not captured.
+- **Medication:** ⚠️ **150mls liquid medication brought to her 11:20am** — product not identified; log for Dr Morris reconciliation (18 Oct AVS/supplement-hold context). Furosemide 20mg — not reported; do not assume given.
+- **Dinner (3:40pm — early, per her request):** Kokonte with tilapia (ate all) 🌟 fresh fish per protocol. Log: Mood Fair · Appetite Fair · **Swelling Same** · Urine Normal · Skin Okay.
+
+> **Backfill note (1 Nov 26, evening run):** 1 Nov morning + afternoon now captured from Stephanie's inbox — **BP 138/65 ✅ (10:53am), swelling Same, family visit afternoon, appetite strong.** **No recurrence of the 24 Oct perceptual episode in today's reports — reconfirmed at evening check-in (one recurrence = Dr Morris same day).** Data gap **25–29 Oct remains open** (standing top escalation). Kenus-spa (21 Oct) recurrence ask STILL OPEN · sodium recheck labs (due ~24 Sep) UNCONFIRMED · Imodium out since 8 Sep · milk replacement pending · BP spare batteries to stock. Latest: **1 Nov (BP 138/65 ✅; family-visit day).**
+
+---
+
+## 2026-11-01 (Sun) — Evening ⏰ EVENING CHECK-IN POSTED
+- **Status:** 🟢 Stable day. 1 Nov morning + afternoon captured (BP 138/65 ✅ · P 71 ✅ · T 36.6 ✅ at 10:53am; swelling **Same**; family visit 12–3pm; breakfast Ekoegbemi + dinner kokonte/tilapia both finished). **No recurrence of the 24 Oct perceptual episode in today's reports — reconfirmed at this check-in.** Data gap **25–29 Oct remains open** (5 days unlogged — standing top escalation with Stephanie).
+- **Uplift:** 🧡 **Son + grandsons visited 12pm–3pm** — interactions + TV together (family-visit day ✓). 🚶 Living-room walk 9:25am. 🎀 **Kenus-spa (21 Oct) recurrence ask STILL OPEN** (owner-mandated 21/10/26: NEVER assume — did she enjoy the wax + pedicure + manicure, want a recurrence?). Today = Sun (not a Tue+Fri masseuse cadence day).
+- **Vitals:** **1 Nov 10:53am BP 138/65 · P 71 · T 36.6 ✅** (within safe band — Furosemide stop rule <100/>140 NOT triggered). Evening vitals pending.
+- **Medication:** Furosemide 20mg — not reported for today; do not assume given. **STOP/HOLD if BP <100 or >140.** Salt therapy unconfirmed (open since 4 Oct; ⚠️ 21 Oct refusal — watch for repeat). ⚠️ 150mls liquid medication 11:20am — product to identify for Dr Morris.
+- **Dinner:** Kokonte with tilapia (ate all, 3:40pm — early per her request; → logged in MUM_FOOD_MASTER.md). Evening report pending.
+- **Check-in:** Evening prompt posted to topic 4 (delivered via this job's `deliver` target) asking about dinner/evening snack, evening Furosemide 20mg + **BP before dosing on RIGHT arm (standardise)**, pain/discomfort (incl. back itch — medicated powder this morning; post-16 Oct leg/back), energy/mood, overall day summary incl. any falls/dizziness/missed meals/medication refusal — **plus: ⚠️ perceptual-episode reconfirm (did "seeing someone" recur today? — if repeated, escalate to Dr Morris SAME DAY); 🎀 Kenus-spa recurrence ask (enjoyed? want it again?); identify the 11:20am liquid medication; fluids reminder (Na 161 🚩); confirm sodium-recheck labs (due ~24 Sep — STILL unconfirmed); buy Imodium (out since 8 Sep); milk replacement (spoilt 11–12 Oct); stock BP spare batteries; restore the open 25–29 Oct gap with Stephanie.** Pending caregiver response; no reminder to send if today's report is already present.
+- **ONE-LEVER:** **Confirm tonight whether the "seeing someone in her room" episode has recurred — a single recurrence means calling Dr Morris the same day. Top watch item.**

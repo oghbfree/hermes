@@ -51,22 +51,33 @@ The flag was *deception / taking money*. Real triggers to eliminate:
    never re-post what's already listed.
 If ANY layer flags it: SKIP. No exceptions, no "but the queue says so."
 
-## 5. Re-entry plan (graduated trust — today is Day 1)
+## 5. Re-entry plan (graduated trust — IN PROGRESS, Day 1 done 01/11/26)
 After a restriction is lifted, FB watches the account closely. Prove we're a
 good-faith seller before volume returns:
+- **DAY 1 DONE 01/11/26:** 3-item batch (Ring RTC2000 13427157, Luceco torch
+  13406906, Ryobi charger 16602816 — all Brand New, Jiji photos) published LIVE +
+  verified on the selling page. Stale pre-suspension registry purged first so the
+  poster treated them fresh.
 - **Week 1:** 2–3 listings/day, ONLY genuinely re-checked, honestly-described
-  high-trust items. Focus on condition honesty + consistent pricing + photo truth.
+  high-trust items. Cron is GUARDED: Batch Poster runs ONCE daily 10:00, cap 3/day.
 - **Week 2:** ramp to 3–5/day if no friction.
-- **After 2 clean weeks:** cap at the playbook's 5×3 cadence as an UPPER bound,
-  still one-per-product + variation + pacing.
+- **After 2 clean weeks:** re-raise the cron cap (recorded in DECISION_LOG) —
+  still one-per-product + variation + pacing. Until then 3/day is the hard cap.
 - **Any Meta signal** (flag, review, listing removal, warning) → STOP all posting,
   report to H, don't fight it.
-- CRITICAL: **do not resume the old auto-poster cron fire-and-forget cadence** —
-  that burst pattern is exactly what reads as a bot/deceiver. FB posting stays
-  deliberate.
+- CRITICAL: **the cron runs DELIBERATE (once daily, 3/day cap), NOT the old
+  5×3 fire-and-forget burst** — that burst pattern is what reads as a bot/deceiver.
 
 ## 6. What "preservation" means operationally (daily)
 - Visual + title = truth: condition, included-in-box, price, pickup/delivery.
+- **PHOTO SOURCE (two separate rules — do NOT conflate them):**
+  1. **FB Marketplace LISTINGS → Jiji listing photos, always** (source-of-truth rule,
+     unchanged). The FB poster uses local `photos/<jiji_id>.jpg` (from Jiji scrapes).
+     NEVER fetch a brand stock image for an FB listing.
+  2. **Sunday CONTENT/MARKETING stills (Status, groups, CTWA) → condition split (engine B4A):**
+     NEW/boxed item → official manufacturer stock photo (Gorilla/Stanley/Black & Decker/diy.com;
+     Akoma → Makeblock); USED/UK pre-owned → REAL photo of the actual unit. Never a clean stock
+     shot standing in for a used item — that deception flag is what got the Marketplace reviewed.
 - Verify stock physically present before listing (Dome vs Oyarifa handled by human).
 - Sold → delete the FB listing same day (stale listings destroy trust).
 - Prune/renew ONLY genuinely killed listings (FB auto-expires ~7 days; renew via

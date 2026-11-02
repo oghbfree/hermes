@@ -8563,5 +8563,19 @@
     "stage": "saved",
     "purchases": 1,
     "last_seen": "2026-10-31 15:37"
+  },
+  {
+    "chat_id": "210806172070044",
+    "first_seen": "2026-11-01 11:10",
+    "stage": "saved",
+    "purchases": 1,
+    "last_seen": "2026-11-01 11:10"
+  },
+  {
+    "chat_id": "276583680090147",
+    "first_seen": "2026-11-01 12:35",
+    "stage": "saved",
+    "purchases": 1,
+    "last_seen": "2026-11-01 12:36"
   }
 ]

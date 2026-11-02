@@ -47,3 +47,21 @@ H
 ```
 
 **Notes**: Same gentle, generic message as 2026-09-01 (no amount on record). No stray test message this run. Next scheduled run: 2026-10-26.
+
+## 2026-11-01 | ~10:05 UTC | WhatsApp Delivered
+
+**Status**: Sent via WhatsApp (bridge live)
+**Channel**: whatsapp:+447****1651 (Hughie — UK associate, known via a friend)
+**Reason**: Cron `hughie-payment-reminder` (schedule `5 10 */25 * *`). WhatsApp gateway `/health` connected (uptime 141578s). `hermes send --to whatsapp:+447940081651` returned success (message_id 3EB0652D6AA531831D3A3B, chat 447940081651@s.whatsapp.net).
+
+**Message Sent**:
+```
+Dear Hughie,
+
+Hope you're well. Just a gentle reminder about the outstanding payment we discussed, which is still unsettled. Kindly confirm a timeline for settlement when you can.
+
+Best regards,
+H
+```
+
+**Notes**: Kept to-the-point per job instruction ("no elaboration"). Tone per CONTACTS.md — Associate, polite and professional, gentle reminders. No precise amount on record for Hughie's debt, so kept generic. Next scheduled run: 2026-11-26.

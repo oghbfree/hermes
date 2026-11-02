@@ -22,15 +22,15 @@
       "schedule_display": "0 19 * * *",
       "repeat": {
         "times": null,
-        "completed": 135
+        "completed": 136
       },
       "enabled": true,
       "state": "scheduled",
       "paused_at": null,
       "paused_reason": null,
       "created_at": "2026-06-07T00:35:40.116212+01:00",
-      "next_run_at": "2026-11-01T19:00:00+00:00",
-      "last_run_at": "2026-10-31T19:00:57.938976+00:00",
+      "next_run_at": "2026-11-02T19:00:00+00:00",
+      "last_run_at": "2026-11-01T19:00:53.119650+00:00",
       "last_status": "ok",
       "last_error": null,
       "last_delivery_error": null,
@@ -44,13 +44,13 @@
       "provider_snapshot": null,
       "model_snapshot": null,
       "last_dispatch": {
-        "scheduled_at": "2026-10-31T19:00:00+00:00",
-        "dispatched_at": "2026-10-31T19:00:29.982610+00:00",
-        "lateness_seconds": 30.0,
+        "scheduled_at": "2026-11-01T19:00:00+00:00",
+        "dispatched_at": "2026-11-01T19:00:15.218267+00:00",
+        "lateness_seconds": 15.2,
         "kind": "on_time"
       },
       "canonical_completions": [
-        "96d565fd691040fd894d165e89bed788"
+        "616560106ed14938803ca3ff6325a101"
       ]
     },
     {
@@ -73,39 +73,39 @@
       "schedule_display": "0 9 * * *",
       "repeat": {
         "times": null,
-        "completed": 139
+        "completed": 140
       },
       "enabled": true,
       "state": "scheduled",
       "paused_at": null,
       "paused_reason": null,
       "created_at": "2026-06-07T07:18:37.149115+01:00",
-      "next_run_at": "2026-11-01T09:00:00+00:00",
-      "last_run_at": "2026-10-31T10:31:25.644477+00:00",
-      "last_status": "error",
-      "last_error": "RuntimeError: Hermes can't reach the model provider. You may be offline. Check your internet connection and try again.",
-      "last_delivery_error": "live adapter send failed: send_path_degraded; live adapter delivery to telegram:-1003784520976:1 failed: send_path_degraded; delivery error: Telegram send failed: httpx.ConnectError: All connection attempts failed (target telegram:-1003784520976:1); queued text for telegram:-1003784520976:1 for redelivery once the live adapter reconnects",
+      "next_run_at": "2026-11-02T09:00:00+00:00",
+      "last_run_at": "2026-11-01T09:01:04.291595+00:00",
+      "last_status": "ok",
+      "last_error": null,
+      "last_delivery_error": null,
       "deliver": "origin",
       "origin": null,
       "enabled_toolsets": null,
       "workdir": null,
       "profile": null,
       "fire_claim": null,
-      "failure_streak": 1,
+      "failure_streak": 0,
       "provider_snapshot": null,
       "model_snapshot": null,
       "last_dispatch": {
-        "scheduled_at": "2026-10-31T09:00:00+00:00",
-        "dispatched_at": "2026-10-31T10:26:30.299902+00:00",
-        "lateness_seconds": 5190.3,
-        "kind": "late"
+        "scheduled_at": "2026-11-01T09:00:00+00:00",
+        "dispatched_at": "2026-11-01T09:00:34.448829+00:00",
+        "lateness_seconds": 34.4,
+        "kind": "on_time"
       },
       "last_failure": {
         "at": "2026-10-31T10:31:25.644477+00:00",
         "detail": "RuntimeError: Hermes can't reach the model provider. You may be offline. Check your internet connection and try again."
       },
       "canonical_completions": [
-        "f5f5fc01d501415e857d736fcd8ab71e"
+        "e2feff9f7ec146d88133e68d2718196d"
       ]
     },
     {
@@ -161,60 +161,9 @@
       }
     },
     {
-      "id": "1cf75a0caf85",
-      "name": "sunday-content-engine",
-      "prompt": "Read C:\\Users\\User\\.hermes\\workspace\\Vault\\business\\Content\\content-assets\\SUNDAY_CONTENT_ENGINE_PROMPT.md and execute it exactly as written. Do not invent or omit steps; follow the prompt’s brand schedule, use brand logos only, platform requirements, asset paths, and formatting rules. Use image_gen with image_url for image-to-image polish, and video_gen with image_url for video-to-video refinement where the backend supports it. Render only the final assets; replace draft media with final media before delivery.",
-      "skills": [
-        "social-media-operations",
-        "songwriting-and-ai-music"
-      ],
-      "skill": "social-media-operations",
-      "model": "deepseek/deepseek-v4-flash-0731",
-      "provider": "openrouter",
-      "base_url": null,
-      "script": null,
-      "no_agent": false,
-      "context_from": null,
-      "schedule": {
-        "kind": "cron",
-        "expr": "30 4 * * 0",
-        "display": "30 4 * * 0"
-      },
-      "schedule_display": "30 4 * * 0",
-      "repeat": {
-        "times": null,
-        "completed": 22
-      },
-      "enabled": false,
-      "state": "paused",
-      "paused_at": "2026-10-07T05:34:58.094685+00:00",
-      "paused_reason": null,
-      "created_at": "2026-06-07T07:18:43.353739+01:00",
-      "next_run_at": "2026-10-11T04:30:00+00:00",
-      "last_run_at": "2026-10-04T04:33:46.843965+00:00",
-      "last_status": "ok",
-      "last_error": null,
-      "last_delivery_error": null,
-      "deliver": "telegram:-1003784520976:26",
-      "origin": null,
-      "enabled_toolsets": null,
-      "workdir": null,
-      "profile": null,
-      "fire_claim": null,
-      "failure_streak": 0,
-      "provider_snapshot": null,
-      "model_snapshot": null,
-      "last_dispatch": {
-        "scheduled_at": "2026-10-04T04:30:00+00:00",
-        "dispatched_at": "2026-10-04T04:30:55.975075+00:00",
-        "lateness_seconds": 56.0,
-        "kind": "on_time"
-      }
-    },
-    {
       "id": "3b593315ac1c",
       "name": "mum-health-morning",
-      "prompt": "You are the morning care check-in for Comfort Blankson (age 91, elderly care). You receive morning care logs from caregivers via Telegram topic 4 (Mum Health).\n\nMASTER FILES (canonical — these are the ONLY files you write to):\n- MEDICAL: C:\\Users\\User\\.hermes\\workspace\\Vault\\family\\mum\\health\\MUM_MEDICAL_MASTER.md\n- FOOD: C:\\Users\\User\\.hermes\\workspace\\Vault\\family\\mum\\health\\MUM_FOOD_MASTER.md\n- PROFILE: C:\\Users\\User\\.hermes\\workspace\\Vault\\family\\mum\\MUM_PROFILE.md\n\nDo NOT create individual daily report files unless a caregiver has sent a NEW detailed report not yet captured. All new entries go into the master files.\n\nTASK:\n1. Read MUM_MEDICAL_MASTER.md and MUM_FOOD_MASTER.md to get current status.\n2. Check Telegram topic 4 for any new unread morning care report from the caregiver.\n3. If a new report is found: confirm receipt, flag readings outside acceptable ranges (BP >=140/90, pulse outside 60-100, temp above 37.5), post a simple acknowledgement to telegram:-1003784520976:4.\n4. Append a dated morning entry to the bottom of MUM_MEDICAL_MASTER.md with today's date and the check-in summary (including any BP/pulse/temp vitals and whether Furosemide 20mg was given).\n\nAPPEND FORMAT for MUM_MEDICAL_MASTER.md:\n---\n## YYYY-MM-DD (Day) — Morning\n- **Status:** [brief summary of red flags and stable items]\n- **Uplift:** [massage/spa/outing/exercise/laughter today — see MUM_UPLIFT_PROGRAMME]\n- **Vitals:** BP [x/y], Pulse [x], Temp [x]°C (if captured)\n- **Medication:** Furosemide 20mg given (Yes/No) — STOP if BP <100 or >140\n- **Check-in:** Asked caregiver about breakfast, morning meds, pain, energy/mood, mobility\n\nDo NOT send reminders if a report is already present for today.\n\nUPLIFT IS PART OF THE HEALTH LOG (owner-mandated 21/10/26): well-being is health. Read MUM_UPLIFT_PROGRAMME.md daily and track uplift/self-care IN THE SAME daily entry via an \"Uplift:\" line — things like massage, spa/beauty treats, outings, laughter, exercise, family moments. STANDING FOLLOW-UP: after any spa/beauty treat (e.g. 21/10 Kenus wax+pedicure+manicure), ask the check-in whether she enjoyed it and wants a recurrence — NEVER assume. Append the \"Uplift:\" line each day.\n\nSTEP 0 — STEPHANIE SILENT-INTAKE PROCESSING (added 30/10/26):\nRun: `C:/Users/User/AppData/Local/Programs/Python/Python314/python.exe C:/Users/User/AppData/Local/hermes/profiles/sat-nav/scripts/stephanie_daily_process.py`\nThis reads STEPHANIE_INBOX.md (Stephanie, nurse, 0548236698 — she WhatsApps updates to 0204252252; the gateway plugin captures them silently), parses BP/meds/meals/pain/falls, appends a dated entry to MUM_MEDICAL_MASTER.md, marks inbox processed. SILENT — never sends ANYTHING to Stephanie (H-only rule: no auto-response to her unless H instructs). If the script prints 'no new updates', note it as today's silent gap (flag for H if it's been >2 days silent).",
+      "prompt": "You are the morning care check-in for Comfort Blankson (age 91, elderly care). You receive morning care logs from caregivers via Telegram topic 4 (Mum Health).\n\nMASTER FILES (canonical — these are the ONLY files you write to):\n- MEDICAL: C:\\Users\\User\\.hermes\\workspace\\Vault\\family\\mum\\health\\MUM_MEDICAL_MASTER.md\n- FOOD: C:\\Users\\User\\.hermes\\workspace\\Vault\\family\\mum\\health\\MUM_FOOD_MASTER.md\n- PROFILE: C:\\Users\\User\\.hermes\\workspace\\Vault\\family\\mum\\MUM_PROFILE.md\n\nDo NOT create individual daily report files unless a caregiver has sent a NEW detailed report not yet captured. All new entries go into the master files.\n\nTASK:\n1. Read MUM_MEDICAL_MASTER.md and MUM_FOOD_MASTER.md to get current status.\n2. Check Telegram topic 4 for any new unread morning care report from the caregiver.\n3. If a new report is found: confirm receipt, flag readings outside acceptable ranges (BP >=140/90, pulse outside 60-100, temp above 37.5), post a simple acknowledgement to telegram:-1003784520976:4.\n4. Append a dated morning entry to the bottom of MUM_MEDICAL_MASTER.md with today's date and the check-in summary (including any BP/pulse/temp vitals and whether Furosemide 20mg was given).\n\nAPPEND FORMAT for MUM_MEDICAL_MASTER.md:\n---\n## YYYY-MM-DD (Day) — Morning\n- **Status:** [brief summary of red flags and stable items]\n- **Uplift:** [massage/spa/outing/exercise/laughter today — see MUM_UPLIFT_PROGRAMME]\n- **Vitals:** BP [x/y], Pulse [x], Temp [x]°C (if captured)\n- **Medication:** Furosemide 20mg given (Yes/No) — STOP if BP <100 or >140\n- **Check-in:** Asked caregiver about breakfast, morning meds, pain, energy/mood, mobility\n\nDo NOT send reminders if a report is already present for today.\n\nUPLIFT IS PART OF THE HEALTH LOG (owner-mandated 21/10/26): well-being is health. Read MUM_UPLIFT_PROGRAMME.md daily and track uplift/self-care IN THE SAME daily entry via an \"Uplift:\" line — things like massage, spa/beauty treats, outings, laughter, exercise, family moments. STANDING FOLLOW-UP: after any spa/beauty treat (e.g. 21/10 Kenus wax+pedicure+manicure), ask the check-in whether she enjoyed it and wants a recurrence — NEVER assume. Append the \"Uplift:\" line each day.\nSTEP 0 — STEPHANIE SILENT-INTAKE (consume the SNAPSHOT injected into this prompt):\nAt the START of every run, a \"STEPHANIE SILENT-INTAKE SNAPSHOT\" block is injected into this prompt\n(by the job's attached stephanie_inbox_snapshot.py script). It lists any UNPROCESSED entries Stephanie\n(nurse, 0548236698) WhatsApp'd about Mum. Process them BEFORE the regular check-in:\n1. Parse each listed entry: BP/pulse/temp, meals, meds (Furosemide 20mg), pain, falls, perceptual episode\n   (\"seeing someone\" — recurrence = escalate to Dr Morris SAME DAY), any log keys (Mood/Appetite/Swelling/Skin).\n2. Append a dated entry for it to MUM_MEDICAL_MASTER.md (meals also to MUM_FOOD_MASTER.md) per the master format.\n3. Mark that inbox entry processed by appending [PROCESSED] to its header line in STEPHANIE_INBOX.md\n   (file path: C:/Users/User/.hermes/workspace/Vault/family/mum/health/STEPHANIE_INBOX.md), matching the\n   timestamp in the snapshot header.\n4. If the snapshot says \"No unprocessed Stephanie entries\", just note the last captured date as today's\n   silent-gap status (flag to H if silent >2 days). NEVER send anything to Stephanie — silent intake only.",
       "skills": [
         "lifebot-family"
       ],
@@ -222,7 +171,7 @@
       "model": "deepseek/deepseek-v4-flash-0731",
       "provider": "openrouter",
       "base_url": null,
-      "script": null,
+      "script": "stephanie_inbox_snapshot.py",
       "no_agent": false,
       "context_from": null,
       "schedule": {
@@ -233,18 +182,18 @@
       "schedule_display": "4 8 * * *",
       "repeat": {
         "times": null,
-        "completed": 139
+        "completed": 140
       },
       "enabled": true,
       "state": "scheduled",
       "paused_at": null,
       "paused_reason": null,
       "created_at": "2026-06-07T07:18:47.582718+01:00",
-      "next_run_at": "2026-11-01T08:04:00+00:00",
-      "last_run_at": "2026-10-31T10:30:44.451078+00:00",
-      "last_status": "error",
-      "last_error": "RuntimeError: Hermes can't reach the model provider. You may be offline. Check your internet connection and try again.",
-      "last_delivery_error": "live adapter send failed: send_path_degraded; live adapter delivery to telegram:-1003784520976:4 failed: send_path_degraded; delivery error: Telegram send failed: httpx.ConnectError: All connection attempts failed (target telegram:-1003784520976:4); queued text for telegram:-1003784520976:4 for redelivery once the live adapter reconnects",
+      "next_run_at": "2026-11-02T08:04:00+00:00",
+      "last_run_at": "2026-11-01T08:09:09.969535+00:00",
+      "last_status": "ok",
+      "last_error": null,
+      "last_delivery_error": null,
       "deliver": "telegram:-1003784520976:4",
       "origin": null,
       "enabled_toolsets": [
@@ -255,27 +204,27 @@
       "workdir": "C:\\Users\\User\\.hermes\\workspace\\Vault\\family\\mum\\health",
       "profile": null,
       "fire_claim": null,
-      "failure_streak": 1,
+      "failure_streak": 0,
       "provider_snapshot": null,
       "model_snapshot": null,
       "last_dispatch": {
-        "scheduled_at": "2026-10-31T08:04:00+00:00",
-        "dispatched_at": "2026-10-31T08:59:53.236733+00:00",
-        "lateness_seconds": 3353.2,
-        "kind": "late"
+        "scheduled_at": "2026-11-01T08:04:00+00:00",
+        "dispatched_at": "2026-11-01T08:04:34.460273+00:00",
+        "lateness_seconds": 34.5,
+        "kind": "on_time"
       },
       "last_failure": {
         "at": "2026-10-31T10:30:44.451078+00:00",
         "detail": "RuntimeError: Hermes can't reach the model provider. You may be offline. Check your internet connection and try again."
       },
       "canonical_completions": [
-        "48583978b1c84d31abe3bb606e8dc76b"
+        "f9997abdb2e24db1807eec32c28f4b7b"
       ]
     },
     {
       "id": "fb07221a65b8",
       "name": "mum-health-afternoon",
-      "prompt": "You are the afternoon care check-in for Comfort Blankson (age 91, elderly care). You receive afternoon care logs from caregivers via Telegram topic 4 (Mum Health).\n\nMASTER FILES (canonical — these are the ONLY files you write to):\n- MEDICAL: C:\\Users\\User\\.hermes\\workspace\\Vault\\family\\mum\\health\\MUM_MEDICAL_MASTER.md\n- FOOD: C:\\Users\\User\\.hermes\\workspace\\Vault\\family\\mum\\health\\MUM_FOOD_MASTER.md\n- PROFILE: C:\\Users\\User\\.hermes\\workspace\\Vault\\family\\mum\\MUM_PROFILE.md\n\nDo NOT create individual daily report files unless a caregiver has sent a NEW detailed report not yet captured. All new entries go into the master files.\n\nTASK:\n1. Read MUM_MEDICAL_MASTER.md and MUM_FOOD_MASTER.md to get current status.\n2. Post an afternoon check-in prompt to telegram:-1003784520976:4 asking about lunch, afternoon medications, pain/discomfort, energy/mood, and any incidents since morning.\n3. If a caregiver replies with a new report: confirm receipt, flag abnormal readings, and append a dated entry to the master files.\n\nAPPEND FORMAT for MUM_MEDICAL_MASTER.md:\n---\n## YYYY-MM-DD (Day) — Afternoon\n- **Status:** [brief summary of red flags and stable items]\n- **Uplift:** [massage/spa/outing/exercise/laughter today — see MUM_UPLIFT_PROGRAMME]\n- **Vitals:** BP [x/y], Pulse [x], Temp [x]°C (if captured)\n- **Medication:** Furosemide 20mg given (Yes/No) — STOP if BP <100 or >140\n- **Lunch:** [what was eaten, if reported] (→ also logged in MUM_FOOD_MASTER.md)\n- **Check-in:** Asked caregiver about lunch, meds, pain, energy/mood, incidents\n\nAPPEND FORMAT for MUM_FOOD_MASTER.md (add to the daily table):\n- Date row update: lunch meal under the date's Lunch column.\n\nUPLIFT IS PART OF THE HEALTH LOG (owner-mandated 21/10/26): well-being is health. Read MUM_UPLIFT_PROGRAMME.md daily and track uplift/self-care IN THE SAME daily entry via an \"Uplift:\" line — things like massage, spa/beauty treats, outings, laughter, exercise, family moments. STANDING FOLLOW-UP: after any spa/beauty treat (e.g. 21/10 Kenus wax+pedicure+manicure), ask the check-in whether she enjoyed it and wants a recurrence — NEVER assume. Append the \"Uplift:\" line each day.\n",
+      "prompt": "You are the afternoon care check-in for Comfort Blankson (age 91, elderly care). You receive afternoon care logs from caregivers via Telegram topic 4 (Mum Health).\n\nMASTER FILES (canonical — these are the ONLY files you write to):\n- MEDICAL: C:\\Users\\User\\.hermes\\workspace\\Vault\\family\\mum\\health\\MUM_MEDICAL_MASTER.md\n- FOOD: C:\\Users\\User\\.hermes\\workspace\\Vault\\family\\mum\\health\\MUM_FOOD_MASTER.md\n- PROFILE: C:\\Users\\User\\.hermes\\workspace\\Vault\\family\\mum\\MUM_PROFILE.md\n\nDo NOT create individual daily report files unless a caregiver has sent a NEW detailed report not yet captured. All new entries go into the master files.\n\nTASK:\n1. Read MUM_MEDICAL_MASTER.md and MUM_FOOD_MASTER.md to get current status.\n2. Post an afternoon check-in prompt to telegram:-1003784520976:4 asking about lunch, afternoon medications, pain/discomfort, energy/mood, and any incidents since morning.\n3. If a caregiver replies with a new report: confirm receipt, flag abnormal readings, and append a dated entry to the master files.\n\nAPPEND FORMAT for MUM_MEDICAL_MASTER.md:\n---\n## YYYY-MM-DD (Day) — Afternoon\n- **Status:** [brief summary of red flags and stable items]\n- **Uplift:** [massage/spa/outing/exercise/laughter today — see MUM_UPLIFT_PROGRAMME]\n- **Vitals:** BP [x/y], Pulse [x], Temp [x]°C (if captured)\n- **Medication:** Furosemide 20mg given (Yes/No) — STOP if BP <100 or >140\n- **Lunch:** [what was eaten, if reported] (→ also logged in MUM_FOOD_MASTER.md)\n- **Check-in:** Asked caregiver about lunch, meds, pain, energy/mood, incidents\n\nAPPEND FORMAT for MUM_FOOD_MASTER.md (add to the daily table):\n- Date row update: lunch meal under the date's Lunch column.\n\nUPLIFT IS PART OF THE HEALTH LOG (owner-mandated 21/10/26): well-being is health. Read MUM_UPLIFT_PROGRAMME.md daily and track uplift/self-care IN THE SAME daily entry via an \"Uplift:\" line — things like massage, spa/beauty treats, outings, laughter, exercise, family moments. STANDING FOLLOW-UP: after any spa/beauty treat (e.g. 21/10 Kenus wax+pedicure+manicure), ask the check-in whether she enjoyed it and wants a recurrence — NEVER assume. Append the \"Uplift:\" line each day.\n\nSTEP 0 — STEPHANIE SILENT-INTAKE (consume the SNAPSHOT injected into this prompt):\nAt the START of every run, a \"STEPHANIE SILENT-INTAKE SNAPSHOT\" block is injected into this prompt\n(by the job's attached stephanie_inbox_snapshot.py script). It lists any UNPROCESSED entries Stephanie\n(nurse, 0548236698) WhatsApp'd about Mum. Process them BEFORE the regular check-in:\n1. Parse each listed entry: BP/pulse/temp, meals, meds (Furosemide 20mg), pain, falls, perceptual episode\n   (\"seeing someone\" — recurrence = escalate to Dr Morris SAME DAY), any log keys (Mood/Appetite/Swelling/Skin).\n2. Append a dated entry for it to MUM_MEDICAL_MASTER.md (meals also to MUM_FOOD_MASTER.md) per the master format.\n3. Mark that inbox entry processed by appending [PROCESSED] to its header line in STEPHANIE_INBOX.md\n   (file path: C:/Users/User/.hermes/workspace/Vault/family/mum/health/STEPHANIE_INBOX.md), matching the\n   timestamp in the snapshot header.\n4. If the snapshot says \"No unprocessed Stephanie entries\", just note the last captured date as today's\n   silent-gap status (flag to H if silent >2 days). NEVER send anything to Stephanie — silent intake only.",
       "skills": [
         "lifebot-family"
       ],
@@ -283,7 +232,7 @@
       "model": "deepseek/deepseek-v4-flash-0731",
       "provider": "openrouter",
       "base_url": null,
-      "script": null,
+      "script": "stephanie_inbox_snapshot.py",
       "no_agent": false,
       "context_from": null,
       "schedule": {
@@ -294,15 +243,15 @@
       "schedule_display": "0 13 * * *",
       "repeat": {
         "times": null,
-        "completed": 140
+        "completed": 141
       },
       "enabled": true,
       "state": "scheduled",
       "paused_at": null,
       "paused_reason": null,
       "created_at": "2026-06-07T07:18:49.643232+01:00",
-      "next_run_at": "2026-11-01T13:00:00+00:00",
-      "last_run_at": "2026-10-31T13:04:22.070612+00:00",
+      "next_run_at": "2026-11-02T13:00:00+00:00",
+      "last_run_at": "2026-11-01T13:01:57.324038+00:00",
       "last_status": "ok",
       "last_error": null,
       "last_delivery_error": null,
@@ -320,9 +269,9 @@
       "provider_snapshot": null,
       "model_snapshot": null,
       "last_dispatch": {
-        "scheduled_at": "2026-10-31T13:00:00+00:00",
-        "dispatched_at": "2026-10-31T13:00:29.993587+00:00",
-        "lateness_seconds": 30.0,
+        "scheduled_at": "2026-11-01T13:00:00+00:00",
+        "dispatched_at": "2026-11-01T13:00:15.221728+00:00",
+        "lateness_seconds": 15.2,
         "kind": "on_time"
       },
       "last_failure": {
@@ -330,13 +279,13 @@
         "detail": "RuntimeError: Hermes can't reach the model provider. You may be offline. Check your internet connection and try again."
       },
       "canonical_completions": [
-        "7f53c5a220fc4484b1e445f90ba96318"
+        "2f8dc2d2267645e3a834ab0c58fd7070"
       ]
     },
     {
       "id": "6a95ab36d017",
       "name": "mum-health-evening",
-      "prompt": "You are the evening care check-in for Comfort Blankson (age 91, elderly care). You receive evening care logs from caregivers via Telegram topic 4 (Mum Health).\n\nMASTER FILES (canonical — these are the ONLY files you write to):\n- MEDICAL: C:\\Users\\User\\.hermes\\workspace\\Vault\\family\\mum\\health\\MUM_MEDICAL_MASTER.md\n- FOOD: C:\\Users\\User\\.hermes\\workspace\\Vault\\family\\mum\\health\\MUM_FOOD_MASTER.md\n- PROFILE: C:\\Users\\User\\.hermes\\workspace\\Vault\\family\\mum\\MUM_PROFILE.md\n\nDo NOT create individual daily report files unless a caregiver has sent a NEW detailed report not yet captured. All new entries go into the master files.\n\nTASK:\n1. Read MUM_MEDICAL_MASTER.md and MUM_FOOD_MASTER.md to get current status.\n2. Post an evening check-in prompt to telegram:-1003784520976:4 asking about dinner, evening medications, pain/discomfort, energy/mood, and an overall day summary.\n3. If a caregiver replies with a new evening report: confirm receipt, flag abnormal readings, and append a dated entry to the master files.\n\nAPPEND FORMAT for MUM_MEDICAL_MASTER.md:\n---\n## YYYY-MM-DD (Day) — Evening\n- **Status:** [brief summary of red flags and stable items]\n- **Uplift:** [massage/spa/outing/exercise/laughter today — see MUM_UPLIFT_PROGRAMME]\n- **Vitals:** BP [x/y], Pulse [x], Temp [x]°C (if captured)\n- **Medication:** Furosemide 20mg given (Yes/No) — STOP if BP <100 or >140\n- **Dinner:** [what was eaten, if reported] (→ also logged in MUM_FOOD_MASTER.md)\n- **Check-in:** Asked caregiver about dinner, meds, pain, energy/mood, day summary\n\nAPPEND FORMAT for MUM_FOOD_MASTER.md (add to the daily table):\n- Date row update: dinner meal under the date's Dinner column.\n\nUPLIFT IS PART OF THE HEALTH LOG (owner-mandated 21/10/26): well-being is health. Read MUM_UPLIFT_PROGRAMME.md daily and track uplift/self-care IN THE SAME daily entry via an \"Uplift:\" line — things like massage, spa/beauty treats, outings, laughter, exercise, family moments. STANDING FOLLOW-UP: after any spa/beauty treat (e.g. 21/10 Kenus wax+pedicure+manicure), ask the check-in whether she enjoyed it and wants a recurrence — NEVER assume. Append the \"Uplift:\" line each day.\n",
+      "prompt": "You are the evening care check-in for Comfort Blankson (age 91, elderly care). You receive evening care logs from caregivers via Telegram topic 4 (Mum Health).\n\nMASTER FILES (canonical — these are the ONLY files you write to):\n- MEDICAL: C:\\Users\\User\\.hermes\\workspace\\Vault\\family\\mum\\health\\MUM_MEDICAL_MASTER.md\n- FOOD: C:\\Users\\User\\.hermes\\workspace\\Vault\\family\\mum\\health\\MUM_FOOD_MASTER.md\n- PROFILE: C:\\Users\\User\\.hermes\\workspace\\Vault\\family\\mum\\MUM_PROFILE.md\n\nDo NOT create individual daily report files unless a caregiver has sent a NEW detailed report not yet captured. All new entries go into the master files.\n\nTASK:\n1. Read MUM_MEDICAL_MASTER.md and MUM_FOOD_MASTER.md to get current status.\n2. Post an evening check-in prompt to telegram:-1003784520976:4 asking about dinner, evening medications, pain/discomfort, energy/mood, and an overall day summary.\n3. If a caregiver replies with a new evening report: confirm receipt, flag abnormal readings, and append a dated entry to the master files.\n\nAPPEND FORMAT for MUM_MEDICAL_MASTER.md:\n---\n## YYYY-MM-DD (Day) — Evening\n- **Status:** [brief summary of red flags and stable items]\n- **Uplift:** [massage/spa/outing/exercise/laughter today — see MUM_UPLIFT_PROGRAMME]\n- **Vitals:** BP [x/y], Pulse [x], Temp [x]°C (if captured)\n- **Medication:** Furosemide 20mg given (Yes/No) — STOP if BP <100 or >140\n- **Dinner:** [what was eaten, if reported] (→ also logged in MUM_FOOD_MASTER.md)\n- **Check-in:** Asked caregiver about dinner, meds, pain, energy/mood, day summary\n\nAPPEND FORMAT for MUM_FOOD_MASTER.md (add to the daily table):\n- Date row update: dinner meal under the date's Dinner column.\n\nUPLIFT IS PART OF THE HEALTH LOG (owner-mandated 21/10/26): well-being is health. Read MUM_UPLIFT_PROGRAMME.md daily and track uplift/self-care IN THE SAME daily entry via an \"Uplift:\" line — things like massage, spa/beauty treats, outings, laughter, exercise, family moments. STANDING FOLLOW-UP: after any spa/beauty treat (e.g. 21/10 Kenus wax+pedicure+manicure), ask the check-in whether she enjoyed it and wants a recurrence — NEVER assume. Append the \"Uplift:\" line each day.\n\nSTEP 0 — STEPHANIE SILENT-INTAKE (consume the SNAPSHOT injected into this prompt):\nAt the START of every run, a \"STEPHANIE SILENT-INTAKE SNAPSHOT\" block is injected into this prompt\n(by the job's attached stephanie_inbox_snapshot.py script). It lists any UNPROCESSED entries Stephanie\n(nurse, 0548236698) WhatsApp'd about Mum. Process them BEFORE the regular check-in:\n1. Parse each listed entry: BP/pulse/temp, meals, meds (Furosemide 20mg), pain, falls, perceptual episode\n   (\"seeing someone\" — recurrence = escalate to Dr Morris SAME DAY), any log keys (Mood/Appetite/Swelling/Skin).\n2. Append a dated entry for it to MUM_MEDICAL_MASTER.md (meals also to MUM_FOOD_MASTER.md) per the master format.\n3. Mark that inbox entry processed by appending [PROCESSED] to its header line in STEPHANIE_INBOX.md\n   (file path: C:/Users/User/.hermes/workspace/Vault/family/mum/health/STEPHANIE_INBOX.md), matching the\n   timestamp in the snapshot header.\n4. If the snapshot says \"No unprocessed Stephanie entries\", just note the last captured date as today's\n   silent-gap status (flag to H if silent >2 days). NEVER send anything to Stephanie — silent intake only.",
       "skills": [
         "lifebot-family"
       ],
@@ -344,7 +293,7 @@
       "model": "deepseek/deepseek-v4-flash-0731",
       "provider": "openrouter",
       "base_url": null,
-      "script": null,
+      "script": "stephanie_inbox_snapshot.py",
       "no_agent": false,
       "context_from": null,
       "schedule": {
@@ -355,15 +304,15 @@
       "schedule_display": "0 19 * * *",
       "repeat": {
         "times": null,
-        "completed": 135
+        "completed": 136
       },
       "enabled": true,
       "state": "scheduled",
       "paused_at": null,
       "paused_reason": null,
       "created_at": "2026-06-07T07:18:51.780984+01:00",
-      "next_run_at": "2026-11-01T19:00:00+00:00",
-      "last_run_at": "2026-10-31T19:01:52.282182+00:00",
+      "next_run_at": "2026-11-02T19:00:00+00:00",
+      "last_run_at": "2026-11-01T19:03:56.064372+00:00",
       "last_status": "ok",
       "last_error": null,
       "last_delivery_error": null,
@@ -381,9 +330,9 @@
       "provider_snapshot": null,
       "model_snapshot": null,
       "last_dispatch": {
-        "scheduled_at": "2026-10-31T19:00:00+00:00",
-        "dispatched_at": "2026-10-31T19:00:29.982610+00:00",
-        "lateness_seconds": 30.0,
+        "scheduled_at": "2026-11-01T19:00:00+00:00",
+        "dispatched_at": "2026-11-01T19:00:15.218267+00:00",
+        "lateness_seconds": 15.2,
         "kind": "on_time"
       },
       "last_failure": {
@@ -391,7 +340,7 @@
         "detail": "RuntimeError: Operation interrupted: waiting for model response (3422.1s elapsed)."
       },
       "canonical_completions": [
-        "9b62c5d6a8944184a53b8b4177ef9dc5"
+        "0ab7edf653db4de9a290ec8e4553fb4a"
       ]
     },
     {
@@ -416,17 +365,17 @@
       "schedule_display": "4 8 * * *",
       "repeat": {
         "times": null,
-        "completed": 138
+        "completed": 139
       },
       "enabled": true,
       "state": "scheduled",
       "paused_at": null,
       "paused_reason": null,
       "created_at": "2026-06-07T07:18:53.848956+01:00",
-      "next_run_at": "2026-11-01T08:04:00+00:00",
-      "last_run_at": "2026-10-31T10:30:43.184383+00:00",
-      "last_status": "error",
-      "last_error": "RuntimeError: Hermes can't reach the model provider. You may be offline. Check your internet connection and try again.",
+      "next_run_at": "2026-11-02T08:04:00+00:00",
+      "last_run_at": "2026-11-01T08:06:15.290361+00:00",
+      "last_status": "ok",
+      "last_error": null,
       "last_delivery_error": null,
       "deliver": "local",
       "origin": null,
@@ -438,21 +387,21 @@
       "workdir": "C:\\Users\\User\\.hermes\\workspace\\Vault\\family\\H",
       "profile": null,
       "fire_claim": null,
-      "failure_streak": 1,
+      "failure_streak": 0,
       "provider_snapshot": null,
       "model_snapshot": null,
       "last_dispatch": {
-        "scheduled_at": "2026-10-31T08:04:00+00:00",
-        "dispatched_at": "2026-10-31T08:59:53.236733+00:00",
-        "lateness_seconds": 3353.2,
-        "kind": "late"
+        "scheduled_at": "2026-11-01T08:04:00+00:00",
+        "dispatched_at": "2026-11-01T08:04:34.460273+00:00",
+        "lateness_seconds": 34.5,
+        "kind": "on_time"
       },
       "last_failure": {
         "at": "2026-10-31T10:30:43.184383+00:00",
         "detail": "RuntimeError: Hermes can't reach the model provider. You may be offline. Check your internet connection and try again."
       },
       "canonical_completions": [
-        "e926d0fac1dc460790791ed36d7d3a6b"
+        "91e1830cb8974fefa475dd26365897f3"
       ]
     },
     {
@@ -477,15 +426,15 @@
       "schedule_display": "0 13 * * *",
       "repeat": {
         "times": null,
-        "completed": 139
+        "completed": 140
       },
       "enabled": true,
       "state": "scheduled",
       "paused_at": null,
       "paused_reason": null,
       "created_at": "2026-06-07T07:18:55.920483+01:00",
-      "next_run_at": "2026-11-01T13:00:00+00:00",
-      "last_run_at": "2026-10-31T13:00:48.152864+00:00",
+      "next_run_at": "2026-11-02T13:00:00+00:00",
+      "last_run_at": "2026-11-01T13:00:53.019124+00:00",
       "last_status": "ok",
       "last_error": null,
       "last_delivery_error": null,
@@ -503,9 +452,9 @@
       "provider_snapshot": null,
       "model_snapshot": null,
       "last_dispatch": {
-        "scheduled_at": "2026-10-31T13:00:00+00:00",
-        "dispatched_at": "2026-10-31T13:00:29.993587+00:00",
-        "lateness_seconds": 30.0,
+        "scheduled_at": "2026-11-01T13:00:00+00:00",
+        "dispatched_at": "2026-11-01T13:00:15.221728+00:00",
+        "lateness_seconds": 15.2,
         "kind": "on_time"
       },
       "last_failure": {
@@ -513,7 +462,7 @@
         "detail": "RuntimeError: Hermes can't reach the model provider. You may be offline. Check your internet connection and try again."
       },
       "canonical_completions": [
-        "2266cfed2ea942579c8d3f716162eece"
+        "8743ac1108c24e04aad40470cfd05ed1"
       ]
     },
     {
@@ -538,15 +487,15 @@
       "schedule_display": "0 19 * * *",
       "repeat": {
         "times": null,
-        "completed": 135
+        "completed": 136
       },
       "enabled": true,
       "state": "scheduled",
       "paused_at": null,
       "paused_reason": null,
       "created_at": "2026-06-07T07:18:58.059275+01:00",
-      "next_run_at": "2026-11-01T19:00:00+00:00",
-      "last_run_at": "2026-10-31T19:03:31.757558+00:00",
+      "next_run_at": "2026-11-02T19:00:00+00:00",
+      "last_run_at": "2026-11-01T19:00:51.333396+00:00",
       "last_status": "ok",
       "last_error": null,
       "last_delivery_error": null,
@@ -564,13 +513,13 @@
       "provider_snapshot": null,
       "model_snapshot": null,
       "last_dispatch": {
-        "scheduled_at": "2026-10-31T19:00:00+00:00",
-        "dispatched_at": "2026-10-31T19:00:29.982610+00:00",
-        "lateness_seconds": 30.0,
+        "scheduled_at": "2026-11-01T19:00:00+00:00",
+        "dispatched_at": "2026-11-01T19:00:15.218267+00:00",
+        "lateness_seconds": 15.2,
         "kind": "on_time"
       },
       "canonical_completions": [
-        "66120604eabd4d9e8f66847d417671ac"
+        "0712a0fe646a490093d3f9d2dc6cce63"
       ]
     },
     {
@@ -595,15 +544,15 @@
       "schedule_display": "6 9 * * 0",
       "repeat": {
         "times": null,
-        "completed": 21
+        "completed": 22
       },
       "enabled": true,
       "state": "scheduled",
       "paused_at": null,
       "paused_reason": null,
       "created_at": "2026-06-07T07:19:02.348981+01:00",
-      "next_run_at": "2026-11-01T09:06:00+00:00",
-      "last_run_at": "2026-10-25T09:24:23.850989+00:00",
+      "next_run_at": "2026-11-08T09:06:00+00:00",
+      "last_run_at": "2026-11-01T09:08:02.542917+00:00",
       "last_status": "ok",
       "last_error": null,
       "last_delivery_error": null,
@@ -617,11 +566,14 @@
       "model_snapshot": null,
       "failure_streak": 0,
       "last_dispatch": {
-        "scheduled_at": "2026-10-25T09:06:00+00:00",
-        "dispatched_at": "2026-10-25T09:23:20.756882+00:00",
-        "lateness_seconds": 1040.8,
-        "kind": "late"
-      }
+        "scheduled_at": "2026-11-01T09:06:00+00:00",
+        "dispatched_at": "2026-11-01T09:06:34.438204+00:00",
+        "lateness_seconds": 34.4,
+        "kind": "on_time"
+      },
+      "canonical_completions": [
+        "d8ee324d8b4f4fda9324fdc3f52094f8"
+      ]
     },
     {
       "id": "9fc966ea5d04",
@@ -643,17 +595,17 @@
       "schedule_display": "21 9 1 * *",
       "repeat": {
         "times": null,
-        "completed": 4
+        "completed": 5
       },
       "enabled": true,
       "state": "scheduled",
       "paused_at": null,
       "paused_reason": null,
       "created_at": "2026-06-07T07:19:10.499726+01:00",
-      "next_run_at": "2026-11-01T09:21:00+00:00",
-      "last_run_at": "2026-10-01T09:21:24.990848+00:00",
-      "last_status": "error",
-      "last_error": "RuntimeError: Failed to initialize OpenAI client: No module named 'pydantic_core._pydantic_core'",
+      "next_run_at": "2026-12-01T09:21:00+00:00",
+      "last_run_at": "2026-11-01T11:15:07.528013+00:00",
+      "last_status": "ok",
+      "last_error": null,
       "last_delivery_error": null,
       "deliver": "telegram:-1003784520976:20",
       "origin": null,
@@ -663,13 +615,16 @@
       "fire_claim": null,
       "provider_snapshot": null,
       "model_snapshot": null,
-      "failure_streak": 1,
+      "failure_streak": 0,
       "last_dispatch": {
-        "scheduled_at": "2026-10-01T09:21:00+00:00",
-        "dispatched_at": "2026-10-01T09:21:22.962068+00:00",
-        "lateness_seconds": 23.0,
-        "kind": "on_time"
-      }
+        "scheduled_at": "2026-11-01T09:21:00+00:00",
+        "dispatched_at": "2026-11-01T11:10:13.286382+00:00",
+        "lateness_seconds": 6553.3,
+        "kind": "late"
+      },
+      "canonical_completions": [
+        "efb81542831247939c774dc1ba4ae680"
+      ]
     },
     {
       "id": "1b7107630fe3",
@@ -691,39 +646,39 @@
       "schedule_display": "0 7 * * *",
       "repeat": {
         "times": null,
-        "completed": 279
+        "completed": 280
       },
       "enabled": true,
       "state": "scheduled",
       "paused_at": null,
       "paused_reason": null,
       "created_at": "2026-06-07T07:19:14.542277+01:00",
-      "next_run_at": "2026-11-01T07:00:00+00:00",
-      "last_run_at": "2026-10-31T10:30:36.666691+00:00",
-      "last_status": "error",
-      "last_error": "RuntimeError: Hermes can't reach the model provider. You may be offline. Check your internet connection and try again.",
-      "last_delivery_error": "live adapter send failed: send_path_degraded; live adapter delivery to telegram:-1003784520976:20 failed: send_path_degraded; delivery error: Telegram send failed: httpx.ConnectError: All connection attempts failed (target telegram:-1003784520976:20); queued text for telegram:-1003784520976:20 for redelivery once the live adapter reconnects",
+      "next_run_at": "2026-11-02T07:00:00+00:00",
+      "last_run_at": "2026-11-01T07:09:58.221421+00:00",
+      "last_status": "ok",
+      "last_error": null,
+      "last_delivery_error": null,
       "deliver": "telegram:-1003784520976:20",
       "origin": null,
       "enabled_toolsets": null,
       "workdir": null,
       "profile": null,
       "fire_claim": null,
-      "failure_streak": 1,
+      "failure_streak": 0,
       "provider_snapshot": null,
       "model_snapshot": null,
       "last_dispatch": {
-        "scheduled_at": "2026-10-31T07:00:00+00:00",
-        "dispatched_at": "2026-10-31T08:59:53.236733+00:00",
-        "lateness_seconds": 7193.2,
-        "kind": "late"
+        "scheduled_at": "2026-11-01T07:00:00+00:00",
+        "dispatched_at": "2026-11-01T07:00:34.467647+00:00",
+        "lateness_seconds": 34.5,
+        "kind": "on_time"
       },
       "last_failure": {
         "at": "2026-10-31T10:30:36.666691+00:00",
         "detail": "RuntimeError: Hermes can't reach the model provider. You may be offline. Check your internet connection and try again."
       },
       "canonical_completions": [
-        "a01bf1fccc6d4d4bb87f20204cf3487e"
+        "700c2346b798466f9188f12bc94f4533"
       ]
     },
     {
@@ -746,15 +701,15 @@
       "schedule_display": "3 23 * * 0",
       "repeat": {
         "times": null,
-        "completed": 73
+        "completed": 74
       },
       "enabled": true,
       "state": "scheduled",
       "paused_at": null,
       "paused_reason": null,
       "created_at": "2026-06-07T07:19:18.587160+01:00",
-      "next_run_at": "2026-11-01T23:03:00+00:00",
-      "last_run_at": "2026-10-25T23:18:10.451971+00:00",
+      "next_run_at": "2026-11-08T23:03:00+00:00",
+      "last_run_at": "2026-11-01T23:21:39.715538+00:00",
       "last_status": "ok",
       "last_error": null,
       "last_delivery_error": null,
@@ -768,11 +723,14 @@
       "model_snapshot": null,
       "failure_streak": 0,
       "last_dispatch": {
-        "scheduled_at": "2026-10-25T23:03:00+00:00",
-        "dispatched_at": "2026-10-25T23:03:20.745282+00:00",
-        "lateness_seconds": 20.7,
+        "scheduled_at": "2026-11-01T23:03:00+00:00",
+        "dispatched_at": "2026-11-01T23:03:16.628084+00:00",
+        "lateness_seconds": 16.6,
         "kind": "on_time"
-      }
+      },
+      "canonical_completions": [
+        "e2bec38d92824df5929dde28864841b4"
+      ]
     },
     {
       "id": "2769dd3ed4e7",
@@ -849,34 +807,34 @@
       "schedule_display": "0 6 * * *",
       "repeat": {
         "times": null,
-        "completed": 84
+        "completed": 85
       },
       "enabled": true,
       "state": "scheduled",
       "paused_at": null,
       "paused_reason": null,
       "created_at": "2026-06-07T07:19:22.604845+01:00",
-      "next_run_at": "2026-11-02T06:00:00+00:00",
-      "last_run_at": "2026-10-31T10:30:41.926053+00:00",
-      "last_status": "error",
-      "last_error": "RuntimeError: Hermes can't reach the model provider. You may be offline. Check your internet connection and try again.",
-      "last_delivery_error": "live adapter send failed: send_path_degraded; live adapter delivery to telegram:-1003784520976:20 failed: send_path_degraded; delivery error: Telegram send failed: httpx.ConnectError: All connection attempts failed (target telegram:-1003784520976:20); queued text for telegram:-1003784520976:20 for redelivery once the live adapter reconnects",
+      "next_run_at": "2026-11-03T06:00:00+00:00",
+      "last_run_at": "2026-11-01T06:09:57.785188+00:00",
+      "last_status": "ok",
+      "last_error": null,
+      "last_delivery_error": null,
       "deliver": "telegram:-1003784520976:20",
       "origin": null,
       "enabled_toolsets": null,
       "workdir": null,
       "profile": null,
       "fire_claim": {
-        "at": "2026-11-01T06:00:34.685164+00:00",
-        "by": "DESKTOP-25Q3AQC:1800:eb8d1292d2e642d78c7c8d64bfb9cc01"
+        "at": "2026-11-02T06:00:29.239553+00:00",
+        "by": "DESKTOP-25Q3AQC:1800:684bc39a52de4872b80c4b4263ca48a2"
       },
-      "failure_streak": 1,
+      "failure_streak": 0,
       "provider_snapshot": null,
       "model_snapshot": null,
       "last_dispatch": {
-        "scheduled_at": "2026-11-01T06:00:00+00:00",
-        "dispatched_at": "2026-11-01T06:00:34.450794+00:00",
-        "lateness_seconds": 34.5,
+        "scheduled_at": "2026-11-02T06:00:00+00:00",
+        "dispatched_at": "2026-11-02T06:00:28.914209+00:00",
+        "lateness_seconds": 28.9,
         "kind": "on_time"
       },
       "last_failure": {
@@ -884,7 +842,7 @@
         "detail": "RuntimeError: Hermes can't reach the model provider. You may be offline. Check your internet connection and try again."
       },
       "canonical_completions": [
-        "1211e1c7427e4944af9a27d586acf933"
+        "d64a9ea9756a4acf940f88e6e8a08664"
       ]
     },
     {
@@ -907,39 +865,39 @@
       "schedule_display": "0 8 * * *",
       "repeat": {
         "times": null,
-        "completed": 138
+        "completed": 139
       },
       "enabled": true,
       "state": "scheduled",
       "paused_at": null,
       "paused_reason": null,
       "created_at": "2026-06-07T07:19:26.671069+01:00",
-      "next_run_at": "2026-11-01T08:00:00+00:00",
-      "last_run_at": "2026-10-31T10:30:39.186897+00:00",
-      "last_status": "error",
-      "last_error": "RuntimeError: Hermes can't reach the model provider. You may be offline. Check your internet connection and try again.",
-      "last_delivery_error": "live adapter send failed: send_path_degraded; live adapter delivery to telegram:-1003784520976:28 failed: send_path_degraded; delivery error: Telegram send failed: httpx.ConnectError: All connection attempts failed (target telegram:-1003784520976:28); queued text for telegram:-1003784520976:28 for redelivery once the live adapter reconnects",
+      "next_run_at": "2026-11-02T08:00:00+00:00",
+      "last_run_at": "2026-11-01T08:03:10.834106+00:00",
+      "last_status": "ok",
+      "last_error": null,
+      "last_delivery_error": null,
       "deliver": "telegram:-1003784520976:28",
       "origin": null,
       "enabled_toolsets": null,
       "workdir": null,
       "profile": null,
       "fire_claim": null,
-      "failure_streak": 1,
+      "failure_streak": 0,
       "provider_snapshot": null,
       "model_snapshot": null,
       "last_dispatch": {
-        "scheduled_at": "2026-10-31T08:00:00+00:00",
-        "dispatched_at": "2026-10-31T08:59:53.236733+00:00",
-        "lateness_seconds": 3593.2,
-        "kind": "late"
+        "scheduled_at": "2026-11-01T08:00:00+00:00",
+        "dispatched_at": "2026-11-01T08:00:34.456949+00:00",
+        "lateness_seconds": 34.5,
+        "kind": "on_time"
       },
       "last_failure": {
         "at": "2026-10-31T10:30:39.186897+00:00",
         "detail": "RuntimeError: Hermes can't reach the model provider. You may be offline. Check your internet connection and try again."
       },
       "canonical_completions": [
-        "3bc623aafdbe4a39af95b2d15bee3bca"
+        "84531b372d0f4a959a9fe3030ad6a65c"
       ]
     },
     {
@@ -962,31 +920,31 @@
       "schedule_display": "18 10 * * 0,1,2,3,4,5,6",
       "repeat": {
         "times": null,
-        "completed": 112
+        "completed": 113
       },
       "enabled": true,
       "state": "scheduled",
       "paused_at": null,
       "paused_reason": null,
       "created_at": "2026-06-07T07:19:30.748528+01:00",
-      "next_run_at": "2026-11-01T10:18:00+00:00",
-      "last_run_at": "2026-10-31T10:31:30.442433+00:00",
-      "last_status": "error",
-      "last_error": "RuntimeError: Hermes can't reach the model provider. You may be offline. Check your internet connection and try again.",
-      "last_delivery_error": "live adapter send failed: send_path_degraded; live adapter delivery to telegram:-1003784520976:1 failed: send_path_degraded; delivery error: Telegram send failed: httpx.ConnectError: All connection attempts failed (target telegram:-1003784520976:1); queued text for telegram:-1003784520976:1 for redelivery once the live adapter reconnects",
+      "next_run_at": "2026-11-02T10:18:00+00:00",
+      "last_run_at": "2026-11-01T11:12:42.908237+00:00",
+      "last_status": "ok",
+      "last_error": null,
+      "last_delivery_error": null,
       "deliver": "origin",
       "origin": null,
       "enabled_toolsets": null,
       "workdir": null,
       "profile": null,
       "fire_claim": null,
-      "failure_streak": 1,
+      "failure_streak": 0,
       "provider_snapshot": null,
       "model_snapshot": null,
       "last_dispatch": {
-        "scheduled_at": "2026-10-31T10:18:00+00:00",
-        "dispatched_at": "2026-10-31T10:26:30.299902+00:00",
-        "lateness_seconds": 510.3,
+        "scheduled_at": "2026-11-01T10:18:00+00:00",
+        "dispatched_at": "2026-11-01T11:10:13.286382+00:00",
+        "lateness_seconds": 3133.3,
         "kind": "late"
       },
       "last_failure": {
@@ -994,7 +952,7 @@
         "detail": "RuntimeError: Hermes can't reach the model provider. You may be offline. Check your internet connection and try again."
       },
       "canonical_completions": [
-        "72a0303f372c41ca986771f02cac8b0b"
+        "41d6971d6b324d2c81cb5bbebdaacc38"
       ]
     },
     {
@@ -1017,15 +975,15 @@
       "schedule_display": "4 10 * * 0,1,4",
       "repeat": {
         "times": null,
-        "completed": 57
+        "completed": 58
       },
       "enabled": true,
       "state": "scheduled",
       "paused_at": null,
       "paused_reason": null,
       "created_at": "2026-06-07T07:19:32.793956+01:00",
-      "next_run_at": "2026-11-01T10:04:00+00:00",
-      "last_run_at": "2026-10-29T10:06:25.783934+00:00",
+      "next_run_at": "2026-11-02T10:04:00+00:00",
+      "last_run_at": "2026-11-01T11:13:19.818672+00:00",
       "last_status": "ok",
       "last_error": null,
       "last_delivery_error": null,
@@ -1039,15 +997,18 @@
       "provider_snapshot": null,
       "model_snapshot": null,
       "last_dispatch": {
-        "scheduled_at": "2026-10-29T10:04:00+00:00",
-        "dispatched_at": "2026-10-29T10:04:51.709497+00:00",
-        "lateness_seconds": 51.7,
-        "kind": "on_time"
+        "scheduled_at": "2026-11-01T10:04:00+00:00",
+        "dispatched_at": "2026-11-01T11:10:13.286382+00:00",
+        "lateness_seconds": 3973.3,
+        "kind": "late"
       },
       "last_failure": {
         "at": "2026-10-18T10:12:01.063701+00:00",
         "detail": "Hermes stopped because your settings file (C:\\Users\\User\\AppData\\Local\\hermes\\config.yaml) has a formatting error at line 289. Fix it with `hermes config edit` and check with `hermes config check`, or add --ignore-user-config to run once with default settings. Details: found duplicate key \"platforms\" with value \"{}\" (original value: \"{}\")"
-      }
+      },
+      "canonical_completions": [
+        "0ce18c4a03d24b019c4956673492d18e"
+      ]
     },
     {
       "id": "4ff54e93664b",
@@ -1110,15 +1071,15 @@
       "schedule_display": "30 9 * * 0",
       "repeat": {
         "times": null,
-        "completed": 20
+        "completed": 21
       },
       "enabled": true,
       "state": "scheduled",
       "paused_at": null,
       "paused_reason": null,
       "created_at": "2026-06-07T07:19:53.424237+01:00",
-      "next_run_at": "2026-11-01T09:30:00+00:00",
-      "last_run_at": "2026-10-25T09:31:39.302842+00:00",
+      "next_run_at": "2026-11-08T09:30:00+00:00",
+      "last_run_at": "2026-11-01T11:14:43.184077+00:00",
       "last_status": "ok",
       "last_error": null,
       "last_delivery_error": null,
@@ -1132,15 +1093,18 @@
       "model_snapshot": null,
       "failure_streak": 0,
       "last_dispatch": {
-        "scheduled_at": "2026-10-25T09:30:00+00:00",
-        "dispatched_at": "2026-10-25T09:30:20.760900+00:00",
-        "lateness_seconds": 20.8,
-        "kind": "on_time"
+        "scheduled_at": "2026-11-01T09:30:00+00:00",
+        "dispatched_at": "2026-11-01T11:10:13.286382+00:00",
+        "lateness_seconds": 6013.3,
+        "kind": "late"
       },
       "last_failure": {
         "at": "2026-10-18T10:11:58.516904+00:00",
         "detail": "Hermes stopped because your settings file (C:\\Users\\User\\AppData\\Local\\hermes\\config.yaml) has a formatting error at line 289. Fix it with `hermes config edit` and check with `hermes config check`, or add --ignore-user-config to run once with default settings. Details: found duplicate key \"platforms\" with value \"{}\" (original value: \"{}\")"
-      }
+      },
+      "canonical_completions": [
+        "97ae39a3e5df48e196f98b6f36de20b5"
+      ]
     },
     {
       "id": "1505fd537513",
@@ -1264,39 +1228,39 @@
       "schedule_display": "0 9 * * *",
       "repeat": {
         "times": null,
-        "completed": 137
+        "completed": 138
       },
       "enabled": true,
       "state": "scheduled",
       "paused_at": null,
       "paused_reason": null,
       "created_at": "2026-06-07T23:07:14.607446+01:00",
-      "next_run_at": "2026-11-01T09:00:00+00:00",
-      "last_run_at": "2026-10-31T10:31:31.782578+00:00",
-      "last_status": "error",
-      "last_error": "RuntimeError: Hermes can't reach the model provider. You may be offline. Check your internet connection and try again.",
-      "last_delivery_error": "live adapter send failed: send_path_degraded; live adapter delivery to telegram:-1003784520976:1 failed: send_path_degraded; delivery error: Telegram send failed: httpx.ConnectError: All connection attempts failed (target telegram:-1003784520976:1); queued text for telegram:-1003784520976:1 for redelivery once the live adapter reconnects",
+      "next_run_at": "2026-11-02T09:00:00+00:00",
+      "last_run_at": "2026-11-01T09:01:35.129174+00:00",
+      "last_status": "ok",
+      "last_error": null,
+      "last_delivery_error": null,
       "deliver": "origin",
       "origin": null,
       "enabled_toolsets": null,
       "workdir": null,
       "profile": null,
       "fire_claim": null,
-      "failure_streak": 1,
+      "failure_streak": 0,
       "provider_snapshot": null,
       "model_snapshot": null,
       "last_dispatch": {
-        "scheduled_at": "2026-10-31T09:00:00+00:00",
-        "dispatched_at": "2026-10-31T10:26:30.299902+00:00",
-        "lateness_seconds": 5190.3,
-        "kind": "late"
+        "scheduled_at": "2026-11-01T09:00:00+00:00",
+        "dispatched_at": "2026-11-01T09:00:34.448829+00:00",
+        "lateness_seconds": 34.4,
+        "kind": "on_time"
       },
       "last_failure": {
         "at": "2026-10-31T10:31:31.782578+00:00",
         "detail": "RuntimeError: Hermes can't reach the model provider. You may be offline. Check your internet connection and try again."
       },
       "canonical_completions": [
-        "8b290b769bc5492ea4020f4daf0c63ab"
+        "ec3bff9e253f48e7a3b81d9a904107c2"
       ]
     },
     {
@@ -1321,30 +1285,30 @@
       "schedule_display": "0 10 */3 * *",
       "repeat": {
         "times": null,
-        "completed": 43
+        "completed": 44
       },
       "enabled": true,
       "state": "scheduled",
       "paused_at": null,
       "paused_reason": null,
       "created_at": "2026-06-23T02:09:57.632312+01:00",
-      "next_run_at": "2026-11-01T10:00:00+00:00",
-      "last_run_at": "2026-10-31T10:35:43.481973+00:00",
-      "last_status": "error",
-      "last_error": "RuntimeError: Hermes can't reach the model provider. You may be offline. Check your internet connection and try again.",
-      "last_delivery_error": "delivery error: Telegram send failed: httpx.ConnectError: All connection attempts failed (target telegram:-1003784520976:16)",
+      "next_run_at": "2026-11-04T10:00:00+00:00",
+      "last_run_at": "2026-11-01T11:12:55.996268+00:00",
+      "last_status": "ok",
+      "last_error": null,
+      "last_delivery_error": null,
       "deliver": "telegram:-1003784520976:16",
       "origin": null,
       "enabled_toolsets": null,
       "workdir": null,
       "fire_claim": null,
-      "failure_streak": 2,
+      "failure_streak": 0,
       "provider_snapshot": null,
       "model_snapshot": null,
       "last_dispatch": {
-        "scheduled_at": "2026-10-31T10:00:00+00:00",
-        "dispatched_at": "2026-10-31T10:26:30.299902+00:00",
-        "lateness_seconds": 1590.3,
+        "scheduled_at": "2026-11-01T10:00:00+00:00",
+        "dispatched_at": "2026-11-01T11:10:13.286382+00:00",
+        "lateness_seconds": 4213.3,
         "kind": "late"
       },
       "last_failure": {
@@ -1352,7 +1316,7 @@
         "detail": "RuntimeError: Hermes can't reach the model provider. You may be offline. Check your internet connection and try again."
       },
       "canonical_completions": [
-        "fd58a4da5b8a44f9b3677825bee732a0"
+        "ce80515629c442b7aea77186aa32d3a5"
       ]
     },
     {
@@ -1377,15 +1341,15 @@
       "schedule_display": "6 9 * * 0",
       "repeat": {
         "times": null,
-        "completed": 18
+        "completed": 19
       },
       "enabled": true,
       "state": "scheduled",
       "paused_at": null,
       "paused_reason": null,
       "created_at": "2026-06-25T05:40:55.363455+01:00",
-      "next_run_at": "2026-11-01T09:06:00+00:00",
-      "last_run_at": "2026-10-25T09:24:21.751031+00:00",
+      "next_run_at": "2026-11-08T09:06:00+00:00",
+      "last_run_at": "2026-11-01T09:07:44.499818+00:00",
       "last_status": "ok",
       "last_error": null,
       "last_delivery_error": null,
@@ -1398,11 +1362,14 @@
       "model_snapshot": null,
       "failure_streak": 0,
       "last_dispatch": {
-        "scheduled_at": "2026-10-25T09:06:00+00:00",
-        "dispatched_at": "2026-10-25T09:23:20.756882+00:00",
-        "lateness_seconds": 1040.8,
-        "kind": "late"
-      }
+        "scheduled_at": "2026-11-01T09:06:00+00:00",
+        "dispatched_at": "2026-11-01T09:06:34.438204+00:00",
+        "lateness_seconds": 34.4,
+        "kind": "on_time"
+      },
+      "canonical_completions": [
+        "dd21b5c2620e411c9481dfaecb20c853"
+      ]
     },
     {
       "id": "18ac03e4dfcb",
@@ -1764,24 +1731,34 @@
       "schedule_display": "0 7 * * *",
       "repeat": {
         "times": null,
-        "completed": 37
+        "completed": 39
       },
-      "enabled": false,
-      "state": "paused",
-      "paused_at": "2026-08-19T01:48:35.875547+00:00",
+      "enabled": true,
+      "state": "scheduled",
+      "paused_at": null,
       "paused_reason": null,
       "created_at": "2026-07-13T10:13:02.952130+01:00",
-      "next_run_at": "2026-08-19T07:00:00+00:00",
-      "last_run_at": "2026-08-18T07:00:38.346670+00:00",
-      "last_status": "error",
-      "last_error": "RuntimeError: [drift_skip:silent] Skipped to prevent unintended spend: global inference config drifted since this job was created (model 'nvidia/nemotron-3-ultra-550b-a55b:free' -> 'deepseek/deepseek-v4-flash-0731'), and this job is unpinned. No inference call was made. To run on the new config, pin it explicitly: `cronjob action=update job_id=0ef160b1c270 provider=<provider> model=<model>` (or pin the original values to keep them). This alert is sent once; the job stays skipped until the config is pinned or restored. See #44585.",
+      "next_run_at": "2026-11-02T07:00:00+00:00",
+      "last_run_at": "2026-11-01T07:01:12.967131+00:00",
+      "last_status": "ok",
+      "last_error": null,
       "last_delivery_error": null,
       "deliver": "local",
       "origin": null,
       "enabled_toolsets": null,
       "workdir": null,
       "fire_claim": null,
-      "drift_alerted": true
+      "drift_alerted": true,
+      "last_dispatch": {
+        "scheduled_at": "2026-11-01T07:00:00+00:00",
+        "dispatched_at": "2026-11-01T07:00:34.467647+00:00",
+        "lateness_seconds": 34.5,
+        "kind": "on_time"
+      },
+      "failure_streak": 0,
+      "canonical_completions": [
+        "5acbadc69aef41798476a240efd818f7"
+      ]
     },
     {
       "id": "aebf7e736923",
@@ -1805,18 +1782,18 @@
       "schedule_display": "0 8 * * *",
       "repeat": {
         "times": null,
-        "completed": 100
+        "completed": 101
       },
       "enabled": true,
       "state": "scheduled",
       "paused_at": null,
       "paused_reason": null,
       "created_at": "2026-07-18T04:12:38.493477+01:00",
-      "next_run_at": "2026-11-01T08:00:00+00:00",
-      "last_run_at": "2026-10-31T10:30:34.798096+00:00",
-      "last_status": "error",
-      "last_error": "RuntimeError: Hermes can't reach the model provider. You may be offline. Check your internet connection and try again.",
-      "last_delivery_error": "live adapter send failed: send_path_degraded; live adapter delivery to telegram:123286468 failed: send_path_degraded; delivery error: Telegram send failed: httpx.ConnectError: All connection attempts failed (target telegram:123286468); queued text for telegram:123286468 for redelivery once the live adapter reconnects",
+      "next_run_at": "2026-11-02T08:00:00+00:00",
+      "last_run_at": "2026-11-01T08:01:10.238186+00:00",
+      "last_status": "ok",
+      "last_error": null,
+      "last_delivery_error": null,
       "deliver": "telegram:123286468",
       "origin": {
         "platform": "telegram",
@@ -1828,19 +1805,19 @@
       "enabled_toolsets": null,
       "workdir": null,
       "fire_claim": null,
-      "failure_streak": 1,
+      "failure_streak": 0,
       "last_dispatch": {
-        "scheduled_at": "2026-10-31T08:00:00+00:00",
-        "dispatched_at": "2026-10-31T08:59:53.236733+00:00",
-        "lateness_seconds": 3593.2,
-        "kind": "late"
+        "scheduled_at": "2026-11-01T08:00:00+00:00",
+        "dispatched_at": "2026-11-01T08:00:34.456949+00:00",
+        "lateness_seconds": 34.5,
+        "kind": "on_time"
       },
       "last_failure": {
         "at": "2026-10-31T10:30:34.798096+00:00",
         "detail": "RuntimeError: Hermes can't reach the model provider. You may be offline. Check your internet connection and try again."
       },
       "canonical_completions": [
-        "0d872f20d204436ba4f780262b33258e"
+        "64ccc343a44043c1a7ddea90cdf3a4d6"
       ]
     },
     {
@@ -1913,15 +1890,15 @@
       "schedule_display": "5 10 */25 * *",
       "repeat": {
         "times": null,
-        "completed": 6
+        "completed": 7
       },
       "enabled": true,
       "state": "scheduled",
       "paused_at": null,
       "paused_reason": null,
       "created_at": "2026-07-19T13:29:04.957489+00:00",
-      "next_run_at": "2026-11-01T10:05:00+00:00",
-      "last_run_at": "2026-10-26T11:35:41.352487+00:00",
+      "next_run_at": "2026-11-26T10:05:00+00:00",
+      "last_run_at": "2026-11-01T11:14:57.336441+00:00",
       "last_status": "ok",
       "last_error": null,
       "last_delivery_error": null,
@@ -1932,11 +1909,14 @@
       "fire_claim": null,
       "failure_streak": 0,
       "last_dispatch": {
-        "scheduled_at": "2026-10-26T10:05:00+00:00",
-        "dispatched_at": "2026-10-26T11:31:39.015157+00:00",
-        "lateness_seconds": 5199.0,
+        "scheduled_at": "2026-11-01T10:05:00+00:00",
+        "dispatched_at": "2026-11-01T11:10:13.286382+00:00",
+        "lateness_seconds": 3913.3,
         "kind": "late"
-      }
+      },
+      "canonical_completions": [
+        "4532080d44f14ecd804e8c7716dddb22"
+      ]
     },
     {
       "id": "2610509d6f2a",
@@ -1960,15 +1940,15 @@
       "schedule_display": "0 7 1 * *",
       "repeat": {
         "times": null,
-        "completed": 89
+        "completed": 90
       },
       "enabled": true,
       "state": "scheduled",
       "paused_at": null,
       "paused_reason": null,
       "created_at": "2026-07-19T13:41:37.987268+00:00",
-      "next_run_at": "2026-11-01T07:00:00+00:00",
-      "last_run_at": "2026-10-22T10:19:58.729853+00:00",
+      "next_run_at": "2026-12-01T07:00:00+00:00",
+      "last_run_at": "2026-11-01T07:09:13.991837+00:00",
       "last_status": "ok",
       "last_error": null,
       "last_delivery_error": null,
@@ -1979,15 +1959,18 @@
       "fire_claim": null,
       "failure_streak": 0,
       "last_dispatch": {
-        "scheduled_at": "2026-10-22T07:00:00+00:00",
-        "dispatched_at": "2026-10-22T10:13:15.778359+00:00",
-        "lateness_seconds": 11595.8,
-        "kind": "catch_up"
+        "scheduled_at": "2026-11-01T07:00:00+00:00",
+        "dispatched_at": "2026-11-01T07:00:34.467647+00:00",
+        "lateness_seconds": 34.5,
+        "kind": "on_time"
       },
       "last_failure": {
         "at": "2026-10-21T07:06:00.483751+00:00",
         "detail": "RuntimeError: Hermes can't reach the model provider. You may be offline. Check your internet connection and try again."
-      }
+      },
+      "canonical_completions": [
+        "d4be12d3308541348762c1f18447139b"
+      ]
     },
     {
       "id": "ee8cb400a91b",
@@ -2112,18 +2095,18 @@
       "schedule_display": "0 9 * * *",
       "repeat": {
         "times": null,
-        "completed": 320
+        "completed": 321
       },
       "enabled": true,
       "state": "scheduled",
       "paused_at": null,
       "paused_reason": null,
       "created_at": "2026-08-14T02:20:24.029597+00:00",
-      "next_run_at": "2026-11-01T09:00:00+00:00",
-      "last_run_at": "2026-10-31T10:35:26.048751+00:00",
-      "last_status": "error",
-      "last_error": "RuntimeError: Hermes can't reach the model provider. You may be offline. Check your internet connection and try again.",
-      "last_delivery_error": "delivery error: Telegram send failed: httpx.ConnectError: All connection attempts failed (target telegram:-1003784520976:1)",
+      "next_run_at": "2026-11-02T09:00:00+00:00",
+      "last_run_at": "2026-11-01T09:01:31.548031+00:00",
+      "last_status": "ok",
+      "last_error": null,
+      "last_delivery_error": null,
       "deliver": "origin",
       "origin": null,
       "enabled_toolsets": [
@@ -2131,19 +2114,19 @@
       ],
       "workdir": null,
       "fire_claim": null,
-      "failure_streak": 1,
+      "failure_streak": 0,
       "last_dispatch": {
-        "scheduled_at": "2026-10-31T09:00:00+00:00",
-        "dispatched_at": "2026-10-31T10:26:30.299902+00:00",
-        "lateness_seconds": 5190.3,
-        "kind": "late"
+        "scheduled_at": "2026-11-01T09:00:00+00:00",
+        "dispatched_at": "2026-11-01T09:00:34.448829+00:00",
+        "lateness_seconds": 34.4,
+        "kind": "on_time"
       },
       "last_failure": {
         "at": "2026-10-31T10:35:26.048751+00:00",
         "detail": "RuntimeError: Hermes can't reach the model provider. You may be offline. Check your internet connection and try again."
       },
       "canonical_completions": [
-        "5d15e59cec32438e907c909d8df0ebe2"
+        "97aa7658cbb94896b69060a9be49e965"
       ]
     },
     {
@@ -2178,7 +2161,7 @@
       "paused_at": null,
       "paused_reason": null,
       "created_at": "2026-08-14T05:00:44.453903+00:00",
-      "next_run_at": "2026-11-02T02:30:00+00:00",
+      "next_run_at": "2026-11-04T02:30:00+00:00",
       "last_run_at": "2026-10-29T01:21:32.514949+00:00",
       "last_status": "ok",
       "last_error": null,
@@ -2223,15 +2206,15 @@
       "schedule_display": "5 22 * * *",
       "repeat": {
         "times": null,
-        "completed": 75
+        "completed": 76
       },
       "enabled": true,
       "state": "scheduled",
       "paused_at": null,
       "paused_reason": null,
       "created_at": "2026-08-17T20:00:34.809937+00:00",
-      "next_run_at": "2026-11-01T22:05:00+00:00",
-      "last_run_at": "2026-10-31T22:12:21.829630+00:00",
+      "next_run_at": "2026-11-02T22:05:00+00:00",
+      "last_run_at": "2026-11-01T22:15:04.638058+00:00",
       "last_status": "ok",
       "last_error": null,
       "last_delivery_error": null,
@@ -2242,13 +2225,13 @@
       "fire_claim": null,
       "failure_streak": 0,
       "last_dispatch": {
-        "scheduled_at": "2026-10-31T22:05:00+00:00",
-        "dispatched_at": "2026-10-31T22:05:29.976334+00:00",
-        "lateness_seconds": 30.0,
+        "scheduled_at": "2026-11-01T22:05:00+00:00",
+        "dispatched_at": "2026-11-01T22:05:15.237738+00:00",
+        "lateness_seconds": 15.2,
         "kind": "on_time"
       },
       "canonical_completions": [
-        "0ebda1ec5eb64f16b0258acfd2e13d66"
+        "b941ea2c946d4b4fbb3578fb8e4ce604"
       ]
     },
     {
@@ -2478,7 +2461,7 @@
     {
       "id": "5128ceaa2c09",
       "name": "2Real - FB Marketplace Batch Poster",
-      "prompt": "2Real FB Marketplace poster. POST UP TO 5 NEW LISTINGS PER RUN (no more)\n\n## HARD DAILY CEILING — 15 listings/day (anti-ban safe cap, from playbook)\n- **15 listings/day TOTAL across ALL runs. This is a ceiling, not a target. Never exceed 15/day no matter how many cron runs fire.**\n- **Enforce with a daily counter:** `C:\\Users\\User\\.hermes\\workspace\\Vault\\business\\2real\\fb-marketplace\\fb_daily_count_<YYYYMMDD>.json` — contains `{\"posted\": N}` for today.\n  - **At run start:** read the counter. If today total >= 15 → **post 0, stop, report \"daily ceiling hit\".**\n  - **Each run posts at most (15 − already-posted-today) items.** Never more.\n  - **After each successful post:** increment the counter and save (same file). Verify on disk.\n- This REPLACES the old unlimited-queue behavior. **Ban safety over speed. 15/day is the max you may ever post on FB Marketplace.**\n — cap raised by H on 17 Oct 26 to finish the queue faster. Follow EXACTLY.\n\n## Context\n- Playbook (read first): C:\\Users\\User\\.hermes\\workspace\\Vault\\business\\2real\\2real-agent\\FB_MARKETPLACE_PLAYBOOK.md — especially the ANTI-BAN HARDENING section (12 Oct 26).\n- Package dir: C:\\Users\\User\\.hermes\\workspace\\Vault\\business\\2real\\2real-agent\\channel_upload_package\n  - next50.json = queue (jiji_id, title, price) | fb_posted.json = posted IDs | photos\\{jiji_id}.jpg\n  - fb_post_lib.py = tested posting library (exec it in browser session 'jiji-shop'). It now includes: make_desc(title) for anti-ban text variation, vary_photo(src,dst) for photo hash variation, open_category() for the new FB combobox flow, and post_one().\n  - fb_desc_fixed.json = first10 IDs whose \\n descriptions were handled\n\n## FB PROFILE\nPosts MUST appear on the **Oman Ghan Herbert-blankson** profile. The 'jiji-shop' browser session is logged into it — do NOT switch portfolios or business accounts.\n\n## DEDUP SOURCE OF TRUTH (single registry — NEVER re-scan, NEVER re-verify)\n- The canonical dedup memory is `Vault/business/2real/2real-agent/channel_posted_master.json`\n  (= CHANNEL_POSTED_REGISTRY.md in Obsidian) + the `channel_dedup.py` helper.\n- Before posting any item, check `Registry().is_fb_posted(jid)` / `posted_anywhere(jid)`.\n  SKIP any ID present on EITHER channel. Do NOT re-scan the live FB page for this.\n- After EVERY successful PUBLISH, call `Registry().mark_fb_posted(jid)` so the memory\n  updates immediately. The registry IS the record — no separate audit needed.\n\n## DUPLICATE-PREVENTION (H: \"avoid at all costs\" — highest priority)\n- NEVER post an item whose jiji_id is already in fb_posted.json. The queue is now\n  pre-filtered at promote time, but re-check at post time: skip any posted ID and\n  move to the next unposted item. Item 1 of a batch must NEVER be a repeat.\n- One listing per product — a product already on FB (even under a different jiji_id)\n  must not be re-posted. If unsure, check fb_posted.json first.\n\n## TITLE KEYWORDS (FB search visibility)\n- Enrich the listing TITLE with high-search keywords so FB Marketplace search finds it.\n  FB rewards detail + relevant keywords. Format: `[Brand] [Product] [Key spec] — [UK Imported, Quality Checked]`\n  (per the FB playbook). Add the most-searched terms buyers use (brand, product type,\n  key spec, use-case) — but keep the title natural and under FB's length limit.\n- Do NOT change the price. Do NOT invent specs that aren't real. Only add keywords that\n  genuinely describe the item (from the researched specs / Jiji details).\n- Example: `Bosch PST 650 Jigsaw 500W — UK Imported, Quality Checked` (not just `Bosch Jigsaw`).\n\n## ACCURATE CONDITION + DETAILED DESCRIPTION (H's requirements)\n- CONDITION: Before posting, look up the item in `jiji_listings_full.json` (source of\n  truth). If the title/details signal USED (used, second hand, pre-owned, refurbished,\n  brand user, tested working, read description), set FB Condition = **Used**. Otherwise\n  New. Do NOT default everything to New — some items are used.\n- DESCRIPTION: build from RESEARCH + Jiji details. For each item, do a quick\n  web_search (e.g. \"<product name> specifications\") to pull the KEY specs/features\n  (power, capacity, size, material, key selling points). Combine the researched specs\n  with the Jiji listing `details` first-sentence. Keep the spec portion concise\n  (under ~120 characters). Then the payment/pickup closer.\n  fb_post_lib.make_desc(title, details, condition) accepts the researched spec text\n  as `details` — pass the researched specs + the Jiji details + detected condition.\n  If web research is unavailable, fall back to the Jiji details alone.\n\n## STEP 1 — Post up to five listings (BATCH MODE — one session)\nPick the first ~5 items in next50.json that are NOT in fb_posted.json. Post them ALL in ONE batch call so a single CDP browser session is reused (far faster than reconnect-per-item):\n\ncd /c/Users/User/.hermes/workspace/Vault/business/2real/2real-agent/channel_upload_package && /c/Users/User/AppData/Local/Programs/Python/Python314/python.exe fb_post_run.py <jid1> <jid2> <jid3> <jid4> <jid5>\n\n- Sleep 45-60s BETWEEN listings (reduced from 120-180s; still safely anti-velocity).\n- The runner already: builds desc from researched/Jiji specs + accurate condition, micro-varies the photo (_v), sets category, checks the unified dedup registry, marks fb_posted + the master registry after each PUBLISHED.\n- If one item fails twice, the runner skips it; if two in a row fail, END THE RUN (possible FB flow change or flag — do not force).\n- Use CDP DOM.setFileInputFiles for the photo if base64 JS injection errors ('chunk is longer than limit').\n\n## STEP 1.5 — RENEW / REFRESH CHECK (added 22/10/26 — verified against live FB)\nRun the renewal audit as part of the same run (one CDP session, AFTER posting):\n`cd /c/Users/User/.hermes/workspace/Vault/business/2real/2real-agent/channel_upload_package && /c/Users/User/AppData/Local/Programs/Python/Python314/python.exe fb_check_renewals.py`\n- **FB Marketplace reality (verified 22/10/26):** there is NO manual \"Renew\" button for ACTIVE listings — FB keeps them live and auto-refreshes. \"More options\" on a card = Mark as sold/pending, Share, Delete only.\n- The script: walks the selling page, counts Active/Expired/Inactive/Paused, and clicks **Renew/Sell-again ONLY on genuinely EXPIRED listings** (capped at 5/run, 8s between clicks, anti-ban).\n- Report in the run summary: `<N> active, <M> expired renewed (or 0 — nothing to renew)`. If the script reports 0 renew-able, that is the correct, healthy result.\n- **Do NOT auto-edit active listings to fake a refresh** — editing at volume risks the 15/day ceiling + ban. If H wants a recency boost on specific stale items, propose them (STEP 3 style), never auto-edit.\n- If the browser/session isn't available, note it and continue (posting is the priority; renewal is best-effort).\n\n\n## STEP 2.5 — SHARE NEW LISTINGS TO BUY/SELL GROUPS (added 22/10/26)\nAfter ANY listing publishes successfully (STEP 1 rc=PUBLISHED), fb_post_run.py\nautomatically shares that exact listing into H's buy/sell groups:\n**GHANA MARKET PLACE** and **ACCRA BUY AND SELL** (public groups H joined; names\nverified in the live FB group picker 22/10/26).\nMechanism: fb_share_groups.py opens the fresh listing -> Share -> Group ->\nsearch exact group name -> click row -> Share now. Failure-tolerant: if a group\nshare fails, the Marketplace listing itself is already live and STAYS live; log\nthe skip and continue (NEVER fail the run, NEVER undo the publish).\nSafety gate: group sharing only fires when the runner env has FB_SHARE_GROUPS=1\n(the flag is set in the runner env; do NOT flip it unless H confirms).\nAnti-ban: one share at a time, 8s between groups, sequential not parallel.\n\n\n## STEP 2 — Handle buyer messages + nudge quiet buyers\nRead the FB Marketplace inbox (in the `jiji-shop` session).\n- For each NEW buyer message: reply with the item's Jiji-truth price/stock + payment terms (no credit),\n  end with CTA 0204252252. Record the thread via `fb_sales_ops.BuyerThreads().upsert(...)`.\n- Revive quiet threads: `BuyerThreads().due_for_nudge()` returns threads where WE spoke last and the\n  buyer went silent past the window (24h first / 72h second, max 2). Send `nudge_text(t, n)` and call\n  `mark_nudged(id)`. NEVER offer a discount in a nudge (H approves discounts).\n- If the inbox can't be read this run, note it and continue (don't block posting).\n\n## STEP 3 — Slow-item price drops (PROPOSE only — H approves)\nRead `FB_LISTING_PERFORMANCE.json`; register each posted listing (register(jiji_id,title,price)).\n`PriceDrops().slow_candidates()` lists unsold listings >14 days with low engagement and proposes -10%.\nDELIVER these as PROPOSALS to H — do NOT change any price. Only after H replies \"approved\" does the\nprice change (update Jiji FIRST, then FB — one price everywhere). Business rule: no discounts without H.\n\n## STEP 4 — Bundle line + cross-sell\n- Append a \"Pairs well with…\" bundle line to new listings using\n  `fb_sales_ops.recommend_bundles(title)` (or offer it as a follow-up in buyer chat).\n- Cross-sell: `cross_sell_targets(category)` returns best-fit FB groups (cap 2/run). Post to APPROVED\n  groups only — a NEW group needs H approval first.\n\n## STEP 5 — Report (short)\n- X posted, Y remaining, Z buyer msgs answered, N nudges sent, price-drop proposals (list), bundles/cross-sells.\n- When remaining = 0: say QUEUE COMPLETE.\n\n## Rules\n- Never change prices — they come from next50.json exactly (price DROPS are proposals H approves).\n- One listing per product — never re-post an ID already in fb_posted.json (exception: only when H orders a re-list).\n- New FB group posting + any discount = H approval required.\n- Read `FB_SALES_OPS_PLAYBOOK.md` alongside `FB_MARKETPLACE_PLAYBOOK.md`.\n- If Meta flags/locks the account, STOP immediately and report to H.\n\n## CONDITION RULE (mandatory since 17/10/26 — misrepresentation risk)\nEvery queue item now carries a 'condition' field ('NEW' or 'USED'). When posting:\n- FB Marketplace: set the Condition dropdown to EXACTLY the item's 'condition' value ('Used' or 'New'). Never default to New.\n- Description line: USED items get 'UK Pre-Owned, Tested Working' (or 'For parts/repair' where title says so); NEW items get 'Brand New, Sealed'.\n- WhatsApp catalog: NEW items titled normally; USED items include 'UK Used' or 'Pre-owned' in title/description honestly.\n- If a queue item lacks the 'condition' field, classify by title: explicit 'brand new/sealed' = NEW; explicit 'pre-owned/used/for parts/bare unit/vintage/untested' = USED; sealed consumables (sprays, tapes, blades, batteries, LEGO) = NEW; EVERYTHING ELSE = USED (H buys at auction ~1/3 UK retail — default used, never guess new). Never post an unclassified item.\n\n## AI-TELL LINTER (mandatory since 19/10/26 — every description)\nBefore posting ANY listing/catalogue text, run it through SlopMonster's AI-tell linter:\n`python content_tool.py slopcheck '<description text>'` (sat-nav profile launcher → SlopMonster).\n- If it returns 5/5 CLEAN (exit 0): post as-is.\n- If it returns <5/5 (exit 1, AI-tells flagged): REWRITE to remove the tells\n  (kill 'delve/seamless/revolutionary', 'not just X but Y', rule-of-three rhythms,\n  stacked em-dashes, invented stats), make it concrete and human (e.g. \"UK Imported,\n  tested working\" + a specific spec), then re-check until 5/5.\nNEVER ship AI-sounding copy — it kills trust and conversions on Jiji/FB/WhatsApp.\n",
+      "prompt": "2Real FB Marketplace poster. POST UP TO 3 NEW LISTINGS PER RUN (max, GUARDED re-entry after FB review lifted 01/11/26 — do NOT raise this)\n\n## HARD DAILY CEILING — 3 listings/day (GUARDED re-entry cap, preservation doctrine — do NOT exceed)\n- **3 listings/day TOTAL. This is a ceiling, not a target.** After a Marketplace review for 'deception', FB watches the account closely — burst posting is exactly what reads as a bot. 3/day for the first 2 weeks; do not exceed no matter how many runs fire.\n- **Enforce with a daily counter:** `C:\\Users\\User\\.hermes\\workspace\\Vault\\business\\2real\\fb-marketplace\\fb_daily_count_<YYYYMMDD>.json` — contains `{\"posted\": N}` for today.\n  - **At run start:** read the counter. If today total >= 15 → **post 0, stop, report \"daily ceiling hit\".**\n  - **Each run posts at most (15 − already-posted-today) items.** Never more.\n  - **After each successful post:** increment the counter and save (same file). Verify on disk.\n- This REPLACES the old unlimited-queue behavior. **Ban safety over speed. 15/day is the max you may ever post on FB Marketplace.**\n — Previously 15/day (17 Oct 26). LOWERED to 3/day by preservation doctrine 01/11/26. Follow EXACTLY.\n\n## Context\n- Playbook (read first): C:\\Users\\User\\.hermes\\workspace\\Vault\\business\\2real\\2real-agent\\FB_MARKETPLACE_PLAYBOOK.md — especially the ANTI-BAN HARDENING section (12 Oct 26).\n- Package dir: C:\\Users\\User\\.hermes\\workspace\\Vault\\business\\2real\\2real-agent\\channel_upload_package\n  - next50.json = queue (jiji_id, title, price) | fb_posted.json = posted IDs | photos\\{jiji_id}.jpg\n  - fb_post_lib.py = tested posting library (exec it in browser session 'jiji-shop'). It now includes: make_desc(title) for anti-ban text variation, vary_photo(src,dst) for photo hash variation, open_category() for the new FB combobox flow, and post_one().\n  - fb_desc_fixed.json = first10 IDs whose \\n descriptions were handled\n\n## FB PROFILE\nPosts MUST appear on the **Oman Ghan Herbert-blankson** profile. The 'jiji-shop' browser session is logged into it — do NOT switch portfolios or business accounts.\n\n## DEDUP SOURCE OF TRUTH (single registry — NEVER re-scan, NEVER re-verify)\n- The canonical dedup memory is `Vault/business/2real/2real-agent/channel_posted_master.json`\n  (= CHANNEL_POSTED_REGISTRY.md in Obsidian) + the `channel_dedup.py` helper.\n- Before posting any item, check `Registry().is_fb_posted(jid)` / `posted_anywhere(jid)`.\n  SKIP any ID present on EITHER channel. Do NOT re-scan the live FB page for this.\n- After EVERY successful PUBLISH, call `Registry().mark_fb_posted(jid)` so the memory\n  updates immediately. The registry IS the record — no separate audit needed.\n\n## DUPLICATE-PREVENTION (H: \"avoid at all costs\" — highest priority)\n- NEVER post an item whose jiji_id is already in fb_posted.json. The queue is now\n  pre-filtered at promote time, but re-check at post time: skip any posted ID and\n  move to the next unposted item. Item 1 of a batch must NEVER be a repeat.\n- One listing per product — a product already on FB (even under a different jiji_id)\n  must not be re-posted. If unsure, check fb_posted.json first.\n\n## TITLE KEYWORDS (FB search visibility)\n- Enrich the listing TITLE with high-search keywords so FB Marketplace search finds it.\n  FB rewards detail + relevant keywords. Format: `[Brand] [Product] [Key spec] — [UK Imported, Quality Checked]`\n  (per the FB playbook). Add the most-searched terms buyers use (brand, product type,\n  key spec, use-case) — but keep the title natural and under FB's length limit.\n- Do NOT change the price. Do NOT invent specs that aren't real. Only add keywords that\n  genuinely describe the item (from the researched specs / Jiji details).\n- Example: `Bosch PST 650 Jigsaw 500W — UK Imported, Quality Checked` (not just `Bosch Jigsaw`).\n\n## ACCURATE CONDITION + DETAILED DESCRIPTION (H's requirements)\n- CONDITION: Before posting, look up the item in `jiji_listings_full.json` (source of\n  truth). If the title/details signal USED (used, second hand, pre-owned, refurbished,\n  brand user, tested working, read description), set FB Condition = **Used**. Otherwise\n  New. Do NOT default everything to New — some items are used.\n- DESCRIPTION: build from RESEARCH + Jiji details. For each item, do a quick\n  web_search (e.g. \"<product name> specifications\") to pull the KEY specs/features\n  (power, capacity, size, material, key selling points). Combine the researched specs\n  with the Jiji listing `details` first-sentence. Keep the spec portion concise\n  (under ~120 characters). Then the payment/pickup closer.\n  fb_post_lib.make_desc(title, details, condition) accepts the researched spec text\n  as `details` — pass the researched specs + the Jiji details + detected condition.\n  If web research is unavailable, fall back to the Jiji details alone.\n\n## STEP 1 — Post up to five listings (BATCH MODE — one session)\nPick the first ~5 items in next50.json that are NOT in fb_posted.json. Post them ALL in ONE batch call so a single CDP browser session is reused (far faster than reconnect-per-item):\n\ncd /c/Users/User/.hermes/workspace/Vault/business/2real/2real-agent/channel_upload_package && /c/Users/User/AppData/Local/Programs/Python/Python314/python.exe fb_post_run.py <jid1> <jid2> <jid3> <jid4> <jid5>\n\n- Sleep 45-60s BETWEEN listings (reduced from 120-180s; still safely anti-velocity).\n- The runner already: builds desc from researched/Jiji specs + accurate condition, micro-varies the photo (_v), sets category, checks the unified dedup registry, marks fb_posted + the master registry after each PUBLISHED.\n- If one item fails twice, the runner skips it; if two in a row fail, END THE RUN (possible FB flow change or flag — do not force).\n- Use CDP DOM.setFileInputFiles for the photo if base64 JS injection errors ('chunk is longer than limit').\n\n## STEP 1.5 — RENEW / REFRESH CHECK (added 22/10/26 — verified against live FB)\nRun the renewal audit as part of the same run (one CDP session, AFTER posting):\n`cd /c/Users/User/.hermes/workspace/Vault/business/2real/2real-agent/channel_upload_package && /c/Users/User/AppData/Local/Programs/Python/Python314/python.exe fb_check_renewals.py`\n- **FB Marketplace reality (verified 22/10/26):** there is NO manual \"Renew\" button for ACTIVE listings — FB keeps them live and auto-refreshes. \"More options\" on a card = Mark as sold/pending, Share, Delete only.\n- The script: walks the selling page, counts Active/Expired/Inactive/Paused, and clicks **Renew/Sell-again ONLY on genuinely EXPIRED listings** (capped at 5/run, 8s between clicks, anti-ban).\n- Report in the run summary: `<N> active, <M> expired renewed (or 0 — nothing to renew)`. If the script reports 0 renew-able, that is the correct, healthy result.\n- **Do NOT auto-edit active listings to fake a refresh** — editing at volume risks the 15/day ceiling + ban. If H wants a recency boost on specific stale items, propose them (STEP 3 style), never auto-edit.\n- If the browser/session isn't available, note it and continue (posting is the priority; renewal is best-effort).\n\n\n## STEP 2.5 — SHARE NEW LISTINGS TO BUY/SELL GROUPS (added 22/10/26)\nAfter ANY listing publishes successfully (STEP 1 rc=PUBLISHED), fb_post_run.py\nautomatically shares that exact listing into H's buy/sell groups:\n**GHANA MARKET PLACE** and **ACCRA BUY AND SELL** (public groups H joined; names\nverified in the live FB group picker 22/10/26).\nMechanism: fb_share_groups.py opens the fresh listing -> Share -> Group ->\nsearch exact group name -> click row -> Share now. Failure-tolerant: if a group\nshare fails, the Marketplace listing itself is already live and STAYS live; log\nthe skip and continue (NEVER fail the run, NEVER undo the publish).\nSafety gate: group sharing only fires when the runner env has FB_SHARE_GROUPS=1\n(the flag is set in the runner env; do NOT flip it unless H confirms).\nAnti-ban: one share at a time, 8s between groups, sequential not parallel.\n\n\n## STEP 2 — Handle buyer messages + nudge quiet buyers\nRead the FB Marketplace inbox (in the `jiji-shop` session).\n- For each NEW buyer message: reply with the item's Jiji-truth price/stock + payment terms (no credit),\n  end with CTA 0204252252. Record the thread via `fb_sales_ops.BuyerThreads().upsert(...)`.\n- Revive quiet threads: `BuyerThreads().due_for_nudge()` returns threads where WE spoke last and the\n  buyer went silent past the window (24h first / 72h second, max 2). Send `nudge_text(t, n)` and call\n  `mark_nudged(id)`. NEVER offer a discount in a nudge (H approves discounts).\n- If the inbox can't be read this run, note it and continue (don't block posting).\n\n## STEP 3 — Slow-item price drops (PROPOSE only — H approves)\nRead `FB_LISTING_PERFORMANCE.json`; register each posted listing (register(jiji_id,title,price)).\n`PriceDrops().slow_candidates()` lists unsold listings >14 days with low engagement and proposes -10%.\nDELIVER these as PROPOSALS to H — do NOT change any price. Only after H replies \"approved\" does the\nprice change (update Jiji FIRST, then FB — one price everywhere). Business rule: no discounts without H.\n\n## STEP 4 — Bundle line + cross-sell\n- Append a \"Pairs well with…\" bundle line to new listings using\n  `fb_sales_ops.recommend_bundles(title)` (or offer it as a follow-up in buyer chat).\n- Cross-sell: `cross_sell_targets(category)` returns best-fit FB groups (cap 2/run). Post to APPROVED\n  groups only — a NEW group needs H approval first.\n\n## STEP 5 — Report (short)\n- X posted, Y remaining, Z buyer msgs answered, N nudges sent, price-drop proposals (list), bundles/cross-sells.\n- When remaining = 0: say QUEUE COMPLETE.\n\n## Rules\n- Never change prices — they come from next50.json exactly (price DROPS are proposals H approves).\n- One listing per product — never re-post an ID already in fb_posted.json (exception: only when H orders a re-list).\n- New FB group posting + any discount = H approval required.\n- Read `FB_SALES_OPS_PLAYBOOK.md` alongside `FB_MARKETPLACE_PLAYBOOK.md`.\n- If Meta flags/locks the account, STOP immediately and report to H.\n\n## CONDITION RULE (mandatory since 17/10/26 — misrepresentation risk)\nEvery queue item now carries a 'condition' field ('NEW' or 'USED'). When posting:\n- FB Marketplace: set the Condition dropdown to EXACTLY the item's 'condition' value ('Used' or 'New'). Never default to New.\n- Description line: USED items get 'UK Pre-Owned, Tested Working' (or 'For parts/repair' where title says so); NEW items get 'Brand New, Sealed'.\n- WhatsApp catalog: NEW items titled normally; USED items include 'UK Used' or 'Pre-owned' in title/description honestly.\n- If a queue item lacks the 'condition' field, classify by title: explicit 'brand new/sealed' = NEW; explicit 'pre-owned/used/for parts/bare unit/vintage/untested' = USED; sealed consumables (sprays, tapes, blades, batteries, LEGO) = NEW; EVERYTHING ELSE = USED (H buys at auction ~1/3 UK retail — default used, never guess new). Never post an unclassified item.\n\n## AI-TELL LINTER (mandatory since 19/10/26 — every description)\nBefore posting ANY listing/catalogue text, run it through SlopMonster's AI-tell linter:\n`python content_tool.py slopcheck '<description text>'` (sat-nav profile launcher → SlopMonster).\n- If it returns 5/5 CLEAN (exit 0): post as-is.\n- If it returns <5/5 (exit 1, AI-tells flagged): REWRITE to remove the tells\n  (kill 'delve/seamless/revolutionary', 'not just X but Y', rule-of-three rhythms,\n  stacked em-dashes, invented stats), make it concrete and human (e.g. \"UK Imported,\n  tested working\" + a specific spec), then re-check until 5/5.\nNEVER ship AI-sounding copy — it kills trust and conversions on Jiji/FB/WhatsApp.\n",
       "skills": [],
       "skill": null,
       "model": "deepseek/deepseek-v4-flash-0731",
@@ -2492,21 +2475,21 @@
       "context_from": null,
       "schedule": {
         "kind": "cron",
-        "expr": "0 9,13,18 * * *",
-        "display": "0 9,13,18 * * *"
+        "expr": "0 10 * * *",
+        "display": "0 10 * * *"
       },
-      "schedule_display": "0 9-19/2 * * *",
+      "schedule_display": "0 10 * * *",
       "repeat": {
         "times": null,
-        "completed": 203
+        "completed": 204
       },
-      "enabled": false,
-      "state": "paused",
-      "paused_at": "2026-10-31T01:41:08.009761+00:00",
+      "enabled": true,
+      "state": "scheduled",
+      "paused_at": null,
       "paused_reason": null,
       "created_at": "2026-09-29T20:22:28.049585+00:00",
-      "next_run_at": "2026-10-31T09:00:00+00:00",
-      "last_run_at": "2026-10-30T18:14:22.982851+00:00",
+      "next_run_at": "2026-11-02T10:00:00+00:00",
+      "last_run_at": "2026-11-01T11:23:33.525110+00:00",
       "last_status": "ok",
       "last_error": null,
       "last_delivery_error": null,
@@ -2517,9 +2500,9 @@
       "enabled_toolsets": null,
       "workdir": null,
       "last_dispatch": {
-        "scheduled_at": "2026-10-30T18:00:00+00:00",
-        "dispatched_at": "2026-10-30T18:05:32.597160+00:00",
-        "lateness_seconds": 332.6,
+        "scheduled_at": "2026-11-01T10:00:00+00:00",
+        "dispatched_at": "2026-11-01T11:10:13.286382+00:00",
+        "lateness_seconds": 4213.3,
         "kind": "late"
       },
       "fire_claim": null,
@@ -2528,7 +2511,7 @@
         "detail": "TimeoutError: Cron job '2Real - FB Marketplace Batch Poster' idle for 28239s (limit 600s) — last activity: waiting for provider response (streaming)"
       },
       "canonical_completions": [
-        "a2c84e0c467d4cfa874baa67e91bb6aa"
+        "c0f38483348e4122bbb2abe789331ebd"
       ]
     },
     {
@@ -2556,15 +2539,15 @@
       "schedule_display": "0 9 * * *",
       "repeat": {
         "times": null,
-        "completed": 57
+        "completed": 58
       },
       "enabled": true,
       "state": "scheduled",
       "paused_at": null,
       "paused_reason": null,
       "created_at": "2026-10-12T03:45:58.527173+00:00",
-      "next_run_at": "2026-11-01T09:00:00+00:00",
-      "last_run_at": "2026-11-01T05:43:21.548804+00:00",
+      "next_run_at": "2026-11-02T09:00:00+00:00",
+      "last_run_at": "2026-11-01T09:10:31.540958+00:00",
       "last_status": "ok",
       "last_error": null,
       "last_delivery_error": null,
@@ -2576,17 +2559,17 @@
       "workdir": null,
       "fire_claim": null,
       "last_dispatch": {
-        "scheduled_at": "2026-10-31T09:00:00+00:00",
-        "dispatched_at": "2026-10-31T10:26:30.299902+00:00",
-        "lateness_seconds": 5190.3,
-        "kind": "late"
+        "scheduled_at": "2026-11-01T09:00:00+00:00",
+        "dispatched_at": "2026-11-01T09:00:34.448829+00:00",
+        "lateness_seconds": 34.4,
+        "kind": "on_time"
       },
       "last_failure": {
         "at": "2026-10-31T10:35:49.884916+00:00",
         "detail": "RuntimeError: Hermes can't reach the model provider. You may be offline. Check your internet connection and try again."
       },
       "canonical_completions": [
-        "5457c39ccfff4c2fb0d2e0f02d41471b"
+        "5e7aaa4dac20404d8c2da54bd5795b52"
       ]
     },
     {
@@ -2612,15 +2595,15 @@
       "schedule_display": "0 10 * * *",
       "repeat": {
         "times": null,
-        "completed": 49
+        "completed": 50
       },
       "enabled": true,
       "state": "scheduled",
       "paused_at": null,
       "paused_reason": "Duplicate sends detected - auditing before resume",
       "created_at": "2026-10-15T04:57:40.983008+00:00",
-      "next_run_at": "2026-11-01T10:00:00+00:00",
-      "last_run_at": "2026-10-31T13:12:46.675820+00:00",
+      "next_run_at": "2026-11-02T10:00:00+00:00",
+      "last_run_at": "2026-11-01T11:40:51.468671+00:00",
       "last_status": "ok",
       "last_error": null,
       "last_delivery_error": null,
@@ -2637,13 +2620,13 @@
       "fire_claim": null,
       "paused": true,
       "last_dispatch": {
-        "scheduled_at": "2026-10-31T10:00:00+00:00",
-        "dispatched_at": "2026-10-31T10:26:30.299902+00:00",
-        "lateness_seconds": 1590.3,
+        "scheduled_at": "2026-11-01T10:00:00+00:00",
+        "dispatched_at": "2026-11-01T11:10:13.286382+00:00",
+        "lateness_seconds": 4213.3,
         "kind": "late"
       },
       "canonical_completions": [
-        "449d097b543640eab1397221adf75a2b"
+        "771449431ee94f3ba577e2219cc77529"
       ]
     },
     {
@@ -2661,20 +2644,23 @@
       "script": null,
       "last_status": "ok",
       "failure_streak": 0,
-      "next_run_at": "2026-11-01T19:00:00+00:00",
+      "next_run_at": "2026-11-08T19:00:00+00:00",
       "last_dispatch": {
-        "scheduled_at": "2026-10-25T19:00:00+00:00",
-        "dispatched_at": "2026-10-25T19:00:20.765728+00:00",
-        "lateness_seconds": 20.8,
+        "scheduled_at": "2026-11-01T19:00:00+00:00",
+        "dispatched_at": "2026-11-01T19:00:15.218267+00:00",
+        "lateness_seconds": 15.2,
         "kind": "on_time"
       },
       "fire_claim": null,
-      "last_run_at": "2026-10-25T19:00:52.944923+00:00",
+      "last_run_at": "2026-11-01T19:00:33.364992+00:00",
       "last_error": null,
       "last_delivery_error": null,
       "state": "scheduled",
       "model": "deepseek/deepseek-v4-flash-0731",
-      "provider": "openrouter"
+      "provider": "openrouter",
+      "canonical_completions": [
+        "ee5a6d9c45244fceab7a9e7fb3022e95"
+      ]
     },
     {
       "id": "a48d35a53ed5",
@@ -2691,24 +2677,24 @@
       "deliver": "origin",
       "repeat": {
         "times": null,
-        "completed": 13
+        "completed": 14
       },
-      "next_run_at": "2026-11-02T04:30:00+00:00",
+      "next_run_at": "2026-11-03T04:30:00+00:00",
       "last_dispatch": {
-        "scheduled_at": "2026-11-01T04:30:00+00:00",
-        "dispatched_at": "2026-11-01T04:30:29.994922+00:00",
-        "lateness_seconds": 30.0,
+        "scheduled_at": "2026-11-02T04:30:00+00:00",
+        "dispatched_at": "2026-11-02T04:30:28.900444+00:00",
+        "lateness_seconds": 28.9,
         "kind": "on_time"
       },
       "fire_claim": null,
-      "last_run_at": "2026-11-01T04:30:50.338624+00:00",
+      "last_run_at": "2026-11-02T04:30:41.370090+00:00",
       "last_status": "ok",
       "last_error": null,
       "failure_streak": 0,
       "last_delivery_error": null,
       "state": "scheduled",
       "canonical_completions": [
-        "0c245c652a3c4eae8c3f77794aa6bdd0"
+        "5f0415e0bce54845ab3d7840898861f8"
       ]
     },
     {
@@ -2895,28 +2881,28 @@
       "model": "deepseek/deepseek-v4-flash-0731",
       "profile": "sat-nav",
       "created_at": "2026-10-30 16:40:07",
-      "next_run_at": "2026-11-01T07:00:00+00:00",
+      "next_run_at": "2026-11-02T07:00:00+00:00",
       "last_dispatch": {
-        "scheduled_at": "2026-10-31T07:00:00+00:00",
-        "dispatched_at": "2026-10-31T08:59:53.236733+00:00",
-        "lateness_seconds": 7193.2,
-        "kind": "late"
+        "scheduled_at": "2026-11-01T07:00:00+00:00",
+        "dispatched_at": "2026-11-01T07:00:34.467647+00:00",
+        "lateness_seconds": 34.5,
+        "kind": "on_time"
       },
       "fire_claim": null,
-      "last_run_at": "2026-10-31T10:30:37.607739+00:00",
-      "last_status": "error",
-      "last_error": "RuntimeError: Hermes can't reach the model provider. You may be offline. Check your internet connection and try again.",
-      "failure_streak": 1,
+      "last_run_at": "2026-11-01T07:02:15.419292+00:00",
+      "last_status": "ok",
+      "last_error": null,
+      "failure_streak": 0,
       "last_failure": {
         "at": "2026-10-31T10:30:37.607739+00:00",
         "detail": "RuntimeError: Hermes can't reach the model provider. You may be offline. Check your internet connection and try again."
       },
-      "last_delivery_error": "live adapter send failed: send_path_degraded; live adapter delivery to telegram:-1003784520976:1 failed: send_path_degraded; delivery error: Telegram send failed: httpx.ConnectError: All connection attempts failed (target telegram:-1003784520976:1); queued text for telegram:-1003784520976:1 for redelivery once the live adapter reconnects",
+      "last_delivery_error": null,
       "canonical_completions": [
-        "d00c68f7c0044ee2a483027ecb40da2b"
+        "f264871086474a2a8555c542f566f19f"
       ],
       "state": "scheduled"
     }
   ],
-  "updated_at": "2026-11-01T06:00:34.686509+00:00"
+  "updated_at": "2026-11-02T06:00:29.241430+00:00"
 }

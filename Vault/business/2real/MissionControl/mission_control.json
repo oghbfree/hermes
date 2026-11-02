@@ -1,0 +1,930 @@
+{
+  "generated": "2026-11-02 01:56",
+  "day": "Monday 02 Nov 2026",
+  "kanban": {
+    "total": 272,
+    "unique": 125,
+    "by_status": {
+      "ready": 31,
+      "archived": 76,
+      "blocked": 14,
+      "todo": 4
+    },
+    "ready": [
+      {
+        "id": "t_a61ba1f6",
+        "title": "Critical: Link WhatsApp Web session",
+        "status": "ready",
+        "priority": 0,
+        "assignee": "unassigned",
+        "created": 1780819290,
+        "completed": null,
+        "dup": 1
+      },
+      {
+        "id": "t_0e527b27",
+        "title": "High: 20% commission on sales - 3rd party setup",
+        "status": "ready",
+        "priority": 0,
+        "assignee": "unassigned",
+        "created": 1780819295,
+        "completed": null,
+        "dup": 1
+      },
+      {
+        "id": "t_7286b1c7",
+        "title": "High: Operational procedures - Document and implement",
+        "status": "ready",
+        "priority": 0,
+        "assignee": "unassigned",
+        "created": 1780819299,
+        "completed": null,
+        "dup": 1
+      },
+      {
+        "id": "t_94e2a8df",
+        "title": "High: VAT payment - Outstanding (government adjustments)",
+        "status": "ready",
+        "priority": 0,
+        "assignee": "unassigned",
+        "created": 1780819303,
+        "completed": null,
+        "dup": 1
+      },
+      {
+        "id": "t_4ad3442c",
+        "title": "Medium: WhatsApp Broadcast blacklist investigation",
+        "status": "ready",
+        "priority": 0,
+        "assignee": "unassigned",
+        "created": 1780819316,
+        "completed": null,
+        "dup": 1
+      },
+      {
+        "id": "t_686713e3",
+        "title": "Medium: iPhone 13 repairs ordering",
+        "status": "ready",
+        "priority": 0,
+        "assignee": "unassigned",
+        "created": 1780819323,
+        "completed": null,
+        "dup": 1
+      },
+      {
+        "id": "t_3fb58a10",
+        "title": "Medium: Nurses CV - Send links/CV as requested",
+        "status": "ready",
+        "priority": 0,
+        "assignee": "unassigned",
+        "created": 1780819328,
+        "completed": null,
+        "dup": 1
+      },
+      {
+        "id": "t_983d1ecf",
+        "title": "Medium: Akoma Robotics - Zion Intl demos & stock",
+        "status": "ready",
+        "priority": 0,
+        "assignee": "unassigned",
+        "created": 1780819333,
+        "completed": null,
+        "dup": 1
+      },
+      {
+        "id": "t_62a76de1",
+        "title": "Medium: FB Marketplace VPN issues - Resolve",
+        "status": "ready",
+        "priority": 0,
+        "assignee": "unassigned",
+        "created": 1780819336,
+        "completed": null,
+        "dup": 1
+      },
+      {
+        "id": "t_5ece5524",
+        "title": "High: Order mattress from AliExpress for Mum",
+        "status": "ready",
+        "priority": 0,
+        "assignee": "unassigned",
+        "created": 1780819351,
+        "completed": null,
+        "dup": 1
+      },
+      {
+        "id": "t_2d248f32",
+        "title": "Medium: Set up daily data scraping and briefing system",
+        "status": "ready",
+        "priority": 0,
+        "assignee": "unassigned",
+        "created": 1780819359,
+        "completed": null,
+        "dup": 1
+      },
+      {
+        "id": "t_fe8ffe6e",
+        "title": "Retrieve and review supplier dashboard file prior to outreach",
+        "status": "ready",
+        "priority": 0,
+        "assignee": "unassigned",
+        "created": 1780819363,
+        "completed": null,
+        "dup": 1
+      },
+      {
+        "id": "t_c758208a",
+        "title": "iPhone 13 repairs - Screen:450, Back:600, Battery:250, Bypass:600 (John's camera not good, send costs/request)",
+        "status": "ready",
+        "priority": 0,
+        "assignee": "unassigned",
+        "created": 1782176870,
+        "completed": null,
+        "dup": 1
+      },
+      {
+        "id": "t_7aa40bb2",
+        "title": "Set up daily data scraping and briefing system",
+        "status": "ready",
+        "priority": 0,
+        "assignee": "unassigned",
+        "created": 1782374589,
+        "completed": null,
+        "dup": 1
+      },
+      {
+        "id": "t_c762212e",
+        "title": "SOPs: ask where he saved the compiled SOPs (from Meeting Topics 2026-05-05)",
+        "status": "ready",
+        "priority": 0,
+        "assignee": "unassigned",
+        "created": 1782633739,
+        "completed": null,
+        "dup": 1
+      },
+      {
+        "id": "t_facb2f70",
+        "title": "Erect shelves",
+        "status": "ready",
+        "priority": 2,
+        "assignee": "unassigned",
+        "created": 1784102546,
+        "completed": null,
+        "dup": 1
+      },
+      {
+        "id": "t_de89c5bd",
+        "title": "Check upstairs items for warehouse",
+        "status": "ready",
+        "priority": 2,
+        "assignee": "unassigned",
+        "created": 1784102548,
+        "completed": null,
+        "dup": 1
+      },
+      {
+        "id": "t_16e9fe59",
+        "title": "List love seat for sale online",
+        "status": "ready",
+        "priority": 2,
+        "assignee": "unassigned",
+        "created": 1784102552,
+        "completed": null,
+        "dup": 1
+      },
+      {
+        "id": "t_a38555f5",
+        "title": "Call Naa",
+        "status": "ready",
+        "priority": 2,
+        "assignee": "unassigned",
+        "created": 1784102556,
+        "completed": null,
+        "dup": 1
+      },
+      {
+        "id": "t_3f7a8dbc",
+        "title": "Call Nicholas",
+        "status": "ready",
+        "priority": 2,
+        "assignee": "unassigned",
+        "created": 1784102562,
+        "completed": null,
+        "dup": 1
+      },
+      {
+        "id": "t_4efd96f9",
+        "title": "Call Jnr",
+        "status": "ready",
+        "priority": 2,
+        "assignee": "unassigned",
+        "created": 1784102564,
+        "completed": null,
+        "dup": 1
+      },
+      {
+        "id": "t_34d46a6c",
+        "title": "Call H and N",
+        "status": "ready",
+        "priority": 2,
+        "assignee": "unassigned",
+        "created": 1784102568,
+        "completed": null,
+        "dup": 1
+      },
+      {
+        "id": "t_d3f4da0e",
+        "title": "Check air conditioning",
+        "status": "ready",
+        "priority": 2,
+        "assignee": "unassigned",
+        "created": 1784102586,
+        "completed": null,
+        "dup": 1
+      },
+      {
+        "id": "t_2a588ec9",
+        "title": "Check the generator and the cement mixer",
+        "status": "ready",
+        "priority": 0,
+        "assignee": "unassigned",
+        "created": 1792417442,
+        "completed": null,
+        "dup": 1
+      },
+      {
+        "id": "t_f684bc79",
+        "title": "Bring all tools home",
+        "status": "ready",
+        "priority": 0,
+        "assignee": "unassigned",
+        "created": 1792417446,
+        "completed": null,
+        "dup": 1
+      },
+      {
+        "id": "t_72e37229",
+        "title": "Sell big items cheap",
+        "status": "ready",
+        "priority": 0,
+        "assignee": "unassigned",
+        "created": 1792417451,
+        "completed": null,
+        "dup": 1
+      },
+      {
+        "id": "t_697e739c",
+        "title": "Buy petrol",
+        "status": "ready",
+        "priority": 0,
+        "assignee": "unassigned",
+        "created": 1792417455,
+        "completed": null,
+        "dup": 1
+      },
+      {
+        "id": "t_71c80b14",
+        "title": "Gomi",
+        "status": "ready",
+        "priority": 0,
+        "assignee": "unassigned",
+        "created": 1792417464,
+        "completed": null,
+        "dup": 1
+      },
+      {
+        "id": "t_271292b5",
+        "title": "Rent due (19th)",
+        "status": "ready",
+        "priority": 0,
+        "assignee": "unassigned",
+        "created": 1792417468,
+        "completed": null,
+        "dup": 1
+      },
+      {
+        "id": "t_d92c2940",
+        "title": "Rent due (21st)",
+        "status": "ready",
+        "priority": 0,
+        "assignee": "unassigned",
+        "created": 1792417472,
+        "completed": null,
+        "dup": 1
+      },
+      {
+        "id": "t_3da22bde",
+        "title": "Work (21st)",
+        "status": "ready",
+        "priority": 0,
+        "assignee": "unassigned",
+        "created": 1792417476,
+        "completed": null,
+        "dup": 1
+      }
+    ],
+    "blocked": [
+      {
+        "id": "t_82089c1b",
+        "title": "Pick up Samsung S8+ with Mario case for Safi (WhatsApp)",
+        "status": "blocked",
+        "priority": 0,
+        "assignee": "default",
+        "created": 1780995716,
+        "completed": null,
+        "dup": 1
+      },
+      {
+        "id": "t_28478d43",
+        "title": "Discuss shed partition camera requirements with Costa for Ghana Trip",
+        "status": "blocked",
+        "priority": 0,
+        "assignee": "default",
+        "created": 1780995720,
+        "completed": null,
+        "dup": 1
+      },
+      {
+        "id": "t_573089f0",
+        "title": "Dr Ferguson order (herbs/vitamins for mum)",
+        "status": "blocked",
+        "priority": 0,
+        "assignee": "default",
+        "created": 1780995727,
+        "completed": null,
+        "dup": 8
+      },
+      {
+        "id": "t_e5f60e73",
+        "title": "Pick up Samsung S8+ with Mario case (WhatsApp Safi)",
+        "status": "blocked",
+        "priority": 0,
+        "assignee": "default",
+        "created": 1781168524,
+        "completed": null,
+        "dup": 7
+      },
+      {
+        "id": "t_e4b7b484",
+        "title": "Speak to Costa re: shed partition cameras",
+        "status": "blocked",
+        "priority": 0,
+        "assignee": "default",
+        "created": 1781168526,
+        "completed": null,
+        "dup": 6
+      },
+      {
+        "id": "t_005aa53f",
+        "title": "Croydon — garden/house clear",
+        "status": "blocked",
+        "priority": 0,
+        "assignee": "default",
+        "created": 1782638117,
+        "completed": null,
+        "dup": 1
+      },
+      {
+        "id": "t_250bf276",
+        "title": "Croydon\\ —\\ roof\\,\\ windows",
+        "status": "blocked",
+        "priority": 0,
+        "assignee": "default",
+        "created": 1783156079,
+        "completed": null,
+        "dup": 1
+      },
+      {
+        "id": "t_9c711b8e",
+        "title": "EDF\\ setup",
+        "status": "blocked",
+        "priority": 0,
+        "assignee": "default",
+        "created": 1783156087,
+        "completed": null,
+        "dup": 1
+      },
+      {
+        "id": "t_601c6c61",
+        "title": "Compile master herb/vitamin list for Mum's order",
+        "status": "blocked",
+        "priority": 0,
+        "assignee": "harold",
+        "created": 1791996759,
+        "completed": null,
+        "dup": 1
+      },
+      {
+        "id": "t_093e3694",
+        "title": "Confirm Mum's Ghana arrival date and delivery window",
+        "status": "blocked",
+        "priority": 0,
+        "assignee": "default",
+        "created": 1791996759,
+        "completed": null,
+        "dup": 1
+      },
+      {
+        "id": "t_abc2bcd8",
+        "title": "Contact Mike",
+        "status": "blocked",
+        "priority": 0,
+        "assignee": "unassigned",
+        "created": 1792746141,
+        "completed": null,
+        "dup": 1
+      },
+      {
+        "id": "t_fb3248fa",
+        "title": "Contact Henry",
+        "status": "blocked",
+        "priority": 0,
+        "assignee": "unassigned",
+        "created": 1792746145,
+        "completed": null,
+        "dup": 1
+      },
+      {
+        "id": "t_4e324c17",
+        "title": "Contact Eric",
+        "status": "blocked",
+        "priority": 0,
+        "assignee": "unassigned",
+        "created": 1792746149,
+        "completed": null,
+        "dup": 1
+      },
+      {
+        "id": "t_950edb2e",
+        "title": "Change Mum's name at UGMC / Focus Hospital to match NHIS card",
+        "status": "blocked",
+        "priority": 0,
+        "assignee": "default",
+        "created": 1793014506,
+        "completed": null,
+        "dup": 1
+      }
+    ],
+    "review": [],
+    "duplicates": 32
+  },
+  "routines": [
+    {
+      "id": "bc929d43",
+      "name": "Evening habit reflect",
+      "schedule": "0 19 * * *",
+      "owner": "default"
+    },
+    {
+      "id": "96fa9feb",
+      "name": "tasks-queue-sync",
+      "schedule": "0 9 * * *",
+      "owner": "default"
+    },
+    {
+      "id": "3b593315",
+      "name": "mum-health-morning",
+      "schedule": "4 8 * * *",
+      "owner": "default"
+    },
+    {
+      "id": "fb07221a",
+      "name": "mum-health-afternoon",
+      "schedule": "0 13 * * *",
+      "owner": "default"
+    },
+    {
+      "id": "6a95ab36",
+      "name": "mum-health-evening",
+      "schedule": "0 19 * * *",
+      "owner": "default"
+    },
+    {
+      "id": "e5be79ac",
+      "name": "health-check-morning",
+      "schedule": "4 8 * * *",
+      "owner": "default"
+    },
+    {
+      "id": "1811327d",
+      "name": "health-check-afternoon",
+      "schedule": "0 13 * * *",
+      "owner": "default"
+    },
+    {
+      "id": "42d142d0",
+      "name": "health-check-evening",
+      "schedule": "0 19 * * *",
+      "owner": "default"
+    },
+    {
+      "id": "c9181244",
+      "name": "mum-health-weekly-review",
+      "schedule": "6 9 * * 0",
+      "owner": "default"
+    },
+    {
+      "id": "9fc966ea",
+      "name": "monthly-evolution",
+      "schedule": "21 9 1 * *",
+      "owner": "default"
+    },
+    {
+      "id": "1b710763",
+      "name": "security-policy-check",
+      "schedule": "0 7 * * *",
+      "owner": "default"
+    },
+    {
+      "id": "586aebcd",
+      "name": "daily-backup",
+      "schedule": "3 23 * * 0",
+      "owner": "default"
+    },
+    {
+      "id": "a3cdfcea",
+      "name": "github-memory-backup",
+      "schedule": "0 6 * * *",
+      "owner": "default"
+    },
+    {
+      "id": "2e2d1d6e",
+      "name": "job-applications-check",
+      "schedule": "0 8 * * *",
+      "owner": "default"
+    },
+    {
+      "id": "c3db50f4",
+      "name": "checkin-mum",
+      "schedule": "18 10 * * 0,1,2,3,4,5,6",
+      "owner": "default"
+    },
+    {
+      "id": "f21f8326",
+      "name": "checkin-dad",
+      "schedule": "4 10 * * 0,1,4",
+      "owner": "default"
+    },
+    {
+      "id": "16c8a6f3",
+      "name": "dad-health-weekly-review",
+      "schedule": "30 9 * * 0",
+      "owner": "default"
+    },
+    {
+      "id": "e0e77e60",
+      "name": "Fluid CC Payment Reminder",
+      "schedule": "0 10 15 * *",
+      "owner": "default"
+    },
+    {
+      "id": "5d80f08b",
+      "name": "2Real — Daily Operations Check",
+      "schedule": "0 9 * * *",
+      "owner": "default"
+    },
+    {
+      "id": "5f6fafe0",
+      "name": "Dad — 3-Day Condition & Wellbeing Check",
+      "schedule": "0 10 */3 * *",
+      "owner": "default"
+    },
+    {
+      "id": "4f223316",
+      "name": "h-health-weekly-review",
+      "schedule": "6 9 * * 0",
+      "owner": "default"
+    },
+    {
+      "id": "0ef160b1",
+      "name": "Daily Marketplace Monitor",
+      "schedule": "0 7 * * *",
+      "owner": "default"
+    },
+    {
+      "id": "aebf7e73",
+      "name": "Mom Morning Exercise Reminders",
+      "schedule": "0 8 * * *",
+      "owner": "default"
+    },
+    {
+      "id": "bcc20c0a",
+      "name": "Hughie-payment-reminder",
+      "schedule": "5 10 */25 * *",
+      "owner": "default"
+    },
+    {
+      "id": "2610509d",
+      "name": "Monthly-Tax-Submission-Audit",
+      "schedule": "0 7 1 * *",
+      "owner": "default"
+    },
+    {
+      "id": "f747316d",
+      "name": "stephanie-nurse-wellbeing-checkin",
+      "schedule": "0 9 * * 2",
+      "owner": "default"
+    },
+    {
+      "id": "f3228b7e",
+      "name": "2Real — Customer Inquiry Loop",
+      "schedule": "0 9 * * *",
+      "owner": "default"
+    },
+    {
+      "id": "063e0527",
+      "name": "2Real — Weekly Jiji Catalog Refresh",
+      "schedule": "30 2 * * 0,3",
+      "owner": "default"
+    },
+    {
+      "id": "d719cd80",
+      "name": "integrated-daily-synthesis",
+      "schedule": "5 22 * * *",
+      "owner": "default"
+    },
+    {
+      "id": "8ea5ea4a",
+      "name": "2Real - Sunday Christmas Gap Re-scan",
+      "schedule": "0 3 * * 0",
+      "owner": "default"
+    },
+    {
+      "id": "5128ceaa",
+      "name": "2Real - FB Marketplace Batch Poster",
+      "schedule": "0 10 * * *",
+      "owner": "default"
+    },
+    {
+      "id": "18cee69a",
+      "name": "2Real - WhatsApp Catalogue Poster",
+      "schedule": "0 9 * * *",
+      "owner": "default"
+    },
+    {
+      "id": "0c0f87b5",
+      "name": "2Real - Jiji Lead Nudger (20/run)",
+      "schedule": "0 10 * * *",
+      "owner": "default"
+    },
+    {
+      "id": "cfaf31ec",
+      "name": "2Real — Monday Rider Availability Check",
+      "schedule": "0 19 * * 0",
+      "owner": "default"
+    },
+    {
+      "id": "a48d35a5",
+      "name": "2Real — Daily Jiji→Ledger Report",
+      "schedule": "30 4 * * *",
+      "owner": "default"
+    },
+    {
+      "id": "13a1edb0",
+      "name": "Monday — Kyei Rose Check-in",
+      "schedule": "0 10 * * 1",
+      "owner": "default"
+    },
+    {
+      "id": "495290ec",
+      "name": "2Real — Weekly Competitor & Price Scan",
+      "schedule": "30 5 * * 2",
+      "owner": "default"
+    },
+    {
+      "id": "ad2ac914",
+      "name": "2Real Open-Loops Tracker",
+      "schedule": "0 18 * * 1-6",
+      "owner": "default"
+    },
+    {
+      "id": "59e45888",
+      "name": "2Real — Daily Morning Brief (ONE, consolidated)",
+      "schedule": "0 7 * * *",
+      "owner": "default"
+    },
+    {
+      "id": "5659dd3c",
+      "name": "weekly-log-cleanup",
+      "schedule": "every sunday 4am",
+      "owner": "sat-nav"
+    },
+    {
+      "id": "73193b28",
+      "name": "system-health-watchdog",
+      "schedule": "every 240m",
+      "owner": "sat-nav"
+    },
+    {
+      "id": "f53d9845",
+      "name": "john-nss-term-review-reminder",
+      "schedule": "once at 2026-11-24 09:00",
+      "owner": "sat-nav"
+    },
+    {
+      "id": "c8044a34",
+      "name": "wikibot-prune-weekly",
+      "schedule": "every sunday 5am",
+      "owner": "sat-nav"
+    },
+    {
+      "id": "9f485428",
+      "name": "lifebot-family-daily",
+      "schedule": "38 6 * * *",
+      "owner": "sat-nav"
+    },
+    {
+      "id": "b3b614ed",
+      "name": "Duet — Next Actions & What-Do-I-Do-Next (proactive)",
+      "schedule": "30 6 * * *",
+      "owner": "sat-nav"
+    },
+    {
+      "id": "752d3404",
+      "name": "CFO — Weekly Dashboard (money in/out/saved auto-build)",
+      "schedule": "0 7 * * 0",
+      "owner": "sat-nav"
+    },
+    {
+      "id": "741523e0",
+      "name": "gbrain-vault-sync",
+      "schedule": "20 3 * * *",
+      "owner": "sat-nav"
+    },
+    {
+      "id": "67f07ef5",
+      "name": "fb-page-content-capture",
+      "schedule": "0 7 * * *",
+      "owner": "sat-nav"
+    },
+    {
+      "id": "c2867f68",
+      "name": "CEO — Weekly Forward Brief (list growth + pace + one move)",
+      "schedule": "0 9 * * 0",
+      "owner": "sat-nav"
+    },
+    {
+      "id": "99b05250",
+      "name": "Money 1:1 — weekly money-making dialogue",
+      "schedule": "0 10 * * 0",
+      "owner": "sat-nav"
+    },
+    {
+      "id": "623fc675",
+      "name": "2Real — Customer Inquiry Check (function-to-product)",
+      "schedule": "0 16 * * *",
+      "owner": "sat-nav"
+    },
+    {
+      "id": "0b66dc23",
+      "name": "Mission Control — daily refresh",
+      "schedule": "45 6 * * *",
+      "owner": "sat-nav"
+    },
+    {
+      "id": "3d775f42",
+      "name": "jiji-weekly-performance-harvest",
+      "schedule": "every saturday 7am",
+      "owner": "content-buddy"
+    },
+    {
+      "id": "97102385",
+      "name": "sunday-content-engine",
+      "schedule": "30 4 * * 0",
+      "owner": "content-buddy"
+    },
+    {
+      "id": "7c8fb59d",
+      "name": "brain-dump-parser",
+      "schedule": "0 8 * * *",
+      "owner": "content-buddy"
+    },
+    {
+      "id": "a52b43d3",
+      "name": "2Real Saturday Content Performance (FB + WhatsApp)",
+      "schedule": "11 4 * * 6",
+      "owner": "content-buddy"
+    },
+    {
+      "id": "001aa609",
+      "name": "weekly-learning-review",
+      "schedule": "13 9 * * 1",
+      "owner": "content-buddy"
+    }
+  ],
+  "routine_count": 57,
+  "jiji": {
+    "total": 1348,
+    "active": 1345,
+    "top_categories": [
+      [
+        "Hand Tools",
+        280
+      ],
+      [
+        "Electrical Hand Tools",
+        149
+      ],
+      [
+        "Video Games",
+        58
+      ],
+      [
+        "Vehicle Parts & Accessories",
+        55
+      ],
+      [
+        "Lighting",
+        54
+      ],
+      [
+        "Home Accessories",
+        46
+      ],
+      [
+        "Toys & Games",
+        44
+      ],
+      [
+        "Sports Equipment",
+        41
+      ]
+    ],
+    "top_by_chats": [
+      {
+        "title": "Panasonic Lumix Digital Camera With Battery a",
+        "chats": 37,
+        "views": 442,
+        "impressions": 1214,
+        "price": "GH₵ 980",
+        "status": "active"
+      },
+      {
+        "title": "Elite Construction Team Wanted - Foremen All ",
+        "chats": 20,
+        "views": 542,
+        "impressions": 3197,
+        "price": "Commission",
+        "status": "active"
+      },
+      {
+        "title": "LVYUAN 800w/2000w Pure Sine-Wave Power Invert",
+        "chats": 19,
+        "views": 224,
+        "impressions": 1022,
+        "price": "GH₵ 900",
+        "status": "active"
+      },
+      {
+        "title": "Female Private Driver",
+        "chats": 19,
+        "views": 766,
+        "impressions": 6099,
+        "price": "Commission",
+        "status": "active"
+      },
+      {
+        "title": "Skate Board Pre Owned From Uk",
+        "chats": 16,
+        "views": 120,
+        "impressions": 676,
+        "price": "GH₵ 400",
+        "status": "active"
+      }
+    ],
+    "ads_with_chats": 576,
+    "total_chats": 1555,
+    "total_impressions": 1250
+  },
+  "credits": {
+    "rem": 8.04,
+    "total": 420
+  },
+  "sales": {
+    "last": {
+      "date": "31/10/26",
+      "actual": 3185,
+      "cogs": 300,
+      "margin": "91%"
+    },
+    "week_total": 3185,
+    "rows": [
+      {
+        "date": "31/10/26",
+        "actual": 3185,
+        "cogs": 300,
+        "margin": "91%"
+      }
+    ]
+  },
+  "fb": {
+    "published": 22,
+    "recent": [
+      "attempt 0 -> PUBLISHED",
+      "LOGGED 12814086",
+      "attempt 0 -> PUBLISHED",
+      "LOGGED 8118186",
+      "12814086: published",
+      "8118186: published"
+    ]
+  }
+}

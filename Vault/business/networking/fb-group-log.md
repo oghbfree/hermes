@@ -21,3 +21,7 @@
 | 25/10 | GHANA MARKET PLACE | POST 1 provenance still (G1) · staged | G1-uk-tool-stack.png | — | — |
 | 25/10 | Construction Workers in Ghana | POST 2 trade still + farm-labour (G2) · staged | G2-tool-first-time.png | — | — |
 | 25/10 | Parents United GH | POST 5 Akoma (A1) · staged · 10wk Robotics Ages 7-14 | A1-akoma-parents-united.png | — | — |
+| 01/11 | Accra Buy and Sell | POST 2 trade still (G2) · staged | G2-tool-first-time.png | — | — |
+| 01/11 | GHANA MARKET PLACE | POST 1 provenance still (G1) · staged | G1-uk-tool-stack.png | — | — |
+| 01/11 | Construction Workers in Ghana | POST 2 trade still + farm-labour (G2) · staged | G2-tool-first-time.png | — | — |
+| 01/11 | Parents United GH | POST 5 Akoma (A1) · staged · 10wk Robotics Ages 7-14 | A1-akoma-parents-united.png | — | — |

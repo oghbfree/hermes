@@ -28,6 +28,7 @@
 | Date | Group | Job | What (item/angle) | Result (sales/leads/flips) | CTA used |
 |---|---|---|---|---|---|
 | 25/10 | (WA batch, staged) | SELL | POST 1 expat + POST 2 trade + POST 3 local + POST 4 catalogue (5 stills, paste-ready bundle) | staging for H approval | WhatsApp 0204252252 |
+| 01/11 | (WA batch, staged) | SELL | FRESH bundle 2026-11-01: POST 1 expat + POST 2 trade + POST 3 local + POST 4 catalogue (5 rotated stills, paste-ready) | staging for H approval · products rotated vs 25/10 | WhatsApp 0204252252 |
 
 ## Wins Feeder
 

@@ -35,7 +35,7 @@ _Last updated: 2026-10-18_
 | C-1117 | 2Real Thu Power & light (solar/inverters) + real-builders story | Post+h-story+reel#7 | IG/FB/Marketplace/WA/LI | Scheduled | Thu 29/10 | week-2026-10-26/thursday-2real · LVYUAN/Ring/NEBO · real photo |
 | C-1118 | Akoma Fri MYTH vs FACT | Post+reel#1 | IG/FB/TikTok/WA/LI | Scheduled | Fri 30/10 | week-2026-10-26/friday-akoma · split layout |
 | C-1119 | 2Real Sat Weekend deal Gorilla + testimonial | Post+testimonial+reel#3 | IG/FB/Marketplace/WA/LI | Scheduled | Sat 31/10 | week-2026-10-26/saturday-2real · MA LI KE quote |
-| C-1120 | Sunday 1/11 WA+FB group posts | Group adverts | 11 WA + 4 FB groups | Scheduled | Sun 1/11 | week-2026-10-26/sunday-groups/SUNDAY-GROUPS-PASTE-READY.md · AWAITING H approval |
+| C-1120 | Sunday 1/11 WA+FB group posts | Group adverts | 11 WA + 4 FB groups | Scheduled | Sun 1/11 | content-output/sunday-groups/2026-11-01/SUNDAY-GROUPS-PASTE-READY.md · 5 stills QC-PASS + 13 SlopMonster CLEAN · AWAITING H approval |
 | — | (Sunday broadcast/distribution RETIRED 04/10 — replaced by group adverts) | | | | | |
 
 ### Staged (generated, AWAITING H approval to post — nothing posts without H)

@@ -107,5 +107,16 @@
             "message_prepared": "Dear Hughie,\n\nHope you're doing well. Just a gentle reminder about the outstanding payment we discussed, which is still unsettled.\n\nI'd appreciate it if we could arrange settlement at your earliest convenience — if there's anything on your end or you need clarity, just let me know and we'll sort it out.\n\nKindly confirm a timeline for payment when you get a chance. Appreciate you.\n\nBest regards,\nH",
             "fallback_attempted": false,
             "notes": "To-the-point gentle reminder per CONTACTS.md (Associate — polite, professional). No precise amount on record for Hughie's debt, so kept generic. Cron bcc20c0ac526, schedule 5 10 */25 * *. Next run 2026-11-20."
-          }
-        ]
+                      },
+                      {
+                        "timestamp": "2026-11-01T10:05:00",
+                        "task": "payment_reminder",
+                        "recipient": "Hughie",
+                        "channel": "whatsapp",
+                        "status": "delivered",
+                        "reason": "WhatsApp gateway /health connected (uptime 141578s). `hermes send --to whatsapp:+447940081651` returned success (message_id 3EB0652D6AA531831D3A3B, chat 447940081651@s.whatsapp.net).",
+                        "message_prepared": "Dear Hughie,\n\nHope you're well. Just a gentle reminder about the outstanding payment we discussed, which is still unsettled. Kindly confirm a timeline for settlement when you can.\n\nBest regards,\nH",
+                        "fallback_attempted": false,
+                        "notes": "Kept to-the-point per job instruction (no elaboration). Tone per CONTACTS.md — Associate, polite and professional, gentle reminders. No precise amount on record for Hughie's debt, so kept generic. Cron schedule 5 10 */25 * *. Next run 2026-11-26."
+                      }
+                    ]
