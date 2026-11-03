@@ -6,7 +6,23 @@ because the module is re-imported fresh each call (config via env vars).
 import os, json, time, urllib.request
 from websocket import create_connection
 
-DEBUG_URL = os.environ.get("FB_CDP_URL", "http://localhost:64365")  # was 127.0.0.1:9222 (dead Brave listener, 404)
+_PORT_FILE = r"C:\Users\User\AppData\Local\hermes\browser-profile\chrome\DevToolsActivePort"
+
+def _live_cdp_url():
+    """Resolve the persistent business browser's HTTP CDP root from its DevToolsActivePort,
+    the SINGLE source of truth (Chrome launches it with --remote-debugging-port=0 = random,
+    so the actual port lives in this file each launch). Falls back to env override, then localhost:64365."""
+    if os.environ.get("FB_CDP_URL"):
+        return os.environ["FB_CDP_URL"].rstrip("/")
+    try:
+        port = open(_PORT_FILE).read().split("\n")[0].strip()
+        if port.isdigit():
+            return f"http://localhost:{port}"
+    except OSError:
+        pass
+    return "http://localhost:64365"  # dead unless the fixed-port launcher ran
+
+DEBUG_URL = _live_cdp_url()
 
 def list_tabs():
     data = json.loads(urllib.request.urlopen(DEBUG_URL + "/json", timeout=5).read())

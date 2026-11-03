@@ -112,7 +112,8 @@
 | 25 Oct | Porridge + 2 boiled eggs | Banku with grasscutter light soup | — |
 | 30 Oct | — | Boiled yam + kontomire stew (4pm, all) | — (khebab from son ~6:30pm; watermelon juice 7:35pm all) |
 | 31 Oct | Baked beans + 2 boiled eggs (all) · pineapple juice | Banku with pepper + fried fish (4pm, all) | — (early night ~7:40pm; none reported) |
-| 1 Nov | Ekoegbemi (10am, all) · tea (left little) | — (son + grandsons visited; no lunch logged) | Kokonte with tilapia (3:40pm — early per her request; all) 🌟 |
+| 1 Nov | Ekoegbemi (10am, all) · tea (left little) | — (son + grandsons visited; no lunch logged) | Kokonte with tilapia (3:40pm — early per her request; all) 🌟 · evening 🌊 watermelon juice 7:35pm (all) 🍉 |
+| 2 Nov | Corn dough porridge + 2 boiled eggs · tea 10:10am | — (pending afternoon) | — (pending evening) |
 
 > **Backfill complete (12 Oct 26):** Meals to 12 Oct. 🥛 **MILK SPOILT — discarded (strained w/ new cheesecloth + heated, still off; heat ≠ safe with spoiled milk). Perishable protocol: check on arrival, refrigerate immediately, date, carer spot-checks before serving.** Cheesecloth delivered 11 Oct ✓ (rider). Gentle swaps: Don Simon → watermelon juice; kelewele occasional.
 

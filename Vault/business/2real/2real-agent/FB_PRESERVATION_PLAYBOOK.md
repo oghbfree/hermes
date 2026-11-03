@@ -51,22 +51,24 @@ The flag was *deception / taking money*. Real triggers to eliminate:
    never re-post what's already listed.
 If ANY layer flags it: SKIP. No exceptions, no "but the queue says so."
 
-## 5. Re-entry plan (graduated trust — IN PROGRESS, Day 1 done 01/11/26)
-After a restriction is lifted, FB watches the account closely. Prove we're a
-good-faith seller before volume returns:
-- **DAY 1 DONE 01/11/26:** 3-item batch (Ring RTC2000 13427157, Luceco torch
-  13406906, Ryobi charger 16602816 — all Brand New, Jiji photos) published LIVE +
-  verified on the selling page. Stale pre-suspension registry purged first so the
-  poster treated them fresh.
-- **Week 1:** 2–3 listings/day, ONLY genuinely re-checked, honestly-described
-  high-trust items. Cron is GUARDED: Batch Poster runs ONCE daily 10:00, cap 3/day.
-- **Week 2:** ramp to 3–5/day if no friction.
-- **After 2 clean weeks:** re-raise the cron cap (recorded in DECISION_LOG) —
-  still one-per-product + variation + pacing. Until then 3/day is the hard cap.
-- **Any Meta signal** (flag, review, listing removal, warning) → STOP all posting,
-  report to H, don't fight it.
-- CRITICAL: **the cron runs DELIBERATE (once daily, 3/day cap), NOT the old
-  5×3 fire-and-forget burst** — that burst pattern is what reads as a bot/deceiver.
+## 5. Re-entry — SHELVED INDEFINITELY (H verdict 02/11/26)
+**DO NOT resume FB auto-posting at ANY rate.** 4 security lockouts on 02/11/26 —
+even running the guarded once-daily 3/day-cap cron — prove the batch-posting
+PATTERN itself (automation cadence / new-device / recent re-entry) is what Meta's
+security trips on, not volume. The recovery flow ("confirm this is your Meta
+account", may-have-been-hacked protection, not a content strike) is real, but
+repeating the automation keeps re-locking it. Therefore:
+- **All 3 FB crons stay PAUSED permanently** (Batch Poster 5128ceaa2c09,
+  Marketplace Monitor 0ef160b1c270, FB Messages Monitor 589664dd3068). Not
+  "guarded re-entry" — off.
+- **FB publishing returns ONLY when:** (a) H confirms the account is unlocked,
+  AND (b) H personally drives/counts each listing. The agent never auto-posts.
+  FB = H's manual, human-published channel. Agent holds Jiji/WhatsApp system-side
+  until H says otherwise.
+- **Any Meta signal** (flag, review, listing removal, lock, warning) → STOP all
+  FB activity immediately, report to H, don't fight it.
+- History retained for reference (Day 1 01/11/26 3-item batch Ring 13427157 /
+  Luceco 13406906 / Ryobi 16602816), but the re-raise cap plan is RETIRED.
 
 ## 6. What "preservation" means operationally (daily)
 - Visual + title = truth: condition, included-in-box, price, pickup/delivery.

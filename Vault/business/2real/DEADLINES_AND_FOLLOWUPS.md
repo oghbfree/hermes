@@ -10,8 +10,8 @@ Single source of truth for recurring hard deadlines and open loops that must not
 
 | Item | Due | Status | Next action |
 |------|-----|--------|-------------|
-| **Christmas UK order** | **31 Oct 2026** | 🔴 OPEN | Lock order; gap ~294 GH₵ to target — finalise by deadline |
-| **Market rent** | **22nd monthly** | 🟡 CONFIRM | Confirm Oct paid with account |
+| **Hagija balance (GH₵ 4,000)** | **2 Nov 2026 (today)** | 🔴 OPEN | Receivable — 7 Amazon toy bags sold 31 Oct (2,000 paid of 6,000); balance due from her brother. Chase today |
+| **Market rent** | **22nd monthly** | 🟡 CONFIRM | Confirm Nov payment with account |
 | **Fluid credit card** | **22nd monthly** | 🟢 AUTO (15th reminder job fires) | Pay ≥ minimum; aim £20–50+ above |
 | **Joycelyn payment (GH₵ 2,500)** | **31 Oct 2026** | 🟡 OPEN | Confirm status |
 | **Mum/Kenus spa day (GH₵ 10k)** | 21 Oct done | 🟡 CONFIRM | Outcome still unconfirmed — follow up |
@@ -49,4 +49,5 @@ No sourcing action taken automatically — H evaluates each for arbitrage. Suppl
 ## ✅ Resolved
 
 *(move items here with date when done)*
+- **Christmas UK order** — deadline passed 31 Oct 2026; order LOCKED 31 Oct, pivot to local suppliers (resolved 2 Nov 26). Xmas gap ~291 still tracked separately
 - **Olymech RFQ** — submitted 01 Oct (RFQ 6000997164) → now tracking as follow-up above

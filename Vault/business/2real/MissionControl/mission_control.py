@@ -135,6 +135,21 @@ def sales():
 try: D["sales"]=sales()
 except Exception as e: D["sales"]={"error":str(e)}
 
+# ---------- 6.5 FB MESSAGES MONITOR ----------
+def fb_messages():
+    fp=os.path.join(VAULT,"business","2real","MissionControl","fb_messages.json")
+    if not os.path.exists(fp): return {"status":"not-run","thread_count":0,"note":"monitor not run yet"}
+    d=json.load(open(fp,encoding='utf-8'))
+    # freshness: show a stale tag if the snapshot is >26h old
+    try:
+        gen=datetime.datetime.strptime(d.get("generated",""),"%Y-%m-%d %H:%M")
+        age=(datetime.datetime.now()-gen).total_seconds()
+        if age>26*3600 and d.get("status")=="ok": d["note"]=(d.get("note") or "")+" (stale >26h)"
+    except Exception: pass
+    return d
+try: D["fb_messages"]=fb_messages()
+except Exception as e: D["fb_messages"]={"status":"error","note":str(e)}
+
 # ---------- 6. FB ACTIVITY ----------
 def fb():
     pats=os.path.join(VAULT,"business","2real","2real-agent","channel_upload_package","*.txt")

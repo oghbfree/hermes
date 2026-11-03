@@ -8493,9 +8493,9 @@
   {
     "chat_id": "184220358025300",
     "first_seen": "2026-10-25 17:47",
-    "stage": "saved",
-    "purchases": 1,
-    "last_seen": "2026-10-25 17:48"
+    "stage": "review_sent",
+    "purchases": 2,
+    "last_seen": "2026-11-02 12:27"
   },
   {
     "chat_id": "4887706341575",
@@ -8568,8 +8568,8 @@
     "chat_id": "210806172070044",
     "first_seen": "2026-11-01 11:10",
     "stage": "saved",
-    "purchases": 1,
-    "last_seen": "2026-11-01 11:10"
+    "purchases": 2,
+    "last_seen": "2026-11-02 21:20"
   },
   {
     "chat_id": "276583680090147",
@@ -8577,5 +8577,38 @@
     "stage": "saved",
     "purchases": 1,
     "last_seen": "2026-11-01 12:36"
+  },
+  {
+    "chat_id": "251332980113513",
+    "first_seen": "2026-11-02 09:06",
+    "stage": "review_sent",
+    "purchases": 1
+  },
+  {
+    "chat_id": "182519601324279",
+    "first_seen": "2026-11-02 09:24",
+    "stage": "review_sent",
+    "purchases": 3,
+    "last_seen": "2026-11-02 09:24"
+  },
+  {
+    "chat_id": "54314894659610",
+    "first_seen": "2026-11-02 12:15",
+    "stage": "saved",
+    "purchases": 2,
+    "last_seen": "2026-11-02 13:58"
+  },
+  {
+    "chat_id": "192092932427949",
+    "first_seen": "2026-11-02 12:32",
+    "stage": "saved",
+    "purchases": 1,
+    "last_seen": "2026-11-02 12:34"
+  },
+  {
+    "chat_id": "70399010308349",
+    "first_seen": "2026-11-02 12:35",
+    "stage": "review_sent",
+    "purchases": 1
   }
 ]

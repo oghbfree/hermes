@@ -6,7 +6,23 @@ because the module is re-imported fresh each call (config via env vars).
 import os, json, time, urllib.request
 from websocket import create_connection
 
-DEBUG_URL = os.environ.get("FB_CDP_URL", "http://127.0.0.1:9222")  # live dedicated browser port (see launch_2real_browser.sh)
+_PORT_FILE = r"C:\Users\User\AppData\Local\hermes\browser-profile\chrome\DevToolsActivePort"
+
+def _live_cdp_url():
+    """Connect to the persistent business browser (browser-profile/chrome) at its ACTUAL port,
+    read live from DevToolsActivePort each import. Chrome launches it with a RANDOM debug port,
+    so any hardcoded port (old 9222 / 64365) is stale and makes bots spawn a fresh unlogged-in
+    browser. DevToolsActivePort is the single source of truth. Env FB_CDP_URL still overrides."""
+    # Prefer the live active port from the profile — even if a caller set a stale FB_CDP_URL.
+    try:
+        port = open(_PORT_FILE).read().split("\n")[0].strip()
+        if port.isdigit():
+            return f"http://localhost:{port}"
+    except OSError:
+        pass
+    return os.environ.get("FB_CDP_URL", "http://localhost:64365").rstrip("/")
+
+DEBUG_URL = _live_cdp_url()
 
 def list_tabs():
     data = json.loads(urllib.request.urlopen(DEBUG_URL + "/json", timeout=5).read())

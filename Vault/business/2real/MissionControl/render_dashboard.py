@@ -129,6 +129,13 @@ jitrend=(f"<div class='sub'>Jiji scale</div>"
 topchats="".join(f"<div class='chats'><span class='chats-t'>{E(t.get('title',''))}</span><span class='chats-n'>{t.get('chats')} chats</span></div>"
                  for t in (jiji.get('top_by_chats') or [])[:6])
 if not topchats: topchats="<div class='empty'>No per-listing chat data in the latest harvest.</div>"
+# ---- FB messages monitor block
+fbm=D.get("fb_messages",{}) or {}
+fbm_status=fbm.get("status","not-run"); fbm_n=fbm.get("thread_count",0); fbm_asks=fbm.get("threads_sampling_questions",0); fbm_note=fbm.get("note","")
+fbm_icon={"ok":"🟢","checkpoint-pending":"🔴","not-found":"🟠","error":"🟠","not-run":"⚪"}.get(fbm_status,"⚪")
+fbm_line=(f"<div class='fb-msg'><div class='fb-msg-top'><span>{fbm_icon} FB Marketplace Messages</span>"
+          f"<span class='fb-msg-n'>{fbm_n} threads</span></div>"
+          f"<div class='fb-msg-sub'>{E(fbm_status)} — {E((fbm_note or ('fills after you clear the checkpoint'))[:80])}</div></div>")
 
 html_out = """<!doctype html><html><head><meta charset="utf-8">
 <style>
@@ -176,6 +183,9 @@ h1 span{color:var(--acc)}
 .sub{font-size:11px;color:var(--muted);margin-bottom:8px;text-transform:uppercase;letter-spacing:.4px}
 .cat,.chats{display:flex;justify-content:space-between;padding:5px 0;border-top:1px solid var(--line);font-size:12.5px}
 .cat-name,.chats-t{color:#cbd5e1}
+.fb-msg{border-top:1px solid var(--line);padding-top:8px}
+.fb-msg-top{display:flex;justify-content:space-between;font-size:12.5px;font-weight:600;align-items:center}
+.fb-msg-sub{font-size:11px;color:var(--muted);margin-top:3px}
 .cat-n,.chats-n{color:var(--acc);font-weight:600;font-variant-numeric:tabular-nums}
 @media(max-width:1100px){.cols{grid-template-columns:1fr}.fb-grid{grid-template-columns:1fr}}
 </style></head><body>
@@ -197,7 +207,8 @@ h1 span{color:var(--acc)}
 <div class="botstrip"><h2>🌐 Jiji & Facebook — market trends</h2>
   <div class="fb-grid">
     <div><div class="sub">Jiji top categories</div><div id="jcat">{{JCATS}}</div>{{JITREND}}</div>
-    <div><div class="sub">Top listings by chats</div><div id="jchats">{{JCHATS}}</div></div>
+    <div><div class="sub">Top listings by chats</div><div id="jchats">{{JCHATS}}</div>
+      <div style="margin-top:10px">{{FBM}}</div></div>
   </div></div>
 
 <script>
@@ -217,7 +228,8 @@ html_out=(html_out.replace("{{DAY}}",E(day)).replace("{{GEN}}",E(gen))
           .replace("{{RTN}}",str(len(D.get('routines',[]))))
           .replace("{{ROUTINES}}",group_html)
           .replace("{{JCATS}}",jcats).replace("{{JCHATS}}",topchats)
-          .replace("{{JITREND}}",jitrend))
+          .replace("{{JITREND}}",jitrend)
+          .replace("{{FBM}}",fbm_line))
 outp=os.path.join(BASE,"MissionControl.html")
 open(outp,"w",encoding='utf-8').write(html_out)
 print("Dashboard written:",outp,"|",len(html_out),"bytes")
