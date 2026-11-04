@@ -83,6 +83,7 @@ Append one line per day. The 4:30 AM briefing reads this file.
 | DATE | ACTUAL (GHS) | COGS (GHS) | MARGIN% | TOP SKUs | NOTES |
 |------|--------------|------------|---------|----------|-------|
 | 31/10/26 Sat | 3,185 | 300 | 91% | Walk-in: Performance Power 210mm slide compound Mitre saw (725, cost £17). Walk-in: 4-plug extension (80, cost £3). **Hagija**: 7 Amazon bags of toys (2,000 paid of 6,000; balance 4,000 due Mon from her bro). Jiji: Maxell CD-RW 80 × 2 @190 = 380 | **COGS £20 @15 = 300** (Mitre £17 + extension £3). Toys cost not stated — flag. **Hagija balance 4,000 = RECEIVABLE, due Monday (her bro). Charge Monday.** Electronics-hold: Sat was TV+speaker test/reorganise day |
+| 03/11/26 Tue |  | 25 | 7.5 | 70% | Jiji: Virtabrim D.V.D-R @25 — buyer **+233 57 767 4601** | **COGS £0.50 @15 = 7.5** (DVD-R unit cost). **Margin 70%, profit 17.5** |
 
 ## How to Use
 Each evening (or next morning before 4:30 AM), add one line:

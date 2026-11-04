@@ -91,3 +91,74 @@ Mood: Fair
 Appetite: Fair
 Swelling: Same
 Skin: Okay
+
+## 2026-11-03 12:34 (from 233548236698) [PROCESSED]
+- 2/11/2026 AFTERNOON REPORT [PROCESSED]
+@11:10am: Vital signs was BP: 123/62, P: 78, T: 36.0
+@12pm: She was laying in her bed with her eyes closed.
+@12:46pm: She came to sit in her sofa in the living room and had a chat with her carer for about 30mins.
+@1:30pm: She went back to her room, Carer went to check up on her but she was asleep so she went back.
+@2pm: She was still sleeping soundly, her room was also well ventilated.
+@3:25pm: She came to the living room and had interactions with Sammy who paid a brief visit.
+@4pm: Baked beans with fried plantain and was brought to her and she ate all of it.
+LOG KEYS
+Mood: Fair
+Appetite: Fair
+Swelling: Same
+Skin: Okay
+
+## 2026-11-03 12:35 (from 233548236698) [PROCESSED]
+- 2/11/2026 EVENING REPORT [PROCESSED]
+@5:12pm: She came to the living room, turned on the tv and started watching.
+@5:36pm: She was still sitting in the living room watching tv, carer came to sit by her and they watched tv together.
+@7:10pm: She went to her room.
+@7:30pm: She was sitting on her bed, looking through her phone.
+@7:42pm: Orange juice was brought to her.
+@7:50pm: She was laying in her bed, covered with bed sheets.
+@8pm: They bid each other goodnight.
+LOG KEYS
+Mood: Fair
+Appetite: Fair
+Swelling: Same
+Skin: Okay
+
+## 2026-11-03 12:37 (from 233548236698) [PROCESSED]
+- 3/11/2026 MORNING REPORT [PROCESSED]
+@7am: A quick check was done and she said she is feeling okay.
+@7:45am: She came to sit in the living room for about an hour.
+@8:40am: She was sitting in the living room, chatting with her carer.
+@9:25am: She went back to her room and sat on her bed.
+@10am: Breakfast (Obrayo) was brought to her and she ate all of it.
+@10:50am: Vital signs was BP: 133/64, P: 70, T: 36.4
+LOG KEYS
+Mood: Fair
+Appetite: Fair
+Swelling: Same
+Skin: Okay
+
+## 2026-11-04 00:29 (from 233548236698)
+- 3/11/2026 AFTERNOON REPORT
+@12pm: She was laying in her bed with her eyes closed.
+@12:52pm: She went for a walk around the house.
+@1:30pm: She went back to her room and sat on her bed.
+@2pm: She was sitting on her bed, watching videos on her phone
+@3pm: She was sleeping soundly in her bed.
+@4pm: Kenkey with pepper and fried fish was brought to her and she ate all of it.
+LOG KEYS
+Mood: Fair
+Appetite: Fair
+Swelling: Same
+Skin: Okay
+3/11/2026 EVENING REPORT
+@5pm: She came to the living room, turned on the tv and started watching.
+@5:42pm: She was still sitting in the living room watching tv, she called carer and complained about dizziness after she turned on the tv. Carer told her to turn off the tv but she said it’s okay now and it only happened briefly.
+@6pm: She was still watching tv.
+@6:33pm: Carer came to sit by her and she had a brief chat with her and she went to her room. Carer told her to relax her eyes so the dizziness doesn’t happen again.
+@7pm: She went to her room.
+@7:35pm: Carer went to her room and asked her if she wants any juice but she said no.
+@7:40pm: They bid each other goodnight.
+LOG KEYS
+Mood: Fair
+Appetite: Fair
+Swelling: Same
+Skin: Okay

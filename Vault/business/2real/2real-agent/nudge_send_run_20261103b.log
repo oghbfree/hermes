@@ -1,0 +1,25 @@
+TODO: 22 nudgable leads (cap 50)
+[1/22] ok: YANKSON ROSE | verified in thread
+[2/22] fail: Thorin | Connection timed out
+[3/22] fail: Maame Afia Spa | Connection timed out
+[4/22] fail: Enock Dickson | Connection timed out
+[5/22] fail: MIS Info Solutions | Connection timed out
+[6/22] fail: Anita Kyei | Connection timed out
+[7/22] fail: Monica Asante | Connection timed out
+[8/22] fail: kwame frempong | Connection timed out
+[9/22] fail: Issah Jerry | [WinError 10054] An existing connection was forcibly closed 
+[10/22] fail: Yayra Amanda Toppar | [WinError 10054] An existing connection was forcibly closed 
+[11/22] fail: Selorm Atupra | [WinError 10054] An existing connection was forcibly closed 
+[12/22] fail: Tetekwaaframoa Enterprise | [WinError 10054] An existing connection was forcibly closed 
+[13/22] fail: anthony ahiataku | [WinError 10054] An existing connection was forcibly closed 
+[14/22] fail: Marshall Kwabena | [WinError 10054] An existing connection was forcibly closed 
+[15/22] fail: Rebecca Boamah | [WinError 10054] An existing connection was forcibly closed 
+[16/22] fail: Adams Maxwell | [WinError 10054] An existing connection was forcibly closed 
+[17/22] fail: kojo tee | [WinError 10054] An existing connection was forcibly closed 
+[18/22] fail: rols Degui | [WinError 10054] An existing connection was forcibly closed 
+[19/22] fail: Nana Yaw Osam-Dade | [WinError 10054] An existing connection was forcibly closed 
+[20/22] fail: Rushnot Studios | [WinError 10054] An existing connection was forcibly closed 
+[21/22] fail: Bless Otiboe | [WinError 10054] An existing connection was forcibly closed 
+[22/22] fail: Gettrude Abban | [WinError 10054] An existing connection was forcibly closed 
+
+DONE: 1 sent, 0 skipped, 21 failed. Queue now 300
