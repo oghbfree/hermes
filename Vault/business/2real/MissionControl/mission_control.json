@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-03 06:45",
-  "day": "Tuesday 03 Nov 2026",
+  "generated": "2026-11-04 06:45",
+  "day": "Wednesday 04 Nov 2026",
   "kanban": {
     "total": 272,
     "unique": 125,
@@ -801,20 +801,20 @@
   ],
   "routine_count": 55,
   "jiji": {
-    "total": 1348,
-    "active": 1345,
+    "total": 1367,
+    "active": 1360,
     "top_categories": [
       [
         "Hand Tools",
-        280
+        278
       ],
       [
         "Electrical Hand Tools",
-        149
+        147
       ],
       [
         "Video Games",
-        58
+        57
       ],
       [
         "Vehicle Parts & Accessories",
@@ -822,7 +822,7 @@
       ],
       [
         "Lighting",
-        54
+        53
       ],
       [
         "Home Accessories",
@@ -830,7 +830,7 @@
       ],
       [
         "Toys & Games",
-        44
+        45
       ],
       [
         "Sports Equipment",
@@ -884,8 +884,8 @@
     "total_impressions": 1250
   },
   "credits": {
-    "rem": 4.91,
-    "total": 420
+    "error": "<urlopen error [Errno 11001] getaddrinfo failed>",
+    "rem": null
   },
   "sales": {
     "last": {
@@ -911,7 +911,7 @@
     "thread_count": 0,
     "threads_sampling_questions": 0,
     "threads": [],
-    "note": "0 buyer conversation rows rendered — inbox empty, off the marketplace inbox view, or the checkpoint wall is up."
+    "note": "0 buyer conversation rows rendered — inbox empty, off the marketplace inbox view, or the checkpoint wall is up. (stale >26h)"
   },
   "fb": {
     "published": 22,

@@ -136,8 +136,8 @@ Appetite: Fair
 Swelling: Same
 Skin: Okay
 
-## 2026-11-04 00:29 (from 233548236698)
-- 3/11/2026 AFTERNOON REPORT
+## 2026-11-04 00:29 (from 233548236698) [PROCESSED]
+- 3/11/2026 AFTERNOON REPORT [PROCESSED]
 @12pm: She was laying in her bed with her eyes closed.
 @12:52pm: She went for a walk around the house.
 @1:30pm: She went back to her room and sat on her bed.
@@ -157,6 +157,51 @@ Skin: Okay
 @7pm: She went to her room.
 @7:35pm: Carer went to her room and asked her if she wants any juice but she said no.
 @7:40pm: They bid each other goodnight.
+LOG KEYS
+Mood: Fair
+Appetite: Fair
+Swelling: Same
+Skin: Okay
+
+## 2026-11-04 13:20 (from 233548236698) [PROCESSED]
+- 4/11/2026 MORNING REPORT [PROCESSED]
+@7am: Carer went to check up on her but she was still asleep.
+@8am: A quick check was done and she said she is feeling okay.
+@8:20am: She came to living room and went to the kitchen, then put the kettle on plug. Carer told her she’ll bring it when the hot water is ready and she agreed.
+@8:30am: Masseuse called carer and told her she’ll be coming today. Carer passed on the message to Madam Comfort and she told carer to turn off the kettle because she will put her bathing on hold.
+@9:10am: She was sitting on her bed.
+@10am: Breakfast (Tigernut porridge and 2 boiled eggs) was brought to her and she ate all of it.
+@10:50am: Vital signs was BP: 123/64, P: 76, T: 36.7
+LOG KEYS
+Mood: Fair
+Appetite: Fair
+Swelling: Same
+Skin: Okay
+
+## 2026-11-04 21:28 (from 233548236698)
+- 4/11/2026 AFTERNOON REPORT
+@11:13am: She was askeep in her bed.
+@11:40am: Her masseuse came and had a massage session with her for about an hour and left.
+@12:46pm: Her masseuse left, carer asked her how she’s feeling after the session and she said she is feeling good. 
+@1:30pm: Carer went to check up on her and she was sleeping soundly.
+@2pm: She was still sleeping soundly, her room was also well ventilated.
+@3:25pm: Carer went to check up on her and she was sitting on her bed. They had a brief chat.
+@4:08pm: Mpotompoto was brought to her and she ate all of it.
+LOG KEYS
+Mood: Fair
+Appetite: Fair
+Swelling: Same
+Skin: Okay
+4/11/2026 EVENING REPORT
+@4:49pm: She came to sit in the living room.
+@5pm: She asked for pineapple juice which was brought to her.
+@5:30pm: She turned on the tv and started watching.
+@5:54pm: She was still sitting in the living room watching tv, carer came to sit by her and they watched tv together.
+@7:22pm: She went to her room.
+@7:28pm: Carer asked if she should bring her watermelon juice and she said the pineapple juice she took is enough.
+@7:40pm: She was sitting on her bed, looking through her phone.
+@8pm: She was laying in her bed, covered with bed sheets.
+@8:03pm: They bid each other goodnight.
 LOG KEYS
 Mood: Fair
 Appetite: Fair

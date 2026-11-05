@@ -366,6 +366,8 @@ gateway:
   allow_all_users: true
   api_server:
     max_concurrent_runs: 10
+    host: 127.0.0.1
+    port: 8642
   max_inbound_media_bytes: 134217728
   media_delivery_allow_dirs: []
   message_timestamps:
@@ -875,3 +877,7 @@ x_search:
   model: grok-4.20-reasoning
   retries: 2
   timeout_seconds: 180
+bot_peers:
+  home:
+    url: http://127.0.0.1:8642
+    note: local default gateway (multiplexes content-buddy + taiwah)
