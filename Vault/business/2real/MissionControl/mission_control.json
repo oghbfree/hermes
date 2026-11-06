@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-04 06:45",
-  "day": "Wednesday 04 Nov 2026",
+  "generated": "2026-11-06 07:01",
+  "day": "Friday 06 Nov 2026",
   "kanban": {
     "total": 272,
     "unique": 125,
@@ -884,8 +884,8 @@
     "total_impressions": 1250
   },
   "credits": {
-    "error": "<urlopen error [Errno 11001] getaddrinfo failed>",
-    "rem": null
+    "rem": 2.25,
+    "total": 430
   },
   "sales": {
     "last": {

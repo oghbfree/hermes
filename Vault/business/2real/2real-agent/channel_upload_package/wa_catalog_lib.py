@@ -26,20 +26,13 @@ WA_OPEN_CATALOGUE = """(() => {
 })()"""
 
 WA_ADD_ITEM_CARD = """(() => {
-  const leaf=[...document.querySelectorAll('*')].filter(e=>e.offsetParent!==null&&(e.textContent||'').trim()==='Add new item'&&e.children.length===0);
-  const gc=(leaf[0]||{}).closest?leaf[0].closest('[role=gridcell]'):null;
-  if(!gc) return 'gone';
-  // scroll the catalogue scroll-container to TOP so add cards are visible (proven fix 13 Oct 26)
-  let el=gc;
-  for(let i=0;i<10;i++){ el=el.parentElement||el;
-    if(el.scrollTop!==undefined && el.scrollHeight>el.clientHeight+20 && el.clientWidth>250){ el.scrollTop=0; } }
-  const rc=gc.getBoundingClientRect();
-  // now pick the FIRST VISIBLE gridcell labelled 'Add new item' (x>40, y>40) if one exists
-  const v=[...document.querySelectorAll('[role=gridcell]')].filter(e=>e.offsetParent!==null&&(e.textContent||'').trim()==='Add new item'&&e.children.length===0)
-    .map(e=>{const r=e.getBoundingClientRect();return{x:r.x+r.width/2,y:r.y+r.height/2,vis:r.x>40&&r.y>40&&r.y<innerHeight-40};})
-    .find(o=>o.vis);
-  if(v) return JSON.stringify(v);
-  return JSON.stringify({x:rc.x+rc.width/2,y:rc.y+rc.height/2});
+  // pick the FIRST VISIBLE leaf node whose text is exactly 'Add new item',
+  // regardless of role (WA may render it as DIV, not gridcell).
+  const cand=[...document.querySelectorAll('*')].filter(e=>e.offsetParent!==null&&(e.textContent||'').trim()==='Add new item'&&e.children.length===0)
+    .map(e=>{const r=e.getBoundingClientRect();return{x:r.x+r.width/2,y:r.y+r.height/2,vis:r.x>10&&r.y>5&&r.y<innerHeight-10&&r.width>20&&r.height>10};});
+  const v=cand.find(o=>o.vis)||cand[0];
+  if(!v) return 'gone';
+  return JSON.stringify(v);
 })()"""
 
 def wa_trusted_click(x, y):

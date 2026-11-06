@@ -10,7 +10,7 @@ Single source of truth for recurring hard deadlines and open loops that must not
 
 | Item | Due | Status | Next action |
 |------|-----|--------|-------------|
-| **Hagija balance (GH₵ 4,000)** | **2 Nov 2026 (today)** | 🔴 OPEN | Receivable — 7 Amazon toy bags sold 31 Oct (2,000 paid of 6,000); balance due from her brother. Chase today |
+| **Hagija balance (GH₵ 4,000)** | **2 Nov 2026 — OVERDUE** | 🔴 OPEN | Receivable — 7 Amazon toy bags sold 31 Oct (2,000 paid of 6,000); balance due from her brother. Chase |
 | **Market rent** | **22nd monthly** | 🟡 CONFIRM | Confirm Nov payment with account |
 | **Fluid credit card** | **22nd monthly** | 🟢 AUTO (15th reminder job fires) | Pay ≥ minimum; aim £20–50+ above |
 | **Joycelyn payment (GH₵ 2,500)** | **31 Oct 2026** | 🟡 OPEN | Confirm status |
@@ -28,6 +28,7 @@ Single source of truth for recurring hard deadlines and open loops that must not
 | **act ICT — 500W inverters @ GH₵ 970** | 20 Oct | daily-sales-log 20/10 | Confirm quantity (qty not stated); add to total |
 | **White paint — price & cost** | 22 Oct | daily-sales-log 22/10 | Confirm price + cost for COGS entry |
 | **Theresa Elorm Seshie — kids 43pc set** | 10 Oct | daily-sales-log | Cost not stated (sold 195) — confirm for COGS; potential repeat Xmas party orders |
+| **Hagija toys COGS** | 31 Oct | daily-sales-log 31/10 | 7 Amazon toy bags sold (2,000 paid) — cost not stated; confirm for COGS entry |
 | **B2B repeat-buyer broadcast** | ongoing | b2b-wholesale-leads.md + sales log | WhatsApp **Eric** (Enterprise Ins) when office/IT stock lands; **Dr Lomotey** (Cocoa Clinic) for furniture/office; **tool lover** 0245849519 for mechanic's tools; **Edwin Kwabena Adubofuor** (0550253348, contractor w/ ministries contract); **Theophilus** (0500599813, Airbnb host); **Emmanuel** (tennis Mon) for rackets/sports |
 
 ---

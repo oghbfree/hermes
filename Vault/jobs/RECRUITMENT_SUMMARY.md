@@ -4,8 +4,8 @@
 
 ### Totals
 
-- **76 total applicants** (updated 2026-11-04)
-- **Nurses: 56** (NMC + 3-5yrs experience: 8/56, top pick: Charlotte Nortey - NMC + car + licence)
+- **77 total applicants** (updated 2026-11-05)
+- **Nurses: 57** (NMC + 3-5yrs experience: 8/57, top pick: Charlotte Nortey - NMC + car + licence)
 - **Facilitators: 4** (Eyiah #1, Patrick Bediako #2, Kwaku #3, Courage Agbalekpor #4)
 - **Construction: 14** (Awal #1, Kwame #2, Derrick #3, Amane John #4, Amuzu #5, Woedzagbagba #6, Eric #7, Arthur Kofi Shadrack #8, Benjamin Kotey #9 - laborer, below threshold)
 - **Financial Literacy: 2** (Felix Boateng #1, Benjamin Lolo #2)
@@ -36,16 +36,17 @@
 **Facilitator #1: Eyiah Michael Osardu**
 - BSc IT | mBot exp | Coding 5/5 | Mon-Fri avail
 
-### New This Pull (2026-11-04)
+### New This Pull (2026-11-05)
 
-**1 new application** since 2026-11-02: **Rebecca Boamah** (nurse — Diploma RN, Teshie; BELOW THRESHOLD: not NMC-registered "Not ready yet", 0-2yrs geriatric, no licence/car; can do both live-in/commute). Pipeline totals now **76**.
+**1 new application** since 2026-11-04: **Adams Maxwell** (nurse — Diploma Nursing, Sowutum/Accra; BELOW THRESHOLD: not NMC-registered "Not yet", 0-2yrs geriatric, no licence/car; Live-in). Pipeline totals now **77**.
 
-### Latest Pull (2026-11-04)
+### Latest Pull (2026-11-05)
 
-**1 new application** since 2026-11-02 (Rebecca Boamah, nurse — below threshold). Token refreshed 2026-11-04. Pipeline totals **76** (56 nurses, 14 construction, 4 facilitators, 2 financial literacy; priority counts recomputed from live data: nurses 8, construction foreman+6yrs 7, facilitators 2, fin-lit 2).
+**1 new application** since 2026-11-04 (Adams Maxwell, nurse — below threshold). Token refreshed 2026-11-05. Pipeline totals **77** (57 nurses, 14 construction, 4 facilitators, 2 financial literacy; priority counts recomputed from live data: nurses 8, construction foreman+6yrs 7, facilitators 2, fin-lit 2).
 
 ### Detailed Reports
 
+- [[jobs/APPLICATIONS-REPORT-2026-11-05.md]] (+1 nurse below threshold: Adams Maxwell; token refreshed; priority counts recomputed 8/7/2/2)
 - [[jobs/APPLICATIONS-REPORT-2026-11-04.md]] (+1 nurse below threshold: Rebecca Boamah; token refreshed; priority counts recomputed 8/7/2/2)
 - [[jobs/APPLICATIONS-REPORT-2026-11-02.md]] (+1 nurse priority: Ashleyn Livingstone; token refreshed; priority counts recomputed 8/7/2/2)
 - [[jobs/APPLICATIONS-REPORT-2026-11-01.md]] (0 new apps; token refreshed; priority counts recomputed 7/7/2/2)
@@ -107,10 +108,10 @@
 
 ### Status
 
-- **Google Sheets Auth: ACTIVE** - Token refreshed 2026-11-04
-- Last successful pull: 2026-11-04
+- **Google Sheets Auth: ACTIVE** - Token refreshed 2026-11-05
+- Last successful pull: 2026-11-05
 - All 4 pipelines accessible
-- 1 new application since 2026-11-02
+- 1 new application since 2026-11-04 (Adams Maxwell, nurse — below threshold)
 
 ## Related
 

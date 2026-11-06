@@ -178,8 +178,8 @@ Appetite: Fair
 Swelling: Same
 Skin: Okay
 
-## 2026-11-04 21:28 (from 233548236698)
-- 4/11/2026 AFTERNOON REPORT
+## 2026-11-04 21:28 (from 233548236698) [PROCESSED]
+- 4/11/2026 AFTERNOON REPORT [PROCESSED]
 @11:13am: She was askeep in her bed.
 @11:40am: Her masseuse came and had a massage session with her for about an hour and left.
 @12:46pm: Her masseuse left, carer asked her how she’s feeling after the session and she said she is feeling good. 
@@ -202,6 +202,51 @@ Skin: Okay
 @7:40pm: She was sitting on her bed, looking through her phone.
 @8pm: She was laying in her bed, covered with bed sheets.
 @8:03pm: They bid each other goodnight.
+LOG KEYS
+Mood: Fair
+Appetite: Fair
+Swelling: Same
+Skin: Okay
+
+## 2026-11-05 12:32 (from 233548236698) [PROCESSED]
+- 5/11/2026 MORNING REPORT [PROCESSED]
+@6:40am: Her son paid a brief visit, she had some interactions with him and he left.
+@6:55pm: She took a walk on the compound and came back to her room.
+@7:38am: A quick check was done and she said she is feeling okay.
+@7:45am: She came to sit in the living room for about 20mins, while her carer change her bedsheets and clean her room.
+@8:40am: She had a brief chat with her carer.
+@9:36am: She was laying on her bed.
+@10am: Breakfast (Ekoegbemi) was brought to her and she ate all of it.
+@10:15am: She requested for tea which was brought to her.
+@11am: Vital signs was BP: 126/64, P: 67, T: 36.4
+LOG KEYS
+Mood: Fair
+Appetite: Fair
+Swelling: Same
+Skin: Okay
+
+## 2026-11-05 19:23 (from 233548236698) [PROCESSED]
+- 5/11/2026 AFTERNOON REPORT [PROCESSED]
+@12pm: She was laying in her bed with her eyes closed.
+@12:50pm: She had a hat with her carer about an hour.
+@1:30pm: She was still sitting on her bed, chatting with her carer.
+@2pm: She had the AVS medication.
+@3pm: She had a chat with her carer for about 30mins.
+@4pm: Banku with Okro stew was brought to her and she ate all of it.
+LOG KEYS
+Mood: Fair
+Appetite: Fair
+Swelling: Same
+Skin: Okay
+
+## 2026-11-05 21:13 (from 233548236698) [PROCESSED]
+- 5/11/2026 EVENING REPORT [PROCESSED]
+@4:50pm: She asked for watermelon juice which was brought to her.
+@5:30pm: She came to sit in the living room, turned on the tv and started watching.
+@6pm: She was still sitting in the living room watching tv, carer came to sit by her and they watched tv together.
+@7:02pm: She went to her room.
+@7:25pm: She was sitting on her bed, looking through her phone.
+@8pm: She was laying in her bed, covered with bed sheets. They bid each other goodnight.
 LOG KEYS
 Mood: Fair
 Appetite: Fair
