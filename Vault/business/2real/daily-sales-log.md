@@ -86,6 +86,7 @@ Append one line per day. The 4:30 AM briefing reads this file.
 | 03/11/26 Tue |  | 25 | 7.5 | 70% | Jiji: Virtabrim D.V.D-R @25 — buyer **+233 57 767 4601** | **COGS £0.50 @15 = 7.5** (DVD-R unit cost). **Margin 70%, profit 17.5** |
 | 04/11/26 Wed |  | 40 | 24 | 40% | Walk-in: 4× spray paint @10 = 40 | **COGS £1.60 @15 = 24** (4 × 40p can unit cost). **Margin 40%, profit 16.** Sprays = repeat line still moving |
 | 05/11/26 Thu |  | 200 | 45 | 78% | Gorilla Mounting Tape Heavy-Duty, Double-Sided 1.5m @200 | **COGS £3 @15 = 45**. **Margin 78%, profit 155.** Gorilla line keeps moving — repeat geometry |
+| 06/11/26 Fri |  | 1,680 | 625 | 63% | Walk-in (wife's Dome deals, old customers): 10× spray paint @100 (cost 40p/can = £4). Walk-in: Colander 80 (cost £1). Jiji **Angelina**: Dunlop M-Fil 700 racket 600 (bought 250 on 30/10). Jiji **Mr Tweneboah**: Sony XB100 wireless speaker 700 (cost £15) — **NEEDS RECEIPT**. Walk-in: touch desk lamp 200 (cost £5). | **COGS 625** (spray 60 + colander 15 + rack 250 + speaker 225 + lamp 75). **Margin 63%, profit 1,055.** Tweneboah = 700/1 sale (electron, needs receipt); **Angelina** = the racket. **ACTION: close both Jiji ads after H confirms — Dunlop racket + Sony speaker.** Mark sold (accurate desc). Live watcher flagged 13:38 follow-up "+233 57 770 0555 still haven't gotten back to me" — pending |
 
 ## How to Use
 Each evening (or next morning before 4:30 AM), add one line:

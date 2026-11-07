@@ -880,4 +880,4 @@ x_search:
 bot_peers:
   home:
     url: http://127.0.0.1:8642
-    note: local default gateway (multiplexes content-buddy + taiwah)
+    note: local default gateway (multiplexes content-buddy + taiwah) [re-registered 06/11/26]

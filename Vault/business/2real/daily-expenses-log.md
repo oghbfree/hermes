@@ -26,3 +26,9 @@
 - Mr Swindoll (Dome walk-in) promotes **Commando Balm** — accepted 5 pieces as part-payment for Bosch jigsaw (300) + JBL Eon engine (30). Barter accepted at Dome; Sammy field-tested with success.
 | 30/10/26 | Tennis rackets restock — Dunlop Revelation Exact (Gold/Black) 250 + Dunlop M-Fil 700 (Orange/Silver) 250 + Artengo Tennis Bag 100 | 600 | business | New inventory purchase for resale. Plus delivery 34 GH (below). |
 | 30/10/26 | Tennis racket/bag delivery | 34 | business | Carrier delivery for the 600 packet above. |
+| 06/11/26 | masterpaul — conversion discount | -1000 (off, not paid) | vehicle | masterpaul took 1,000 off the Kia Rio LHD conversion because the car tape has stopped working (credit, reduces conversion balance) |
+| 06/11/26 | Welder — straighten the Kia | 800 | vehicle | Paid to straighten the Kia Rio |
+| 06/11/26 | Kasoa — mend silver trim on bumper | 150 | vehicle | Bumper trim repair (Kasoa) |
+| 06/11/26 | Solo sprayer — spraying | 2500 charged (1,500 PAID, 1,000 due) | vehicle | Spraying job; paid 1,500 so far, balance 1,000 |
+| 06/11/26 | Solo sprayer — oven | 300 charged (pending) | vehicle | Oven component of spraying quote; payment status pending |
+| 06/11/26 | Sony XB100 receipt (Mr Tweneboah 700 sale) | — | vehicle/governance | **ACTION: prepare receipt for Tweneboah's Sony XB100** |

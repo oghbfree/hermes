@@ -1,4 +1,9 @@
 
+## 06/11/26 — CONTENT ROLE REORG + PRODUCTION MODEL (owner directive, relayed via @taiwah + direct)
+REORG (H): Taiwah now PUBLISHES VIDEOS ONLY — no idea/reasoning/content-creation for her own or any content. content-buddy (Kofi) owns ALL reasoning + content-creation for (a) Taiwah's own content and (b) all 2Real AND Akoma content. sat-nav coordinates + builds/places files. Taiwah holds all rebuild/publish video work until H issues the new instruction.
+REEL-2 CORRECTION (owner-rejected): the "one hand tool pulled FROM A BELT" action beat (Beat B3) is WRONG — do NOT render a belt-pull again. Reel 2's action beat reverts to the earlier style: the BOSCH power tool pulled from OFF-SCREEN (beat-2 style). Any shotlist/storyboard with a belt-pull must be reverted before render.
+PRODUCTION MODEL (planning vs generation split, H): Kofi = PLANNING "thinking" model on DeepSeek V4.1 Flash (OpenRouter) — script, shot list, per-clip prompts with camera/lighting/pacing/motion, 4–6 shots per 30s. Kofi also does ALL other content types + generic videos. Taiwah = VIDEO MODEL: Alibaba Wan 3.0 (single 30s pass) + ByteDance Seedance 2.0 (multiple image-to-video/keyframe clips for seamless transitions). Voice = LOCKED fixed asset (persist a Voice ID/Clone; current default edge-tts en-NG-EzinneNeural). All recorded in weekly-brand-content-production skill.
+
 ## 02/11/26 — FB ACCOUNT LOCKED — FULL STOP (Meta security lockout)
 Meta locked 'Oman Ghan' account on 02/11/26 ('may have been hacked' protective lockout — not a content violation).
 SOURCES: FB UI the DAY the Week-1 batch was verified could also have been flagged; regardless per FB preservation doctrine → ANY Meta signal = STOP ALL automation.

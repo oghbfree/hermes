@@ -116,7 +116,7 @@
 | 2 Nov | Corn dough porridge + 2 boiled eggs · tea 10:10am | **Baked beans + fried plantain** (4pm, all) | **Orange juice** (7:42pm; no solid dinner reported — orange = phase-out 🍊) |
 | 3 Nov | **Obrayo** (10am, all) · tea | **Kenkey + pepper + fried fish** (4pm, all) ⚠️ fried fish (no-fry rule) | — (declined juice 7:35pm; no dinner) ⚠️ brief dizziness 5:42pm on TV-transition (self-resolved) |
 | 4 Nov | **Tigernut porridge + 2 boiled eggs** (10am, all) | — | **Mpotompoto** (4:08pm, all) · **pineapple juice** (5pm, all 🍍 phase-out watch) · declined watermelon juice (pineapple enough) |
-| 5 Nov | **Ekoegbemi** (10am, all) + tea (10:15am) | — (afternoon pending) | — |
+| 5 Nov | **Ekoegbemi** (10am, all) + tea (10:15am) | **Banku w/ okro stew** (4pm, all) | **Watermelon juice** (4:50pm, all 🍉) · no solid dinner reported |
 
 > **Backfill complete (12 Oct 26):** Meals to 12 Oct. 🥛 **MILK SPOILT — discarded (strained w/ new cheesecloth + heated, still off; heat ≠ safe with spoiled milk). Perishable protocol: check on arrival, refrigerate immediately, date, carer spot-checks before serving.** Cheesecloth delivered 11 Oct ✓ (rider). Gentle swaps: Don Simon → watermelon juice; kelewele occasional.
 
