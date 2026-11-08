@@ -1,6 +1,6 @@
 # Content Calendar — 2 Real Enterprises & Akoma Robotics
 
-_Last updated: 2026-10-18_
+_Last updated: 2026-11-08_
 
 > Pipeline tracker for the multi-brand content engine. Moves each piece Idea → Draft → Review → Scheduled → Published.
 > This is the **effectiveness layer**: it tracks cadence adherence, what actually went live, and what to repurpose — closing the "we post every day but don't see results" gap.
@@ -47,6 +47,18 @@ _Last updated: 2026-10-18_
 - **Week 2026-10-05** (C-1001…C-1006): generated, staged, AWAITING PUBLISH.
 - **Week 2026-09-28**: generated, staged, AWAITING PUBLISH.
 - ⚠️ **BLOCKER:** 4 weeks now staged & unreleased. Last confirmed public post 17/09 (Hacksaw). Posting+confirmation loop is the only production gap — generation solved + repeatable.
+
+### Backlog triage — 08/11/26 (Kofi) — the backlog is NOT uniformly releasable
+Actual unreleased volume is **5 weeks, not 4**: 2026-09-28, 10-05, 10-12, 10-19, 10-26 (+ 01/11 Sunday groups). Every one of those weeks is **date-stamped to a day slot** (e.g. C-1108 "Tue 20/10") and priced off live Jiji **at generation time**. Releasing them as-is in November would post October-dated promos at October prices — that is a stock/price accuracy failure, not a publishing win.
+
+**Release rule (applies the day H unblocks publish):**
+1. **Evergreen — release as-is after QC:** Akoma educational (BUILD A ROBOT, MYTH vs FACT, student spotlight), how-to/masterclass pieces, and the two greenlit testimonials (T-01, T-02). No date or price dependency.
+2. **Re-date + re-price before release:** every 2Real product/flash-sale/weekend-deal piece. Re-verify against live Jiji, re-stamp the current week's day slot, re-render the date/price layer. Do not ship the October render.
+3. **Drop, don't salvage:** Sunday group-advert bundles for 25/10 and 01/11 — group posts are time-sensitive by nature; regenerate for the current Sunday instead.
+4. **Never bulk-release.** Cap at one week's cadence per week so the archive stays honest and sent-log stays verifiable.
+5. **QC gate (sat-nav, hard block):** nothing reaches `sent-log.md` without SlopMonster 5/5, live-Jiji stock/price, CTA 0204252252 only. A QC-PASS stamp is valid only at render time — promos get re-QC'd on the re-render. Taiwah briefs/finals carry the Jiji listing ref per quoted price (convention 08/11) so the re-check is a straight lookup.
+
+Net: the backlog is ~2 weeks of genuinely shippable evergreen + a re-price pass on the rest. It is not 5 weeks of ready-to-go inventory.
 
 ### Retired-to-Published (Week 2026-10-05, generated 04/10 — staged, pending post by H/John)
 - C-1001 Akoma Reel #6 How-to · C-1002 2Real Myth-bust · C-1003 Akoma Reel #1 Curiosity · C-1004 2Real tool masterclass · C-1005 Akoma student spotlight · C-1006 2Real Weekend Special — all **Generated, staged, AWAITING H approval to post** (no confirmed posts since 17/09).

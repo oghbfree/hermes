@@ -52,7 +52,7 @@ auxiliary:
   background_review:
     api_key: ''
     base_url: ''
-    model: ''
+    model: z-ai/glm-5.3-flash
     provider: openrouter
     timeout: 120
   compression:
@@ -64,13 +64,13 @@ auxiliary:
   curator:
     api_key: ''
     base_url: ''
-    model: ''
+    model: z-ai/glm-5.3-flash
     provider: openrouter
     timeout: 600
   kanban_decomposer:
     api_key: ''
     base_url: ''
-    model: ''
+    model: z-ai/glm-5.3-flash
     provider: openrouter
     timeout: 180
   mcp:
@@ -94,7 +94,7 @@ auxiliary:
   monitor:
     api_key: ''
     base_url: ''
-    model: ''
+    model: deepseek/deepseek-v4-flash-0731
     provider: openrouter
     timeout: 60
   profile_describer:

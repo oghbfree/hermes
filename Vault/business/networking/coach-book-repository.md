@@ -122,6 +122,25 @@
 
 ---
 
+## TIER 7 — CONTENT & COPY FRAMEWORKS (owner-mandated 08/11/26 — ingest into all copy/headlines)
+
+### Influence: The Psychology of Persuasion — Robert Cialdini
+*Why for H/content:* Owner-mandated 08/11/26 for the AI content engine. The 6 principles are the persuasion skeleton every reel/post/headline should serve: Reciprocity, Commitment/Consistency, Social Proof, Authority, Liking, Scarcity.
+*Key concept:* Social proof + scarcity convert hardest for retail (2Real: real reviews/testimonials + limited weekend deals). Authority for Akoma (STEM credentials). Liking = Taiwah's face + voice.
+*How I reference it:* Every headline maps to a principle; a post serving none is weak.
+
+### $100M Offers — Alex Hormozi
+*Why for H/content:* Owner-mandated 08/11/26. The Grand Slam Offer + Value Equation: value = (Dream Outcome × Perceived Likelihood) / (Time Delay × Effort & Sacrifice). For 2Real posts: lead with the outcome (job done right), compress time (same-day delivery), cut effort (tested-working, ready to use).
+*Key concept:* An offer is only as good as its perceived value gap — raise value, lower delay/effort.
+
+### $100M Leads — Alex Hormozi
+*Why for H/content:* Owner-mandated 08/11/26 — the lead layer behind every asset: one clear offer, one clear call, everything pulls toward CTA 0204252252.
+*Key concept:* Every piece of content is a lead channel; no content without a next step.
+
+_Note: The Richest Man in Babylon (Tier 1) and Scivive — Richard Heart (Tier 1) already live here — acknowledged 08/11/26._
+
+---
+
 ## How I reference this library
 
 When I give you advice, you'll see citations like:

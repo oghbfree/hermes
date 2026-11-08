@@ -29,6 +29,9 @@ Single source of truth for recurring hard deadlines and open loops that must not
 | **White paint — price & cost** | 22 Oct | daily-sales-log 22/10 | Confirm price + cost for COGS entry |
 | **Theresa Elorm Seshie — kids 43pc set** | 10 Oct | daily-sales-log | Cost not stated (sold 195) — confirm for COGS; potential repeat Xmas party orders |
 | **Hagija toys COGS** | 31 Oct | daily-sales-log 31/10 | 7 Amazon toy bags sold (2,000 paid) — cost not stated; confirm for COGS entry |
+| **Jiji ad closures — Dunlop racket + Sony XB100** | 06 Nov | daily-sales-log 06/11 | Both sold (Angelina 600, Mr Tweneboah 700) — close ads after H confirms + mark sold |
+| **Mr Tweneboah receipt** | 06 Nov | daily-sales-log 06/11 | Sony XB100 700 — needs receipt |
+| **Customer nudge +233 57 770 0555** | 06 Nov 13:38 | live watcher | "Still haven't gotten back to me" — respond |
 | **B2B repeat-buyer broadcast** | ongoing | b2b-wholesale-leads.md + sales log | WhatsApp **Eric** (Enterprise Ins) when office/IT stock lands; **Dr Lomotey** (Cocoa Clinic) for furniture/office; **tool lover** 0245849519 for mechanic's tools; **Edwin Kwabena Adubofuor** (0550253348, contractor w/ ministries contract); **Theophilus** (0500599813, Airbnb host); **Emmanuel** (tennis Mon) for rackets/sports |
 
 ---

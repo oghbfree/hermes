@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-01T03:00:51.789159",
-  "total_gap": 291,
+  "generated": "2026-11-08T03:01:03.303860",
+  "total_gap": 293,
   "items": [
     {
       "name": "Blyss Uban Video Intercom And Outdoor Button",
@@ -87,7 +87,7 @@
       "margin": 700,
       "gift": false,
       "priority": 700,
-      "best_partial_match": "Black and Decker Heavy Duty Circular Saw 960W",
+      "best_partial_match": "Black and Decker Circular Saw 1200W",
       "partial_score": 0.33
     },
     {
@@ -109,7 +109,7 @@
       "margin": 600,
       "gift": false,
       "priority": 600,
-      "best_partial_match": "Parkside Angle Grinder PWS 230 A1",
+      "best_partial_match": "Parkside 20V Angle Grinder PWSA20-Li C3 W 2.0Ah Ba",
       "partial_score": 0.4
     },
     {
@@ -164,7 +164,7 @@
       "margin": 500,
       "gift": false,
       "priority": 500,
-      "best_partial_match": "Black and Decker Heavy Duty Circular Saw 960W",
+      "best_partial_match": "DeWALT Extreme Runtime XR FlexVolt 250mm Circular ",
       "partial_score": 0.5
     },
     {
@@ -175,7 +175,7 @@
       "margin": 500,
       "gift": false,
       "priority": 500,
-      "best_partial_match": "Parkside Angle Grinder PWS 230 A1",
+      "best_partial_match": "Parkside 20V Angle Grinder PWSA20-Li C3 W 2.0Ah Ba",
       "partial_score": 0.5
     },
     {
@@ -219,7 +219,7 @@
       "margin": 470,
       "gift": false,
       "priority": 470,
-      "best_partial_match": "Saber 5-Piece Reversible Ratchet Ring Spanner Wren",
+      "best_partial_match": "Wickes 6-Piece Wood Auger Bit Set",
       "partial_score": 0.5
     },
     {
@@ -340,7 +340,7 @@
       "margin": 388,
       "gift": false,
       "priority": 388,
-      "best_partial_match": "DeWalt 14.4 Volt Cordless Drill/Driver Kit One Bat",
+      "best_partial_match": "Parkside 20V Angle Grinder PWSA20-Li C3 W 2.0Ah Ba",
       "partial_score": 0.29
     },
     {
@@ -384,7 +384,7 @@
       "margin": 360,
       "gift": false,
       "priority": 360,
-      "best_partial_match": "INGCO Manual Tile Cutter 600mm Heavy Duty Wall Flo",
+      "best_partial_match": "Parkside Random Orbital Sander",
       "partial_score": 0.29
     },
     {
@@ -450,7 +450,7 @@
       "margin": 310,
       "gift": false,
       "priority": 310,
-      "best_partial_match": "BlueSpot 17-Piece Folding Hex / Allen Key Set (Sto",
+      "best_partial_match": "Workzone 9-Piece Coloured Hex Key Set (Metric)",
       "partial_score": 0.33
     },
     {
@@ -549,7 +549,7 @@
       "margin": 270,
       "gift": false,
       "priority": 270,
-      "best_partial_match": "Stanley 30-Piece Screwdriver Drill Bit Set STA6052",
+      "best_partial_match": "Stanley FatMax Screwdriver Bit Set 50-Piece With T",
       "partial_score": 0.4
     },
     {
@@ -637,7 +637,7 @@
       "margin": 240,
       "gift": false,
       "priority": 240,
-      "best_partial_match": "Stanley 30-Piece Screwdriver Drill Bit Set STA6052",
+      "best_partial_match": "Stanley FatMax Screwdriver Bit Set 50-Piece With T",
       "partial_score": 0.5
     },
     {
@@ -703,7 +703,7 @@
       "margin": 210,
       "gift": false,
       "priority": 210,
-      "best_partial_match": "DeWALT Extreme Workshop Series 60 Table / Mitre Sa",
+      "best_partial_match": "DeWalt 18V XR Brushless Combi/Hammer Drill UK Used",
       "partial_score": 0.29
     },
     {
@@ -736,7 +736,7 @@
       "margin": 210,
       "gift": false,
       "priority": 210,
-      "best_partial_match": "Black Decker 18v Cordless Hammer Drill Kit",
+      "best_partial_match": "Halfords Petrol Engine Compression Test Kit for Au",
       "partial_score": 0.25
     },
     {
@@ -771,6 +771,17 @@
       "priority": 204,
       "best_partial_match": "Gorilla Wood Glue (532ml)",
       "partial_score": 0.5
+    },
+    {
+      "name": "Hippo Expanding Glue 275 Ml",
+      "price": 250.0,
+      "cost": 80.0,
+      "stock": 5,
+      "margin": 170,
+      "gift": false,
+      "priority": 204,
+      "best_partial_match": "Gorilla Wood Glue (532ml)",
+      "partial_score": 0.2
     },
     {
       "name": "Laser Battery And Alternator Tester 12V DC Systems 2274",
@@ -824,7 +835,7 @@
       "margin": 195,
       "gift": false,
       "priority": 195,
-      "best_partial_match": "Outwell Vision 200 Pop Up Tent",
+      "best_partial_match": "Samsonite Pop-Up Travel Bubble Cot Infant Sleep Te",
       "partial_score": 0.25
     },
     {
@@ -901,7 +912,7 @@
       "margin": 180,
       "gift": false,
       "priority": 180,
-      "best_partial_match": "Prexiso 2-in-1 Laser Tape Distance Measure Model: ",
+      "best_partial_match": "Bosch Zamo Digital Laser Measure / Distance Meter ",
       "partial_score": 0.2
     },
     {
@@ -1242,7 +1253,7 @@
       "margin": 114,
       "gift": false,
       "priority": 114,
-      "best_partial_match": "Stanley 30-Piece Screwdriver Drill Bit Set STA6052",
+      "best_partial_match": "Stanley FatMax Screwdriver Bit Set 50-Piece With T",
       "partial_score": 0.5
     },
     {
@@ -1264,7 +1275,7 @@
       "margin": 111,
       "gift": false,
       "priority": 111,
-      "best_partial_match": "Stanley 30-Piece Screwdriver Drill Bit Set STA6052",
+      "best_partial_match": "Stanley FatMax Screwdriver Bit Set 50-Piece With T",
       "partial_score": 0.5
     },
     {
@@ -1319,7 +1330,7 @@
       "margin": 105,
       "gift": false,
       "priority": 105,
-      "best_partial_match": "Stanley 30-Piece Screwdriver Drill Bit Set STA6052",
+      "best_partial_match": "Stanley FatMax Screwdriver Bit Set 50-Piece With T",
       "partial_score": 0.5
     },
     {
@@ -1330,7 +1341,7 @@
       "margin": 105,
       "gift": false,
       "priority": 105,
-      "best_partial_match": "Stanley 30-Piece Screwdriver Drill Bit Set STA6052",
+      "best_partial_match": "Stanley FatMax Screwdriver Bit Set 50-Piece With T",
       "partial_score": 0.5
     },
     {
@@ -1418,7 +1429,7 @@
       "margin": 99,
       "gift": false,
       "priority": 99,
-      "best_partial_match": "Stanley 30-Piece Screwdriver Drill Bit Set STA6052",
+      "best_partial_match": "Stanley FatMax Screwdriver Bit Set 50-Piece With T",
       "partial_score": 0.5
     },
     {
@@ -1561,7 +1572,7 @@
       "margin": 75,
       "gift": false,
       "priority": 90,
-      "best_partial_match": "Outwell Vision 200 Pop Up Tent",
+      "best_partial_match": "Binatone Latitude Twin Pack Walkie Talkie With Up ",
       "partial_score": 0.33
     },
     {
@@ -1594,7 +1605,7 @@
       "margin": 87,
       "gift": false,
       "priority": 87,
-      "best_partial_match": "Stanley 30-Piece Screwdriver Drill Bit Set STA6052",
+      "best_partial_match": "Stanley FatMax Screwdriver Bit Set 50-Piece With T",
       "partial_score": 0.5
     },
     {
@@ -1605,7 +1616,7 @@
       "margin": 70,
       "gift": false,
       "priority": 84,
-      "best_partial_match": "Halfords Plastic Bumper Spray Paint Light Grey 300",
+      "best_partial_match": "Halfords Enamel Spray Paint Various Colors Availab",
       "partial_score": 0.33
     },
     {
@@ -1649,7 +1660,7 @@
       "margin": 80,
       "gift": false,
       "priority": 80,
-      "best_partial_match": "FFX Silicone Gp",
+      "best_partial_match": "Gorilla Waterproof Coat and Seal 946ml - Brand New",
       "partial_score": 0.14
     },
     {
@@ -1748,7 +1759,7 @@
       "margin": 78,
       "gift": false,
       "priority": 78,
-      "best_partial_match": "Stanley 30-Piece Screwdriver Drill Bit Set STA6052",
+      "best_partial_match": "Stanley FatMax Screwdriver Bit Set 50-Piece With T",
       "partial_score": 0.5
     },
     {
@@ -1770,7 +1781,7 @@
       "margin": 58,
       "gift": false,
       "priority": 70,
-      "best_partial_match": "Irwin Record 14-Inch Heavy-Duty Bolt Cutters (Mode",
+      "best_partial_match": "Ingco Diagonal Cutters HDCP88168",
       "partial_score": 0.5
     },
     {
@@ -1847,7 +1858,7 @@
       "margin": 69,
       "gift": false,
       "priority": 69,
-      "best_partial_match": "Stanley 30-Piece Screwdriver Drill Bit Set STA6052",
+      "best_partial_match": "Stanley FatMax Screwdriver Bit Set 50-Piece With T",
       "partial_score": 0.44
     },
     {
@@ -1891,7 +1902,7 @@
       "margin": 66,
       "gift": false,
       "priority": 66,
-      "best_partial_match": "Parkside Cutting Disc Set 12 Pack Metal 125mm for ",
+      "best_partial_match": "Stanley FatMax\nCoping Saw",
       "partial_score": 0.25
     },
     {
@@ -1913,7 +1924,7 @@
       "margin": 63,
       "gift": false,
       "priority": 63,
-      "best_partial_match": "Parkside Cutting Disc Set 12 Pack Metal 125mm for ",
+      "best_partial_match": "Stanley FatMax\nCoping Saw",
       "partial_score": 0.25
     },
     {
@@ -1968,7 +1979,7 @@
       "margin": 60,
       "gift": false,
       "priority": 60,
-      "best_partial_match": "Lowenergie Outdoor Dusk to Dawn Auto-Light Switch ",
+      "best_partial_match": "Unex Sd160s 16-Port 10/100mbps Nexswitch Network S",
       "partial_score": 0.17
     },
     {
@@ -2045,7 +2056,7 @@
       "margin": 52,
       "gift": false,
       "priority": 52,
-      "best_partial_match": "Irwin 6-Inch 10 TPI Bi-Metal Reciprocating Saw Bla",
+      "best_partial_match": "Irwin Jack 185mm (7.25\") Dovetail Veneer Fine Cut ",
       "partial_score": 0.5
     },
     {
@@ -2122,7 +2133,7 @@
       "margin": 50,
       "gift": false,
       "priority": 50,
-      "best_partial_match": "Lowenergie Outdoor Dusk to Dawn Auto-Light Switch ",
+      "best_partial_match": "Unex Sd160s 16-Port 10/100mbps Nexswitch Network S",
       "partial_score": 0.25
     },
     {
@@ -2199,7 +2210,7 @@
       "margin": 45,
       "gift": false,
       "priority": 45,
-      "best_partial_match": "Stanley Tape Measure Tylon 5m/16\u2019",
+      "best_partial_match": "Stanley Tape Measure 5m",
       "partial_score": 0.25
     },
     {
@@ -2221,7 +2232,7 @@
       "margin": 36,
       "gift": false,
       "priority": 43,
-      "best_partial_match": "Irwin 6-Inch 10 TPI Bi-Metal Reciprocating Saw Bla",
+      "best_partial_match": "Irwin Jack 185mm (7.25\") Dovetail Veneer Fine Cut ",
       "partial_score": 0.4
     },
     {
@@ -2243,7 +2254,7 @@
       "margin": 42,
       "gift": false,
       "priority": 42,
-      "best_partial_match": "Original ION Profile LP Vinyl-to-Mp3 Turntable",
+      "best_partial_match": "Dyson DC26 City Ultra-Compact Bagless Cylinder Vac",
       "partial_score": 0.25
     },
     {
@@ -2353,7 +2364,7 @@
       "margin": 30,
       "gift": false,
       "priority": 36,
-      "best_partial_match": "WD-40 Specialist White Lithium Grease (250ml)",
+      "best_partial_match": "HP DesignJet T520 24in Large Format CAD Architectu",
       "partial_score": 0.33
     },
     {
@@ -2397,7 +2408,7 @@
       "margin": 30,
       "gift": false,
       "priority": 36,
-      "best_partial_match": "Stanley 30-Piece Screwdriver Drill Bit Set STA6052",
+      "best_partial_match": "Stanley FatMax Screwdriver Bit Set 50-Piece With T",
       "partial_score": 0.5
     },
     {
@@ -2452,7 +2463,7 @@
       "margin": 30,
       "gift": false,
       "priority": 30,
-      "best_partial_match": "Abracs Expert Diamond Blade 180mm X 1.6mm Tile Por",
+      "best_partial_match": "Kids Festive Christmas Elf Sliding Tile Picture Pu",
       "partial_score": 0.25
     },
     {
@@ -2474,7 +2485,7 @@
       "margin": 30,
       "gift": false,
       "priority": 30,
-      "best_partial_match": "Yale Smart Keyless Connected Door Lock With Nightl",
+      "best_partial_match": "Modular Cold Room Insulated Sandwich Panels With D",
       "partial_score": 0.33
     },
     {
@@ -2507,7 +2518,7 @@
       "margin": 30,
       "gift": false,
       "priority": 30,
-      "best_partial_match": "Harris Taskmasters Wallpaper Smoother With Solvite",
+      "best_partial_match": "Parkside Twist Wire Cup Brush Fits Angle Grinders,",
       "partial_score": 0.5
     },
     {
@@ -2562,7 +2573,7 @@
       "margin": 30,
       "gift": false,
       "priority": 30,
-      "best_partial_match": "Stanley 30-Piece Screwdriver Drill Bit Set STA6052",
+      "best_partial_match": "Stanley FatMax Screwdriver Bit Set 50-Piece With T",
       "partial_score": 0.5
     },
     {
@@ -2573,7 +2584,7 @@
       "margin": 30,
       "gift": false,
       "priority": 30,
-      "best_partial_match": "Stanley 30-Piece Screwdriver Drill Bit Set STA6052",
+      "best_partial_match": "Stanley FatMax Screwdriver Bit Set 50-Piece With T",
       "partial_score": 0.5
     },
     {
@@ -2584,7 +2595,7 @@
       "margin": 30,
       "gift": false,
       "priority": 30,
-      "best_partial_match": "Lowenergie Outdoor Dusk to Dawn Auto-Light Switch ",
+      "best_partial_match": "Unex Sd160s 16-Port 10/100mbps Nexswitch Network S",
       "partial_score": 0.14
     },
     {
@@ -2595,7 +2606,7 @@
       "margin": 30,
       "gift": false,
       "priority": 30,
-      "best_partial_match": "Lowenergie Outdoor Dusk to Dawn Auto-Light Switch ",
+      "best_partial_match": "Unex Sd160s 16-Port 10/100mbps Nexswitch Network S",
       "partial_score": 0.17
     },
     {
@@ -2606,7 +2617,7 @@
       "margin": 30,
       "gift": false,
       "priority": 30,
-      "best_partial_match": "Lowenergie Outdoor Dusk to Dawn Auto-Light Switch ",
+      "best_partial_match": "Unex Sd160s 16-Port 10/100mbps Nexswitch Network S",
       "partial_score": 0.14
     },
     {
@@ -2654,6 +2665,17 @@
       "partial_score": 0.17
     },
     {
+      "name": "Sunfuron 1 L",
+      "price": 95.0,
+      "cost": 0.0,
+      "stock": 1,
+      "margin": 28,
+      "gift": false,
+      "priority": 28,
+      "best_partial_match": "",
+      "partial_score": 0.0
+    },
+    {
       "name": "Enamel Paint & Special Sprays Copper",
       "price": 75.0,
       "cost": 0.0,
@@ -2694,7 +2716,7 @@
       "margin": 22,
       "gift": false,
       "priority": 27,
-      "best_partial_match": "Bosch Paint Spray System 650W",
+      "best_partial_match": "Genuine Halfords Can Spray Paint Bulk Purchase Ava",
       "partial_score": 0.4
     },
     {
@@ -2727,7 +2749,7 @@
       "margin": 22,
       "gift": false,
       "priority": 27,
-      "best_partial_match": "Everbuild Decorators Flexible Filler (White)",
+      "best_partial_match": "100cm Blue Aluminum Venetian Window Blind With Fit",
       "partial_score": 0.33
     },
     {
@@ -2738,7 +2760,7 @@
       "margin": 22,
       "gift": false,
       "priority": 27,
-      "best_partial_match": "Halfords Plastic Bumper Spray Paint Light Grey 300",
+      "best_partial_match": "IKEA Jansjo LED USB Flexible Light",
       "partial_score": 0.5
     },
     {
@@ -2782,7 +2804,7 @@
       "margin": 25,
       "gift": false,
       "priority": 25,
-      "best_partial_match": "Black and Decker Heavy Duty Circular Saw 960W",
+      "best_partial_match": "Black and Decker Circular Saw 1200W",
       "partial_score": 0.5
     },
     {
@@ -2848,7 +2870,7 @@
       "margin": 22,
       "gift": false,
       "priority": 22,
-      "best_partial_match": "Halfords Plastic Bumper Spray Paint Light Grey 300",
+      "best_partial_match": "Halfords Enamel Spray Paint Various Colors Availab",
       "partial_score": 0.33
     },
     {
@@ -3046,7 +3068,7 @@
       "margin": 22,
       "gift": false,
       "priority": 22,
-      "best_partial_match": "Black and Decker Heavy Duty Circular Saw 960W",
+      "best_partial_match": "Gorilla Black Tape Heavy Duty (32m X 48mm)",
       "partial_score": 0.33
     },
     {
@@ -3101,7 +3123,7 @@
       "margin": 20,
       "gift": false,
       "priority": 20,
-      "best_partial_match": "Yale Smart Keyless Connected Door Lock With Nightl",
+      "best_partial_match": "Modular Cold Room Insulated Sandwich Panels With D",
       "partial_score": 0.33
     },
     {
@@ -3167,7 +3189,7 @@
       "margin": 9,
       "gift": false,
       "priority": 11,
-      "best_partial_match": "Bosch Paint Spray System 650W",
+      "best_partial_match": "Genuine Halfords Can Spray Paint Bulk Purchase Ava",
       "partial_score": 0.5
     },
     {

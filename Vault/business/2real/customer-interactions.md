@@ -23,6 +23,13 @@ Over time this makes replies sharper, prices tighter, and closings faster.
 
 ## Log (newest first)
 
+### 07/11/2026 [whatsapp: +233 20 826 8686] — availability (META BUSINESS AGENT auto-reply, first live test)
+- Enquiry: "Saw a Lumix digital camera and wanted to know if it's still available" (14:06)
+- Meta agent draft (14:07): "Hi Ben, we checked our live list for the Lumix digital camera and it's not showing in our current catalog. Our search found camera-related items like the Bw9 Pro Smart Watch with Camera and car backup cameras, but no Lumix camera was listed. If you have a photo, link, or product code for the Lumix you saw, can you share it? We will check with the team and confirm price and stock for you."
+- Follow-ups: "Oh you mean the Panasonic it's available" (14:07), "Do you want it today?" (14:10) — customer replied "Oh you mean the Panasonic it's available" (14:08); open.
+- Judgment: ANSWERED ✅; no invented prices/stock ✅; flags: (1) "Do you want it today?" = same-day promise + follow-up on new customer (contradicts instruction "no follow-up to new customers"); (2) Panasonic "available" unverified unless stock checked; (3) no CTA 0204252252 in reply; (4) "Hi Ben" — name unverified (chat title is number; saved contact "Kwame Muller Asibu Unc Kobena"); (5) "live list" wording overstates (agent can't read Jiji live).
+- Outcome: pending — watch thread; no action sent (read-only trial).
+
 <!-- format:
 ### [DATE] [source: walk-in|jiji] — [classification]
 - Enquiry: "..."
@@ -544,8 +551,10 @@ Hello
 ## 2026-08-25 09:10
 - **Channel:** whatsapp
 - **Chat:** 8495478882438
-- **Customer:** Meauring tape (10 metres) Stanley
-STANLEY CONTROL-LOCK Tape
+- **Customer:** Meauring tape (10 metres) Stanley
+
+STANLEY CONTROL-LOCK Tape
+
 Measure 10m (25mm wide)
 - **Reply:** We will get back to you shortly.
 
@@ -8508,3 +8517,11 @@ I want to try and see first
 - **Chat:** 7138269224997
 - **Customer:** Yes
 - **Reply:** [acknowledgment - no reply sent]
+
+## 2026-11-07 17:00
+- **Channel:** whatsapp (meta-agent handover trial)
+- **Chat:** +233 20 826 8686 (Ben)
+- **Customer:** 14:06 "Saw a Lumix digital camera and wanted to know if it's still available"; 14:08 echo "Oh you mean the Panasonic it's available"; missed call ~16:5x
+- **Agent auto-replied 14:07 (AI-marked):** checked live list, Lumix not in catalog, found Bw9 Pro Smart Watch w/ Camera + car backup cams, asked for photo/link/product code, will confirm price+stock. No CTA included. No price/stock invented.
+- **Follow-up:** 14:07 biz "Oh you mean the Panasonic it's available", 14:10 "Do you want it today?", 16:54 "I missed your call" (after customer's missed call) — no customer reply since 16:54
+- **Reply sent by bot:** NONE (guarded, read-only)

@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-06 07:01",
-  "day": "Friday 06 Nov 2026",
+  "generated": "2026-11-07 06:45",
+  "day": "Saturday 07 Nov 2026",
   "kanban": {
     "total": 272,
     "unique": 125,
@@ -769,6 +769,12 @@
       "owner": "sat-nav"
     },
     {
+      "id": "5e6ae6f7",
+      "name": "WA Meta-agent customer ping watcher",
+      "schedule": "every 10m",
+      "owner": "sat-nav"
+    },
+    {
       "id": "3d775f42",
       "name": "jiji-weekly-performance-harvest",
       "schedule": "every saturday 7am",
@@ -799,7 +805,7 @@
       "owner": "content-buddy"
     }
   ],
-  "routine_count": 55,
+  "routine_count": 56,
   "jiji": {
     "total": 1367,
     "active": 1360,
@@ -884,8 +890,8 @@
     "total_impressions": 1250
   },
   "credits": {
-    "rem": 2.25,
-    "total": 430
+    "rem": 5.51,
+    "total": 440
   },
   "sales": {
     "last": {

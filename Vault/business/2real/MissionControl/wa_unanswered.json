@@ -1,27 +1,6 @@
 {
-  "generated": "2026-11-02 23:34",
+  "generated": "2026-11-07 08:00",
   "source": "web.whatsapp.com",
-  "status": "ok",
-  "total_chats": 19,
-  "unread_count": 2,
-  "needs_attention": [
-    {
-      "chat": "2 unread messages @Angleenah",
-      "preview": "I look forward to seeing it 2",
-      "ts": "18:18",
-      "unread": "2 unread messages"
-    },
-    {
-      "chat": "2 unread messages +233 20 959 6277",
-      "preview": "I saw your job ad on jiji Im interested 2",
-      "ts": "15:13",
-      "unread": "2 unread messages"
-    }
-  ],
-  "bot_answered_last": [
-    "2 real sales",
-    "Eric James Kenn Gambrah",
-    "+233 54 554 6291",
-    "+233 55 739 6881"
-  ]
+  "status": "error",
+  "note": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
 }

@@ -129,4 +129,50 @@ unanswered (813/832)** · 43 contact views + 24 saved-ads NOT followed up · GH�
 4. **Fix declined Daewoo Cnx+ smartwatch** (open since 21 Oct — switch to Smart Watches category, re-submit).
 5. **Rework top-3 reverse-flow items** (Magnum chain, LEGO Knight Bus, ELC pool).
 6. GH¢0 balance persists; raise Pro Sales bid (competitors winning flag on profile).
+## 2026-11-07 (Sat) — Weekly Harvest + Review
+
+**Harvest status:** ✅ **SUCCESS — fresh per-listing harvest via CDP harvester** (`jiji_ads_harvest_cdp.py`, connected to persistent Chrome :9222, logged in as Two Real Enterprises). Launched the persistent Chrome on :9222 via `launch_2real_browser.sh` (was down at cron start), ran the harvester with the hermes-agent venv (`python` resolves to a bare interpreter without `websocket`; pip absent there, so used `.../hermes-agent/venv/Scripts/python.exe` which has all deps). Saved **1,250 active ads** to `jiji_ads_performance.json` (scraped 2026-11-07 07:06). All ads populated with nested totals — no fabricated numbers.
+
+**Account totals (THIS week, live harvest):**
+| Metric | Total |
+|--------|-------|
+| Impressions | 266,754 |
+| Visitors | 37,735 |
+| Chats | 1,518 |
+| Chats/visitors (conversion) | **4.02%** |
+| Count-contacts | 1,230 |
+| Ads with ≥1 chat | 572 |
+| Ads with 0 impressions | **0** (healthy) |
+| Reverse-flow flags (vis≥20, 0 chats) | **93** |
+
+*Vs last full harvest (24/10): visitors DOWN 45,454→37,735 (−17.0%); chats UP 1,485→1,518 (+2.2%); conversion UP 3.27%→4.02%; reverse-flow DOWN 138→93 (−33%) — reworks working. Compare with caution: 24/10 baseline from daily-history top-items, not a full per-listing snapshot.*
+
+**TOP-10 by chats (live 07/11):** Panasonic Lumix camera (32c) · Farm Workers (22c) · LVYUAN 800/2000W inverter (22c) · Elite Construction Team wanted (22c) · Live-in Private Nurse (21c) · Female Private Driver (20c) · Mini Guitar Amp 10W (15c) · Skateboard (14c) · Wireless Mouse w/LED (14c) · Live-in Graduate Nurse (14c).
+
+**Reverse-flow fixes (strong flags, vis≥20 & 0 chats — TOP 3):**
+1. **Marvin's Magic Executive Magic Collection Set** — **757 visitors / 1,281 imp / 0 chats** → CRITICAL flag (biggest reach-without-conversion in the shop). Rework title/photo/price; phone-chase (was also flagged in daily-history needs_attention).
+2. **Magnum Plus Colossus Security Chain 180cm** — **302 visitors / 320 imp / 0 chats** (persistent since 24/10). Rework.
+3. **ELC Water Wave Pool for Kids** — **153 visitors / 200 imp / 0 chats** (persistent since 24/10). Rework.
+*(Also high: Learning Resources 5-in-1 Measure-Mate 141 vis/0 ch · Lowenergie Dusk-to-Dawn Light Switch 131 vis/0 ch · LEGO Knight Bus 107 vis/0 ch · Goodmans Solar Power Bank 92 vis/0 ch.)*
+
+**Account picture — WoW (source: freshest `jiji_daily_history.json` entries, 25–30 Oct; no newer daily capture):**
+| Metric | 25 Oct | 30 Oct | WoW Δ |
+|--------|--------|--------|-------|
+| Active listings | 1,317 | **1,351** | **+34** |
+| Followers | 339 | **342** | **+3** |
+| Clients | 1 | **1** | 0 |
+| Declined ads | 3 | **5** | **+2 (spike → fix)** |
+| Closed | 133 | **133** | 0 |
+| Pro Sales bonus (GHS) | ~6,622 | **6,147** | **−175/step, dropping** |
+| WhatsApp ads | expired 17/10 | **expired 17/10** | 🔴 21 days dark |
+| Balance (GHS) | 0 | **0** | 🔴 persistent |
+
+**URGENT action items for H/John (from daily-history needs_attention + this harvest):**
+1. **Marvin's Magic (757 visitors, 0 chats)** — highest-reach dead-end in shop; call now + rework listing.
+2. **Renew WhatsApp ads** — expired since **17 Oct**, now **21 days dark**; GH¢180 add-on (20 ads / 14 days) available; critical before Christmas push.
+3. **5 declined ads pending** — 2 NEW (Koo-Di Pop-Up Bassinet Cot, Norton Clipper Blade 230mm) + 3 from 28 Oct (Biometric Fingerprint Terminal, Stanley Sanding Sheets, Daewoo Smartwatch) — re-categorise & resubmit.
+4. **Panasonic Lumix camera = 32 chats** — follow up now, hottest selling item in shop.
+5. **572 live-thread ads with ≥1 chat** — first reply wins.
+6. GH¢0 balance persists — recharge to run promos; Pro Sales bonus still sliding (6,147).
+7. **Service ads freshly renewed → perf counters reset** (Female Private Driver was pulling 19 chats pre-renewal; warm them back up).
 
