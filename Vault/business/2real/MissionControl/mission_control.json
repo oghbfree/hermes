@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-07 06:45",
-  "day": "Saturday 07 Nov 2026",
+  "generated": "2026-11-08 06:45",
+  "day": "Sunday 08 Nov 2026",
   "kanban": {
     "total": 272,
     "unique": 125,
@@ -775,6 +775,12 @@
       "owner": "sat-nav"
     },
     {
+      "id": "3ae336dd",
+      "name": "FB Checkpoint Probe (daily detector)",
+      "schedule": "55 6 * * *",
+      "owner": "sat-nav"
+    },
+    {
       "id": "3d775f42",
       "name": "jiji-weekly-performance-harvest",
       "schedule": "every saturday 7am",
@@ -805,93 +811,93 @@
       "owner": "content-buddy"
     }
   ],
-  "routine_count": 56,
+  "routine_count": 57,
   "jiji": {
     "total": 1367,
-    "active": 1360,
+    "active": 1357,
     "top_categories": [
       [
         "Hand Tools",
-        278
+        279
       ],
       [
         "Electrical Hand Tools",
-        147
+        145
       ],
       [
         "Video Games",
-        57
+        58
       ],
       [
         "Vehicle Parts & Accessories",
-        55
+        54
       ],
       [
         "Lighting",
         53
       ],
       [
-        "Home Accessories",
-        46
-      ],
-      [
         "Toys & Games",
         45
       ],
       [
-        "Sports Equipment",
+        "Home Accessories",
+        45
+      ],
+      [
+        "Computer Accessories",
         41
       ]
     ],
     "top_by_chats": [
       {
         "title": "Panasonic Lumix Digital Camera With Battery a",
-        "chats": 37,
-        "views": 442,
-        "impressions": 1214,
+        "chats": 32,
+        "views": 314,
+        "impressions": 1161,
         "price": "GH₵ 980",
         "status": "active"
       },
       {
-        "title": "Elite Construction Team Wanted - Foremen All ",
-        "chats": 20,
-        "views": 542,
-        "impressions": 3197,
-        "price": "Commission",
+        "title": "Farm Workers / Farming Family Opportunity",
+        "chats": 22,
+        "views": 236,
+        "impressions": 1954,
+        "price": "GH₵ 800 - 1,000",
         "status": "active"
       },
       {
         "title": "LVYUAN 800w/2000w Pure Sine-Wave Power Invert",
-        "chats": 19,
-        "views": 224,
-        "impressions": 1022,
+        "chats": 22,
+        "views": 267,
+        "impressions": 1075,
         "price": "GH₵ 900",
         "status": "active"
       },
       {
-        "title": "Female Private Driver",
-        "chats": 19,
-        "views": 766,
-        "impressions": 6099,
+        "title": "Elite Construction Team Wanted - Foremen All ",
+        "chats": 22,
+        "views": 397,
+        "impressions": 3079,
         "price": "Commission",
         "status": "active"
       },
       {
-        "title": "Skate Board Pre Owned From Uk",
-        "chats": 16,
-        "views": 120,
-        "impressions": 676,
-        "price": "GH₵ 400",
+        "title": "Live in Private Nurse / Under Graduate Nurse ",
+        "chats": 21,
+        "views": 436,
+        "impressions": 3135,
+        "price": "Commission",
         "status": "active"
       }
     ],
-    "ads_with_chats": 576,
-    "total_chats": 1555,
+    "ads_with_chats": 572,
+    "total_chats": 1518,
     "total_impressions": 1250
   },
   "credits": {
-    "rem": 5.51,
-    "total": 440
+    "rem": 7.84,
+    "total": 450
   },
   "sales": {
     "last": {

@@ -13,6 +13,7 @@ Purpose: hand over 2Real's customer-messaging knowledge from Hermes to Meta's na
 - **Response settings:** → **FLIPPED to "1-1 chats except with contacts"** (05/11/26, H-approved). Agent now LIVE on new/non-contact chats; saved contacts (Stephanie, Ethel, owners, all saved numbers) auto-excluded → stay human-handled. Left as the managed trial gate.
 - **@Angleenah** (12:04 "Can u send me a link") → **Jiji review link sent**: https://jiji.com.gh/opinions/rbPd2oROVhelYWPjYkQWbhpx (verified in thread).
 - **TEST MODE: HOLD** — waiting for first real customer to ping in; watch inbox, report agent's first live performance, then adjust as we go.
+- **FIRST LIVE TRIAL (08/11/26):** agent auto-answered 2 new chats (Bhavyaa/Jiji Lumix, @Alozo/Dyson DC26) — mechanics work (sent, "AI" labels). FAILED no-invent rule: invented "Canon EOS Kiss X4 @ 5500 GHS" (not in inventory), denied Panasonic Lumix (real: GHS 980), claimed live Jiji checks it can't do, no CTA anywhere, Swahili greeting to Ghana customer. → Feed static real price list; force "check with team + CTA 0204252252" on unknowns. Full log: MissionControl/wa_meta_watcher_events.log.
 > **NOTE:** I CAN drive the WhatsApp Business UI directly (browser attach) — this doc + live fill both real. Remaining: H-review of toggle defaults (emojis/share-prices), decide prices-dynamic-vs-static, then flip agent live when ready.
 
 ---

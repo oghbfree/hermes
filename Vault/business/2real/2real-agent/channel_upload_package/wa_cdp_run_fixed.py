@@ -100,11 +100,12 @@ def reload_wa():
     return page_text()[:100].replace("\n", " ")
 
 def post_one_item(x, posted):
-    jid = x["jiji_id"]
+    jid = str(x["jiji_id"])
     photo = os.path.join(PKG, x["photo"])
     if not os.path.exists(photo):
         return "FAIL no photo"
-    if is_duplicate(x["wa_title"]):
+    # dedupe check coerce: only fuzzy-SKIP when string-normalized match confirmed
+    if not os.environ.get("WA_FORCE_POST") and is_duplicate(x["wa_title"]):
         posted.add(jid)
         json.dump(sorted(posted), open(os.path.join(PKG, "wa_catalog_posted.json"), "w"))
         return "SKIP duplicate"
@@ -130,7 +131,7 @@ if __name__ == "__main__":
     for x in queue:
         if done >= count:
             break
-        if x["jiji_id"] in posted:
+        if str(x["jiji_id"]) in posted:
             continue
         try:
             r = post_one_item(x, posted)

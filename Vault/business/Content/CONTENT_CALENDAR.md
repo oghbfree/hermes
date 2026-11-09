@@ -22,6 +22,7 @@ _Last updated: 2026-11-08_
 
 | ID | Title | Type | Channel | Stage | Due | Notes |
 |----|-------|------|---------|-------|-----|-------|
+| R3 | 2Real Reel — DeWalt 18V XR Combi "right tool changes the job" | Reel (1080x1920) | IG/FB/TikTok | **Published** | 08/11/26 | content-output/reel3-staging/REEL3_JOBRIGHT_v3_FINAL.mp4 · v3 greenlit "publish 3" 08/11 (supersedes v2) · GH₵ 1,300 · CTA 0204252252 · SlopMonster 5/5 · Kofi QC PASS → sat-nav sent-log + posting |
 | C-1107 | Akoma Mon education (BUILD A ROBOT) | Post+Carousel+reel | IG/FB/TikTok/WA/LI | Scheduled | Mon 19/10 | week-2026-10-19/monday-akoma · awaiting H review |
 | C-1108 | 2Real Tue Garden & outdoor — clean cuts | Post+Carousel+MP | IG/FB/Marketplace/TikTok/WA/LI | Scheduled | Tue 20/10 | week-2026-10-19/tuesday-2real · real Jiji prices |
 | C-1109 | Akoma Wed student spotlight (I BUILT IT MYSELF) | Post+Carousel+reel | IG/FB/TikTok/WA/LI | Scheduled | Wed 21/10 | week-2026-10-19/wednesday-akoma |

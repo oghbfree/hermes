@@ -1,0 +1,126 @@
+{
+  "version": 1,
+  "historyId": "fb157519-fb65-466a-a9e7-f75330cf1204",
+  "currentRevision": null,
+  "pendingChanges": false,
+  "files": {
+    "AGENTS.md": {
+      "hash": "18bcca1593d1b29cd7442b3dc91d18ada440affb9b7acd577c1da57446f3d24f",
+      "content": "C:\\Users\\User\\.cache\\hyperframes\\history\\fb157519-fb65-466a-a9e7-f75330cf1204\\blobs\\18\\18bcca1593d1b29cd7442b3dc91d18ada440affb9b7acd577c1da57446f3d24f"
+    },
+    "CLAUDE.md": {
+      "hash": "18bcca1593d1b29cd7442b3dc91d18ada440affb9b7acd577c1da57446f3d24f",
+      "content": "C:\\Users\\User\\.cache\\hyperframes\\history\\fb157519-fb65-466a-a9e7-f75330cf1204\\blobs\\18\\18bcca1593d1b29cd7442b3dc91d18ada440affb9b7acd577c1da57446f3d24f"
+    },
+    "assets/Poppins-Bold.ttf": {
+      "hash": "983676516167748b74de6f4771fb384c664fd913acb8b471122ecacf5da5ea6c",
+      "content": "C:\\Users\\User\\.cache\\hyperframes\\history\\fb157519-fb65-466a-a9e7-f75330cf1204\\blobs\\98\\983676516167748b74de6f4771fb384c664fd913acb8b471122ecacf5da5ea6c"
+    },
+    "assets/Poppins-ExtraBold.ttf": {
+      "hash": "f2ab17c1a63a0ecc12c2461848fc8a469395e3cd2d641803e889c643d9f958e1",
+      "content": "C:\\Users\\User\\.cache\\hyperframes\\history\\fb157519-fb65-466a-a9e7-f75330cf1204\\blobs\\f2\\f2ab17c1a63a0ecc12c2461848fc8a469395e3cd2d641803e889c643d9f958e1"
+    },
+    "assets/Poppins-Regular.ttf": {
+      "hash": "7e65201e9b79159e2300267cc885e16c8dcef2424cdfa09a29bfb0980a94a7ba",
+      "content": "C:\\Users\\User\\.cache\\hyperframes\\history\\fb157519-fb65-466a-a9e7-f75330cf1204\\blobs\\7e\\7e65201e9b79159e2300267cc885e16c8dcef2424cdfa09a29bfb0980a94a7ba"
+    },
+    "assets/Poppins-SemiBold.ttf": {
+      "hash": "d3bf1bdaf0550e83da9ac0b1d1d9fe6db086835a83aa28578e609a394b9a0286",
+      "content": "C:\\Users\\User\\.cache\\hyperframes\\history\\fb157519-fb65-466a-a9e7-f75330cf1204\\blobs\\d3\\d3bf1bdaf0550e83da9ac0b1d1d9fe6db086835a83aa28578e609a394b9a0286"
+    },
+    "assets/clip1.mp4": {
+      "hash": "6703428ce7cfcc2dddbd588237de2df82e82377f81c137f598cf1c000cd3f1df",
+      "content": "C:\\Users\\User\\.cache\\hyperframes\\history\\fb157519-fb65-466a-a9e7-f75330cf1204\\blobs\\67\\6703428ce7cfcc2dddbd588237de2df82e82377f81c137f598cf1c000cd3f1df"
+    },
+    "assets/clip2.mp4": {
+      "hash": "e339c103bced1bdd843c678ccbd616a48d5ec8dab11607e7c3b10b894b0f1b9a",
+      "content": "C:\\Users\\User\\.cache\\hyperframes\\history\\fb157519-fb65-466a-a9e7-f75330cf1204\\blobs\\e3\\e339c103bced1bdd843c678ccbd616a48d5ec8dab11607e7c3b10b894b0f1b9a"
+    },
+    "assets/clip3.mp4": {
+      "hash": "6995b8d4988b5a4c5b139b74db971a789de33d86df98627d73982aa4718e3f86",
+      "content": "C:\\Users\\User\\.cache\\hyperframes\\history\\fb157519-fb65-466a-a9e7-f75330cf1204\\blobs\\69\\6995b8d4988b5a4c5b139b74db971a789de33d86df98627d73982aa4718e3f86"
+    },
+    "assets/clip4.mp4": {
+      "hash": "f38317d5a352dd2d73257b376a4b8fc3f57ea54331f24b5db47c07a8bd0a9775",
+      "content": "C:\\Users\\User\\.cache\\hyperframes\\history\\fb157519-fb65-466a-a9e7-f75330cf1204\\blobs\\f3\\f38317d5a352dd2d73257b376a4b8fc3f57ea54331f24b5db47c07a8bd0a9775"
+    },
+    "assets/clip5.mp4": {
+      "hash": "4c31d2abbb5a862d9ca97688d7b13bac26d0cdf5e154d10e2437c3d8bbc8f2c2",
+      "content": "C:\\Users\\User\\.cache\\hyperframes\\history\\fb157519-fb65-466a-a9e7-f75330cf1204\\blobs\\4c\\4c31d2abbb5a862d9ca97688d7b13bac26d0cdf5e154d10e2437c3d8bbc8f2c2"
+    },
+    "assets/vo.m4a": {
+      "hash": "374dfdf8ff715300d35db3cf01ca97c0d8f0c73b8967f9ffadd4d904884fe93e",
+      "content": "C:\\Users\\User\\.cache\\hyperframes\\history\\fb157519-fb65-466a-a9e7-f75330cf1204\\blobs\\37\\374dfdf8ff715300d35db3cf01ca97c0d8f0c73b8967f9ffadd4d904884fe93e"
+    },
+    "hyperframes.json": {
+      "hash": "53dbce1e19aa713cbb12ee0bc4d206143b45ab15e6ffbfcaa8f69572d4d24d50",
+      "content": "C:\\Users\\User\\.cache\\hyperframes\\history\\fb157519-fb65-466a-a9e7-f75330cf1204\\blobs\\53\\53dbce1e19aa713cbb12ee0bc4d206143b45ab15e6ffbfcaa8f69572d4d24d50"
+    },
+    "index.html": {
+      "hash": "c3012637c2c0ef15355af663455a7911806336d9f09f0b18b9b228823e5978f8",
+      "content": "C:\\Users\\User\\.cache\\hyperframes\\history\\fb157519-fb65-466a-a9e7-f75330cf1204\\blobs\\c3\\c3012637c2c0ef15355af663455a7911806336d9f09f0b18b9b228823e5978f8"
+    },
+    "meta.json": {
+      "hash": "e6a55f694e42f1f9d6c6a143c31b5c2cc5f31ff819e8b34bb0633c2e8cbb249d",
+      "content": "C:\\Users\\User\\.cache\\hyperframes\\history\\fb157519-fb65-466a-a9e7-f75330cf1204\\blobs\\e6\\e6a55f694e42f1f9d6c6a143c31b5c2cc5f31ff819e8b34bb0633c2e8cbb249d"
+    },
+    "package.json": {
+      "hash": "f967d44614f2994227a727c340d8c9d5f45eb2169b606dce197224fcbb19cb75",
+      "content": "C:\\Users\\User\\.cache\\hyperframes\\history\\fb157519-fb65-466a-a9e7-f75330cf1204\\blobs\\f9\\f967d44614f2994227a727c340d8c9d5f45eb2169b606dce197224fcbb19cb75"
+    }
+  },
+  "revisions": {},
+  "checks": {
+    "latest": {
+      "revision": null,
+      "id": "fa1ad573-1b3a-4373-8f49-2b477057eecb"
+    },
+    "revisions": {},
+    "unversioned": [
+      {
+        "id": "fa1ad573-1b3a-4373-8f49-2b477057eecb",
+        "scope": "project",
+        "report": "C:\\Users\\User\\.hermes\\workspace\\Vault\\business\\Content\\reel-template-2real\\2RealReel\\.hyperframes\\artifacts\\checks\\fa1ad573-1b3a-4373-8f49-2b477057eecb.json",
+        "metadata": {
+          "ok": true,
+          "browserSkipped": false,
+          "options": {
+            "samples": 9,
+            "atTransitions": false,
+            "maxIssues": 80,
+            "collapseStatic": true,
+            "tolerance": 2,
+            "timeout": 45000,
+            "contrast": true,
+            "strict": false,
+            "snapshots": false,
+            "browserGpuMode": "auto",
+            "includeUnmounted": false
+          }
+        },
+        "createdAt": 1794125459257,
+        "contentHash": "7235887af31ebfc95b368d14f46086c0713aa41b7e886ebdc37842092d4df1c0",
+        "revision": null,
+        "inputFingerprint": "332d8a5c55e11c747f821009c5e430842e6e57064cc29bb5e9283d4108b33ca0",
+        "inputScope": "local-project-files",
+        "attribution": "unversioned"
+      }
+    ]
+  },
+  "snapshots": {
+    "latest": null,
+    "revisions": {},
+    "unversioned": []
+  },
+  "renders": {
+    "latest": {
+      "id": "b5f77076-6f7b-42be-ab5d-4ee2d8fd5bd8",
+      "completedAt": 1794125544722,
+      "output": "C:\\Users\\User\\.hermes\\workspace\\Vault\\business\\Content\\reel-template-2real\\2RealReel\\reel-test.mp4",
+      "status": "completed",
+      "revision": null
+    },
+    "retainedRevisions": []
+  },
+  "pendingArtifactCleanup": []
+}

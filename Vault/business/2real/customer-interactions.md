@@ -8525,3 +8525,12 @@ I want to try and see first
 - **Agent auto-replied 14:07 (AI-marked):** checked live list, Lumix not in catalog, found Bw9 Pro Smart Watch w/ Camera + car backup cams, asked for photo/link/product code, will confirm price+stock. No CTA included. No price/stock invented.
 - **Follow-up:** 14:07 biz "Oh you mean the Panasonic it's available", 14:10 "Do you want it today?", 16:54 "I missed your call" (after customer's missed call) — no customer reply since 16:54
 - **Reply sent by bot:** NONE (guarded, read-only)
+
+## 2026-11-08 18:45
+- **Channel:** whatsapp (meta-agent handover trial — monitor ping NEW:@Benjaminaddo670,@mal33lam,@reneeollinaperry)
+- **Chat:** @Benjaminaddo670 — cust 17:58 "Ok please" (05/11 18:42 asked: "do you sell Self Drilling Screws M8 x 12mm C/M washer"; biz 05/11 18:43 "Only what we have available")
+- **Agent draft (NOT sent):** "What can we help you find today? Let us know the item you need and we will check our live list for you." — generic opener, ignores stated item; no CTA; no price/stock invented. Status "Drafting a reply"/"Suggested Response · Edit response" awaiting human send.
+- **Chat:** @reneeollinaperry — cust 17:22 "I want only imperial spanners / Smaller sizes"
+- **Agent draft (NOT sent):** "We have imperial spanners listed — for the smaller sizes please let us know the exact sizes you need and we will check our live list to confirm the price and stock before you order." — good: context-aware, no invented prices/stock; no CTA (minor).
+- **Chat:** @mal33lam — no pending customer question (declined 17:39 "got another alternative"); agent correctly idle.
+- **Reply sent by bot:** NONE today — agent drafted only, both drafts still pending approval (differs from 07/11 auto-send)

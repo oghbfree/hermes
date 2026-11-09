@@ -1,0 +1,112 @@
+<!doctype html>
+<html lang="en" data-composition-variables='[
+  {"id":"clip1","type":"string","label":"Scene 1 (stall/hook)","default":"assets/clip1.mp4"},
+  {"id":"clip2","type":"string","label":"Scene 2 (swap)","default":"assets/clip2.mp4"},
+  {"id":"clip3","type":"string","label":"Scene 3 (work)","default":"assets/clip3.mp4"},
+  {"id":"clip4","type":"string","label":"Scene 4 (payoff)","default":"assets/clip4.mp4"},
+  {"id":"clip5","type":"string","label":"Scene 5 (price/CTA)","default":"assets/clip5.mp4"},
+  {"id":"vo","type":"string","label":"Voiceover audio","default":"assets/vo.m4a"},
+  {"id":"caption1","type":"string","label":"Caption 1","default":"Ever had a tool die right when the client was watching?"},
+  {"id":"caption2","type":"string","label":"Caption 2","default":"That\u2019s when I swapped in the right one."},
+  {"id":"caption3","type":"string","label":"Caption 3","default":"Clean holes. No redo. Half the time."},
+  {"id":"caption4","type":"string","label":"Caption 4","default":"The job done right. That\u2019s the return."},
+  {"id":"priceText","type":"string","label":"Price pill text","default":"1,300 cedis"},
+  {"id":"detailLine","type":"string","label":"Detail line on price pill","default":"DeWalt 18V XR Combi - UK pre-owned, tested working"},
+  {"id":"cta","type":"string","label":"CTA line","default":"Message me on WhatsApp 0204252252"}
+]'>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=1080, height=1920" />
+    <script src="https://cdn.jsdelivr.net/npm/gsap@3.15.0/dist/gsap.min.js"></script>
+    <style>
+      * { margin: 0; padding: 0; box-sizing: border-box; }
+      html, body { margin: 0; width: 1080px; height: 1920px; overflow: hidden; background: #000; }
+      #root { position: relative; width: 100%; height: 100%; overflow: hidden; font-family: -apple-system, "Segoe UI", system-ui, sans-serif; }
+      video { width: 100%; height: 100%; object-fit: cover; display: block; background: #000; }
+      /* caption pill (narration) — lower third */
+      .caption {
+        position: absolute; left: 50%; bottom: 210px; transform: translateX(-50%);
+        width: max-content; max-width: 92%; padding: 18px 30px;
+        background: rgba(10,12,16,0.82); color: #fff; text-align: center;
+        font-size: 42px; font-weight: 700; line-height: 1.3; letter-spacing: -0.01em;
+        border-radius: 22px; border: 1.5px solid rgba(255,255,255,0.28);
+        backdrop-filter: blur(4px); white-space: normal;
+      }
+      /* price pill (digit card) — flat sibling pills */
+      .price-detail {
+        position: absolute; left: 50%; bottom: 420px; transform: translateX(-50%);
+        width: max-content; max-width: 94%; padding: 14px 28px;
+        background: rgba(10,12,16,0.9); color: #e5e7eb; text-align: center;
+        font-size: 32px; font-weight: 600; line-height: 1.25;
+        border-radius: 18px 18px 0 0; border: 2px solid rgba(34,197,94,0.45); border-bottom: none;
+      }
+      .price-num {
+        position: absolute; left: 50%; bottom: 300px; transform: translateX(-50%);
+        width: max-content; max-width: 60%; padding: 28px 40px;
+        background: rgba(10,12,16,0.95); color: #22c55e; text-align: center;
+        font-size: 76px; font-weight: 800; letter-spacing: -0.02em; line-height: 1.05;
+        border-radius: 0 0 22px 22px; border: 2px solid rgba(34,197,94,0.45); border-top: none;
+        box-shadow: 0 18px 40px rgba(0,0,0,0.5);
+      }
+      /* CTA pill */
+      .cta-pill {
+        position: absolute; left: 50%; bottom: 150px; transform: translateX(-50%);
+        width: max-content; max-width: 94%; padding: 20px 32px;
+        background: #16a34a; color: #fff; text-align: center;
+        font-size: 44px; font-weight: 700; letter-spacing: -0.01em;
+        border-radius: 26px; box-shadow: 0 18px 40px rgba(22,163,74,0.35);
+      }
+    </style>
+  </head>
+  <body>
+    <div id="root"
+         data-composition-id="2real-reel"
+         data-start="0"
+         data-width="1080"
+         data-height="1920"
+         data-duration="20.4">
+
+      <!-- 5 full-frame scene clips (single continuous world; NO PiP per V3 doctrine) -->
+      <video id="shot1" class="clip" data-start="0" data-duration="4.6" data-var-src="clip1" src="assets/clip1.mp4" muted playsinline></video>
+      <video id="shot2" class="clip" data-start="4.6" data-duration="4.1" data-var-src="clip2" src="assets/clip2.mp4" muted playsinline></video>
+      <video id="shot3" class="clip" data-start="8.7" data-duration="2.4" data-var-src="clip3" src="assets/clip3.mp4" muted playsinline></video>
+      <video id="shot4" class="clip" data-start="11.1" data-duration="3.7" data-var-src="clip4" src="assets/clip4.mp4" muted playsinline></video>
+      <video id="shot5" class="clip" data-start="14.8" data-duration="5.6" data-var-src="clip5" src="assets/clip5.mp4" muted playsinline></video>
+
+      <!-- VO (separate audio element; video tracks stay muted) -->
+      <audio id="vo-track" class="clip" data-start="0" data-duration="20.4" data-var-src="vo" src="assets/vo.m4a" data-volume="1"></audio>
+
+      <!-- captions, one per beat -->
+      <div id="cap1" class="clip caption" data-start="0.4" data-duration="4.0" data-var-text="caption1">Ever had a tool die right when the client was watching?</div>
+      <div id="cap2" class="clip caption" data-start="4.9" data-duration="3.6" data-var-text="caption2">That’s when I swapped in the right one.</div>
+      <div id="cap3" class="clip caption" data-start="8.9" data-duration="2.2" data-var-text="caption3">Clean holes. No redo. Half the time.</div>
+      <div id="cap4" class="clip caption" data-start="11.3" data-duration="3.4" data-var-text="caption4">The job done right. That’s the return.</div>
+
+      <!-- price + CTA pill (flat sibling pills, no nesting) -->
+      <div id="priceDetail" class="clip price-detail" data-start="15.0" data-duration="2.2" data-var-text="detailLine">DeWalt 18V XR Combi - UK pre-owned, tested working</div>
+      <div id="priceCard" class="clip price-num" data-start="15.0" data-duration="2.2" data-var-text="priceText">1,300 cedis</div>
+      <div id="ctaCard" class="clip cta-pill" data-start="17.6" data-duration="2.8" data-var-text="cta">Message me on WhatsApp 0204252252</div>
+    </div>
+
+    <script>
+      const tl = gsap.timeline({ paused: true });
+      // caption fade in/out per beat
+      tl.from("#cap1", { y: 20, opacity: 0, duration: 0.4, ease: "power2.out" }, 0.4);
+      tl.to("#cap1", { y: -20, opacity: 0, duration: 0.35, ease: "power2.in" }, 4.3);
+      tl.from("#cap2", { y: 20, opacity: 0, duration: 0.4, ease: "power2.out" }, 4.9);
+      tl.to("#cap2", { y: -20, opacity: 0, duration: 0.35, ease: "power2.in" }, 8.5);
+      tl.from("#cap3", { y: 20, opacity: 0, duration: 0.35, ease: "power2.out" }, 8.9);
+      tl.to("#cap3", { y: -20, opacity: 0, duration: 0.3, ease: "power2.in" }, 11.1);
+      tl.from("#cap4", { y: 20, opacity: 0, duration: 0.35, ease: "power2.out" }, 11.3);
+      tl.to("#cap4", { y: -20, opacity: 0, duration: 0.3, ease: "power2.in" }, 14.7);
+      // price card zoom-pop (detail + number together)
+      tl.from("#priceDetail", { y: 10, opacity: 0, duration: 0.3, ease: "power2.out" }, 15.0);
+      tl.from("#priceCard", { scale: 0.88, opacity: 0, duration: 0.35, ease: "back.out(1.4)" }, 15.0);
+      tl.to("#priceDetail", { opacity: 0, duration: 0.25, ease: "power2.in" }, 17.05);
+      tl.to("#priceCard", { scale: 1.03, opacity: 0, duration: 0.3, ease: "power2.in" }, 17.1);
+      // CTA fade up
+      tl.from("#ctaCard", { y: 24, opacity: 0, duration: 0.4, ease: "power2.out" }, 17.6);
+      window.__timelines["2real-reel"] = tl;
+    </script>
+  </body>
+</html>

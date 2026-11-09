@@ -8610,5 +8610,15 @@
     "first_seen": "2026-11-02 12:35",
     "stage": "review_sent",
     "purchases": 1
+  },
+  {
+    "timestamp": "2026-11-07 17:00",
+    "customer_msg": "14:06 \"Saw a Lumix digital camera and wanted to know if it's still available\"; 14:08 echo \"Oh you mean the Panasonic it's available\"; missed call ~16:5x",
+    "reply_sent": "",
+    "status": "resolved",
+    "age_hours": 16.0,
+    "priority": "LOW",
+    "last_checked": "2026-11-08T09:00:33.873168",
+    "checked_count": 1
   }
 ]

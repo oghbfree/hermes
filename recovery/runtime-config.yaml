@@ -1,4 +1,4 @@
-_config_version: 51
+_config_version: 52
 GATEWAY_ALLOW_ALL_USERS: true
 agent:
   api_max_retries: 3
