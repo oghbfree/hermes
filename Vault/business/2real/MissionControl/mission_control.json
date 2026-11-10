@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-08 06:45",
-  "day": "Sunday 08 Nov 2026",
+  "generated": "2026-11-09 06:45",
+  "day": "Monday 09 Nov 2026",
   "kanban": {
     "total": 272,
     "unique": 125,
@@ -613,12 +613,6 @@
       "owner": "default"
     },
     {
-      "id": "f3228b7e",
-      "name": "2Real — Customer Inquiry Loop",
-      "schedule": "0 9 * * *",
-      "owner": "default"
-    },
-    {
       "id": "063e0527",
       "name": "2Real — Weekly Jiji Catalog Refresh",
       "schedule": "30 2 * * 0,3",
@@ -811,7 +805,7 @@
       "owner": "content-buddy"
     }
   ],
-  "routine_count": 57,
+  "routine_count": 56,
   "jiji": {
     "total": 1367,
     "active": 1357,
@@ -896,8 +890,8 @@
     "total_impressions": 1250
   },
   "credits": {
-    "rem": 7.84,
-    "total": 450
+    "rem": 9.86,
+    "total": 460
   },
   "sales": {
     "last": {

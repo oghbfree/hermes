@@ -26,10 +26,17 @@ WA_OPEN_CATALOGUE = """(() => {
 })()"""
 
 WA_ADD_ITEM_CARD = """(() => {
-  // pick the FIRST VISIBLE leaf node whose text is exactly 'Add new item',
-  // regardless of role (WA may render it as DIV, not gridcell).
+  // Prefer the REAL clickable add-item control: button[aria-label='Add new item']
+  // with center inside the viewport (text-leaf matching on WA now returns a
+  // stale/header node whose rect is at the top edge y~0 and never opens).
+  const buts=[...document.querySelectorAll('[aria-label="Add new item"]')]
+    .filter(e=>e.offsetParent!==null).map(e=>{const r=e.getBoundingClientRect();
+      return{x:r.x+r.width/2,y:r.y+r.height/2,vis:r.x>10&&r.y>40&&r.y<innerHeight-40&&r.width>20&&r.height>10};});
+  const bv=buts.find(o=>o.vis)||buts[0];
+  if(bv) return JSON.stringify({x:bv.x,y:bv.y,vis:true});
+  // fallback: visible leaf text node
   const cand=[...document.querySelectorAll('*')].filter(e=>e.offsetParent!==null&&(e.textContent||'').trim()==='Add new item'&&e.children.length===0)
-    .map(e=>{const r=e.getBoundingClientRect();return{x:r.x+r.width/2,y:r.y+r.height/2,vis:r.x>10&&r.y>5&&r.y<innerHeight-10&&r.width>20&&r.height>10};});
+    .map(e=>{const r=e.getBoundingClientRect();return{x:r.x+r.width/2,y:r.y+r.height/2,vis:r.x>10&&r.y>40&&r.y<innerHeight-40&&r.width>20&&r.height>10};});
   const v=cand.find(o=>o.vis)||cand[0];
   if(!v) return 'gone';
   return JSON.stringify(v);
@@ -66,9 +73,22 @@ def wa_fill_fields(title, desc, photo_path):
     time.sleep(3)
     return r
 
+def _scroll_into_view(sel_expr):
+    """Scroll the target element (produced by sel_expr JS) into center view.
+    The add-item drawer is taller than the 710px viewport; off-screen targets
+    get elementFromPoint=null and clicks fall through. Returns element handle JS."""
+    return js("""(() => {
+      const t=%s;
+      if(!t) return 'none';
+      t.scrollIntoView({block:'center',behavior:'instant'});
+      return 'ok';
+    })()""" % sel_expr)
+
 def wa_set_country(country='Ghana'):
     """Open Country of origin dropdown, trusted-click the row (radio commits even
     though the list visually stays open), then the Save registers with delay."""
+    _scroll_into_view("""(() => { const l=[...document.querySelectorAll('*')].filter(e=>e.offsetParent!==null&&(e.textContent||'').trim().startsWith('Country of origin')&&e.children.length===0)[0]; return (l&&(l.closest('[role=button],[tabindex],div[contenteditable]')||l.parentElement))||null; })()""")
+    time.sleep(0.8)
     r=js("""(() => {
       const lab=[...document.querySelectorAll('*')].filter(e=>e.offsetParent!==null&&(e.textContent||'').trim().startsWith('Country of origin')&&e.children.length===0)[0];
       if(!lab) return 'nolab';
@@ -112,6 +132,8 @@ def wa_set_country(country='Ghana'):
 
 def wa_commit():
     """Click 'Add to catalogue'. Returns 'SAVED' when drawer closes / toast appears."""
+    _scroll_into_view("""(() => { const b=[...document.querySelectorAll('div[role=button],button')].filter(e=>e.offsetParent!==null&&(e.textContent||'').trim()==='Add to catalogue'); return b.length?b[b.length-1]:null; })()""")
+    time.sleep(0.8)
     r=js("""(() => {
       const b=[...document.querySelectorAll('div[role=button],button')].filter(e=>e.offsetParent!==null&&(e.textContent||'').trim()==='Add to catalogue');
       if(!b.length) return 'nobtn';

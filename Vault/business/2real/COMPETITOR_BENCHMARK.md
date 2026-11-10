@@ -183,3 +183,43 @@ Others: MERAKEE Enterprise (East Legon), First Icon (Accra), THESSCO ENT (Kwashi
 - INGCO Tile Cutter 1,110mm GH₵ 1,810, Ring RTC2000 GH₵ 500, Luceco torch GH₵ 500, Ryobi charger GH₵ 750 (week-1 FB batch) — no comparable competitor pressure; not above any tool band ✓
 - Week-1 FB batch items (Ring/Luceco/Ryobi charger) are consumer/gift goods outside the tool bands — no benchmark risk.
 - **Flag for H: Parkside reprice STILL outstanding (2,300 → ≤1,600–1,850, or bundle).**
+
+---
+
+## WEEK 10/11/26 — LIVE SCAN (logged-in Jiji DOM via persistent :9222 browser, ports live; own 2Real ads identified & excluded)
+
+### Power Tools / Drills — brand-new 20V single floor HOLDS ~580–680; rotary combo 1,399
+- **Oraimo MaxDrill 20V brand-new flood PERSISTS at GH₵ 580–630** (Accra Metro 580, Madina 600, Sowutwuom 620, Kumasi Metro 630) — the brand-new 20V single-drill floor holds at ~600.
+- **DCA rotary hammer 1100W GH₵ 1,399 ×2** (Adabraka) holds — the rotary/single-upper band anchor.
+- Singles: Black & Decker 520W UK Used GH₵ 580 (Dome) **+ B&D BD664 400W GH₵ 500 (Dome) — 2Real's OWN ads still ranking top-6**, good native visibility ✓ · Ingco Power Drill 1500w GH₵ 1,200 (Accra Metro) · 58v Drill+Toolbox GH₵ 680 (Tesano) · 4-in-1 Drill+Concrete Cutter 21v GH₵ 2,600 (Spintex) · Power Drilling Tools 4-in-1 GH₵ 2,600 (Pokuase).
+- No combo 2pc (1,480–1,600) surfaced on this query's front page — single/adapter band unchanged.
+
+### Hand Tools — entry floor DROPPED again to GH₵ 120 (brand-new)
+- **New entry low: 25pc Precision Electric Screwdriver Hand Tool Set (phone repair) GH₵ 120 (Dome)** · Electrical Hand Tools Set GH₵ 250 (Spintex) · 8pcs Hand Tool Set GH₵ 300 (Dansoman) · Hand Tool Set GH₵ 310 (Western, Shama) · 85 Pieces WHS3B85 GH₵ 435.
+- INGCO mainline holds: 32pc GH₵ 449 (Circle)/561 (Dansoman) · 168pc GH₵ 700 (Accra Metro) · Ingco set GH₵ 850 (East Legon)/950 (Accra Metro) · 120pcs GH₵ 899 (Cantonments)/970 (East Legon) · GABKA 87pcs DIY GH₵ 980.
+- Insulated holds: INGCO 26pc GH₵ 4,400 (Accra Metro). 66pc Brushless Drill+Hand set GH₵ 2,699 holds.
+- **→ Entry band slid to ~120–435 (was 150–375). 2Real's used Stanley/Draper sets (250–660) sit AT/ABOVE the new floor top — brand-new entry sets are now the pressure, not INGCO.**
+
+### Generators — 7kva sub-6k band WIDENS (2,499–4,500); 10kva inverted 10,000–14,000 holds
+- **New sub-5k: Ecoolmax 4.0kva Silent GH₵ 2,499** (Accra Metro) · **7.5kva Ecoolmax Silent GH₵ 4,500** · 7kva Ecoolmax GH₵ 6,000–6,300.
+- 10kva inverted holds: 14,000 (Silent set, Pokuase) · 13,000 (UK-D petrol, Accra Metro) · 12,999 (8kva Inverta; 10kva Silent) · 12,000 · 11,000 · **10,000 ×3 (14kw petrol/13,000w)**.
+- Eco-sensitive 2000i GH₵ 5,800 (Airport Residential) — small-inverter genset line.
+- Diesel (not 2Real band): Perkins/Kama/Honda 10–20kva GH₵ 23,000–75,000.
+
+### Inverters / Solar — ECO gensets dominate; portable 2000w at 760; low solar holds
+- **Power Inverter 2000 Watts Portable GH₵ 760** (Accra Metro — new low-end data point) · Rechargeable 1kva Inverter Power Supply GH₵ 7,800.
+- Ecoolmax 7kVA inverter-genset cluster at GH₵ 6,000–6,100 (many sellers, Pokuase/Metro).
+- Solar: **EVADA 6.2kW Off-Grid 48V MPPT GH₵ 5,999 (Kumasi)** · Must Hybrid 10kw 48v (450voc) GH₵ 7,500 (Anyaa) · KEMAGE 14KVA GH₵ 14,000 (Pokuase).
+- Low solar/inverter band (760–5,999) continues to widen — defensible 2Real zone.
+
+### Electronics — not re-scanned this week (persistent repair-shop dominance unchanged per prior capture)
+
+### EJ DEALS (UK source)
+- **UNREACHABLE this week — ejdeals.co.uk DNS still fails (Non-existent domain).** No new-stock read. Holds as a potential UK surplus source only.
+
+### Own-positioning — Parkside flag enters 3rd week; no new risks
+- **⚠ Parkside 20V Drill/Driver Set GH₵ 2,300 — STILL ABOVE.** Brand-new 20V single floor ~580–630 (Oraimo) and combo 2pc floor ~1,480–1,600 (prior capture). **Reprice Parkside to ≤ GH₵ 1,600 (undercut combo floor) or ≤620 to match Oraimo singles if it's a bare-driver, or bundle with bits to justify 2,300.** Carried flag, now 3rd week.
+- Makita 6281d Drill + Charger GH₵ 850 — above brand-new Oraimo 20V (580–630); brand premium + charger justifies but under direct pressure → hold/watch (750–800 if slow).
+- Saber 18V Combi GH₵ 600 vs brand-new Oraimo 20V 580–630 — at/above a brand-new competitor; combi spec justifies, hold but flag.
+- Bosch GBH 24V SDS GH₵ 1,350 / B&D 18V Hammer Kit GH₵ 1,500 — at/under single rotary/combat band ✓ · Bosch Hammer 500W GH₵ 680, DeWalt Impact Wrench GH₵ 850 — at/under new brand-new single band ✓.
+- **Flag for H: Parkside reprice STILL outstanding (3rd week; 2,300 → ≤1,600 or bundle).**
