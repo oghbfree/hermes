@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-09 06:45",
-  "day": "Monday 09 Nov 2026",
+  "generated": "2026-11-11 12:10",
+  "day": "Wednesday 11 Nov 2026",
   "kanban": {
     "total": 272,
     "unique": 125,
@@ -807,16 +807,16 @@
   ],
   "routine_count": 56,
   "jiji": {
-    "total": 1367,
-    "active": 1357,
+    "total": 1380,
+    "active": 1377,
     "top_categories": [
       [
         "Hand Tools",
-        279
+        281
       ],
       [
         "Electrical Hand Tools",
-        145
+        147
       ],
       [
         "Video Games",
@@ -824,23 +824,23 @@
       ],
       [
         "Vehicle Parts & Accessories",
-        54
+        55
       ],
       [
         "Lighting",
         53
       ],
       [
+        "Home Accessories",
+        47
+      ],
+      [
         "Toys & Games",
         45
       ],
       [
-        "Home Accessories",
-        45
-      ],
-      [
-        "Computer Accessories",
-        41
+        "Sports Equipment",
+        43
       ]
     ],
     "top_by_chats": [
@@ -890,7 +890,7 @@
     "total_impressions": 1250
   },
   "credits": {
-    "rem": 9.86,
+    "rem": 7.25,
     "total": 460
   },
   "sales": {

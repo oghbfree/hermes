@@ -576,6 +576,7 @@ plugins:
   enabled:
     - platforms/telegram
     - whatsapp-customer-gate
+  auto_apply: true
 prefill_messages_file: ''
 privacy:
   redact_pii: false
@@ -849,7 +850,7 @@ tts:
     voice: alloy
   piper:
     voice: en_US-lessac-medium
-  provider: openai
+  provider: edge
   xai:
     bit_rate: 128000
     language: en
@@ -860,7 +861,7 @@ updates:
   non_interactive_local_changes: stash
   pre_update_backup: false
 voice:
-  auto_tts: false
+  auto_tts: true
   beep_enabled: true
   max_recording_seconds: 120
   record_key: ctrl+b

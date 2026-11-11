@@ -22,15 +22,15 @@
       "schedule_display": "0 19 * * *",
       "repeat": {
         "times": null,
-        "completed": 144
+        "completed": 145
       },
       "enabled": true,
       "state": "scheduled",
       "paused_at": null,
       "paused_reason": null,
       "created_at": "2026-06-07T00:35:40.116212+01:00",
-      "next_run_at": "2026-11-10T19:00:00+00:00",
-      "last_run_at": "2026-11-09T19:07:12.477675+00:00",
+      "next_run_at": "2026-11-11T19:00:00+00:00",
+      "last_run_at": "2026-11-10T19:54:39.505174+00:00",
       "last_status": "ok",
       "last_error": null,
       "last_delivery_error": null,
@@ -44,13 +44,13 @@
       "provider_snapshot": null,
       "model_snapshot": null,
       "last_dispatch": {
-        "scheduled_at": "2026-11-09T19:00:00+00:00",
-        "dispatched_at": "2026-11-09T19:06:09.918172+00:00",
-        "lateness_seconds": 369.9,
+        "scheduled_at": "2026-11-10T19:00:00+00:00",
+        "dispatched_at": "2026-11-10T19:53:28.851797+00:00",
+        "lateness_seconds": 3208.9,
         "kind": "late"
       },
       "canonical_completions": [
-        "3c5e56f418a748d7a642a3be85ca435b"
+        "97f8d19150ba433584247af3df0a7d8d"
       ]
     },
     {
@@ -73,15 +73,15 @@
       "schedule_display": "0 9 * * *",
       "repeat": {
         "times": null,
-        "completed": 148
+        "completed": 149
       },
       "enabled": true,
       "state": "scheduled",
       "paused_at": null,
       "paused_reason": null,
       "created_at": "2026-06-07T07:18:37.149115+01:00",
-      "next_run_at": "2026-11-10T09:00:00+00:00",
-      "last_run_at": "2026-11-09T12:16:53.829653+00:00",
+      "next_run_at": "2026-11-12T09:00:00+00:00",
+      "last_run_at": "2026-11-10T09:03:17.434118+00:00",
       "last_status": "ok",
       "last_error": null,
       "last_delivery_error": null,
@@ -90,14 +90,17 @@
       "enabled_toolsets": null,
       "workdir": null,
       "profile": null,
-      "fire_claim": null,
+      "fire_claim": {
+        "at": "2026-11-11T12:10:16.281520+00:00",
+        "by": "DESKTOP-25Q3AQC:16696:d5a7efdc83d04b31b1fb7ee77b70ec7a"
+      },
       "failure_streak": 0,
       "provider_snapshot": null,
       "model_snapshot": null,
       "last_dispatch": {
-        "scheduled_at": "2026-11-09T09:00:00+00:00",
-        "dispatched_at": "2026-11-09T12:12:56.244506+00:00",
-        "lateness_seconds": 11576.2,
+        "scheduled_at": "2026-11-11T09:00:00+00:00",
+        "dispatched_at": "2026-11-11T12:10:15.173342+00:00",
+        "lateness_seconds": 11415.2,
         "kind": "catch_up"
       },
       "last_failure": {
@@ -105,7 +108,7 @@
         "detail": "RuntimeError: Hermes can't reach the model provider. You may be offline. Check your internet connection and try again."
       },
       "canonical_completions": [
-        "67ed151f44d246ceb0853818a7e5da28"
+        "2681de1ce4654aee9447635ad0ddcc8d"
       ]
     },
     {
@@ -182,15 +185,15 @@
       "schedule_display": "4 8 * * *",
       "repeat": {
         "times": null,
-        "completed": 148
+        "completed": 149
       },
       "enabled": true,
       "state": "scheduled",
       "paused_at": null,
       "paused_reason": null,
       "created_at": "2026-06-07T07:18:47.582718+01:00",
-      "next_run_at": "2026-11-10T08:04:00+00:00",
-      "last_run_at": "2026-11-09T12:17:52.975605+00:00",
+      "next_run_at": "2026-11-12T08:04:00+00:00",
+      "last_run_at": "2026-11-10T08:50:38.011357+00:00",
       "last_status": "ok",
       "last_error": null,
       "last_delivery_error": null,
@@ -203,22 +206,25 @@
       ],
       "workdir": "C:\\Users\\User\\.hermes\\workspace\\Vault\\family\\mum\\health",
       "profile": null,
-      "fire_claim": null,
+      "fire_claim": {
+        "at": "2026-11-11T12:10:16.560700+00:00",
+        "by": "DESKTOP-25Q3AQC:16696:ae57597319584bac8f40fa42c8a2ea05"
+      },
       "failure_streak": 0,
       "provider_snapshot": null,
       "model_snapshot": null,
       "last_dispatch": {
-        "scheduled_at": "2026-11-09T08:04:00+00:00",
-        "dispatched_at": "2026-11-09T08:33:10.394687+00:00",
-        "lateness_seconds": 1750.4,
-        "kind": "late"
+        "scheduled_at": "2026-11-11T08:04:00+00:00",
+        "dispatched_at": "2026-11-11T12:10:15.173342+00:00",
+        "lateness_seconds": 14775.2,
+        "kind": "catch_up"
       },
       "last_failure": {
         "at": "2026-11-03T08:09:15.982097+00:00",
         "detail": "RuntimeError: Hermes can't reach the model provider. You may be offline. Check your internet connection and try again."
       },
       "canonical_completions": [
-        "1aac2b7ad42b430b9acc7e76f15b4519"
+        "f402737214b94c2ca4792ff8a6c51e4e"
       ]
     },
     {
@@ -243,15 +249,15 @@
       "schedule_display": "0 13 * * *",
       "repeat": {
         "times": null,
-        "completed": 149
+        "completed": 150
       },
       "enabled": true,
       "state": "scheduled",
       "paused_at": null,
       "paused_reason": null,
       "created_at": "2026-06-07T07:18:49.643232+01:00",
-      "next_run_at": "2026-11-10T13:00:00+00:00",
-      "last_run_at": "2026-11-09T13:23:31.005602+00:00",
+      "next_run_at": "2026-11-11T13:00:00+00:00",
+      "last_run_at": "2026-11-10T13:02:23.367890+00:00",
       "last_status": "ok",
       "last_error": null,
       "last_delivery_error": null,
@@ -269,17 +275,17 @@
       "provider_snapshot": null,
       "model_snapshot": null,
       "last_dispatch": {
-        "scheduled_at": "2026-11-09T13:00:00+00:00",
-        "dispatched_at": "2026-11-09T13:21:40.221266+00:00",
-        "lateness_seconds": 1300.2,
-        "kind": "late"
+        "scheduled_at": "2026-11-10T13:00:00+00:00",
+        "dispatched_at": "2026-11-10T13:00:30.021314+00:00",
+        "lateness_seconds": 30.0,
+        "kind": "on_time"
       },
       "last_failure": {
         "at": "2026-10-25T13:05:17.068538+00:00",
         "detail": "RuntimeError: Hermes can't reach the model provider. You may be offline. Check your internet connection and try again."
       },
       "canonical_completions": [
-        "cca627711d3c465881eb11d315a0cea4"
+        "84dde72f715749f69796e6e81cf8d624"
       ]
     },
     {
@@ -304,15 +310,15 @@
       "schedule_display": "0 19 * * *",
       "repeat": {
         "times": null,
-        "completed": 144
+        "completed": 145
       },
       "enabled": true,
       "state": "scheduled",
       "paused_at": null,
       "paused_reason": null,
       "created_at": "2026-06-07T07:18:51.780984+01:00",
-      "next_run_at": "2026-11-10T19:00:00+00:00",
-      "last_run_at": "2026-11-09T19:10:29.862129+00:00",
+      "next_run_at": "2026-11-11T19:00:00+00:00",
+      "last_run_at": "2026-11-10T19:55:27.587993+00:00",
       "last_status": "ok",
       "last_error": null,
       "last_delivery_error": null,
@@ -330,9 +336,9 @@
       "provider_snapshot": null,
       "model_snapshot": null,
       "last_dispatch": {
-        "scheduled_at": "2026-11-09T19:00:00+00:00",
-        "dispatched_at": "2026-11-09T19:06:09.918172+00:00",
-        "lateness_seconds": 369.9,
+        "scheduled_at": "2026-11-10T19:00:00+00:00",
+        "dispatched_at": "2026-11-10T19:53:28.851797+00:00",
+        "lateness_seconds": 3208.9,
         "kind": "late"
       },
       "last_failure": {
@@ -340,7 +346,7 @@
         "detail": "RuntimeError: Operation interrupted: waiting for model response (2208.2s elapsed)."
       },
       "canonical_completions": [
-        "710bd0fb55a04469bafc4a7aec6a89ad"
+        "aad3a3a5735e4637ac2e9050abe795d7"
       ]
     },
     {
@@ -365,15 +371,15 @@
       "schedule_display": "4 8 * * *",
       "repeat": {
         "times": null,
-        "completed": 147
+        "completed": 148
       },
       "enabled": true,
       "state": "scheduled",
       "paused_at": null,
       "paused_reason": null,
       "created_at": "2026-06-07T07:18:53.848956+01:00",
-      "next_run_at": "2026-11-10T08:04:00+00:00",
-      "last_run_at": "2026-11-09T12:17:53.278759+00:00",
+      "next_run_at": "2026-11-12T08:04:00+00:00",
+      "last_run_at": "2026-11-10T08:49:32.744803+00:00",
       "last_status": "ok",
       "last_error": null,
       "last_delivery_error": null,
@@ -386,22 +392,25 @@
       ],
       "workdir": "C:\\Users\\User\\.hermes\\workspace\\Vault\\family\\H",
       "profile": null,
-      "fire_claim": null,
+      "fire_claim": {
+        "at": "2026-11-11T12:10:17.031198+00:00",
+        "by": "DESKTOP-25Q3AQC:16696:2def5f7aebeb4df0b99bcb5d8a96d359"
+      },
       "failure_streak": 0,
       "provider_snapshot": null,
       "model_snapshot": null,
       "last_dispatch": {
-        "scheduled_at": "2026-11-09T08:04:00+00:00",
-        "dispatched_at": "2026-11-09T08:33:10.394687+00:00",
-        "lateness_seconds": 1750.4,
-        "kind": "late"
+        "scheduled_at": "2026-11-11T08:04:00+00:00",
+        "dispatched_at": "2026-11-11T12:10:15.173342+00:00",
+        "lateness_seconds": 14775.2,
+        "kind": "catch_up"
       },
       "last_failure": {
         "at": "2026-11-03T08:09:11.988160+00:00",
         "detail": "RuntimeError: Hermes can't reach the model provider. You may be offline. Check your internet connection and try again."
       },
       "canonical_completions": [
-        "4276dd796c2a4f0eaf448e1877d71db3"
+        "91cad28dc6624a019196fa30d20d8fb5"
       ]
     },
     {
@@ -426,15 +435,15 @@
       "schedule_display": "0 13 * * *",
       "repeat": {
         "times": null,
-        "completed": 148
+        "completed": 149
       },
       "enabled": true,
       "state": "scheduled",
       "paused_at": null,
       "paused_reason": null,
       "created_at": "2026-06-07T07:18:55.920483+01:00",
-      "next_run_at": "2026-11-10T13:00:00+00:00",
-      "last_run_at": "2026-11-09T13:22:14.364484+00:00",
+      "next_run_at": "2026-11-11T13:00:00+00:00",
+      "last_run_at": "2026-11-10T13:01:28.818345+00:00",
       "last_status": "ok",
       "last_error": null,
       "last_delivery_error": null,
@@ -452,17 +461,17 @@
       "provider_snapshot": null,
       "model_snapshot": null,
       "last_dispatch": {
-        "scheduled_at": "2026-11-09T13:00:00+00:00",
-        "dispatched_at": "2026-11-09T13:21:40.221266+00:00",
-        "lateness_seconds": 1300.2,
-        "kind": "late"
+        "scheduled_at": "2026-11-10T13:00:00+00:00",
+        "dispatched_at": "2026-11-10T13:00:30.021314+00:00",
+        "lateness_seconds": 30.0,
+        "kind": "on_time"
       },
       "last_failure": {
         "at": "2026-10-25T13:05:28.984545+00:00",
         "detail": "RuntimeError: Hermes can't reach the model provider. You may be offline. Check your internet connection and try again."
       },
       "canonical_completions": [
-        "70614c03009a4741b89500bf28438b35"
+        "ccf38c665a974ecd8f9efd05a07f54d7"
       ]
     },
     {
@@ -487,15 +496,15 @@
       "schedule_display": "0 19 * * *",
       "repeat": {
         "times": null,
-        "completed": 144
+        "completed": 145
       },
       "enabled": true,
       "state": "scheduled",
       "paused_at": null,
       "paused_reason": null,
       "created_at": "2026-06-07T07:18:58.059275+01:00",
-      "next_run_at": "2026-11-10T19:00:00+00:00",
-      "last_run_at": "2026-11-09T19:07:41.223212+00:00",
+      "next_run_at": "2026-11-11T19:00:00+00:00",
+      "last_run_at": "2026-11-10T19:56:12.150082+00:00",
       "last_status": "ok",
       "last_error": null,
       "last_delivery_error": null,
@@ -513,13 +522,13 @@
       "provider_snapshot": null,
       "model_snapshot": null,
       "last_dispatch": {
-        "scheduled_at": "2026-11-09T19:00:00+00:00",
-        "dispatched_at": "2026-11-09T19:06:09.918172+00:00",
-        "lateness_seconds": 369.9,
+        "scheduled_at": "2026-11-10T19:00:00+00:00",
+        "dispatched_at": "2026-11-10T19:53:28.851797+00:00",
+        "lateness_seconds": 3208.9,
         "kind": "late"
       },
       "canonical_completions": [
-        "77077f33ffb646d3a853925eedede9c0"
+        "2435400e3b7c4214a74f48d52d9f10b2"
       ]
     },
     {
@@ -646,15 +655,15 @@
       "schedule_display": "0 7 * * *",
       "repeat": {
         "times": null,
-        "completed": 288
+        "completed": 289
       },
       "enabled": true,
       "state": "scheduled",
       "paused_at": null,
       "paused_reason": null,
       "created_at": "2026-06-07T07:19:14.542277+01:00",
-      "next_run_at": "2026-11-10T07:00:00+00:00",
-      "last_run_at": "2026-11-09T07:05:40.033431+00:00",
+      "next_run_at": "2026-11-12T07:00:00+00:00",
+      "last_run_at": "2026-11-10T07:03:53.340125+00:00",
       "last_status": "ok",
       "last_error": null,
       "last_delivery_error": null,
@@ -663,22 +672,25 @@
       "enabled_toolsets": null,
       "workdir": null,
       "profile": null,
-      "fire_claim": null,
+      "fire_claim": {
+        "at": "2026-11-11T12:10:21.593360+00:00",
+        "by": "DESKTOP-25Q3AQC:16696:c5fbeb351d904e4f996c3a6d4830a15b"
+      },
       "failure_streak": 0,
       "provider_snapshot": null,
       "model_snapshot": null,
       "last_dispatch": {
-        "scheduled_at": "2026-11-09T07:00:00+00:00",
-        "dispatched_at": "2026-11-09T07:00:12.279660+00:00",
-        "lateness_seconds": 12.3,
-        "kind": "on_time"
+        "scheduled_at": "2026-11-11T07:00:00+00:00",
+        "dispatched_at": "2026-11-11T12:10:15.173342+00:00",
+        "lateness_seconds": 18615.2,
+        "kind": "catch_up"
       },
       "last_failure": {
         "at": "2026-11-05T07:05:52.859119+00:00",
         "detail": "RuntimeError: Hermes can't reach the model provider. You may be offline. Check your internet connection and try again."
       },
       "canonical_completions": [
-        "f71f41153ed14f05949547495338e7e1"
+        "26301e9cf30b447d95a13d7479832b5f"
       ]
     },
     {
@@ -811,15 +823,15 @@
       "schedule_display": "0 6 * * *",
       "repeat": {
         "times": null,
-        "completed": 93
+        "completed": 94
       },
       "enabled": true,
       "state": "scheduled",
       "paused_at": null,
       "paused_reason": null,
       "created_at": "2026-06-07T07:19:22.604845+01:00",
-      "next_run_at": "2026-11-11T06:00:00+00:00",
-      "last_run_at": "2026-11-09T06:01:20.503980+00:00",
+      "next_run_at": "2026-11-12T06:00:00+00:00",
+      "last_run_at": "2026-11-10T06:00:49.202795+00:00",
       "last_status": "ok",
       "last_error": null,
       "last_delivery_error": null,
@@ -829,24 +841,24 @@
       "workdir": null,
       "profile": null,
       "fire_claim": {
-        "at": "2026-11-10T06:00:13.559990+00:00",
-        "by": "DESKTOP-25Q3AQC:34324:1b383b97d1c94201830dd164223b06ad"
+        "at": "2026-11-11T12:10:23.117203+00:00",
+        "by": "DESKTOP-25Q3AQC:16696:c36c2d1359864c1da4bfa0bbf5d20a09"
       },
       "failure_streak": 0,
       "provider_snapshot": null,
       "model_snapshot": null,
       "last_dispatch": {
-        "scheduled_at": "2026-11-10T06:00:00+00:00",
-        "dispatched_at": "2026-11-10T06:00:13.308087+00:00",
-        "lateness_seconds": 13.3,
-        "kind": "on_time"
+        "scheduled_at": "2026-11-11T06:00:00+00:00",
+        "dispatched_at": "2026-11-11T12:10:15.173342+00:00",
+        "lateness_seconds": 22215.2,
+        "kind": "catch_up"
       },
       "last_failure": {
         "at": "2026-10-31T10:30:41.926053+00:00",
         "detail": "RuntimeError: Hermes can't reach the model provider. You may be offline. Check your internet connection and try again."
       },
       "canonical_completions": [
-        "87216a83e3054e5cbe0684944429e6d9"
+        "6f46c2b40d6e4d7c9bf50ebcd53d3987"
       ]
     },
     {
@@ -869,15 +881,15 @@
       "schedule_display": "0 8 * * *",
       "repeat": {
         "times": null,
-        "completed": 147
+        "completed": 148
       },
       "enabled": true,
       "state": "scheduled",
       "paused_at": null,
       "paused_reason": null,
       "created_at": "2026-06-07T07:19:26.671069+01:00",
-      "next_run_at": "2026-11-10T08:00:00+00:00",
-      "last_run_at": "2026-11-09T12:22:43.584975+00:00",
+      "next_run_at": "2026-11-12T08:00:00+00:00",
+      "last_run_at": "2026-11-10T08:51:36.542375+00:00",
       "last_status": "ok",
       "last_error": null,
       "last_delivery_error": null,
@@ -886,22 +898,25 @@
       "enabled_toolsets": null,
       "workdir": null,
       "profile": null,
-      "fire_claim": null,
+      "fire_claim": {
+        "at": "2026-11-11T12:10:23.437895+00:00",
+        "by": "DESKTOP-25Q3AQC:16696:7a5888f7676d4cabab21c8a4fc7ee939"
+      },
       "failure_streak": 0,
       "provider_snapshot": null,
       "model_snapshot": null,
       "last_dispatch": {
-        "scheduled_at": "2026-11-09T08:00:00+00:00",
-        "dispatched_at": "2026-11-09T08:33:10.394687+00:00",
-        "lateness_seconds": 1990.4,
-        "kind": "late"
+        "scheduled_at": "2026-11-11T08:00:00+00:00",
+        "dispatched_at": "2026-11-11T12:10:15.173342+00:00",
+        "lateness_seconds": 15015.2,
+        "kind": "catch_up"
       },
       "last_failure": {
         "at": "2026-11-03T08:05:06.456594+00:00",
         "detail": "RuntimeError: Hermes can't reach the model provider. You may be offline. Check your internet connection and try again."
       },
       "canonical_completions": [
-        "570a7047c8a941d98af8cbbddf07e9cf"
+        "7d48855c93374ba4aef8b635b0ba5755"
       ]
     },
     {
@@ -924,39 +939,42 @@
       "schedule_display": "18 10 * * 0,1,2,3,4,5,6",
       "repeat": {
         "times": null,
-        "completed": 121
+        "completed": 122
       },
       "enabled": true,
       "state": "scheduled",
       "paused_at": null,
       "paused_reason": null,
       "created_at": "2026-06-07T07:19:30.748528+01:00",
-      "next_run_at": "2026-11-10T10:18:00+00:00",
-      "last_run_at": "2026-11-09T12:19:21.638440+00:00",
-      "last_status": "ok",
-      "last_error": null,
-      "last_delivery_error": null,
+      "next_run_at": "2026-11-12T10:18:00+00:00",
+      "last_run_at": "2026-11-10T11:18:33.144765+00:00",
+      "last_status": "error",
+      "last_error": "RuntimeError: Hermes can't reach the model provider. You may be offline. Check your internet connection and try again.",
+      "last_delivery_error": "live adapter send failed: send_path_degraded; live adapter delivery to telegram:-1003784520976:1 failed: send_path_degraded; delivery error: Telegram send failed: httpx.ConnectError: [Errno 11004] getaddrinfo failed (target telegram:-1003784520976:1); queued text for telegram:-1003784520976:1 for redelivery once the live adapter reconnects",
       "deliver": "origin",
       "origin": null,
       "enabled_toolsets": null,
       "workdir": null,
       "profile": null,
-      "fire_claim": null,
-      "failure_streak": 0,
+      "fire_claim": {
+        "at": "2026-11-11T12:10:23.505711+00:00",
+        "by": "DESKTOP-25Q3AQC:16696:3e40c88b8ab64893ba17d9c95361f8d1"
+      },
+      "failure_streak": 1,
       "provider_snapshot": null,
       "model_snapshot": null,
       "last_dispatch": {
-        "scheduled_at": "2026-11-09T10:18:00+00:00",
-        "dispatched_at": "2026-11-09T12:12:56.244506+00:00",
-        "lateness_seconds": 6896.2,
+        "scheduled_at": "2026-11-11T10:18:00+00:00",
+        "dispatched_at": "2026-11-11T12:10:15.173342+00:00",
+        "lateness_seconds": 6735.2,
         "kind": "late"
       },
       "last_failure": {
-        "at": "2026-10-31T10:31:30.442433+00:00",
+        "at": "2026-11-10T11:18:33.144765+00:00",
         "detail": "RuntimeError: Hermes can't reach the model provider. You may be offline. Check your internet connection and try again."
       },
       "canonical_completions": [
-        "5f17ffd639754669b2a358691f679917"
+        "4114cfb07af049068c54eb6d7b31dbf5"
       ]
     },
     {
@@ -1232,15 +1250,15 @@
       "schedule_display": "0 9 * * *",
       "repeat": {
         "times": null,
-        "completed": 146
+        "completed": 147
       },
       "enabled": true,
       "state": "scheduled",
       "paused_at": null,
       "paused_reason": null,
       "created_at": "2026-06-07T23:07:14.607446+01:00",
-      "next_run_at": "2026-11-10T09:00:00+00:00",
-      "last_run_at": "2026-11-09T12:16:53.927549+00:00",
+      "next_run_at": "2026-11-12T09:00:00+00:00",
+      "last_run_at": "2026-11-10T09:02:47.317079+00:00",
       "last_status": "ok",
       "last_error": null,
       "last_delivery_error": null,
@@ -1249,14 +1267,17 @@
       "enabled_toolsets": null,
       "workdir": null,
       "profile": null,
-      "fire_claim": null,
+      "fire_claim": {
+        "at": "2026-11-11T12:10:23.606554+00:00",
+        "by": "DESKTOP-25Q3AQC:16696:8e2c16dbd5664204a29ea6fcbdcf5159"
+      },
       "failure_streak": 0,
       "provider_snapshot": null,
       "model_snapshot": null,
       "last_dispatch": {
-        "scheduled_at": "2026-11-09T09:00:00+00:00",
-        "dispatched_at": "2026-11-09T12:12:56.244506+00:00",
-        "lateness_seconds": 11576.2,
+        "scheduled_at": "2026-11-11T09:00:00+00:00",
+        "dispatched_at": "2026-11-11T12:10:15.173342+00:00",
+        "lateness_seconds": 11415.2,
         "kind": "catch_up"
       },
       "last_failure": {
@@ -1264,7 +1285,7 @@
         "detail": "RuntimeError: Hermes can't reach the model provider. You may be offline. Check your internet connection and try again."
       },
       "canonical_completions": [
-        "29003e7c27c0440a88dff9eb6f1a48f9"
+        "d10f05663e17481c9cdf0f91ae434d79"
       ]
     },
     {
@@ -1289,38 +1310,38 @@
       "schedule_display": "0 10 */3 * *",
       "repeat": {
         "times": null,
-        "completed": 46
+        "completed": 47
       },
       "enabled": true,
       "state": "scheduled",
       "paused_at": null,
       "paused_reason": null,
       "created_at": "2026-06-23T02:09:57.632312+01:00",
-      "next_run_at": "2026-11-10T10:00:00+00:00",
-      "last_run_at": "2026-11-07T10:02:03.180743+00:00",
-      "last_status": "ok",
-      "last_error": null,
-      "last_delivery_error": null,
+      "next_run_at": "2026-11-13T10:00:00+00:00",
+      "last_run_at": "2026-11-10T11:18:37.823581+00:00",
+      "last_status": "error",
+      "last_error": "RuntimeError: Hermes can't reach the model provider. You may be offline. Check your internet connection and try again.",
+      "last_delivery_error": "live adapter send failed: send_path_degraded; live adapter delivery to telegram:-1003784520976:16 failed: send_path_degraded; delivery error: Telegram send failed: httpx.ConnectError: [Errno 11004] getaddrinfo failed (target telegram:-1003784520976:16); queued text for telegram:-1003784520976:16 for redelivery once the live adapter reconnects",
       "deliver": "telegram:-1003784520976:16",
       "origin": null,
       "enabled_toolsets": null,
       "workdir": null,
       "fire_claim": null,
-      "failure_streak": 0,
+      "failure_streak": 1,
       "provider_snapshot": null,
       "model_snapshot": null,
       "last_dispatch": {
-        "scheduled_at": "2026-11-07T10:00:00+00:00",
-        "dispatched_at": "2026-11-07T10:00:46.690978+00:00",
-        "lateness_seconds": 46.7,
-        "kind": "on_time"
+        "scheduled_at": "2026-11-10T10:00:00+00:00",
+        "dispatched_at": "2026-11-10T11:13:24.452615+00:00",
+        "lateness_seconds": 4404.5,
+        "kind": "late"
       },
       "last_failure": {
-        "at": "2026-10-31T10:35:43.481973+00:00",
+        "at": "2026-11-10T11:18:37.823581+00:00",
         "detail": "RuntimeError: Hermes can't reach the model provider. You may be offline. Check your internet connection and try again."
       },
       "canonical_completions": [
-        "fff8f7b94b80499082b8afc796c8a207"
+        "a8a2cf5cfbb74cec93ab6a8f9da60b7a"
       ]
     },
     {
@@ -1786,15 +1807,15 @@
       "schedule_display": "0 8 * * *",
       "repeat": {
         "times": null,
-        "completed": 109
+        "completed": 110
       },
       "enabled": true,
       "state": "scheduled",
       "paused_at": null,
       "paused_reason": null,
       "created_at": "2026-07-18T04:12:38.493477+01:00",
-      "next_run_at": "2026-11-10T08:00:00+00:00",
-      "last_run_at": "2026-11-09T12:16:42.742929+00:00",
+      "next_run_at": "2026-11-12T08:00:00+00:00",
+      "last_run_at": "2026-11-10T08:48:51.617823+00:00",
       "last_status": "ok",
       "last_error": null,
       "last_delivery_error": null,
@@ -1808,20 +1829,23 @@
       },
       "enabled_toolsets": null,
       "workdir": null,
-      "fire_claim": null,
+      "fire_claim": {
+        "at": "2026-11-11T12:10:23.662029+00:00",
+        "by": "DESKTOP-25Q3AQC:16696:fcb5cf6d951f47afa2c5f7790afd5b3d"
+      },
       "failure_streak": 0,
       "last_dispatch": {
-        "scheduled_at": "2026-11-09T08:00:00+00:00",
-        "dispatched_at": "2026-11-09T08:33:10.394687+00:00",
-        "lateness_seconds": 1990.4,
-        "kind": "late"
+        "scheduled_at": "2026-11-11T08:00:00+00:00",
+        "dispatched_at": "2026-11-11T12:10:15.173342+00:00",
+        "lateness_seconds": 15015.2,
+        "kind": "catch_up"
       },
       "last_failure": {
         "at": "2026-11-03T08:05:08.359613+00:00",
         "detail": "RuntimeError: Hermes can't reach the model provider. You may be offline. Check your internet connection and try again."
       },
       "canonical_completions": [
-        "b881b272e3024c29b97eb02c4306547e"
+        "2bd20cf5be4644a4a030e5d781506c7c"
       ]
     },
     {
@@ -2045,28 +2069,28 @@
       "schedule_display": "0 9 * * 2",
       "repeat": {
         "times": null,
-        "completed": 15
+        "completed": 16
       },
       "enabled": true,
       "state": "scheduled",
       "paused_at": null,
       "paused_reason": null,
       "created_at": "2026-07-19T14:13:31.210207+00:00",
-      "next_run_at": "2026-11-10T09:00:00+00:00",
-      "last_run_at": "2026-11-03T09:05:13.945578+00:00",
-      "last_status": "error",
-      "last_error": "RuntimeError: Hermes can't reach the model provider. You may be offline. Check your internet connection and try again.",
+      "next_run_at": "2026-11-17T09:00:00+00:00",
+      "last_run_at": "2026-11-10T09:04:57.908611+00:00",
+      "last_status": "ok",
+      "last_error": null,
       "last_delivery_error": null,
       "deliver": "local",
       "origin": null,
       "enabled_toolsets": null,
       "workdir": null,
       "fire_claim": null,
-      "failure_streak": 1,
+      "failure_streak": 0,
       "last_dispatch": {
-        "scheduled_at": "2026-11-03T09:00:00+00:00",
-        "dispatched_at": "2026-11-03T09:00:12.514113+00:00",
-        "lateness_seconds": 12.5,
+        "scheduled_at": "2026-11-10T09:00:00+00:00",
+        "dispatched_at": "2026-11-10T09:00:53.015669+00:00",
+        "lateness_seconds": 53.0,
         "kind": "on_time"
       },
       "last_failure": {
@@ -2074,7 +2098,7 @@
         "detail": "RuntimeError: Hermes can't reach the model provider. You may be offline. Check your internet connection and try again."
       },
       "canonical_completions": [
-        "6165ae8ced6c4968b07937d8b8168965"
+        "258273a6fb4a4a01ae8327fa78d75548"
       ]
     },
     {
@@ -2161,15 +2185,15 @@
       "schedule_display": "30 2 * * 1",
       "repeat": {
         "times": null,
-        "completed": 15
+        "completed": 16
       },
       "enabled": true,
       "state": "scheduled",
       "paused_at": null,
       "paused_reason": null,
       "created_at": "2026-08-14T05:00:44.453903+00:00",
-      "next_run_at": "2026-11-11T02:30:00+00:00",
-      "last_run_at": "2026-11-08T02:33:06.603633+00:00",
+      "next_run_at": "2026-11-15T02:30:00+00:00",
+      "last_run_at": "2026-11-11T02:32:07.710685+00:00",
       "last_status": "ok",
       "last_error": null,
       "last_delivery_error": null,
@@ -2182,9 +2206,9 @@
       "fire_claim": null,
       "failure_streak": 0,
       "last_dispatch": {
-        "scheduled_at": "2026-11-08T02:30:00+00:00",
-        "dispatched_at": "2026-11-08T02:30:40.470008+00:00",
-        "lateness_seconds": 40.5,
+        "scheduled_at": "2026-11-11T02:30:00+00:00",
+        "dispatched_at": "2026-11-11T02:30:07.520540+00:00",
+        "lateness_seconds": 7.5,
         "kind": "on_time"
       }
     },
@@ -2213,15 +2237,15 @@
       "schedule_display": "5 22 * * *",
       "repeat": {
         "times": null,
-        "completed": 84
+        "completed": 85
       },
       "enabled": true,
       "state": "scheduled",
       "paused_at": null,
       "paused_reason": null,
       "created_at": "2026-08-17T20:00:34.809937+00:00",
-      "next_run_at": "2026-11-10T22:05:00+00:00",
-      "last_run_at": "2026-11-09T22:14:29.716699+00:00",
+      "next_run_at": "2026-11-11T22:05:00+00:00",
+      "last_run_at": "2026-11-10T22:14:57.973750+00:00",
       "last_status": "ok",
       "last_error": null,
       "last_delivery_error": null,
@@ -2232,13 +2256,13 @@
       "fire_claim": null,
       "failure_streak": 0,
       "last_dispatch": {
-        "scheduled_at": "2026-11-09T22:05:00+00:00",
-        "dispatched_at": "2026-11-09T22:05:13.321681+00:00",
-        "lateness_seconds": 13.3,
+        "scheduled_at": "2026-11-10T22:05:00+00:00",
+        "dispatched_at": "2026-11-10T22:05:37.060110+00:00",
+        "lateness_seconds": 37.1,
         "kind": "on_time"
       },
       "canonical_completions": [
-        "a0459c64bf6d4967b9b6de58f7ae9612"
+        "df925ce743ed474ea8b5bf207327de18"
       ]
     },
     {
@@ -2546,15 +2570,15 @@
       "schedule_display": "0 9 * * *",
       "repeat": {
         "times": null,
-        "completed": 69
+        "completed": 70
       },
       "enabled": true,
       "state": "scheduled",
       "paused_at": null,
       "paused_reason": null,
       "created_at": "2026-10-12T03:45:58.527173+00:00",
-      "next_run_at": "2026-11-10T09:00:00+00:00",
-      "last_run_at": "2026-11-09T13:55:53.540630+00:00",
+      "next_run_at": "2026-11-12T09:00:00+00:00",
+      "last_run_at": "2026-11-10T13:58:55.374049+00:00",
       "last_status": "ok",
       "last_error": null,
       "last_delivery_error": null,
@@ -2564,11 +2588,14 @@
       "origin": null,
       "enabled_toolsets": null,
       "workdir": null,
-      "fire_claim": null,
+      "fire_claim": {
+        "at": "2026-11-11T12:10:23.756525+00:00",
+        "by": "DESKTOP-25Q3AQC:16696:25872ca6209d4f36afc8574fa3b0f405"
+      },
       "last_dispatch": {
-        "scheduled_at": "2026-11-09T09:00:00+00:00",
-        "dispatched_at": "2026-11-09T12:12:56.244506+00:00",
-        "lateness_seconds": 11576.2,
+        "scheduled_at": "2026-11-11T09:00:00+00:00",
+        "dispatched_at": "2026-11-11T12:10:15.173342+00:00",
+        "lateness_seconds": 11415.2,
         "kind": "catch_up"
       },
       "last_failure": {
@@ -2576,7 +2603,7 @@
         "detail": "RuntimeError: Operation interrupted: retrying API call after error (retry 2/3)."
       },
       "canonical_completions": [
-        "44b5b62e2ad54befb315712d5893ebad"
+        "b4fedeaef1f94e75803c21e6182541fa"
       ]
     },
     {
@@ -2602,38 +2629,41 @@
       "schedule_display": "0 10 * * *",
       "repeat": {
         "times": null,
-        "completed": 59
+        "completed": 60
       },
       "enabled": true,
       "state": "scheduled",
       "paused_at": null,
       "paused_reason": "Duplicate sends detected - auditing before resume",
       "created_at": "2026-10-15T04:57:40.983008+00:00",
-      "next_run_at": "2026-11-10T10:00:00+00:00",
-      "last_run_at": "2026-11-09T15:09:47.765286+00:00",
+      "next_run_at": "2026-11-12T10:00:00+00:00",
+      "last_run_at": "2026-11-10T14:16:20.389005+00:00",
       "last_status": "ok",
       "last_error": null,
       "last_delivery_error": null,
       "last_delivery_unverified": null,
       "last_failure": {
-        "at": "2026-11-09T12:40:27.908733+00:00",
-        "detail": "RuntimeError: Operation interrupted: waiting for model response (528.3s elapsed)."
+        "at": "2026-11-10T11:18:28.604216+00:00",
+        "detail": "RuntimeError: Hermes can't reach the model provider. You may be offline. Check your internet connection and try again."
       },
       "failure_streak": 0,
       "deliver": "telegram:-1003784520976:1",
       "origin": null,
       "enabled_toolsets": null,
       "workdir": null,
-      "fire_claim": null,
+      "fire_claim": {
+        "at": "2026-11-11T12:10:23.825820+00:00",
+        "by": "DESKTOP-25Q3AQC:16696:9f745057d482489db3b2c2e0a1c2b33f"
+      },
       "paused": true,
       "last_dispatch": {
-        "scheduled_at": "2026-11-09T10:00:00+00:00",
-        "dispatched_at": "2026-11-09T12:12:56.244506+00:00",
-        "lateness_seconds": 7976.2,
+        "scheduled_at": "2026-11-11T10:00:00+00:00",
+        "dispatched_at": "2026-11-11T12:10:15.173342+00:00",
+        "lateness_seconds": 7815.2,
         "kind": "catch_up"
       },
       "canonical_completions": [
-        "735328afda384fd3815a74dcc3865a48"
+        "d5ba67363803404da6fd8bf0b22af9fe"
       ]
     },
     {
@@ -2684,24 +2714,24 @@
       "deliver": "origin",
       "repeat": {
         "times": null,
-        "completed": 22
+        "completed": 23
       },
-      "next_run_at": "2026-11-11T04:30:00+00:00",
+      "next_run_at": "2026-11-12T04:30:00+00:00",
       "last_dispatch": {
-        "scheduled_at": "2026-11-10T04:30:00+00:00",
-        "dispatched_at": "2026-11-10T04:30:13.322403+00:00",
-        "lateness_seconds": 13.3,
+        "scheduled_at": "2026-11-11T04:30:00+00:00",
+        "dispatched_at": "2026-11-11T04:30:07.514632+00:00",
+        "lateness_seconds": 7.5,
         "kind": "on_time"
       },
       "fire_claim": null,
-      "last_run_at": "2026-11-10T04:30:39.408277+00:00",
+      "last_run_at": "2026-11-11T04:30:39.806667+00:00",
       "last_status": "ok",
       "last_error": null,
       "failure_streak": 0,
       "last_delivery_error": null,
       "state": "scheduled",
       "canonical_completions": [
-        "4845921af92b4bb5ad58b4561496144b"
+        "f18c736cbe044cf19c815b28df88ee0e"
       ]
     },
     {
@@ -2845,15 +2875,15 @@
       "schedule_display": "0 18 * * 1-6",
       "repeat": {
         "times": null,
-        "completed": 15
+        "completed": 16
       },
       "enabled": true,
       "state": "scheduled",
       "paused_at": null,
       "paused_reason": null,
       "created_at": "2026-10-23T09:13:51.641120+00:00",
-      "next_run_at": "2026-11-10T18:00:00+00:00",
-      "last_run_at": "2026-11-09T19:07:26.707360+00:00",
+      "next_run_at": "2026-11-11T18:00:00+00:00",
+      "last_run_at": "2026-11-10T19:54:43.415889+00:00",
       "last_status": "ok",
       "last_error": null,
       "last_delivery_error": null,
@@ -2870,14 +2900,14 @@
       ],
       "workdir": "C:\\Users\\User\\.hermes\\workspace\\Vault\\business\\2real",
       "last_dispatch": {
-        "scheduled_at": "2026-11-09T18:00:00+00:00",
-        "dispatched_at": "2026-11-09T19:06:09.918172+00:00",
-        "lateness_seconds": 3969.9,
+        "scheduled_at": "2026-11-10T18:00:00+00:00",
+        "dispatched_at": "2026-11-10T19:53:28.851797+00:00",
+        "lateness_seconds": 6808.9,
         "kind": "late"
       },
       "fire_claim": null,
       "canonical_completions": [
-        "c425fe1297044647879e3d89fbdfad0a"
+        "e3c7c4b564b5424c9a8ae27471f1366d"
       ]
     },
     {
@@ -2894,15 +2924,18 @@
       "model": "deepseek/deepseek-v4-flash-0731",
       "profile": "sat-nav",
       "created_at": "2026-10-30 16:40:07",
-      "next_run_at": "2026-11-10T07:00:00+00:00",
+      "next_run_at": "2026-11-12T07:00:00+00:00",
       "last_dispatch": {
-        "scheduled_at": "2026-11-09T07:00:00+00:00",
-        "dispatched_at": "2026-11-09T07:00:12.279660+00:00",
-        "lateness_seconds": 12.3,
-        "kind": "on_time"
+        "scheduled_at": "2026-11-11T07:00:00+00:00",
+        "dispatched_at": "2026-11-11T12:10:15.173342+00:00",
+        "lateness_seconds": 18615.2,
+        "kind": "catch_up"
       },
-      "fire_claim": null,
-      "last_run_at": "2026-11-09T07:02:07.668391+00:00",
+      "fire_claim": {
+        "at": "2026-11-11T12:10:23.886215+00:00",
+        "by": "DESKTOP-25Q3AQC:16696:1030360c364a4fa1860192f1fca7eb81"
+      },
+      "last_run_at": "2026-11-10T07:02:12.499557+00:00",
       "last_status": "ok",
       "last_error": null,
       "failure_streak": 0,
@@ -2912,10 +2945,10 @@
       },
       "last_delivery_error": null,
       "canonical_completions": [
-        "010ed03d83e948439fcc3a95a87340b4"
+        "c47e86a1409c4cdd95f872b9be0e57b7"
       ],
       "state": "scheduled"
     }
   ],
-  "updated_at": "2026-11-10T06:00:13.562031+00:00"
+  "updated_at": "2026-11-11T12:10:23.902231+00:00"
 }
