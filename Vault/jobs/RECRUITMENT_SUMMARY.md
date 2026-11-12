@@ -4,8 +4,8 @@
 
 ### Totals
 
-- **78 total applicants** (updated 2026-11-11)
-- **Nurses: 57** (NMC + 3-5yrs experience: 8/57, top pick: Charlotte Nortey - NMC + car + licence)
+- **79 total applicants** (updated 2026-11-12)
+- **Nurses: 58** (NMC + 3-5yrs experience: 8/58, top pick: Charlotte Nortey - NMC + car + licence)
 - **Facilitators: 5** (Eyiah #1, Patrick Bediako #2, Courage Agbalekpor, Exk #5 - priority match)
 - **Construction: 14** (Awal #1, Kwame #2, Derrick #3, Amane John #4, Amuzu #5, Woedzagbagba #6, Eric #7, Arthur Kofi Shadrack #8, Benjamin Kotey #9 - laborer, below threshold)
 - **Financial Literacy: 2** (Felix Boateng #1, Benjamin Lolo #2)

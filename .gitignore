@@ -42,6 +42,7 @@ memories/jobs/tmp_access_token.txt
 
 # Runtime/temp
 *.db
+!recovery/kanban.db
 *.db-shm
 *.db-wal
 gateway.lock
