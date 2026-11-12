@@ -1,0 +1,18 @@
+{
+  "date": "2026-11-12",
+  "captured_at": "2026-11-12T08:33:50",
+  "tabs": [
+    {
+      "label": "published",
+      "url": "chrome-error://chromewebdata/",
+      "len": 161,
+      "text": "Press space to play\n\nTry:\n\nChecking the network cables, modem and router\nReconnecting to Wi-Fi\nRunning Windows Network Diagnostics\nDNS_PROBE_FINISHED_NO_INTERNET"
+    },
+    {
+      "label": "scheduled",
+      "url": "chrome-error://chromewebdata/",
+      "len": 161,
+      "text": "Press space to play\n\nTry:\n\nChecking the network cables, modem and router\nReconnecting to Wi-Fi\nRunning Windows Network Diagnostics\nDNS_PROBE_FINISHED_NO_INTERNET"
+    }
+  ]
+}

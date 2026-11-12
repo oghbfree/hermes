@@ -32,6 +32,7 @@ Single source of truth for recurring hard deadlines and open loops that must not
 | **Jiji ad closures — Dunlop racket + Sony XB100** | 06 Nov | daily-sales-log 06/11 | Both sold (Angelina 600, Mr Tweneboah 700) — close ads after H confirms + mark sold |
 | **Mr Tweneboah receipt** | 06 Nov | daily-sales-log 06/11 | Sony XB100 700 — needs receipt |
 | **Customer nudge +233 57 770 0555** | 06 Nov 13:38 | live watcher | "Still haven't gotten back to me" — respond |
+| **08/11 grinder price ambiguity** | 08 Nov | daily-sales-log 08/11 | Sealey red angle grinder logged as 700 (read "70 kk0gh") — if actually 70, day total 2,075 / profit 908. Confirm with H, correct log |
 | **B2B repeat-buyer broadcast** | ongoing | b2b-wholesale-leads.md + sales log | WhatsApp **Eric** (Enterprise Ins) when office/IT stock lands; **Dr Lomotey** (Cocoa Clinic) for furniture/office; **tool lover** 0245849519 for mechanic's tools; **Edwin Kwabena Adubofuor** (0550253348, contractor w/ ministries contract); **Theophilus** (0500599813, Airbnb host); **Emmanuel** (tennis Mon) for rackets/sports |
 
 ---
