@@ -36,16 +36,17 @@
 **Facilitator #1: Eyiah Michael Osardu**
 - BSc IT | mBot exp | Coding 5/5 | Mon-Fri avail
 
-### New This Pull (2026-11-11)
+### New This Pull (2026-11-12)
 
-**1 new application** — facilitator **Exk** (BSc CS, mBot, coding 5/5, extensive STEM teaching) → priority match. Pipeline total now **78**.
+**1 new application** — nurse **Josephine k.kporyi** (Greater Accra, professional certificate, No NMC, 0-2yrs experience) → **below threshold**. Pipeline total now **79**.
 
-### Latest Pull (2026-11-11)
+### Latest Pull (2026-11-12)
 
-**1 new application** (facilitator Exk) since 2026-11-10. Token refreshed 2026-11-11. Pipeline totals **78** (57 nurses, 14 construction, 5 facilitators, 2 financial literacy; priority counts recomputed from live data: nurses 8, construction foreman+6yrs 7, facilitators 3, fin-lit 2).
+**1 new application** (nurse Josephine k.kporyi, below threshold) since 2026-11-11. Token refreshed 2026-11-12. Pipeline totals **79** (58 nurses, 14 construction, 5 facilitators, 2 financial literacy; priority counts recomputed from live data: nurses 8, construction foreman+6yrs 7, facilitators 3, fin-lit 2).
 
 ### Detailed Reports
 
+- [[jobs/APPLICATIONS-REPORT-2026-11-12.md]] (+1 nurse below threshold: Josephine k.kporyi; token refreshed; priority counts recomputed 8/7/3/2)
 - [[jobs/APPLICATIONS-REPORT-2026-11-11.md]] (+1 priority facilitator: Exk; token refreshed; priority counts recomputed 8/7/3/2)
 - [[jobs/APPLICATIONS-REPORT-2026-11-09.md]] (0 new apps; token refreshed; priority counts recomputed 8/7/2/2)
 - [[jobs/APPLICATIONS-REPORT-2026-11-08.md]] (0 new apps; token refreshed; priority counts recomputed 8/7/2/2)
@@ -113,10 +114,10 @@
 
 ### Status
 
-- **Google Sheets Auth: ACTIVE** - Token refreshed 2026-11-11
-- Last successful pull: 2026-11-11
+- **Google Sheets Auth: ACTIVE** - Token refreshed 2026-11-12
+- Last successful pull: 2026-11-12
 - All 4 pipelines accessible
-- 1 new application since 2026-11-10 (facilitator Exk, priority match)
+- 1 new application since 2026-11-11 (nurse Josephine k.kporyi, below threshold)
 
 ## Related
 
