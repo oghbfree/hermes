@@ -110,6 +110,8 @@
 | 23 Oct | Corn dough porridge + 2 eggs 10:07 (all) · lemon water (all) | — | Mpotompoto 4pm (all) |
 | 24 Oct | Ekoegbemi 10am (left little) | — | Rice + boiled beans 4pm (all) · 🍎 apple (evening, asked for it) |
 | 25 Oct | Porridge + 2 boiled eggs | Banku with grasscutter light soup | — |
+| 28 Oct | — (no report AM) | — | — (evening tv; watermelon 7:30pm declared but she was asleep — declined) |
+| 29 Oct | **Waakye** (10:03am, some-left) · declined lemon water (prefers London multivitamin) | **Fufu + tilapia soup** (4:05pm, all) · pineapple juice 4:50pm | **Watermelon juice** 7:15pm (all) |
 | 30 Oct | — | Boiled yam + kontomire stew (4pm, all) | — (khebab from son ~6:30pm; watermelon juice 7:35pm all) |
 | 31 Oct | Baked beans + 2 boiled eggs (all) · pineapple juice | Banku with pepper + fried fish (4pm, all) | — (early night ~7:40pm; none reported) |
 | 1 Nov | Ekoegbemi (10am, all) · tea (left little) | — (son + grandsons visited; no lunch logged) | Kokonte with tilapia (3:40pm — early per her request; all) 🌟 · evening 🌊 watermelon juice 7:35pm (all) 🍉 |
@@ -117,6 +119,12 @@
 | 3 Nov | **Obrayo** (10am, all) · tea | **Kenkey + pepper + fried fish** (4pm, all) ⚠️ fried fish (no-fry rule) | — (declined juice 7:35pm; no dinner) ⚠️ brief dizziness 5:42pm on TV-transition (self-resolved) |
 | 4 Nov | **Tigernut porridge + 2 boiled eggs** (10am, all) | — | **Mpotompoto** (4:08pm, all) · **pineapple juice** (5pm, all 🍍 phase-out watch) · declined watermelon juice (pineapple enough) |
 | 5 Nov | **Ekoegbemi** (10am, all) + tea (10:15am) | **Banku w/ okro stew** (4pm, all) | **Watermelon juice** (4:50pm, all 🍉) · no solid dinner reported |
+| 9 Nov | — (no report) | **Boiled yam + kontomire stew + fried fish** (4pm, all) | — |
+| 12 Nov | — (no report) | — | — (no solid meal; evening scoll/declined-TV only) |
+| 13 Nov | **Baked beans + scrambled eggs** (10:02am, all) · ⚠️ hunger + morning-mealtime complaint | **Boiled yam + kontomire stew + fried fish** (4pm, all) | — |
+| 10 Nov | — | **Boiled beans + fried plantain** (4pm, all) · pawpaw 4:45pm | — (evening: back-pain escalation; no dinner logged) |
+| 11 Nov | **Corn dough + 2 boiled eggs** (10am, all) · warm honey water 7:30am · paracetamol 10:49am | **Banku w/ okro stew** (4pm, all) | — |
+| 14 Nov | **Ekoegbemi** (10am, all) | — (pending afternoon) | — (pending evening) |
 
 > **Backfill complete (12 Oct 26):** Meals to 12 Oct. 🥛 **MILK SPOILT — discarded (strained w/ new cheesecloth + heated, still off; heat ≠ safe with spoiled milk). Perishable protocol: check on arrival, refrigerate immediately, date, carer spot-checks before serving.** Cheesecloth delivered 11 Oct ✓ (rider). Gentle swaps: Don Simon → watermelon juice; kelewele occasional.
 

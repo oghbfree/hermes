@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-08T03:01:03.303860",
-  "total_gap": 293,
+  "generated": "2026-11-15T03:00:40.177582",
+  "total_gap": 291,
   "items": [
     {
       "name": "Blyss Uban Video Intercom And Outdoor Button",
@@ -164,7 +164,7 @@
       "margin": 500,
       "gift": false,
       "priority": 500,
-      "best_partial_match": "DeWALT Extreme Runtime XR FlexVolt 250mm Circular ",
+      "best_partial_match": "Black and Decker Circular Saw 1200W",
       "partial_score": 0.5
     },
     {
@@ -186,7 +186,7 @@
       "margin": 500,
       "gift": false,
       "priority": 500,
-      "best_partial_match": "Ring Automotive Rechargeable Floodlight With Power",
+      "best_partial_match": "Ring PowerSource RINVU300 300W 12V to 230V Compact",
       "partial_score": 0.43
     },
     {
@@ -296,7 +296,7 @@
       "margin": 410,
       "gift": false,
       "priority": 410,
-      "best_partial_match": "A/C Reusable R134a Car Air Conditioning Charging H",
+      "best_partial_match": "GARDENA Automatic Irrigation Micro-Drip System Com",
       "partial_score": 0.2
     },
     {
@@ -450,7 +450,7 @@
       "margin": 310,
       "gift": false,
       "priority": 310,
-      "best_partial_match": "Workzone 9-Piece Coloured Hex Key Set (Metric)",
+      "best_partial_match": "BlueSpot 17-Piece Folding Hex / Allen Key Set (Sto",
       "partial_score": 0.33
     },
     {
@@ -494,8 +494,8 @@
       "margin": 300,
       "gift": false,
       "priority": 300,
-      "best_partial_match": "Ring Powersource Car Inverter With 2.1a USB 150w \u2014",
-      "partial_score": 0.43
+      "best_partial_match": "Ring PowerSource RINVU300 300W 12V to 230V Compact",
+      "partial_score": 0.57
     },
     {
       "name": "Stanley Quick Square 46053",
@@ -773,17 +773,6 @@
       "partial_score": 0.5
     },
     {
-      "name": "Hippo Expanding Glue 275 Ml",
-      "price": 250.0,
-      "cost": 80.0,
-      "stock": 5,
-      "margin": 170,
-      "gift": false,
-      "priority": 204,
-      "best_partial_match": "Gorilla Wood Glue (532ml)",
-      "partial_score": 0.2
-    },
-    {
       "name": "Laser Battery And Alternator Tester 12V DC Systems 2274",
       "price": 300.0,
       "cost": 100.0,
@@ -912,7 +901,7 @@
       "margin": 180,
       "gift": false,
       "priority": 180,
-      "best_partial_match": "Bosch Zamo Digital Laser Measure / Distance Meter ",
+      "best_partial_match": "Prexiso 2-in-1 Laser Tape Distance Measure Model: ",
       "partial_score": 0.2
     },
     {
@@ -945,7 +934,7 @@
       "margin": 170,
       "gift": false,
       "priority": 170,
-      "best_partial_match": "Prexiso 2-in-1 Laser Tape Distance Measure Model: ",
+      "best_partial_match": "Stanley 30m/100ft Closed Case Fibreglass Long Tape",
       "partial_score": 0.5
     },
     {
@@ -989,7 +978,7 @@
       "margin": 165,
       "gift": false,
       "priority": 165,
-      "best_partial_match": "Master Lock Select 5423EURD Wall-Mounted Push Butt",
+      "best_partial_match": "Master Lock Select Access 5426EURD High Security P",
       "partial_score": 0.38
     },
     {
@@ -1187,7 +1176,7 @@
       "margin": 120,
       "gift": false,
       "priority": 120,
-      "best_partial_match": "Portable Direct-Drive Air Compressor / Inflator.",
+      "best_partial_match": "Babybliss Rotating Hot Air Brush Stylers",
       "partial_score": 0.25
     },
     {
@@ -1286,7 +1275,7 @@
       "margin": 110,
       "gift": false,
       "priority": 110,
-      "best_partial_match": "Stanley TCT Circular Saw Blade 210mm X 30mm 24T (S",
+      "best_partial_match": "Stanley FatMax Fixed Blade Heavy Duty Utility Knif",
       "partial_score": 0.4
     },
     {
@@ -1440,7 +1429,7 @@
       "margin": 98,
       "gift": false,
       "priority": 98,
-      "best_partial_match": "Irwin Jack 325mm 13 TPI Fine Cut Veneer & Floorboa",
+      "best_partial_match": "Irwin Jack 185mm (7.25\") Dovetail Veneer Fine Cut ",
       "partial_score": 0.33
     },
     {
@@ -1660,7 +1649,7 @@
       "margin": 80,
       "gift": false,
       "priority": 80,
-      "best_partial_match": "Gorilla Waterproof Coat and Seal 946ml - Brand New",
+      "best_partial_match": "WD-40 Specialist Silicone Spray (250 Ml)",
       "partial_score": 0.14
     },
     {
@@ -1715,7 +1704,7 @@
       "margin": 40,
       "gift": true,
       "priority": 80,
-      "best_partial_match": "4-Pack of Energizer Accu Recharge Universal AA Bat",
+      "best_partial_match": "Mad Catz Nintendo 3DS / DS / DS Lite Sockz Protect",
       "partial_score": 0.2
     },
     {
@@ -1748,7 +1737,7 @@
       "margin": 66,
       "gift": false,
       "priority": 79,
-      "best_partial_match": "Irwin Jack 325mm 13 TPI Fine Cut Veneer & Floorboa",
+      "best_partial_match": "Irwin Jack 185mm (7.25\") Dovetail Veneer Fine Cut ",
       "partial_score": 0.43
     },
     {
@@ -1770,7 +1759,7 @@
       "margin": 75,
       "gift": false,
       "priority": 75,
-      "best_partial_match": "DeWALT Extreme Workshop Series 60 Table / Mitre Sa",
+      "best_partial_match": "Titan 210mm Electric Sliding Mitre Saw",
       "partial_score": 0.5
     },
     {
@@ -1836,7 +1825,7 @@
       "margin": 69,
       "gift": false,
       "priority": 69,
-      "best_partial_match": "Irwin Marples 6-Piece MS500 All-Purpose Wood Chise",
+      "best_partial_match": "TDK DVD-R Recordable Discs Single Sided",
       "partial_score": 0.14
     },
     {
@@ -1869,7 +1858,7 @@
       "margin": 69,
       "gift": false,
       "priority": 69,
-      "best_partial_match": "Draper 80-Piece Security Screwdriver and Magnetic ",
+      "best_partial_match": "Erbauer Router Bit Set",
       "partial_score": 0.33
     },
     {
@@ -1891,7 +1880,7 @@
       "margin": 66,
       "gift": false,
       "priority": 66,
-      "best_partial_match": "Stanley 115mm Turbo Segmented Diamond Cutting Disc",
+      "best_partial_match": "Makita D61123 115mm Angle Grinder Cutting Disc",
       "partial_score": 0.5
     },
     {
@@ -1935,7 +1924,7 @@
       "margin": 63,
       "gift": false,
       "priority": 63,
-      "best_partial_match": "Stanley 115mm Turbo Segmented Diamond Cutting Disc",
+      "best_partial_match": "Makita D61123 115mm Angle Grinder Cutting Disc",
       "partial_score": 0.43
     },
     {
@@ -1946,7 +1935,7 @@
       "margin": 60,
       "gift": false,
       "priority": 60,
-      "best_partial_match": "Master Lock Select 5423EURD Wall-Mounted Push Butt",
+      "best_partial_match": "Uni-Com Wire-Free Door Chime Set",
       "partial_score": 0.2
     },
     {
@@ -1979,7 +1968,7 @@
       "margin": 60,
       "gift": false,
       "priority": 60,
-      "best_partial_match": "Unex Sd160s 16-Port 10/100mbps Nexswitch Network S",
+      "best_partial_match": "MK Electric Integrated USB Double Socket (Type a +",
       "partial_score": 0.17
     },
     {
@@ -2122,7 +2111,7 @@
       "margin": 50,
       "gift": false,
       "priority": 50,
-      "best_partial_match": "DeWALT Extreme Workshop Series 60 Table / Mitre Sa",
+      "best_partial_match": "Gillette Fusion5 ProGlide Razor Blade 8 Refills",
       "partial_score": 0.33
     },
     {
@@ -2254,7 +2243,7 @@
       "margin": 42,
       "gift": false,
       "priority": 42,
-      "best_partial_match": "Dyson DC26 City Ultra-Compact Bagless Cylinder Vac",
+      "best_partial_match": "Yale Smart Keyless Connected Door Lock With Nightl",
       "partial_score": 0.25
     },
     {
@@ -2287,7 +2276,7 @@
       "margin": 33,
       "gift": false,
       "priority": 40,
-      "best_partial_match": "Metal Detector for Jewelry,Silver,gold,coins",
+      "best_partial_match": "HTC Active Stylus Pen Silver",
       "partial_score": 0.33
     },
     {
@@ -2364,7 +2353,7 @@
       "margin": 30,
       "gift": false,
       "priority": 36,
-      "best_partial_match": "HP DesignJet T520 24in Large Format CAD Architectu",
+      "best_partial_match": "Everbuild Decorators Flexible Filler (White)",
       "partial_score": 0.33
     },
     {
@@ -2397,7 +2386,7 @@
       "margin": 36,
       "gift": false,
       "priority": 36,
-      "best_partial_match": "FFX Silicone Gp",
+      "best_partial_match": "WD-40 Specialist Silicone Spray (250 Ml)",
       "partial_score": 0.33
     },
     {
@@ -2507,7 +2496,7 @@
       "margin": 30,
       "gift": false,
       "priority": 30,
-      "best_partial_match": "FFX Silicone Gp",
+      "best_partial_match": "WD-40 Specialist Silicone Spray (250 Ml)",
       "partial_score": 0.2
     },
     {
@@ -2540,7 +2529,7 @@
       "margin": 30,
       "gift": false,
       "priority": 30,
-      "best_partial_match": "Gorilla Heavy Duty Expanding Foam (353ml)",
+      "best_partial_match": "Parkside Twist Wire Cup Brush Fits Angle Grinders,",
       "partial_score": 0.2
     },
     {
@@ -2606,7 +2595,7 @@
       "margin": 30,
       "gift": false,
       "priority": 30,
-      "best_partial_match": "Unex Sd160s 16-Port 10/100mbps Nexswitch Network S",
+      "best_partial_match": "Commercial Aluminum & Glass Retail Display Showcas",
       "partial_score": 0.17
     },
     {
@@ -2617,7 +2606,7 @@
       "margin": 30,
       "gift": false,
       "priority": 30,
-      "best_partial_match": "Unex Sd160s 16-Port 10/100mbps Nexswitch Network S",
+      "best_partial_match": "Commercial Aluminum & Glass Retail Display Showcas",
       "partial_score": 0.14
     },
     {
@@ -2628,7 +2617,7 @@
       "margin": 30,
       "gift": false,
       "priority": 30,
-      "best_partial_match": "4-Pack of Energizer Accu Recharge Universal AA Bat",
+      "best_partial_match": "Mad Catz Nintendo 3DS / DS / DS Lite Sockz Protect",
       "partial_score": 0.33
     },
     {
@@ -2663,17 +2652,6 @@
       "priority": 28,
       "best_partial_match": "Bosch GBH 24 v Professional Cordless SDS-Plus Rota",
       "partial_score": 0.17
-    },
-    {
-      "name": "Sunfuron 1 L",
-      "price": 95.0,
-      "cost": 0.0,
-      "stock": 1,
-      "margin": 28,
-      "gift": false,
-      "priority": 28,
-      "best_partial_match": "",
-      "partial_score": 0.0
     },
     {
       "name": "Enamel Paint & Special Sprays Copper",
@@ -2749,7 +2727,7 @@
       "margin": 22,
       "gift": false,
       "priority": 27,
-      "best_partial_match": "100cm Blue Aluminum Venetian Window Blind With Fit",
+      "best_partial_match": "Everbuild Decorators Flexible Filler (White)",
       "partial_score": 0.33
     },
     {
@@ -3046,7 +3024,7 @@
       "margin": 22,
       "gift": false,
       "priority": 22,
-      "best_partial_match": "Foldable Trolley Red Wagon",
+      "best_partial_match": "Everbuild Decorators Flexible Filler (White)",
       "partial_score": 0.33
     },
     {
@@ -3068,7 +3046,7 @@
       "margin": 22,
       "gift": false,
       "priority": 22,
-      "best_partial_match": "Gorilla Black Tape Heavy Duty (32m X 48mm)",
+      "best_partial_match": "Everbuild Decorators Flexible Filler (White)",
       "partial_score": 0.33
     },
     {
@@ -3112,7 +3090,7 @@
       "margin": 20,
       "gift": false,
       "priority": 20,
-      "best_partial_match": "DeWALT Extreme Workshop Series 60 Table / Mitre Sa",
+      "best_partial_match": "Titan 210mm Electric Sliding Mitre Saw",
       "partial_score": 0.25
     },
     {

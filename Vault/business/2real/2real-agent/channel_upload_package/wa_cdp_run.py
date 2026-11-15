@@ -2,7 +2,15 @@
 # Usage: python wa_cdp_run.py <count>  — runs wa_post_next(count) on the WhatsApp Business tab.
 import json, sys, time, websocket
 
-CDP_HTTP = "http://127.0.0.1:9222"
+def _real_port():
+    # DevTools port is DYNAMIC on this host. Read it from DevToolsActivePort (do NOT trust fixed 9222).
+    try:
+        p = open(r"C:\Users\User\AppData\Local\hermes\browser-profile\chrome\DevToolsActivePort").read().split()[0].strip()
+        if p: return int(p)
+    except Exception:
+        pass
+    return 9222
+CDP_HTTP = "http://127.0.0.1:%d" % _real_port()
 
 def list_tabs():
     import urllib.request

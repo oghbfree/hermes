@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-12 08:31",
-  "day": "Thursday 12 Nov 2026",
+  "generated": "2026-11-14 09:16",
+  "day": "Saturday 14 Nov 2026",
   "kanban": {
     "total": 272,
     "unique": 125,
@@ -595,6 +595,12 @@
       "owner": "default"
     },
     {
+      "id": "0ef160b1",
+      "name": "Daily Marketplace Monitor",
+      "schedule": "0 7 * * *",
+      "owner": "default"
+    },
+    {
       "id": "aebf7e73",
       "name": "Mom Morning Exercise Reminders",
       "schedule": "0 8 * * *",
@@ -628,6 +634,12 @@
       "id": "8ea5ea4a",
       "name": "2Real - Sunday Christmas Gap Re-scan",
       "schedule": "0 3 * * 0",
+      "owner": "default"
+    },
+    {
+      "id": "5128ceaa",
+      "name": "2Real - FB Marketplace Batch Poster",
+      "schedule": "0 10 * * *",
       "owner": "default"
     },
     {
@@ -757,6 +769,12 @@
       "owner": "sat-nav"
     },
     {
+      "id": "589664dd",
+      "name": "Mission Control — FB Messages Monitor (guarded 1/day)",
+      "schedule": "30 8 * * *",
+      "owner": "sat-nav"
+    },
+    {
       "id": "29d902e2",
       "name": "2Real - WhatsApp Unanswered Sweep (read-only, guarded)",
       "schedule": "0 8 * * *",
@@ -805,7 +823,7 @@
       "owner": "content-buddy"
     }
   ],
-  "routine_count": 56,
+  "routine_count": 59,
   "jiji": {
     "total": 1380,
     "active": 1377,

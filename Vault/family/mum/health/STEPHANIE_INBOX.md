@@ -252,3 +252,82 @@ Mood: Fair
 Appetite: Fair
 Swelling: Same
 Skin: Okay
+
+## 2026-11-14 11:20 (from 233548236698) [PROCESSED]
+- 14/11/2026 MORNING REPORT [PROCESSED] — ingested into MUM_MEDICAL_MASTER 14 Nov + MUM_FOOD_MASTER (breakfast Ekoegbemi) 14 Nov
+@7:18am: A quick check was done and she said she is feeling okay.
+@8am: Carer went to do her laundry.
+@8:40am: She was sitting on her bed.
+@9:30am: She was laying on her bed.
+@10am: Breakfast (Ekoegbemi) was brought to her and she ate all of it.
+@10:50am: She came to the kitchen and had a brief chat with her carer.
+@11am: Vital signs was BP: 120/75, P: 74, T: 36.1
+LOG KEYS
+Mood: Fair
+Appetite: Fair
+Swelling: Same
+Skin: Okay
+
+## 2026-11-14 11:20 (from 233548236698) [PROCESSED — duplicate of above]
+- 14/11/2026 MORNING REPORT [PROCESSED — duplicate; ingest once, see above]
+@7:18am: A quick check was done and she said she is feeling okay.
+@8am: Carer went to do her laundry.
+@8:40am: She was sitting on her bed.
+@9:30am: She was laying on her bed.
+@10am: Breakfast (Ekoegbemi) was brought to her and she ate all of it.
+@10:50am: She came to the kitchen and had a brief chat with her carer.
+@11am: Vital signs was BP: 120/75, P: 74, T: 36.1
+LOG KEYS
+Mood: Fair
+Appetite: Fair
+Swelling: Same
+Skin: Okay
+
+## 2026-11-14 11:22 (from 233548236698) [PROCESSED]
+- [owner reply] Next time if there's any issue can you write it down please and I'll ask you everyday if there's an issues
+
+## 2026-11-14 11:23 (from 233548236698) [PROCESSED]
+- [owner reply] Robert is on his way
+
+## 2026-11-14 11:23 (from 233548236698) [PROCESSED]
+- [owner reply] What have you been preparing since shopping has come
+
+## 2026-11-14 11:51 (from 233548236698) [PROCESSED]
+- Okay please
+
+## 2026-11-14 11:51 (from 233548236698) [PROCESSED]
+- Yes, he just just came for it
+
+## 2026-11-14 11:51 (from 233548236698) [PROCESSED]
+- Yes please
+
+## 2026-11-14 19:28 (from 233548236698)
+- 14/11/2026 AFTERNOON REPORT
+@12pm: She was laying in her bed while chatting with her carer for about 10mins.
+@12:30pm: She was sleeping soundly in her bed.
+@1:30pm: She was still sleeping soundly, her room well ventilated.
+@2:48pm: She was still sleeping, no overheating detected.
+@3pm: She was awake and she took her AVS medication with hot water.
+@3:10pm: Sliced mango was brought to her and she ate some.
+@4pm: Kenkey with pepper and sardine was brought to her and she ate all of it.
+LOG KEYS
+Mood: Fair
+Appetite: Fair
+Swelling: Same
+Skin: Okay
+
+## 2026-11-14 21:48 (from 233548236698)
+- 14/11/2026 EVENING REPORT
+@5:12pm: She was sitting on her bed scrolling through her phone.
+@6pm: She was sitting in her bed, carer asked to come to the living room so they watch tv together but she said no, she prefers to be in her room.
+@6:15pm: Carer asked if she’ll do Epsom salt soak but she said no. Carer told her about the importance of doing it often but she still refused.
+@6:30pm: Carer told her to do some exercises which she refused.
+@7:19pm: Carer asked if she should bring her some juice to drink but she said no.
+@7:50pm: She turned her room lights off.
+@8pm: She bid her carer goodnight.
+LOG KEYS
+Mood: Fair
+Appetite: Fair
+Urine: Normal 
+Swelling: Same
+Skin: Okay

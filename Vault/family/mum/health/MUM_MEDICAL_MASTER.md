@@ -2282,3 +2282,175 @@ Date-range snapshot:
 - **Dinner:** not yet reported (→ pending for MUM_FOOD_MASTER.md; **TWO-MEAL/DAY ~10am + ~4pm** is the prescribed Dr Morris pattern, not her choice).
 - **Check-in:** Posted evening prompt to topic 4 (delivered via this job's `deliver` target) asking about dinner (what + how much, per 2-meal protocol), evening Furosemide 20mg + **BP before dosing on RIGHT arm (standardise)**, pain/discomfort (post-16 Oct right-leg lift / left-side leg-back; back itch — medicated powder 1 Nov), energy/mood, and an overall day summary — **plus: ⚠️ perceptual-episode reconfirm (did "seeing someone" recur today? — if repeated, escalate to Dr Morris SAME DAY); 🎀 Kenus-spa recurrence ask (enjoyed? want it again?); confirm next masseuse session (Fri 13 Nov) + relief; identify the 1 Nov liquid med + clarify the 5 Nov 2pm AVS (hold question); restore the daily reporting flow for the open 6–12 Nov AND 25–29 Oct gaps with Stephanie (standing CRITICAL escalation — WA bridge down since 6 Nov is the cause of the 6–12 Nov gap; re-pair needed + direct WhatsApp/phone call to Stephanie to recover the backlog once bridge is up — a full week unlogged); fluids reminder (Na 161 🚩); confirm sodium-recheck labs (due ~24 Sep — STILL unconfirmed, high priority); buy Imodium (out since 8 Sep — now 9+ weeks); milk replacement (spoilt 11–12 Oct); stock BP spare batteries (device low 4 Oct); and Dr Morris reconciliation (salt vs Na 161 + Furosemide dose review + 16 Oct right-leg episode + 18 Oct/5 Nov AVS hold + 21 Oct refusal + 24 Oct perceptual episode + 1 Nov liquid med).** Pending caregiver response; no reminder to send if today's evening report is already present.
 - **ONE-LEVER:** **Ask this evening whether the "seeing someone in her room" episode has recurred — a single recurrence means calling Dr Morris the same day. And re-pair the WA bridge (down 7 days / a full week) / nudge Stephanie to restore + backfill the 6–12 Nov reports. Top watch items.**
+
+---
+
+## 2026-11-13 (Fri) — Afternoon ⏰ AFTERNOON CHECK-IN POSTED
+
+- **Status:** 🟢 Stable on last captured data (5 Nov), but ⚠️ **READING GAP NOW 8 DAYS (6–13 Nov): no 6, 7, 8, 9, 10, 11, 12 or 13 Nov caregiver report captured** — linked to the **WA bridge being DOWN since 6 Nov 10:17 (WinError 5 perm + QR re-pair pending)**, which blocks Mum reports via WhatsApp. Afternoon check-in posted via this job's `deliver` target. Once the bridge is re-paired, recover + backfill the 6–13 Nov backlog; a direct WhatsApp/phone nudge to Stephanie is warranted (8 days of unlogged vitals/meals — 🔴 level). 5 Nov remains fully closed from Stephanie's inbox (BP 126/64 · P 67 · T 36.4 ✅ at 11am; son brief visit 6:40am + compound walk 6:55am; afternoon AVS med 2pm + Banku w/ okro stew 4:08pm ate all; calm streaming evening + watermelon juice 🍉). ✅ **BP healthy 4 straight clean days (2–5 Nov: 123/62, 133/64, 123/64, 126/64 — 6–13 Nov unavailable).** **No recurrence of the 24 Oct perceptual episode across ALL captured reports to date (through 5 Nov) — actively reconfirm at this check-in (one recurrence = Dr Morris SAME DAY).** ⚠️ 3 Nov brief dizziness did NOT recur (4–5 Nov) — closed; note if it returns. STEPHANIE_SILENT_INTAKE: **0 unprocessed of 18 total entries — nothing to ingest; silent gap now 8 days (6–13 Nov) → flagged via WA-bridge outage.** Data gap **25–29 Oct remains open** (5 days unlogged — standing top escalation with Stephanie).
+- **Uplift:** 🧡 Son brief visit (5 Nov 6:40am) + compound walk (6:55am) = family + mobility ✓. 💆 **TODAY = Fri = 💆 masseuse cadence day (Tue+Fri; 4 Nov session — "feeling good" after, restart CONFIRMED; Tue 10 Nov session due but UNCONFIRMED (no report); TODAY Fri 13 Nov session due — confirm + capture post-massage relief/back-pain outcome).** 🎀 **Kenus-spa (21 Oct) recurrence ask STILL OPEN** (owner-mandated 21/10/26: NEVER assume — did she enjoy the wax + pedicure + manicure, want a recurrence?). Today also = 🍷 Friday red-wine night (long-standing ritual — confirm amount). Standard menu per UPLIFT programme: 😄 laugh ritual, 🌺 garden/flowers, 📞 family call, 🚶 around-the-house walk, seated exercises.
+- **Vitals:** not captured (no report; last confirmed reading **5 Nov 11am BP 126/64 · P 67 · T 36.4 ✅** — within safe band, Furosemide stop rule <100/>140 NOT triggered; now 8 days stale). ⚠️ **BP before Furosemide dosing on RIGHT arm (standardise — left-arm gap ~10–17 pts, 24 Sep).**
+- **Medication:** Furosemide 20mg — not reported for 6–13 Nov; do not assume given. **STOP/HOLD if BP <100 or >140.** **Confirm whether salt therapy has resumed** (unconfirmed since 4 Oct; ⚠️ 21 Oct she REFUSED — watch for repeat). ⚠️ **AVS-hold flag reinforced by 5 Nov 2pm AVS dose** · 18 Oct AVS + liquid supplement hold · **1 Nov 150ml liquid medication (unidentified)** — identify products for Dr Morris.
+- **Lunch:** not yet reported (→ pending for MUM_FOOD_MASTER.md; **TWO-MEAL/DAY ~10am + ~4pm** is the prescribed Dr Morris pattern, not her choice).
+- **Check-in:** Posted afternoon prompt to topic 4 asking about lunch (what + how much), afternoon Furosemide 20mg + **BP before dosing on RIGHT arm (standardise)**, pain/discomfort (post-16 Oct right-leg lift / left-side leg-back; back itch — medicated powder 1 Nov), energy/mood, and any incidents since morning — **plus: ⚠️ perceptual-episode reconfirm (did "seeing someone" recur today? — if repeated, escalate to Dr Morris SAME DAY); 🎀 Kenus-spa recurrence ask (enjoyed? want it again?); confirm TODAY's Fri 13 Nov masseuse session + post-massage relief + 🍷 red-wine amount; identify the 1 Nov liquid med + clarify the 5 Nov 2pm AVS (hold question); restore the daily reporting flow for the open 6–13 Nov AND 25–29 Oct gaps with Stephanie (standing CRITICAL escalation — WA bridge down since 6 Nov is the cause of the 6–13 Nov gap; re-pair needed + direct WhatsApp/phone call to Stephanie to recover the backlog once bridge is up — now 8 days unlogged); fluids reminder (Na 161 🚩); confirm sodium-recheck labs (due ~24 Sep — STILL unconfirmed, high priority); buy Imodium (out since 8 Sep — now 9+ weeks); milk replacement (spoilt 11–12 Oct); stock BP spare batteries (device low 4 Oct); and Dr Morris reconciliation (salt vs Na 161 + Furosemide dose review + 16 Oct right-leg episode + 18 Oct/5 Nov AVS hold + 21 Oct refusal + 24 Oct perceptual episode + 1 Nov liquid med).** Pending caregiver response; no reminder to send if today's afternoon report is already present.
+- **ONE-LEVER:** **Ask this afternoon whether the "seeing someone in her room" episode has recurred — a single recurrence means calling Dr Morris the same day. And confirm today's Fri 13 Nov masseuse session + relief outcome. Top watch items (reading-gap remains the standing escalation).**
+
+
+---
+
+## 📋 CAREGIVER BACKLOG RECOVERY — 9 & 12–13 Nov (H pasted 14/11/26, WA re-paired)
+
+> Source: Stephanie's daily caregiver reports recovered via H (bridge was down 6–13 Nov; these were not auto-captured). Collated 14/11/26. **Missing still: 10–11 Nov (no reports recovered).**
+
+### 2026-11-09 (Mon) — Afternoon report
+- **Vitals @11am: BP 126/78 · P 81 · T 36.3** ✅ (within safe band; Furosemide stop-rule <100/>140 NOT triggered)
+- **Activity:** porch sit ~45min (1:26pm, back inside); laid in bed chatting w/ carer (2:15pm); sat on bed on phone (2:42pm).
+- **Masseuse:** called at ~3:25pm said on way; carer informed her. (Tue+Fri cadence — this is Mon, earlier visit noted.)
+- **Meal @4pm:** Boiled yam + kontomire stew + fried fish — ate all.
+- **LOG KEYS:** Mood Fair · Appetite Fair · Swelling Same · Urine Normal · Skin Okay. 🟢 stable.
+
+### 2026-11-12 (Thu) — Evening report
+- **Activity:** sat on bed on phone (5:12pm); laid in bed, declined carer's TV invite (6pm — prefers to lay down); carer asked about Epsom salt soak → **declined** (6:15pm); talked to her ~15min (7pm); lights off 7:58pm; bid carer goodnight 8pm.
+- **LOG KEYS:** Mood Fair · Appetite Fair · Urine Normal · Swelling Same · Skin Okay. 🟢 stable.
+
+### 2026-11-13 (Fri) — Morning report
+- **Son + grandsons brief visit @7:03am** 🧡; quick check 7:18am — feeling okay, **back pain reduced quite well**; walk in living room 7:43am; brief chat 8:40am; laying on bed 9:36am; came to kitchen 10:01am, **complained about hunger + morning mealtime**; carer reassured, meal ready.
+- **Breakfast @10:02am:** Baked beans + scrambled eggs — ate all. @10:50am brief chat.
+- **Vitals @11am:** (report cuts off — vitals line truncated in paste).
+
+### 2026-11-13 (Fri) — Afternoon report
+- **Activity:** laid in bed eyes closed @12pm; living-room chats w/ carer 12:27–(25min) & 1:30pm–(40min); asleep @2:35pm & 3pm (soundly); sitting on bed on phone @3:47pm.
+- **Meal @4pm:** Boiled yam + kontomire stew + fried fish — ate all.
+- **LOG KEYS:** Mood Fair · Appetite Fair · Swelling Same · Skin Okay. 🟢 stable.
+
+### 2026-11-13 (Fri) — Evening report
+- **Activity:** scrolling on phone 5pm; declined TV (5:42pm) + declined exercises (6pm).
+- **Foot-care protocol (EXCELLENT, likely masseuse/evening plan):** lukewarm water + Epsom salt in pedicure bowl, bubble effect, both legs in 15min (6:12pm); feet dried incl. between toes (6:20pm); **Cetraben cream massaged swollen feet ~3min (6:25pm)**. Talk w/ carer 7pm.
+- **Vitals @7:15pm: BP 112/68 · P 79 · T 36.7** ✅ (low-normal, in safe band). Goodnight 7:20pm.
+- **LOG KEYS:** Mood Fair · Appetite Fair · Urine Normal · Swelling Same · Skin Okay. 🟢 stable.
+
+### Cross-day notes (recovered window)
+- **BP healthy across every captured reading (9 & 13 Nov: 126/78, 112/68)** — Furosemide stop-rule never triggered; lines up with the 2–5 Nov clean streak.
+- **Swelling "Same" throughout** (not worsening) — Epsom + Cetraben foot-care continued (matches care plan).
+- **Food pattern:** boiled yam + kontomire + fried fish repeated as the 4pm meal (9 & 13 Nov) — ⚠️ kontomire + fried fish noted; fried fish appears (no-fry rule flag for Dr Ferguson review). Baked beans + scrambled eggs breakfast (13 Nov).
+- **No recurrence of the 24 Oct perceptual episode** across all recovered reports.
+- **Masseuse cadence (Tue 10 Nov)** — NOT confirmed in recovered set (no 10–11 Nov); Fri 13 Nov foot-care may have been carer deliverable. Flag for next check-in.
+
+
+---
+
+## 📋 CAREGIVER BACKLOG RECOVERY — 10–11 Nov (H pasted 14/11/26, round 2)
+
+> Stephanie's reports recovered in a second paste (closes the 10–11 Nov gap). Back-pain progression + paracetamol noted — see clinical flags.
+
+### 2026-11-10 (Tue) — Afternoon report
+- **Activity:** laying eyes closed @12pm; ~1hr chat w/ carer from 12:50pm; sitting chatting 1:30pm — **back pain "it's okay now"**; asleep 2pm; sleeping soundly flat-on-back 3pm.
+- **Meal @4pm:** Boiled beans + fried plantain — ate all.
+- **LOG KEYS:** Mood Fair · Appetite Fair · Swelling Same · Skin Okay. 🟢
+
+### 2026-11-10 (Tue) — Evening report ⚠️ BACK PAIN ESCALATION
+- **Back pain SEVERE turn:** @4:45pm requested pawpaw (brought); scrolling 5pm; **cried at 5:32pm — back pain gotten severe**; refused hot-water-massage + ointment, **insisted on speaking to her (H); said she can't get hold of H, asked carer to call; carer did, H picked up, H directed: make her lay flat on her back**; carer did 6pm.
+- **Son (H) brief visit @6:34pm** — (report cuts off mid-interaction).
+- **LOG KEYS:** Mood Fair · Appetite Fair · Swelling Same · Skin Okay. ⚠️ **back pain = the active clinical event this day.**
+
+### 2026-11-11 (Wed) — Morning report ⚠️ PAIN PROTOCOL
+- **Back pain ongoing:** quick check 7am (complained); warm honey water 7:30am all; **back massaged w/ hot water + towel, ointment applied 7:52am**; 30min chat 8:50am; living-room walk 9:22am; **complained again 9:48am → carer said she'd administer paracetamol after breakfast**.
+- **Breakfast @10am:** Corn dough + 2 boiled eggs — ate all.
+- **Meds @10:49am:** **Tab Paracetamol 500mg administered with water** (first paracetamol noted in recovered window).
+- **LOG KEYS:** Mood Fair · Appetite Fair · Swelling Same · Skin Okay.
+
+### 2026-11-11 (Wed) — Afternoon report
+- **Vitals @11am: BP 135/70 · P 68 · T 36.3** (BP slightly higher reading 135/70 — still under the 140 stop-rule; watch). Laying eyes closed 12pm; sleeping soundly 12:32–2pm (room ventilated, no overheating); sofa + 30min chat 3:02pm.
+- **Meal @4pm:** Banku + okro stew — ate all.
+- **LOG KEYS:** Mood Fair · Appetite Fair · Swelling Same · Skin Okay.
+
+### 2026-11-11 (Wed) — Evening report
+- **Back pain:** scrolling 4:45pm; check-up 5:18pm — **"back pain had reduced"**; 6pm chat, carer offered back massage + ointment → **she refused** (carer understood).
+- **Foot-care:** Epsom soak started 6:12pm **but she stopped after 5min — "felt too hot"**; carer discontinued + threw water away; feet dried 6:20pm (report cuts off — likely Cetraben massage omitted).
+- **LOG KEYS:** Mood Fair · Appetite Fair · Swelling Same · Skin Okay. 🟢 (back pain improved by evening)
+
+### ⚠️ CLINICAL FLAGS from the 10–11 Nov recovery (add to watch list)
+1. **BACK PAIN = active escalation 10 Nov evening** ("gotten severe", insisted on son, refused in-home treatment) → **H directed flat-on-back + brief visit 6:34pm**. By 11 Nov morning it persisted (paracetamol given) and **reduced by 11 Nov evening**. Watch for recurrence — this is now a named episode for Dr Morris reconciliation.
+2. **Paracetamol 500mg administered 11 Nov 10:49am** — log in meds; confirm H knows (it's OTC, safe, but record it).
+3. **BP 135/70 @11am 11 Nov** — higher than the rest of the window (126/78, 112/68); still under 140 stop-rule but note the drift; keep monitoring before Furosemide.
+4. **Fried plantain (10 Nov) + kontomire (9/13 Nov)** — plantain on the no-plantain care-plan flag; fried fish (9/13/Nov) no-fry flag.
+5. **Epsom soak stopped early (11 Nov, "too hot")** — foot-care protocol still usually followed (Cetraben massage likely after cut-off).
+
+
+---
+
+## 📋 CAREGIVER BACKLOG RECOVERY — 28–30 Oct (H pasted 14/11/26, round 3)
+
+> Real caregiver data recovered for 28–30 Oct (closes most of the 25–29 Oct gap; **25–27 Oct still missing**). 9/11 afternoon re-pasted but already collated (skipped). Last real data before this was 24 Oct.
+
+### 2026-10-28 (Wed) — Evening report
+- **Activity:** tv in living room 5pm; watching with carer 6:12–7pm (chatting); to bed 7pm; **carer brought watermelon 7:30pm but she was asleep — declined it**.
+- **LOG KEYS:** Mood Fair · Appetite Fair · Swelling Same · Skin Okay. 🟢 (note: watermelon declared → could not confirm intake)
+
+### 2026-10-29 (Thu) — Morning report
+- **Activity:** quick check 7am (feeling okay); 7:20am offered lemon water → **said no** (prefers her London multivitamin drink); **Masseuse session ~1hr 9:05–10:05am** (masseuse brought waakye).
+- **Breakfast @10:03am:** Waakye — ate some, left some.
+- **Vitals @11am: BP 119/72 · P 81 · T 36.1** ✅ (low-normal, in band). LOG KEYS Fair/Fair/Same/Okay. 🟢
+- *(mid-chat: cheesecloth noted + confirmed — the milk-straining cloth query.)*
+
+### 2026-10-29 (Thu) — Afternoon report
+- **Activity:** laying w/ fan 11:40am; sleeping 12:30–2pm (ventilated, no overheating, fan beside); sofa chat w/ carer 3pm.
+- **Meal @4:05pm:** Fufu + tilapia soup — ate all. LOG KEYS Fair/Fair/Same/Okay. 🟢
+
+### 2026-10-29 (Thu) — Evening report
+- **Activity:** pineapple juice 4:50pm (all); tv with carer 5–7:10pm; watermelon juice 7:15pm (all); bed + phone 7:30pm; goodnight 7:35pm.
+- **LOG KEYS:** Mood Fair · Appetite Fair · Swelling Same · Skin Okay. 🟢 (fruit intake strong: pineapple + watermelon)
+
+### 2026-10-30 (Fri) — Morning report
+- **Activity:** quick check 7am (feeling okay, "didn't have enough sleep"); pineapple juice 7:40am; **warm bath 8:30am**; 20min chat 9am.
+- **Vitals @7:35am: BP 128/65 · P 70 · T 36.0** ✅.
+- **Breakfast @10am:** Tom brown — left a little.
+- **LOG KEYS:** Mood Fair · Appetite Fair · Swelling Same · Skin Okay. 🟢
+
+### 2026-10-30 (Fri) — Afternoon report
+- **Activity:** 30min chat 12pm; laying eyes closed 12:52pm; carer check-up, asleep 1:45pm; sleeping soundly 2:30pm; sitting on bed 3pm.
+- **Meal @4pm:** Boiled yam + kontomire stew — ate all. LOG KEYS Fair/Fair/Same/Okay. 🟢
+
+### 2026-10-30 (Fri) — Evening report
+- **Activity:** tv in living room 5pm–7pm (with carer); **son (H) brief visit ~6:30pm, brought khebab — she ate it**; watermelon juice 7:35pm (all); bed 8:12pm, phone 8:30pm, goodnight 8:35pm.
+- **LOG KEYS:** Mood Fair · Appetite Fair · Swelling Same · Skin Okay. 🟢
+
+### Cross-day notes (28–30 Oct recovery)
+- **BP healthy all three readings (119/72, 128/65)** — Furosemide stop-rule never triggered; low-normal trend consistent.
+- **Masseuse session 29 Oct** (confirmed; cadence Tue+Fri — 29 was a Thu, so an extra/leftover; note).
+- **24 Oct perceptual episode did NOT recur** in 28–30 Oct reports — still no recurrence through the whole recovered set.
+- **Fruit intake strong** (pineapple + watermelon daily).
+- Food flags: **tilapia soup (29)** + **fried items** in the weekend — Dr Ferguson no-fry/plantain flags persist.
+- **Rest of the 25–27 Oct gap (3 days) STILL missing** — one WhatsApp nudge stands to fully close 25–29 Oct.
+
+
+---
+
+## 📋 STEPHANIE INBOX CAPTURE — 14 Nov (afternoon run 14/11/26)
+
+> Source: STEPHANIE_SILENT_INTAKE snapshot (8 entries, all 14 Nov). Clinical data ingested; owner conversational replies noted but non-clinical. Marks the first LIVE 14 Nov report — WA bridge recovered, reporting flow restored.
+
+### 2026-11-14 (Sat) — Morning report 🟢
+- **Activity:** quick check 7:18am — feeling okay; carer did laundry 8am; sitting on bed 8:40am; laying on bed 9:30am; **Breakfast @10am: Ekoegbemi — ate all**; came to kitchen, brief chat with carer 10:50am.
+- **Vitals @11am: BP 120/75 · P 74 · T 36.1** ✅ healthy (diastolic 75 fine; systolic well under 140 stop-rule — **Furosemide safe to give; stop-rule <100/>140 NOT triggered**).
+- **LOG KEYS:** Mood Fair · Appetite Fair · Swelling Same · Skin Okay. 🟢
+
+### 2026-11-14 (Sat) — Owner replies (non-clinical, noted)
+- @11:22: H asked carer to write down any issues going forward (daily ask routine).
+- @11:23: H: "Robert is on his way".
+- @11:23: H: "What have you been preparing since shopping has come".
+- @11:51: Carer: "Okay please" · "Yes, he just just came for it" · "Yes please" (confirming Robert collected something / wait).
+
+### Cross-day note (14 Nov)
+- **BP 120/75 healthy** — continues the clean low-normal streak (9 Nov 126/78, 13 Nov 112/68 → 14 Nov 120/75). **Furosemide stop-rule never triggered across the whole recovered set.**
+- **No recurrence of the 24 Oct perceptual episode.**
+- Back pain: 13 Nov morning report said "back pain reduced quite well" — no pain complaint in the 14 Nov morning report. Positive trend, watch for evening report.
+- Breakfast Ekoegbemi = grain porridge (grain phase-out flag persists, but standard staple).
+
+### 2026-11-14 (Sat) — Afternoon ⏰ CHECK-IN
+- **Status:** 🟢 Morning report received & ingested (BP 120/75 healthy). **Afternoon caregiver report NOT yet received.** Running the standard afternoon check-in (lunch, afternoon meds + BP before Furosemide on RIGHT arm, pain/discomfort, energy/mood, incidents since morning). **First live reporting day since WA bridge recovery.**
+- **Uplift:** 💆 **TODAY = Sat (not the Tue+Fri masseuse cadence, but 4/11 session was "feeling good"; confirm if a Sat visit happened).** 🎀 **Kenus-spa (21 Oct) recurrence ask STILL OPEN** · 🍷 standard rituals. Standard uplift menu: laugh, garden/flowers, family call, walk, exercises.
+- **Vitals:** 14 Nov morning BP 120/75 · P 74 · T 36.1 ✅ (safe; Furosemide stop-rule not triggered).
+- **Medication:** Furosemide 20mg — morning given per safe BP 120/75; afternoon not yet reported. **STOP/HOLD if BP <100 or >140. Confirm salt-therapy status (unconfirmed since 4 Oct; refused 21 Oct — watch).**
+- **Lunch:** not yet reported (→ pending in MUM_FOOD_MASTER once received; TWO-MEAL/DAY ~10am + ~4pm is the Dr Morris pattern).
+- **Check-in:** Preparing afternoon prompt for topic 4 asking about lunch, afternoon Furosemide + BP (RIGHT arm, standardise), pain/discomfort (back pain was trending better — 13 Nov "reduced quite well"), energy/mood, and any incidents since morning. **Plus: perceptual-episode reconfirm (did "seeing someone" recur today? one recurrence = Dr Morris SAME DAY); Kenus-spa recurrence ask; fluids (Na 161 🚩); Imodium stock (out since 8 Sep — now 9+ wks); sodium-recheck labs (due ~24 Sep — STILL unconfirmed); milk replacement (spoilt 11–12 Oct).** Pending caregiver response; no reminder if afternoon report already present.

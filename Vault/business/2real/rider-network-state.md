@@ -23,6 +23,7 @@
 | Abdul (Yango) | +233 25 774 7640 | _(pending first reply)_ | no | — |
 | Justice (Yango) | +233 59 951 3321 | _(pending first reply)_ | no | — |
 | Jacob (Yango) | +233 59 844 4870 | _(pending first reply)_ | no | — |
+| Kwesi (Yango) | +233 50 308 4022 | Achimota | yes | 14/11/26 — delivered Stanley 12-in-1 multi tool (H: "maybe I'll use him for future deliveries") |
 <!-- Add new riders below this line (copy a row, keep the table format). -->
 
 ## Availability log (each week's Monday 7–9am confirmations)

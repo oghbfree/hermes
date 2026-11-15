@@ -8534,3 +8534,45 @@ I want to try and see first
 - **Agent draft (NOT sent):** "We have imperial spanners listed — for the smaller sizes please let us know the exact sizes you need and we will check our live list to confirm the price and stock before you order." — good: context-aware, no invented prices/stock; no CTA (minor).
 - **Chat:** @mal33lam — no pending customer question (declined 17:39 "got another alternative"); agent correctly idle.
 - **Reply sent by bot:** NONE today — agent drafted only, both drafts still pending approval (differs from 07/11 auto-send)
+
+## 2026-11-14 11:38
+- **Channel:** whatsapp
+- **Chat:** 32989945852018
+- **Customer:** No
+- **Reply:** [acknowledgment - no reply sent]
+
+## 2026-11-14 16:32
+- **Channel:** whatsapp
+- **Chat:** 188403136077878
+- **Customer:** [image received]
+- **Reply:** Thank you for your purchase! 🙏 Enjoy the item. If you have a moment, a review on Jiji helps other customers find us — it takes 30 seconds and helps a small business grow: https://jiji.com.gh/shop/2real-online
+
+## 2026-11-14 16:38
+- **Channel:** whatsapp
+- **Chat:** 188403136077878
+- **Customer:** Okay
+- **Reply:** Thank you! 🙏 I've saved your number so you'll be first to know when new stock lands — quality UK tools and gadgets at good prices. Save this number as *2Real Stock Updates* so you don't miss a restock.
+
+## 2026-11-14 17:12
+- **Channel:** whatsapp
+- **Chat:** 1696612802643
+- **Customer:** Yes
+- **Reply:** [acknowledgment - no reply sent]
+
+## 2026-11-14 20:58
+- **Channel:** whatsapp
+- **Chat:** 7138269224997
+- **Customer:** yes
+- **Reply:** [acknowledgment - no reply sent]
+
+## 2026-11-14 21:05
+- **Channel:** whatsapp
+- **Chat:** 1696612802643
+- **Customer:** Sure
+- **Reply:** [acknowledgment - no reply sent]
+
+## 2026-11-14 21:43
+- **Channel:** whatsapp
+- **Chat:** 7138269224997
+- **Customer:** yes,
+- **Reply:** [acknowledgment - no reply sent]

@@ -1,10 +1,11 @@
 # Facebook Marketplace Playbook — CANONICAL (all sessions MUST follow)
-**File owner:** PROMOTION_MASTER_PLAN.md chain | **Updated:** 01 Nov (see PRESERVATION)
+**File owner:** PROMOTION_MASTER_PLAN.md chain | **Updated:** 14 Nov (see PRESERVATION)
 **Any session posting to FB Marketplace reads this file first. No exceptions.**
-**ALSO READ `FB_PRESERVATION_PLAYBOOK.md` (⚠ created 01/11 after a successful
-review of a Marketplace restriction for "deception"). That file = the never-again
-doctrine and outranks this one on any conflict. Key: FB crons stay PAUSED; FB
-posting is manual/human-approved going forward.**
+**ALSO READ `FB_PRESERVATION_PLAYBOOK.md` (created 01/11 after a successful
+review of a Marketplace restriction for "deception", REVISED 14/11). It outranks
+this one on any conflict. Key: FB posting RESUMED 14/11/26 under H go-ahead +
+≤3/day guard cap; crons Batch Poster + both Monitors unpaused. Never exceed
+3 new listings/day; any Meta signal = STOP + report to H.**
 
 ## Where This Fits
 Christmas 3-engine plan: (1) Jiji TOP+ allocations, (2) Pro Sales groups, (3) FREE channels =

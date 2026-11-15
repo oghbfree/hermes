@@ -51,24 +51,25 @@ The flag was *deception / taking money*. Real triggers to eliminate:
    never re-post what's already listed.
 If ANY layer flags it: SKIP. No exceptions, no "but the queue says so."
 
-## 5. Re-entry — SHELVED INDEFINITELY (H verdict 02/11/26)
-**DO NOT resume FB auto-posting at ANY rate.** 4 security lockouts on 02/11/26 —
-even running the guarded once-daily 3/day-cap cron — prove the batch-posting
-PATTERN itself (automation cadence / new-device / recent re-entry) is what Meta's
-security trips on, not volume. The recovery flow ("confirm this is your Meta
-account", may-have-been-hacked protection, not a content strike) is real, but
-repeating the automation keeps re-locking it. Therefore:
-- **All 3 FB crons stay PAUSED permanently** (Batch Poster 5128ceaa2c09,
-  Marketplace Monitor 0ef160b1c270, FB Messages Monitor 589664dd3068). Not
-  "guarded re-entry" — off.
-- **FB publishing returns ONLY when:** (a) H confirms the account is unlocked,
-  AND (b) H personally drives/counts each listing. The agent never auto-posts.
-  FB = H's manual, human-published channel. Agent holds Jiji/WhatsApp system-side
-  until H says otherwise.
+## 5. Re-entry — RESUMPTION AUTHORIZED (H unlock 14/11/26, per-batch H drive)
+**The 02/11/26 "shelved indefinitely" verdict is SUPERSEDED by H's 14/11/26 go.**
+H confirmed the Marketplace lock is cleared and instructed sat-nav to **revise this
+playbook and post on FB** — that is the explicit per-batch H go-ahead §1 requires.
+The 4 lockouts of 02/11 were real, so the POSTURE stays guarded, but forwarding has
+resumed under H's direct drive:
+- **FB Marketplace Batch Poster (5128ceaa2c09) = RESUME** under the **guard
+  cap: ≤3 new listings/day** (hard daily counter enforced; do NOT raise). This is
+  H-authorized forwarding, not a fire-and-forget privilege — H drives which
+  batches go, sat-nav executes the approved batch within the cap.
+- **Daily Marketplace Monitor (0ef160b1c270) = RESUME** (read-only — safe).
+- **FB Messages Monitor (589664dd3068) = RESUME** (read-only buyer-thread
+  oversight + nudge proposals; discounts still H-approved only).
+- **Guardrails STILL HARD (unchanged):** one listing per product, 3-layer dup
+  guard, text+photo variation, honest condition (UK Pre-Owned/Tested Working vs
+  For Parts), exact gold-list price, ≤3/day. Any of these fails → skip, don't force.
 - **Any Meta signal** (flag, review, listing removal, lock, warning) → STOP all
   FB activity immediately, report to H, don't fight it.
-- History retained for reference (Day 1 01/11/26 3-item batch Ring 13427157 /
-  Luceco 13406906 / Ryobi 16602816), but the re-raise cap plan is RETIRED.
+- Re-raise the daily cap only after ~2 clean weeks of ≤3/day, and only on H's word.
 
 ## 6. What "preservation" means operationally (daily)
 - Visual + title = truth: condition, included-in-box, price, pickup/delivery.
