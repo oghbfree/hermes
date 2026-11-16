@@ -301,8 +301,8 @@ Skin: Okay
 ## 2026-11-14 11:51 (from 233548236698) [PROCESSED]
 - Yes please
 
-## 2026-11-14 19:28 (from 233548236698)
-- 14/11/2026 AFTERNOON REPORT
+## 2026-11-14 19:28 (from 233548236698) [PROCESSED]
+- 14/11/2026 AFTERNOON REPORT [PROCESSED — ingested into MUM_MEDICAL_MASTER 14 Nov + MUM_FOOD_MASTER (mango + kenkey/sardine) 15 Nov]
 @12pm: She was laying in her bed while chatting with her carer for about 10mins.
 @12:30pm: She was sleeping soundly in her bed.
 @1:30pm: She was still sleeping soundly, her room well ventilated.
@@ -316,8 +316,8 @@ Appetite: Fair
 Swelling: Same
 Skin: Okay
 
-## 2026-11-14 21:48 (from 233548236698)
-- 14/11/2026 EVENING REPORT
+## 2026-11-14 21:48 (from 233548236698) [PROCESSED]
+- 14/11/2026 EVENING REPORT [PROCESSED — ingested into MUM_MEDICAL_MASTER 14 Nov]
 @5:12pm: She was sitting on her bed scrolling through her phone.
 @6pm: She was sitting in her bed, carer asked to come to the living room so they watch tv together but she said no, she prefers to be in her room.
 @6:15pm: Carer asked if she’ll do Epsom salt soak but she said no. Carer told her about the importance of doing it often but she still refused.
@@ -329,5 +329,51 @@ LOG KEYS
 Mood: Fair
 Appetite: Fair
 Urine: Normal 
+Swelling: Same
+Skin: Okay
+
+## 2026-11-15 17:37 (from 233548236698) [PROCESSED — ingested into MUM_MEDICAL_MASTER 15 Nov (10 Nov morning backfill) + MUM_FOOD_MASTER (10 Nov breakfast)]
+- 10/11/2026 MORNING REPORT [PROCESSED]
+@7am: A quick check was done and she said she is feeling okay.
+@7:30am: Carer asked to bring her lemon water and she refused.
+@8am: She took a walk in the living room.
+@8:20am: She had a brief chat with her carer.
+@9:36am: She was laying on her bed.
+@10am: Breakfast (Corn dough porridge with 2 boiled eggs) was brought to her and she ate all of it.
+@10:47am: Her grandsons came and they were having interactions with each other.
+LOG KEYS
+Mood: Fair
+Appetite: Fair
+Swelling: Same
+Skin: Okay
+
+## 2026-11-15 20:23 (from 233548236698)
+- 15/11/2026 AFTERNOON REPORT
+@12pm: Carer asked to warm her liquid medication for her but she’s said no.
+@12:54pm: Tatale was brought to her and she all of it.
+@1:26pm: She was still having interactions with her grandsons who came to visit.
+@2pm: She had interactions with her grandsons snd son who came later.
+@2:42pm: She was watching tv with her grandsons.
+@4:07pm: Kokonte with groundnut soup was served and she ate all of it.
+@4:45pm: She asked for watermelon juice which was brought to her and she drank all of it.
+LOG KEYS
+Mood: Fair
+Appetite: Fair
+Swelling: Same
+Urine: Normal
+Skin: Okay
+
+## 2026-11-15 21:05 (from 233548236698)
+- 15/11/2026 EVENING REPORT
+@5:30pm:Her son and grandson left.
+@5:35pm: She went to her room and sat on her bed.
+@6pm: Carer went to her room and she had a brief chat with her.
+@6:12pm: Carer asked to bring lukewarm water for her feet soak but she’s refused.
+@7pm: She turned off her bedroom lights and laid in her bed.
+@8:12pm: She came to the kitchen and had an interaction with her carer and went back to her room.
+They bid each other goodnight.
+LOG KEYS
+Mood: Fair
+Appetite: Fair
 Swelling: Same
 Skin: Okay

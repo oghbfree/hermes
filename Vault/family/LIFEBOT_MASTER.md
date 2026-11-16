@@ -1,6 +1,6 @@
 # 👨‍👩‍👧‍👦 FAMILY LIFEBOT MASTER — Integrated Affairs Dashboard
 > Live cross-family summary. Regenerated daily by LifeBot (harold profile).
-> **Updated:** 2026-11-14
+> **Updated:** 2026-11-15
 
 ## Members & red-flag watch
 | Member | Master file | ⚠️ flags | Top watch items |

@@ -122,9 +122,9 @@
 | 9 Nov | — (no report) | **Boiled yam + kontomire stew + fried fish** (4pm, all) | — |
 | 12 Nov | — (no report) | — | — (no solid meal; evening scoll/declined-TV only) |
 | 13 Nov | **Baked beans + scrambled eggs** (10:02am, all) · ⚠️ hunger + morning-mealtime complaint | **Boiled yam + kontomire stew + fried fish** (4pm, all) | — |
-| 10 Nov | — | **Boiled beans + fried plantain** (4pm, all) · pawpaw 4:45pm | — (evening: back-pain escalation; no dinner logged) |
+| 10 Nov | **Corn dough porridge + 2 boiled eggs** (10am, all) · grandsons visit 10:47am 🧡 | Boiled beans + fried plantain (4pm, all) · pawpaw 4:45pm | — (evening: back-pain escalation; no dinner logged) |
 | 11 Nov | **Corn dough + 2 boiled eggs** (10am, all) · warm honey water 7:30am · paracetamol 10:49am | **Banku w/ okro stew** (4pm, all) | — |
-| 14 Nov | **Ekoegbemi** (10am, all) | — (pending afternoon) | — (pending evening) |
+| 14 Nov | **Ekoegbemi** (10am, all) · BP 120/75 at 11am | **Sliced mango** (3:10pm, some) · **Kenkey + pepper + sardine** (4pm, all) ⚠️ sardine=high-salt/grain drift | — (declined juice; early bed ~8pm) |
 
 > **Backfill complete (12 Oct 26):** Meals to 12 Oct. 🥛 **MILK SPOILT — discarded (strained w/ new cheesecloth + heated, still off; heat ≠ safe with spoiled milk). Perishable protocol: check on arrival, refrigerate immediately, date, carer spot-checks before serving.** Cheesecloth delivered 11 Oct ✓ (rider). Gentle swaps: Don Simon → watermelon juice; kelewele occasional.
 

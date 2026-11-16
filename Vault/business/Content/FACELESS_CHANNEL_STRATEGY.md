@@ -3,7 +3,7 @@
 **Owner:** H (2 Real Enterprises / Akoma Robotics)
 **Version:** 1.0 — locked 17/8/26
 **Type:** Content strategy master doc
-**Linked assets:** TAIWAH_MASTER_PROMPT.md, TAIWAH_CHARACTER_ANCHOR.md, content-assets/2real/, inventory_agent.json, multi-brand-content-engine skill
+**Linked assets:** TAIWAH_CHARACTER_ANCHOR_MASTER.md, TAIWAH_CHARACTER_ANCHOR.md, content-assets/2real/, inventory_agent.json, multi-brand-content-engine skill
 
 ---
 
@@ -136,7 +136,7 @@ The Taiwah Builds strategy is NOT a separate workflow — it runs inside the exi
 **What the Sunday engine already does for 2Real days (Tue/Thu/Sat):**
 - Generates Instagram feed, carousel, Facebook post, FB Marketplace, TikTok, WA Status, LinkedIn content
 - Picks real in-stock products from inventory_agent.json
-- Applies Taiwah selectively via TAIWAH_FOR_COPYING.png
+- Applies Taiwah selectively via @image1_TAIWAH_SHOOT1_CLOSEUP.png
 
 **What now changes for 2Real days (ALL 2Real content):**
 - Every 2Real post must follow the **craft + business format** (never one alone)

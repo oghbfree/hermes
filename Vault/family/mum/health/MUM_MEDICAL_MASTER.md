@@ -2454,3 +2454,53 @@ Date-range snapshot:
 - **Medication:** Furosemide 20mg — morning given per safe BP 120/75; afternoon not yet reported. **STOP/HOLD if BP <100 or >140. Confirm salt-therapy status (unconfirmed since 4 Oct; refused 21 Oct — watch).**
 - **Lunch:** not yet reported (→ pending in MUM_FOOD_MASTER once received; TWO-MEAL/DAY ~10am + ~4pm is the Dr Morris pattern).
 - **Check-in:** Preparing afternoon prompt for topic 4 asking about lunch, afternoon Furosemide + BP (RIGHT arm, standardise), pain/discomfort (back pain was trending better — 13 Nov "reduced quite well"), energy/mood, and any incidents since morning. **Plus: perceptual-episode reconfirm (did "seeing someone" recur today? one recurrence = Dr Morris SAME DAY); Kenus-spa recurrence ask; fluids (Na 161 🚩); Imodium stock (out since 8 Sep — now 9+ wks); sodium-recheck labs (due ~24 Sep — STILL unconfirmed); milk replacement (spoilt 11–12 Oct).** Pending caregiver response; no reminder if afternoon report already present.
+
+### 2026-11-14 (Sat) — Afternoon report ✅ LIVE (from STEPHANIE_SILENT_INTAKE 19:28)
+- **Activity:** Laying in bed chatting with carer ~10min @12pm; sleeping soundly @12:30pm, @1:30pm (room ventilated), @2:48pm (no overheating detected); **awake @3pm — took AVS medication with hot water**; sliced mango @3:10pm (ate some); **Supper (meal 2 of 2) @4pm: Kenkey with pepper and sardine — ate all**.
+- **Vitals:** not taken (no reading in report).
+- **Medication:** Furosemide 20mg not reported for the afternoon — do not assume. ⚠️ **AVS medication taken 3pm — 2nd logged AVS dose after 5 Nov 2pm AVS dose (plus the 18 Oct AVS + liquid-supplement hold + 1 Nov 150ml unidentified liquid); still need to identify the product for Dr Morris.** STOP/HOLD Furosemide if BP <100 or >140.
+- **LOG KEYS:** Mood Fair · Appetite Fair · Swelling Same · Skin Okay. 🟢
+- **Note:** Kenkey = grain (phase-out drift flag) + sardine = high-salt (Na 161 🚩 fluid priority) — recorded, standard drift.
+
+### 2026-11-14 (Sat) — Evening report ✅ LIVE (from STEPHANIE_SILENT_INTAKE 21:48)
+- **Activity:** Sitting on bed scrolling phone @5:12pm; @6pm declined carer's invitation to living-room TV (prefers her room — boundary respected); **declined Epsom salt soak @6:15pm (carer explained its importance; she still refused)**; **declined exercises @6:30pm**; declined juice @7:19pm; room lights off @7:50pm; goodnight @8pm.
+- **Vitals:** not taken.
+- **Medication:** none reported.
+- **LOG KEYS:** Mood Fair · Appetite Fair · **Urine Normal** · Swelling Same · Skin Okay. 🟢
+- **Note:** Multiple gentle declines (soak, exercise, juice) — consistent with her evening autonomy/boundary pattern (calm, NOT an emotional episode — no anger this evening). Back pain not mentioned — 13 Nov "reduced quite well" trend holds.
+
+---
+## 2026-11-15 (Sun) — Morning
+- **Status:** No caregiver morning report received yet today (last captured: 14 Nov evening). 🟢 Low-normal BP streak held across the recovered set (9 Nov 126/78 → 13 Nov 112/68 → 14 Nov 120/75) — **Furosemide stop-rule (<100/>140) never triggered.** No recurrence of the 24 Oct perceptual episode. Reporting flow live again post-WA-bridge recovery.
+- **Uplift:** SUN timetable = rest morning · chapel/prayer if she wants · **📖 Story hour (autobiography / family stories)** · warm milk · early night. 🎀 **Kenus-spa (21 Oct) recurrence ask STILL OPEN** (owner-mandated: NEVER assume — did she enjoy the wax+pedicure+manicure, want a recurrence?). 💆 next masseuse cadence day **Tue 17 Nov**.
+- **Vitals:** not yet reported today (pending caregiver morning report).
+- **Medication:** Furosemide 20mg — pending today's report; **hold if BP <100 or >140.** Confirm salt-therapy status (unconfirmed since 4 Oct; refused 21 Oct — watch for repeat).
+- **Check-in:** Asked caregiver about breakfast, morning meds (Furosemide 20mg + **BP before dosing on RIGHT arm**), pain, energy/mood, mobility. **Plus: fluids hourly (Na 161 🚩); expected to log issues now per H's 14 Nov ask; Imodium stock (out since 8 Sep — now 10+ wks); sodium-recheck labs (due ~24 Sep — STILL unconfirmed); milk replacement (spoilt 11–12 Oct); identify the AVS medication product for Dr Morris.**
+
+### 2026-11-15 (Sun) — Afternoon ⏰ CHECK-IN
+- **Status:** 🟢 No new caregiver report yet today (last captured: 14 Nov evening). Low-normal BP streak holds across the recovered set (9 Nov 126/78 → 13 Nov 112/68 → 14 Nov 120/75) — **Furosemide stop-rule (<100/>140) never triggered.** No recurrence of the 24 Oct perceptual episode. Running the standard afternoon check-in.
+- **Uplift:** SUN timetable = rest morning · chapel/prayer if she wants · **📖 Story hour (autobiography / family stories)** · warm milk · early night. 🎀 **Kenus-spa (21 Oct) recurrence ask STILL OPEN** (owner-mandated: NEVER assume — did she enjoy wax+pedicure+manicure, want a recurrence?). 💆 next masseuse cadence day **Tue 17 Nov**.
+- **Vitals:** not yet reported today (pending caregiver morning/afternoon report).
+- **Medication:** Furosemide 20mg — pending today's report; **hold if BP <100 or >140** (RIGHT arm, standardise). Confirm salt-therapy status (unconfirmed since 4 Oct; refused 21 Oct — watch for repeat).
+- **Lunch:** not yet reported (→ pending in MUM_FOOD_MASTER once received; TWO-MEAL/DAY ~10am + ~4pm is the Dr Morris pattern).
+- **Check-in:** Posted afternoon prompt to topic 4 asking about lunch (what + how much), afternoon Furosemide 20mg + BP before dosing (RIGHT arm), pain/discomfort (back trending better — 13 Nov "reduced quite well"), energy/mood, and any incidents since morning. **Plus: perceptual-episode reconfirm (one recurrence = Dr Morris SAME DAY); fluids hourly (Na 161 🚩); Imodium stock (out since 8 Sep — now 10+ wks); sodium-recheck labs (due ~24 Sep — STILL unconfirmed); milk replacement; identify the AVS medication product for Dr Morris; respect the no-evening-bed-laying + exercise/soak refusal autonomy (calm, not an episode).**
+
+---
+
+## 2026-11-10 (Tue) — Morning report ✅ RECOVERED (STEPHANIE_SILENT_INTAKE 15 Nov 17:37)
+
+- **Status:** Feeling okay (7am quick check). Walk in living room 8am; brief chat with carer 8:20am; laying on bed 9:36am. **Grandsons came 10:47am — interactions** 🧡 (family uplift; matches the son+grandsons pattern that day — son visited again 6:34pm).
+- **Vitals:** not captured (no BP reading in the morning report — 10 Nov vitals never recorded; next reading 11 Nov 135/70).
+- **Medication:** Furosemide 20mg — not reported for the morning; do not assume given. **STOP/HOLD if BP <100 or >140.**
+- **Breakfast:** Corn dough porridge + 2 boiled eggs (10am — ate all). (→ logged in MUM_FOOD_MASTER 10 Nov breakfast)
+- **Check-in:** Declined lemon water 7:30am (consistent with pattern). LOG KEYS: Mood Fair · Appetite Fair · Swelling Same · Skin Okay. 🟢
+- **Note:** Arrived late via WhatsApp snapshot (15 Nov 17:37). Closes the 10 Nov MORNING gap from the 10–11 Nov recovery round — **10 Nov is now fully captured (morning + afternoon + evening, incl. ⚠️ evening back-pain escalation).**
+
+## 2026-11-15 (Sun) — Evening ⏰ EVENING CHECK-IN POSTED
+
+- **Status:** 🟢 No new caregiver report yet today (last captured: 14 Nov evening; **10 Nov morning backfilled today via silent intake**). Low-normal BP streak holds across the recovered set (9 Nov 126/78 → 13 Nov 112/68 → 14 Nov 120/75) — **Furosemide stop-rule (<100/>140) never triggered.** No recurrence of the 24 Oct perceptual episode. Running the standard evening check-in.
+- **Uplift:** SUN timetable = rest morning · chapel/prayer if she wants · 📖 Story hour · warm milk · early night. 🧡 Grandsons visit on 10 Nov (backfilled today). 🎀 **Kenus-spa (21 Oct) recurrence ask STILL OPEN** (owner-mandated: NEVER assume — did she enjoy wax+pedicure+manicure, want a recurrence?). 💆 next masseuse cadence day **Tue 17 Nov**.
+- **Vitals:** not yet reported today (pending caregiver evening report; last confirmed 14 Nov 11am BP 120/75 · P 74 · T 36.1 ✅).
+- **Medication:** Furosemide 20mg — pending today's report; **hold if BP <100 or >140** (RIGHT arm, standardise). Confirm salt-therapy status (unconfirmed since 4 Oct; refused 21 Oct — watch for repeat).
+- **Dinner:** not yet reported (→ pending in MUM_FOOD_MASTER once received; TWO-MEAL/DAY ~10am + ~4pm is the Dr Morris pattern).
+- **Check-in:** Posted evening prompt to topic 4 (delivered via this job's `deliver` target) asking about dinner (what + how much), evening Furosemide 20mg + BP before dosing (RIGHT arm), pain/discomfort (back trending better — 13 Nov "reduced quite well"; watch recurrence of the 10 Nov severe-back-pain episode), energy/mood, and an overall day summary. **Plus: perceptual-episode reconfirm (one recurrence = Dr Morris SAME DAY); fluids hourly (Na 161 🚩); Imodium stock (out since 8 Sep — now 10+ wks); sodium-recheck labs (due ~24 Sep — STILL unconfirmed); milk replacement; identify the AVS medication product for Dr Morris; Kenus-spa recurrence ask; respect the no-evening-bed-laying + exercise/soak refusal autonomy (calm, not an episode).** Pending caregiver response.

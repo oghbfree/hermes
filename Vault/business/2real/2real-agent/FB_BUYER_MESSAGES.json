@@ -637,6 +637,39 @@
       "last_out": "2026-11-01T11:21:19.802964",
       "last_dir": "out",
       "last_msg": "Hi Nyoja! Yes, still available - GHS 2,600, UK imported and quality checked. MoMo/cash only, no credit. WhatsApp 0204252252"
+    },
+    {
+      "id": "iampatrick-wilson-tennis",
+      "nudges_sent": 0,
+      "status": "awaiting_buyer",
+      "created": "2026-11-16T02:49:04.132289",
+      "buyer": "iamPatrick",
+      "listing_title": "Wilson Adult Tennis Racket With Bag",
+      "last_dir": "out",
+      "last_msg": "GHS 650 UK imported; MoMo/cash no credit; CTA 0204252252",
+      "last_out": "2026-11-16T02:49:04.132236"
+    },
+    {
+      "id": "diana-leapfrog-2in1",
+      "nudges_sent": 0,
+      "status": "awaiting_buyer",
+      "created": "2026-11-16T02:49:04.135727",
+      "buyer": "Diana",
+      "listing_title": "Leapfrog 2 in 1 Touch Tablet and Laptop",
+      "last_dir": "out",
+      "last_msg": "GHS 250 UK imported quality checked; CTA 0204252252",
+      "last_out": "2026-11-16T02:49:04.132236"
+    },
+    {
+      "id": "scanty-dewalt-impact",
+      "nudges_sent": 0,
+      "status": "awaiting_buyer",
+      "created": "2026-11-16T02:49:04.138462",
+      "buyer": "Scanty",
+      "listing_title": "DeWalt Impact Driver Wrench",
+      "last_dir": "out",
+      "last_msg": "GHS 850 UK imported tested working; CTA 0204252252",
+      "last_out": "2026-11-16T02:49:04.132236"
     }
   ],
   "nudge_policy": {
