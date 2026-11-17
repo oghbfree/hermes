@@ -206,3 +206,33 @@ Homebound in Weija, Accra. Cared for by family and carers.
 
 > *This document is maintained by H. Last updated: 23 May 2026*
 > *Transcribed from two handwritten notebook pages (05/04/2020) and additional voice notes/dictation.*
+
+---
+
+# LIVING MEMOIR INTAKE (started 16/11/26)
+
+> **Purpose:** capture facts, names, dates and stories Mum mentions day-to-day, in her own words,
+> so nothing is lost before it can be written up properly. Stephanie collects; sat-nav transcribes
+> and files. Each entry is one thing Mum said — no summarising away her phrasing.
+
+**How it works**
+1. In her 2-hourly check-in, Stephanie is asked: *"Anything Mum said today about her life — a name, a place, a job, an old story? Even one line is enough."*
+2. Stephanie replies (text or voice note) with what Mum said.
+3. sat-nav appends it below verbatim, tags it, and flags anything that conflicts with what is already written above.
+4. Facts that contradict the autobiography are **not** overwritten — they are noted as an open question for H/Mum to settle.
+
+**Entry format**
+```
+### <DD/MM/YY> — <one-line topic>
+**Mum said:** "<verbatim, as close to her words as possible>"
+**Context:** <who was there, what prompted it>
+**Source:** Stephanie via WhatsApp
+**Tags:** #person / #place / #job / #date / #tradition / #family
+**Cross-check:** <matches section X above / conflicts with Y — needs confirming>
+```
+
+---
+
+## Captured entries
+
+_(none yet — first intake expected from the 2-hourly check-ins)_

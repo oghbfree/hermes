@@ -347,8 +347,8 @@ Appetite: Fair
 Swelling: Same
 Skin: Okay
 
-## 2026-11-15 20:23 (from 233548236698)
-- 15/11/2026 AFTERNOON REPORT
+## 2026-11-15 20:23 (from 233548236698) [PROCESSED — ingested into MUM_MEDICAL_MASTER 16 Nov + MUM_FOOD_MASTER (15 Nov lunch)]
+- 15/11/2026 AFTERNOON REPORT [PROCESSED]
 @12pm: Carer asked to warm her liquid medication for her but she’s said no.
 @12:54pm: Tatale was brought to her and she all of it.
 @1:26pm: She was still having interactions with her grandsons who came to visit.
@@ -363,8 +363,8 @@ Swelling: Same
 Urine: Normal
 Skin: Okay
 
-## 2026-11-15 21:05 (from 233548236698)
-- 15/11/2026 EVENING REPORT
+## 2026-11-15 21:05 (from 233548236698) [PROCESSED — ingested into MUM_MEDICAL_MASTER 16 Nov]
+- 15/11/2026 EVENING REPORT [PROCESSED]
 @5:30pm:Her son and grandson left.
 @5:35pm: She went to her room and sat on her bed.
 @6pm: Carer went to her room and she had a brief chat with her.
@@ -377,3 +377,102 @@ Mood: Fair
 Appetite: Fair
 Swelling: Same
 Skin: Okay
+
+## 2026-11-16 09:14 (from 233548236698) [PROCESSED — noted non-clinical owner reply]
+- [owner reply] Greetings have you checked on mom [PROCESSED]
+
+## 2026-11-16 09:47 (from 233548236698) [PROCESSED — noted non-clinical owner reply]
+- [owner reply] Here [PROCESSED]
+
+## 2026-11-16 09:48 (from 233548236698) [PROCESSED — kidney capsule identified, ingested]
+- [owner reply] So it's the kidney capsule please confirm also is she taking the other medicines from Dr Morris [PROCESSED]
+
+## 2026-11-16 12:30 (from 233548236698) [PROCESSED — kidney-capsule powdered form confirmed, ingested]
+- She takes the powdered one which she mix with water but for liquid one, not really [PROCESSED]
+
+## 2026-11-16 12:35 (from 233548236698) [PROCESSED — non-clinical thread noted, ingested]
+- 1. Yes, she has eaten. [PROCESSED]
+2. ⁠She doesn’t do it often when I tell her to but her BP has been stable. [PROCESSED]
+3. ⁠Yes, I’ve soaked the tiger nut and I’ll proceed within 48-74hrs. [PROCESSED]
+
+She actuall just left after watching tv with. I’ll definitely ask these questions too. [PROCESSED]
+
+## 2026-11-16 12:41 (from 233548236698) [PROCESSED — ingested into MUM_MEDICAL_MASTER 16 Nov + MUM_FOOD_MASTER (16 Nov breakfast)]
+- 16/11/2026 MORNING REPORT [PROCESSED]
+@7am: Carer went to check up on her but she didn’t respond to carer’s questions.
+@8am: She was laying on her bed.
+@9:12am: Carer went to check up on her again and she said she is feeling okay.
+@9:30am: She was still having a chat with her carer.
+@10am: Breakfast (Pawpaw with scrambled eggs) was brought to her and she ate all of it.
+@10:50am: She came to sit in the living room and started watching tv with her carer.
+@11am: Vital signs was BP: 111/69, P: 76, T: 36.1
+LOG KEYS
+Mood: Fair
+Appetite: Fair
+Swelling: Same
+Skin: Okay
+
+## 2026-11-16 19:07 (from 233548236698)
+- Her masseuse didn’t come today.
+Okay please. Thank you!
+
+## 2026-11-16 19:10 (from 233548236698)
+- 16/11/2026 AFTERNOON REPORT
+@12pm: She went back to her room and laid on her bed.
+@12:30pm: She was sleeping soundly in her bed.
+@1:30pm: She was still sleeping soundly, her room well ventilated.
+@2:17pm: She was awake and she took her AVS medication with hot water.
+@3:10pm: Carer checked up on her and she had a chat with her for about 20mins.
+@4pm: Boiled plantain with kontomire stew and fried fish was brought to her and she ate all of it.
+LOG KEYS
+Mood: Fair
+Appetite: Fair
+Swelling: Same
+Skin: Okay
+
+## 2026-11-16 20:49 (from 233548236698)
+- [owner reply] Did she take all of Dr Morris;s medicine?
+
+## 2026-11-16 20:49 (from 233548236698)
+- [owner reply] Ok
+[owner reply] Did she want a small snack in between meals?
+[owner reply] How much water is she drinking?
+
+## 2026-11-16 21:13 (from 233548236698)
+- No, she didn’t ask but I gave her Sobolo.
+
+## 2026-11-16 21:14 (from 233548236698)
+- I noticed she drank 1 and half bottle
+
+## 2026-11-16 21:16 (from 233548236698)
+- [owner reply] ok good
+
+## 2026-11-16 21:16 (from 233548236698)
+- [owner reply] how many bottles left
+
+## 2026-11-16 21:17 (from 233548236698)
+- [owner reply] ok keep encouraging to drink more
+16/11/2026 EVENING REPORT
+@5pm: She was sitting on her bed, scrolling through her phone.
+@5:40am: Vital signs was BP: 124/70, P: 68, T: 36.0
+@6pm: Carer asked her to do some exercises but she also refused.
+@6:12pm: Lukewarm water + Epsom salt was poured into her pedicure bowl, plugged and tuned into the bubble effect. She puts her both legs into the bowl for 15mins.
+@6:20pm: Her feet was dried with a towel, focusing more on drying in between her toes.
+@6:25pm: Cetraben moisturising cream was used to massage her swollen feet for about 3mins.
+@7pm: She had a chat with her carer.
+@7:20pm: Pineapple juice was brought to her.
+@7:25pm: They bid each other goodnight.
+LOG KEYS
+Mood: Fair
+Appetite: Fair
+Swelling: Same
+Skin: Okay
+
+## 2026-11-16 21:17 (from 233548236698)
+- Okay please
+
+## 2026-11-16 21:17 (from 233548236698)
+- 5
+
+## 2026-11-16 21:29 (from 233548236698)
+- [owner reply] ok

@@ -37,7 +37,7 @@ def dget(d, *path):
     return cur
 
 
-def harvest(max_pages=50):
+def harvest(max_pages=400):
     cdp.connect(substr="jiji.com.gh/profile")
     cdp.goto_url("https://jiji.com.gh/profile/adverts?guid=rbPd2oROVhelYWPjYkQWbhpx")
     cdp.wait_for_load()

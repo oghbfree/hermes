@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-15 06:45",
-  "day": "Sunday 15 Nov 2026",
+  "generated": "2026-11-16 11:00",
+  "day": "Monday 16 Nov 2026",
   "kanban": {
     "total": 272,
     "unique": 125,
@@ -595,12 +595,6 @@
       "owner": "default"
     },
     {
-      "id": "0ef160b1",
-      "name": "Daily Marketplace Monitor",
-      "schedule": "0 7 * * *",
-      "owner": "default"
-    },
-    {
       "id": "aebf7e73",
       "name": "Mom Morning Exercise Reminders",
       "schedule": "0 8 * * *",
@@ -634,6 +628,12 @@
       "id": "8ea5ea4a",
       "name": "2Real - Sunday Christmas Gap Re-scan",
       "schedule": "0 3 * * 0",
+      "owner": "default"
+    },
+    {
+      "id": "5128ceaa",
+      "name": "2Real - FB Marketplace Batch Poster",
+      "schedule": "0 10 * * *",
       "owner": "default"
     },
     {
@@ -787,6 +787,18 @@
       "owner": "sat-nav"
     },
     {
+      "id": "501cde90",
+      "name": "Mum — Stephanie check-ins (4/day, randomised)",
+      "schedule": "0 9,13,16,20 * * *",
+      "owner": "sat-nav"
+    },
+    {
+      "id": "d7c8d372",
+      "name": "Plumber confirmation — Mum's water heater + water flow (17 Nov p.m.)",
+      "schedule": "once at 2026-11-17 18:00",
+      "owner": "sat-nav"
+    },
+    {
       "id": "3d775f42",
       "name": "jiji-weekly-performance-harvest",
       "schedule": "every saturday 7am",
@@ -817,7 +829,7 @@
       "owner": "content-buddy"
     }
   ],
-  "routine_count": 58,
+  "routine_count": 60,
   "jiji": {
     "total": 1394,
     "active": 1391,
@@ -902,8 +914,8 @@
     "total_impressions": 1250
   },
   "credits": {
-    "rem": 3.13,
-    "total": 460
+    "rem": 8.2,
+    "total": 470
   },
   "sales": {
     "last": {
@@ -923,13 +935,13 @@
     ]
   },
   "fb_messages": {
-    "generated": "2026-11-02 15:25",
+    "generated": "2026-11-16 10:59",
     "source": "facebook.com/marketplace/inbox",
     "status": "ok",
     "thread_count": 0,
     "threads_sampling_questions": 0,
     "threads": [],
-    "note": "0 buyer conversation rows rendered — inbox empty, off the marketplace inbox view, or the checkpoint wall is up. (stale >26h)"
+    "note": "0 buyer conversation rows rendered — inbox empty, off the marketplace inbox view, or the checkpoint wall is up."
   },
   "fb": {
     "published": 22,

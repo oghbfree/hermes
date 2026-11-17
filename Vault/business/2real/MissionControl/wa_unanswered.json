@@ -1,6 +1,12 @@
 {
-  "generated": "2026-11-08 08:00",
+  "generated": "2026-11-16 10:09",
   "source": "web.whatsapp.com",
-  "status": "error",
-  "note": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+  "status": "ok",
+  "total_chats": 20,
+  "unread_count": 0,
+  "needs_attention": [],
+  "bot_answered_last": [
+    "2 real sales"
+  ],
+  "note": "No unread badges found. Supplementary list shows chats whose last preview is a bot/canned line (possible muted follow-ups)."
 }

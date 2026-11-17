@@ -1,17 +1,42 @@
 [
  {
-  "name": "Bible Oj",
-  "user_id": 4248368,
-  "item": "Elite Construction Team Wanted - Foremen All Trades",
-  "price": null,
-  "advert_id": 15217824,
-  "chat_url": "/profile-messages/4248368_15217824?utm_source=from_leads",
-  "last_seen": "2 hours ago",
+  "name": "Thomas Nii Quaye",
+  "user_id": 3467320,
+  "item": "Black Decker BD664 400-Watt Corded Power Drill",
+  "price": "500",
+  "advert_id": 16681453,
+  "chat_url": "/profile-messages/3467320_16681453?utm_source=from_leads",
+  "last_seen": "1 day ago",
   "phone": "",
   "source": "saved_ad",
-  "ad_type": "job",
-  "message": "Hi Bible Oj! Not sure if you're still looking, but the Elite Construction Team Wanted - Foremen All Trades is available at a good price — pickup Oyarifa or Dome, delivery via Yango/Uber arranged. WhatsApp 0204252252 if you'd like details. No pressure!",
-  "note": "manual: ad_type corrected job (was goods); thread already has auto-reply; goods-price message NOT sent"
+  "ad_type": "goods",
+  "message": "Hi Thomas Nii Quaye! Not sure if you're still looking, but the Black Decker BD664 400-Watt Corded Power Drill is available at a good price — pickup Oyarifa or Dome, delivery via Yango/Uber arranged. WhatsApp 0204252252 if you'd like details. No pressure!"
+ },
+ {
+  "name": "Sam",
+  "user_id": 5246865,
+  "item": "Silverline Sheet Metal Block Plane With 41 X 1mm Blade",
+  "price": "160",
+  "advert_id": 16749478,
+  "chat_url": "/profile-messages/5246865_16749478?utm_source=from_leads",
+  "last_seen": "1 day ago",
+  "phone": "",
+  "source": "saved_ad",
+  "ad_type": "goods",
+  "message": "Hi Sam! Not sure if you're still looking, but the Silverline Sheet Metal Block Plane With 41 X 1mm Blade is available at a good price — pickup Oyarifa or Dome, delivery via Yango/Uber arranged. WhatsApp 0204252252 if you'd like details. No pressure!"
+ },
+ {
+  "name": "Gibson Pampoe",
+  "user_id": 3643584,
+  "item": "Bosch PST 650 500w Jigsaw",
+  "price": "550",
+  "advert_id": 14524612,
+  "chat_url": "/profile-messages/3643584_14524612?utm_source=from_leads",
+  "last_seen": "1 day ago",
+  "phone": "",
+  "source": "saved_ad",
+  "ad_type": "goods",
+  "message": "Hi Gibson Pampoe! Not sure if you're still looking, but the Bosch PST 650 500w Jigsaw is available at a good price — pickup Oyarifa or Dome, delivery via Yango/Uber arranged. WhatsApp 0204252252 if you'd like details. No pressure!"
  },
  {
   "name": "Nana Appiah",
@@ -3450,5 +3475,19 @@
   "status": 0,
   "source": "saved_ad",
   "message": "Hi Emmanuel! The Mini Guitar Amplifier 10W you were interested in is still available - pickup Oyarifa or Dome, delivery via Yango/Uber arranged. WhatsApp 0204252252 to order or see photos of anything else. Ready to assist!"
+ },
+ {
+  "name": "Bible Oj",
+  "user_id": 4248368,
+  "item": "Elite Construction Team Wanted - Foremen All Trades",
+  "price": null,
+  "advert_id": 15217824,
+  "chat_url": "/profile-messages/4248368_15217824?utm_source=from_leads",
+  "last_seen": "2 hours ago",
+  "phone": "",
+  "source": "saved_ad",
+  "ad_type": "job",
+  "message": "Hi Bible Oj! Not sure if you're still looking, but the Elite Construction Team Wanted - Foremen All Trades is available at a good price — pickup Oyarifa or Dome, delivery via Yango/Uber arranged. WhatsApp 0204252252 if you'd like details. No pressure!",
+  "note": "manual: ad_type corrected job (was goods); thread already has auto-reply; goods-price message NOT sent"
  }
 ]

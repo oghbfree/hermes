@@ -6056,5 +6056,29 @@
   "verified": "in thread (manual confirm: delivered 3:26, verify raced load",
   "msg": "Hi Fredrick Appiah! Just checking in on the position you enquired about — happy to update you on the role if you're still interested. Message me on WhatsApp 0204252252 when convenient. No pressure!",
   "note": "uncertain->confirmed delivered 16 Nov run"
+ },
+ {
+  "name": "Ms Felicity",
+  "user_id": 5905508,
+  "chat_id": "5905508_15332121",
+  "timestamp": "2026-11-16 10:15:35",
+  "state": "sent",
+  "msg": "Hi Ms Felicity! Not sure if you're still looking, but the Robotics Coding Facili"
+ },
+ {
+  "name": "Yaw Nana banahene",
+  "user_id": 1972341,
+  "chat_id": "1972341_14515792",
+  "timestamp": "2026-11-16 10:16:18",
+  "state": "sent",
+  "msg": "Hi Yaw Nana banahene! Not sure if you're still looking, but the Mac Allister 300"
+ },
+ {
+  "name": "Robert Amiteye",
+  "user_id": 1397667,
+  "chat_id": "1397667_13586253",
+  "timestamp": "2026-11-16 10:17:02",
+  "state": "sent",
+  "msg": "Hi Robert Amiteye! Not sure if you're still looking, but the Parkside 21 Pieces "
  }
 ]

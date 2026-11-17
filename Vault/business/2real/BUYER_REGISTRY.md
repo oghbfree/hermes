@@ -9,15 +9,15 @@
 | (tool-lover) | 024 584 9519 | mechanic's tools | bought 4 items in one order 07/10; "wants more mechanic's tools" — save for list |
 | **Edwin Kwabena Adubofuor** | 055 025 3348 | tile drill bits, universal fit packs | contractor w/ ministries contract 27/10 — B2B tool/consumables repeat potential |
 | **Theophilus** (Airbnb) | 050 059 9813 | Master Lock 5400D lock box | Airbnb host 27/10 — wants Airbnb-related items; cross-sell target |
+| **Muller** | 024 284 1701 | bulk spray paint cans (4 + 7 at once) | bulk spray buyer; was owed 110 on 19/09 resin — confirm settled |
+| **Mr Swindoll** | 024 144 1544 | Bosch jigsaw, JBL Eon engine; promotes Commando Balm | repeat + barter partner; balm promo channel |
 
 ## 🟡 Named, need number → high-value targets (fill in from WhatsApp threads)
 | Buyer | What they buy | Why they matter | Phone? |
 |---|---|---|---|
 | **Offah** | walk-in (stereo decks, speakers, poles) | your steadiest repeat walk-in — multiple recent sales | ❓ |
 | **Kwadwo** | 18× spray paint + misc | big spray-paint buyer | ❓ |
-| **Muller** | spray cans (4 + 7 at once) | bulk spray buyer | ❓ |
 | **Faustie's customer** | 37 spray cans | biggest single spray order | ❓ |
-| **Mr Swindoll** | Bosch jigsaw + barter (Commando Balm) | repeat + promotes your balm | ❓ |
 | **Blessed** | kids' VTech/LeapFrog (3 purchases) | family-electronics repeat | ❓ |
 | **Mr Berry** | power tools (circular saw) | first-customer-deal walk-in | ❓ |
 | **Emmanuel** | tennis rackets (Head + Wilson) | met at tennis Mon 26/10; sports/rackets repeat | ❓ |

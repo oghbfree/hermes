@@ -93,6 +93,19 @@ Append one line per day. The 4:30 AM briefing reads this file.
 | 13/11/26 Fri |  | 400 | 105 | 74% | Walk-in **bofrot seller Comfort**: Ice chest bag (50, cost £2). Jiji: Sony woofer (350, cost £5). | **COGS £7 @15 = 105** (bag £2 + woofer £5). **Margin 74%, profit 295.** Comfort = bofrot seller, new walk-in contact (food-vendor lead). Sony woofer = audio line continues |
 | 14/11/26 Sat |  | 600 | 90 | 85% | **Walk-in neighbour (curtain seller, G Decor)**: fridge compressor (250, cost £1). **Jiji**: Stanley 12-in-1 multi tool (350, cost £5) — **sent by Kwesi 0503084022 (Yango delivery rider, Achimota)**. | **COGS £6 @15 = 90** (compressor £1 + multi tool £5). **Margin 85%, profit 510.** Two new contacts: **G Decor curtain-shop neighbour (walk-in, potential trade partner)** + **Kwesi 0503084022 — Yango rider, reliable — flag as future delivery option**. Multi tool = Stanley line continues |
 
+## ⚠️ STANDING RULE — DAYS OFF (H, 16/11/26)
+
+**Sundays and Mondays are H's days off. NO SALES ARE EXPECTED on those days.
+No entry = NO SALES. This is NOT a gap and must NOT be reported as "unlogged".**
+
+- ✅ **Sun** — day off. Absence is correct.
+- ✅ **Mon** — day off. Absence is correct.
+- Working week = **Tue–Sat** only. Those are the only days that need a line.
+- Never flag a missing Sunday/Monday row. Never ask H for Sunday/Monday figures.
+- A Sunday/Monday row should only exist if a sale genuinely happened (e.g. a Jiji order landed on its own) — then log it normally.
+
+**Effect on past gaps:** 09/11/26 (Mon) is legitimately blank under this rule — close it, do not chase it.
+
 ## How to Use
 Each evening (or next morning before 4:30 AM), add one line:
 ```

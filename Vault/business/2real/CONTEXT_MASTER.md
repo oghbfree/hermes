@@ -36,7 +36,11 @@
 - **Transport:** leaves home 6:30 Tue–Sat; Dome↔Oyarifa 60 min by ride; regular driver over apps (no surge/cancel); tro-tro false economy (time > 19/hr saved).
 - **Days off:** Sunday + Monday (Monday = Oyarifa fulfilment/photography day).
 
-## 5. Akoma Robotics printer deal (with Mr. Agyemang) — status: negotiated, unsigned
+## 5. Akoma Robotics printer deal (with Mr. Agyemang) — status: **LEASE CANCELLED 16/11/26 — SELLING OUTRIGHT; Agyemang interested in buying**
+
+> **16/11/26 update:** H has decided to **sell the printers instead of leasing them**. The lease/50-50 terms below are **void** (never signed, nothing to unwind). Offer to Agyemang: **GH₵ 10,500 for the three identified machines** (M401dn + M251nw + DesignJet T520 24"), floor 9,500; Epson 7800 +11,000 only if it prints clean; 3rd laser unpriced (model unidentified). **Pay before handover.** Free ≤800 sheets/mo Akoma printing concession is **cancelled**. See `PRINTER_SALE_SHEET.md` + `AGYEMANG_PRINTER_OFFER.md`.
+
+**Original lease terms (NOW VOID — kept for history):**
 
 - H contributes 4–5 machines: 3 laser printers + **Epson Stylus Pro 7800** + **HP DesignJet** (ownership stays with H, repossession right).
 - Agreed compromise: **50/50 above 3,500 GH₵/mo**; months 1–2 100% to Agyemang (grace); **free Akoma printing ≤800 sheets/mo** (beyond = material cost only); AI-influencer promo 1 day/week to fill his order book; his responsibility = maintenance.

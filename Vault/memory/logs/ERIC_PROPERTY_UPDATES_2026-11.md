@@ -1,5 +1,11 @@
 # ERIC_PROPERTY_UPDATES — 2026-11
 
+## 2026-11-16 — Check-in sent (automated, 3-day cadence)
+- **WhatsApp delivered to Eric** (E.164 447553403038), msgId `3EB07DC23D97608062E8B1` (HTTP 200 via python stdlib — curl behaved erratically in cron shell).
+- **Message:** "Hi Eric, checking in on UK property matters: any updates on letters, viewings, adverts, or ground coordination needed? Also please pick up the phone from Peckham."
+- **Telegram Topic 2 notified** (chat -1003784520976 Topic 2).
+- Sender: coach profile cron (Eric Property Check-in).
+
 ## 2026-11-07 — Check-in FAILED (automated, 3-day cadence)
 - **WhatsApp NOT delivered to Eric** (E.164 447553403038). Bridge at localhost:3000 DOWN (connect refused, exit 7) — no listener.
 - **Root cause (bridge.log 05:39–05:57):** session in "❌ Logged out. Delete session and restart to re-authenticate." — WA requires QR re-link, manual action.

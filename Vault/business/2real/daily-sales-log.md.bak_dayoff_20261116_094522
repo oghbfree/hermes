@@ -1,0 +1,105 @@
+# Daily Sales Log — 2Real Enterprises (Dome Market)
+
+**Format:** `DATE | TARGET_GHS | ACTUAL_GHS | COGS_GHS | MARGIN% | TOP_3_SKUs | NOTES`
+
+> **AUTHORITATIVE LEDGER (from Oct 2026):** This file + closed Jiji adverts = the ONLY sales record. Sales are NO LONGER entered in Zobaze (used for receipts only, plus a photo source for listings). Zobaze inventory/cost data is stale (June 2026) — not live stock or pricing.
+> **COGS column (from 18/10/26):** record cost of goods sold in GH₵ (convert £ at ~15 GH₵/£) so true profit/margin is computable. Leave blank if unknown.
+
+Append one line per day. The 4:30 AM briefing reads this file.
+
+---
+
+| DATE | TARGET (GHS) | ACTUAL (GHS) | COGS (GHS) | MARGIN% | TOP 3 SKUs | NOTES |
+|------|--------------|--------------|------------|---------|------------|-------|
+| 12/07/26 |  |  |  | First entry — fill in after today's sales |
+| 18/08/26 |  | 200 |  | Logged via 4:30 AM briefing |
+| 17/08/26 |  | — |  | Day off (with mum) |
+| 19/08/26 |  | — |  | Day off (property viewing) |
+| 20/08/26 |  | — |  | Day off |
+| 21/08/26 |  | 3,310 |  | Good day |
+| 22/08/26 |  | 3,020 | Casio CTK-1500, Casio CTK-240, LG Home Theater, Iron | John, Jiji, walk-in |
+| 25/08/26 |  | 800 |  | |
+| 26/08/26 |  | 640 |  | |
+| 27/08/26 |  | 400 |  | |
+| 28/08/26 |  | 2,200 |  | Paid Frederick 200gh for repairs on 3 items |
+| 29/08/26 |  | 3,000 | 2x Apple iMac, Yamaha PSR 175, 2x baby laptops | Good day |
+| 01/10/26 |  | 1,000 |  | |
+| 02/10/26 |  | 1,000 | Skate 280, Used toys online 720 | Water 100, Food/soap 200, Taxi home 100 = net 600 |
+| 03/09/26 |  | 6,200 | Cutter 300, Baby travel cot 800, Laptop plugs+wires 4,000, Tennis racket 600, Lego 400, Damaged wires 100 | Gross 6,200. Less: cash given 300, house shopping 360, taxi 100, bus 18, lunch 33. Net takings ~5,400. Rain damage to soft toys noted |
+| 04/09/26 |  | 50 | 12V adapter 40, 3-pin cable 10 | Quiet day after the big one |
+| 05/09/26 |  | 4,680 | Yamaha YPT 200 (900), Hitachi Direct drill (350), 3-pin cable (20), TP-Link MiFi M7200 (300), TP-Link range extender (550), Ring doorbell (1,200), Stanley TR250 (430), LG TV (450), Single sink (250), Light (230) | Online + walk-in mixed |
+| 08/09/26 |  | 1,963 | Jigsaw (420), DeWalt tool (1,000), Kettle (150), Suitcase (200), Staples (193) | Expenses: Yango van moving spray paint (408), taxi home (77). Net ~1,478. Buyer for condemned items stopped by |
+| 09/09/26 |  | 1,900 | White lithium grease (300), 2x walkie-talkies (1,600) | Via Jiji online |
+| 10/09/26 |  | 4,230 | 2x Erbauer angle grinders + 4-plug extension (1,150), 3x petrol + 1x electric lawnmowers (2,400 cheque), Vibra Power Wave online (680) | Mixed walk-in + online |
+| 11/09/26 |  | 1,820 | Samsonite suitcase walk-in (280), Pink Leapfrog 2in1 laptop Jiji (240), 3x grass cutting machines to Ben (1,300) | Ben from farm bought 3 grass cutters |
+| 12/09/26 |  | 3,790 | Blessed: VTech baby walker (200), Frozen karaoke (120), VTech 2in1 laptop (120), LeapFrog 100 Words (120), Clementoni kit + karaoke + puzzles (950). Hajia: bag of animals (230), 2in1 laptop (150). Jiji: Belkin power bank (600), AA charger (200), Energizer AAs (200), cooling pad (450), Xbox gamepad (150). Extra: Gorilla Glue (300) | Big toy day — 2 regular toy customers (Blessed + Hajia) + strong Jiji |
+| 13/09/26 Sun |  | 970 | Jiji Oyarifa pickup: Naa — dog leash (70). Louis — Trend C253 router cutter + Erbauer 6× 1/4" shank router bits + Stanley wide hacksaw + Stanley blue strike hammer + Magnusson sash clamp (900 total) | Sunday — unexpected Oyarifa sales via Jiji |
+| 14/09/26 |  | 1,230 | Walk-in Oyarifa: Stephen — laminator (500 paid, later refunded 25/9). Jiji: carbon monoxide detector + smoke alarm (450), Gorilla Grab adhesive clear (280). Eben delivered to customer — charged customer 70 delivery | Laminator — overheating. Frederick unavailable → refunded 25/9 |
+| 15/09/26 |  | 3,750 | Walk-in: Sony radio (150), Casio CT636 (900 MoMo), Casio CT390 (900 MoMo). Online: Stanley 6mm staples (100), Stanley 10mm staples (100), 2-man tent (1,150), sleeping bag (450). All via MoMo | Strong day — Casios + camping gear + online staples |
+| 16/09/26 |  | 200 | Standing fan (200) | |
+| 17/09/26 |  | — |  | No sales |
+| 18/09/26 |  | 2,270 | Tennis racket (600), 7× blue spray cans (70), 40m extension (400), Jiji PST-73 (1,200 Sammy delivered) | Paid John up to date — unsure if he stays |
+| 19/09/26 |  | 40 | 3× blue spray paint (30), 1 light bulb (10) | Muller took 4 spray cans last week + 7 today @ 10ea — waiting for his sales to come in (110 owed) |
+| 22/09/26 |  | 780† | Spray paint: Faustie's customer 37 cans (370), 1 walk-in can (10). Jiji: Maxwell 10CD pack (90), contact adhesive 75g (150), epoxy (160) | Coconuts: brought 60 from farm 20/9, gave samples, now 49 left + 2 sold (price TBD) |
+| 23/09/26 |  | 400 | Walk-in: IT suitcase (200). Jiji: Bose Wave adapter (200) | |
+| 24/09/26 |  | 430 | Same customer from earlier: 34 spray cans + scissors + clamp (430) | Paid Paul 2,000 part-payment for Kia |
+| 25/09/26 |  | 2,800 | 2× Wii games: Borderlands 2 + Saints Row 2 (200). Tennis racket + tap & die (1,400). Trampoline net (1,200 — Trash Nothing UK) | Trampoline net: free UK pickup → pure profit. **Refunded Stephen 500 — Frederick unavailable to fix laminator** |
+| 26/09/26 |  | 395 | Walk-in: Panasonic speaker (200), spray paint (10), 2× coconut (10), pen organizer (12.5), file organizer (12.5). Jiji: contact adhesive (150 delivered & paid) | Coconuts moving at 5ea. **Lost: belt hole punch** — not at warehouse |
+| 27/09/26 Sun |  | 1,120 | Jiji: Halfords tap & die set (620), 4× Cobra walkie-talkies (500) | Sunday Jiji sales — Lux plan working |
+| 28/09/26 |  | 500 | Gorilla Clear Grab adhesive (280), 2× tyre inflators (280), **Failed delivery cost -60** — outdoor WiFi socket returned, paid rider 60 | Customer irate — wrong location given. Rider brought item back. Net 500 |
+| 29/09/26 |  | 620 | Motorised projector screen (600), 2× spray paint (20) | |
+| 30/09/26 |  | 1,480 | Red travelling bag (150), Plantronics headphones (380), Yamaha PSS-460 keyboard (950) | |
+| 01/10/26 |  | 740 | Bosch angle grinder (470), 2× office plug extensions (120), Jiji: Gorilla mounting tape (150) | Customer paid 60 Yango delivery to North side near Trassaco |
+| 02/10/26 |  | 2,800 | Jiji: Energizer AA 4pk batt (200 — cost £5), Gorilla micro glue (120 — cost £3), Antinox duct tape (250). Walk-in: Sony home theatre BDVN790 + woofer + 2 speakers + Acoustic Solutions amp (500 — amp free), heat pad (200), B&D jigsaw (330), 6-plug extension (100). Walk-in Jiji customer: Ryobi drill (950), Erbauer router not working (150) | Erbauer router non-working — repair candidate. Heat pad from 2 containers ago cleared |
+| 03/10/26 Sat |  | — | General cleaning day. Neighbour's container offloaded into shop next door | Zero sales — quiet. **Plan: open Monday to catch container traffic** |
+| 05/10/26 |  | 630 | Walk-in: LG CM4360 (350 — cost £5), bag of toy building blocks (280 — free, hospital clear out) | Monday opening caught container foot traffic. Both items sourced |
+| 06/10/26 |  | 3,090 | Walk-in: Mr Berry — Direct Power Circular Saw 1200W (500 — was 700 on Jiji, first customer deal), Kenwood blender (250). Jiji: Yamaha DX21 synth (550), Sony boombox (460). Oxford Hardcore XL (1,400 — customer paid 100 delivery Oyarifa→OSU, gave nice review). **Return cost -70** — briefcase returned, customer didn't read ad | **Mr Berry's number saved → added to Jiji catalog.** Strong day beat target |
+| 07/10/26 |  | 2,170 | Jiji: 2× spray paint (50), Gorilla waterproof patch & seal (250). **Bulk customer** 0245849519: Halfords tap & die (650), Stanley 38pc ratchet set (350), Laser coil spring compressor (600), Saber 5pc ratchet set (270) — 1,870 total for one buyer | **Tool lover — said he wants more mechanic's tools. Save for broadcast list** |
+| 08/10/26 |  | 510 | Jiji cus 1: Gorilla superglue tape (150), grab adhesive (200). Jiji cus 2: Gorilla duct tape 11m (160) | Gorilla line keeps moving — 3 adhesive products to 2 customers |
+| 09/10/26 |  | 500 | M2 SSD + DDR4 — switches on screen, power light not on (bought 200, sold 400). Share of table sale (100) | HP EliteBook 850 G3 sold — faulty buy at 200, flip at 400 |
+| 10/10/26 |  | 1,620 | Jiji: GTA 4 (150). **Eric — Enterprise Insurance**: Sennheiser SC160 (500), Jabra (370). Walk-in: green extension (600) | Eric buying business headsets — B2B lead for office/IT supplies |
+| 13/10/26 |  | 490 | Walk-in: 3× extension (160). **Mr Swindoll**: Bosch jigsaw PSC 50A (300) + old JBL Eon engine (30). Paid partly in 5× Commando Balm (product-swap promotion, Sammy tested with success) | Swindoll promotes balm — barter accepted |
+| 14/10/26 |  | 755 | Walk-in **Kwadwo**: 18× spray paint (205), CD player (20), desk organizer (25), VTech baby laptop (55). Jiji: B&D circular saw exposed handle (400), briefcase (250) | Briefcase getting calls despite no key — demand signal |
+| 15/10/26 |  | 340 | Jiji: Plastic Louvre Air Vent Grill 9"×9" w/ fly screen (140) — **Kuber Realty, MoMo, invoice requested**. Jiji: Stanley Light Duty Staple Gun 704400 (200, cost £7) | Kuber Realty = B2B lead — invoice INV-KUB-20261015 |
+| 16/10/26 |  | 2,380 | Jiji: Halfords Chain Wax lubricant spray (130) — **first sale from separating the special sprays + advertising them**. Jiji: **Dr Lomotey — Cocoa Clinic**: Folding Metal Frame Bed w/ Foam Mattress 75×38 (1,750). Walk-in regular: old display stand 4+ yrs (100), angle grinder not-working (200), repeat customer: Stanley toolbox (250) | Dr Lomotey = B2B (medical clinic). Spray-separation tactic WORKED day one |
+| 17/10/26 |  | 810 | Walk-in: wheelchair (430). Jiji: Power Devil Hammer Drill 420W (380) | Sat market day. **Neighbour's bulk clearance: her goods sold ~5,000 to a wholesaler (medium Kia Bongo truckful via Yango) — potential outlet for OUR dead stock too** |
+| 18/10/26 |  | 1,050 | 255 | 76% | Jiji: **Piano Paradise** — Gorilla Wood Glue 118ml ×2 @200 + 236ml ×1 @200 (discounted) = 600. **Bought 2nd cus** — Masterplug Weatherproof Outdoor Double Socket 15m = 450 | Both delivered by **Yango**. Piano Paradise invoice INV-PIA-20261018; 2nd invoice INV-CSH-20261018. COGS £17 (glue £7 + socket £10) @15 = 255. Gross profit 795 |
+| 19/10/26 |  | 4,330 | 660 | 85% | Jiji: **Berkey** Stainless Steel Countertop Water Filter (2,200, cost £7). **Xoopar** Geo Wireless Mouse Plus (200, £3). **Bosch** Paint Sprayer Electric (1,580, £30). **Stanley** Retractable Knife 010778 (350, £4) | 4 sales, all Jiji. COGS £44 @15 = 660. **Gross profit 3,670, 85% margin.** Berkey + Bosch = high-value. |
+| 20/10/26 |  | 810 | 245 | 70% | Walk-in: 2× spray paint (20), Boatemaa's friend — light + 2× extension plug blocks (50), pharmacist — Bosch 680 drill (700), 1× small Kilner bottle (30), 1× spray paint (10) | Walk-in only. COGS £16.30 @15 = 245 (sprays 40p ea=£0.80, friend £3, Bosch £12, Kilner 50p). **Jiji online: act ICT — 500W inverters @1,000 each, -3% VAT adj (not VAT-registered) = 970 each; QUANTITY NOT STATED — add to total once confirmed** |
+| 21/10/26 |  | 390 | 114 | 71% | Walk-in: Technics speaker (150), spray paint — repeat cus 1 can (10), repeat cus 3 cans (30). Jiji: Geo Mouse (200, cost £1) | **COGS £7.60 @15 = 114** (Technics £5 + spray 4×40p £1.60 + geo £1). Technics = old stock held years, £5 cost. **Margin 71%, profit 276gh.** Repeat spray customers = proven line |
+| 22/10/26 |  | 340+ | 284 | 55% | Walk-in repeat **Offah**: Samsung home theatre deck (200 — cost £15 long ago), RockJam karaoke speaker (100 — cost £3 long ago), **+ gave him a temperamental soup maker (gift, n/c)**. Repeat cus: 1 more spray can (10 — 40p cost). Repeat cus: air pump (30 — bought ~50p). Repeat cus: 1 more white paint (price n/s) | **COGS £18.50 @15 = 284** (deck £15 + karaoke £3 + spray 40p + pump 50p). **White paint price + cost not stated — flag to confirm.** Soup maker = goodwill write-off, NOT COGS. **Kyei started today — 1hr cleaning cables/laptop chargers; needs visual demo of each task (he's a visual guy)** |
+| 23/10/26 |  | 2,220 | 489 | 78% | Walk-in: air conditioner (1,400 — cost £20), bedside table (100 — cost £5), spray cans ×4 (40 — 40p ea). Jiji: double-sided tape ×2 @340 (680 — cost £3 ea) | **COGS £32.60 @15 = 489** (AC £20 + table £5 + 4×spray 40p=£1.60 + 2×tape £3=£6). **Margin 78%, profit 1,731.** AC + bedside = furniture/white-goods turnover; tape ×2 = proven repeat line |
+| 24/10/26 Sat |  | 1,280 | 375 | 71% | Jiji: Gorilla Contact Adhesive 1×75g @150 (cost £3) + **same buyer** 2×250ml @300 (cost £5). Jiji: Rolson 160-Piece Rotary Multi Tool Accessory Kit 12V (680 — cost £10). Walk-in **Offah**: Two Panasonic small poles (150 — cost £7) | **COGS £25 @15 = 375** (Gorilla £8 + Rolson £10 + Panasonic £7). **Margin 71%, profit 905.** Gorilla contact adhesive = proven repeat line (3 items to one buyer). Offah is the steady repeat walk-in |
+| 10/10/26 Sat |  | 195 |  | Jiji: 43-piece children's set @195 — buyer **Theresa Elorm Seshie** (0543871100), for her children's club Christmas party. Cost not stated — flag to confirm. Voice-note confirmed price 195 (she first balked at 800; H found more pieces in-house, closed at 195). B2B-adjacent lead: club organizer — potential repeat Xmas party orders |
+| 27/10/26 Tue |  | 2,610 | 585 | 78% | Jiji: **Edwin Kwabena Adubofuor** (0550253348) — Wickes tile drill bit 3pk + universal fit 4pk @200 each = 400 (cost £4 ea). **Theophilus Airbnb** (0500599813) — Master Lock 5400D lock box 650 (cost £12). **Emmanuel** (tennis Mon) — 2x tennis rackets Head + Wilson w/ bags @400 each = 800 (cost £5 ea). Walk-in: Gorilla tape white 10m ×2 @280 = 560 (cost £4 total), Makita 110v angle grinder 200 (cost £5). | **COGS £39 @15 = 585** (Edwin £8 + Theophilus £12 + Emmanuel £10 + Gorilla £4 + Makita £5). **Margin 78%, profit 2,025.** Edwin = contractor w/ ministries contract (B2B potential). Theophilus = Airbnb host wanting related items. Emmanuel = new sports/rackets repeat. Both Edwins + Theophilus saved to broadcast list |
+| 28/10/26 Wed |  | 25 | 6 | 76% | Jiji: 1× metallic gray spray paint @25 | **COGS £0.40 @15 = 6** (spray can unit cost). **Margin 76%, profit 19.** |
+| 30/10/26 Fri |  | 420 | 132 | 69% | Walk-in: Samsung 14in TV (230, cost £7). Jiji: 2× blue spray paint @25 = 50 (cost 40p ea, **different customer**). Jiji: 19V Delta electronics charger (140, cost £1). | **COGS £8.80 @15 = 132** (TV £7 + blue £0.80 + Delta £1). **Margin 69%, profit 288.** TV = big-ticket walk-in win. 
+| 29/10/26 Thu |  | 220 | 69 | 69% | Jiji: Gorilla mounting tape heavy duty (150, cost £3). Jiji: 2× blue spray paint @25 = 50 (cost 40p ea). Walk-in: 2× white spray paint @10 = 20 (cost 40p ea) — **different repeat buyer** (white spray = separate repeat customer). | **COGS £4.60 @15 = 69** (Gorilla £3 + blue £0.80 + white £0.80). **Margin 69%, profit 151.** Sprays keep moving — 3 lines, 2 repeat-buyer types |
+
+| 23/08/26 |  | — |  | Closed |
+| 24/08/26 |  | — |  | Closed |
+
+## 31/10/26 Saturday
+| DATE | ACTUAL (GHS) | COGS (GHS) | MARGIN% | TOP SKUs | NOTES |
+|------|--------------|------------|---------|----------|-------|
+| 31/10/26 Sat | 3,185 | 300 | 91% | Walk-in: Performance Power 210mm slide compound Mitre saw (725, cost £17). Walk-in: 4-plug extension (80, cost £3). **Hagija**: 7 Amazon bags of toys (2,000 paid of 6,000; balance 4,000 due Mon from her bro). Jiji: Maxell CD-RW 80 × 2 @190 = 380 | **COGS £20 @15 = 300** (Mitre £17 + extension £3). Toys cost not stated — flag. **Hagija balance 4,000 = RECEIVABLE, due Monday (her bro). Charge Monday.** Electronics-hold: Sat was TV+speaker test/reorganise day |
+| 03/11/26 Tue |  | 25 | 7.5 | 70% | Jiji: Virtabrim D.V.D-R @25 — buyer **+233 57 767 4601** | **COGS £0.50 @15 = 7.5** (DVD-R unit cost). **Margin 70%, profit 17.5** |
+| 04/11/26 Wed |  | 40 | 24 | 40% | Walk-in: 4× spray paint @10 = 40 | **COGS £1.60 @15 = 24** (4 × 40p can unit cost). **Margin 40%, profit 16.** Sprays = repeat line still moving |
+| 05/11/26 Thu |  | 200 | 45 | 78% | Gorilla Mounting Tape Heavy-Duty, Double-Sided 1.5m @200 | **COGS £3 @15 = 45**. **Margin 78%, profit 155.** Gorilla line keeps moving — repeat geometry |
+| 06/11/26 Fri |  | 1,680 | 625 | 63% | Walk-in (wife's Dome deals, old customers): 10× spray paint @100 (cost 40p/can = £4). Walk-in: Colander 80 (cost £1). Jiji **Angelina**: Dunlop M-Fil 700 racket 600 (bought 250 on 30/10). Jiji **Mr Tweneboah**: Sony XB100 wireless speaker 700 (cost £15) — **NEEDS RECEIPT**. Walk-in: touch desk lamp 200 (cost £5). | **COGS 625** (spray 60 + colander 15 + rack 250 + speaker 225 + lamp 75). **Margin 63%, profit 1,055.** Tweneboah = 700/1 sale (electron, needs receipt); **Angelina** = the racket. **ACTION: close both Jiji ads after H confirms — Dunlop racket + Sony speaker.** Mark sold (accurate desc). Live watcher flagged 13:38 follow-up "+233 57 770 0555 still haven't gotten back to me" — pending |
+| 08/11/26 Sun |  | 2,705 | 1,167 | 57% | **Walk-in:** Sealey red angle grinder (700, cost £20) + 2× white spray (20) + 4× colour spray (40) + 4× colour spray (40). **Online (sent w/ Karim):** 20kg Gorilla Maxx Strength mounting tape (250, £4) → Kokomlemle. Gorilla Contact Adhesive Crystal Clear (150) + 2× white spray (50) = 200 (£4.80) → Kanda. Wilson Profile tennis racket (600, £5) → Botwe. **Jiji walk-in:** Cybafix (0545617753) — LVYUAN 800W/2000W Pure Sine-Wave Inverter (855, £40). | **COGS 1,167 @15** (grinder 300 + sprays 60 + tape 60 + adhesive/spray 72 + racket 75 + inverter 600). **Margin 57%, profit 1,538.** ⚠️ **FLAG: grinder price read as "70 kk0gh" — logged as 700 (matching £20≈300 cost); if actually 70, total = 2,075 / profit 908. Confirm.** Karim delivered 3 online orders. **Cybafix = saved walk-in (0545617753) — adding to broadcast list.** Sonny speaker receipt still owed from 06/11 |
+| 11/11/26 Wed |  | 2,195 | 534 | 76% | **Walk-in:** 24× blue spray paint (240, cost 40p ea = £9.60). **Jiji — Tema free zone** (+233505109742): GHD straighteners (690, cost £10). **Jiji — Airport** (+233248247960): Panasonic Lumix (950, cost £10). **Jiji — Gbawe "Rasta"** (+233248150115): Stanley coping saw (220, cost £4). **Jiji walk-in:** Nintendo DS game MySims (95, cost £2). | **COGS £35.60 @15 = 534** (sprays £9.60 + GHD £10 + Lumix £10 + saw £4 + MySims £2). **Margin 76%, profit 1,661.** Blue spray = proven bulk line (24 cans to one walk-in). **3 buyers saved to broadcast list: Tema-free-zone GHD shopper, Airport Lumix shopper, Gbawe Rasta (0248150115)**. Jiji walk-in payments — verify method next check |
+| 12/11/26 Thu |  | 870 | 450 | 48% | **Walk-in:** Makita angle grinder (600, cost £15). **Walk-in:** Black & Decker FAQULTY angle grinder (270, cost £10) — sold as-is. | **COGS £30 @15 = 450** (Makita £15 + B&D £10). **Margin 48%, profit 420.** Both angle grinders same walk-in day. **B&D sold FAULTY at 270 — buyer took as-is; note for repair-vs-flip assessment whether H could have repaired for more.** Angle grinder = proven strong line (grinder sales 01/10, 06/10, 08/11, 12/11) |
+| 13/11/26 Fri |  | 400 | 105 | 74% | Walk-in **bofrot seller Comfort**: Ice chest bag (50, cost £2). Jiji: Sony woofer (350, cost £5). | **COGS £7 @15 = 105** (bag £2 + woofer £5). **Margin 74%, profit 295.** Comfort = bofrot seller, new walk-in contact (food-vendor lead). Sony woofer = audio line continues |
+| 14/11/26 Sat |  | 600 | 90 | 85% | **Walk-in neighbour (curtain seller, G Decor)**: fridge compressor (250, cost £1). **Jiji**: Stanley 12-in-1 multi tool (350, cost £5) — **sent by Kwesi 0503084022 (Yango delivery rider, Achimota)**. | **COGS £6 @15 = 90** (compressor £1 + multi tool £5). **Margin 85%, profit 510.** Two new contacts: **G Decor curtain-shop neighbour (walk-in, potential trade partner)** + **Kwesi 0503084022 — Yango rider, reliable — flag as future delivery option**. Multi tool = Stanley line continues |
+
+## How to Use
+Each evening (or next morning before 4:30 AM), add one line:
+```
+13/07/26 | 800 | 920 | JBL Speaker, Samsung Charger, Powerbank | Good day, rain held off
+```
+
+The briefing will auto-calculate:
+- Variance (actual - target)
+- % variance
+- Pace note for tomorrow
