@@ -8890,6 +8890,36 @@
       "chats": 0,
       "sold": false,
       "price_drops": 0
+    },
+    {
+      "jiji_id": 16559620,
+      "title": "Gillette Fusion5 ProGlide Razor Blade 8 Refills",
+      "price": 450,
+      "posted_date": "2026-11-17",
+      "views": 0,
+      "chats": 0,
+      "sold": false,
+      "price_drops": 0
+    },
+    {
+      "jiji_id": 16537200,
+      "title": "Gorilla Black Tape Handy Roll (9m X 25mm) Heavy Duty",
+      "price": 150,
+      "posted_date": "2026-11-17",
+      "views": 0,
+      "chats": 0,
+      "sold": false,
+      "price_drops": 0
+    },
+    {
+      "jiji_id": 13156442,
+      "title": "Gorilla Wood Glue 118m",
+      "price": 200,
+      "posted_date": "2026-11-17",
+      "views": 0,
+      "chats": 0,
+      "sold": false,
+      "price_drops": 0
     }
   ],
   "price_drop_policy": {

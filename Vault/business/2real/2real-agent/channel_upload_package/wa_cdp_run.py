@@ -4,11 +4,27 @@ import json, sys, time, websocket
 
 def _real_port():
     # DevTools port is DYNAMIC on this host. Read it from DevToolsActivePort (do NOT trust fixed 9222).
+    # NOTE 17 Nov 26: the DevToolsActivePort snapshot is STALE (points to a dead port). The LIVE
+    # logged-in WhatsApp Business browser runs on 64365 (hermes AppData profile). Verify liveness of the
+    # read port; if dead, probe known persistent browsers and pick the one actually serving a
+    # web.whatsapp.com page tab. Fallback stays 9222 for the vault-profile launcher.
+    import urllib.request
+    def _probe(port):
+        try:
+            with urllib.request.urlopen("http://127.0.0.1:%d/json" % port, timeout=2) as r:
+                tabs = json.load(r)
+            if any(t.get("url","").startswith("https://web.whatsapp.com") for t in tabs if t.get("type")=="page"):
+                return True
+        except Exception:
+            pass
+        return False
     try:
         p = open(r"C:\Users\User\AppData\Local\hermes\browser-profile\chrome\DevToolsActivePort").read().split()[0].strip()
-        if p: return int(p)
+        if p and _probe(int(p)): return int(p)
     except Exception:
         pass
+    for cand in (64365, 9222):
+        if _probe(cand): return cand
     return 9222
 CDP_HTTP = "http://127.0.0.1:%d" % _real_port()
 

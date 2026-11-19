@@ -1,0 +1,17 @@
+TODO: 14 nudgable leads (cap 50)
+[1/14] ok: Emmanuel Ohene | verified in thread
+[2/14] fail: Jiji User | [WinError 10054] An existing connection was forcibly closed 
+[3/14] fail: Owusu Richard | [WinError 10054] An existing connection was forcibly closed 
+[4/14] fail: Maxwell Marfo | [WinError 10054] An existing connection was forcibly closed 
+[5/14] fail: Blessed Christson | [WinError 10054] An existing connection was forcibly closed 
+[6/14] fail: Nana Osae-Kordieh | [WinError 10054] An existing connection was forcibly closed 
+[7/14] fail: JAMES AMPAH JOHNSON | [WinError 10054] An existing connection was forcibly closed 
+[8/14] fail: cubbe | [WinError 10054] An existing connection was forcibly closed 
+[9/14] fail: alfred_boye | [WinError 10054] An existing connection was forcibly closed 
+[10/14] fail: jonathan kwao | [WinError 10054] An existing connection was forcibly closed 
+[11/14] fail: Aaron Agyapong | [WinError 10054] An existing connection was forcibly closed 
+[12/14] fail: Efua Nunoo | [WinError 10054] An existing connection was forcibly closed 
+[13/14] fail: iGallery Hub-Tech | [WinError 10054] An existing connection was forcibly closed 
+[14/14] fail: Bible Oj | [WinError 10054] An existing connection was forcibly closed 
+
+DONE: 1 sent, 0 skipped, 13 failed. Queue now 305

@@ -8,19 +8,44 @@ from websocket import create_connection
 
 _PORT_FILE = r"C:\Users\User\AppData\Local\hermes\browser-profile\chrome\DevToolsActivePort"
 
+def _cdp_alive(url, timeout=1.2):
+    """True only if something actually answers the DevTools endpoint."""
+    try:
+        urllib.request.urlopen(url.rstrip("/") + "/json/version", timeout=timeout).read()
+        return True
+    except Exception:
+        return False
+
+
 def _live_cdp_url():
-    """Resolve the persistent business browser's HTTP CDP root from its DevToolsActivePort,
-    the SINGLE source of truth (Chrome launches it with --remote-debugging-port=0 = random,
-    so the actual port lives in this file each launch). Falls back to env override, then localhost:64365."""
-    if os.environ.get("FB_CDP_URL"):
-        return os.environ["FB_CDP_URL"].rstrip("/")
+    """Resolve the persistent business browser's HTTP CDP root.
+
+    FIXED 17/11/26 — this used to trust DevToolsActivePort BLINDLY. That file goes stale:
+    it read 63676 here while the live browser was on 64365, so every script importing the
+    harness died with WinError 10061 "target machine actively refused it" while the browser
+    was perfectly healthy. That looked like a browser crash; it never was.
+
+    Each candidate is now probed and only accepted if it ANSWERS:
+      1. DevToolsActivePort  2. FB_CDP_URL  3. 64365 / 9222 / 9223
+    """
+    candidates = []
     try:
         port = open(_PORT_FILE).read().split("\n")[0].strip()
         if port.isdigit():
-            return f"http://localhost:{port}"
+            candidates.append(f"http://127.0.0.1:{port}")
     except OSError:
         pass
-    return "http://localhost:64365"  # dead unless the fixed-port launcher ran
+
+    env = os.environ.get("FB_CDP_URL")
+    if env:
+        candidates.append(env.rstrip("/"))
+
+    candidates += ["http://127.0.0.1:64365", "http://127.0.0.1:9222", "http://127.0.0.1:9223"]
+
+    for u in candidates:
+        if _cdp_alive(u):
+            return u
+    return candidates[0] if candidates else "http://127.0.0.1:64365"
 
 DEBUG_URL = _live_cdp_url()
 

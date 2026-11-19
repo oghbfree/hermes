@@ -1,0 +1,18 @@
+{
+  "date": "2026-11-18",
+  "captured_at": "2026-11-18T09:20:15",
+  "tabs": [
+    {
+      "label": "published",
+      "url": "chrome-error://chromewebdata/",
+      "len": 240,
+      "text": "This site can’t be reached\n\nwww.facebook.com’s server IP address could not be found.\n\nTry:\n\nChecking the connection\nChecking the proxy, firewall, and DNS configuration\nRunning Windows Network Diagnostics\nERR_NAME_NOT_RESOLVED\nReload\nDetails"
+    },
+    {
+      "label": "scheduled",
+      "url": "chrome-error://chromewebdata/",
+      "len": 240,
+      "text": "This site can’t be reached\n\nwww.facebook.com’s server IP address could not be found.\n\nTry:\n\nChecking the connection\nChecking the proxy, firewall, and DNS configuration\nRunning Windows Network Diagnostics\nERR_NAME_NOT_RESOLVED\nReload\nDetails"
+    }
+  ]
+}

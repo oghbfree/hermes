@@ -126,7 +126,8 @@
 | 11 Nov | **Corn dough + 2 boiled eggs** (10am, all) · warm honey water 7:30am · paracetamol 10:49am | **Banku w/ okro stew** (4pm, all) | — |
 | 14 Nov | **Ekoegbemi** (10am, all) · BP 120/75 at 11am | **Sliced mango** (3:10pm, some) · **Kenkey + pepper + sardine** (4pm, all) ⚠️ sardine=high-salt/grain drift | — (declined juice; early bed ~8pm) |
 | 15 Nov | — (no breakfast report captured) | **Tatale** (12:54pm, all) · **Kokonte with groundnut soup** (4:07pm, all) ⚠️ groundnut=phase-out amber · **watermelon juice 🍉** (4:45pm, all) | — (calm evening; no meal — goodnight) 🧡 |
-| 16 Nov | **Pawpaw + scrambled eggs** (10am, all) ✅ protein + allowed fruit · BP 111/69 at 11am | — (pending afternoon report) | — |
+| 16 Nov | **Pawpaw + scrambled eggs** (10am, all) ✅ protein + allowed fruit · BP 111/69 at 11am | **Boiled plantain + kontomire stew + fried fish** (4pm, all) ⚠️ plantain + fried drift | Pineapple juice (7:20pm) · no solid dinner reported |
+| 17 Nov | — (no morning report) | **Boiled beans + fried plantain** (4pm, all) ⚠️ plantain drift | **Pineapple juice** 5pm (all) 🍍 phase-out watch · no solid dinner — early night ~8pm · ⚠️ back pain (Aboniki applied) |
 
 > **Backfill complete (12 Oct 26):** Meals to 12 Oct. 🥛 **MILK SPOILT — discarded (strained w/ new cheesecloth + heated, still off; heat ≠ safe with spoiled milk). Perishable protocol: check on arrival, refrigerate immediately, date, carer spot-checks before serving.** Cheesecloth delivered 11 Oct ✓ (rider). Gentle swaps: Don Simon → watermelon juice; kelewele occasional.
 

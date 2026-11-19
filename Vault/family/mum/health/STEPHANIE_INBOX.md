@@ -412,11 +412,11 @@ Appetite: Fair
 Swelling: Same
 Skin: Okay
 
-## 2026-11-16 19:07 (from 233548236698)
+## 2026-11-16 19:07 (from 233548236698) [PROCESSED]
 - Her masseuse didn’t come today.
 Okay please. Thank you!
 
-## 2026-11-16 19:10 (from 233548236698)
+## 2026-11-16 19:10 (from 233548236698) [PROCESSED]
 - 16/11/2026 AFTERNOON REPORT
 @12pm: She went back to her room and laid on her bed.
 @12:30pm: She was sleeping soundly in her bed.
@@ -430,27 +430,27 @@ Appetite: Fair
 Swelling: Same
 Skin: Okay
 
-## 2026-11-16 20:49 (from 233548236698)
+## 2026-11-16 20:49 (from 233548236698) [PROCESSED]
 - [owner reply] Did she take all of Dr Morris;s medicine?
 
-## 2026-11-16 20:49 (from 233548236698)
+## 2026-11-16 20:49 (from 233548236698) [PROCESSED]
 - [owner reply] Ok
 [owner reply] Did she want a small snack in between meals?
 [owner reply] How much water is she drinking?
 
-## 2026-11-16 21:13 (from 233548236698)
+## 2026-11-16 21:13 (from 233548236698) [PROCESSED]
 - No, she didn’t ask but I gave her Sobolo.
 
-## 2026-11-16 21:14 (from 233548236698)
+## 2026-11-16 21:14 (from 233548236698) [PROCESSED]
 - I noticed she drank 1 and half bottle
 
-## 2026-11-16 21:16 (from 233548236698)
+## 2026-11-16 21:16 (from 233548236698) [PROCESSED]
 - [owner reply] ok good
 
-## 2026-11-16 21:16 (from 233548236698)
+## 2026-11-16 21:16 (from 233548236698) [PROCESSED]
 - [owner reply] how many bottles left
 
-## 2026-11-16 21:17 (from 233548236698)
+## 2026-11-16 21:17 (from 233548236698) [PROCESSED]
 - [owner reply] ok keep encouraging to drink more
 16/11/2026 EVENING REPORT
 @5pm: She was sitting on her bed, scrolling through her phone.
@@ -468,11 +468,58 @@ Appetite: Fair
 Swelling: Same
 Skin: Okay
 
-## 2026-11-16 21:17 (from 233548236698)
+## 2026-11-16 21:17 (from 233548236698) [PROCESSED]
 - Okay please
 
-## 2026-11-16 21:17 (from 233548236698)
+## 2026-11-16 21:17 (from 233548236698) [PROCESSED]
 - 5
 
-## 2026-11-16 21:29 (from 233548236698)
+## 2026-11-16 21:29 (from 233548236698) [PROCESSED]
 - [owner reply] ok
+
+## 2026-11-17 18:16 (from 233548236698) [PROCESSED — masseuse/plumber no-show, uplift note]
+- No please. The plumber and the masseuse didn’t come today.
+
+## 2026-11-17 18:24 (from 233548236698) [PROCESSED — ingested into MUM_MEDICAL_MASTER 17 Nov + MUM_FOOD_MASTER (17 Nov lunch)]
+- 17/11/2026 AFTERNOON REPORT
+@12pm: She was sitting on her bed.
+@12:30pm: She was sleeping soundly in her bed.
+@1:30pm: She was still sleeping soundly, her room well ventilated.
+@1:57pm: Carer heard her making calls.
+@2:23pm: She was awake and she took her AVS medication with hot water.
+@3pm: Carer checked up on her and she had a chat with her for about 15mins.
+@4pm: Boiled beans and fried plantain was brought to her and she ate all of it.
+LOG KEYS
+Mood: Fair
+Appetite: Fair
+Swelling: Same
+Skin: Okay
+
+## 2026-11-17 18:48 (from 233548236698) [PROCESSED — owner replies, non-clinical, answered]
+- [owner reply] Was you able to go for a walk?
+[owner reply] How far with the coconut, have you gone through the process to make milk?
+[owner reply] Has she been snacking in-between meals?
+
+## 2026-11-17 18:50 (from 233548236698) [PROCESSED — walked inside living room only]
+- Well, she walked inside the living room.
+
+## 2026-11-17 18:50 (from 233548236698) [PROCESSED — tiger-nut milk process still soaking]
+- The tiger nut is still in water
+
+## 2026-11-17 18:50 (from 233548236698) [PROCESSED — no snacking between meals]
+- No please
+
+## 2026-11-17 20:58 (from 233548236698) [PROCESSED]
+- 17/11/2026 EVENING REPORT [PROCESSED]
+@5pm: Pineapple juice was brought to her.
+@5:12pm: She was sitting on her bed scrolling through her phone.
+@5:48pm: She complained of back pain, carer applied aboniki any her back and encouraged her to lay flat on her back.
+@6pm: She was laying in her bed, carer asked to come to the living room so they watch tv together but she said no, she prefers to lay down.
+@6:15pm: Carer asked if she’ll do Epsom salt soak but she said it’s late and she wants to sleep so no.
+@7:58pm:She turned her room lights off and bid her carer goodnight.
+LOG KEYS
+Mood: Fair
+Appetite: Fair
+Urine: Normal 
+Swelling: Same
+Skin: Okay

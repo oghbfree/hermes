@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-16 11:00",
-  "day": "Monday 16 Nov 2026",
+  "generated": "2026-11-18 09:18",
+  "day": "Wednesday 18 Nov 2026",
   "kanban": {
     "total": 272,
     "unique": 125,
@@ -685,6 +685,12 @@
       "owner": "default"
     },
     {
+      "id": "fc4bd5e5",
+      "name": "2Real — Zobaze→Jiji Gap Pipeline (weekly)",
+      "schedule": "45 2 * * 0",
+      "owner": "default"
+    },
+    {
       "id": "5659dd3c",
       "name": "weekly-log-cleanup",
       "schedule": "every sunday 4am",
@@ -788,14 +794,8 @@
     },
     {
       "id": "501cde90",
-      "name": "Mum — Stephanie check-ins (4/day, randomised)",
-      "schedule": "0 9,13,16,20 * * *",
-      "owner": "sat-nav"
-    },
-    {
-      "id": "d7c8d372",
-      "name": "Plumber confirmation — Mum's water heater + water flow (17 Nov p.m.)",
-      "schedule": "once at 2026-11-17 18:00",
+      "name": "Mum — Stephanie check-ins (2/day, randomised)",
+      "schedule": "0 9,17 * * *",
       "owner": "sat-nav"
     },
     {
@@ -831,8 +831,8 @@
   ],
   "routine_count": 60,
   "jiji": {
-    "total": 1394,
-    "active": 1391,
+    "total": 1395,
+    "active": 1392,
     "top_categories": [
       [
         "Hand Tools",
@@ -840,7 +840,7 @@
       ],
       [
         "Electrical Hand Tools",
-        147
+        149
       ],
       [
         "Video Games",
@@ -870,52 +870,52 @@
     "top_by_chats": [
       {
         "title": "Panasonic Lumix Digital Camera With Battery a",
-        "chats": 32,
-        "views": 314,
-        "impressions": 1161,
+        "chats": 36,
+        "views": 342,
+        "impressions": 1177,
         "price": "GH₵ 980",
         "status": "active"
       },
       {
-        "title": "Farm Workers / Farming Family Opportunity",
-        "chats": 22,
-        "views": 236,
-        "impressions": 1954,
-        "price": "GH₵ 800 - 1,000",
-        "status": "active"
-      },
-      {
-        "title": "LVYUAN 800w/2000w Pure Sine-Wave Power Invert",
-        "chats": 22,
-        "views": 267,
-        "impressions": 1075,
-        "price": "GH₵ 900",
+        "title": "Live in Private Nurse / Under Graduate Nurse ",
+        "chats": 26,
+        "views": 490,
+        "impressions": 3309,
+        "price": "Commission",
         "status": "active"
       },
       {
         "title": "Elite Construction Team Wanted - Foremen All ",
-        "chats": 22,
-        "views": 397,
-        "impressions": 3079,
+        "chats": 25,
+        "views": 459,
+        "impressions": 3175,
         "price": "Commission",
         "status": "active"
       },
       {
-        "title": "Live in Private Nurse / Under Graduate Nurse ",
+        "title": "Farm Workers / Farming Family Opportunity",
+        "chats": 23,
+        "views": 271,
+        "impressions": 1883,
+        "price": "GH₵ 800 - 1,000",
+        "status": "active"
+      },
+      {
+        "title": "Female Private Driver",
         "chats": 21,
-        "views": 436,
-        "impressions": 3135,
+        "views": 568,
+        "impressions": 5145,
         "price": "Commission",
         "status": "active"
       }
     ],
-    "ads_with_chats": 572,
-    "total_chats": 1518,
-    "total_impressions": 1250
+    "ads_with_chats": 641,
+    "total_chats": 1725,
+    "total_impressions": 1396
   },
   "credits": {
-    "rem": 8.2,
-    "total": 470
+    "error": "<urlopen error [Errno 11001] getaddrinfo failed>",
+    "rem": null
   },
   "sales": {
     "last": {
@@ -935,13 +935,10 @@
     ]
   },
   "fb_messages": {
-    "generated": "2026-11-16 10:59",
+    "generated": "2026-11-17 08:30",
     "source": "facebook.com/marketplace/inbox",
-    "status": "ok",
-    "thread_count": 0,
-    "threads_sampling_questions": 0,
-    "threads": [],
-    "note": "0 buyer conversation rows rendered — inbox empty, off the marketplace inbox view, or the checkpoint wall is up."
+    "status": "error",
+    "note": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
   },
   "fb": {
     "published": 22,

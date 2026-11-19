@@ -1,0 +1,32 @@
+{
+ "map": {
+  "Ring Automotive RWL1000 1000 lumen work light With Power Bank": "Ring Automotive Rechargeable Floodlight With Power Bank",
+  "CTEC CT1 Sealant White": "Ct1 Unique Sealant and Construction Adhesive",
+  "CTEC CT1 Sealant Black": "Ct1 Unique Sealant and Construction Adhesive",
+  "Stanley FatMax Torpedo Scaffold Level 3 Vials 043603 220": "Stanley Scaffold Torpedo Level 0-43-603",
+  "Black And Decker Scorpion 400 Powered hand Saw900": "Black & Decker Scorpion 400 Powered Handsaw / Reciprocating Saw",
+  "Diablo 6 Piece Bi Metal Saw Blade": "Diablo 6 Pieces Bi Metal Reciprocating Blades",
+  "Spear & Jackson Razor Sharp Hedgeshear": "Spear Jackson Razorsharp Geared Hedge Shears",
+  "Saber 18 Volt 2AH Battery": "Saber 18v 2.0ah Battery Pack.",
+  "Frog Tape Green Multi Surface Painters Masking Tape 24 Mm X 41.1m": "Frogtape Green Multi Surface Masking Tape 24mm X 41.1 M - Brand New",
+  "Ingco HTSN0110S\t aviation snip": "Ingco Aviation Snips",
+  "Black And Decker 18 volt cordless hammer drill 1.5AH BCD700S": "Black Decker 18v Cordless Hammer Drill Kit",
+  "Stanley FatMax Torpedo Scaffold Level 3 Vials 043603 220mm / 9\"": "Stanley Scaffold Torpedo Level 0-43-603",
+  "Black And Decker 18 Volt Lithium Ion 1.5 Ah Cordless Drill Driver BCD0": "__DISTINCT__",
+  "Gorilla Gorilla Glue 115 Ml": "__DISTINCT__",
+  "Ingco Bolt Cutter 30\"": "__DISTINCT__",
+  "Stanley Staple Pins Staples 1 Tra 708 T 12mm G": "__DISTINCT__",
+  "Stanley 7in Black Square": "__DISTINCT__",
+  "Stanley Screwdriver 64-983": "__DISTINCT__",
+  "Stanley Screwdriver 65-412": "__DISTINCT__",
+  "Stanley Screwdriver 65-411": "__DISTINCT__",
+  "Blyss Uban Video Intercom And Outdoor Button": "Blyss Urban 4.3\" Wired 2-Wire Video Door Intercom System"
+ },
+ "note": "inventory title -> live jiji title. Append as mismatches are found. Never delete.",
+ "updated": "2026-11-17",
+ "resolved_2026-11-16": {
+  "confirmed_same": 8,
+  "confirmed_distinct": 8,
+  "note": "__DISTINCT__ = human-verified DIFFERENT product; stays unlisted and never resurfaces."
+ }
+}

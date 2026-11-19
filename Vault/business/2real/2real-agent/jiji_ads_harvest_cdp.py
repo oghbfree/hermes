@@ -20,10 +20,11 @@ import json, time, os, sys
 
 VAULT = r"C:\Users\User\.hermes\workspace\Vault\business\2real\2real-agent"
 OUT = os.path.join(VAULT, "jiji_ads_performance.json")
-CDP_URL = os.environ.get("FB_CDP_URL", "http://127.0.0.1:9222")
+# NOTE (17/11/26): do NOT pre-set FB_CDP_URL here. Setting a hardcoded :9222 used to
+# override the harness and every run failed with WinError 10061 while the browser was
+# actually live on :64365. cdp_harness now validates each candidate port before use.
 
 sys.path.insert(0, VAULT)
-os.environ["FB_CDP_URL"] = CDP_URL
 import cdp_harness as cdp
 
 
@@ -38,12 +39,27 @@ def dget(d, *path):
 
 
 def harvest(max_pages=400):
-    cdp.connect(substr="jiji.com.gh/profile")
+    cdp.connect(substr="jiji.com.gh")  # match the Jiji TAB, not a /profile URL —
+    # goto_url() below navigates to the adverts page afterwards
     cdp.goto_url("https://jiji.com.gh/profile/adverts?guid=rbPd2oROVhelYWPjYkQWbhpx")
     cdp.wait_for_load()
-    txt = cdp.js("document.body.innerText.slice(0,400)") or ""
-    if "Two Real Enterprises" not in txt and "Real Enterprises" not in txt:
-        print("NOT LOGGED IN — stop and tell H to log into Jiji once in the persistent browser.")
+
+    # Login check FIXED 17/11/26. The old version sampled innerText once, straight after
+    # load, with a 400-char window. Jiji is an SPA: the account header ("Two Real
+    # Enterprises") renders a moment later, so a healthy logged-in session was being
+    # reported as "NOT LOGGED IN" and the harvest aborted. Now we POLL, and accept any
+    # of several logged-in markers.
+    LOGGED_IN_MARKERS = ("Two Real Enterprises", "Real Enterprises", "My adverts",
+                         "MY BALANCE", "1,396 Active", "My Clients")
+    txt = ""
+    for _attempt in range(12):                     # up to ~24s
+        txt = cdp.js("document.body.innerText.slice(0,3000)") or ""
+        if any(m in txt for m in LOGGED_IN_MARKERS):
+            break
+        time.sleep(2)
+    else:
+        print("NOT LOGGED IN — no account marker after 24s. Tell H to log into Jiji once in the persistent browser.")
+        print("page began:", (txt or "")[:200].replace("\n", " | "))
         return False
 
     all_ads, page = [], 1

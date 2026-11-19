@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-16T15:17:59",
- "total_gap": 245,
+ "generated": "2026-11-17T21:36:13",
+ "total_gap": 244,
  "items": [
   {
    "name": "Blyss Uban Video Intercom And Outdoor Button",
@@ -12,13 +12,12 @@
    "priority": 1600,
    "best_partial_match": "Blyss Urban 4.3\" Wired 2-Wire Video Door Intercom ",
    "partial_score": 0.5,
-   "listed": true,
-   "listed_on_jiji": "2026-11-15",
-   "listed_ts": "2026-11-16T06:10:53",
    "match_verdict": "live",
    "match_score": 1.0,
    "match_how": "alias",
-   "match_title": "Blyss Urban 4.3\" Wired 2-Wire Video Door Intercom System"
+   "match_title": "Blyss Urban 4.3\" Wired 2-Wire Video Door Intercom System",
+   "listed": true,
+   "listed_on_jiji": "2026-11-17"
   },
   {
    "name": "Bosch GBM 13-2 RE 240v Rotary drill 13mm keyless chuck",
@@ -69,7 +68,7 @@
    "match_how": "alias",
    "match_title": "Black Decker 18v Cordless Hammer Drill Kit",
    "listed": true,
-   "listed_on_jiji": "2026-11-16"
+   "listed_on_jiji": "2026-11-17"
   },
   {
    "name": "Black And Decker Black & decker 10.8 volt ultra compact drill driver",
@@ -81,13 +80,12 @@
    "priority": 1260,
    "best_partial_match": "Black+Decker 12v Drill Driver With Usb Battery Pac",
    "partial_score": 0.5,
-   "listed": true,
-   "listed_on_jiji": "2026-11-15",
-   "listed_ts": "2026-11-16T06:10:46",
    "match_verdict": "live",
    "match_score": 0.9,
    "match_how": "brand+spec",
-   "match_title": "Black & Decker 10.8 Volt Ultra Compact Drill Driver (BDCDD12)"
+   "match_title": "Black & Decker 10.8 Volt Ultra Compact Drill Driver (BDCDD12)",
+   "listed": true,
+   "listed_on_jiji": "2026-11-17"
   },
   {
    "name": "DeWalt Cutting Disc 250mm 36T Xr Flex Volt DT99572",
@@ -99,13 +97,12 @@
    "priority": 828,
    "best_partial_match": "DeWALT Extreme Runtime XR FlexVolt 250mm Circular ",
    "partial_score": 0.44,
-   "listed": true,
-   "listed_on_jiji": "2026-11-15",
-   "listed_ts": "2026-11-16T06:10:53",
    "match_verdict": "live",
    "match_score": 0.9,
    "match_how": "brand+spec",
-   "match_title": "DeWALT Extreme Runtime XR FlexVolt 250mm Circular Mitre Saw Blade 36T"
+   "match_title": "DeWALT Extreme Runtime XR FlexVolt 250mm Circular Mitre Saw Blade 36T",
+   "listed": true,
+   "listed_on_jiji": "2026-11-17"
   },
   {
    "name": "Performance Pro 800 Watt Impact Drill In Case",
@@ -122,7 +119,7 @@
    "match_how": "brand+spec",
    "match_title": "Performance 800 Watt Hammer Drill",
    "listed": true,
-   "listed_on_jiji": "2026-11-16"
+   "listed_on_jiji": "2026-11-17"
   },
   {
    "name": "Black And Decker Ka230e Detail Sander 170w",
@@ -151,13 +148,12 @@
    "priority": 660,
    "best_partial_match": "Black Decker BD664 400-Watt Corded Power Drill",
    "partial_score": 0.43,
-   "listed": true,
-   "listed_on_jiji": "2026-11-15",
-   "listed_ts": "2026-11-16T06:10:53",
    "match_verdict": "live",
    "match_score": 1.0,
    "match_how": "alias",
-   "match_title": "Black & Decker Scorpion 400 Powered Handsaw / Reciprocating Saw"
+   "match_title": "Black & Decker Scorpion 400 Powered Handsaw / Reciprocating Saw",
+   "listed": true,
+   "listed_on_jiji": "2026-11-17"
   },
   {
    "name": "Mac Allister Angle Grinder MSAG750",
@@ -186,12 +182,12 @@
    "priority": 600,
    "best_partial_match": "Ring Automotive Rechargeable Floodlight With Power",
    "partial_score": 0.44,
-   "match_verdict": "live",
-   "match_score": 1.0,
-   "match_how": "alias",
-   "match_title": "Ring Automotive Rechargeable Floodlight With Power Bank",
-   "listed": true,
-   "listed_on_jiji": "2026-11-16"
+   "match_verdict": "unlisted",
+   "match_score": 0.0,
+   "match_how": "alias-missing",
+   "match_title": null,
+   "listed": false,
+   "listed_on_jiji": null
   },
   {
    "name": "DeWalt Cutting Disc 250mm 48T Extreme workshop DT4323",
@@ -208,7 +204,7 @@
    "match_how": "code:dt4323",
    "match_title": "DeWALT Extreme Workshop Series 60 Table / Mitre Saw Blade DT4323",
    "listed": true,
-   "listed_on_jiji": "2026-11-16"
+   "listed_on_jiji": "2026-11-17"
   },
   {
    "name": "DeWalt Cutting Disc 250mm 60T Extreme Workshop DT4352",
@@ -218,14 +214,14 @@
    "margin": 550,
    "gift": false,
    "priority": 550,
-   "best_partial_match": "DeWALT Extreme Workshop Series 60 Table / Mitre Sa",
+   "best_partial_match": "DeWALT Extreme Runtime XR FlexVolt 250mm Circular ",
    "partial_score": 0.38,
    "match_verdict": "live",
    "match_score": 0.9,
    "match_how": "brand+spec",
    "match_title": "DeWALT Extreme Runtime XR FlexVolt 250mm Circular Mitre Saw Blade 36T",
    "listed": true,
-   "listed_on_jiji": "2026-11-16"
+   "listed_on_jiji": "2026-11-17"
   },
   {
    "name": "Stanley Tape Measure 10 M Stanley FatMax Extreme 33896",
@@ -310,7 +306,7 @@
    "match_how": "code:tlm50",
    "match_title": "Stanley Tlm50 Laser Distance Measure From Uk",
    "listed": true,
-   "listed_on_jiji": "2026-11-16"
+   "listed_on_jiji": "2026-11-17"
   },
   {
    "name": "Master Plug Outdoor 15m Plug spike",
@@ -337,7 +333,7 @@
    "margin": 470,
    "gift": false,
    "priority": 470,
-   "best_partial_match": "Wickes 6-Piece Wood Auger Bit Set",
+   "best_partial_match": "Saber 5-Piece Reversible Ratchet Ring Spanner Wren",
    "partial_score": 0.5,
    "match_verdict": "unlisted",
    "match_score": 0.0,
@@ -361,7 +357,7 @@
    "match_how": "difflib(0.87)",
    "match_title": "Stanley Light 10w Rechargeable Work Light",
    "listed": true,
-   "listed_on_jiji": "2026-11-16"
+   "listed_on_jiji": "2026-11-17"
   },
   {
    "name": "JCB PPA Planer",
@@ -412,7 +408,7 @@
    "match_how": "code:rtc2000",
    "match_title": "Ring Rtc2000 Rechargeable Handheld Tyre Inflator",
    "listed": true,
-   "listed_on_jiji": "2026-11-16"
+   "listed_on_jiji": "2026-11-17"
   },
   {
    "name": "New master Brad Nail Gun ntc0040-au",
@@ -429,7 +425,7 @@
    "match_how": "code:ntc0040",
    "match_title": "Neu Master Ntc0040-Au Electric Tacker, a Heavy-Duty Power Tool",
    "listed": true,
-   "listed_on_jiji": "2026-11-16"
+   "listed_on_jiji": "2026-11-17"
   },
   {
    "name": "Firexo 500 Ml Fire Extinguish w/ Bracket",
@@ -446,7 +442,7 @@
    "match_how": "brand+spec",
    "match_title": "Firexo 500ml Compact All-Fires Extinguisher With Bracket",
    "listed": true,
-   "listed_on_jiji": "2026-11-16"
+   "listed_on_jiji": "2026-11-17"
   },
   {
    "name": "Gardena 18321 Comfort Shower Hose",
@@ -514,7 +510,7 @@
    "match_how": "brand+spec",
    "match_title": "Parkside 20V Cordless Circular Saw PHKSA 20-Li B3",
    "listed": true,
-   "listed_on_jiji": "2026-11-16"
+   "listed_on_jiji": "2026-11-17"
   },
   {
    "name": "Parkside Rechargeable Battery 20 Volt 2Ah PAP20B1",
@@ -616,7 +612,7 @@
    "match_how": "difflib(0.94)",
    "match_title": "Parkside Multifunctional Angle Guage",
    "listed": true,
-   "listed_on_jiji": "2026-11-16"
+   "listed_on_jiji": "2026-11-17"
   },
   {
    "name": "Hippo Universal Wood Glue 500 Ml",
@@ -694,7 +690,7 @@
    "margin": 310,
    "gift": false,
    "priority": 310,
-   "best_partial_match": "BlueSpot 17-Piece Folding Hex / Allen Key Set (Sto",
+   "best_partial_match": "Workzone 9-Piece Coloured Hex Key Set (Metric)",
    "partial_score": 0.33,
    "match_verdict": "unlisted",
    "match_score": 0.0,
@@ -735,7 +731,7 @@
    "match_how": "brand+spec",
    "match_title": "Parkside 20V Cordless Circular Saw PHKSA 20-Li B3",
    "listed": true,
-   "listed_on_jiji": "2026-11-16"
+   "listed_on_jiji": "2026-11-17"
   },
   {
    "name": "Ring Automotive  RINVU150 12V 230V AC 150W In Car Invertor With USB",
@@ -752,7 +748,7 @@
    "match_how": "brand+spec",
    "match_title": "Ring 8A Smart Battery Charger Maintainer 12v/24v Cars Trucks RSC808)",
    "listed": true,
-   "listed_on_jiji": "2026-11-16"
+   "listed_on_jiji": "2026-11-17"
   },
   {
    "name": "Ring Automotive Powersource Compact inverter 500 Watts",
@@ -803,7 +799,7 @@
    "match_how": "brand+spec",
    "match_title": "Makita 6281d Cordless Drill With Charger Battery 14.4v",
    "listed": true,
-   "listed_on_jiji": "2026-11-16"
+   "listed_on_jiji": "2026-11-17"
   },
   {
    "name": "Halfords Gear Less Ratchet Spanner Set 7",
@@ -830,7 +826,7 @@
    "margin": 270,
    "gift": false,
    "priority": 270,
-   "best_partial_match": "Irwin Marples 6-Piece MS500 All-Purpose Wood Chise",
+   "best_partial_match": "Apple Magic Mouse No Back Cover",
    "partial_score": 0.2,
    "match_verdict": "unlisted",
    "match_score": 0.0,
@@ -866,12 +862,12 @@
    "priority": 264,
    "best_partial_match": "Frogtape Delicate Surface Painter's Tape 48mm X 41",
    "partial_score": 0.57,
-   "match_verdict": "unlisted",
-   "match_score": 0.0,
-   "match_how": "",
-   "match_title": null,
-   "listed": false,
-   "listed_on_jiji": null
+   "match_verdict": "live",
+   "match_score": 1.0,
+   "match_how": "alias",
+   "match_title": "Frogtape Delicate Surface Painter's Tape 48mm X 41.1mm - Brand New",
+   "listed": true,
+   "listed_on_jiji": "2026-11-17"
   },
   {
    "name": "Stanley FatMax Torpedo Scaffold Level 3 Vials 043603 220mm / 9\"",
@@ -888,7 +884,7 @@
    "match_how": "alias",
    "match_title": "Stanley Scaffold Torpedo Level 0-43-603",
    "listed": true,
-   "listed_on_jiji": "2026-11-16"
+   "listed_on_jiji": "2026-11-17"
   },
   {
    "name": "Kent & Stowe Box Shears",
@@ -956,7 +952,7 @@
    "match_how": "difflib(0.90)",
    "match_title": "Laser Screw Extractor Set 6 Pieces",
    "listed": true,
-   "listed_on_jiji": "2026-11-16"
+   "listed_on_jiji": "2026-11-17"
   },
   {
    "name": "Stanley 7in Quick Square stht46010",
@@ -985,12 +981,12 @@
    "priority": 240,
    "best_partial_match": "Stanley FatMax Screwdriver Bit Set 50-Piece With T",
    "partial_score": 0.5,
-   "match_verdict": "unlisted",
-   "match_score": 0.0,
-   "match_how": "",
-   "match_title": null,
-   "listed": false,
-   "listed_on_jiji": null
+   "match_verdict": "live",
+   "match_score": 1.0,
+   "match_how": "alias",
+   "match_title": "Stanley 10 Pieces Multi-Bit Ratcheting Screwdriver",
+   "listed": true,
+   "listed_on_jiji": "2026-11-17"
   },
   {
    "name": "Roberts Double Headed Hammer R10431",
@@ -1041,7 +1037,7 @@
    "match_how": "alias",
    "match_title": "Ct1 Unique Sealant and Construction Adhesive",
    "listed": true,
-   "listed_on_jiji": "2026-11-16"
+   "listed_on_jiji": "2026-11-17"
   },
   {
    "name": "Bosch Drill Bits X19",
@@ -1109,7 +1105,7 @@
    "match_how": "alias",
    "match_title": "Diablo 6 Pieces Bi Metal Reciprocating Blades",
    "listed": true,
-   "listed_on_jiji": "2026-11-16"
+   "listed_on_jiji": "2026-11-17"
   },
   {
    "name": "Gorilla Waterproof Coat And Seal Black 473 Ml",
@@ -1126,7 +1122,7 @@
    "match_how": "difflib(0.92)",
    "match_title": "Gorilla Waterproof Coat and Seal 473ml",
    "listed": true,
-   "listed_on_jiji": "2026-11-16"
+   "listed_on_jiji": "2026-11-17"
   },
   {
    "name": "Kratos Scaffolding Kit None",
@@ -1160,7 +1156,7 @@
    "match_how": "alias",
    "match_title": "Spear Jackson Razorsharp Geared Hedge Shears",
    "listed": true,
-   "listed_on_jiji": "2026-11-16"
+   "listed_on_jiji": "2026-11-17"
   },
   {
    "name": "Master Lock Rubber One Padlock One Key >8 M115DLF",
@@ -1177,7 +1173,7 @@
    "match_how": "code:m115dlf",
    "match_title": "Master Lock Heavy Duty Padlock Weatherproof Rustproof Steel M115dlf",
    "listed": true,
-   "listed_on_jiji": "2026-11-16"
+   "listed_on_jiji": "2026-11-17"
   },
   {
    "name": "Gorilla Gorilla Glue 250 Ml",
@@ -1194,7 +1190,7 @@
    "match_how": "brand+spec",
    "match_title": "Gorilla Contact Adhesive Crystal Clear 250ml Tin",
    "listed": true,
-   "listed_on_jiji": "2026-11-16"
+   "listed_on_jiji": "2026-11-17"
   },
   {
    "name": "Laser Battery And Alternator Tester 12V DC Systems 2274",
@@ -1262,7 +1258,7 @@
    "match_how": "brand+spec",
    "match_title": "Stanley Staple Pins Type a 8mm",
    "listed": true,
-   "listed_on_jiji": "2026-11-16"
+   "listed_on_jiji": "2026-11-17"
   },
   {
    "name": "Xfere 3 Hole Wash Basin Mixer With Pop-up Waste",
@@ -1296,7 +1292,7 @@
    "match_how": "difflib(0.98)",
    "match_title": "Luceco Castra Wifi Security Floodlight 2100 Lumens",
    "listed": true,
-   "listed_on_jiji": "2026-11-16"
+   "listed_on_jiji": "2026-11-17"
   },
   {
    "name": "Bosch Drill Bits X25 Screwdriver Set",
@@ -1330,7 +1326,7 @@
    "match_how": "alias",
    "match_title": "Saber 18v 2.0ah Battery Pack.",
    "listed": true,
-   "listed_on_jiji": "2026-11-16"
+   "listed_on_jiji": "2026-11-17"
   },
   {
    "name": "Stanley Rivet gun 6mr100",
@@ -1483,7 +1479,7 @@
    "match_how": "alias",
    "match_title": "Frogtape Green Multi Surface Masking Tape 24mm X 41.1 M - Brand New",
    "listed": true,
-   "listed_on_jiji": "2026-11-16"
+   "listed_on_jiji": "2026-11-17"
   },
   {
    "name": "Frog Tape Delicate Surface 24 Mm X 41 M",
@@ -1704,7 +1700,7 @@
    "match_how": "brand+spec",
    "match_title": "Black Decker 18v Cordless Hammer Drill Kit",
    "listed": true,
-   "listed_on_jiji": "2026-11-16"
+   "listed_on_jiji": "2026-11-17"
   },
   {
    "name": "Bosch Drill Bits 2mm HSS Drill Bit 2608595518",
@@ -1789,7 +1785,7 @@
    "match_how": "brand+spec",
    "match_title": "Stanley 115mm Turbo Segmented Diamond Cutting Discs 2-Pack STA38080",
    "listed": true,
-   "listed_on_jiji": "2026-11-16"
+   "listed_on_jiji": "2026-11-17"
   },
   {
    "name": "Stanley Knife 99e Knife And 5 M Tylon Tape Measure Combo St Ht410099",
@@ -1840,7 +1836,7 @@
    "match_how": "alias",
    "match_title": "Ct1 Unique Sealant and Construction Adhesive",
    "listed": true,
-   "listed_on_jiji": "2026-11-16"
+   "listed_on_jiji": "2026-11-17"
   },
   {
    "name": "CTEC CT1 Sealant Clear",
@@ -1908,7 +1904,7 @@
    "match_how": "brand+spec",
    "match_title": "Stanley 230mm 9-Inch Adjustable Sliding Bevel Square Tool (0-46-825)",
    "listed": true,
-   "listed_on_jiji": "2026-11-16"
+   "listed_on_jiji": "2026-11-17"
   },
   {
    "name": "Stanley Screwdriver X49 STHT070886",
@@ -1942,7 +1938,7 @@
    "match_how": "brand+spec",
    "match_title": "Stanley 230mm 9-Inch Adjustable Sliding Bevel Square Tool (0-46-825)",
    "listed": true,
-   "listed_on_jiji": "2026-11-16"
+   "listed_on_jiji": "2026-11-17"
   },
   {
    "name": "Stanley FatMax Drill Bit Set X14 STA88561",
@@ -2248,7 +2244,7 @@
    "match_how": "brand+spec",
    "match_title": "Stanley Staple Pins Type a 8mm",
    "listed": true,
-   "listed_on_jiji": "2026-11-16"
+   "listed_on_jiji": "2026-11-17"
   },
   {
    "name": "Stanley Staple Pins Staples Oswkbn0625 15mm E/J",
@@ -2452,7 +2448,7 @@
    "match_how": "brand+spec",
    "match_title": "Stanley Staple Pins 10mm Type A",
    "listed": true,
-   "listed_on_jiji": "2026-11-16"
+   "listed_on_jiji": "2026-11-17"
   },
   {
    "name": "Stanley Screwdriver X29 054925",
@@ -2503,7 +2499,7 @@
    "match_how": "brand+spec",
    "match_title": "Stanley Staple Pins Type a 6mm 1000pcs",
    "listed": true,
-   "listed_on_jiji": "2026-11-16"
+   "listed_on_jiji": "2026-11-17"
   },
   {
    "name": "Stanley Staple Pins Staples 1 Tra 706 T 10mm G",
@@ -2520,7 +2516,7 @@
    "match_how": "brand+spec",
    "match_title": "Stanley Staple Pins 10mm Type A",
    "listed": true,
-   "listed_on_jiji": "2026-11-16"
+   "listed_on_jiji": "2026-11-17"
   },
   {
    "name": "Stanley Staple Pins Staples 1 Tra 708 T 12mm G",
@@ -2870,7 +2866,7 @@
    "margin": 69,
    "gift": false,
    "priority": 69,
-   "best_partial_match": "Erbauer Router Bit Set",
+   "best_partial_match": "Draper 80-Piece Security Screwdriver and Magnetic ",
    "partial_score": 0.33,
    "match_verdict": "unlisted",
    "match_score": 0.0,
@@ -2904,14 +2900,14 @@
    "margin": 66,
    "gift": false,
    "priority": 66,
-   "best_partial_match": "Makita D61123 115mm Angle Grinder Cutting Disc",
+   "best_partial_match": "Stanley 115mm Turbo Segmented Diamond Cutting Disc",
    "partial_score": 0.5,
    "match_verdict": "live",
    "match_score": 0.9,
    "match_how": "brand+spec",
    "match_title": "Stanley 115mm Turbo Segmented Diamond Cutting Discs 2-Pack STA38080",
    "listed": true,
-   "listed_on_jiji": "2026-11-16"
+   "listed_on_jiji": "2026-11-17"
   },
   {
    "name": "Stanley Cutting Disc 38007 FatMax 125 Mm Tiles",
@@ -2928,7 +2924,7 @@
    "match_how": "brand+spec",
    "match_title": "Stanley 125mm 80 Grit Quick Fit ROS Sanding Discs (5-Pack)",
    "listed": true,
-   "listed_on_jiji": "2026-11-16"
+   "listed_on_jiji": "2026-11-17"
   },
   {
    "name": "Master Lock 725D Gate Lock Clasp >4",
@@ -2962,7 +2958,7 @@
    "match_how": "brand+spec",
    "match_title": "Stanley 115mm Turbo Segmented Diamond Cutting Discs 2-Pack STA38080",
    "listed": true,
-   "listed_on_jiji": "2026-11-16"
+   "listed_on_jiji": "2026-11-17"
   },
   {
    "name": "Stanley Cutting Disc FatMax 115mm STA38002 Tiles",
@@ -2972,14 +2968,14 @@
    "margin": 63,
    "gift": false,
    "priority": 63,
-   "best_partial_match": "Makita D61123 115mm Angle Grinder Cutting Disc",
+   "best_partial_match": "Stanley 115mm Turbo Segmented Diamond Cutting Disc",
    "partial_score": 0.43,
    "match_verdict": "live",
    "match_score": 0.9,
    "match_how": "brand+spec",
    "match_title": "Stanley 115mm Turbo Segmented Diamond Cutting Discs 2-Pack STA38080",
    "listed": true,
-   "listed_on_jiji": "2026-11-16"
+   "listed_on_jiji": "2026-11-17"
   },
   {
    "name": "Byron Wired Door Chime Kit 720 Wall Mounted Underdome Bell",
@@ -3319,7 +3315,7 @@
    "match_how": "code:sta26160",
    "match_title": "Stanley FatMax 4-Piece Oscillating Multi-Tool Blade Tile Set STA26160",
    "listed": true,
-   "listed_on_jiji": "2026-11-16"
+   "listed_on_jiji": "2026-11-17"
   },
   {
    "name": "Knobs John Lewis Mixit Glass Crystal Knob",
@@ -3329,7 +3325,7 @@
    "margin": 39,
    "gift": false,
    "priority": 47,
-   "best_partial_match": "Gorilla Contact Adhesive Crystal Clear 75g",
+   "best_partial_match": "Commercial Aluminum & Glass Retail Display Showcas",
    "partial_score": 0.14,
    "match_verdict": "unlisted",
    "match_score": 0.0,
@@ -3397,7 +3393,7 @@
    "margin": 45,
    "gift": false,
    "priority": 45,
-   "best_partial_match": "Stanley Tape Measure 5m",
+   "best_partial_match": "Stanley Tape Measure Tylon 5m/16’",
    "partial_score": 0.25,
    "match_verdict": "unlisted",
    "match_score": 0.0,
@@ -3761,7 +3757,7 @@
    "match_how": "alias",
    "match_title": "Ingco Aviation Snips",
    "listed": true,
-   "listed_on_jiji": "2026-11-16"
+   "listed_on_jiji": "2026-11-17"
   },
   {
    "name": "Arlec Power Socket Metal Screwless 1 Gang Single Pole Socket",
@@ -4604,7 +4600,7 @@
    "margin": 22,
    "gift": false,
    "priority": 22,
-   "best_partial_match": "Frogtape Green Multi Surface Masking Tape 24mm X 4",
+   "best_partial_match": "Heavy-Duty Braided Green Nylon Cargo Net / Hanging",
    "partial_score": 0.25,
    "match_verdict": "unlisted",
    "match_score": 0.0,
@@ -4955,5 +4951,5 @@
   }
  ],
  "scan_source": "jiji_ads_performance.json",
- "live_ads_scraped": "2026-11-16 15:13"
+ "live_ads_scraped": "2026-11-17 15:47"
 }

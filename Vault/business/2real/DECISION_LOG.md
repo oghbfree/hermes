@@ -25,3 +25,18 @@ PRINCIPLE: 2Real FB listings = H's personal, manually-published; agent holds sys
 ## 04/11/26 — TALKING-AVATAR CAPABILITY + BRAND SOURCING RULE (owner-approved)
 1) TALKING-AVATAR: Tasked to produce a talking human avatar from Taiwah's locked face WITHOUT HeyGen. RESULT: PROVEN live the same day via fal `veed/fabric-1.0` (static face + edge-tts audio -> synced talking-head video). Script: sat-nav/scripts/fal_talking_avatar.py (fal_client 0.13.1; FAL_KEY in ~/.hermes/.env). Measured cost 9.2s@720p ~GHS 16 ($1.39 @ ~11.65 GHS/USD). ComfyUI/MuseTalk kept as free local fallback. Full pipeline written to weekly-brand-content-production skill.
 2) BRAND-IMAGE SOURCING RULE: Taiwah + ALL brand/product imagery MUST source the best official brand/model photo from the brand's or DIY-merchant's website — NEVER generate/invent logos or product shots. Approved expanded source list (gorilla, stanley, makita, luceco, masterlock, bosch, dewalt, ryobi, ingco, etc; merchants screwfix.com, diy.com, wickes, toolstation, homebase, argos, amazon.uk) written to the skill's NEW-vs-USED photo-source section.
+
+## 17/11/26 — TAIWAH CHRISTMAS REEL BRIEF: ORIGIN-ONLY, NO EXIT NARRATIVE (H ruling)
+CONTEXT: Proposed a 4-reel Christmas line-up anchored on "I started in this container, this Christmas I'm emptying it."
+H CORRECTED THE FACT: the container stock was OFFLOADED long ago; the goods now sit in a RENTED SHOP. The container is
+NOT standing empty waiting to be cleared. That anchor was fiction and is killed.
+H RULING (verbatim intent): **"no"** to publishing the exit/no-longer-importing line, AND the brief is ON HOLD —
+"hold on the brief for now as i may have more context."
+STANDING RULES FOR ANY TAIWAH CHRISTMAS/BUSINESS REEL:
+1) Reel 1 stays PURE ORIGIN/TRUST. Do NOT say the business is closing, exiting, clearing down, or that importing has
+   stopped. No scarcity-from-exit framing. No invented deadlines.
+2) Container = ORIGIN (past tense). Rented shop = PRESENT tense. Both spaces RENTED; she owns the STOCK, not the walls.
+3) No glue-gift reel and no screwdriver spotlight (turnover problems, not campaign material).
+4) HOLD: no brief is to be written, no script sent to Kofi, no render queued, until H supplies further context.
+CONFIRMED REEL CANDIDATES (content only, NOT approved to produce): origin/trust; "For her" (foot spa/NutriBullet/
+microwave); "Christmas morning" (LEGO); "When the lights go out" (solar/inverter).

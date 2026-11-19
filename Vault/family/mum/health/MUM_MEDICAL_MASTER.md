@@ -2549,3 +2549,59 @@ Date-range snapshot:
 - **Medication:** Furosemide 20mg — morning safe to give per BP 111/69; evening dose pending report. **STOP/HOLD if BP <100 or >140 (RIGHT arm, standardise).** 💊 Kidney capsule confirmed (powdered form, mixed with water; liquid form NOT taken) — Dr Morris reconciliation note.
 - **Dinner:** not yet reported (→ pending in MUM_FOOD_MASTER once received; TWO-MEAL/DAY ~10am + ~4pm is the Dr Morris pattern).
 - **Check-in:** Posted evening prompt to topic 4 (delivered via this job's `deliver` target) asking about dinner (what + how much), evening Furosemide 20mg + BP before dosing (RIGHT arm), pain/discomfort (back trending better — no recurrence of 10 Nov severe episode), energy/mood, and an overall day summary. **Plus: perceptual-episode reconfirm (one recurrence = Dr Morris SAME DAY); fluids hourly (Na 161 🚩); Imodium stock (out since 8 Sep — now 10+ wks); sodium-recheck labs (due ~24 Sep — STILL unconfirmed); milk replacement; confirm Tue 17 Nov masseuse session; Kenus-spa recurrence ask; respect autonomy refusals (feet soak/evening bed-laying — calm, not episodes).** Pending caregiver response; no reminder if evening report already present.
+
+## 2026-11-16 (Mon) — Afternoon report 🟢 (STEPHANIE_SILENT_INTAKE 19:10)
+
+- **Status:** 🟢 Restful afternoon. @12pm went back to her room, laid on her bed; sleeping soundly @12:30–1:30pm (room well ventilated); @2:17pm awake — **took her AVS medication with hot water** (kidney capsule, powdered form); @3:10pm carer checked, chatted ~20 min; @4pm lunch **boiled plantain with kontomire stew + fried fish — ate all**.
+- **Vitals:** none captured this session.
+- **Medication:** ✅ **AVS kidney capsule (powdered) taken @2:17pm with hot water** — Dr Morris med, taken. Furosemide 20mg — not reported this afternoon; do not assume given. **STOP/HOLD if BP <100 or >140.**
+- **LOG KEYS:** Mood Fair · Appetite Fair · Swelling Same · Skin Okay. 🟢
+- **Uplift:** 💆 **Masseuse did NOT come today** (16 Nov — expected; next cadence day Tue 17 Nov). Restful sleep + carer chat.
+- **Note:** Boiled plantain + fried fish = plantain (no-plantain rule) + fried (no-fry rule) drift — flag gently to Stephanie. Meal timing fits Dr Morris 2-meals/day (~10am + ~4pm).
+
+## 2026-11-16 (Mon) — Evening report 🟢 (STEPHANIE_SILENT_INTAKE 21:17) + owner/water thread
+
+- **Status:** 🟢 @5pm sitting on bed scrolling; @6pm **declined exercises** (autonomy boundary, calm); @6:12pm **Epsom-salt foot soak** (lukewarm water + Epsom salt, bubble effect, 15 min); @6:20pm **feet dried incl. between toes**; @6:25pm **Cetraben moisturising cream massage on swollen feet ~3 min**; @7pm chat with carer; @7:20pm pineapple juice brought; @7:25pm goodnight.
+- **Vitals @5:40pm:** **BP 124/70 · P 68 · T 36.0** ✅ in safe band — **Furosemide stop-rule (<100/>140) NOT triggered.**
+- **Medication:** evening Furosemide 20mg not explicitly reported — BP 124/70 safe for dosing if given. 💊 Kidney capsule/AVS taken earlier (afternoon).
+- **LOG KEYS:** Mood Fair · Appetite Fair · Swelling Same · Skin Okay. 🟢
+- **Owner thread (hydration — Na 161 🚩 context):** Owner asked if she'd wanted a snack in between meals (Stephanie: **no, she didn't ask, so gave her Sobolo**); asked how much water — **Stephanie noticed she drank 1½ bottles**; asked how many bottles left — **5 bottles**; owner: keep encouraging more fluids. **Hydration note:** 1½ bottles is below the ≥1.5L value target given high serum sodium (161.2 🚩) — **keep pushing fluids through the day.** Sobolo as a between-meal offering is hydrating — fine.
+- **Note:** Pineapple juice @7:20pm — pineapple on the phase-out list (K 5.48 / juice sugar) — gentle swap to watermelon/cucumber juice. Foot soak + Cetraben massage = good oedema self-care (uplift ✓).
+
+## 2026-11-17 (Tue) — Afternoon report 🟢 (STEPHANIE_SILENT_INTAKE 18:24) + owner replies
+
+- **Status:** 🟢 Restful afternoon. @12pm sitting on her bed; sleeping soundly @12:30–1:30pm (room well ventilated); @1:57pm carer heard her making calls; @2:23pm awake — took her AVS medication with hot water; @3pm carer checked, chatted ~15 min; @4pm lunch **boiled beans with fried plantain — ate all**.
+- **Vitals:** none captured.
+- **Medication:** ✅ AVS kidney capsule (powdered, Dr Morris med) taken @2:23pm with hot water. Furosemide 20mg — not reported this afternoon; do not assume given. **STOP/HOLD if BP <100 or >140 (RIGHT arm, standardise).**
+- **LOG KEYS:** Mood Fair · Appetite Fair · Swelling Same · Skin Okay. 🟢
+- **Uplift:** 💆 **Masseuse did NOT come today (Tue 17 Nov — cadence day; plumber also didn't come)** — flag to H for reschedule/follow-up. Walk: inside the living room only (not a compound lap). Tiger-nut milk process still soaking (16 Nov soak, ~48–74h timeline).
+- **Owner replies (18:48–18:50, non-clinical, answered by Stephanie):** Walk? → walked inside the living room. Tiger-nut/coconut milk? → tiger nut still in water. Snacking between meals? → No please (no snacks; Sobolo remains the between-meal offering).
+- **Note:** Boiled beans + fried plantain = plantain drift (no-plantain rule) — flag gently to Stephanie. Meal timing fits Dr Morris 2-meals/day (~10am + ~4pm). ⚠️ **17 Nov morning report NOT received — breakfast not logged (minor gap 🟡).**
+
+## 2026-11-17 (Tue) — Evening ⏰ EVENING CHECK-IN POSTED
+
+- **Status:** 🟢 17 Nov afternoon report captured via silent intake (kidney capsule taken 2:23pm; boiled beans + fried plantain 4pm; all log keys fair/same/okay). **No BP captured today yet — last reading 16 Nov evening 124/70 ✅. Clean low-normal BP streak holds across every captured reading (9 Nov 126/78 → 13 Nov 112/68 → 14 Nov 120/75 → 16 Nov 111/69 + 124/70) — Furosemide stop-rule (<100/>140) never triggered.** No recurrence of the 24 Oct perceptual episode. STEPHANIE_SILENT_INTAKE: **6 unprocessed entries (17 Nov afternoon report + owner replies) — all ingested this run (see above); inbox now 0 unprocessed.** ⚠️ 17 Nov morning report not received — breakfast not logged.
+- **Uplift:** TUE timetable = morning bed exercises · garden/flowers or phone call · afternoon activity + compound walk · laughter moment · evening TV + chat + warm milk. 💆 **Masseuse DID NOT come today (Tue cadence day) — flag for reschedule/follow-up.** 🎀 **Kenus-spa (21 Oct) recurrence ask STILL OPEN** (owner-mandated: NEVER assume — did she enjoy wax+pedicure+manicure, want a recurrence?).
+- **Vitals:** none captured today (last: 16 Nov evening **BP 124/70 · P 68 · T 36.0** ✅). Evening vitals pending.
+- **Medication:** AVS kidney capsule (powdered) taken 2:23pm ✅. Evening Furosemide 20mg — pending report; **STOP/HOLD if BP <100 or >140 (RIGHT arm, standardise).**
+- **Dinner:** not yet reported (→ pending in MUM_FOOD_MASTER once received; TWO-MEAL/DAY ~10am + ~4pm is the Dr Morris pattern).
+- **Check-in:** Posted evening prompt to topic 4 (delivered via this job's `deliver` target) asking about dinner (what + how much), evening Furosemide 20mg + BP before dosing (RIGHT arm), pain/discomfort (back trending better — no recurrence of 10 Nov severe episode), energy/mood, and an overall day summary. **Plus: perceptual-episode reconfirm (one recurrence = Dr Morris SAME DAY); fluids hourly (Na 161 🚩); Imodium stock (out since 8 Sep — now 10+ wks); sodium-recheck labs (due ~24 Sep — STILL unconfirmed); milk replacement; confirm Tue 17 Nov masseuse no-show + reschedule; Kenus-spa recurrence ask; respect autonomy refusals (feet soak/evening bed-laying — calm, not episodes).** Pending caregiver response; no reminder if evening report already present.
+
+## 2026-11-17 (Tue) — Evening report 🟡 BACK-PAIN recurrence (STEPHANIE_SILENT_INTAKE 20:58)
+
+- **Status:** @5pm pineapple juice brought; @5:12pm sitting on bed scrolling phone; **@5:48pm complained of BACK PAIN — carer applied Aboniki balm to her back and encouraged her to lay flat on her back** (back-pain recurrence — last severe episode 10 Nov; before that across Aug–Sep); @6pm laying in bed, declined coming to living room to watch TV (prefers to lay down); @6:15pm declined Epsom-salt soak ("it's late", wants to sleep); @7:58pm lights off, goodnight.
+- **Uplift:** ✔️ Carer-encouraged lay-flat position for back relief (self-care). 💆 **Masseuse + plumber confirmed NOT coming today (Tue cadence day)** — reschedule flagged. Autonomy refusals (TV, Epsom, exercises) all calm — consistent with her evening boundary pattern, not episodes.
+- **Vitals:** none captured this session.
+- **Medication:** Furosemide 20mg — not reported this evening; do not assume given. **STOP/HOLD if BP <100 or >140 (RIGHT arm, standardise).** 💊 AVS kidney capsule already taken afternoon (2:23pm). **Aboniki balm applied topically for back pain** (accepted) — acceptable PRN.
+- **Dinner:** pineapple juice @5pm (phase-out watch 🍍); no solid dinner — early night ~8pm. (→ logged in MUM_FOOD_MASTER.)
+- **LOG KEYS:** Mood Fair · Appetite Fair · Urine Normal · Swelling Same · Skin Okay. 🟢
+- **Note:** ⚠️ **BACK PAIN recurrence** — last severe episode 10 Nov, acute pattern earlier (3 Aug, 28 Aug, 3 Sep, 9–13 Sep neck/back). Aboniki topical + lay-flat = reasonable PRN response. **Watch: if pain worsens/persists, restricts mobility, or recurs again tomorrow, flag for Dr Morris.** Keep the supported lay-flat position.
+
+## 2026-11-18 (Wed) — Evening ⏰ EVENING CHECK-IN POSTED
+
+- **Status:** 🟢 No caregiver report received yet today (last captured: 17 Nov evening — back-pain recurrence, Aboniki + lay-flat, early night ~8pm). Clean low-normal BP streak holds across every captured reading (9 Nov 126/78 → 13 Nov 112/68 → 14 Nov 120/75 → 16 Nov 111/69 + 124/70) — **Furosemide stop-rule (<100/>140) never triggered.** No recurrence of the 24 Oct perceptual episode. STEPHANIE_SILENT_INTAKE: **0 unprocessed of 56 total entries — all captured (last: 17 Nov evening @20:58); silent gap ~23h, NOT yet >2 days — no flag.** ⚠️ 17 Nov morning report never received (breakfast unlogged); 18 Nov morning/afternoon reports not yet received.
+- **Uplift:** WED timetable = morning bed exercises · garden/flowers or phone call · afternoon activity + compound walk · laughter moment · evening TV + chat + warm milk. 💆 **Masseuse + plumber both NO-SHOW Tue 17 Nov (cadence day) — reschedule still pending, asked again tonight.** 🎀 **Kenus-spa (21 Oct) recurrence ask STILL OPEN** (owner-mandated: NEVER assume — did she enjoy wax+pedicure+manicure, want a recurrence?). ✔️ Carer-supported lay-flat positioning for back pain 17 Nov (self-care ✓).
+- **Vitals:** none captured today (last: 16 Nov evening **BP 124/70 · P 68 · T 36.0** ✅). Evening vitals pending.
+- **Medication:** Furosemide 20mg — not reported today; do not assume given. **STOP/HOLD if BP <100 or >140 (RIGHT arm, standardise).** 💊 AVS kidney capsule (powdered, Dr Morris med) — status today pending.
+- **Dinner:** not yet reported (→ pending in MUM_FOOD_MASTER once received; TWO-MEAL/DAY ~10am + ~4pm is the Dr Morris pattern).
+- **Check-in:** Posted evening prompt to topic 4 (delivered via this job's `deliver` target) asking about dinner (what + how much), evening Furosemide 20mg + BP before dosing (RIGHT arm), pain/discomfort (back was active last night — status today? Aboniki + lay-flat working?), energy/mood, and an overall day summary. **Plus: perceptual-episode reconfirm (one recurrence = Dr Morris SAME DAY); fluids through the day (Na 161 🚩 — she drank ~1½ bottles on 16 Nov, below target; keep pushing); Imodium stock (out since 8 Sep — now 10+ wks); sodium-recheck labs (due ~24 Sep — STILL unconfirmed); milk replacement (spoilt 11–12 Oct); masseuse + plumber reschedule (both no-show 17 Nov); tiger-nut milk status (soaking since 16 Nov); Kenus-spa recurrence ask; respect autonomy refusals (feet soak/evening bed-laying — calm, not episodes).** Pending caregiver response; no reminder if evening report already present.

@@ -1,14 +1,14 @@
-# 2Real — Christmas Priority List (re-scan 2026-11-16)
+# 2Real — Christmas Priority List (re-scan 2026-11-17)
 
-_Source: 1396 live Jiji ads scraped 2026-11-16 15:13. Matched by model code + brand/spec + fuzzy + alias map._
+_Source: 1396 live Jiji ads scraped 2026-11-17 15:47. Matched by model code + brand/spec + fuzzy + alias map._
 
 | Verdict | Count |
 |---|---|
-| Confirmed LIVE on Jiji (already posted) | 46 |
+| Confirmed LIVE on Jiji (already posted) | 47 |
 | Ambiguous — needs your eye | 0 |
-| **Genuinely unlisted** | **245** |
+| **Genuinely unlisted** | **244** |
 
-**Verifiable profit still unlisted: GH₵ 29,934** (plus 131 items with no COGS recorded)
+**Verifiable profit still unlisted: GH₵ 29,994** (plus 131 items with no COGS recorded)
 
 ## Tier A — unlisted, known COGS, ranked by profit potential (margin × stock)
 
@@ -16,12 +16,12 @@ _Source: 1396 live Jiji ads scraped 2026-11-16 15:13. Matched by model code + br
 |---|---|---|---|---|---|---|
 | 1 | **Bosch GBM 13-2 RE 240v Rotary drill 13mm keyless chuck** | 1,800 | 250 | 1,550 | 1 | 1,550 |
 | 2 | **Black And Decker 18 Volt Lithium Ion 1.5 Ah Cordless Drill Driver BCD0** | 1,700 | 260 | 1,440 | 1 | 1,440 |
-| 3 | **Hippo Universal Wood Glue 500 Ml** | 350 | 60 | 290 | 3 | 870 |
-| 4 | **Bosch Expert Multi Material Carbide 115mm  Disc 2608 901188** | 350 | 140 | 210 | 4 | 840 |
-| 5 | **Enamel Paint & Special Sprays Racking Grey** | 75 | 5 | 70 | 12 | 840 |
-| 6 | **Hoselock 3-way Tap Connector 2250** | 470 | 110 | 360 | 2 | 720 |
-| 7 | **Black And Decker Ka230e Detail Sander 170w** | 900 | 200 | 700 | 1 | 700 |
-| 8 | **Frog Tape Delicate Surface 48 Mm X 41 M** | 250 | 30 | 220 | 3 | 660 |
+| 3 | **Ring Automotive RWL1000 1000 lumen work light With Power Bank** | 800 | 200 | 600 | 2 | 1,200 |
+| 4 | **Hippo Universal Wood Glue 500 Ml** | 350 | 60 | 290 | 3 | 870 |
+| 5 | **Bosch Expert Multi Material Carbide 115mm  Disc 2608 901188** | 350 | 140 | 210 | 4 | 840 |
+| 6 | **Enamel Paint & Special Sprays Racking Grey** | 75 | 5 | 70 | 12 | 840 |
+| 7 | **Hoselock 3-way Tap Connector 2250** | 470 | 110 | 360 | 2 | 720 |
+| 8 | **Black And Decker Ka230e Detail Sander 170w** | 900 | 200 | 700 | 1 | 700 |
 | 9 | **Bosch Drill Bits X25 Screwdriver Set** | 200 | 40 | 160 | 4 | 640 |
 | 10 | **Mac Allister Angle Grinder MSAG750** | 800 | 200 | 600 | 1 | 600 |
 | 11 | **Arlec Power Socket Stonegray Socket With USB 2 Gang** | 230 | 90 | 140 | 4 | 560 |
@@ -31,14 +31,14 @@ _Source: 1396 live Jiji ads scraped 2026-11-16 15:13. Matched by model code + br
 | 15 | **Ring Automotive Power source inverter 120 Watts** | 700 | 200 | 500 | 1 | 500 |
 | 16 | **CTEC CT1 Sealant Clear** | 200 | 100 | 100 | 5 | 500 |
 | 17 | **Master Plug Outdoor 15m Plug spike** | 700 | 220 | 480 | 1 | 480 |
-| 18 | **Stanley Screwdriver 068010 x10** | 300 | 60 | 240 | 2 | 480 |
-| 19 | **Wickes Three-piece Wrench Set** | 550 | 80 | 470 | 1 | 470 |
-| 20 | **JCB PPA Planer** | 650 | 200 | 450 | 1 | 450 |
-| 21 | **Stanley Fatmax V20 18 Volt 4 Amp Fast Charger** | 650 | 200 | 450 | 1 | 450 |
-| 22 | **Frog Tape Delicate Surface 24 Mm X 41 M** | 200 | 60 | 140 | 3 | 420 |
-| 23 | **Gardena 18321 Comfort Shower Hose** | 480 | 70 | 410 | 1 | 410 |
-| 24 | **Gardena Two Channel Water Distributor 8193** | 480 | 80 | 400 | 1 | 400 |
-| 25 | **Hitachi FJ 50VA Jigsaw** | 500 | 100 | 400 | 1 | 400 |
+| 18 | **Wickes Three-piece Wrench Set** | 550 | 80 | 470 | 1 | 470 |
+| 19 | **JCB PPA Planer** | 650 | 200 | 450 | 1 | 450 |
+| 20 | **Stanley Fatmax V20 18 Volt 4 Amp Fast Charger** | 650 | 200 | 450 | 1 | 450 |
+| 21 | **Frog Tape Delicate Surface 24 Mm X 41 M** | 200 | 60 | 140 | 3 | 420 |
+| 22 | **Gardena 18321 Comfort Shower Hose** | 480 | 70 | 410 | 1 | 410 |
+| 23 | **Gardena Two Channel Water Distributor 8193** | 480 | 80 | 400 | 1 | 400 |
+| 24 | **Hitachi FJ 50VA Jigsaw** | 500 | 100 | 400 | 1 | 400 |
+| 25 | **Master Plug 4 Plug 8m Cable Reel** | 400 | 200 | 200 | 2 | 400 |
 
 ## Tier B — COGS missing, margin NOT verifiable
 

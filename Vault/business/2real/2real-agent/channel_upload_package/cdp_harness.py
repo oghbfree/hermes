@@ -8,19 +8,50 @@ from websocket import create_connection
 
 _PORT_FILE = r"C:\Users\User\AppData\Local\hermes\browser-profile\chrome\DevToolsActivePort"
 
+def _cdp_alive(url, timeout=1.2):
+    """True only if something actually answers the DevTools endpoint."""
+    try:
+        urllib.request.urlopen(url.rstrip("/") + "/json/version", timeout=timeout).read()
+        return True
+    except Exception:
+        return False
+
+
 def _live_cdp_url():
-    """Connect to the persistent business browser (browser-profile/chrome) at its ACTUAL port,
-    read live from DevToolsActivePort each import. Chrome launches it with a RANDOM debug port,
-    so any hardcoded port (old 9222 / 64365) is stale and makes bots spawn a fresh unlogged-in
-    browser. DevToolsActivePort is the single source of truth. Env FB_CDP_URL still overrides."""
-    # Prefer the live active port from the profile — even if a caller set a stale FB_CDP_URL.
+    """Connect to the persistent business browser (browser-profile/chrome) at its ACTUAL port.
+
+    FIXED 17/11/26 — the old version trusted DevToolsActivePort blindly. That file goes STALE:
+    on this machine it read 63676 while the live browser was on 64365, so every script that
+    imports this harness failed with WinError 10061 'target machine actively refused it'
+    while the browser was perfectly healthy. That looked like a browser crash and was not.
+
+    Resolution order (each candidate must ANSWER before it is accepted):
+      1. DevToolsActivePort from the profile
+      2. FB_CDP_URL env override
+      3. probe the usual ports (64365 preferred, then 9222/9223)
+      4. give up and return the file value so the caller fails with a clear message
+    """
+    candidates = []
+
     try:
         port = open(_PORT_FILE).read().split("\n")[0].strip()
         if port.isdigit():
-            return f"http://localhost:{port}"
+            candidates.append(f"http://127.0.0.1:{port}")
     except OSError:
         pass
-    return os.environ.get("FB_CDP_URL", "http://localhost:64365").rstrip("/")
+
+    env = os.environ.get("FB_CDP_URL")
+    if env:
+        candidates.append(env.rstrip("/"))
+
+    candidates += ["http://127.0.0.1:64365", "http://127.0.0.1:9222", "http://127.0.0.1:9223"]
+
+    for u in candidates:
+        if _cdp_alive(u):
+            return u
+
+    # nothing answered — return the first candidate so the error names a real attempt
+    return candidates[0] if candidates else "http://127.0.0.1:64365"
 
 DEBUG_URL = _live_cdp_url()
 
