@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-18 09:18",
-  "day": "Wednesday 18 Nov 2026",
+  "generated": "2026-11-19 06:45",
+  "day": "Thursday 19 Nov 2026",
   "kanban": {
     "total": 272,
     "unique": 125,
@@ -831,16 +831,16 @@
   ],
   "routine_count": 60,
   "jiji": {
-    "total": 1395,
-    "active": 1392,
+    "total": 1407,
+    "active": 1404,
     "top_categories": [
       [
         "Hand Tools",
-        282
+        283
       ],
       [
         "Electrical Hand Tools",
-        149
+        152
       ],
       [
         "Video Games",
@@ -852,7 +852,7 @@
       ],
       [
         "Lighting",
-        53
+        55
       ],
       [
         "Toys & Games",
@@ -914,8 +914,8 @@
     "total_impressions": 1396
   },
   "credits": {
-    "error": "<urlopen error [Errno 11001] getaddrinfo failed>",
-    "rem": null
+    "rem": 2.92,
+    "total": 470
   },
   "sales": {
     "last": {

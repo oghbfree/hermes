@@ -60,5 +60,5 @@ Backup everything · update equipment · optimize security & privacy · back up 
 | FB Marketplace | `FB_MARKETPLACE_PLAYBOOK.md`, `channel_upload_package/` (fb_post_lib.py, fb_posted.json, next50.json) |
 | Sourcing (private intel) | `ghana-sourcing/SOURCING_PLAYBOOK.md`, `ghana_suppliers.md`, `2real-agent/sourcing_log.json` |
 | Batteries | `battery-sourcing/BATTERY_SOURCING_SHEET.md`, `SUPPLIER_COMPARISON.md` (~$893 split) |
-| Clearance | `2real-agent/clearance_plan.json`, `clearance_john_list.txt` |
+|| Clearance | `CLEARANCE_BUYERS.md` (exit channels: wholesale+scrap), `2real-agent/clearance_plan.json`, `clearance_john_list.txt` |
 | Nursing/elder care | `Nursing/` + family masters in `Vault/family/` |

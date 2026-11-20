@@ -14,6 +14,7 @@ Purpose: hand over 2Real's customer-messaging knowledge from Hermes to Meta's na
 - **@Angleenah** (12:04 "Can u send me a link") → **Jiji review link sent**: https://jiji.com.gh/opinions/rbPd2oROVhelYWPjYkQWbhpx (verified in thread).
 - **TEST MODE: HOLD** — waiting for first real customer to ping in; watch inbox, report agent's first live performance, then adjust as we go.
 - **FIRST LIVE TRIAL (08/11/26):** agent auto-answered 2 new chats (Bhavyaa/Jiji Lumix, @Alozo/Dyson DC26) — mechanics work (sent, "AI" labels). FAILED no-invent rule: invented "Canon EOS Kiss X4 @ 5500 GHS" (not in inventory), denied Panasonic Lumix (real: GHS 980), claimed live Jiji checks it can't do, no CTA anywhere, Swahili greeting to Ghana customer. → Feed static real price list; force "check with team + CTA 0204252252" on unknowns. Full log: MissionControl/wa_meta_watcher_events.log.
+> **LIVE TRIAL 20/11/26 00:2x (watcher):** agent AUTO-ANSWERED 2 chats in real time (mechanics good, instant send, no stuck drafts): (a) **+233 57 770 0555** (inverter order, customer furious, 2-wk delay) — replied 17:18 "I'm sorry for the frustration... passed your request for 1?? inverter to our team to arrange delivery for tomorrow, and someone will follow up to get your location and color preference." FLAGS: over-promises tomorrow delivery (can't commit), 3rd repeat of same canned apology template (13/11, 17/11, 19/11), garbled "1??" (emoji lost), NO CTA 0204252252. (b) **@Angleenah** (existing customer, photo chat) — replied 00:22-00:23 "Nice!" + "Thats what i call paying attention to the details" — generic AI compliment, tone risk, harmless. NO-ANSWER: Eric James (voice call only — correct), Oracle outfit tailor (no pending customer text; business "Evening" 20:06 sent — verify agent vs manual), Meta Agent system notice (knowledge auto-learned — H should review what got ingested). GOOD: no invented Jiji prices/stock this round. STRAY: composer draft "o" left in +233 50 005 3839 (delivery completed 19/11, order closed). Recommend: ban delivery-date promises in fed knowledge (use "we confirm slots by 09:00, check with team"), require CTA in every reply, review auto-learned knowledge. Full screenshot set in sat-nav scratch (wa_meta2_*/wa_p3_*).
 > **NOTE:** I CAN drive the WhatsApp Business UI directly (browser attach) — this doc + live fill both real. Remaining: H-review of toggle defaults (emojis/share-prices), decide prices-dynamic-vs-static, then flip agent live when ready.
 
 ---
@@ -141,3 +142,11 @@ Meta Business Agent is a knowledge-base assistant, NOT the Hermes gate. It will 
 
 ---
 *Source: 2Real SOP_DELIVERY_PROCESSING.md v1.0; whatsapp-customer-gate reply templates; 2real-enterprises-operations.*
+
+---
+## WATCHER LOG 2026-11-20 ~00:35 (cron 5e6ae6f7a4cc)
+- **+233 57 770 0555 (INVERTER — angry, 2+ weeks wait):** escalated overnight. Customer msgs: "What do we do now… no feedback", "over two weeks", "I spoke to my technician and he said Monday", "very unhappy", "first business together". Agent sent ANOTHER canned apology ("confirm the Monday update, someone will get back to you here") then **HANDED OFF → needs human reply.** CTA: resolve before Monday.
+- **@Angleenah (existing buyer):** agent auto-chatted casually/on-the-nose ("cute, slim, nice hair oh", "the lego figure was cute but u wear it better"). Unsent "😉" draft, still in AI mode. Tone-flavor flag only.
+- **+233 50 005 3839 (El):** no new; still unsent "o" draft after "Item received".
+- Meta system notices: learned from chats + read website + got info from 3 customers. Review auto-ingested knowledge.
+- Rules OK: no invented Jiji prices/stock; no new-customer follow-up; Stephanie/owner untouched.

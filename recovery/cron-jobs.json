@@ -22,15 +22,15 @@
       "schedule_display": "0 19 * * *",
       "repeat": {
         "times": null,
-        "completed": 153
+        "completed": 154
       },
       "enabled": true,
       "state": "scheduled",
       "paused_at": null,
       "paused_reason": null,
       "created_at": "2026-06-07T00:35:40.116212+01:00",
-      "next_run_at": "2026-11-19T19:00:00+00:00",
-      "last_run_at": "2026-11-18T19:29:36.166944+00:00",
+      "next_run_at": "2026-11-20T19:00:00+00:00",
+      "last_run_at": "2026-11-19T20:26:30.033350+00:00",
       "last_status": "ok",
       "last_error": null,
       "last_delivery_error": null,
@@ -44,13 +44,13 @@
       "provider_snapshot": null,
       "model_snapshot": null,
       "last_dispatch": {
-        "scheduled_at": "2026-11-18T19:00:00+00:00",
-        "dispatched_at": "2026-11-18T19:28:32.961620+00:00",
-        "lateness_seconds": 1713.0,
+        "scheduled_at": "2026-11-19T19:00:00+00:00",
+        "dispatched_at": "2026-11-19T20:25:06.608045+00:00",
+        "lateness_seconds": 5106.6,
         "kind": "late"
       },
       "canonical_completions": [
-        "3e873e8cc566422fbae8500e5571e480"
+        "e08c00fa1813404499a812aa37d1e081"
       ],
       "last_failure": {
         "at": "2026-11-14T19:12:56.938796+00:00",
@@ -77,39 +77,39 @@
       "schedule_display": "0 9 * * *",
       "repeat": {
         "times": null,
-        "completed": 157
+        "completed": 158
       },
       "enabled": true,
       "state": "scheduled",
       "paused_at": null,
       "paused_reason": null,
       "created_at": "2026-06-07T07:18:37.149115+01:00",
-      "next_run_at": "2026-11-19T09:00:00+00:00",
-      "last_run_at": "2026-11-18T09:23:04.108581+00:00",
-      "last_status": "error",
-      "last_error": "RuntimeError: Hermes can't reach the model provider. You may be offline. Check your internet connection and try again.",
-      "last_delivery_error": "live adapter send failed: send_path_degraded; live adapter delivery to telegram:-1003784520976:1 failed: send_path_degraded; delivery error: Telegram send failed: httpx.ConnectError: All connection attempts failed (target telegram:-1003784520976:1); queued text for telegram:-1003784520976:1 for redelivery once the live adapter reconnects",
+      "next_run_at": "2026-11-20T09:00:00+00:00",
+      "last_run_at": "2026-11-19T09:01:39.767695+00:00",
+      "last_status": "ok",
+      "last_error": null,
+      "last_delivery_error": null,
       "deliver": "origin",
       "origin": null,
       "enabled_toolsets": null,
       "workdir": null,
       "profile": null,
       "fire_claim": null,
-      "failure_streak": 1,
+      "failure_streak": 0,
       "provider_snapshot": null,
       "model_snapshot": null,
       "last_dispatch": {
-        "scheduled_at": "2026-11-18T09:00:00+00:00",
-        "dispatched_at": "2026-11-18T09:17:34.843681+00:00",
-        "lateness_seconds": 1054.8,
-        "kind": "late"
+        "scheduled_at": "2026-11-19T09:00:00+00:00",
+        "dispatched_at": "2026-11-19T09:00:37.118464+00:00",
+        "lateness_seconds": 37.1,
+        "kind": "on_time"
       },
       "last_failure": {
         "at": "2026-11-18T09:23:04.108581+00:00",
         "detail": "RuntimeError: Hermes can't reach the model provider. You may be offline. Check your internet connection and try again."
       },
       "canonical_completions": [
-        "d998310278e142e59f1fc2099943cb8d"
+        "d746b16aca0440c89acdd90bfc18c6be"
       ]
     },
     {
@@ -186,18 +186,18 @@
       "schedule_display": "4 8 * * *",
       "repeat": {
         "times": null,
-        "completed": 157
+        "completed": 158
       },
       "enabled": true,
       "state": "scheduled",
       "paused_at": null,
       "paused_reason": null,
       "created_at": "2026-06-07T07:18:47.582718+01:00",
-      "next_run_at": "2026-11-19T08:04:00+00:00",
-      "last_run_at": "2026-11-18T09:22:52.302005+00:00",
+      "next_run_at": "2026-11-20T08:04:00+00:00",
+      "last_run_at": "2026-11-19T08:41:44.363918+00:00",
       "last_status": "error",
       "last_error": "RuntimeError: Hermes can't reach the model provider. You may be offline. Check your internet connection and try again.",
-      "last_delivery_error": "live adapter send failed: send_path_degraded; live adapter delivery to telegram:-1003784520976:4 failed: send_path_degraded; delivery error: Telegram send failed: httpx.ConnectError: All connection attempts failed (target telegram:-1003784520976:4); queued text for telegram:-1003784520976:4 for redelivery once the live adapter reconnects",
+      "last_delivery_error": "delivery error: Telegram send failed: httpx.ConnectError: All connection attempts failed (target telegram:-1003784520976:4)",
       "deliver": "telegram:-1003784520976:4",
       "origin": null,
       "enabled_toolsets": [
@@ -208,21 +208,21 @@
       "workdir": "C:\\Users\\User\\.hermes\\workspace\\Vault\\family\\mum\\health",
       "profile": null,
       "fire_claim": null,
-      "failure_streak": 3,
+      "failure_streak": 4,
       "provider_snapshot": null,
       "model_snapshot": null,
       "last_dispatch": {
-        "scheduled_at": "2026-11-18T08:04:00+00:00",
-        "dispatched_at": "2026-11-18T09:17:34.843681+00:00",
-        "lateness_seconds": 4414.8,
+        "scheduled_at": "2026-11-19T08:04:00+00:00",
+        "dispatched_at": "2026-11-19T08:36:29.459095+00:00",
+        "lateness_seconds": 1949.5,
         "kind": "late"
       },
       "last_failure": {
-        "at": "2026-11-18T09:22:52.302005+00:00",
+        "at": "2026-11-19T08:41:44.363918+00:00",
         "detail": "RuntimeError: Hermes can't reach the model provider. You may be offline. Check your internet connection and try again."
       },
       "canonical_completions": [
-        "6ca908613b354c4380afe0c70e35a69f"
+        "d50b429ceef846ddb468e09d9b708827"
       ]
     },
     {
@@ -247,15 +247,15 @@
       "schedule_display": "0 13 * * *",
       "repeat": {
         "times": null,
-        "completed": 158
+        "completed": 159
       },
       "enabled": true,
       "state": "scheduled",
       "paused_at": null,
       "paused_reason": null,
       "created_at": "2026-06-07T07:18:49.643232+01:00",
-      "next_run_at": "2026-11-19T13:00:00+00:00",
-      "last_run_at": "2026-11-18T13:02:17.298076+00:00",
+      "next_run_at": "2026-11-20T13:00:00+00:00",
+      "last_run_at": "2026-11-19T13:02:33.834703+00:00",
       "last_status": "ok",
       "last_error": null,
       "last_delivery_error": null,
@@ -273,9 +273,9 @@
       "provider_snapshot": null,
       "model_snapshot": null,
       "last_dispatch": {
-        "scheduled_at": "2026-11-18T13:00:00+00:00",
-        "dispatched_at": "2026-11-18T13:00:55.775982+00:00",
-        "lateness_seconds": 55.8,
+        "scheduled_at": "2026-11-19T13:00:00+00:00",
+        "dispatched_at": "2026-11-19T13:00:31.199037+00:00",
+        "lateness_seconds": 31.2,
         "kind": "on_time"
       },
       "last_failure": {
@@ -283,7 +283,7 @@
         "detail": "RuntimeError: Hermes can't reach the model provider. You may be offline. Check your internet connection and try again."
       },
       "canonical_completions": [
-        "9c5d9809d9444bf5912da2427f44b671"
+        "f394a5bebe164bb092b558670ec434bd"
       ]
     },
     {
@@ -308,15 +308,15 @@
       "schedule_display": "0 19 * * *",
       "repeat": {
         "times": null,
-        "completed": 153
+        "completed": 154
       },
       "enabled": true,
       "state": "scheduled",
       "paused_at": null,
       "paused_reason": null,
       "created_at": "2026-06-07T07:18:51.780984+01:00",
-      "next_run_at": "2026-11-19T19:00:00+00:00",
-      "last_run_at": "2026-11-18T19:30:47.355866+00:00",
+      "next_run_at": "2026-11-20T19:00:00+00:00",
+      "last_run_at": "2026-11-19T20:27:08.949096+00:00",
       "last_status": "ok",
       "last_error": null,
       "last_delivery_error": null,
@@ -334,9 +334,9 @@
       "provider_snapshot": null,
       "model_snapshot": null,
       "last_dispatch": {
-        "scheduled_at": "2026-11-18T19:00:00+00:00",
-        "dispatched_at": "2026-11-18T19:28:32.961620+00:00",
-        "lateness_seconds": 1713.0,
+        "scheduled_at": "2026-11-19T19:00:00+00:00",
+        "dispatched_at": "2026-11-19T20:25:06.608045+00:00",
+        "lateness_seconds": 5106.6,
         "kind": "late"
       },
       "last_failure": {
@@ -344,7 +344,7 @@
         "detail": "RuntimeError: Hermes can't reach the model provider. You may be offline. Check your internet connection and try again."
       },
       "canonical_completions": [
-        "389c3fc470d54e49a98c2ed56a196c92"
+        "6a8eaf406f3245bf8f940a8e6df47975"
       ]
     },
     {
@@ -369,15 +369,15 @@
       "schedule_display": "4 8 * * *",
       "repeat": {
         "times": null,
-        "completed": 156
+        "completed": 157
       },
       "enabled": true,
       "state": "scheduled",
       "paused_at": null,
       "paused_reason": null,
       "created_at": "2026-06-07T07:18:53.848956+01:00",
-      "next_run_at": "2026-11-19T08:04:00+00:00",
-      "last_run_at": "2026-11-18T09:22:58.322773+00:00",
+      "next_run_at": "2026-11-20T08:04:00+00:00",
+      "last_run_at": "2026-11-19T08:41:57.833105+00:00",
       "last_status": "error",
       "last_error": "RuntimeError: Hermes can't reach the model provider. You may be offline. Check your internet connection and try again.",
       "last_delivery_error": null,
@@ -391,21 +391,21 @@
       "workdir": "C:\\Users\\User\\.hermes\\workspace\\Vault\\family\\H",
       "profile": null,
       "fire_claim": null,
-      "failure_streak": 2,
+      "failure_streak": 3,
       "provider_snapshot": null,
       "model_snapshot": null,
       "last_dispatch": {
-        "scheduled_at": "2026-11-18T08:04:00+00:00",
-        "dispatched_at": "2026-11-18T09:17:34.843681+00:00",
-        "lateness_seconds": 4414.8,
+        "scheduled_at": "2026-11-19T08:04:00+00:00",
+        "dispatched_at": "2026-11-19T08:36:29.459095+00:00",
+        "lateness_seconds": 1949.5,
         "kind": "late"
       },
       "last_failure": {
-        "at": "2026-11-18T09:22:58.322773+00:00",
+        "at": "2026-11-19T08:41:57.833105+00:00",
         "detail": "RuntimeError: Hermes can't reach the model provider. You may be offline. Check your internet connection and try again."
       },
       "canonical_completions": [
-        "16f89e47bd554f99883dfc00b3d18959"
+        "ca3a2c62a8934ed8a2554b3e0b5c97fc"
       ]
     },
     {
@@ -430,15 +430,15 @@
       "schedule_display": "0 13 * * *",
       "repeat": {
         "times": null,
-        "completed": 157
+        "completed": 158
       },
       "enabled": true,
       "state": "scheduled",
       "paused_at": null,
       "paused_reason": null,
       "created_at": "2026-06-07T07:18:55.920483+01:00",
-      "next_run_at": "2026-11-19T13:00:00+00:00",
-      "last_run_at": "2026-11-18T13:01:55.050275+00:00",
+      "next_run_at": "2026-11-20T13:00:00+00:00",
+      "last_run_at": "2026-11-19T13:00:55.284683+00:00",
       "last_status": "ok",
       "last_error": null,
       "last_delivery_error": null,
@@ -456,9 +456,9 @@
       "provider_snapshot": null,
       "model_snapshot": null,
       "last_dispatch": {
-        "scheduled_at": "2026-11-18T13:00:00+00:00",
-        "dispatched_at": "2026-11-18T13:00:55.775982+00:00",
-        "lateness_seconds": 55.8,
+        "scheduled_at": "2026-11-19T13:00:00+00:00",
+        "dispatched_at": "2026-11-19T13:00:31.199037+00:00",
+        "lateness_seconds": 31.2,
         "kind": "on_time"
       },
       "last_failure": {
@@ -466,7 +466,7 @@
         "detail": "RuntimeError: Hermes can't reach the model provider. You may be offline. Check your internet connection and try again."
       },
       "canonical_completions": [
-        "efad08afdfdc460d816c6d2a0c524fb3"
+        "90148bb5cd564624ae7fca9dd280e3d4"
       ]
     },
     {
@@ -491,15 +491,15 @@
       "schedule_display": "0 19 * * *",
       "repeat": {
         "times": null,
-        "completed": 153
+        "completed": 154
       },
       "enabled": true,
       "state": "scheduled",
       "paused_at": null,
       "paused_reason": null,
       "created_at": "2026-06-07T07:18:58.059275+01:00",
-      "next_run_at": "2026-11-19T19:00:00+00:00",
-      "last_run_at": "2026-11-18T19:30:04.956614+00:00",
+      "next_run_at": "2026-11-20T19:00:00+00:00",
+      "last_run_at": "2026-11-19T20:26:45.885200+00:00",
       "last_status": "ok",
       "last_error": null,
       "last_delivery_error": null,
@@ -517,13 +517,13 @@
       "provider_snapshot": null,
       "model_snapshot": null,
       "last_dispatch": {
-        "scheduled_at": "2026-11-18T19:00:00+00:00",
-        "dispatched_at": "2026-11-18T19:28:32.961620+00:00",
-        "lateness_seconds": 1713.0,
+        "scheduled_at": "2026-11-19T19:00:00+00:00",
+        "dispatched_at": "2026-11-19T20:25:06.608045+00:00",
+        "lateness_seconds": 5106.6,
         "kind": "late"
       },
       "canonical_completions": [
-        "a3464c109b4a46d1b108b9271fd9efe9"
+        "00fb143e1a4f4a8fa33fe562304220fa"
       ],
       "last_failure": {
         "at": "2026-11-14T19:12:57.057153+00:00",
@@ -654,39 +654,39 @@
       "schedule_display": "0 7 * * *",
       "repeat": {
         "times": null,
-        "completed": 297
+        "completed": 298
       },
       "enabled": true,
       "state": "scheduled",
       "paused_at": null,
       "paused_reason": null,
       "created_at": "2026-06-07T07:19:14.542277+01:00",
-      "next_run_at": "2026-11-19T07:00:00+00:00",
-      "last_run_at": "2026-11-18T09:22:57.977934+00:00",
-      "last_status": "error",
-      "last_error": "RuntimeError: Hermes can't reach the model provider. You may be offline. Check your internet connection and try again.",
-      "last_delivery_error": "live adapter send failed: send_path_degraded; live adapter delivery to telegram:-1003784520976:20 failed: send_path_degraded; delivery error: Telegram send failed: httpx.ConnectError: All connection attempts failed (target telegram:-1003784520976:20); queued text for telegram:-1003784520976:20 for redelivery once the live adapter reconnects",
+      "next_run_at": "2026-11-20T07:00:00+00:00",
+      "last_run_at": "2026-11-19T07:05:09.468950+00:00",
+      "last_status": "ok",
+      "last_error": null,
+      "last_delivery_error": null,
       "deliver": "telegram:-1003784520976:20",
       "origin": null,
       "enabled_toolsets": null,
       "workdir": null,
       "profile": null,
       "fire_claim": null,
-      "failure_streak": 1,
+      "failure_streak": 0,
       "provider_snapshot": null,
       "model_snapshot": null,
       "last_dispatch": {
-        "scheduled_at": "2026-11-18T07:00:00+00:00",
-        "dispatched_at": "2026-11-18T09:17:34.843681+00:00",
-        "lateness_seconds": 8254.8,
-        "kind": "catch_up"
+        "scheduled_at": "2026-11-19T07:00:00+00:00",
+        "dispatched_at": "2026-11-19T07:00:45.227519+00:00",
+        "lateness_seconds": 45.2,
+        "kind": "on_time"
       },
       "last_failure": {
         "at": "2026-11-18T09:22:57.977934+00:00",
         "detail": "RuntimeError: Hermes can't reach the model provider. You may be offline. Check your internet connection and try again."
       },
       "canonical_completions": [
-        "6ddd57b98b4d4cb89ac8550721906d47"
+        "7d0f76a9cef74a2597725d70d03c31d4"
       ]
     },
     {
@@ -819,34 +819,34 @@
       "schedule_display": "0 6 * * *",
       "repeat": {
         "times": null,
-        "completed": 102
+        "completed": 103
       },
       "enabled": true,
       "state": "scheduled",
       "paused_at": null,
       "paused_reason": null,
       "created_at": "2026-06-07T07:19:22.604845+01:00",
-      "next_run_at": "2026-11-20T06:00:00+00:00",
-      "last_run_at": "2026-11-18T09:23:04.051375+00:00",
-      "last_status": "error",
-      "last_error": "RuntimeError: Hermes can't reach the model provider. You may be offline. Check your internet connection and try again.",
-      "last_delivery_error": "live adapter send failed: send_path_degraded; live adapter delivery to telegram:-1003784520976:20 failed: send_path_degraded; delivery error: Telegram send failed: httpx.ConnectError: All connection attempts failed (target telegram:-1003784520976:20); queued text for telegram:-1003784520976:20 for redelivery once the live adapter reconnects",
+      "next_run_at": "2026-11-21T06:00:00+00:00",
+      "last_run_at": "2026-11-19T06:01:54.212795+00:00",
+      "last_status": "ok",
+      "last_error": null,
+      "last_delivery_error": null,
       "deliver": "telegram:-1003784520976:20",
       "origin": null,
       "enabled_toolsets": null,
       "workdir": null,
       "profile": null,
       "fire_claim": {
-        "at": "2026-11-19T06:00:45.587350+00:00",
-        "by": "DESKTOP-25Q3AQC:25084:c835098a84a542888c2d0b096dc64326"
+        "at": "2026-11-20T06:00:51.613045+00:00",
+        "by": "DESKTOP-25Q3AQC:25084:9f0e3cb829ca498ab3bf6eaed57b7b79"
       },
-      "failure_streak": 1,
+      "failure_streak": 0,
       "provider_snapshot": null,
       "model_snapshot": null,
       "last_dispatch": {
-        "scheduled_at": "2026-11-19T06:00:00+00:00",
-        "dispatched_at": "2026-11-19T06:00:45.201909+00:00",
-        "lateness_seconds": 45.2,
+        "scheduled_at": "2026-11-20T06:00:00+00:00",
+        "dispatched_at": "2026-11-20T06:00:51.237059+00:00",
+        "lateness_seconds": 51.2,
         "kind": "on_time"
       },
       "last_failure": {
@@ -854,7 +854,7 @@
         "detail": "RuntimeError: Hermes can't reach the model provider. You may be offline. Check your internet connection and try again."
       },
       "canonical_completions": [
-        "abe9c2a0656c43049544abf0d461e89b"
+        "1e61238d1c0c43cbbec1c3552d4ba4d4"
       ]
     },
     {
@@ -877,39 +877,39 @@
       "schedule_display": "0 8 * * *",
       "repeat": {
         "times": null,
-        "completed": 156
+        "completed": 157
       },
       "enabled": true,
       "state": "scheduled",
       "paused_at": null,
       "paused_reason": null,
       "created_at": "2026-06-07T07:19:26.671069+01:00",
-      "next_run_at": "2026-11-19T08:00:00+00:00",
-      "last_run_at": "2026-11-18T09:23:03.040114+00:00",
+      "next_run_at": "2026-11-20T08:00:00+00:00",
+      "last_run_at": "2026-11-19T08:41:51.889692+00:00",
       "last_status": "error",
       "last_error": "RuntimeError: Hermes can't reach the model provider. You may be offline. Check your internet connection and try again.",
-      "last_delivery_error": "live adapter send failed: send_path_degraded; live adapter delivery to telegram:-1003784520976:28 failed: send_path_degraded; delivery error: Telegram send failed: httpx.ConnectError: All connection attempts failed (target telegram:-1003784520976:28); queued text for telegram:-1003784520976:28 for redelivery once the live adapter reconnects",
+      "last_delivery_error": "delivery error: Telegram send failed: httpx.ConnectError: All connection attempts failed (target telegram:-1003784520976:28)",
       "deliver": "telegram:-1003784520976:28",
       "origin": null,
       "enabled_toolsets": null,
       "workdir": null,
       "profile": null,
       "fire_claim": null,
-      "failure_streak": 2,
+      "failure_streak": 3,
       "provider_snapshot": null,
       "model_snapshot": null,
       "last_dispatch": {
-        "scheduled_at": "2026-11-18T08:00:00+00:00",
-        "dispatched_at": "2026-11-18T09:17:34.843681+00:00",
-        "lateness_seconds": 4654.8,
+        "scheduled_at": "2026-11-19T08:00:00+00:00",
+        "dispatched_at": "2026-11-19T08:36:29.459095+00:00",
+        "lateness_seconds": 2189.5,
         "kind": "late"
       },
       "last_failure": {
-        "at": "2026-11-18T09:23:03.040114+00:00",
+        "at": "2026-11-19T08:41:51.889692+00:00",
         "detail": "RuntimeError: Hermes can't reach the model provider. You may be offline. Check your internet connection and try again."
       },
       "canonical_completions": [
-        "c4a28041a9bb4ac49269182cf81a5339"
+        "c6198ed927094ab9a39b723fb8bba06e"
       ]
     },
     {
@@ -932,31 +932,31 @@
       "schedule_display": "18 10 * * 0,1,2,3,4,5,6",
       "repeat": {
         "times": null,
-        "completed": 129
+        "completed": 130
       },
       "enabled": true,
       "state": "scheduled",
       "paused_at": null,
       "paused_reason": null,
       "created_at": "2026-06-07T07:19:30.748528+01:00",
-      "next_run_at": "2026-11-19T10:18:00+00:00",
-      "last_run_at": "2026-11-18T10:23:50.952134+00:00",
-      "last_status": "error",
-      "last_error": "RuntimeError: Hermes can't reach the model provider. You may be offline. Check your internet connection and try again.",
-      "last_delivery_error": "delivery error: Telegram send failed: httpx.ConnectError: All connection attempts failed (target telegram:-1003784520976:1)",
+      "next_run_at": "2026-11-20T10:18:00+00:00",
+      "last_run_at": "2026-11-19T10:21:43.346611+00:00",
+      "last_status": "ok",
+      "last_error": null,
+      "last_delivery_error": null,
       "deliver": "origin",
       "origin": null,
       "enabled_toolsets": null,
       "workdir": null,
       "profile": null,
       "fire_claim": null,
-      "failure_streak": 1,
+      "failure_streak": 0,
       "provider_snapshot": null,
       "model_snapshot": null,
       "last_dispatch": {
-        "scheduled_at": "2026-11-18T10:18:00+00:00",
-        "dispatched_at": "2026-11-18T10:18:55.843430+00:00",
-        "lateness_seconds": 55.8,
+        "scheduled_at": "2026-11-19T10:18:00+00:00",
+        "dispatched_at": "2026-11-19T10:18:32.168244+00:00",
+        "lateness_seconds": 32.2,
         "kind": "on_time"
       },
       "last_failure": {
@@ -964,7 +964,7 @@
         "detail": "RuntimeError: Hermes can't reach the model provider. You may be offline. Check your internet connection and try again."
       },
       "canonical_completions": [
-        "5596fbf9319145eba484a8a85fc8d9b8"
+        "6638fa59d32f49eb8f7781924a273874"
       ]
     },
     {
@@ -987,15 +987,15 @@
       "schedule_display": "4 10 * * 0,1,4",
       "repeat": {
         "times": null,
-        "completed": 65
+        "completed": 66
       },
       "enabled": true,
       "state": "scheduled",
       "paused_at": null,
       "paused_reason": null,
       "created_at": "2026-06-07T07:19:32.793956+01:00",
-      "next_run_at": "2026-11-19T10:04:00+00:00",
-      "last_run_at": "2026-11-16T10:05:25.538081+00:00",
+      "next_run_at": "2026-11-22T10:04:00+00:00",
+      "last_run_at": "2026-11-19T10:05:58.730509+00:00",
       "last_status": "ok",
       "last_error": null,
       "last_delivery_error": null,
@@ -1009,9 +1009,9 @@
       "provider_snapshot": null,
       "model_snapshot": null,
       "last_dispatch": {
-        "scheduled_at": "2026-11-16T10:04:00+00:00",
-        "dispatched_at": "2026-11-16T10:04:00.418305+00:00",
-        "lateness_seconds": 0.4,
+        "scheduled_at": "2026-11-19T10:04:00+00:00",
+        "dispatched_at": "2026-11-19T10:04:31.282995+00:00",
+        "lateness_seconds": 31.3,
         "kind": "on_time"
       },
       "last_failure": {
@@ -1019,7 +1019,7 @@
         "detail": "Hermes stopped because your settings file (C:\\Users\\User\\AppData\\Local\\hermes\\config.yaml) has a formatting error at line 289. Fix it with `hermes config edit` and check with `hermes config check`, or add --ignore-user-config to run once with default settings. Details: found duplicate key \"platforms\" with value \"{}\" (original value: \"{}\")"
       },
       "canonical_completions": [
-        "d8fc6786a3d44549b5280324826da3b9"
+        "9d7ff5e2f7f34ba08c80014a21830262"
       ]
     },
     {
@@ -1243,39 +1243,39 @@
       "schedule_display": "0 9 * * *",
       "repeat": {
         "times": null,
-        "completed": 155
+        "completed": 156
       },
       "enabled": true,
       "state": "scheduled",
       "paused_at": null,
       "paused_reason": null,
       "created_at": "2026-06-07T23:07:14.607446+01:00",
-      "next_run_at": "2026-11-19T09:00:00+00:00",
-      "last_run_at": "2026-11-18T09:23:09.760322+00:00",
-      "last_status": "error",
-      "last_error": "RuntimeError: Hermes can't reach the model provider. You may be offline. Check your internet connection and try again.",
-      "last_delivery_error": "live adapter send failed: send_path_degraded; live adapter delivery to telegram:-1003784520976:1 failed: send_path_degraded; delivery error: Telegram send failed: httpx.ConnectError: All connection attempts failed (target telegram:-1003784520976:1); queued text for telegram:-1003784520976:1 for redelivery once the live adapter reconnects",
+      "next_run_at": "2026-11-20T09:00:00+00:00",
+      "last_run_at": "2026-11-19T09:01:59.872550+00:00",
+      "last_status": "ok",
+      "last_error": null,
+      "last_delivery_error": null,
       "deliver": "origin",
       "origin": null,
       "enabled_toolsets": null,
       "workdir": null,
       "profile": null,
       "fire_claim": null,
-      "failure_streak": 1,
+      "failure_streak": 0,
       "provider_snapshot": null,
       "model_snapshot": null,
       "last_dispatch": {
-        "scheduled_at": "2026-11-18T09:00:00+00:00",
-        "dispatched_at": "2026-11-18T09:17:34.843681+00:00",
-        "lateness_seconds": 1054.8,
-        "kind": "late"
+        "scheduled_at": "2026-11-19T09:00:00+00:00",
+        "dispatched_at": "2026-11-19T09:00:37.118464+00:00",
+        "lateness_seconds": 37.1,
+        "kind": "on_time"
       },
       "last_failure": {
         "at": "2026-11-18T09:23:09.760322+00:00",
         "detail": "RuntimeError: Hermes can't reach the model provider. You may be offline. Check your internet connection and try again."
       },
       "canonical_completions": [
-        "b83dfa74557946b79284a8513031b4ac"
+        "89fff8e4c43e4be5b7c19f59c66e1dc8"
       ]
     },
     {
@@ -1300,15 +1300,15 @@
       "schedule_display": "0 10 */3 * *",
       "repeat": {
         "times": null,
-        "completed": 49
+        "completed": 50
       },
       "enabled": true,
       "state": "scheduled",
       "paused_at": null,
       "paused_reason": null,
       "created_at": "2026-06-23T02:09:57.632312+01:00",
-      "next_run_at": "2026-11-19T10:00:00+00:00",
-      "last_run_at": "2026-11-16T10:01:23.313187+00:00",
+      "next_run_at": "2026-11-22T10:00:00+00:00",
+      "last_run_at": "2026-11-19T10:03:11.910627+00:00",
       "last_status": "ok",
       "last_error": null,
       "last_delivery_error": null,
@@ -1321,9 +1321,9 @@
       "provider_snapshot": null,
       "model_snapshot": null,
       "last_dispatch": {
-        "scheduled_at": "2026-11-16T10:00:00+00:00",
-        "dispatched_at": "2026-11-16T10:00:00.368954+00:00",
-        "lateness_seconds": 0.4,
+        "scheduled_at": "2026-11-19T10:00:00+00:00",
+        "dispatched_at": "2026-11-19T10:00:31.211579+00:00",
+        "lateness_seconds": 31.2,
         "kind": "on_time"
       },
       "last_failure": {
@@ -1331,7 +1331,7 @@
         "detail": "RuntimeError: Hermes can't reach the model provider. You may be offline. Check your internet connection and try again."
       },
       "canonical_completions": [
-        "b91fcbc627894043b65c4a9d14c85d56"
+        "8c55f0880ac24485ae598eefa7476675"
       ]
     },
     {
@@ -1801,18 +1801,18 @@
       "schedule_display": "0 8 * * *",
       "repeat": {
         "times": null,
-        "completed": 118
+        "completed": 119
       },
       "enabled": true,
       "state": "scheduled",
       "paused_at": null,
       "paused_reason": null,
       "created_at": "2026-07-18T04:12:38.493477+01:00",
-      "next_run_at": "2026-11-19T08:00:00+00:00",
-      "last_run_at": "2026-11-18T09:22:58.411964+00:00",
+      "next_run_at": "2026-11-20T08:00:00+00:00",
+      "last_run_at": "2026-11-19T08:41:46.607750+00:00",
       "last_status": "error",
       "last_error": "RuntimeError: Hermes can't reach the model provider. You may be offline. Check your internet connection and try again.",
-      "last_delivery_error": "live adapter send failed: send_path_degraded; live adapter delivery to telegram:123286468 failed: send_path_degraded; delivery error: Telegram send failed: httpx.ConnectError: All connection attempts failed (target telegram:123286468); queued text for telegram:123286468 for redelivery once the live adapter reconnects",
+      "last_delivery_error": "delivery error: Telegram send failed: httpx.ConnectError: All connection attempts failed (target telegram:123286468)",
       "deliver": "telegram:123286468",
       "origin": {
         "platform": "telegram",
@@ -1824,19 +1824,19 @@
       "enabled_toolsets": null,
       "workdir": null,
       "fire_claim": null,
-      "failure_streak": 2,
+      "failure_streak": 3,
       "last_dispatch": {
-        "scheduled_at": "2026-11-18T08:00:00+00:00",
-        "dispatched_at": "2026-11-18T09:17:34.843681+00:00",
-        "lateness_seconds": 4654.8,
+        "scheduled_at": "2026-11-19T08:00:00+00:00",
+        "dispatched_at": "2026-11-19T08:36:29.459095+00:00",
+        "lateness_seconds": 2189.5,
         "kind": "late"
       },
       "last_failure": {
-        "at": "2026-11-18T09:22:58.411964+00:00",
+        "at": "2026-11-19T08:41:46.607750+00:00",
         "detail": "RuntimeError: Hermes can't reach the model provider. You may be offline. Check your internet connection and try again."
       },
       "canonical_completions": [
-        "50b13075667d4dcf9d41b22198e14ac9"
+        "9b685c715e8448ad88ec68a03c346e58"
       ]
     },
     {
@@ -2181,15 +2181,15 @@
       "schedule_display": "5 22 * * *",
       "repeat": {
         "times": null,
-        "completed": 93
+        "completed": 94
       },
       "enabled": true,
       "state": "scheduled",
       "paused_at": null,
       "paused_reason": null,
       "created_at": "2026-08-17T20:00:34.809937+00:00",
-      "next_run_at": "2026-11-19T22:05:00+00:00",
-      "last_run_at": "2026-11-18T22:13:55.512580+00:00",
+      "next_run_at": "2026-11-20T22:05:00+00:00",
+      "last_run_at": "2026-11-20T00:11:16.249918+00:00",
       "last_status": "ok",
       "last_error": null,
       "last_delivery_error": null,
@@ -2200,13 +2200,13 @@
       "fire_claim": null,
       "failure_streak": 0,
       "last_dispatch": {
-        "scheduled_at": "2026-11-18T22:05:00+00:00",
-        "dispatched_at": "2026-11-18T22:05:45.293656+00:00",
-        "lateness_seconds": 45.3,
-        "kind": "on_time"
+        "scheduled_at": "2026-11-19T22:05:00+00:00",
+        "dispatched_at": "2026-11-20T00:02:46.065595+00:00",
+        "lateness_seconds": 7066.1,
+        "kind": "late"
       },
       "canonical_completions": [
-        "d9b2bea119514ada93690efa5eddd294"
+        "c145c64062a148d084d30964817ba666"
       ]
     },
     {
@@ -2237,7 +2237,7 @@
         "completed": 63
       },
       "enabled": false,
-      "state": "scheduled",
+      "state": "paused",
       "paused_at": null,
       "paused_reason": null,
       "created_at": "2026-08-17T20:08:03.990334+00:00",
@@ -2271,8 +2271,8 @@
       "skill": null,
       "model": "deepseek/deepseek-v4-flash-0731",
       "provider": "openrouter",
-      "provider_snapshot": null,
-      "model_snapshot": null,
+      "provider_snapshot": "openrouter",
+      "model_snapshot": "deepseek/deepseek-v4-flash",
       "base_url": null,
       "script": null,
       "no_agent": false,
@@ -2456,28 +2456,28 @@
       "schedule_display": "0 10 * * *",
       "repeat": {
         "times": null,
-        "completed": 212
+        "completed": 213
       },
       "enabled": true,
       "state": "scheduled",
       "paused_at": null,
       "paused_reason": null,
       "created_at": "2026-09-29T20:22:28.049585+00:00",
-      "next_run_at": "2026-11-19T10:00:00+00:00",
-      "last_run_at": "2026-11-18T10:05:48.278220+00:00",
-      "last_status": "error",
-      "last_error": "RuntimeError: Hermes can't reach the model provider. You may be offline. Check your internet connection and try again.",
-      "last_delivery_error": "delivery error: Telegram send failed: httpx.ConnectError: All connection attempts failed (target telegram:-1003784520976:1)",
+      "next_run_at": "2026-11-20T10:00:00+00:00",
+      "last_run_at": "2026-11-19T10:20:06.472022+00:00",
+      "last_status": "ok",
+      "last_error": null,
+      "last_delivery_error": null,
       "last_delivery_unverified": null,
-      "failure_streak": 1,
+      "failure_streak": 0,
       "deliver": "origin",
       "origin": null,
       "enabled_toolsets": null,
       "workdir": null,
       "last_dispatch": {
-        "scheduled_at": "2026-11-18T10:00:00+00:00",
-        "dispatched_at": "2026-11-18T10:00:55.836089+00:00",
-        "lateness_seconds": 55.8,
+        "scheduled_at": "2026-11-19T10:00:00+00:00",
+        "dispatched_at": "2026-11-19T10:00:31.211579+00:00",
+        "lateness_seconds": 31.2,
         "kind": "on_time"
       },
       "fire_claim": null,
@@ -2486,8 +2486,10 @@
         "detail": "RuntimeError: Hermes can't reach the model provider. You may be offline. Check your internet connection and try again."
       },
       "canonical_completions": [
-        "5157bbb1bb8b46c3897e4ffd7520e4be"
-      ]
+        "2b05194dee1b4efa820ce706c08464d4"
+      ],
+      "provider_snapshot": "openrouter",
+      "model_snapshot": "deepseek/deepseek-v4-flash"
     },
     {
       "id": "18cee69a1011",
@@ -2514,15 +2516,15 @@
       "schedule_display": "0 9 * * *",
       "repeat": {
         "times": null,
-        "completed": 78
+        "completed": 79
       },
       "enabled": true,
       "state": "scheduled",
       "paused_at": null,
       "paused_reason": null,
       "created_at": "2026-10-12T03:45:58.527173+00:00",
-      "next_run_at": "2026-11-19T09:00:00+00:00",
-      "last_run_at": "2026-11-19T02:34:49.095992+00:00",
+      "next_run_at": "2026-11-20T09:00:00+00:00",
+      "last_run_at": "2026-11-19T09:27:44.710066+00:00",
       "last_status": "ok",
       "last_error": null,
       "last_delivery_error": null,
@@ -2534,18 +2536,20 @@
       "workdir": null,
       "fire_claim": null,
       "last_dispatch": {
-        "scheduled_at": "2026-11-18T09:00:00+00:00",
-        "dispatched_at": "2026-11-18T09:17:34.843681+00:00",
-        "lateness_seconds": 1054.8,
-        "kind": "late"
+        "scheduled_at": "2026-11-19T09:00:00+00:00",
+        "dispatched_at": "2026-11-19T09:00:37.118464+00:00",
+        "lateness_seconds": 37.1,
+        "kind": "on_time"
       },
       "last_failure": {
         "at": "2026-11-18T09:23:03.318673+00:00",
         "detail": "RuntimeError: Hermes can't reach the model provider. You may be offline. Check your internet connection and try again."
       },
       "canonical_completions": [
-        "dd8754a4b60d4935b8e8435f9d7561c5"
-      ]
+        "3df23dcf3f7b4eaca123eea680efd848"
+      ],
+      "provider_snapshot": "openrouter",
+      "model_snapshot": "deepseek/deepseek-v4-flash"
     },
     {
       "id": "0c0f87b59450",
@@ -2570,24 +2574,24 @@
       "schedule_display": "0 10 * * *",
       "repeat": {
         "times": null,
-        "completed": 68
+        "completed": 69
       },
       "enabled": true,
       "state": "scheduled",
       "paused_at": null,
       "paused_reason": null,
       "created_at": "2026-10-15T04:57:40.983008+00:00",
-      "next_run_at": "2026-11-19T10:00:00+00:00",
-      "last_run_at": "2026-11-18T10:06:04.069499+00:00",
-      "last_status": "error",
-      "last_error": "RuntimeError: Hermes can't reach the model provider. You may be offline. Check your internet connection and try again.",
-      "last_delivery_error": "delivery error: Telegram send failed: httpx.ConnectError: All connection attempts failed (target telegram:-1003784520976:1)",
+      "next_run_at": "2026-11-20T10:00:00+00:00",
+      "last_run_at": "2026-11-19T10:31:40.273843+00:00",
+      "last_status": "ok",
+      "last_error": null,
+      "last_delivery_error": null,
       "last_delivery_unverified": null,
       "last_failure": {
         "at": "2026-11-18T10:06:04.069499+00:00",
         "detail": "RuntimeError: Hermes can't reach the model provider. You may be offline. Check your internet connection and try again."
       },
-      "failure_streak": 2,
+      "failure_streak": 0,
       "deliver": "telegram:-1003784520976:1",
       "origin": null,
       "enabled_toolsets": null,
@@ -2595,13 +2599,13 @@
       "fire_claim": null,
       "paused": true,
       "last_dispatch": {
-        "scheduled_at": "2026-11-18T10:00:00+00:00",
-        "dispatched_at": "2026-11-18T10:00:55.836089+00:00",
-        "lateness_seconds": 55.8,
+        "scheduled_at": "2026-11-19T10:00:00+00:00",
+        "dispatched_at": "2026-11-19T10:00:31.211579+00:00",
+        "lateness_seconds": 31.2,
         "kind": "on_time"
       },
       "canonical_completions": [
-        "9446826680e74a6688ffacf542333c26"
+        "83f96a86b3a34ad5856beb432e35ebc3"
       ]
     },
     {
@@ -2635,7 +2639,9 @@
       "provider": "openrouter",
       "canonical_completions": [
         "c398dcb70bbb448da411ad4c38d50975"
-      ]
+      ],
+      "provider_snapshot": "openrouter",
+      "model_snapshot": "deepseek/deepseek-v4-flash"
     },
     {
       "id": "a48d35a53ed5",
@@ -2652,29 +2658,31 @@
       "deliver": "origin",
       "repeat": {
         "times": null,
-        "completed": 31
+        "completed": 32
       },
-      "next_run_at": "2026-11-20T04:30:00+00:00",
+      "next_run_at": "2026-11-21T04:30:00+00:00",
       "last_dispatch": {
-        "scheduled_at": "2026-11-19T04:30:00+00:00",
-        "dispatched_at": "2026-11-19T04:30:45.182171+00:00",
-        "lateness_seconds": 45.2,
+        "scheduled_at": "2026-11-20T04:30:00+00:00",
+        "dispatched_at": "2026-11-20T04:30:51.269666+00:00",
+        "lateness_seconds": 51.3,
         "kind": "on_time"
       },
       "fire_claim": null,
-      "last_run_at": "2026-11-19T04:31:15.639769+00:00",
+      "last_run_at": "2026-11-20T04:32:04.290840+00:00",
       "last_status": "ok",
       "last_error": null,
       "failure_streak": 0,
       "last_delivery_error": null,
       "state": "scheduled",
       "canonical_completions": [
-        "6916666785414bee950d7314cebfd38b"
+        "935d96684034468095388891e4e0e640"
       ],
       "last_failure": {
         "at": "2026-11-15T04:56:05.022352+00:00",
         "detail": "RuntimeError: Hermes can't reach the model provider. You may be offline. Check your internet connection and try again."
-      }
+      },
+      "provider_snapshot": "openrouter",
+      "model_snapshot": "deepseek/deepseek-v4-flash"
     },
     {
       "id": "13a1edb06ab3",
@@ -2714,7 +2722,7 @@
     {
       "id": "495290ec458a",
       "name": "2Real — Weekly Competitor & Price Scan",
-      "enabled": true,
+      "enabled": false,
       "schedule": {
         "kind": "cron",
         "expr": "30 5 * * 2",
@@ -2746,14 +2754,16 @@
       "last_error": "RuntimeError: Operation interrupted: waiting for model response (1.3s elapsed).",
       "failure_streak": 1,
       "last_delivery_error": "configured thread_id 5 for telegram:-1003784520976:5 was not found; delivered without thread_id",
-      "state": "scheduled",
+      "state": "paused",
       "canonical_completions": [
         "236d330441b2424ea38a32ab16084f83"
       ],
       "last_failure": {
         "at": "2026-11-17T05:45:45.807249+00:00",
         "detail": "RuntimeError: Operation interrupted: waiting for model response (1.3s elapsed)."
-      }
+      },
+      "paused_at": "2026-11-20T03:17:51.488274+00:00",
+      "paused_reason": "auto-disabled: enabled+paused contradiction"
     },
     {
       "id": "ad2ac91431cb",
@@ -2780,15 +2790,15 @@
       "schedule_display": "0 18 * * 1-6",
       "repeat": {
         "times": null,
-        "completed": 23
+        "completed": 24
       },
       "enabled": true,
       "state": "scheduled",
       "paused_at": null,
       "paused_reason": null,
       "created_at": "2026-10-23T09:13:51.641120+00:00",
-      "next_run_at": "2026-11-19T18:00:00+00:00",
-      "last_run_at": "2026-11-18T18:01:54.646004+00:00",
+      "next_run_at": "2026-11-20T18:00:00+00:00",
+      "last_run_at": "2026-11-19T20:26:41.888431+00:00",
       "last_status": "ok",
       "last_error": null,
       "last_delivery_error": null,
@@ -2808,15 +2818,17 @@
       ],
       "workdir": "C:\\Users\\User\\.hermes\\workspace\\Vault\\business\\2real",
       "last_dispatch": {
-        "scheduled_at": "2026-11-18T18:00:00+00:00",
-        "dispatched_at": "2026-11-18T18:00:56.182706+00:00",
-        "lateness_seconds": 56.2,
-        "kind": "on_time"
+        "scheduled_at": "2026-11-19T18:00:00+00:00",
+        "dispatched_at": "2026-11-19T20:25:06.608045+00:00",
+        "lateness_seconds": 8706.6,
+        "kind": "catch_up"
       },
       "fire_claim": null,
       "canonical_completions": [
-        "415f6073b6d342808ac88421e02797b6"
-      ]
+        "ad3a857f322a4f4fb26d2ce5963697a5"
+      ],
+      "provider_snapshot": "openrouter",
+      "model_snapshot": "deepseek/deepseek-v4-flash"
     },
     {
       "name": "2Real — Daily Morning Brief (ONE, consolidated)",
@@ -2828,29 +2840,29 @@
         "display": "0 7 * * *"
       },
       "deliver": "telegram:-1003784520976:1",
-      "prompt": "You are the ONE consolidated DAILY MORNING BRIEF for H — the single 07:00 Telegram message (topic 1) that replaces the old Morning Number Briefing + Daily Jiji Report + Daily Operations Check + CoS Bot Digest + weekly intelligence. Deliver ONE phone-readable message, under ~1,000 chars, scannable in 30 seconds. NO other morning briefs will run — this is the only one, so it must be complete.\n\nREAD LIVE, NEVER HARDCODE. Sources:\n1. SALES: C:\\Users\\User\\.hermes\\workspace\\Vault\\business\\2real\\daily-sales-log.md (latest data row) — yesterday's actual, target 2,500 GH₵, break-even ~1,111, margin if COGS logged.\n2. JIJI + OPS: stock check + today's day-location. Read the live Jiji listing count from C:\\Users\\User\\.hermes\\workspace\\Vault\\business\\2real\\2real-agent\\jiji_listings_full.json (field count / items length — DO NOT hardcode; H adds listings daily). Jiji is the source of truth; never quote Zobaze inventory_agent.json (stale).\n3. TEAM DIGEST (what the bots did since yesterday): compare each job's last_run_at in C:\\Users\\User\\AppData\\Local\\hermes\\cron\\jobs.json and profiles/<name>/cron/jobs.json against 24h ago; note recent outputs + any enabled job that did NOT run when scheduled. Check last-modified times of key vault files (daily-sales-log.md, daily-expenses-log.md) to see what was logged. Run `hermes kanban list` for recent done/todo.\n4. CUSTOMER INQUIRY FLAGS: scan C:\\Users\\User\\.hermes\\workspace\\Vault\\business\\2real\\2real-agent\\customer-interactions.md for SLA breaches (>24h unanswered) — list ONLY urgent ones.\n5. URGENT ONLY: cron failures, payments due today (Fluid CC 15th, Hughie 25th, etc.), any price-drop/new-group/hire awaiting H's OK.\n\nEXCLUDE Mum & H HEALTH from this brief — those stay in their own tracking (Mum topic 4, H separate). Never put personal/medical content here.\n\nFORMAT (exactly this shape):\n☀️ [DATE] — Morning Brief\n\n📊 NUMBER: yesterday GHS [actual] (target 2,500 | margin [%] if logged | pace: [on/drifting] vs break-even)\n📍 TODAY: [Mon=Oyarifa / Tue-Sat=Dome Market] · Jiji live [N] listings\n📥 CUSTOMER: [N SLA flags] — [names/items, or 'all clear']\n✅ DONE [yesterday]: 3-5 bullets, bots actually did (postings, sales logged, tasks ticked)\n⚠️ NEEDS OK: [anything awaiting approval, else 'Nothing']\n🎯 DO FIRST: the ONE action for H this morning (highest-impact, money/business first)\n\nEnd with one honest line: on track vs this week's 2,500/day goal? Say plainly if drifting. Never fabricate numbers — cite real names/values only.\n\nNo Mum health, no H medical. This is business + day + priorities only. Keep it terse, real, scannable.",
+      "prompt": "You are the ONE consolidated DAILY MORNING BRIEF for H — the single 07:00 Telegram message (topic 1) that replaces the old Morning Number Briefing + Daily Jiji Report + Daily Operations Check + CoS Bot Digest + Market Seller Briefing + weekly intelligence. Deliver ONE phone-readable message, under ~1,200 chars, scannable in 30 seconds. NO other morning briefs will run — this is the only one, so it must be complete.\n\nREAD LIVE, NEVER HARDCODE. Sources:\n1. SALES: C:\\Users\\User\\.hermes\\workspace\\Vault\\business\\2real\\daily-sales-log.md (latest data row) — yesterday's actual, target 2,500 GH₵, break-even ~1,111, margin if COGS logged.\n2. JIJI + OPS: stock check + today's day-location. Read the live Jiji listing count from C:\\Users\\User\\.hermes\\workspace\\Vault\\business\\2real\\2real-agent\\jiji_listings_full.json (field count / items length — DO NOT hardcode; H adds listings daily). Jiji is the source of truth; never quote Zobaze inventory_agent.json (stale).\n3. MARKET INTELLIGENCE (on market days Tue-Sat only):\n   - WEATHER (6-10 AM): Windy.app rain radar (https://www.windy.com/-Rain-thunderstorms/rain,radar?rain,radar) — will it rain 6-10 AM over Accra/Dome? One-line action: \"Pack tarps\" / \"Clear — full display\"\n   - TRANSPORT: Yango estimates for Dome Market (Oyarifa→Dome ~30-45 GHS, Weija→Dome ~40-60 GHS at 4:40 AM). State \"estimated\" clearly.\n4. TEAM DIGEST (what the bots did since yesterday): compare each job's last_run_at in C:\\Users\\User\\AppData\\Local\\hermes\\cron\\jobs.json and profiles/<name>/cron/jobs.json against 24h ago; note recent outputs + any enabled job that did NOT run when scheduled. Check last-modified times of key vault files (daily-sales-log.md, daily-expenses-log.md) to see what was logged. Run `hermes kanban list` for recent done/todo.\n5. CUSTOMER INQUIRY FLAGS: scan C:\\Users\\User\\.hermes\\workspace\\Vault\\business\\2real\\2real-agent\\customer-interactions.md for SLA breaches (>24h unanswered) — list ONLY urgent ones.\n6. URGENT ONLY: cron failures, payments due today (Fluid CC 15th, Hughie 25th, etc.), any price-drop/new-group/hire awaiting H's OK.\n\nEXCLUDE Mum & H HEALTH from this brief — those stay in their own tracking (Mum topic 4, H separate). Never put personal/medical content here.\n\nFORMAT (exactly this shape):\n☀️ [DATE] — Morning Brief\n\n📊 NUMBER: yesterday GHS [actual] (target 2,500 | margin [%] if logged | pace: [on/drifting] vs break-even)\n📍 TODAY: [Mon=Oyarifa / Tue-Sat=Dome Market] · Jiji live [N] listings\n🌦️ MARKET (Tue-Sat only): [weather 6-10 AM + transport estimate]\n📥 CUSTOMER: [N SLA flags] — [names/items, or 'all clear']\n✅ DONE [yesterday]: 3-5 bullets, bots actually did (postings, sales logged, tasks ticked)\n⚠️ NEEDS OK: [anything awaiting approval, else 'Nothing']\n🎯 DO FIRST: the ONE action for H this morning (highest-impact, money/business first)\n\nEnd with one honest line: on track vs this week's 2,500/day goal? Say plainly if drifting. Never fabricate numbers — cite real names/values only.\n\nNo Mum health, no H medical. This is business + day + priorities only. Keep it terse, real, scannable.",
       "model": "deepseek/deepseek-v4-flash-0731",
       "profile": "sat-nav",
       "created_at": "2026-10-30 16:40:07",
-      "next_run_at": "2026-11-19T07:00:00+00:00",
+      "next_run_at": "2026-11-20T07:00:00+00:00",
       "last_dispatch": {
-        "scheduled_at": "2026-11-18T07:00:00+00:00",
-        "dispatched_at": "2026-11-18T09:17:34.843681+00:00",
-        "lateness_seconds": 8254.8,
-        "kind": "catch_up"
+        "scheduled_at": "2026-11-19T07:00:00+00:00",
+        "dispatched_at": "2026-11-19T07:00:45.227519+00:00",
+        "lateness_seconds": 45.2,
+        "kind": "on_time"
       },
       "fire_claim": null,
-      "last_run_at": "2026-11-18T09:23:10.212001+00:00",
-      "last_status": "error",
-      "last_error": "RuntimeError: Hermes can't reach the model provider. You may be offline. Check your internet connection and try again.",
-      "failure_streak": 1,
+      "last_run_at": "2026-11-19T07:03:05.141589+00:00",
+      "last_status": "ok",
+      "last_error": null,
+      "failure_streak": 0,
       "last_failure": {
         "at": "2026-11-18T09:23:10.212001+00:00",
         "detail": "RuntimeError: Hermes can't reach the model provider. You may be offline. Check your internet connection and try again."
       },
-      "last_delivery_error": "live adapter send failed: send_path_degraded; live adapter delivery to telegram:-1003784520976:1 failed: send_path_degraded; delivery error: Telegram send failed: httpx.ConnectError: All connection attempts failed (target telegram:-1003784520976:1); queued text for telegram:-1003784520976:1 for redelivery once the live adapter reconnects",
+      "last_delivery_error": null,
       "canonical_completions": [
-        "63e431c8590f4b49b193def068faadc7"
+        "a1cb6db5f7194451a6a15d88219ccabb"
       ],
       "state": "scheduled"
     },
@@ -2908,5 +2920,5 @@
       "fire_claim": null
     }
   ],
-  "updated_at": "2026-11-19T06:00:45.588922+00:00"
+  "updated_at": "2026-11-20T06:00:51.615087+00:00"
 }
