@@ -1,6 +1,9 @@
 {
-  "generated": "2026-11-17 08:30",
+  "generated": "2026-11-21 02:09",
   "source": "facebook.com/marketplace/inbox",
-  "status": "error",
-  "note": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+  "status": "ok",
+  "thread_count": 0,
+  "threads_sampling_questions": 0,
+  "threads": [],
+  "note": "0 buyer conversation rows rendered — inbox empty, off the marketplace inbox view, or the checkpoint wall is up."
 }

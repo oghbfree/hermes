@@ -1,0 +1,24 @@
+posting 16681010 | Circular Saw With Exposed Handle 1020W 52mm Diameter Blade — UK Imported, Quality Checked | 400 | cat: Tools | cond: USED | photo: C:\Users\User\.hermes\workspace\Vault\business\2real\2real-agent\channel_upload_package\photos\16681010_v16681010.jpg
+desc: 'Black & Decker circular saw, 1020W, 52mm blade, exposed handle, adjustable depth. UK pre-owned, tested working. Used con' ...
+attempt 0 -> FAIL no file input
+attempt 1 -> FAIL no file input
+attempt 2 -> PUBLISHED
+LOGGED 16681010
+GROUP-SHARE 16681010 -> LOOKUP failed for 'Circular Saw With Exposed Handle 1020W 52mm Diameter Blade — UK Imported, Quality Checked' — sharing skipped (not found/ambiguous) DONE — 0/2 group shares 
+posting 14948478 | Retractable Dog Leash 5m Pre Owned Uk — UK Imported, Quality Checked | 70 | cat: Tools | cond: USED | photo: C:\Users\User\.hermes\workspace\Vault\business\2real\2real-agent\channel_upload_package\photos\14948478_v14948478.jpg
+desc: 'Flexi retractable dog leash, 5m tape, one-hand braking, up to ~25kg dogs. UK pre-owned, inspected. Used condition - insp' ...
+attempt 0 -> PUBLISHED
+LOGGED 14948478
+GROUP-SHARE 14948478 -> LOOKUP failed for 'Retractable Dog Leash 5m Pre Owned Uk — UK Imported, Quality Checked' — sharing skipped (not found/ambiguous) DONE — 0/2 group shares 
+posting 14684112 | Bond It Wp100 LMN Silicone, a Premium Neutral Cure Sealant — UK Imported, Quality Checked | 280 | cat: Tools | cond: NEW | photo: C:\Users\User\.hermes\workspace\Vault\business\2real\2real-agent\channel_upload_package\photos\14684112_v14684112.jpg
+desc: 'Bond It WP100 LMN premium neutral cure silicone, low modulus, 285ml, permanently elastic. Brand new, sealed. Brand new, ' ...
+attempt 0 -> FAIL no photo preview
+attempt 1 -> FAIL no file input
+attempt 2 -> FAIL no photo preview
+GAVE UP 14684112
+
+BATCH SUMMARY:
+  16681010: published
+  14948478: published
+  14684112: gave_up
+EXIT:1

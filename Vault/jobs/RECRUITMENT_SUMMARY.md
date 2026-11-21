@@ -4,8 +4,8 @@
 
 ### Totals
 
-- **79 total applicants** (updated 2026-11-16)
-- **Nurses: 58** (NMC + 3-5yrs experience: 8/58, top pick: Charlotte Nortey - NMC + car + licence)
+- **80 total applicants** (updated 2026-11-21)
+- **Nurses: 59** (NMC + 3-5yrs experience: 8/59, top pick: Charlotte Nortey - NMC + car + licence)
 - **Facilitators: 5** (Eyiah #1, Patrick Bediako #2, Courage Agbalekpor, Exk #5 - priority match)
 - **Construction: 14** (Awal #1, Kwame #2, Derrick #3, Amane John #4, Amuzu #5, Woedzagbagba #6, Eric #7, Arthur Kofi Shadrack #8, Benjamin Kotey #9 - laborer, below threshold)
 - **Financial Literacy: 2** (Felix Boateng #1, Benjamin Lolo #2)
@@ -36,17 +36,17 @@
 **Facilitator #1: Eyiah Michael Osardu**
 - BSc IT | mBot exp | Coding 5/5 | Mon-Fri avail
 
-### New This Pull (2026-11-16)
+### New This Pull (2026-11-21)
 
-**0 new applications** since 2026-11-15 (1-day gap 11-16). Pipeline total unchanged at **79**.
+**1 new application** since 2026-11-16 (5-day gap covered). Pipeline total now **80**: +1 nurse (Felicia Nana Konadu Kedjah, 18 Nov — below threshold: no NMC, 0-2yrs, no car).
 
-### Latest Pull (2026-11-16)
+### Latest Pull (2026-11-21)
 
-**0 new applications**. Token refreshed 2026-11-16. Pipeline totals **79** (58 nurses, 14 construction, 5 facilitators, 2 financial literacy; priority counts recomputed from live data: nurses 8, construction foreman+6yrs 7, facilitators 3, fin-lit 2). No recruiter action required.
+**1 new application** (nurse, below threshold). Token refreshed 2026-11-21. Pipeline totals **80** (59 nurses, 14 construction, 5 facilitators, 2 financial literacy; priority counts recomputed from live data: nurses 8, construction foreman+6yrs 7, facilitators 3, fin-lit 2). No recruiter action required.
 
 ### Detailed Reports
 
-- [[jobs/APPLICATIONS-REPORT-2026-11-16.md]] (0 new apps; token refreshed; priority counts recomputed 8/7/3/2)
+- [[jobs/APPLICATIONS-REPORT-2026-11-21.md]] (+1 nurse below threshold: Felicia Nana Konadu Kedjah; token refreshed; priority counts recomputed 8/7/3/2)
 - [[jobs/APPLICATIONS-REPORT-2026-11-15.md]] (0 new apps; token refreshed; priority counts recomputed 8/7/3/2)
 - [[jobs/APPLICATIONS-REPORT-2026-11-11.md]] (+1 priority facilitator: Exk; token refreshed; priority counts recomputed 8/7/3/2)
 - [[jobs/APPLICATIONS-REPORT-2026-11-09.md]] (0 new apps; token refreshed; priority counts recomputed 8/7/2/2)
@@ -115,10 +115,10 @@
 
 ### Status
 
-- **Google Sheets Auth: ACTIVE** - Token refreshed 2026-11-16
-- Last successful pull: 2026-11-16
+- **Google Sheets Auth: ACTIVE** - Token refreshed 2026-11-21
+- Last successful pull: 2026-11-21
 - All 4 pipelines accessible
-- 0 new applications since 2026-11-15 (1-day gap; pipeline total 79)
+- 1 new application since 2026-11-16 (5-day gap; pipeline total 80)
 
 ## Related
 

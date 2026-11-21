@@ -3,7 +3,7 @@
 # Usage: python wa_post_one.py <jiji_id>
 import json, sys, time, os, websocket
 
-CDP_HTTP = "http://127.0.0.1:9222"
+CDP_HTTP = "http://127.0.0.1:64365"
 pkg = r"C:\Users\User\.hermes\workspace\Vault\business\2real\2real-agent\channel_upload_package"
 
 def list_tabs():
