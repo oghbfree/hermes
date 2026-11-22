@@ -1,96 +1,100 @@
 {
- "total_gap": 332,
- "history": [
-  {
-   "date": "2026-09-21",
-   "listed": 330
-  },
-  {
-   "date": "2026-10-05",
-   "gap_remaining": 307
-  },
-  {
-   "date": "2026-10-12",
-   "gap_remaining": 294
-  },
-  {
-   "date": "2026-10-19",
-   "gap_remaining": 332
-  },
-  {
-   "date": "2026-10-26",
-   "gap_remaining": 291
-  },
-  {
-   "date": "2026-10-30",
-   "gap_remaining": 291
-  },
-  {
-   "date": "2026-11-01",
-   "gap_remaining": 291
-  },
-  {
-   "date": "2026-11-08",
-   "gap_remaining": 293
-  },
-  {
-   "date": "2026-11-15",
-   "gap_remaining": 287
-  },
-  {
-   "date": "2026-11-16",
-   "gap_remaining": 287,
-   "note": "no change - 2 items posted were outside the gap list"
-  },
-  {
-   "date": "2026-11-16",
-   "gap_remaining": 245,
-   "note": "full rescan vs fresh 1396-ad harvest; 46 confirmed live (incl. H's 8 + 15/11 batch), 245 unlisted"
-  }
- ],
- "gap_remaining": 245,
- "notes": [
-  {
-   "date": "2026-11-15",
-   "event": "4 gap items uploaded to Jiji (Christmas Re-scan)",
-   "items": [
-    "deWalt Cutting Disc 250mm 36T Xr Flex Volt DT99572",
-    "Black And Decker Scorpion 400",
-    "Blyss Uban Video Intercom",
-    "Black And Decker Black & decker 10.8 volt ultra compact drill driver"
-   ],
-   "gap_remaining": 287
-  },
-  {
-   "date": "2026-11-16",
-   "event": "Verified against live Jiji scrape (1,318 ads): Bosch Zamo + Bosch GluePen 3.6V CONFIRMED LIVE. Neither was on the 291-item gap list, so gap_remaining is unchanged.",
-   "verified_live": [
-    "Bosch Zamo Digital Laser Measure / Distance Meter (0.15 - 25 M)",
-    "Bosch GluePen 3.6V Cordless Lithium-Ion Hot Melt Glue Gun"
-   ],
-   "gap_remaining": 287,
-   "data_issues": [
-    "145 of 287 candidates have cost=0 (margin unverifiable)",
-    "duplicate entry: INGCO Bi-Metal hacksaw HSBKT12185 listed twice (73/79 and 80/50)"
-   ]
-  },
-  {
-   "date": "2026-11-16",
-   "event": "RE-SCAN REWIRED — three root causes fixed permanently",
-   "fixes": [
-    "stale snapshot (was comparing against 24 Oct data) -> now reads fresh jiji_ads_performance.json",
-    "harvest page cap max_pages=50 truncated at 1250 ads, silently dropping 146 -> raised to 400 (natural end, 1396 ads)",
-    "title mismatch across inventory vs Jiji -> persistent alias map jiji_title_aliases.json + model-code + brand/spec + difflib matching",
-    "regression guard: a previously-confirmed 'listed' flag can never be silently wiped by a matcher miss"
-   ],
-   "new_script": "2real-agent/christmas_rescan.py",
-   "state": {
-    "live_confirmed": 46,
-    "unlisted": 245,
-    "known_cogs": 114,
-    "cogs_missing": 131,
-    "verifiable_profit_unlisted": 29934
-   }
-  }
- ]
+  "total_gap": 332,
+  "history": [
+    {
+      "date": "2026-09-21",
+      "listed": 330
+    },
+    {
+      "date": "2026-10-05",
+      "gap_remaining": 307
+    },
+    {
+      "date": "2026-10-12",
+      "gap_remaining": 294
+    },
+    {
+      "date": "2026-10-19",
+      "gap_remaining": 332
+    },
+    {
+      "date": "2026-10-26",
+      "gap_remaining": 291
+    },
+    {
+      "date": "2026-10-30",
+      "gap_remaining": 291
+    },
+    {
+      "date": "2026-11-01",
+      "gap_remaining": 291
+    },
+    {
+      "date": "2026-11-08",
+      "gap_remaining": 293
+    },
+    {
+      "date": "2026-11-15",
+      "gap_remaining": 287
+    },
+    {
+      "date": "2026-11-16",
+      "gap_remaining": 287,
+      "note": "no change - 2 items posted were outside the gap list"
+    },
+    {
+      "date": "2026-11-16",
+      "gap_remaining": 245,
+      "note": "full rescan vs fresh 1396-ad harvest; 46 confirmed live (incl. H's 8 + 15/11 batch), 245 unlisted"
+    },
+    {
+      "date": "2026-11-22",
+      "gap_remaining": 279
+    }
+  ],
+  "gap_remaining": 279,
+  "notes": [
+    {
+      "date": "2026-11-15",
+      "event": "4 gap items uploaded to Jiji (Christmas Re-scan)",
+      "items": [
+        "deWalt Cutting Disc 250mm 36T Xr Flex Volt DT99572",
+        "Black And Decker Scorpion 400",
+        "Blyss Uban Video Intercom",
+        "Black And Decker Black & decker 10.8 volt ultra compact drill driver"
+      ],
+      "gap_remaining": 287
+    },
+    {
+      "date": "2026-11-16",
+      "event": "Verified against live Jiji scrape (1,318 ads): Bosch Zamo + Bosch GluePen 3.6V CONFIRMED LIVE. Neither was on the 291-item gap list, so gap_remaining is unchanged.",
+      "verified_live": [
+        "Bosch Zamo Digital Laser Measure / Distance Meter (0.15 - 25 M)",
+        "Bosch GluePen 3.6V Cordless Lithium-Ion Hot Melt Glue Gun"
+      ],
+      "gap_remaining": 287,
+      "data_issues": [
+        "145 of 287 candidates have cost=0 (margin unverifiable)",
+        "duplicate entry: INGCO Bi-Metal hacksaw HSBKT12185 listed twice (73/79 and 80/50)"
+      ]
+    },
+    {
+      "date": "2026-11-16",
+      "event": "RE-SCAN REWIRED \u2014 three root causes fixed permanently",
+      "fixes": [
+        "stale snapshot (was comparing against 24 Oct data) -> now reads fresh jiji_ads_performance.json",
+        "harvest page cap max_pages=50 truncated at 1250 ads, silently dropping 146 -> raised to 400 (natural end, 1396 ads)",
+        "title mismatch across inventory vs Jiji -> persistent alias map jiji_title_aliases.json + model-code + brand/spec + difflib matching",
+        "regression guard: a previously-confirmed 'listed' flag can never be silently wiped by a matcher miss"
+      ],
+      "new_script": "2real-agent/christmas_rescan.py",
+      "state": {
+        "live_confirmed": 46,
+        "unlisted": 245,
+        "known_cogs": 114,
+        "cogs_missing": 131,
+        "verifiable_profit_unlisted": 29934
+      }
+    }
+  ]
 }

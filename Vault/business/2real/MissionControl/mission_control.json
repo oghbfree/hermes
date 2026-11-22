@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-21 02:09",
+  "generated": "2026-11-21 08:31",
   "day": "Saturday 21 Nov 2026",
   "kanban": {
     "total": 272,
@@ -864,51 +864,51 @@
     "top_by_chats": [
       {
         "title": "Panasonic Lumix Digital Camera With Battery a",
-        "chats": 36,
-        "views": 342,
-        "impressions": 1177,
+        "chats": 37,
+        "views": 352,
+        "impressions": 1200,
         "price": "GH₵ 980",
         "status": "active"
       },
       {
         "title": "Live in Private Nurse / Under Graduate Nurse ",
-        "chats": 26,
-        "views": 490,
-        "impressions": 3309,
+        "chats": 27,
+        "views": 505,
+        "impressions": 3486,
         "price": "Commission",
         "status": "active"
       },
       {
         "title": "Elite Construction Team Wanted - Foremen All ",
-        "chats": 25,
-        "views": 459,
-        "impressions": 3175,
+        "chats": 26,
+        "views": 480,
+        "impressions": 3202,
         "price": "Commission",
         "status": "active"
       },
       {
         "title": "Farm Workers / Farming Family Opportunity",
-        "chats": 23,
-        "views": 271,
-        "impressions": 1883,
+        "chats": 24,
+        "views": 279,
+        "impressions": 1866,
         "price": "GH₵ 800 - 1,000",
         "status": "active"
       },
       {
         "title": "Female Private Driver",
-        "chats": 21,
-        "views": 568,
-        "impressions": 5145,
+        "chats": 22,
+        "views": 579,
+        "impressions": 5105,
         "price": "Commission",
         "status": "active"
       }
     ],
-    "ads_with_chats": 641,
-    "total_chats": 1725,
-    "total_impressions": 1396
+    "ads_with_chats": 652,
+    "total_chats": 1797,
+    "total_impressions": 1405
   },
   "credits": {
-    "rem": 1.28,
+    "rem": 0.37,
     "total": 470
   },
   "sales": {
@@ -929,7 +929,7 @@
     ]
   },
   "fb_messages": {
-    "generated": "2026-11-21 02:09",
+    "generated": "2026-11-21 08:30",
     "source": "facebook.com/marketplace/inbox",
     "status": "ok",
     "thread_count": 0,

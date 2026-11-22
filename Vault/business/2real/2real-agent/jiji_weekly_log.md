@@ -176,3 +176,45 @@ unanswered (813/832)** · 43 contact views + 24 saved-ads NOT followed up · GH�
 6. GH¢0 balance persists — recharge to run promos; Pro Sales bonus still sliding (6,147).
 7. **Service ads freshly renewed → perf counters reset** (Female Private Driver was pulling 19 chats pre-renewal; warm them back up).
 
+
+## 2026-11-21 (Sat) — Weekly Harvest + Review
+
+**Harvest status:** ✅ **SUCCESS — fresh per-listing harvest via CDP harvester** (`jiji_ads_harvest_cdp.py`, persistent Chrome live on :64365, Jiji logged in as Two Real Enterprises). Saved **1,405 active ads** to `jiji_ads_performance.json` (scraped 2026-11-21 07:06). All ads populated with real nested totals — no fabricated numbers.
+
+**Account totals (THIS week, live harvest):**
+| Metric | Total | vs 07/11 |
+|--------|-------|---------|
+| Ads | 1,405 | +155 |
+| Impressions | 293,372 | +26,618 (+10.0%) |
+| Visitors | 46,145 | +8,410 (+22.3%) |
+| Chats | 1,797 | +279 (+18.4%) |
+| Chats/visitors (conversion) | **3.89%** | −0.13pp |
+| Count-contacts | 1,445 | +215 |
+| Ads with ≥1 chat | 652 | — |
+| Ads with 0 chats | 753 | — |
+| Zero-impression ads | **0** (healthy) | 0 |
+| Reverse-flow flags (vis≥20, 0 chats) | **140** | +47 (⚠ rework not holding) |
+
+*Note: comparison window is +14 days (prev harvest 07/11), not a strict 7-day WoW. Visitors & chats both grew strongly; conversion slipped slightly but stays near 4%. Reverse-flow jumped 93→140 (+50%) — reworks failed to hold / new dead-ends appeared.*
+
+**TOP-10 by chats (live 21/11):** Panasonic Lumix Digital Camera (37c) · Live-in Private Nurse (27c) · Elite Construction Team wanted (26c) · Farm Workers / Farming Family (24c) · Female Private Driver (22c) · Live-in Graduate Nurse (18c) · Building Elite Construction Team (17c) · Skate Board Pre-owned UK (15c) · Wireless Mouse w/LED (15c) · Laptop ASUS X200MA (15c).
+
+**Reverse-flow fixes (strong flags, vis≥20 & 0 chats — TOP 3):**
+1. **Marvin's Magic Executive Magic Collection Set** — **815 visitors / 1,790 imp / 0 chats** → CRITICAL, biggest dead-end in the shop, persistent since at least 07/11. Rework title/photo/price; phone-chase.
+2. **Magnum Plus Colossus Security Chain 180cm** — **306 visitors / 279 imp / 0 chats** (persistent since 24/10). Rework.
+3. **Learning Resources 5-in-1 Outdoor Measure-Mate** — **172 visitors / 817 imp / 0 chats** (was 141 on 07/11, worsening). Rework.
+*(Also high: Lowenergie Dusk-to-Dawn Light Switch 139 vis/0 ch · Various PC DVD-Rom Games 131 vis/0 ch · LEGO Knight Bus 113 vis/0 ch.)*
+
+**Today activity (fresh this morning, chase now):** 33 chats_today across 32 ads — hottest live threads: Xyzprinting Da Vinci 1.0w (2 today) + single new chats on Dyson V10, Tapo C200 cam, Farm Workers, Halfords charger, Black & Decker circ saw. 183 views_today across 90 ads (top: Panasonic Stereo Amp 19 · Havaianas flip-flops 17 · Blyss Video Intercom 13).
+
+**Account picture (no newer daily-history capture — latest ≈30 Oct; flagging capture gap):** Active 1,351 · Followers 342 · Clients 1 · Declined **5** (2 new: Koo-Di Bassinet + Norton Clipper Blade; 3 from 28 Oct) · Closed 133 · Balance **GHS 0** 🔴 · Pro Sales bonus 6,147 (declining) · WhatsApp ads **still dark since 17 Oct** 🔴.
+
+**URGENT action items for H/John:**
+1. **33 chats received this morning → reply now, first reply wins.** Top: Xyzprinting Da Vinci printer, Dyson V10, Tapo C200 cam.
+2. **Marvin's Magic (815 visitors, 0 chats)** — highest-reach dead-end in the whole shop; rework + phone.
+3. **Renew WhatsApp ads** — expired since **17 Oct** (now 35 days dark); GH¢180 add-on available (20 ads/14 days). Critical before Christmas push.
+4. **5 declined ads pending** (2 new + 3 from 28 Oct) — re-categorise & resubmit.
+5. **Panasonic Lumix camera = 37 chats** — follow up now, hottest item in shop.
+6. **652 live ads with ≥1 chat** — first reply wins.
+7. GH¢0 balance persists → recharge to run promos; Pro Sales still sliding (6,147).
+8. **Reverse-flow up 93→140** — reworks from last 2 weeks NOT holding; re-attack title/photo/price + phone-chase on top 3.

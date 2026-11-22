@@ -1,14 +1,14 @@
-# 2Real — Christmas Priority List (re-scan 2026-11-17)
+# 2Real — Christmas Priority List (re-scan 2026-11-22)
 
-_Source: 1396 live Jiji ads scraped 2026-11-17 15:47. Matched by model code + brand/spec + fuzzy + alias map._
+_Source: 1405 live Jiji ads scraped 2026-11-22 02:48. Matched by model code + brand/spec + fuzzy + alias map._
 
 | Verdict | Count |
 |---|---|
-| Confirmed LIVE on Jiji (already posted) | 47 |
+| Confirmed LIVE on Jiji (already posted) | 46 |
 | Ambiguous — needs your eye | 0 |
-| **Genuinely unlisted** | **244** |
+| **Genuinely unlisted** | **233** |
 
-**Verifiable profit still unlisted: GH₵ 29,994** (plus 131 items with no COGS recorded)
+**Verifiable profit still unlisted: GH₵ 26,744** (plus 130 items with no COGS recorded)
 
 ## Tier A — unlisted, known COGS, ranked by profit potential (margin × stock)
 
@@ -18,27 +18,27 @@ _Source: 1396 live Jiji ads scraped 2026-11-17 15:47. Matched by model code + br
 | 2 | **Black And Decker 18 Volt Lithium Ion 1.5 Ah Cordless Drill Driver BCD0** | 1,700 | 260 | 1,440 | 1 | 1,440 |
 | 3 | **Ring Automotive RWL1000 1000 lumen work light With Power Bank** | 800 | 200 | 600 | 2 | 1,200 |
 | 4 | **Hippo Universal Wood Glue 500 Ml** | 350 | 60 | 290 | 3 | 870 |
-| 5 | **Bosch Expert Multi Material Carbide 115mm  Disc 2608 901188** | 350 | 140 | 210 | 4 | 840 |
-| 6 | **Enamel Paint & Special Sprays Racking Grey** | 75 | 5 | 70 | 12 | 840 |
-| 7 | **Hoselock 3-way Tap Connector 2250** | 470 | 110 | 360 | 2 | 720 |
-| 8 | **Black And Decker Ka230e Detail Sander 170w** | 900 | 200 | 700 | 1 | 700 |
-| 9 | **Bosch Drill Bits X25 Screwdriver Set** | 200 | 40 | 160 | 4 | 640 |
-| 10 | **Mac Allister Angle Grinder MSAG750** | 800 | 200 | 600 | 1 | 600 |
-| 11 | **Arlec Power Socket Stonegray Socket With USB 2 Gang** | 230 | 90 | 140 | 4 | 560 |
-| 12 | **Stanley Tape Measure 10 M Stanley FatMax Extreme 33896** | 700 | 150 | 550 | 1 | 550 |
-| 13 | **Bosch PKS 4 Circular Saw** | 700 | 200 | 500 | 1 | 500 |
-| 14 | **JCB 710w angle grinder** | 700 | 200 | 500 | 1 | 500 |
-| 15 | **Ring Automotive Power source inverter 120 Watts** | 700 | 200 | 500 | 1 | 500 |
-| 16 | **CTEC CT1 Sealant Clear** | 200 | 100 | 100 | 5 | 500 |
-| 17 | **Master Plug Outdoor 15m Plug spike** | 700 | 220 | 480 | 1 | 480 |
-| 18 | **Wickes Three-piece Wrench Set** | 550 | 80 | 470 | 1 | 470 |
-| 19 | **JCB PPA Planer** | 650 | 200 | 450 | 1 | 450 |
-| 20 | **Stanley Fatmax V20 18 Volt 4 Amp Fast Charger** | 650 | 200 | 450 | 1 | 450 |
-| 21 | **Frog Tape Delicate Surface 24 Mm X 41 M** | 200 | 60 | 140 | 3 | 420 |
-| 22 | **Gardena 18321 Comfort Shower Hose** | 480 | 70 | 410 | 1 | 410 |
-| 23 | **Gardena Two Channel Water Distributor 8193** | 480 | 80 | 400 | 1 | 400 |
-| 24 | **Hitachi FJ 50VA Jigsaw** | 500 | 100 | 400 | 1 | 400 |
-| 25 | **Master Plug 4 Plug 8m Cable Reel** | 400 | 200 | 200 | 2 | 400 |
+| 5 | **Enamel Paint & Special Sprays Racking Grey** | 75 | 5 | 70 | 12 | 840 |
+| 6 | **Black And Decker Ka230e Detail Sander 170w** | 900 | 200 | 700 | 1 | 700 |
+| 7 | **Bosch Drill Bits X25 Screwdriver Set** | 200 | 40 | 160 | 4 | 640 |
+| 8 | **Mac Allister Angle Grinder MSAG750** | 800 | 200 | 600 | 1 | 600 |
+| 9 | **Arlec Power Socket Stonegray Socket With USB 2 Gang** | 230 | 90 | 140 | 4 | 560 |
+| 10 | **Stanley Tape Measure 10 M Stanley FatMax Extreme 33896** | 700 | 150 | 550 | 1 | 550 |
+| 11 | **Bosch PKS 4 Circular Saw** | 700 | 200 | 500 | 1 | 500 |
+| 12 | **JCB 710w angle grinder** | 700 | 200 | 500 | 1 | 500 |
+| 13 | **Ring Automotive Power source inverter 120 Watts** | 700 | 200 | 500 | 1 | 500 |
+| 14 | **CTEC CT1 Sealant Clear** | 200 | 100 | 100 | 5 | 500 |
+| 15 | **Master Plug Outdoor 15m Plug spike** | 700 | 220 | 480 | 1 | 480 |
+| 16 | **JCB PPA Planer** | 650 | 200 | 450 | 1 | 450 |
+| 17 | **Stanley Fatmax V20 18 Volt 4 Amp Fast Charger** | 650 | 200 | 450 | 1 | 450 |
+| 18 | **Frog Tape Delicate Surface 24 Mm X 41 M** | 200 | 60 | 140 | 3 | 420 |
+| 19 | **Gardena 18321 Comfort Shower Hose** | 480 | 70 | 410 | 1 | 410 |
+| 20 | **Gardena Two Channel Water Distributor 8193** | 480 | 80 | 400 | 1 | 400 |
+| 21 | **Hitachi FJ 50VA Jigsaw** | 500 | 100 | 400 | 1 | 400 |
+| 22 | **Master Plug 4 Plug 8m Cable Reel** | 400 | 200 | 200 | 2 | 400 |
+| 23 | **Parkside Rechargeable Battery 20 Volt 2Ah PAP20B1** | 600 | 212 | 388 | 1 | 388 |
+| 24 | **BG Storm weatherproof outdoor socket with Wi-Fi extender** | 500 | 140 | 360 | 1 | 360 |
+| 25 | **Energizer Foldable Hard Case 1100 Lumens Light** | 600 | 240 | 360 | 1 | 360 |
 
 ## Tier B — COGS missing, margin NOT verifiable
 

@@ -22,7 +22,7 @@ Single source of truth for recurring hard deadlines and open loops that must not
 
 | Item | Since | Source | Next action |
 |------|-------|--------|-------------|
-| **Olymech RFQ 6000997164** | 01 Oct (~29d) | sourcing_log.json | Chase Olymech Interyradin (+233 20 894 5854): strapping buckles, Stanley 10-778 knife, Band-It 201 |
+| **Olymech RFQ 6000997164** | 01 Oct (~51d) | sourcing_log.json | Chase Olymech Interyradin (+233 20 894 5854): strapping buckles, Stanley 10-778 knife, Band-It 201 |
 | **WhatsApp Ads renewal** | expired 17 Oct | content/ads | Renew; ads have been down since 17 Oct |
 | **Jiji declined ad — Daewoo smartwatch** | — | Jiji | Re-submit declined listing |
 | **act ICT — 500W inverters @ GH₵ 970** | 20 Oct | daily-sales-log 20/10 | Confirm quantity (qty not stated); add to total |
@@ -34,6 +34,7 @@ Single source of truth for recurring hard deadlines and open loops that must not
 | **Customer nudge +233 57 770 0555** | 06 Nov 13:38 | live watcher | "Still haven't gotten back to me" — respond |
 | **08/11 grinder price ambiguity** | 08 Nov | daily-sales-log 08/11 | Sealey red angle grinder logged as 700 (read "70 kk0gh") — if actually 70, day total 2,075 / profit 908. Confirm with H, correct log |
 | **Faulty-grinder repair bench decision** | 18 Nov | daily-sales-log 18/11 | 2nd dead grinder cleared as-is (Bosch 8115C 250, £10 cost; B&D 12/11 270). Working unit would fetch 500-700 — is a repair bench worth it, or keep selling as-is? H decision |
+| **20 Nov sales row — MISSING** | 20 Nov | daily-sales-log | No 20/11 entry logged; row due by 04:30 Sat. Get figures from H / log them |
 | **Ironing board cost (19 Nov walk-in)** | 19 Nov | daily-sales-log 19/11 | Sold 100, cost not stated — confirm for COGS entry |
 | **B2B repeat-buyer broadcast** | ongoing | b2b-wholesale-leads.md + sales log | WhatsApp **Eric** (Enterprise Ins) when office/IT stock lands; **Dr Lomotey** (Cocoa Clinic) for furniture/office; **tool lover** 0245849519 for mechanic's tools; **Edwin Kwabena Adubofuor** (0550253348, contractor w/ ministries contract); **Theophilus** (0500599813, Airbnb host); **Emmanuel** (tennis Mon) for rackets/sports |
 

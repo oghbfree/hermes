@@ -1,10 +1,10 @@
 # Applications Report — 2026-11-21
 
-**Run:** 2026-11-21 02:15 GMT (cron)
+**Runs:** 2026-11-21 02:15 GMT (cron) + 08:00 GMT (cron re-check)
 
 ## Result
 
-**1 new application** across all 4 roles. Pipeline total now **80** (was 79).
+**Day total: 1 new application** (found 02:15). Re-check 08:00: **0 additional new**. Pipeline total stays **80** (was 79).
 
 | Role | Total | New | Priority |
 |------|-------|-----|----------|
@@ -24,11 +24,12 @@
 
 ## Pipeline Actions
 
-- Token refreshed: **SUCCESS** 2026-11-21 ✅
-- Fetched `sheets-raw-2026-11-21.json` via `fetch_all_sheets.py` (first construction fetch errored transiently; re-run succeeded, 15 rows)
-- Diff baseline: **2026-11-16** (last reported pull; 5-day gap 11-17 → 11-21 covered). **1 new row** (nurse, 18 Nov).
-- Priority counts recomputed live from 2026-11-21 snapshot: **8/7/3/2** — unchanged.
-- Tracking updated: `last-check-*.json` dates → 2026-11-21, this report written, `RECRUITMENT_SUMMARY.md` updated.
+- Token refreshed: **SUCCESS** 2026-11-21 (02:15 and 08:00) ✅
+- Fetched `sheets-raw-2026-11-21.json` via `fetch_all_sheets.py` (freshest snapshot, 08:00 pull)
+- Diff baseline 02:15 run: **2026-11-16** (last reported pull; 5-day gap 11-17 → 11-21). **1 new row** (nurse, 18 Nov: Felicia Nana Konadu Kedjah).
+- Diff baseline 08:00 re-check: **02:15 snapshot**. **0 new rows** since.
+- Priority counts recomputed live from 08:00 snapshot: **8/7/3/2** — unchanged.
+- Tracking updated: `last-check-*.json` dates/timestamps → 2026-11-21 (nurses last_check 08:00, new_since_last 1→0), this report updated, `RECRUITMENT_SUMMARY.md` updated.
 
 ## Top Candidates (unchanged)
 
@@ -39,6 +40,6 @@
 
 ## Status
 
-- Google Sheets auth: **ACTIVE** (refreshed 2026-11-21)
-- Last successful pull: 2026-11-21
+- Google Sheets auth: **ACTIVE** (refreshed 2026-11-21 08:03, 2nd refresh of day)
+- Last successful pull: 2026-11-21 08:00
 - No recruiter action required (new applicant below threshold).

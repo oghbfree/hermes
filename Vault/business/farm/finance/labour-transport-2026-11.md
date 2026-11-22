@@ -72,8 +72,10 @@ something else (advance, pocket money, a purchase), correct this line.
 
 ## Open items
 
-- [ ] **Count the coconuts picked.** Everything above is guesswork without it, and it also sets the
-      sale price (3.5–4 GHS/nut × count = what this harvest is worth).
+- [x] **Count the coconuts picked.** ✅ **220 nuts** (H, 17/11). Gross at GHS 4 = **GHS 880** — 150
+      each = 17% per person, within the fair 20% band. **Recommendations hold: Ahinful 100 balance,
+      Kanzoni 500 (+fuel).** Some nuts reserved for H, workers and family drinking — log sold count
+      when the batch moves (880 is the theoretical max, not expected cash).
 - [ ] Confirm the **fuel convention** with Kanzoni (included vs separate).
 - [ ] Decide how the produce for Mum is treated.
 - [ ] Confirm what the **150 to Habib** was for.
