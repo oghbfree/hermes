@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-21 08:31",
-  "day": "Saturday 21 Nov 2026",
+  "generated": "2026-11-22 08:31",
+  "day": "Sunday 22 Nov 2026",
   "kanban": {
     "total": 272,
     "unique": 125,
@@ -825,12 +825,12 @@
   ],
   "routine_count": 59,
   "jiji": {
-    "total": 1407,
-    "active": 1404,
+    "total": 1405,
+    "active": 1402,
     "top_categories": [
       [
         "Hand Tools",
-        283
+        285
       ],
       [
         "Electrical Hand Tools",
@@ -865,24 +865,24 @@
       {
         "title": "Panasonic Lumix Digital Camera With Battery a",
         "chats": 37,
-        "views": 352,
-        "impressions": 1200,
+        "views": 354,
+        "impressions": 1131,
         "price": "GH₵ 980",
         "status": "active"
       },
       {
         "title": "Live in Private Nurse / Under Graduate Nurse ",
         "chats": 27,
-        "views": 505,
-        "impressions": 3486,
+        "views": 507,
+        "impressions": 3327,
         "price": "Commission",
         "status": "active"
       },
       {
         "title": "Elite Construction Team Wanted - Foremen All ",
         "chats": 26,
-        "views": 480,
-        "impressions": 3202,
+        "views": 485,
+        "impressions": 3043,
         "price": "Commission",
         "status": "active"
       },
@@ -890,25 +890,25 @@
         "title": "Farm Workers / Farming Family Opportunity",
         "chats": 24,
         "views": 279,
-        "impressions": 1866,
+        "impressions": 1785,
         "price": "GH₵ 800 - 1,000",
         "status": "active"
       },
       {
         "title": "Female Private Driver",
         "chats": 22,
-        "views": 579,
-        "impressions": 5105,
+        "views": 582,
+        "impressions": 4889,
         "price": "Commission",
         "status": "active"
       }
     ],
     "ads_with_chats": 652,
-    "total_chats": 1797,
+    "total_chats": 1811,
     "total_impressions": 1405
   },
   "credits": {
-    "rem": 0.37,
+    "rem": -0.11,
     "total": 470
   },
   "sales": {
@@ -929,7 +929,7 @@
     ]
   },
   "fb_messages": {
-    "generated": "2026-11-21 08:30",
+    "generated": "2026-11-22 08:31",
     "source": "facebook.com/marketplace/inbox",
     "status": "ok",
     "thread_count": 0,

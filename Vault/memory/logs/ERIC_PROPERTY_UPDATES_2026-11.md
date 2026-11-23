@@ -1,5 +1,12 @@
 # ERIC_PROPERTY_UPDATES — 2026-11
 
+## 2026-11-22 — Check-in FAILED (automated, 3-day cadence)
+- **WhatsApp NOT delivered to Eric** (E.164 447553403038). Bridge at localhost:3000 DOWN — no listener on port 3000 (curl HTTP 000 / netstat empty). Same recurring state as 11-19 / 11-07.
+- **Message intended:** "Hi Eric, checking in on UK property matters: any updates on letters, viewings, adverts, or ground coordination needed? Also please pick up the phone from Safi at Peckham phone repair shop."
+- **Escalated to Telegram Topic 2** (chat -1003784520976; Topic 141 #urgent known-dead), hermes send returned "sent" 06:0x UTC.
+- **NEXT ACTION (human, still open):** relaunch bridge `node bridge.js` (hermes-agent/scripts/whatsapp-bridge), scan QR to re-authenticate (session logged out since ~11-14), then resend check-in to 447553403038. Waited 3 runs now — bridge needs human re-link.
+- **STANDING ITEM remains open:** pick up phone from Safi at Peckham repair shop.
+
 ## 2026-11-19 — Check-in FAILED (automated, 3-day cadence)
 - **WhatsApp NOT delivered to Eric** (E.164 447553403038). Bridge at localhost:3000 DOWN — connection refused (curl exit 7, HTTP 000). No node/bridge process running (tasklist clean).
 - **Root cause (bridge.log):** session in "❌ Logged out. Delete session and restart to re-authenticate." followed by Node crash `UND_ERR_RES_CONTENT_LENGTH_MISMATCH` (2026-11-14 02:56) → process exited. WA requires QR re-link, manual action.
