@@ -1,0 +1,95 @@
+{
+  "nodes": [
+    {
+      "id": "header",
+      "type": "text",
+      "text": "# 📅 CONTENT QUEUE — Week of [DATE]\n\n**7 videos queued · 0 posted · 0 skipped**\n\nSay **\"what posts today?\"** in chat for today's video + caption.\n\nClick **[View]** to preview video · Click **[Post]** to mark posted.",
+      "x": 0,
+      "y": 0,
+      "width": 800,
+      "height": 150,
+      "color": "5"
+    },
+    {
+      "id": "mon",
+      "type": "text",
+      "text": "## MON [DATE]\n**UK-vs-Ghana Series**\n\n### [TITLE HERE]\n\n**Hook:** [hook text]\n\n**Runtime:** [XX]s\n\n**Status:** 🟦 QUEUED\n\n---\n\n[[mon-uk-vs-ghana-SCRIPT.md|View Script]]\n\n**Video:** `content-output/batch-YYYY-MM-DD/mon-*.mp4`\n\n**Caption:**\n```\n[caption here]\n```\n\n**Platforms:** ☐ FB ☐ IG ☐ TikTok ☐ YT ☐ WA\n\n---\n\n**Mark Posted:** Say `posted` in chat after uploading to all 5 platforms.",
+      "x": 0,
+      "y": 180,
+      "width": 350,
+      "height": 400,
+      "color": "1"
+    },
+    {
+      "id": "tue",
+      "type": "text",
+      "text": "## TUE [DATE]\n**Red Flag Series**\n\n### [TITLE HERE]\n\n**Hook:** [hook text]\n\n**Runtime:** [XX]s\n\n**Status:** 🟦 QUEUED\n\n---\n\n[[tue-red-flag-SCRIPT.md|View Script]]\n\n**Video:** `content-output/batch-YYYY-MM-DD/tue-*.mp4`\n\n**Caption:**\n```\n[caption here]\n```\n\n**Platforms:** ☐ FB ☐ IG ☐ TikTok ☐ YT ☐ WA\n\n---\n\n**Mark Posted:** Say `posted` in chat after uploading.",
+      "x": 370,
+      "y": 180,
+      "width": 350,
+      "height": 400,
+      "color": "2"
+    },
+    {
+      "id": "wed",
+      "type": "text",
+      "text": "## WED [DATE]\n**Akoma Series**\n\n### [TITLE HERE]\n\n**Hook:** [hook text]\n\n**Runtime:** [XX]s\n\n**Status:** 🟦 QUEUED\n\n---\n\n[[wed-akoma-SCRIPT.md|View Script]]\n\n**Video:** `content-output/batch-YYYY-MM-DD/wed-*.mp4`\n\n**Caption:**\n```\n[caption here]\n```\n\n**Platforms:** ☐ FB ☐ IG ☐ TikTok ☐ YT ☐ WA\n\n---\n\n**Mark Posted:** Say `posted` in chat after uploading.",
+      "x": 740,
+      "y": 180,
+      "width": 350,
+      "height": 400,
+      "color": "3"
+    },
+    {
+      "id": "thu",
+      "type": "text",
+      "text": "## THU [DATE]\n**Product Showcase**\n\n### [TITLE HERE]\n\n**Hook:** [hook text]\n\n**Runtime:** [XX]s\n\n**Status:** 🟦 QUEUED\n\n---\n\n[[thu-product-SCRIPT.md|View Script]]\n\n**Video:** `content-output/batch-YYYY-MM-DD/thu-*.mp4`\n\n**Caption:**\n```\n[caption here]\n```\n\n**Platforms:** ☐ FB ☐ IG ☐ TikTok ☐ YT ☐ WA\n\n---\n\n**Mark Posted:** Say `posted` in chat after uploading.",
+      "x": 1110,
+      "y": 180,
+      "width": 350,
+      "height": 400,
+      "color": "4"
+    },
+    {
+      "id": "fri",
+      "type": "text",
+      "text": "## FRI [DATE]\n**2Real General**\n\n### [TITLE HERE]\n\n**Hook:** [hook text]\n\n**Runtime:** [XX]s\n\n**Status:** 🟦 QUEUED\n\n---\n\n[[fri-2real-SCRIPT.md|View Script]]\n\n**Video:** `content-output/batch-YYYY-MM-DD/fri-*.mp4`\n\n**Caption:**\n```\n[caption here]\n```\n\n**Platforms:** ☐ FB ☐ IG ☐ TikTok ☐ YT ☐ WA\n\n---\n\n**Mark Posted:** Say `posted` in chat after uploading.",
+      "x": 0,
+      "y": 610,
+      "width": 350,
+      "height": 400,
+      "color": "1"
+    },
+    {
+      "id": "sat",
+      "type": "text",
+      "text": "## SAT [DATE]\n**2Real General**\n\n### [TITLE HERE — Rotation Week X]\n\n**Vibe:** Motivational / Weekend Prep / Book Quote / Lighter Content\n\n**Hook:** [hook text]\n\n**Runtime:** [XX]s\n\n**Status:** 🟦 QUEUED\n\n---\n\n[[sat-2real-SCRIPT.md|View Script]]\n\n**Video:** `content-output/batch-YYYY-MM-DD/sat-*.mp4`\n\n**Caption:**\n```\n[caption here]\n```\n\n**Platforms:** ☐ FB ☐ IG ☐ TikTok ☐ YT ☐ WA\n\n---\n\n**Mark Posted:** Say `posted` in chat after uploading.",
+      "x": 370,
+      "y": 610,
+      "width": 350,
+      "height": 400,
+      "color": "2"
+    },
+    {
+      "id": "sun",
+      "type": "text",
+      "text": "## SUN [DATE]\n**2Real General**\n\n### [TITLE HERE]\n\n**Hook:** [hook text]\n\n**Runtime:** [XX]s\n\n**Status:** 🟦 QUEUED\n\n---\n\n[[sun-2real-SCRIPT.md|View Script]]\n\n**Video:** `content-output/batch-YYYY-MM-DD/sun-*.mp4`\n\n**Caption:**\n```\n[caption here]\n```\n\n**Platforms:** ☐ FB ☐ IG ☐ TikTok ☐ YT ☐ WA\n\n---\n\n**Mark Posted:** Say `posted` in chat after uploading.",
+      "x": 740,
+      "y": 610,
+      "width": 350,
+      "height": 400,
+      "color": "3"
+    },
+    {
+      "id": "instructions",
+      "type": "text",
+      "text": "## 📖 HOW TO USE THIS DASHBOARD\n\n**Daily workflow (5 min):**\n1. 12:05 AM: Hermes messages you\n2. Say **\"what posts today?\"** in chat\n3. Hermes shows video + caption\n4. Post to FB/IG/TikTok/YT/WA Status\n5. Say **\"posted\"** in chat\n6. Hermes logs to sent-log, archives video, queues tomorrow\n\n**Weekly planning:**\n- Open this Canvas Sunday after batch render\n- Review all 7 videos, check sequence\n- Click [[SCRIPT.md]] links to review scripts\n- Reorder if needed (tell Hermes \"swap wed/thu\")\n\n**Status colors:**\n- 🟦 QUEUED = ready to post\n- ✅ POSTED = done, logged to sent-log\n- ⚠️ SKIPPED = rescheduled\n\n**Commands:**\n- `what posts today?` — show today's video\n- `posted` — mark posted, log, archive\n- `queue status` — show full week\n- `skip [day]` — reschedule video\n- `ingest batch YYYY-MM-DD` — rebuild queue after render\n\n---\n\n**This Canvas auto-updates** after you say \"posted\" or \"skip\" in chat.\n\nIf stuck, say **\"queue help\"** in chat.",
+      "x": 1110,
+      "y": 610,
+      "width": 350,
+      "height": 400,
+      "color": "5"
+    }
+  ],
+  "edges": []
+}

@@ -1,9 +1,11 @@
 {
-  "generated": "2026-11-22 08:31",
+  "generated": "2026-11-23 08:31",
   "source": "facebook.com/marketplace/inbox",
   "status": "ok",
-  "thread_count": 0,
+  "thread_count": 2,
   "threads_sampling_questions": 0,
-  "threads": [],
-  "note": "0 buyer conversation rows rendered — inbox empty, off the marketplace inbox view, or the checkpoint wall is up."
+  "threads": [
+    "Go to Feed",
+    "Visit Help Centre"
+  ]
 }

@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-22 08:31",
-  "day": "Sunday 22 Nov 2026",
+  "generated": "2026-11-23 08:31",
+  "day": "Monday 23 Nov 2026",
   "kanban": {
     "total": 272,
     "unique": 125,
@@ -908,8 +908,8 @@
     "total_impressions": 1405
   },
   "credits": {
-    "rem": -0.11,
-    "total": 470
+    "rem": 9.49,
+    "total": 480
   },
   "sales": {
     "last": {
@@ -929,13 +929,15 @@
     ]
   },
   "fb_messages": {
-    "generated": "2026-11-22 08:31",
+    "generated": "2026-11-23 08:31",
     "source": "facebook.com/marketplace/inbox",
     "status": "ok",
-    "thread_count": 0,
+    "thread_count": 2,
     "threads_sampling_questions": 0,
-    "threads": [],
-    "note": "0 buyer conversation rows rendered — inbox empty, off the marketplace inbox view, or the checkpoint wall is up."
+    "threads": [
+      "Go to Feed",
+      "Visit Help Centre"
+    ]
   },
   "fb": {
     "published": 22,
