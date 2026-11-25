@@ -128,6 +128,13 @@
 | 15 Nov | — (no breakfast report captured) | **Tatale** (12:54pm, all) · **Kokonte with groundnut soup** (4:07pm, all) ⚠️ groundnut=phase-out amber · **watermelon juice 🍉** (4:45pm, all) | — (calm evening; no meal — goodnight) 🧡 |
 | 16 Nov | **Pawpaw + scrambled eggs** (10am, all) ✅ protein + allowed fruit · BP 111/69 at 11am | **Boiled plantain + kontomire stew + fried fish** (4pm, all) ⚠️ plantain + fried drift | Pineapple juice (7:20pm) · no solid dinner reported |
 | 17 Nov | — (no morning report) | **Boiled beans + fried plantain** (4pm, all) ⚠️ plantain drift | **Pineapple juice** 5pm (all) 🍍 phase-out watch · no solid dinner — early night ~8pm · ⚠️ back pain (Aboniki applied) |
+| 18 Nov | — (no report — gap) | — (no report — gap) | — (no report — gap) |
+| 19 Nov | — (no report — gap) | — (no report — gap) | — (no report — gap) |
+| 20 Nov | **Pawpaw + scrambled eggs** (10am, all) · tea · coconut water 🥥 | **Boiled yam + kontomire stew** (4pm, all) | — (declined watermelon juice 7:22pm; no solid dinner) |
+| 21 Nov | **Tombrown** (10am, all) | **Boiled rice + gravy stew + salad + fried fish** (4pm — ate rice+stew all, not salad; extra rice+stew) ⚠️ fried fish | — (coconut water 7:20pm) |
+| 22 Nov | **Corn dough porridge + 2 boiled eggs** (10am, all) · coconut water | **Mpotompoto** (4pm, all) · 🧡 son + grandsons visit | — (early night) |
+| 23 Nov | **Ekoegbemi** (10am, all) | **Boiled beans + fried plantain** (4pm, all) ⚠️ plantain drift | — ⚠️ overnight diarrhoea ×3 (fluids priority) |
+| 24 Nov | **Pawpaw + scrambled eggs + feasted bread** (10am, all) ⚠️ bread/wheat drift | (afternoon report pending) | (pending) |
 
 > **Backfill complete (12 Oct 26):** Meals to 12 Oct. 🥛 **MILK SPOILT — discarded (strained w/ new cheesecloth + heated, still off; heat ≠ safe with spoiled milk). Perishable protocol: check on arrival, refrigerate immediately, date, carer spot-checks before serving.** Cheesecloth delivered 11 Oct ✓ (rider). Gentle swaps: Don Simon → watermelon juice; kelewele occasional.
 

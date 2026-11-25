@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-23 08:31",
-  "day": "Monday 23 Nov 2026",
+  "generated": "2026-11-25 09:34",
+  "day": "Wednesday 25 Nov 2026",
   "kanban": {
     "total": 272,
     "unique": 125,
@@ -697,12 +697,6 @@
       "owner": "sat-nav"
     },
     {
-      "id": "f53d9845",
-      "name": "john-nss-term-review-reminder",
-      "schedule": "once at 2026-11-24 09:00",
-      "owner": "sat-nav"
-    },
-    {
       "id": "c8044a34",
       "name": "wikibot-prune-weekly",
       "schedule": "every sunday 5am",
@@ -793,6 +787,18 @@
       "owner": "sat-nav"
     },
     {
+      "id": "deb61def",
+      "name": "content-daily-reminder",
+      "schedule": "daily at 12:05 AM",
+      "owner": "sat-nav"
+    },
+    {
+      "id": "c725c2a3",
+      "name": "youtube-processor",
+      "schedule": "every sunday 10am",
+      "owner": "sat-nav"
+    },
+    {
       "id": "3d775f42",
       "name": "jiji-weekly-performance-harvest",
       "schedule": "every saturday 7am",
@@ -823,10 +829,10 @@
       "owner": "content-buddy"
     }
   ],
-  "routine_count": 59,
+  "routine_count": 60,
   "jiji": {
-    "total": 1405,
-    "active": 1402,
+    "total": 1428,
+    "active": 1425,
     "top_categories": [
       [
         "Hand Tools",
@@ -849,11 +855,11 @@
         55
       ],
       [
-        "Toys & Games",
-        48
+        "Home Accessories",
+        53
       ],
       [
-        "Home Accessories",
+        "Toys & Games",
         48
       ],
       [
@@ -908,8 +914,8 @@
     "total_impressions": 1405
   },
   "credits": {
-    "rem": 9.49,
-    "total": 480
+    "error": "<urlopen error [Errno 11001] getaddrinfo failed>",
+    "rem": null
   },
   "sales": {
     "last": {
@@ -937,7 +943,8 @@
     "threads": [
       "Go to Feed",
       "Visit Help Centre"
-    ]
+    ],
+    "note": " (stale >26h)"
   },
   "fb": {
     "published": 22,

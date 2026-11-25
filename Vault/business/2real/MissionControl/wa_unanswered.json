@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-17 08:00",
+  "generated": "2026-11-24 08:00",
   "source": "web.whatsapp.com",
   "status": "error",
-  "note": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+  "note": "WebSocketTimeoutException('Connection timed out')"
 }

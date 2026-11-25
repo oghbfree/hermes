@@ -1,0 +1,140 @@
+{
+  "generated_at": "2026-11-24T18:10:18.672745",
+  "total_products": 5,
+  "total_images": 5,
+  "stats": {
+    "total_products_scanned": 5,
+    "plentiful_stock": 5,
+    "high_quality_images": 3,
+    "medium_quality_images": 2,
+    "low_quality_images": 0,
+    "gift_suitable_products": 5
+  },
+  "products": [
+    {
+      "id": "gorilla-glue-20g",
+      "name": "Gorilla Super Glue Gel 20g",
+      "category": "adhesive",
+      "inventory_qty": 8,
+      "gift_suitable": true,
+      "images": [
+        {
+          "url": "https://jijistatic.com/sample/gorilla-glue-1.jpg",
+          "source": "jiji",
+          "resolution": "720x720",
+          "quality_score": 68,
+          "breakdown": {
+            "resolution": 20,
+            "background": 20,
+            "prominence": 18,
+            "watermark": 10
+          },
+          "local_path": "cache/product-images/gorilla-glue-20g-01.jpg",
+          "downloaded": true
+        }
+      ],
+      "best_image": "cache/product-images/gorilla-glue-20g-01.jpg",
+      "best_score": 68
+    },
+    {
+      "id": "makita-dhp484",
+      "name": "Makita 18V Cordless Drill DHP484",
+      "category": "power_tools",
+      "inventory_qty": 6,
+      "gift_suitable": true,
+      "images": [
+        {
+          "url": "https://jijistatic.com/sample/makita-drill-1.jpg",
+          "source": "jiji",
+          "resolution": "1080x1080",
+          "quality_score": 88,
+          "breakdown": {
+            "resolution": 25,
+            "background": 30,
+            "prominence": 18,
+            "watermark": 15
+          },
+          "local_path": "cache/product-images/makita-dhp484-01.jpg",
+          "downloaded": true
+        }
+      ],
+      "best_image": "cache/product-images/makita-dhp484-01.jpg",
+      "best_score": 88
+    },
+    {
+      "id": "dewalt-impact-18v",
+      "name": "DeWalt Impact Driver 18V",
+      "category": "power_tools",
+      "inventory_qty": 12,
+      "gift_suitable": true,
+      "images": [
+        {
+          "url": "https://jijistatic.com/sample/dewalt-impact-1.jpg",
+          "source": "jiji",
+          "resolution": "1080x1080",
+          "quality_score": 88,
+          "breakdown": {
+            "resolution": 25,
+            "background": 30,
+            "prominence": 18,
+            "watermark": 15
+          },
+          "local_path": "cache/product-images/dewalt-impact-18v-01.jpg",
+          "downloaded": true
+        }
+      ],
+      "best_image": "cache/product-images/dewalt-impact-18v-01.jpg",
+      "best_score": 88
+    },
+    {
+      "id": "bosch-grinder-115",
+      "name": "Bosch Angle Grinder 115mm",
+      "category": "power_tools",
+      "inventory_qty": 5,
+      "gift_suitable": true,
+      "images": [
+        {
+          "url": "https://jijistatic.com/sample/bosch-grinder-1.jpg",
+          "source": "jiji",
+          "resolution": "1080x1080",
+          "quality_score": 88,
+          "breakdown": {
+            "resolution": 25,
+            "background": 30,
+            "prominence": 18,
+            "watermark": 15
+          },
+          "local_path": "cache/product-images/bosch-grinder-115-01.jpg",
+          "downloaded": true
+        }
+      ],
+      "best_image": "cache/product-images/bosch-grinder-115-01.jpg",
+      "best_score": 88
+    },
+    {
+      "id": "stanley-tape-5m",
+      "name": "Stanley Measuring Tape 5m",
+      "category": "hand_tools",
+      "inventory_qty": 20,
+      "gift_suitable": true,
+      "images": [
+        {
+          "url": "https://jijistatic.com/sample/stanley-tape-1.jpg",
+          "source": "jiji",
+          "resolution": "720x720",
+          "quality_score": 68,
+          "breakdown": {
+            "resolution": 20,
+            "background": 20,
+            "prominence": 18,
+            "watermark": 10
+          },
+          "local_path": "cache/product-images/stanley-tape-5m-01.jpg",
+          "downloaded": true
+        }
+      ],
+      "best_image": "cache/product-images/stanley-tape-5m-01.jpg",
+      "best_score": 68
+    }
+  ]
+}

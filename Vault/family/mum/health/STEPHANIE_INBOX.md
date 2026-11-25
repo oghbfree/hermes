@@ -523,3 +523,202 @@ Appetite: Fair
 Urine: Normal 
 Swelling: Same
 Skin: Okay
+
+## 2026-11-24 13:53 (from 233548236698) [PROCESSED]
+- 20/11/2026 MORNING REPORT
+@6:20am: Carer went to check up on her and she was asleep.
+@7:15pm: Carer went to check up on her again and she was still asleep.
+@8:36am: She was awake and a quick check was done and she said she is feeling okay.
+@8:50am: Coconut water was brought to her.
+@9:12am: She took a walk in the living room.
+@9:32am: She was sitting on her bed, while having a chat with her carer.
+@10am: Breakfast (Pawpaw with scrambled) was brought to her and she ate all of it.
+@10:15am: She requested for tea which was done and brought to her.
+@11am: Vital signs was BP: 118/70, P: 72, T: 36.7
+LOG KEYS
+Mood: Fair
+Appetite: Fair
+Swelling: Same
+Skin: Okay
+
+## 2026-11-24 13:53 (from 233548236698) [PROCESSED]
+- 20/11/2026 AFTERNOON REPORT
+@11:37pm: She was laying in her bed while having a chat with her carer.
+@12:18pm: She was sleeping soundly in her bed.
+@1:43pm: She was still sleeping in her bed, while snoring.
+@2:12pm: Carer went to check up and she was still asleep.
+@3pm: She was awake and sitting on her bed. Carer asked if she was okay she said yes.
+@4pm: Boiled yam with kotomire stew was brought to her and she ate all of it.
+LOG KEYS
+Mood: Fair
+Appetite: Fair
+Swelling: Same
+Skin: Okay
+
+## 2026-11-24 13:54 (from 233548236698) [PROCESSED]
+- 20/11/2026 EVENING REPORT
+@5:35pm: She was in her room sitting on her bed.
+@6pm: Carer went to her room and she had a brief chat with her.
+@7pm: She turned off her bedroom lights and laid in her bed.
+@7:22pm: Carer asked to bring her watermelon juice but she said no.
+@7:30pm: They bid each other goodnight.
+LOG KEYS
+Mood: Fair
+Appetite: Fair
+Swelling: Same
+Skin: Okay
+
+## 2026-11-24 13:54 (from 233548236698) [PROCESSED]
+- 21/11/2026 MORNING REPORT
+@6:38am: Carer went to check up on her and she was asleep.
+@7:30pm: Carer went to check up on her again and she was still asleep.
+@8:19am: She was awake and a quick check was done and she said she is feeling okay but she didn’t sleep well throughout the night and was able to sleep when it was almost morning.
+@8:50am: Carer asked to to do exercises with her but she refused. Carer told her about the tv show her son introduced and further explained the importance of exercises in the morning and evening but she still refused to do it.
+@9:15am: She took a walk in the living room.
+@9:32am: She was sitting on her bed, while having a brief chat with her carer.
+@10am: Breakfast (Tombrown) was brought to her and she ate all of it.
+@10:32am: Vital signs was BP: 120/79, P: 69, T: 36.4
+LOG KEYS
+Mood: Fair
+Appetite: Fair
+Swelling: Same
+Skin: Okay
+
+## 2026-11-24 13:54 (from 233548236698) [PROCESSED]
+- 21/11/2026 AFTERNOON REPORT
+@11:22pm: 2 men came to fix some water issues in her bathroom and she had interactions with them. 
+@12pm: She was chatting with one of the men.
+@1pm: They left and she had a brief chat with her carer.
+@1:30pm: She went to her room and sat on her bed.
+@2pm: Carer went to check up and she laying in her bed, while holding her fan.
+@3pm: She was sitting in her chair by the window.
+@4pm: Boiled rice with gravy stew + salad and fried fish was brought to her and she ate all of the rice and stew but didn’t eat the salad. She later asked for extra rice and stew which was brought to her.
+LOG KEYS
+Mood: Fair
+Appetite: Fair
+Swelling: Same
+Skin: Okay
+
+## 2026-11-24 13:55 (from 233548236698) [PROCESSED]
+- 21/11/2026 EVENING REPORT
+@5pm: She was sitting on her bed, scrolling through her phone.
+@5:40am: She was laying in her bed.
+@6pm: Carer asked her to do some exercises but she also refused.
+@6:12pm: Lukewarm water + Epsom salt was poured into her pedicure bowl, plugged and tuned into the bubble effect. She puts her both legs into the bowl for 15mins.
+@6:20pm: Her feet was dried with a towel, focusing more on drying in between her toes.
+@6:25pm: Cetraben moisturising cream was used to massage her swollen feet for about 3mins.
+@7pm: She had a chat with her carer.
+@7:20pm: Coconut water was brought to her.
+@7:25pm: They bid each other goodnight.
+LOG KEYS
+Mood: Fair
+Appetite: Fair
+Swelling: Same
+Skin: Okay
+
+## 2026-11-24 14:00 (from 233548236698) [PROCESSED]
+- 22/11/2026 MORNING REPORT
+@3:38am: She called carer and asked carer to bring her lukewarm water so she puts her feet inside because they felt numb. Carer told her to stand or change position to facilitate blood flow in her legs but she insisted on the water. Carer boiled water and poured it into her bowl with Epsom salt. She puts her legs inside for 15mins while carer sat by her. She dried her feet and applied ointment on her feet herself. She ensured she was okay and went back to her room.
+@7:04am: A quick check was done and she said she is feeling okay. Carer asked if she was able to sleep after puttinger feet in water and she said yes.
+@8am: She was laying in her bed, with her fan in her hand.
+@8:39am: She drank coconut water.
+@9:32am: She went outside and walked around the compound and walked a little outside and came back with her carer.
+@10am: Breakfast (Corn dough porridge with 2 boiled eggs) was brought to her and she ate all of it.
+LOG KEYS
+Mood: Fair
+Appetite: Fair
+Swelling: Same
+Skin: Okay
+
+## 2026-11-24 14:01 (from 233548236698) [PROCESSED]
+- 22/11/2026 AFTERNOON REPORT
+@11:10am: Vital signs was BP: 121/65 P: 69, T: 36.7
+@12pm: She had a chat with her carer for about 30mins.
+@12:50pm: She was sleeping in her bed.
+@1:50pm: Her son and grandsons came to visit.
+@2pm: She had interactions with her grandsons and son when they came to visit. 
+@2:44pm: She was watching tv with her grandsons and her son.
+@3:10pm: She was still interacting with them.
+@4pm: Mpotompoto was served and she ate all of it.
+LOG KEYS
+Mood: Fair
+Appetite: Fair
+Swelling: Same
+Urine: Normal
+Skin: Okay
+
+## 2026-11-24 14:01 (from 233548236698) [PROCESSED]
+- 22/11/2026 EVENING REPORT
+@5:35pm: Her son and grandsons went and she sat in the living room, watching tv.
+@6:04pm: She went to her room and sat on her bed.
+@6:44pm: Carer went to her room and she had a brief chat with her.
+@7pm: She turned off her bedroom lights and laid in her bed.
+@7:30pm: Carer went to check up on her and she was laying in her bed. They had a brief chat.
+@7:36pm: They bid each other goodnight.
+LOG KEYS
+Mood: Fair
+Appetite: Fair
+Swelling: Same
+Skin: Okay
+
+## 2026-11-24 14:02 (from 233548236698) [PROCESSED]
+- 23/11/2026 MORNING REPORT
+@7am: A quick check was done and she said she is feeling okay but couldn’t sleep because she had diarrhoea in the night(she passed watery stools 3 times). Carer told her she’ll get her drug from the pharmacy when she observes persistence.
+@8am: A plumber came to fix her drainage system in her bathroom and she had interactions with him.
+@9am: She was still having interactions with the plumber.
+@9:30am: She had a brief chat with her carer.
+@10am: Breakfast (Ekoegbemi) was brought to her and she ate all of it.
+@11am: She was laying in her bed.
+LOG KEYS
+Mood: Fair
+Appetite: Fair
+Swelling: Same
+Skin: Okay
+
+## 2026-11-24 14:02 (from 233548236698) [PROCESSED]
+- 23/11/2026 AFTERNOON REPORT
+@12pm: She was sitting on her bed.
+@12:30pm: The plumber left and she was sitting on her bed, looking through her phone.
+@12:45pm: She was looking through her laptop.
+@1:30pm: Vital signs was BP: 125/80, P: 72, T: 36.5
+@2pm: She was still looking through her laptop.
+@3pm: Carer checked up on her and she had a chat with her for about 25mins.
+@4pm: Boiled beans and fried plantain was brought to her and she ate all of it.
+LOG KEYS
+Mood: Fair
+Appetite: Fair
+Swelling: Same
+Skin: Okay
+
+## 2026-11-24 14:02 (from 233548236698) [PROCESSED]
+- 23/11/2026 EVENING REPORT
+@5:35pm: She was in her room sitting on her bed.
+@6pm: Carer went to her room and she had a brief chat with her.
+@6:12pm: Carer asked her to do Epsom salt feet soak but she said no.
+@6:39pm: Carer asked to bring her milk but she said no, she prefers to drink it earlier.
+@7pm: She turned off her bedroom lights and laid in her bed.
+@7:30pm: They bid each other goodnight.
+LOG KEYS
+Mood: Fair
+Appetite: Fair
+Swelling: Same
+Skin: Okay
+
+## 2026-11-24 14:04 (from 233548236698) [PROCESSED]
+- 24/11/2026 MORNING REPORT
+@6:24am: She called carer and complained to her about how hot her room is and she has been sweating a lot. Carer reassured her and adjusted her room’s AC for her.
+@6:49am: A quick check was done and she said she is feeling okay but didn’t sleep well due to how hot she felt through the night.
+@7am: Carer asked her to do some exercises but she refused.
+@8am: She took a walk in the living room.
+@8:44am: She had a brief chat with her carer.
+@9:30am: She was laying on her bed.
+@10am: Breakfast (Pawpaw with scrambled eggs and feasted bread) was brought to her and she ate all of it.
+@10:50am: Vital signs was BP: 122/85, P: 80, T: 36.4
+LOG KEYS
+Mood: Fair
+Appetite: Fair
+Swelling: Same
+Skin: Okay
+
+## 2026-11-24 20:09 (from 233548236698)
+- I’ve done the milk and it’s being stored in the fridge. Yes, she talks about the fact that she used to work at the National Lotteries and many other stories about her.

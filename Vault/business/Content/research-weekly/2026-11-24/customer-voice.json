@@ -1,0 +1,135 @@
+{
+  "generated_at": "2026-11-24T17:20:51.064605",
+  "objections_found": 8,
+  "testimonials_matched": 8,
+  "pairs": [
+    {
+      "objection": "Is this real or fake products?",
+      "frequency": "High",
+      "context": "Quality concerns about imported tools",
+      "testimonial": {
+        "name": "Francis (Piano Mover)",
+        "product": "Heavy-duty straps + dolly rental",
+        "quote": "I move pianos for a living. I was skeptical about buying from Instagram, but 2Real delivered the same day and the straps are legit Gorilla brand. No fake Chinese knock-offs.",
+        "addresses": "Is this real or fake products?",
+        "themes": [
+          "Trust",
+          "same-day delivery",
+          "authentic products"
+        ]
+      }
+    },
+    {
+      "objection": "I don't know how to use power tools",
+      "frequency": "Medium",
+      "context": "DIY beginners hesitant to buy",
+      "testimonial": {
+        "name": "Akosua (DIY Homeowner)",
+        "product": "Makita drill set",
+        "quote": "2Real guy walked me through which drill to buy and even sent a video showing how to use it. Now I've done my whole house — shelves, curtain rods, everything.",
+        "addresses": "I don't know how to use power tools",
+        "themes": [
+          "Education",
+          "support",
+          "empowerment"
+        ]
+      }
+    },
+    {
+      "objection": "Is it cheaper than the market?",
+      "frequency": "High",
+      "context": "Price comparison shoppers",
+      "testimonial": {
+        "name": "Kwame (Small Business Owner)",
+        "product": "Bulk order tools",
+        "quote": "I used to buy from the market but prices change every week. 2Real gave me a bulk discount and the quality is better.",
+        "addresses": "Is it cheaper than the market?",
+        "themes": [
+          "Consistency",
+          "bulk discount",
+          "quality"
+        ]
+      }
+    },
+    {
+      "objection": "Will it arrive on time?",
+      "frequency": "Medium",
+      "context": "Delivery reliability concerns",
+      "testimonial": {
+        "name": "Ama (Market Vendor)",
+        "product": "Superglue pack",
+        "quote": "I needed superglue for repairs and they delivered in 2 hours. I've been ordering every week since.",
+        "addresses": "Will it arrive on time?",
+        "themes": [
+          "Speed",
+          "reliability",
+          "B2B relationship"
+        ]
+      }
+    },
+    {
+      "objection": "Are you qualified to remove bees?",
+      "frequency": "Low",
+      "context": "Service credibility concerns",
+      "testimonial": {
+        "name": "Kofi (Farmer)",
+        "product": "Bee removal service",
+        "quote": "They removed the hive safely and even showed me how to prevent it next time. The protective suit they wore was professional.",
+        "addresses": "Are you qualified to remove bees?",
+        "themes": [
+          "Professionalism",
+          "prevention",
+          "word-of-mouth"
+        ]
+      }
+    },
+    {
+      "objection": "Why should I switch from my current supplier?",
+      "frequency": "Medium",
+      "context": "B2B customer retention",
+      "testimonial": {
+        "name": "Abena (Landlord)",
+        "product": "Multi-service supplies",
+        "quote": "I manage 3 rental properties. 2Real is my go-to for maintenance supplies. I order on WhatsApp, they deliver same day, prices are fair.",
+        "addresses": "Why should I switch from my current supplier?",
+        "themes": [
+          "Convenience",
+          "repeat customer",
+          "one-stop shop"
+        ]
+      }
+    },
+    {
+      "objection": "Is DIY worth it or should I hire someone?",
+      "frequency": "Medium",
+      "context": "DIY vs professional tradeoff",
+      "testimonial": {
+        "name": "Yaw (DIY Enthusiast)",
+        "product": "Power tool starter kit",
+        "quote": "2Real helped me pick the right tools for my budget. Now I've built a table, a shoe rack, and a bed frame. I saved thousands compared to buying furniture.",
+        "addresses": "Is DIY worth it or should I hire someone?",
+        "themes": [
+          "Aspiration",
+          "guidance",
+          "ROI"
+        ]
+      }
+    },
+    {
+      "objection": "Will you have stock when I need it?",
+      "frequency": "High",
+      "context": "Inventory reliability concerns",
+      "testimonial": {
+        "name": "Efua (Small Shop Owner)",
+        "product": "Pest control products",
+        "quote": "They restock me every 2 weeks, no delays. My customers ask for their brand now.",
+        "addresses": "Will you have stock when I need it?",
+        "themes": [
+          "Partnership",
+          "demand",
+          "brand recognition"
+        ]
+      }
+    }
+  ]
+}
