@@ -1,0 +1,1059 @@
+{
+  "generated_at": "2026-11-24T18:17:10",
+  "source": "manufacturer_websites",
+  "total_products": 36,
+  "total_images": 36,
+  "stats": {
+    "total_products_scanned": 36,
+    "plentiful_stock": 98,
+    "high_quality_images": 36,
+    "supported_brands": 4,
+    "gift_suitable_products": 36
+  },
+  "products": [
+    {
+      "id": "33d565de7c8b",
+      "name": "INGCO 30m Fiberglass Measuring Tape HFMT8330",
+      "brand": "INGCO",
+      "model": "HFMT8330",
+      "category": "Ingco Gh",
+      "inventory_qty": 7,
+      "gift_suitable": true,
+      "manufacturer_url": "https://www.ingco.com/search?q=HFMT8330",
+      "images": [
+        {
+          "url": "https://www.ingco.com/search?q=HFMT8330/image.png",
+          "source": "manufacturer",
+          "resolution": "1500x1500",
+          "quality_score": 95,
+          "breakdown": {
+            "resolution": 28,
+            "background": 30,
+            "prominence": 20,
+            "watermark": 20
+          },
+          "local_path": "cache/product-images/33d565de7c8b-mfg.png",
+          "downloaded": false,
+          "simulated": true
+        }
+      ],
+      "best_image": "cache/product-images/33d565de7c8b-mfg.png",
+      "best_score": 95
+    },
+    {
+      "id": "c06dc6b5583b",
+      "name": "INGCO Hack Saw Frame HHF3088",
+      "brand": "INGCO",
+      "model": "HHF3088",
+      "category": "Ingco Gh",
+      "inventory_qty": 5,
+      "gift_suitable": true,
+      "manufacturer_url": "https://www.ingco.com/search?q=HHF3088",
+      "images": [
+        {
+          "url": "https://www.ingco.com/search?q=HHF3088/image.png",
+          "source": "manufacturer",
+          "resolution": "1500x1500",
+          "quality_score": 95,
+          "breakdown": {
+            "resolution": 28,
+            "background": 30,
+            "prominence": 20,
+            "watermark": 20
+          },
+          "local_path": "cache/product-images/c06dc6b5583b-mfg.png",
+          "downloaded": false,
+          "simulated": true
+        }
+      ],
+      "best_image": "cache/product-images/c06dc6b5583b-mfg.png",
+      "best_score": 95
+    },
+    {
+      "id": "05a0ad4ffcd8",
+      "name": "INGCO  Acetic Silicone Sealant （Black)HASS03",
+      "brand": "INGCO",
+      "model": null,
+      "category": "Ingco Gh",
+      "inventory_qty": 22,
+      "gift_suitable": true,
+      "manufacturer_url": "https://www.ingco.com/search?q=INGCO%20%20Acetic%20Silicone%20Sealant%20%EF%BC%88Black%29HASS03",
+      "images": [
+        {
+          "url": "https://www.ingco.com/search?q=INGCO%20%20Acetic%20Silicone%20Sealant%20%EF%BC%88Black%29HASS03/image.png",
+          "source": "manufacturer",
+          "resolution": "1500x1500",
+          "quality_score": 95,
+          "breakdown": {
+            "resolution": 28,
+            "background": 30,
+            "prominence": 20,
+            "watermark": 20
+          },
+          "local_path": "cache/product-images/05a0ad4ffcd8-mfg.png",
+          "downloaded": false,
+          "simulated": true
+        }
+      ],
+      "best_image": "cache/product-images/05a0ad4ffcd8-mfg.png",
+      "best_score": 95
+    },
+    {
+      "id": "d3aefaf059d6",
+      "name": "INGCO  Bi-Metal hacksaw blade setHSBKT12185",
+      "brand": "INGCO",
+      "model": "HSBKT12185",
+      "category": "Ingco Gh",
+      "inventory_qty": 50,
+      "gift_suitable": true,
+      "manufacturer_url": "https://www.ingco.com/search?q=HSBKT12185",
+      "images": [
+        {
+          "url": "https://www.ingco.com/search?q=HSBKT12185/image.png",
+          "source": "manufacturer",
+          "resolution": "1500x1500",
+          "quality_score": 95,
+          "breakdown": {
+            "resolution": 28,
+            "background": 30,
+            "prominence": 20,
+            "watermark": 20
+          },
+          "local_path": "cache/product-images/d3aefaf059d6-mfg.png",
+          "downloaded": false,
+          "simulated": true
+        }
+      ],
+      "best_image": "cache/product-images/d3aefaf059d6-mfg.png",
+      "best_score": 95
+    },
+    {
+      "id": "7623d3a41758",
+      "name": "INGCO Hand Level HMSL03101",
+      "brand": "INGCO",
+      "model": "HMSL03101",
+      "category": "Ingco Gh",
+      "inventory_qty": 10,
+      "gift_suitable": true,
+      "manufacturer_url": "https://www.ingco.com/search?q=HMSL03101",
+      "images": [
+        {
+          "url": "https://www.ingco.com/search?q=HMSL03101/image.png",
+          "source": "manufacturer",
+          "resolution": "1500x1500",
+          "quality_score": 95,
+          "breakdown": {
+            "resolution": 28,
+            "background": 30,
+            "prominence": 20,
+            "watermark": 20
+          },
+          "local_path": "cache/product-images/7623d3a41758-mfg.png",
+          "downloaded": false,
+          "simulated": true
+        }
+      ],
+      "best_image": "cache/product-images/7623d3a41758-mfg.png",
+      "best_score": 95
+    },
+    {
+      "id": "4103e5d469bd",
+      "name": "Ingco HGVP01 PVC Gloves 32cm",
+      "brand": "INGCO",
+      "model": null,
+      "category": "Ingco Gh",
+      "inventory_qty": 11,
+      "gift_suitable": true,
+      "manufacturer_url": "https://www.ingco.com/search?q=Ingco%20HGVP01%20PVC%20Gloves%2032cm",
+      "images": [
+        {
+          "url": "https://www.ingco.com/search?q=Ingco%20HGVP01%20PVC%20Gloves%2032cm/image.png",
+          "source": "manufacturer",
+          "resolution": "1500x1500",
+          "quality_score": 95,
+          "breakdown": {
+            "resolution": 28,
+            "background": 30,
+            "prominence": 20,
+            "watermark": 20
+          },
+          "local_path": "cache/product-images/4103e5d469bd-mfg.png",
+          "downloaded": false,
+          "simulated": true
+        }
+      ],
+      "best_image": "cache/product-images/4103e5d469bd-mfg.png",
+      "best_score": 95
+    },
+    {
+      "id": "edaac21e5233",
+      "name": "Ingco HGVC01 Leather Gloves 10.5\"",
+      "brand": "INGCO",
+      "model": null,
+      "category": "Ingco Gh",
+      "inventory_qty": 10,
+      "gift_suitable": true,
+      "manufacturer_url": "https://www.ingco.com/search?q=Ingco%20HGVC01%20Leather%20Gloves%2010.5%22",
+      "images": [
+        {
+          "url": "https://www.ingco.com/search?q=Ingco%20HGVC01%20Leather%20Gloves%2010.5%22/image.png",
+          "source": "manufacturer",
+          "resolution": "1500x1500",
+          "quality_score": 95,
+          "breakdown": {
+            "resolution": 28,
+            "background": 30,
+            "prominence": 20,
+            "watermark": 20
+          },
+          "local_path": "cache/product-images/edaac21e5233-mfg.png",
+          "downloaded": false,
+          "simulated": true
+        }
+      ],
+      "best_image": "cache/product-images/edaac21e5233-mfg.png",
+      "best_score": 95
+    },
+    {
+      "id": "9a88e3bd42a4",
+      "name": "Ingco HCG0309 caulking gun",
+      "brand": "INGCO",
+      "model": "HCG0309",
+      "category": "Ingco Gh",
+      "inventory_qty": 11,
+      "gift_suitable": true,
+      "manufacturer_url": "https://www.ingco.com/search?q=HCG0309",
+      "images": [
+        {
+          "url": "https://www.ingco.com/search?q=HCG0309/image.png",
+          "source": "manufacturer",
+          "resolution": "1500x1500",
+          "quality_score": 95,
+          "breakdown": {
+            "resolution": 28,
+            "background": 30,
+            "prominence": 20,
+            "watermark": 20
+          },
+          "local_path": "cache/product-images/9a88e3bd42a4-mfg.png",
+          "downloaded": false,
+          "simulated": true
+        }
+      ],
+      "best_image": "cache/product-images/9a88e3bd42a4-mfg.png",
+      "best_score": 95
+    },
+    {
+      "id": "0f49a1fbf886",
+      "name": "Ingco HSMT08525\t Steel measuring tape 5M",
+      "brand": "INGCO",
+      "model": "HSMT08525",
+      "category": "Ingco Gh",
+      "inventory_qty": 9,
+      "gift_suitable": true,
+      "manufacturer_url": "https://www.ingco.com/search?q=HSMT08525",
+      "images": [
+        {
+          "url": "https://www.ingco.com/search?q=HSMT08525/image.png",
+          "source": "manufacturer",
+          "resolution": "1500x1500",
+          "quality_score": 95,
+          "breakdown": {
+            "resolution": 28,
+            "background": 30,
+            "prominence": 20,
+            "watermark": 20
+          },
+          "local_path": "cache/product-images/0f49a1fbf886-mfg.png",
+          "downloaded": false,
+          "simulated": true
+        }
+      ],
+      "best_image": "cache/product-images/0f49a1fbf886-mfg.png",
+      "best_score": 95
+    },
+    {
+      "id": "112c097ad238",
+      "name": "Ingco HSMT08825\t Steel measuring tape 8M",
+      "brand": "INGCO",
+      "model": "HSMT08825",
+      "category": "Ingco Gh",
+      "inventory_qty": 9,
+      "gift_suitable": true,
+      "manufacturer_url": "https://www.ingco.com/search?q=HSMT08825",
+      "images": [
+        {
+          "url": "https://www.ingco.com/search?q=HSMT08825/image.png",
+          "source": "manufacturer",
+          "resolution": "1500x1500",
+          "quality_score": 95,
+          "breakdown": {
+            "resolution": 28,
+            "background": 30,
+            "prominence": 20,
+            "watermark": 20
+          },
+          "local_path": "cache/product-images/112c097ad238-mfg.png",
+          "downloaded": false,
+          "simulated": true
+        }
+      ],
+      "best_image": "cache/product-images/112c097ad238-mfg.png",
+      "best_score": 95
+    },
+    {
+      "id": "662f9f9bcc59",
+      "name": "Gorilla Contact Adhesive Crystal Clear 75g",
+      "brand": "GORILLA",
+      "model": null,
+      "category": "Online",
+      "inventory_qty": 11,
+      "gift_suitable": true,
+      "manufacturer_url": "https://www.gorillatough.com/product/gorilla-contact-adhesive-crystal-clear-75g",
+      "images": [
+        {
+          "url": "https://www.gorillatough.com/product/gorilla-contact-adhesive-crystal-clear-75g/image.png",
+          "source": "manufacturer",
+          "resolution": "1500x1500",
+          "quality_score": 95,
+          "breakdown": {
+            "resolution": 28,
+            "background": 30,
+            "prominence": 20,
+            "watermark": 20
+          },
+          "local_path": "cache/product-images/662f9f9bcc59-mfg.png",
+          "downloaded": false,
+          "simulated": true
+        }
+      ],
+      "best_image": "cache/product-images/662f9f9bcc59-mfg.png",
+      "best_score": 95
+    },
+    {
+      "id": "27607a596703",
+      "name": "Gorilla Crystal Clear Mounting Tape Squares Double-sided",
+      "brand": "GORILLA",
+      "model": null,
+      "category": "Online",
+      "inventory_qty": 9,
+      "gift_suitable": true,
+      "manufacturer_url": "https://www.gorillatough.com/product/gorilla-crystal-clear-mounting-tape-squares-double-sided",
+      "images": [
+        {
+          "url": "https://www.gorillatough.com/product/gorilla-crystal-clear-mounting-tape-squares-double-sided/image.png",
+          "source": "manufacturer",
+          "resolution": "1500x1500",
+          "quality_score": 95,
+          "breakdown": {
+            "resolution": 28,
+            "background": 30,
+            "prominence": 20,
+            "watermark": 20
+          },
+          "local_path": "cache/product-images/27607a596703-mfg.png",
+          "downloaded": false,
+          "simulated": true
+        }
+      ],
+      "best_image": "cache/product-images/27607a596703-mfg.png",
+      "best_score": 95
+    },
+    {
+      "id": "85d3165e72a5",
+      "name": "Gorilla Epoxy Clear",
+      "brand": "GORILLA",
+      "model": null,
+      "category": "Online",
+      "inventory_qty": 13,
+      "gift_suitable": true,
+      "manufacturer_url": "https://www.gorillatough.com/product/gorilla-epoxy-clear",
+      "images": [
+        {
+          "url": "https://www.gorillatough.com/product/gorilla-epoxy-clear/image.png",
+          "source": "manufacturer",
+          "resolution": "1500x1500",
+          "quality_score": 95,
+          "breakdown": {
+            "resolution": 28,
+            "background": 30,
+            "prominence": 20,
+            "watermark": 20
+          },
+          "local_path": "cache/product-images/85d3165e72a5-mfg.png",
+          "downloaded": false,
+          "simulated": true
+        }
+      ],
+      "best_image": "cache/product-images/85d3165e72a5-mfg.png",
+      "best_score": 95
+    },
+    {
+      "id": "d3afba0e2af3",
+      "name": "Gorilla Gorilla Glue Clear 50ml",
+      "brand": "GORILLA",
+      "model": null,
+      "category": "Online",
+      "inventory_qty": 5,
+      "gift_suitable": true,
+      "manufacturer_url": "https://www.gorillatough.com/product/gorilla-gorilla-glue-clear-50ml",
+      "images": [
+        {
+          "url": "https://www.gorillatough.com/product/gorilla-gorilla-glue-clear-50ml/image.png",
+          "source": "manufacturer",
+          "resolution": "1500x1500",
+          "quality_score": 95,
+          "breakdown": {
+            "resolution": 28,
+            "background": 30,
+            "prominence": 20,
+            "watermark": 20
+          },
+          "local_path": "cache/product-images/d3afba0e2af3-mfg.png",
+          "downloaded": false,
+          "simulated": true
+        }
+      ],
+      "best_image": "cache/product-images/d3afba0e2af3-mfg.png",
+      "best_score": 95
+    },
+    {
+      "id": "706819e31db8",
+      "name": "Gorilla Gorilla Glue 60ml",
+      "brand": "GORILLA",
+      "model": null,
+      "category": "Online",
+      "inventory_qty": 10,
+      "gift_suitable": true,
+      "manufacturer_url": "https://www.gorillatough.com/product/gorilla-gorilla-glue-60ml",
+      "images": [
+        {
+          "url": "https://www.gorillatough.com/product/gorilla-gorilla-glue-60ml/image.png",
+          "source": "manufacturer",
+          "resolution": "1500x1500",
+          "quality_score": 95,
+          "breakdown": {
+            "resolution": 28,
+            "background": 30,
+            "prominence": 20,
+            "watermark": 20
+          },
+          "local_path": "cache/product-images/706819e31db8-mfg.png",
+          "downloaded": false,
+          "simulated": true
+        }
+      ],
+      "best_image": "cache/product-images/706819e31db8-mfg.png",
+      "best_score": 95
+    },
+    {
+      "id": "4699d9eac4cf",
+      "name": "Gorilla Gorilla Glue Clear 170 Ml",
+      "brand": "GORILLA",
+      "model": null,
+      "category": "Online",
+      "inventory_qty": 5,
+      "gift_suitable": true,
+      "manufacturer_url": "https://www.gorillatough.com/product/gorilla-gorilla-glue-clear-170-ml",
+      "images": [
+        {
+          "url": "https://www.gorillatough.com/product/gorilla-gorilla-glue-clear-170-ml/image.png",
+          "source": "manufacturer",
+          "resolution": "1500x1500",
+          "quality_score": 95,
+          "breakdown": {
+            "resolution": 28,
+            "background": 30,
+            "prominence": 20,
+            "watermark": 20
+          },
+          "local_path": "cache/product-images/4699d9eac4cf-mfg.png",
+          "downloaded": false,
+          "simulated": true
+        }
+      ],
+      "best_image": "cache/product-images/4699d9eac4cf-mfg.png",
+      "best_score": 95
+    },
+    {
+      "id": "66031b6e10d4",
+      "name": "Gorilla Gorilla Glue 250 Ml",
+      "brand": "GORILLA",
+      "model": null,
+      "category": "Online",
+      "inventory_qty": 6,
+      "gift_suitable": true,
+      "manufacturer_url": "https://www.gorillatough.com/product/gorilla-gorilla-glue-250-ml",
+      "images": [
+        {
+          "url": "https://www.gorillatough.com/product/gorilla-gorilla-glue-250-ml/image.png",
+          "source": "manufacturer",
+          "resolution": "1500x1500",
+          "quality_score": 95,
+          "breakdown": {
+            "resolution": 28,
+            "background": 30,
+            "prominence": 20,
+            "watermark": 20
+          },
+          "local_path": "cache/product-images/66031b6e10d4-mfg.png",
+          "downloaded": false,
+          "simulated": true
+        }
+      ],
+      "best_image": "cache/product-images/66031b6e10d4-mfg.png",
+      "best_score": 95
+    },
+    {
+      "id": "5b30950d9129",
+      "name": "Gorilla Heavy Duty Mounting Tape 25 Mm X 1.5 M",
+      "brand": "GORILLA",
+      "model": null,
+      "category": "Online",
+      "inventory_qty": 10,
+      "gift_suitable": true,
+      "manufacturer_url": "https://www.gorillatough.com/product/gorilla-heavy-duty-mounting-tape-25-mm-x-15-m",
+      "images": [
+        {
+          "url": "https://www.gorillatough.com/product/gorilla-heavy-duty-mounting-tape-25-mm-x-15-m/image.png",
+          "source": "manufacturer",
+          "resolution": "1500x1500",
+          "quality_score": 95,
+          "breakdown": {
+            "resolution": 28,
+            "background": 30,
+            "prominence": 20,
+            "watermark": 20
+          },
+          "local_path": "cache/product-images/5b30950d9129-mfg.png",
+          "downloaded": false,
+          "simulated": true
+        }
+      ],
+      "best_image": "cache/product-images/5b30950d9129-mfg.png",
+      "best_score": 95
+    },
+    {
+      "id": "2ae8c181a17d",
+      "name": "Gorilla Mounting Tape Crystal Clear 25mm X 1.5 M",
+      "brand": "GORILLA",
+      "model": null,
+      "category": "Online",
+      "inventory_qty": 5,
+      "gift_suitable": true,
+      "manufacturer_url": "https://www.gorillatough.com/product/gorilla-mounting-tape-crystal-clear-25mm-x-15-m",
+      "images": [
+        {
+          "url": "https://www.gorillatough.com/product/gorilla-mounting-tape-crystal-clear-25mm-x-15-m/image.png",
+          "source": "manufacturer",
+          "resolution": "1500x1500",
+          "quality_score": 95,
+          "breakdown": {
+            "resolution": 28,
+            "background": 30,
+            "prominence": 20,
+            "watermark": 20
+          },
+          "local_path": "cache/product-images/2ae8c181a17d-mfg.png",
+          "downloaded": false,
+          "simulated": true
+        }
+      ],
+      "best_image": "cache/product-images/2ae8c181a17d-mfg.png",
+      "best_score": 95
+    },
+    {
+      "id": "94cf952b29ed",
+      "name": "Gorilla Super Glue Gel 15g",
+      "brand": "GORILLA",
+      "model": null,
+      "category": "Online",
+      "inventory_qty": 7,
+      "gift_suitable": true,
+      "manufacturer_url": "https://www.gorillatough.com/product/gorilla-super-glue-gel-15g",
+      "images": [
+        {
+          "url": "https://www.gorillatough.com/product/gorilla-super-glue-gel-15g/image.png",
+          "source": "manufacturer",
+          "resolution": "1500x1500",
+          "quality_score": 95,
+          "breakdown": {
+            "resolution": 28,
+            "background": 30,
+            "prominence": 20,
+            "watermark": 20
+          },
+          "local_path": "cache/product-images/94cf952b29ed-mfg.png",
+          "downloaded": false,
+          "simulated": true
+        }
+      ],
+      "best_image": "cache/product-images/94cf952b29ed-mfg.png",
+      "best_score": 95
+    },
+    {
+      "id": "a6f1d12c10ea",
+      "name": "Stanley FatMax Torpedo Scaffold Level 3 Vials 043603 220mm / 9\"",
+      "brand": "STANLEY",
+      "model": "043603",
+      "category": "Online",
+      "inventory_qty": 13,
+      "gift_suitable": true,
+      "manufacturer_url": "https://www.stanleytools.com/search?q=043603",
+      "images": [
+        {
+          "url": "https://www.stanleytools.com/search?q=043603/image.png",
+          "source": "manufacturer",
+          "resolution": "1500x1500",
+          "quality_score": 90,
+          "breakdown": {
+            "resolution": 28,
+            "background": 30,
+            "prominence": 20,
+            "watermark": 20
+          },
+          "local_path": "cache/product-images/a6f1d12c10ea-mfg.png",
+          "downloaded": false,
+          "simulated": true
+        }
+      ],
+      "best_image": "cache/product-images/a6f1d12c10ea-mfg.png",
+      "best_score": 90
+    },
+    {
+      "id": "aaded3662042",
+      "name": "Stanley Cutting Disc 115mm 38080 (2 Pack) Brick",
+      "brand": "STANLEY",
+      "model": null,
+      "category": "Online",
+      "inventory_qty": 11,
+      "gift_suitable": true,
+      "manufacturer_url": "https://www.stanleytools.com/search?q=Stanley%20Cutting%20Disc%20115mm%2038080%20%282%20Pack%29%20Brick",
+      "images": [
+        {
+          "url": "https://www.stanleytools.com/search?q=Stanley%20Cutting%20Disc%20115mm%2038080%20%282%20Pack%29%20Brick/image.png",
+          "source": "manufacturer",
+          "resolution": "1500x1500",
+          "quality_score": 90,
+          "breakdown": {
+            "resolution": 28,
+            "background": 30,
+            "prominence": 20,
+            "watermark": 20
+          },
+          "local_path": "cache/product-images/aaded3662042-mfg.png",
+          "downloaded": false,
+          "simulated": true
+        }
+      ],
+      "best_image": "cache/product-images/aaded3662042-mfg.png",
+      "best_score": 90
+    },
+    {
+      "id": "d610fc3737b0",
+      "name": "Stanley Hammer Steelmaster",
+      "brand": "STANLEY",
+      "model": null,
+      "category": "Online",
+      "inventory_qty": 18,
+      "gift_suitable": true,
+      "manufacturer_url": "https://www.stanleytools.com/search?q=Stanley%20Hammer%20Steelmaster",
+      "images": [
+        {
+          "url": "https://www.stanleytools.com/search?q=Stanley%20Hammer%20Steelmaster/image.png",
+          "source": "manufacturer",
+          "resolution": "1500x1500",
+          "quality_score": 90,
+          "breakdown": {
+            "resolution": 28,
+            "background": 30,
+            "prominence": 20,
+            "watermark": 20
+          },
+          "local_path": "cache/product-images/d610fc3737b0-mfg.png",
+          "downloaded": false,
+          "simulated": true
+        }
+      ],
+      "best_image": "cache/product-images/d610fc3737b0-mfg.png",
+      "best_score": 90
+    },
+    {
+      "id": "d89d7f5a5faf",
+      "name": "Stanley Knife Exo Retractable Fatmax FMHT010288",
+      "brand": "STANLEY",
+      "model": "FMHT010288",
+      "category": "Online",
+      "inventory_qty": 6,
+      "gift_suitable": true,
+      "manufacturer_url": "https://www.stanleytools.com/search?q=FMHT010288",
+      "images": [
+        {
+          "url": "https://www.stanleytools.com/search?q=FMHT010288/image.png",
+          "source": "manufacturer",
+          "resolution": "1500x1500",
+          "quality_score": 90,
+          "breakdown": {
+            "resolution": 28,
+            "background": 30,
+            "prominence": 20,
+            "watermark": 20
+          },
+          "local_path": "cache/product-images/d89d7f5a5faf-mfg.png",
+          "downloaded": false,
+          "simulated": true
+        }
+      ],
+      "best_image": "cache/product-images/d89d7f5a5faf-mfg.png",
+      "best_score": 90
+    },
+    {
+      "id": "b4802aba3345",
+      "name": "Stanley Knife Instantfeed 010237",
+      "brand": "STANLEY",
+      "model": "010237",
+      "category": "Online",
+      "inventory_qty": 14,
+      "gift_suitable": true,
+      "manufacturer_url": "https://www.stanleytools.com/search?q=010237",
+      "images": [
+        {
+          "url": "https://www.stanleytools.com/search?q=010237/image.png",
+          "source": "manufacturer",
+          "resolution": "1500x1500",
+          "quality_score": 90,
+          "breakdown": {
+            "resolution": 28,
+            "background": 30,
+            "prominence": 20,
+            "watermark": 20
+          },
+          "local_path": "cache/product-images/b4802aba3345-mfg.png",
+          "downloaded": false,
+          "simulated": true
+        }
+      ],
+      "best_image": "cache/product-images/b4802aba3345-mfg.png",
+      "best_score": 90
+    },
+    {
+      "id": "22162cb0b040",
+      "name": "Stanley Staple Pins Staples 1 Tra 704T 6mm G",
+      "brand": "STANLEY",
+      "model": null,
+      "category": "Online",
+      "inventory_qty": 9,
+      "gift_suitable": true,
+      "manufacturer_url": "https://www.stanleytools.com/search?q=Stanley%20Staple%20Pins%20Staples%201%20Tra%20704T%206mm%20G",
+      "images": [
+        {
+          "url": "https://www.stanleytools.com/search?q=Stanley%20Staple%20Pins%20Staples%201%20Tra%20704T%206mm%20G/image.png",
+          "source": "manufacturer",
+          "resolution": "1500x1500",
+          "quality_score": 90,
+          "breakdown": {
+            "resolution": 28,
+            "background": 30,
+            "prominence": 20,
+            "watermark": 20
+          },
+          "local_path": "cache/product-images/22162cb0b040-mfg.png",
+          "downloaded": false,
+          "simulated": true
+        }
+      ],
+      "best_image": "cache/product-images/22162cb0b040-mfg.png",
+      "best_score": 90
+    },
+    {
+      "id": "7de8859ff89b",
+      "name": "Stanley Staple Pins Staples 10mm A 0tra206t",
+      "brand": "STANLEY",
+      "model": null,
+      "category": "Online",
+      "inventory_qty": 7,
+      "gift_suitable": true,
+      "manufacturer_url": "https://www.stanleytools.com/search?q=Stanley%20Staple%20Pins%20Staples%2010mm%20A%200tra206t",
+      "images": [
+        {
+          "url": "https://www.stanleytools.com/search?q=Stanley%20Staple%20Pins%20Staples%2010mm%20A%200tra206t/image.png",
+          "source": "manufacturer",
+          "resolution": "1500x1500",
+          "quality_score": 90,
+          "breakdown": {
+            "resolution": 28,
+            "background": 30,
+            "prominence": 20,
+            "watermark": 20
+          },
+          "local_path": "cache/product-images/7de8859ff89b-mfg.png",
+          "downloaded": false,
+          "simulated": true
+        }
+      ],
+      "best_image": "cache/product-images/7de8859ff89b-mfg.png",
+      "best_score": 90
+    },
+    {
+      "id": "c8fab176571a",
+      "name": "Stanley Staple Pins Staples 8 mm A 0tra205t",
+      "brand": "STANLEY",
+      "model": null,
+      "category": "Online",
+      "inventory_qty": 10,
+      "gift_suitable": true,
+      "manufacturer_url": "https://www.stanleytools.com/search?q=Stanley%20Staple%20Pins%20Staples%208%20mm%20A%200tra205t",
+      "images": [
+        {
+          "url": "https://www.stanleytools.com/search?q=Stanley%20Staple%20Pins%20Staples%208%20mm%20A%200tra205t/image.png",
+          "source": "manufacturer",
+          "resolution": "1500x1500",
+          "quality_score": 90,
+          "breakdown": {
+            "resolution": 28,
+            "background": 30,
+            "prominence": 20,
+            "watermark": 20
+          },
+          "local_path": "cache/product-images/c8fab176571a-mfg.png",
+          "downloaded": false,
+          "simulated": true
+        }
+      ],
+      "best_image": "cache/product-images/c8fab176571a-mfg.png",
+      "best_score": 90
+    },
+    {
+      "id": "6832e1f6e35d",
+      "name": "Stanley Staple Pins Staples 1 Tra 706 T 10mm G",
+      "brand": "STANLEY",
+      "model": null,
+      "category": "Online",
+      "inventory_qty": 7,
+      "gift_suitable": true,
+      "manufacturer_url": "https://www.stanleytools.com/search?q=Stanley%20Staple%20Pins%20Staples%201%20Tra%20706%20T%2010mm%20G",
+      "images": [
+        {
+          "url": "https://www.stanleytools.com/search?q=Stanley%20Staple%20Pins%20Staples%201%20Tra%20706%20T%2010mm%20G/image.png",
+          "source": "manufacturer",
+          "resolution": "1500x1500",
+          "quality_score": 90,
+          "breakdown": {
+            "resolution": 28,
+            "background": 30,
+            "prominence": 20,
+            "watermark": 20
+          },
+          "local_path": "cache/product-images/6832e1f6e35d-mfg.png",
+          "downloaded": false,
+          "simulated": true
+        }
+      ],
+      "best_image": "cache/product-images/6832e1f6e35d-mfg.png",
+      "best_score": 90
+    },
+    {
+      "id": "cdc21ba7371d",
+      "name": "Stanley Tape Measure 30m 034262",
+      "brand": "STANLEY",
+      "model": "034262",
+      "category": "Online",
+      "inventory_qty": 7,
+      "gift_suitable": true,
+      "manufacturer_url": "https://www.stanleytools.com/search?q=034262",
+      "images": [
+        {
+          "url": "https://www.stanleytools.com/search?q=034262/image.png",
+          "source": "manufacturer",
+          "resolution": "1500x1500",
+          "quality_score": 90,
+          "breakdown": {
+            "resolution": 28,
+            "background": 30,
+            "prominence": 20,
+            "watermark": 20
+          },
+          "local_path": "cache/product-images/cdc21ba7371d-mfg.png",
+          "downloaded": false,
+          "simulated": true
+        }
+      ],
+      "best_image": "cache/product-images/cdc21ba7371d-mfg.png",
+      "best_score": 90
+    },
+    {
+      "id": "12c78b5f9b2a",
+      "name": "Master Lock Disc Lock Key <8",
+      "brand": "MASTERLOCK",
+      "model": null,
+      "category": "Online",
+      "inventory_qty": 7,
+      "gift_suitable": true,
+      "manufacturer_url": "https://www.masterlock.com/search?q=Master%20Lock%20Disc%20Lock%20Key%20%3C8",
+      "images": [
+        {
+          "url": "https://www.masterlock.com/search?q=Master%20Lock%20Disc%20Lock%20Key%20%3C8/image.png",
+          "source": "manufacturer",
+          "resolution": "1500x1500",
+          "quality_score": 90,
+          "breakdown": {
+            "resolution": 28,
+            "background": 30,
+            "prominence": 20,
+            "watermark": 20
+          },
+          "local_path": "cache/product-images/12c78b5f9b2a-mfg.png",
+          "downloaded": false,
+          "simulated": true
+        }
+      ],
+      "best_image": "cache/product-images/12c78b5f9b2a-mfg.png",
+      "best_score": 90
+    },
+    {
+      "id": "b2bb778c7b0c",
+      "name": "Master Lock 1 Long Padlock 1 Key>8",
+      "brand": "MASTERLOCK",
+      "model": null,
+      "category": "Online",
+      "inventory_qty": 5,
+      "gift_suitable": true,
+      "manufacturer_url": "https://www.masterlock.com/search?q=Master%20Lock%201%20Long%20Padlock%201%20Key%3E8",
+      "images": [
+        {
+          "url": "https://www.masterlock.com/search?q=Master%20Lock%201%20Long%20Padlock%201%20Key%3E8/image.png",
+          "source": "manufacturer",
+          "resolution": "1500x1500",
+          "quality_score": 90,
+          "breakdown": {
+            "resolution": 28,
+            "background": 30,
+            "prominence": 20,
+            "watermark": 20
+          },
+          "local_path": "cache/product-images/b2bb778c7b0c-mfg.png",
+          "downloaded": false,
+          "simulated": true
+        }
+      ],
+      "best_image": "cache/product-images/b2bb778c7b0c-mfg.png",
+      "best_score": 90
+    },
+    {
+      "id": "a948b604f6c5",
+      "name": "Master Lock 2 Padlocks 1 Key>8 M1T",
+      "brand": "MASTERLOCK",
+      "model": null,
+      "category": "Online",
+      "inventory_qty": 12,
+      "gift_suitable": true,
+      "manufacturer_url": "https://www.masterlock.com/search?q=Master%20Lock%202%20Padlocks%201%20Key%3E8%20M1T",
+      "images": [
+        {
+          "url": "https://www.masterlock.com/search?q=Master%20Lock%202%20Padlocks%201%20Key%3E8%20M1T/image.png",
+          "source": "manufacturer",
+          "resolution": "1500x1500",
+          "quality_score": 90,
+          "breakdown": {
+            "resolution": 28,
+            "background": 30,
+            "prominence": 20,
+            "watermark": 20
+          },
+          "local_path": "cache/product-images/a948b604f6c5-mfg.png",
+          "downloaded": false,
+          "simulated": true
+        }
+      ],
+      "best_image": "cache/product-images/a948b604f6c5-mfg.png",
+      "best_score": 90
+    },
+    {
+      "id": "778af9b2190b",
+      "name": "Master Lock 1 Short Padlock 1 Key <8",
+      "brand": "MASTERLOCK",
+      "model": null,
+      "category": "Online",
+      "inventory_qty": 12,
+      "gift_suitable": true,
+      "manufacturer_url": "https://www.masterlock.com/search?q=Master%20Lock%201%20Short%20Padlock%201%20Key%20%3C8",
+      "images": [
+        {
+          "url": "https://www.masterlock.com/search?q=Master%20Lock%201%20Short%20Padlock%201%20Key%20%3C8/image.png",
+          "source": "manufacturer",
+          "resolution": "1500x1500",
+          "quality_score": 90,
+          "breakdown": {
+            "resolution": 28,
+            "background": 30,
+            "prominence": 20,
+            "watermark": 20
+          },
+          "local_path": "cache/product-images/778af9b2190b-mfg.png",
+          "downloaded": false,
+          "simulated": true
+        }
+      ],
+      "best_image": "cache/product-images/778af9b2190b-mfg.png",
+      "best_score": 90
+    },
+    {
+      "id": "5b527713b988",
+      "name": "Master Lock  121t 2 Padlocks One Key >2",
+      "brand": "MASTERLOCK",
+      "model": null,
+      "category": "Online",
+      "inventory_qty": 9,
+      "gift_suitable": true,
+      "manufacturer_url": "https://www.masterlock.com/search?q=Master%20Lock%20%20121t%202%20Padlocks%20One%20Key%20%3E2",
+      "images": [
+        {
+          "url": "https://www.masterlock.com/search?q=Master%20Lock%20%20121t%202%20Padlocks%20One%20Key%20%3E2/image.png",
+          "source": "manufacturer",
+          "resolution": "1500x1500",
+          "quality_score": 90,
+          "breakdown": {
+            "resolution": 28,
+            "background": 30,
+            "prominence": 20,
+            "watermark": 20
+          },
+          "local_path": "cache/product-images/5b527713b988-mfg.png",
+          "downloaded": false,
+          "simulated": true
+        }
+      ],
+      "best_image": "cache/product-images/5b527713b988-mfg.png",
+      "best_score": 90
+    },
+    {
+      "id": "0d641f34e399",
+      "name": "Master Lock 140t Two Padlocks One Key >4",
+      "brand": "MASTERLOCK",
+      "model": null,
+      "category": "Online",
+      "inventory_qty": 27,
+      "gift_suitable": true,
+      "manufacturer_url": "https://www.masterlock.com/search?q=Master%20Lock%20140t%20Two%20Padlocks%20One%20Key%20%3E4",
+      "images": [
+        {
+          "url": "https://www.masterlock.com/search?q=Master%20Lock%20140t%20Two%20Padlocks%20One%20Key%20%3E4/image.png",
+          "source": "manufacturer",
+          "resolution": "1500x1500",
+          "quality_score": 90,
+          "breakdown": {
+            "resolution": 28,
+            "background": 30,
+            "prominence": 20,
+            "watermark": 20
+          },
+          "local_path": "cache/product-images/0d641f34e399-mfg.png",
+          "downloaded": false,
+          "simulated": true
+        }
+      ],
+      "best_image": "cache/product-images/0d641f34e399-mfg.png",
+      "best_score": 90
+    }
+  ]
+}

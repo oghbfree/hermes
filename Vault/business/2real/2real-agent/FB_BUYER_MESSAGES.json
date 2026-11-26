@@ -670,6 +670,15 @@
       "last_dir": "out",
       "last_msg": "GHS 850 UK imported tested working; CTA 0204252252",
       "last_out": "2026-11-16T02:49:04.132236"
+    },
+    {
+      "id": "nana-ryobi-impact-1200",
+      "nudges_sent": 0,
+      "status": "replied",
+      "created": "2026-11-25T10:18:30.034412",
+      "buyer": "Nana",
+      "item": "Ryobi 18V ONE+ Cordless Impact Driver",
+      "price": 1200
     }
   ],
   "nudge_policy": {

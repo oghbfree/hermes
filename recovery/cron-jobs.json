@@ -22,15 +22,15 @@
       "schedule_display": "0 19 * * *",
       "repeat": {
         "times": null,
-        "completed": 159
+        "completed": 160
       },
       "enabled": true,
       "state": "scheduled",
       "paused_at": null,
       "paused_reason": null,
       "created_at": "2026-06-07T00:35:40.116212+01:00",
-      "next_run_at": "2026-11-25T19:00:00+00:00",
-      "last_run_at": "2026-11-24T19:10:47.909660+00:00",
+      "next_run_at": "2026-11-26T19:00:00+00:00",
+      "last_run_at": "2026-11-25T20:00:29.044666+00:00",
       "last_status": "ok",
       "last_error": null,
       "last_delivery_error": null,
@@ -44,13 +44,13 @@
       "provider_snapshot": null,
       "model_snapshot": null,
       "last_dispatch": {
-        "scheduled_at": "2026-11-24T19:00:00+00:00",
-        "dispatched_at": "2026-11-24T19:09:54.594776+00:00",
-        "lateness_seconds": 594.6,
+        "scheduled_at": "2026-11-25T19:00:00+00:00",
+        "dispatched_at": "2026-11-25T19:52:01.629909+00:00",
+        "lateness_seconds": 3121.6,
         "kind": "late"
       },
       "canonical_completions": [
-        "070d54c21a4541228136fc98f3fdb964"
+        "28febb1692ff461b99e9fd2a8e43a104"
       ],
       "last_failure": {
         "at": "2026-11-14T19:12:56.938796+00:00",
@@ -77,7 +77,7 @@
       "schedule_display": "0 9 * * *",
       "repeat": {
         "times": null,
-        "completed": 163
+        "completed": 164
       },
       "enabled": true,
       "state": "scheduled",
@@ -85,7 +85,7 @@
       "paused_reason": null,
       "created_at": "2026-06-07T07:18:37.149115+01:00",
       "next_run_at": "2026-11-26T09:00:00+00:00",
-      "last_run_at": "2026-11-24T10:43:57.895691+00:00",
+      "last_run_at": "2026-11-25T09:36:46.116285+00:00",
       "last_status": "ok",
       "last_error": null,
       "last_delivery_error": null,
@@ -94,10 +94,7 @@
       "enabled_toolsets": null,
       "workdir": null,
       "profile": null,
-      "fire_claim": {
-        "at": "2026-11-25T09:33:56.100609+00:00",
-        "by": "DESKTOP-25Q3AQC:17840:9e28886499084352a1d7278cdc3a602f"
-      },
+      "fire_claim": null,
       "failure_streak": 0,
       "provider_snapshot": null,
       "model_snapshot": null,
@@ -112,7 +109,7 @@
         "detail": "TimeoutError: Cron job 'tasks-queue-sync' idle for 0s (limit 600s) — last activity: ⏳ still waiting on deepseek/deepseek-v4-flash-0731 — 12242s waiting for the first stream chunk (auto-reconnect: stream …"
       },
       "canonical_completions": [
-        "fd3d1fa57276451584e62c5317f08be5"
+        "ef2b2a18fe904e59a320344ecb8680bb"
       ]
     },
     {
@@ -189,7 +186,7 @@
       "schedule_display": "4 8 * * *",
       "repeat": {
         "times": null,
-        "completed": 163
+        "completed": 164
       },
       "enabled": true,
       "state": "scheduled",
@@ -197,7 +194,7 @@
       "paused_reason": null,
       "created_at": "2026-06-07T07:18:47.582718+01:00",
       "next_run_at": "2026-11-26T08:04:00+00:00",
-      "last_run_at": "2026-11-24T10:44:28.261549+00:00",
+      "last_run_at": "2026-11-25T09:36:44.192748+00:00",
       "last_status": "ok",
       "last_error": null,
       "last_delivery_error": null,
@@ -210,10 +207,7 @@
       ],
       "workdir": "C:\\Users\\User\\.hermes\\workspace\\Vault\\family\\mum\\health",
       "profile": null,
-      "fire_claim": {
-        "at": "2026-11-25T09:33:56.230719+00:00",
-        "by": "DESKTOP-25Q3AQC:17840:58e11c84f06d4b1a83ca879ef52518d9"
-      },
+      "fire_claim": null,
       "failure_streak": 0,
       "provider_snapshot": null,
       "model_snapshot": null,
@@ -228,7 +222,7 @@
         "detail": "RuntimeError: Hermes can't reach the model provider. You may be offline. Check your internet connection and try again."
       },
       "canonical_completions": [
-        "2a9fb69f89734e1da3bb697a94e0b375"
+        "967f8dc54e2844c28d8fce062e105b72"
       ]
     },
     {
@@ -253,15 +247,15 @@
       "schedule_display": "0 13 * * *",
       "repeat": {
         "times": null,
-        "completed": 164
+        "completed": 165
       },
       "enabled": true,
       "state": "scheduled",
       "paused_at": null,
       "paused_reason": null,
       "created_at": "2026-06-07T07:18:49.643232+01:00",
-      "next_run_at": "2026-11-25T13:00:00+00:00",
-      "last_run_at": "2026-11-24T13:02:51.780034+00:00",
+      "next_run_at": "2026-11-26T13:00:00+00:00",
+      "last_run_at": "2026-11-25T13:01:45.008567+00:00",
       "last_status": "ok",
       "last_error": null,
       "last_delivery_error": null,
@@ -279,9 +273,9 @@
       "provider_snapshot": null,
       "model_snapshot": null,
       "last_dispatch": {
-        "scheduled_at": "2026-11-24T13:00:00+00:00",
-        "dispatched_at": "2026-11-24T13:00:45.344855+00:00",
-        "lateness_seconds": 45.3,
+        "scheduled_at": "2026-11-25T13:00:00+00:00",
+        "dispatched_at": "2026-11-25T13:00:02.638841+00:00",
+        "lateness_seconds": 2.6,
         "kind": "on_time"
       },
       "last_failure": {
@@ -289,7 +283,7 @@
         "detail": "RuntimeError: HTTP 402: This request requires more credits, or fewer max_tokens. You requested up to 131072 tokens, but can only afford 9834. To increase, visit https://openrouter.ai/workspaces/default/keys/9d5a97bc0445dbf60bf4115c40e45da7f530ceeb2b75e6581e55b68cce7646cd and adjust the key's monthly limit"
       },
       "canonical_completions": [
-        "6d500b44611348e4a20b715daa321aeb"
+        "610ddcd26c4347e8a8668b2aee4dfbfc"
       ]
     },
     {
@@ -314,18 +308,18 @@
       "schedule_display": "0 19 * * *",
       "repeat": {
         "times": null,
-        "completed": 159
+        "completed": 160
       },
       "enabled": true,
       "state": "scheduled",
       "paused_at": null,
       "paused_reason": null,
       "created_at": "2026-06-07T07:18:51.780984+01:00",
-      "next_run_at": "2026-11-25T19:00:00+00:00",
-      "last_run_at": "2026-11-24T19:14:41.345114+00:00",
-      "last_status": "ok",
+      "next_run_at": "2026-11-26T19:00:00+00:00",
+      "last_run_at": "2026-11-25T20:02:38.904740+00:00",
+      "last_status": "delivery_failed",
       "last_error": null,
-      "last_delivery_error": null,
+      "last_delivery_error": "live adapter send failed: timed out after 30s (telegram-send); live adapter delivery to telegram:-1003784520976:4 failed: timed out after 30s (telegram-send); delivery error: Telegram send failed: Timed out (target telegram:-1003784520976:4)",
       "deliver": "telegram:-1003784520976:4",
       "origin": null,
       "enabled_toolsets": [
@@ -340,9 +334,9 @@
       "provider_snapshot": null,
       "model_snapshot": null,
       "last_dispatch": {
-        "scheduled_at": "2026-11-24T19:00:00+00:00",
-        "dispatched_at": "2026-11-24T19:09:54.594776+00:00",
-        "lateness_seconds": 594.6,
+        "scheduled_at": "2026-11-25T19:00:00+00:00",
+        "dispatched_at": "2026-11-25T19:52:01.629909+00:00",
+        "lateness_seconds": 3121.6,
         "kind": "late"
       },
       "last_failure": {
@@ -350,7 +344,7 @@
         "detail": "RuntimeError: Hermes can't reach the model provider. You may be offline. Check your internet connection and try again."
       },
       "canonical_completions": [
-        "9f0ec56a7e5244de86efa64c67244f8b"
+        "4c6b42a547924426af8eb1e6c767e162"
       ]
     },
     {
@@ -375,7 +369,7 @@
       "schedule_display": "4 8 * * *",
       "repeat": {
         "times": null,
-        "completed": 162
+        "completed": 163
       },
       "enabled": true,
       "state": "scheduled",
@@ -383,7 +377,7 @@
       "paused_reason": null,
       "created_at": "2026-06-07T07:18:53.848956+01:00",
       "next_run_at": "2026-11-26T08:04:00+00:00",
-      "last_run_at": "2026-11-24T10:43:29.600602+00:00",
+      "last_run_at": "2026-11-25T09:36:26.100114+00:00",
       "last_status": "ok",
       "last_error": null,
       "last_delivery_error": null,
@@ -396,10 +390,7 @@
       ],
       "workdir": "C:\\Users\\User\\.hermes\\workspace\\Vault\\family\\H",
       "profile": null,
-      "fire_claim": {
-        "at": "2026-11-25T09:33:56.333542+00:00",
-        "by": "DESKTOP-25Q3AQC:17840:4bb0b77133b3443abc440da727a98c37"
-      },
+      "fire_claim": null,
       "failure_streak": 0,
       "provider_snapshot": null,
       "model_snapshot": null,
@@ -414,7 +405,7 @@
         "detail": "RuntimeError: Hermes can't reach the model provider. You may be offline. Check your internet connection and try again."
       },
       "canonical_completions": [
-        "a3cadc2685d74e93a1e37a19cc009531"
+        "ddfcaaa8b44546ccbd80455fb3433530"
       ]
     },
     {
@@ -439,15 +430,15 @@
       "schedule_display": "0 13 * * *",
       "repeat": {
         "times": null,
-        "completed": 163
+        "completed": 164
       },
       "enabled": true,
       "state": "scheduled",
       "paused_at": null,
       "paused_reason": null,
       "created_at": "2026-06-07T07:18:55.920483+01:00",
-      "next_run_at": "2026-11-25T13:00:00+00:00",
-      "last_run_at": "2026-11-24T13:02:15.506352+00:00",
+      "next_run_at": "2026-11-26T13:00:00+00:00",
+      "last_run_at": "2026-11-25T13:00:20.631215+00:00",
       "last_status": "ok",
       "last_error": null,
       "last_delivery_error": null,
@@ -465,9 +456,9 @@
       "provider_snapshot": null,
       "model_snapshot": null,
       "last_dispatch": {
-        "scheduled_at": "2026-11-24T13:00:00+00:00",
-        "dispatched_at": "2026-11-24T13:00:45.344855+00:00",
-        "lateness_seconds": 45.3,
+        "scheduled_at": "2026-11-25T13:00:00+00:00",
+        "dispatched_at": "2026-11-25T13:00:02.638841+00:00",
+        "lateness_seconds": 2.6,
         "kind": "on_time"
       },
       "last_failure": {
@@ -475,7 +466,7 @@
         "detail": "RuntimeError: Hermes can't reach the model provider. You may be offline. Check your internet connection and try again."
       },
       "canonical_completions": [
-        "f3619a4f0627427d92192d089f314e84"
+        "449648cc3fb042dda4e5f035eebe3249"
       ]
     },
     {
@@ -500,15 +491,15 @@
       "schedule_display": "0 19 * * *",
       "repeat": {
         "times": null,
-        "completed": 159
+        "completed": 160
       },
       "enabled": true,
       "state": "scheduled",
       "paused_at": null,
       "paused_reason": null,
       "created_at": "2026-06-07T07:18:58.059275+01:00",
-      "next_run_at": "2026-11-25T19:00:00+00:00",
-      "last_run_at": "2026-11-24T19:11:16.533989+00:00",
+      "next_run_at": "2026-11-26T19:00:00+00:00",
+      "last_run_at": "2026-11-25T20:01:11.496222+00:00",
       "last_status": "ok",
       "last_error": null,
       "last_delivery_error": null,
@@ -526,13 +517,13 @@
       "provider_snapshot": null,
       "model_snapshot": null,
       "last_dispatch": {
-        "scheduled_at": "2026-11-24T19:00:00+00:00",
-        "dispatched_at": "2026-11-24T19:09:54.594776+00:00",
-        "lateness_seconds": 594.6,
+        "scheduled_at": "2026-11-25T19:00:00+00:00",
+        "dispatched_at": "2026-11-25T19:52:01.629909+00:00",
+        "lateness_seconds": 3121.6,
         "kind": "late"
       },
       "canonical_completions": [
-        "be39646bc036418e9a2980947c9b11e8"
+        "80050b27d3f8463385f9e53feac2459a"
       ],
       "last_failure": {
         "at": "2026-11-14T19:12:57.057153+00:00",
@@ -663,7 +654,7 @@
       "schedule_display": "0 7 * * *",
       "repeat": {
         "times": null,
-        "completed": 303
+        "completed": 304
       },
       "enabled": true,
       "state": "scheduled",
@@ -671,20 +662,17 @@
       "paused_reason": null,
       "created_at": "2026-06-07T07:19:14.542277+01:00",
       "next_run_at": "2026-11-26T07:00:00+00:00",
-      "last_run_at": "2026-11-24T07:49:20.625776+00:00",
-      "last_status": "error",
-      "last_error": "RuntimeError: Hermes can't reach the model provider. You may be offline. Check your internet connection and try again.",
-      "last_delivery_error": "live adapter send failed: send_path_degraded; live adapter delivery to telegram:-1003784520976:20 failed: send_path_degraded; delivery error: Telegram send failed: httpx.ConnectError: All connection attempts failed (target telegram:-1003784520976:20); queued text for telegram:-1003784520976:20 for redelivery once the live adapter reconnects",
+      "last_run_at": "2026-11-25T09:38:44.650216+00:00",
+      "last_status": "ok",
+      "last_error": null,
+      "last_delivery_error": null,
       "deliver": "telegram:-1003784520976:20",
       "origin": null,
       "enabled_toolsets": null,
       "workdir": null,
       "profile": null,
-      "fire_claim": {
-        "at": "2026-11-25T09:33:56.549769+00:00",
-        "by": "DESKTOP-25Q3AQC:17840:4c591924842e4f4e807843be1dd628ba"
-      },
-      "failure_streak": 1,
+      "fire_claim": null,
+      "failure_streak": 0,
       "provider_snapshot": null,
       "model_snapshot": null,
       "last_dispatch": {
@@ -698,7 +686,7 @@
         "detail": "RuntimeError: Hermes can't reach the model provider. You may be offline. Check your internet connection and try again."
       },
       "canonical_completions": [
-        "f9a932e8e989413ebbc50ca6cbbcbd01"
+        "1b62a1ee7765426d9a4921865198dafc"
       ]
     },
     {
@@ -831,15 +819,15 @@
       "schedule_display": "0 6 * * *",
       "repeat": {
         "times": null,
-        "completed": 108
+        "completed": 109
       },
       "enabled": true,
       "state": "scheduled",
       "paused_at": null,
       "paused_reason": null,
       "created_at": "2026-06-07T07:19:22.604845+01:00",
-      "next_run_at": "2026-11-26T06:00:00+00:00",
-      "last_run_at": "2026-11-24T06:01:32.398213+00:00",
+      "next_run_at": "2026-11-27T06:00:00+00:00",
+      "last_run_at": "2026-11-25T09:35:33.380731+00:00",
       "last_status": "ok",
       "last_error": null,
       "last_delivery_error": null,
@@ -849,24 +837,24 @@
       "workdir": null,
       "profile": null,
       "fire_claim": {
-        "at": "2026-11-25T09:33:56.601098+00:00",
-        "by": "DESKTOP-25Q3AQC:17840:90c5c41a253e4ae09e7430970349eb9e"
+        "at": "2026-11-26T06:00:35.460639+00:00",
+        "by": "DESKTOP-25Q3AQC:17840:955e1b77a0a54c6eb51f53a26c3be989"
       },
       "failure_streak": 0,
       "provider_snapshot": null,
       "model_snapshot": null,
       "last_dispatch": {
-        "scheduled_at": "2026-11-25T06:00:00+00:00",
-        "dispatched_at": "2026-11-25T09:33:55.668667+00:00",
-        "lateness_seconds": 12835.7,
-        "kind": "catch_up"
+        "scheduled_at": "2026-11-26T06:00:00+00:00",
+        "dispatched_at": "2026-11-26T06:00:34.958835+00:00",
+        "lateness_seconds": 35.0,
+        "kind": "on_time"
       },
       "last_failure": {
         "at": "2026-11-18T09:23:04.051375+00:00",
         "detail": "RuntimeError: Hermes can't reach the model provider. You may be offline. Check your internet connection and try again."
       },
       "canonical_completions": [
-        "cbf4c36d68e64c2182e5aa77203a6e51"
+        "de5224fb83b8489089da324d53f128d3"
       ]
     },
     {
@@ -889,7 +877,7 @@
       "schedule_display": "0 8 * * *",
       "repeat": {
         "times": null,
-        "completed": 162
+        "completed": 163
       },
       "enabled": true,
       "state": "scheduled",
@@ -897,20 +885,17 @@
       "paused_reason": null,
       "created_at": "2026-06-07T07:19:26.671069+01:00",
       "next_run_at": "2026-11-26T08:00:00+00:00",
-      "last_run_at": "2026-11-24T09:13:02.219581+00:00",
-      "last_status": "error",
-      "last_error": "RuntimeError: Operation interrupted: waiting for model response (4008.2s elapsed).",
-      "last_delivery_error": "delivery error: Telegram send failed: httpx.ConnectError: [Errno 11004] getaddrinfo failed (target telegram:-1003784520976:28)",
+      "last_run_at": "2026-11-25T09:38:14.437666+00:00",
+      "last_status": "ok",
+      "last_error": null,
+      "last_delivery_error": null,
       "deliver": "telegram:-1003784520976:28",
       "origin": null,
       "enabled_toolsets": null,
       "workdir": null,
       "profile": null,
-      "fire_claim": {
-        "at": "2026-11-25T09:33:56.699895+00:00",
-        "by": "DESKTOP-25Q3AQC:17840:51fb0f466e7248b2903c5f8a845e8c00"
-      },
-      "failure_streak": 2,
+      "fire_claim": null,
+      "failure_streak": 0,
       "provider_snapshot": null,
       "model_snapshot": null,
       "last_dispatch": {
@@ -924,7 +909,7 @@
         "detail": "RuntimeError: Operation interrupted: waiting for model response (4008.2s elapsed)."
       },
       "canonical_completions": [
-        "0677369d163141edbd5b84b686fb09d3"
+        "d992c5dcc60c413894b4e10423433194"
       ]
     },
     {
@@ -947,15 +932,15 @@
       "schedule_display": "18 10 * * 0,1,2,3,4,5,6",
       "repeat": {
         "times": null,
-        "completed": 135
+        "completed": 136
       },
       "enabled": true,
       "state": "scheduled",
       "paused_at": null,
       "paused_reason": null,
       "created_at": "2026-06-07T07:19:30.748528+01:00",
-      "next_run_at": "2026-11-25T10:18:00+00:00",
-      "last_run_at": "2026-11-24T10:45:25.097187+00:00",
+      "next_run_at": "2026-11-26T10:18:00+00:00",
+      "last_run_at": "2026-11-25T10:19:27.170308+00:00",
       "last_status": "ok",
       "last_error": null,
       "last_delivery_error": null,
@@ -969,17 +954,17 @@
       "provider_snapshot": null,
       "model_snapshot": null,
       "last_dispatch": {
-        "scheduled_at": "2026-11-24T10:18:00+00:00",
-        "dispatched_at": "2026-11-24T10:24:18.728975+00:00",
-        "lateness_seconds": 378.7,
-        "kind": "late"
+        "scheduled_at": "2026-11-25T10:18:00+00:00",
+        "dispatched_at": "2026-11-25T10:18:02.532384+00:00",
+        "lateness_seconds": 2.5,
+        "kind": "on_time"
       },
       "last_failure": {
         "at": "2026-11-22T10:20:02.056719+00:00",
         "detail": "RuntimeError: HTTP 402: This request would exceed your available credits given your current in-flight requests. Retry after in-flight requests settle, or add credits."
       },
       "canonical_completions": [
-        "78e761e3560f45c88ebb7b543b7c7a2c"
+        "2c2ac99ba55a45f0ad2473fab6470552"
       ]
     },
     {
@@ -1258,7 +1243,7 @@
       "schedule_display": "0 9 * * *",
       "repeat": {
         "times": null,
-        "completed": 161
+        "completed": 162
       },
       "enabled": true,
       "state": "scheduled",
@@ -1266,7 +1251,7 @@
       "paused_reason": null,
       "created_at": "2026-06-07T23:07:14.607446+01:00",
       "next_run_at": "2026-11-26T09:00:00+00:00",
-      "last_run_at": "2026-11-24T10:44:14.412924+00:00",
+      "last_run_at": "2026-11-25T09:36:27.122652+00:00",
       "last_status": "ok",
       "last_error": null,
       "last_delivery_error": null,
@@ -1275,10 +1260,7 @@
       "enabled_toolsets": null,
       "workdir": null,
       "profile": null,
-      "fire_claim": {
-        "at": "2026-11-25T09:33:56.748711+00:00",
-        "by": "DESKTOP-25Q3AQC:17840:8478f4c17d6043f1b2d8027be0bad101"
-      },
+      "fire_claim": null,
       "failure_streak": 0,
       "provider_snapshot": null,
       "model_snapshot": null,
@@ -1293,7 +1275,7 @@
         "detail": "RuntimeError: Operation interrupted: waiting for the provider to recover (cycle 1/5)."
       },
       "canonical_completions": [
-        "8ef2a45e52b44d279901c25adcb315f2"
+        "7ff2106456b541f58634bece312461f7"
       ]
     },
     {
@@ -1318,30 +1300,30 @@
       "schedule_display": "0 10 */3 * *",
       "repeat": {
         "times": null,
-        "completed": 51
+        "completed": 52
       },
       "enabled": true,
       "state": "scheduled",
       "paused_at": null,
       "paused_reason": null,
       "created_at": "2026-06-23T02:09:57.632312+01:00",
-      "next_run_at": "2026-11-25T10:00:00+00:00",
-      "last_run_at": "2026-11-22T10:01:46.739816+00:00",
-      "last_status": "error",
-      "last_error": "RuntimeError: HTTP 402: This request would exceed your available credits given your current in-flight requests. Retry after in-flight requests settle, or add credits.",
+      "next_run_at": "2026-11-28T10:00:00+00:00",
+      "last_run_at": "2026-11-25T10:01:28.926724+00:00",
+      "last_status": "ok",
+      "last_error": null,
       "last_delivery_error": null,
       "deliver": "telegram:-1003784520976:16",
       "origin": null,
       "enabled_toolsets": null,
       "workdir": null,
       "fire_claim": null,
-      "failure_streak": 1,
+      "failure_streak": 0,
       "provider_snapshot": null,
       "model_snapshot": null,
       "last_dispatch": {
-        "scheduled_at": "2026-11-22T10:00:00+00:00",
-        "dispatched_at": "2026-11-22T10:00:59.323911+00:00",
-        "lateness_seconds": 59.3,
+        "scheduled_at": "2026-11-25T10:00:00+00:00",
+        "dispatched_at": "2026-11-25T10:00:02.532520+00:00",
+        "lateness_seconds": 2.5,
         "kind": "on_time"
       },
       "last_failure": {
@@ -1349,7 +1331,7 @@
         "detail": "RuntimeError: HTTP 402: This request would exceed your available credits given your current in-flight requests. Retry after in-flight requests settle, or add credits."
       },
       "canonical_completions": [
-        "9fd7d26f00d04507abdd4eb599236914"
+        "10b0c8ca8fef4100b26982b12912f004"
       ]
     },
     {
@@ -1819,7 +1801,7 @@
       "schedule_display": "0 8 * * *",
       "repeat": {
         "times": null,
-        "completed": 124
+        "completed": 125
       },
       "enabled": true,
       "state": "scheduled",
@@ -1827,10 +1809,10 @@
       "paused_reason": null,
       "created_at": "2026-07-18T04:12:38.493477+01:00",
       "next_run_at": "2026-11-26T08:00:00+00:00",
-      "last_run_at": "2026-11-24T09:13:03.696363+00:00",
-      "last_status": "error",
-      "last_error": "RuntimeError: Operation interrupted: waiting for model response (633.8s elapsed).",
-      "last_delivery_error": "delivery error: Telegram send failed: httpx.ConnectError: [Errno 11004] getaddrinfo failed (target telegram:123286468)",
+      "last_run_at": "2026-11-25T09:35:33.475748+00:00",
+      "last_status": "ok",
+      "last_error": null,
+      "last_delivery_error": null,
       "deliver": "telegram:123286468",
       "origin": {
         "platform": "telegram",
@@ -1841,11 +1823,8 @@
       },
       "enabled_toolsets": null,
       "workdir": null,
-      "fire_claim": {
-        "at": "2026-11-25T09:33:56.830238+00:00",
-        "by": "DESKTOP-25Q3AQC:17840:b97c04164761497abf16eafd86b75aa6"
-      },
-      "failure_streak": 2,
+      "fire_claim": null,
+      "failure_streak": 0,
       "last_dispatch": {
         "scheduled_at": "2026-11-25T08:00:00+00:00",
         "dispatched_at": "2026-11-25T09:33:55.668667+00:00",
@@ -1857,7 +1836,7 @@
         "detail": "RuntimeError: Operation interrupted: waiting for model response (633.8s elapsed)."
       },
       "canonical_completions": [
-        "8fa8b65f9b8c4e9c9d6b7c6b9ef4f8e7"
+        "7eeb11da7c784416b94f800ad2e0ebe5"
       ]
     },
     {
@@ -2202,15 +2181,15 @@
       "schedule_display": "5 22 * * *",
       "repeat": {
         "times": null,
-        "completed": 99
+        "completed": 100
       },
       "enabled": true,
       "state": "scheduled",
       "paused_at": null,
       "paused_reason": null,
       "created_at": "2026-08-17T20:00:34.809937+00:00",
-      "next_run_at": "2026-11-25T22:05:00+00:00",
-      "last_run_at": "2026-11-24T22:19:44.550867+00:00",
+      "next_run_at": "2026-11-26T22:05:00+00:00",
+      "last_run_at": "2026-11-26T02:08:45.692733+00:00",
       "last_status": "ok",
       "last_error": null,
       "last_delivery_error": null,
@@ -2221,13 +2200,13 @@
       "fire_claim": null,
       "failure_streak": 0,
       "last_dispatch": {
-        "scheduled_at": "2026-11-24T22:05:00+00:00",
-        "dispatched_at": "2026-11-24T22:05:07.827536+00:00",
-        "lateness_seconds": 7.8,
-        "kind": "on_time"
+        "scheduled_at": "2026-11-25T22:05:00+00:00",
+        "dispatched_at": "2026-11-26T02:02:17.447220+00:00",
+        "lateness_seconds": 14237.4,
+        "kind": "catch_up"
       },
       "canonical_completions": [
-        "cdb676c4d6a242c8a0e157ce0d8304ac"
+        "55ec0630c8634fc4a616f21b58450eb4"
       ]
     },
     {
@@ -2477,15 +2456,15 @@
       "schedule_display": "0 10 * * *",
       "repeat": {
         "times": null,
-        "completed": 217
+        "completed": 218
       },
       "enabled": true,
       "state": "scheduled",
       "paused_at": null,
       "paused_reason": null,
       "created_at": "2026-09-29T20:22:28.049585+00:00",
-      "next_run_at": "2026-11-25T10:00:00+00:00",
-      "last_run_at": "2026-11-24T11:00:36.199784+00:00",
+      "next_run_at": "2026-11-26T10:00:00+00:00",
+      "last_run_at": "2026-11-25T10:20:44.246115+00:00",
       "last_status": "ok",
       "last_error": null,
       "last_delivery_error": null,
@@ -2496,10 +2475,10 @@
       "enabled_toolsets": null,
       "workdir": null,
       "last_dispatch": {
-        "scheduled_at": "2026-11-24T10:00:00+00:00",
-        "dispatched_at": "2026-11-24T10:24:18.728975+00:00",
-        "lateness_seconds": 1458.7,
-        "kind": "late"
+        "scheduled_at": "2026-11-25T10:00:00+00:00",
+        "dispatched_at": "2026-11-25T10:00:02.532520+00:00",
+        "lateness_seconds": 2.5,
+        "kind": "on_time"
       },
       "fire_claim": null,
       "last_failure": {
@@ -2507,7 +2486,7 @@
         "detail": "RuntimeError: HTTP 402: This request requires more credits, or fewer max_tokens. You requested up to 131072 tokens, but can only afford 8795. To increase, visit https://openrouter.ai/workspaces/default/keys/9d5a97bc0445dbf60bf4115c40e45da7f530ceeb2b75e6581e55b68cce7646cd and adjust the key's monthly limit"
       },
       "canonical_completions": [
-        "32d674163667496eadf273e85f40c02a"
+        "776358528ac74f97a4bf67af0024b8cf"
       ],
       "provider_snapshot": "openrouter",
       "model_snapshot": "deepseek/deepseek-v4-flash"
@@ -2537,7 +2516,7 @@
       "schedule_display": "0 9 * * *",
       "repeat": {
         "times": null,
-        "completed": 84
+        "completed": 85
       },
       "enabled": true,
       "state": "scheduled",
@@ -2545,7 +2524,7 @@
       "paused_reason": null,
       "created_at": "2026-10-12T03:45:58.527173+00:00",
       "next_run_at": "2026-11-26T09:00:00+00:00",
-      "last_run_at": "2026-11-24T10:43:25.372424+00:00",
+      "last_run_at": "2026-11-25T09:37:54.319083+00:00",
       "last_status": "ok",
       "last_error": null,
       "last_delivery_error": null,
@@ -2555,10 +2534,7 @@
       "origin": null,
       "enabled_toolsets": null,
       "workdir": null,
-      "fire_claim": {
-        "at": "2026-11-25T09:33:56.888993+00:00",
-        "by": "DESKTOP-25Q3AQC:17840:c61fd260233942259162465fe4bb482e"
-      },
+      "fire_claim": null,
       "last_dispatch": {
         "scheduled_at": "2026-11-25T09:00:00+00:00",
         "dispatched_at": "2026-11-25T09:33:55.668667+00:00",
@@ -2570,7 +2546,7 @@
         "detail": "RuntimeError: agent reported failure"
       },
       "canonical_completions": [
-        "999a1a4a1f4548568589a1979f66ab0c"
+        "b93f0ffe1e0d4c8680deaa47c5e7fddf"
       ],
       "provider_snapshot": "openrouter",
       "model_snapshot": "deepseek/deepseek-v4-flash"
@@ -2598,15 +2574,15 @@
       "schedule_display": "0 10 * * *",
       "repeat": {
         "times": null,
-        "completed": 73
+        "completed": 74
       },
       "enabled": true,
       "state": "scheduled",
       "paused_at": null,
       "paused_reason": null,
       "created_at": "2026-10-15T04:57:40.983008+00:00",
-      "next_run_at": "2026-11-25T10:00:00+00:00",
-      "last_run_at": "2026-11-24T11:19:31.361594+00:00",
+      "next_run_at": "2026-11-26T10:00:00+00:00",
+      "last_run_at": "2026-11-25T10:18:23.426408+00:00",
       "last_status": "ok",
       "last_error": null,
       "last_delivery_error": null,
@@ -2623,13 +2599,13 @@
       "fire_claim": null,
       "paused": true,
       "last_dispatch": {
-        "scheduled_at": "2026-11-24T10:00:00+00:00",
-        "dispatched_at": "2026-11-24T10:24:18.728975+00:00",
-        "lateness_seconds": 1458.7,
-        "kind": "late"
+        "scheduled_at": "2026-11-25T10:00:00+00:00",
+        "dispatched_at": "2026-11-25T10:00:02.532520+00:00",
+        "lateness_seconds": 2.5,
+        "kind": "on_time"
       },
       "canonical_completions": [
-        "5c26f8b2a2324cc2af80c59abe3d83ae"
+        "5317c3f6944c4574b207d55dd53e38ed"
       ]
     },
     {
@@ -2682,24 +2658,24 @@
       "deliver": "origin",
       "repeat": {
         "times": null,
-        "completed": 37
+        "completed": 38
       },
-      "next_run_at": "2026-11-26T04:30:00+00:00",
+      "next_run_at": "2026-11-27T04:30:00+00:00",
       "last_dispatch": {
-        "scheduled_at": "2026-11-25T04:30:00+00:00",
-        "dispatched_at": "2026-11-25T04:30:07.752629+00:00",
-        "lateness_seconds": 7.8,
+        "scheduled_at": "2026-11-26T04:30:00+00:00",
+        "dispatched_at": "2026-11-26T04:30:34.893388+00:00",
+        "lateness_seconds": 34.9,
         "kind": "on_time"
       },
       "fire_claim": null,
-      "last_run_at": "2026-11-25T09:33:27.606189+00:00",
-      "last_status": "error",
-      "last_error": "RuntimeError: agent reported failure",
-      "failure_streak": 1,
-      "last_delivery_error": "live adapter send failed: send_path_degraded; live adapter delivery to telegram:-1003784520976:1 failed: send_path_degraded; delivery error: Telegram send failed: httpx.ConnectError: All connection attempts failed (target telegram:-1003784520976:1); queued text for telegram:-1003784520976:1 for redelivery once the live adapter reconnects",
+      "last_run_at": "2026-11-26T04:30:53.014440+00:00",
+      "last_status": "ok",
+      "last_error": null,
+      "failure_streak": 0,
+      "last_delivery_error": null,
       "state": "scheduled",
       "canonical_completions": [
-        "d272229e89824649b837667166db3f08"
+        "4b643cbaa33d4a5d8a8faa09411eb043"
       ],
       "last_failure": {
         "at": "2026-11-25T09:33:27.606189+00:00",
@@ -2814,15 +2790,15 @@
       "schedule_display": "0 18 * * 1-6",
       "repeat": {
         "times": null,
-        "completed": 28
+        "completed": 29
       },
       "enabled": true,
       "state": "scheduled",
       "paused_at": null,
       "paused_reason": null,
       "created_at": "2026-10-23T09:13:51.641120+00:00",
-      "next_run_at": "2026-11-25T18:00:00+00:00",
-      "last_run_at": "2026-11-24T18:00:31.551114+00:00",
+      "next_run_at": "2026-11-26T18:00:00+00:00",
+      "last_run_at": "2026-11-25T19:57:30.206078+00:00",
       "last_status": "ok",
       "last_error": null,
       "last_delivery_error": null,
@@ -2842,14 +2818,14 @@
       ],
       "workdir": "C:\\Users\\User\\.hermes\\workspace\\Vault\\business\\2real",
       "last_dispatch": {
-        "scheduled_at": "2026-11-24T18:00:00+00:00",
-        "dispatched_at": "2026-11-24T18:00:05.553135+00:00",
-        "lateness_seconds": 5.6,
-        "kind": "on_time"
+        "scheduled_at": "2026-11-25T18:00:00+00:00",
+        "dispatched_at": "2026-11-25T19:52:01.629909+00:00",
+        "lateness_seconds": 6721.6,
+        "kind": "late"
       },
       "fire_claim": null,
       "canonical_completions": [
-        "4775ac2200974132abe2fcde2e43637e"
+        "b67b8815d43c4f1bb0222e5460513065"
       ],
       "provider_snapshot": "openrouter",
       "model_snapshot": "deepseek/deepseek-v4-flash"
@@ -2875,21 +2851,18 @@
         "lateness_seconds": 9235.7,
         "kind": "catch_up"
       },
-      "fire_claim": {
-        "at": "2026-11-25T09:33:56.932203+00:00",
-        "by": "DESKTOP-25Q3AQC:17840:0e65278fc3714e01aec34ca411b17994"
-      },
-      "last_run_at": "2026-11-24T07:49:06.588555+00:00",
-      "last_status": "error",
-      "last_error": "RuntimeError: Hermes can't reach the model provider. You may be offline. Check your internet connection and try again.",
-      "failure_streak": 1,
+      "fire_claim": null,
+      "last_run_at": "2026-11-25T09:37:07.981726+00:00",
+      "last_status": "ok",
+      "last_error": null,
+      "failure_streak": 0,
       "last_failure": {
         "at": "2026-11-24T07:49:06.588555+00:00",
         "detail": "RuntimeError: Hermes can't reach the model provider. You may be offline. Check your internet connection and try again."
       },
-      "last_delivery_error": "live adapter send failed: send_path_degraded; live adapter delivery to telegram:-1003784520976:1 failed: send_path_degraded; delivery error: Telegram send failed: httpx.ConnectError: All connection attempts failed (target telegram:-1003784520976:1); queued text for telegram:-1003784520976:1 for redelivery once the live adapter reconnects",
+      "last_delivery_error": null,
       "canonical_completions": [
-        "7cf948131c744739a58318931c74e1a4"
+        "de1d3c9897da4b759e7316c491d7808b"
       ],
       "state": "scheduled"
     },
@@ -2953,5 +2926,5 @@
       }
     }
   ],
-  "updated_at": "2026-11-25T09:33:56.941081+00:00"
+  "updated_at": "2026-11-26T06:00:35.463347+00:00"
 }

@@ -1,5 +1,12 @@
 # ERIC_PROPERTY_UPDATES — 2026-11
 
+## 2026-11-25 — Check-in FAILED (automated, 3-day cadence)
+- **WhatsApp NOT delivered to Eric** (E.164 447553403038). Bridge at localhost:3000 DOWN again — curl HTTP 000 on /send, netstat empty on :3000, no node process in tasklist. 4th consecutive fail at this cadence (11-19/11-22/now, plus 11-07).
+- **Message intended:** "Hi Eric, checking in on UK property matters: any updates on letters, viewings, adverts, or ground coordination needed? Also please pick up the phone from Peckham."
+- **Escalated to Telegram Topic 2** (chat -1003784520976 Topic 2; Topic 141 #urgent known-dead), hermes send returned "sent" 09:3x UTC.
+- **NEXT ACTION (human, CRITICAL):** bridge has been down 4 runs straight now — WA session logged out since ~11-14 and nobody re-linked it. Manual action is mandatory: relaunch `node bridge.js` (hermes-agent/scripts/whatsapp-bridge), scan QR to re-auth, then resend to 447553403038. This automated check-in cannot work until the bridge is re-linked.
+- **STANDING ITEM remains open:** pick up phone from Safi at Peckham repair shop.
+
 ## 2026-11-22 — Check-in FAILED (automated, 3-day cadence)
 - **WhatsApp NOT delivered to Eric** (E.164 447553403038). Bridge at localhost:3000 DOWN — no listener on port 3000 (curl HTTP 000 / netstat empty). Same recurring state as 11-19 / 11-07.
 - **Message intended:** "Hi Eric, checking in on UK property matters: any updates on letters, viewings, adverts, or ground coordination needed? Also please pick up the phone from Safi at Peckham phone repair shop."

@@ -1,0 +1,25 @@
+{
+  "_SINGLE_SOURCE_OF_TRUTH": "C:/Users/User/.hermes/workspace/Vault/business/Content/content-assets/taiwah",
+  "_canonical_root_note": "This folder is the ONE source of truth for all Taiwah assets. All agents (content, video, image, voice, publishing) must read from here.",
+  "_consolidated": "2026-11-15 21:21",
+  "_method": "SAFE consolidation: definitive source assets COPIED (not moved) into canonical subfolders; live agent profile + published content-output left untouched; originals preserved.",
+  "structure": {
+    "images/canonical/": "9 identity images incl @image1_TAIWAH_SHOOT1_CLOSEUP.png (CURRENT face anchor) + @image2_TAIWAH_V2_FULLBODY.png",
+    "world-scenes/": "4 scene references (workshop, farmhouse kitchen, classroom, garden)",
+    "voice/": "78 voice files from profiles/taiwah/voice/ incl TAIWAH_VOICE_locked.mp3 + TAIWAH_REFERENCE_2026.wav + TAIWAH_VOICE_SPEC.md",
+    "personas/": "taiwah-character-reference.md, taiwah.md (BOT_JOB_SPEC), TAIWAH_CHARACTER_ANCHOR_MASTER.md",
+    "prompts/": "(reserved)",
+    "scripts/": "(reserved - reels engine etc live in profiles/taiwah/scripts)",
+    "retro/": "retro-styled variant set (images/personas/prompts/voice subfolders; currently empty - reserved)"
+  },
+  "CURRENT_IDENTITY_ANCHOR": "@image1_TAIWAH_SHOOT1_CLOSEUP.png",
+  "CURRENT_MASTER_ANCHOR_DOC": "TAIWAH_CHARACTER_ANCHOR_MASTER.md",
+  "SUPERSEDED_LEGACY_FILES_do_not_reference": [
+    "TAIWAH_CHARACTER_ANCHOR.md (v3.0)",
+    "TAIWAH_CHARACTER_SHARPENED.md",
+    "TAIWAH_MASTER_LOCK_PROMPT.md",
+    "TAIWAH_MASTER_LOCK.png (Aug 2026 - old face source)"
+  ],
+  "LIVE_AGENT_PROFILE_left_untouched": "C:/Users/User/AppData/Local/hermes/profiles/taiwah/ (running agent - voice/, audio_cache/, cache/scratch/ working files)",
+  "PUBLISHED_OUTPUT_left_untouched": "Vault/business/Content/content-output/ (dated deliverables are output, not source)"
+}

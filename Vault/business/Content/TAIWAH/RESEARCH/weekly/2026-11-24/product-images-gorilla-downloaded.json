@@ -1,0 +1,317 @@
+{
+  "generated_at": "2026-11-24T18:25:35",
+  "source": "gorilla_auto_download",
+  "total_products": 10,
+  "success": 8,
+  "failed": 2,
+  "products": [
+    {
+      "id": "662f9f9bcc59",
+      "name": "Gorilla Contact Adhesive Crystal Clear 75g",
+      "brand": "GORILLA",
+      "model": null,
+      "category": "Online",
+      "inventory_qty": 11,
+      "gift_suitable": true,
+      "manufacturer_url": "https://www.gorillatough.com/product/gorilla-contact-adhesive-crystal-clear-75g",
+      "images": [
+        {
+          "url": "https://cdn.prod.website-files.com/68fa289b578f3b5329032d22/69ac928274da9485bf03d004_Wood%20Glue%20Ultimate%20thumbnail%20(1).png",
+          "source": "manufacturer",
+          "resolution": "720x720",
+          "quality_score": 90,
+          "breakdown": {
+            "resolution": 20,
+            "background": 30,
+            "prominence": 20,
+            "watermark": 20
+          },
+          "local_path": "cache/product-images/662f9f9bcc59-gorilla.png",
+          "downloaded": true,
+          "simulated": false
+        }
+      ],
+      "best_image": "cache/product-images/662f9f9bcc59-gorilla.png",
+      "best_score": 90,
+      "download_status": "success",
+      "actual_product_url": "https://www.gorillatough.com/product/gorilla-wood-glue-ultimate"
+    },
+    {
+      "id": "27607a596703",
+      "name": "Gorilla Crystal Clear Mounting Tape Squares Double-sided",
+      "brand": "GORILLA",
+      "model": null,
+      "category": "Online",
+      "inventory_qty": 9,
+      "gift_suitable": true,
+      "manufacturer_url": "https://www.gorillatough.com/product/gorilla-crystal-clear-mounting-tape-squares-double-sided",
+      "images": [
+        {
+          "url": "https://cdn.prod.website-files.com/68fa289b578f3b5329032d22/69ac928274da9485bf03d004_Wood%20Glue%20Ultimate%20thumbnail%20(1).png",
+          "source": "manufacturer",
+          "resolution": "720x720",
+          "quality_score": 90,
+          "breakdown": {
+            "resolution": 20,
+            "background": 30,
+            "prominence": 20,
+            "watermark": 20
+          },
+          "local_path": "cache/product-images/27607a596703-gorilla.png",
+          "downloaded": true,
+          "simulated": false
+        }
+      ],
+      "best_image": "cache/product-images/27607a596703-gorilla.png",
+      "best_score": 90,
+      "download_status": "success",
+      "actual_product_url": "https://www.gorillatough.com/product/gorilla-wood-glue-ultimate"
+    },
+    {
+      "id": "85d3165e72a5",
+      "name": "Gorilla Epoxy Clear",
+      "brand": "GORILLA",
+      "model": null,
+      "category": "Online",
+      "inventory_qty": 13,
+      "gift_suitable": true,
+      "manufacturer_url": "https://www.gorillatough.com/product/gorilla-epoxy-clear",
+      "images": [
+        {
+          "url": "https://cdn.prod.website-files.com/68fa289b578f3b5329032d22/69ac928274da9485bf03d004_Wood%20Glue%20Ultimate%20thumbnail%20(1).png",
+          "source": "manufacturer",
+          "resolution": "720x720",
+          "quality_score": 90,
+          "breakdown": {
+            "resolution": 20,
+            "background": 30,
+            "prominence": 20,
+            "watermark": 20
+          },
+          "local_path": "cache/product-images/85d3165e72a5-gorilla.png",
+          "downloaded": true,
+          "simulated": false
+        }
+      ],
+      "best_image": "cache/product-images/85d3165e72a5-gorilla.png",
+      "best_score": 90,
+      "download_status": "success",
+      "actual_product_url": "https://www.gorillatough.com/product/gorilla-wood-glue-ultimate"
+    },
+    {
+      "id": "d3afba0e2af3",
+      "name": "Gorilla Gorilla Glue Clear 50ml",
+      "brand": "GORILLA",
+      "model": null,
+      "category": "Online",
+      "inventory_qty": 5,
+      "gift_suitable": true,
+      "manufacturer_url": "https://www.gorillatough.com/product/gorilla-gorilla-glue-clear-50ml",
+      "images": [
+        {
+          "url": "https://cdn.prod.website-files.com/68fa289b578f3b5329032d22/69ac928274da9485bf03d004_Wood%20Glue%20Ultimate%20thumbnail%20(1).png",
+          "source": "manufacturer",
+          "resolution": "720x720",
+          "quality_score": 90,
+          "breakdown": {
+            "resolution": 20,
+            "background": 30,
+            "prominence": 20,
+            "watermark": 20
+          },
+          "local_path": "cache/product-images/d3afba0e2af3-gorilla.png",
+          "downloaded": true,
+          "simulated": false
+        }
+      ],
+      "best_image": "cache/product-images/d3afba0e2af3-gorilla.png",
+      "best_score": 90,
+      "download_status": "success",
+      "actual_product_url": "https://www.gorillatough.com/product/gorilla-wood-glue-ultimate"
+    },
+    {
+      "id": "706819e31db8",
+      "name": "Gorilla Gorilla Glue 60ml",
+      "brand": "GORILLA",
+      "model": null,
+      "category": "Online",
+      "inventory_qty": 10,
+      "gift_suitable": true,
+      "manufacturer_url": "https://www.gorillatough.com/product/gorilla-gorilla-glue-60ml",
+      "images": [
+        {
+          "url": "https://cdn.prod.website-files.com/68fa289b578f3b5329032d22/69ac928274da9485bf03d004_Wood%20Glue%20Ultimate%20thumbnail%20(1).png",
+          "source": "manufacturer",
+          "resolution": "720x720",
+          "quality_score": 90,
+          "breakdown": {
+            "resolution": 20,
+            "background": 30,
+            "prominence": 20,
+            "watermark": 20
+          },
+          "local_path": "cache/product-images/706819e31db8-gorilla.png",
+          "downloaded": true,
+          "simulated": false
+        }
+      ],
+      "best_image": "cache/product-images/706819e31db8-gorilla.png",
+      "best_score": 90,
+      "download_status": "success",
+      "actual_product_url": "https://www.gorillatough.com/product/gorilla-wood-glue-ultimate"
+    },
+    {
+      "id": "4699d9eac4cf",
+      "name": "Gorilla Gorilla Glue Clear 170 Ml",
+      "brand": "GORILLA",
+      "model": null,
+      "category": "Online",
+      "inventory_qty": 5,
+      "gift_suitable": true,
+      "manufacturer_url": "https://www.gorillatough.com/product/gorilla-gorilla-glue-clear-170-ml",
+      "images": [
+        {
+          "url": "https://www.gorillatough.com/product/gorilla-gorilla-glue-clear-170-ml/image.png",
+          "source": "manufacturer",
+          "resolution": "1500x1500",
+          "quality_score": 95,
+          "breakdown": {
+            "resolution": 28,
+            "background": 30,
+            "prominence": 20,
+            "watermark": 20
+          },
+          "local_path": "cache/product-images/4699d9eac4cf-mfg.png",
+          "downloaded": false,
+          "simulated": true
+        }
+      ],
+      "best_image": "cache/product-images/4699d9eac4cf-mfg.png",
+      "best_score": 95,
+      "download_status": "not_found"
+    },
+    {
+      "id": "66031b6e10d4",
+      "name": "Gorilla Gorilla Glue 250 Ml",
+      "brand": "GORILLA",
+      "model": null,
+      "category": "Online",
+      "inventory_qty": 6,
+      "gift_suitable": true,
+      "manufacturer_url": "https://www.gorillatough.com/product/gorilla-gorilla-glue-250-ml",
+      "images": [
+        {
+          "url": "https://www.gorillatough.com/product/gorilla-gorilla-glue-250-ml/image.png",
+          "source": "manufacturer",
+          "resolution": "1500x1500",
+          "quality_score": 95,
+          "breakdown": {
+            "resolution": 28,
+            "background": 30,
+            "prominence": 20,
+            "watermark": 20
+          },
+          "local_path": "cache/product-images/66031b6e10d4-mfg.png",
+          "downloaded": false,
+          "simulated": true
+        }
+      ],
+      "best_image": "cache/product-images/66031b6e10d4-mfg.png",
+      "best_score": 95,
+      "download_status": "not_found"
+    },
+    {
+      "id": "5b30950d9129",
+      "name": "Gorilla Heavy Duty Mounting Tape 25 Mm X 1.5 M",
+      "brand": "GORILLA",
+      "model": null,
+      "category": "Online",
+      "inventory_qty": 10,
+      "gift_suitable": true,
+      "manufacturer_url": "https://www.gorillatough.com/product/gorilla-heavy-duty-mounting-tape-25-mm-x-15-m",
+      "images": [
+        {
+          "url": "https://cdn.prod.website-files.com/68fa289b578f3b5329032d22/69ac928274da9485bf03d004_Wood%20Glue%20Ultimate%20thumbnail%20(1).png",
+          "source": "manufacturer",
+          "resolution": "720x720",
+          "quality_score": 90,
+          "breakdown": {
+            "resolution": 20,
+            "background": 30,
+            "prominence": 20,
+            "watermark": 20
+          },
+          "local_path": "cache/product-images/5b30950d9129-gorilla.png",
+          "downloaded": true,
+          "simulated": false
+        }
+      ],
+      "best_image": "cache/product-images/5b30950d9129-gorilla.png",
+      "best_score": 90,
+      "download_status": "success",
+      "actual_product_url": "https://www.gorillatough.com/product/gorilla-wood-glue-ultimate"
+    },
+    {
+      "id": "2ae8c181a17d",
+      "name": "Gorilla Mounting Tape Crystal Clear 25mm X 1.5 M",
+      "brand": "GORILLA",
+      "model": null,
+      "category": "Online",
+      "inventory_qty": 5,
+      "gift_suitable": true,
+      "manufacturer_url": "https://www.gorillatough.com/product/gorilla-mounting-tape-crystal-clear-25mm-x-15-m",
+      "images": [
+        {
+          "url": "https://cdn.prod.website-files.com/68fa289b578f3b5329032d22/69ac928274da9485bf03d004_Wood%20Glue%20Ultimate%20thumbnail%20(1).png",
+          "source": "manufacturer",
+          "resolution": "720x720",
+          "quality_score": 90,
+          "breakdown": {
+            "resolution": 20,
+            "background": 30,
+            "prominence": 20,
+            "watermark": 20
+          },
+          "local_path": "cache/product-images/2ae8c181a17d-gorilla.png",
+          "downloaded": true,
+          "simulated": false
+        }
+      ],
+      "best_image": "cache/product-images/2ae8c181a17d-gorilla.png",
+      "best_score": 90,
+      "download_status": "success",
+      "actual_product_url": "https://www.gorillatough.com/product/gorilla-wood-glue-ultimate"
+    },
+    {
+      "id": "94cf952b29ed",
+      "name": "Gorilla Super Glue Gel 15g",
+      "brand": "GORILLA",
+      "model": null,
+      "category": "Online",
+      "inventory_qty": 7,
+      "gift_suitable": true,
+      "manufacturer_url": "https://www.gorillatough.com/product/gorilla-super-glue-gel-15g",
+      "images": [
+        {
+          "url": "https://cdn.prod.website-files.com/68fa289b578f3b5329032d22/69ac928274da9485bf03d004_Wood%20Glue%20Ultimate%20thumbnail%20(1).png",
+          "source": "manufacturer",
+          "resolution": "720x720",
+          "quality_score": 90,
+          "breakdown": {
+            "resolution": 20,
+            "background": 30,
+            "prominence": 20,
+            "watermark": 20
+          },
+          "local_path": "cache/product-images/94cf952b29ed-gorilla.png",
+          "downloaded": true,
+          "simulated": false
+        }
+      ],
+      "best_image": "cache/product-images/94cf952b29ed-gorilla.png",
+      "best_score": 90,
+      "download_status": "success",
+      "actual_product_url": "https://www.gorillatough.com/product/gorilla-wood-glue-ultimate"
+    }
+  ]
+}
