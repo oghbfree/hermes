@@ -1,6 +1,6 @@
 # Real Estate Portfolio — Master File
 
-**Last updated:** 19/10/26
+**Last updated:** 27/11/26
 **Owner:** H (Oman Herbert Blankson)
 **Consolidated from:** archive/real-estate-insights.md, archive/property-deal-21-19.md, business/construction/*, handwritten notes
 
@@ -13,7 +13,7 @@
 | **@15 (Property 15)** | ~17th (tenant 2); **22nd** (tenant 1); 3rd tenant ~around 17th | **3rd tenant £500** · **2nd tenant £872** (Oct 26) | 1st tenant pays 22nd |
 | **@14 (Croydon)** | 1st of month | — | Rooms 2 & 3 = £872 |
 | **@21 (21A Philip Walk)** | 1st of month | — | |
-| **@19 (19 Melford Court)** | — | **EMPTY** (tenants left 10 Sept) | Re-let or sell pending |
+| **@19 (19 Melford Court)** | — | **VACANT since 10 Sept** | 🔴 CRITICAL: £1,300/month shortfall (£43/day). Marketing: OpenRent £29/mo (27/11), Eric viewings. Target £1,800/mo. RightMove decision 04/12. |
 
 **Reminder pattern:** 15 and 14/21 pay early in the month; 15's tenants pay mid/late (~17th & 22nd). Set reminders just before each to chase as needed.
 
@@ -25,23 +25,32 @@
 
 ### 19 Melford Court — East Dulwich SE22
 
-**Status:** ❌ TENANTS MOVING OUT — Dennis & Precious leaving 10th Sept 2026
-**Reason:** Ongoing issues — gas, electric, water, no hot water (3 weeks), no washing machine
+**Status:** 🔴 VACANT — URGENT (vacant since 10 Sept 2026, ~11 weeks)  
+**Current situation (27/11/26):** Actively marketing, Eric handling viewings
 
-**Tenancy Issues:**
-- No signed tenancy agreement
-- No inventory done on move-in
-- No washing machine provided
-- Outstanding gas/electric debt + standing charge on the meters
-- No hot water for first **3 weeks**
-- No proper water for **almost the whole of last month**
-- 4th floor walk-up — tenant is pregnant
-- Tenants bought beds/mattresses themselves (unfurnished property — H did not instruct them to buy)
+**Financial Pressure:**
+- **Target rent:** £1,800/month (covers mortgage + bills)
+- Mortgage payment: £1,305.95/month
+- Other bills: ~£494/month (gas, electric, British Gas Home Care £34/mo, etc.)
+- Currently paying: £500/month (arrangement)
+- **Shortfall: £1,300/month** ← SEVERE bleeding
+- Weeks vacant: 11 (£3,575+ lost in shortfall)
+- **Daily loss: £43.33** (every day vacant)
 
-**Tenant's demands (message received):**
-- Moving out **10th Sept 2026**
-- Refund of gas/electric debt husband paid (was to be deducted from rent)
-- Compensation for prolonged lack of water and inconvenience
+**Marketing Efforts (27/11/26):**
+- **OpenRent:** £29/month plan (upgraded from FREE on 27/11/26)
+  - Syndicates to Zoopla
+  - Eric handling viewings
+- **RightMove:** Considering £70/month upgrade
+  - Decision: Wait 1 week (04/12/26) to assess OpenRent traction first
+- **Target rent:** £1,300/month minimum (to cover mortgage)
+
+**Previous Tenancy Issues (ended 10 Sept 2026):**
+- Tenants: Dennis & Precious (left due to ongoing issues)
+- Issues: Gas, electric, water, no hot water (3 weeks), no washing machine
+- No signed tenancy agreement, no inventory, no deposit taken
+- 4th floor walk-up — tenant was pregnant
+- Rent was: £1,800/month reduced rent
 
 **Financials (current status):**
 

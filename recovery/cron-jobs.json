@@ -22,15 +22,15 @@
       "schedule_display": "0 19 * * *",
       "repeat": {
         "times": null,
-        "completed": 160
+        "completed": 161
       },
       "enabled": true,
       "state": "scheduled",
       "paused_at": null,
       "paused_reason": null,
       "created_at": "2026-06-07T00:35:40.116212+01:00",
-      "next_run_at": "2026-11-26T19:00:00+00:00",
-      "last_run_at": "2026-11-25T20:00:29.044666+00:00",
+      "next_run_at": "2026-11-27T19:00:00+00:00",
+      "last_run_at": "2026-11-26T19:07:59.364039+00:00",
       "last_status": "ok",
       "last_error": null,
       "last_delivery_error": null,
@@ -44,13 +44,13 @@
       "provider_snapshot": null,
       "model_snapshot": null,
       "last_dispatch": {
-        "scheduled_at": "2026-11-25T19:00:00+00:00",
-        "dispatched_at": "2026-11-25T19:52:01.629909+00:00",
-        "lateness_seconds": 3121.6,
-        "kind": "late"
+        "scheduled_at": "2026-11-26T19:00:00+00:00",
+        "dispatched_at": "2026-11-26T19:04:47.163174+00:00",
+        "lateness_seconds": 287.2,
+        "kind": "on_time"
       },
       "canonical_completions": [
-        "28febb1692ff461b99e9fd2a8e43a104"
+        "97872c8599454db1b7b29d051f0931cc"
       ],
       "last_failure": {
         "at": "2026-11-14T19:12:56.938796+00:00",
@@ -77,15 +77,15 @@
       "schedule_display": "0 9 * * *",
       "repeat": {
         "times": null,
-        "completed": 164
+        "completed": 165
       },
       "enabled": true,
       "state": "scheduled",
       "paused_at": null,
       "paused_reason": null,
       "created_at": "2026-06-07T07:18:37.149115+01:00",
-      "next_run_at": "2026-11-26T09:00:00+00:00",
-      "last_run_at": "2026-11-25T09:36:46.116285+00:00",
+      "next_run_at": "2026-11-27T09:00:00+00:00",
+      "last_run_at": "2026-11-26T09:02:07.859452+00:00",
       "last_status": "ok",
       "last_error": null,
       "last_delivery_error": null,
@@ -99,17 +99,17 @@
       "provider_snapshot": null,
       "model_snapshot": null,
       "last_dispatch": {
-        "scheduled_at": "2026-11-25T09:00:00+00:00",
-        "dispatched_at": "2026-11-25T09:33:55.668667+00:00",
-        "lateness_seconds": 2035.7,
-        "kind": "late"
+        "scheduled_at": "2026-11-26T09:00:00+00:00",
+        "dispatched_at": "2026-11-26T09:00:30.540468+00:00",
+        "lateness_seconds": 30.5,
+        "kind": "on_time"
       },
       "last_failure": {
         "at": "2026-11-23T12:29:06.125402+00:00",
         "detail": "TimeoutError: Cron job 'tasks-queue-sync' idle for 0s (limit 600s) — last activity: ⏳ still waiting on deepseek/deepseek-v4-flash-0731 — 12242s waiting for the first stream chunk (auto-reconnect: stream …"
       },
       "canonical_completions": [
-        "ef2b2a18fe904e59a320344ecb8680bb"
+        "305da6ce7c6b4a2ba377d73940b837b5"
       ]
     },
     {
@@ -186,15 +186,15 @@
       "schedule_display": "4 8 * * *",
       "repeat": {
         "times": null,
-        "completed": 164
+        "completed": 165
       },
       "enabled": true,
       "state": "scheduled",
       "paused_at": null,
       "paused_reason": null,
       "created_at": "2026-06-07T07:18:47.582718+01:00",
-      "next_run_at": "2026-11-26T08:04:00+00:00",
-      "last_run_at": "2026-11-25T09:36:44.192748+00:00",
+      "next_run_at": "2026-11-27T08:04:00+00:00",
+      "last_run_at": "2026-11-26T08:44:43.644182+00:00",
       "last_status": "ok",
       "last_error": null,
       "last_delivery_error": null,
@@ -212,9 +212,9 @@
       "provider_snapshot": null,
       "model_snapshot": null,
       "last_dispatch": {
-        "scheduled_at": "2026-11-25T08:04:00+00:00",
-        "dispatched_at": "2026-11-25T09:33:55.668667+00:00",
-        "lateness_seconds": 5395.7,
+        "scheduled_at": "2026-11-26T08:04:00+00:00",
+        "dispatched_at": "2026-11-26T08:38:15.811966+00:00",
+        "lateness_seconds": 2055.8,
         "kind": "late"
       },
       "last_failure": {
@@ -222,7 +222,7 @@
         "detail": "RuntimeError: Hermes can't reach the model provider. You may be offline. Check your internet connection and try again."
       },
       "canonical_completions": [
-        "967f8dc54e2844c28d8fce062e105b72"
+        "abf8181c09054f34a682f77db06d13b3"
       ]
     },
     {
@@ -247,15 +247,15 @@
       "schedule_display": "0 13 * * *",
       "repeat": {
         "times": null,
-        "completed": 165
+        "completed": 166
       },
       "enabled": true,
       "state": "scheduled",
       "paused_at": null,
       "paused_reason": null,
       "created_at": "2026-06-07T07:18:49.643232+01:00",
-      "next_run_at": "2026-11-26T13:00:00+00:00",
-      "last_run_at": "2026-11-25T13:01:45.008567+00:00",
+      "next_run_at": "2026-11-27T13:00:00+00:00",
+      "last_run_at": "2026-11-26T13:01:49.034559+00:00",
       "last_status": "ok",
       "last_error": null,
       "last_delivery_error": null,
@@ -273,9 +273,9 @@
       "provider_snapshot": null,
       "model_snapshot": null,
       "last_dispatch": {
-        "scheduled_at": "2026-11-25T13:00:00+00:00",
-        "dispatched_at": "2026-11-25T13:00:02.638841+00:00",
-        "lateness_seconds": 2.6,
+        "scheduled_at": "2026-11-26T13:00:00+00:00",
+        "dispatched_at": "2026-11-26T13:00:26.043113+00:00",
+        "lateness_seconds": 26.0,
         "kind": "on_time"
       },
       "last_failure": {
@@ -283,7 +283,7 @@
         "detail": "RuntimeError: HTTP 402: This request requires more credits, or fewer max_tokens. You requested up to 131072 tokens, but can only afford 9834. To increase, visit https://openrouter.ai/workspaces/default/keys/9d5a97bc0445dbf60bf4115c40e45da7f530ceeb2b75e6581e55b68cce7646cd and adjust the key's monthly limit"
       },
       "canonical_completions": [
-        "610ddcd26c4347e8a8668b2aee4dfbfc"
+        "8d291303cfee4971a482da482834fe6a"
       ]
     },
     {
@@ -308,18 +308,18 @@
       "schedule_display": "0 19 * * *",
       "repeat": {
         "times": null,
-        "completed": 160
+        "completed": 161
       },
       "enabled": true,
       "state": "scheduled",
       "paused_at": null,
       "paused_reason": null,
       "created_at": "2026-06-07T07:18:51.780984+01:00",
-      "next_run_at": "2026-11-26T19:00:00+00:00",
-      "last_run_at": "2026-11-25T20:02:38.904740+00:00",
-      "last_status": "delivery_failed",
+      "next_run_at": "2026-11-27T19:00:00+00:00",
+      "last_run_at": "2026-11-26T19:09:34.487980+00:00",
+      "last_status": "ok",
       "last_error": null,
-      "last_delivery_error": "live adapter send failed: timed out after 30s (telegram-send); live adapter delivery to telegram:-1003784520976:4 failed: timed out after 30s (telegram-send); delivery error: Telegram send failed: Timed out (target telegram:-1003784520976:4)",
+      "last_delivery_error": null,
       "deliver": "telegram:-1003784520976:4",
       "origin": null,
       "enabled_toolsets": [
@@ -334,17 +334,17 @@
       "provider_snapshot": null,
       "model_snapshot": null,
       "last_dispatch": {
-        "scheduled_at": "2026-11-25T19:00:00+00:00",
-        "dispatched_at": "2026-11-25T19:52:01.629909+00:00",
-        "lateness_seconds": 3121.6,
-        "kind": "late"
+        "scheduled_at": "2026-11-26T19:00:00+00:00",
+        "dispatched_at": "2026-11-26T19:04:47.163174+00:00",
+        "lateness_seconds": 287.2,
+        "kind": "on_time"
       },
       "last_failure": {
         "at": "2026-11-14T19:13:21.299018+00:00",
         "detail": "RuntimeError: Hermes can't reach the model provider. You may be offline. Check your internet connection and try again."
       },
       "canonical_completions": [
-        "4c6b42a547924426af8eb1e6c767e162"
+        "d33abdd11ed540a2b5364d4d77bb7e9c"
       ]
     },
     {
@@ -369,15 +369,15 @@
       "schedule_display": "4 8 * * *",
       "repeat": {
         "times": null,
-        "completed": 163
+        "completed": 164
       },
       "enabled": true,
       "state": "scheduled",
       "paused_at": null,
       "paused_reason": null,
       "created_at": "2026-06-07T07:18:53.848956+01:00",
-      "next_run_at": "2026-11-26T08:04:00+00:00",
-      "last_run_at": "2026-11-25T09:36:26.100114+00:00",
+      "next_run_at": "2026-11-27T08:04:00+00:00",
+      "last_run_at": "2026-11-26T08:43:16.945990+00:00",
       "last_status": "ok",
       "last_error": null,
       "last_delivery_error": null,
@@ -395,9 +395,9 @@
       "provider_snapshot": null,
       "model_snapshot": null,
       "last_dispatch": {
-        "scheduled_at": "2026-11-25T08:04:00+00:00",
-        "dispatched_at": "2026-11-25T09:33:55.668667+00:00",
-        "lateness_seconds": 5395.7,
+        "scheduled_at": "2026-11-26T08:04:00+00:00",
+        "dispatched_at": "2026-11-26T08:38:15.811966+00:00",
+        "lateness_seconds": 2055.8,
         "kind": "late"
       },
       "last_failure": {
@@ -405,7 +405,7 @@
         "detail": "RuntimeError: Hermes can't reach the model provider. You may be offline. Check your internet connection and try again."
       },
       "canonical_completions": [
-        "ddfcaaa8b44546ccbd80455fb3433530"
+        "699e9d9f70444bc3afe1ed858d7ddb04"
       ]
     },
     {
@@ -430,15 +430,15 @@
       "schedule_display": "0 13 * * *",
       "repeat": {
         "times": null,
-        "completed": 164
+        "completed": 165
       },
       "enabled": true,
       "state": "scheduled",
       "paused_at": null,
       "paused_reason": null,
       "created_at": "2026-06-07T07:18:55.920483+01:00",
-      "next_run_at": "2026-11-26T13:00:00+00:00",
-      "last_run_at": "2026-11-25T13:00:20.631215+00:00",
+      "next_run_at": "2026-11-27T13:00:00+00:00",
+      "last_run_at": "2026-11-26T13:00:56.665407+00:00",
       "last_status": "ok",
       "last_error": null,
       "last_delivery_error": null,
@@ -456,9 +456,9 @@
       "provider_snapshot": null,
       "model_snapshot": null,
       "last_dispatch": {
-        "scheduled_at": "2026-11-25T13:00:00+00:00",
-        "dispatched_at": "2026-11-25T13:00:02.638841+00:00",
-        "lateness_seconds": 2.6,
+        "scheduled_at": "2026-11-26T13:00:00+00:00",
+        "dispatched_at": "2026-11-26T13:00:26.043113+00:00",
+        "lateness_seconds": 26.0,
         "kind": "on_time"
       },
       "last_failure": {
@@ -466,7 +466,7 @@
         "detail": "RuntimeError: Hermes can't reach the model provider. You may be offline. Check your internet connection and try again."
       },
       "canonical_completions": [
-        "449648cc3fb042dda4e5f035eebe3249"
+        "c26f2508d72d46dca7cc9642ca4cbb4a"
       ]
     },
     {
@@ -491,15 +491,15 @@
       "schedule_display": "0 19 * * *",
       "repeat": {
         "times": null,
-        "completed": 160
+        "completed": 161
       },
       "enabled": true,
       "state": "scheduled",
       "paused_at": null,
       "paused_reason": null,
       "created_at": "2026-06-07T07:18:58.059275+01:00",
-      "next_run_at": "2026-11-26T19:00:00+00:00",
-      "last_run_at": "2026-11-25T20:01:11.496222+00:00",
+      "next_run_at": "2026-11-27T19:00:00+00:00",
+      "last_run_at": "2026-11-26T19:08:06.202122+00:00",
       "last_status": "ok",
       "last_error": null,
       "last_delivery_error": null,
@@ -517,13 +517,13 @@
       "provider_snapshot": null,
       "model_snapshot": null,
       "last_dispatch": {
-        "scheduled_at": "2026-11-25T19:00:00+00:00",
-        "dispatched_at": "2026-11-25T19:52:01.629909+00:00",
-        "lateness_seconds": 3121.6,
-        "kind": "late"
+        "scheduled_at": "2026-11-26T19:00:00+00:00",
+        "dispatched_at": "2026-11-26T19:04:47.163174+00:00",
+        "lateness_seconds": 287.2,
+        "kind": "on_time"
       },
       "canonical_completions": [
-        "80050b27d3f8463385f9e53feac2459a"
+        "5a5fad53249c4bbc96f7b94b4e298fa8"
       ],
       "last_failure": {
         "at": "2026-11-14T19:12:57.057153+00:00",
@@ -654,15 +654,15 @@
       "schedule_display": "0 7 * * *",
       "repeat": {
         "times": null,
-        "completed": 304
+        "completed": 305
       },
       "enabled": true,
       "state": "scheduled",
       "paused_at": null,
       "paused_reason": null,
       "created_at": "2026-06-07T07:19:14.542277+01:00",
-      "next_run_at": "2026-11-26T07:00:00+00:00",
-      "last_run_at": "2026-11-25T09:38:44.650216+00:00",
+      "next_run_at": "2026-11-27T07:00:00+00:00",
+      "last_run_at": "2026-11-26T08:44:32.276556+00:00",
       "last_status": "ok",
       "last_error": null,
       "last_delivery_error": null,
@@ -676,17 +676,17 @@
       "provider_snapshot": null,
       "model_snapshot": null,
       "last_dispatch": {
-        "scheduled_at": "2026-11-25T07:00:00+00:00",
-        "dispatched_at": "2026-11-25T09:33:55.668667+00:00",
-        "lateness_seconds": 9235.7,
-        "kind": "catch_up"
+        "scheduled_at": "2026-11-26T07:00:00+00:00",
+        "dispatched_at": "2026-11-26T08:38:15.811966+00:00",
+        "lateness_seconds": 5895.8,
+        "kind": "late"
       },
       "last_failure": {
         "at": "2026-11-24T07:49:20.625776+00:00",
         "detail": "RuntimeError: Hermes can't reach the model provider. You may be offline. Check your internet connection and try again."
       },
       "canonical_completions": [
-        "1b62a1ee7765426d9a4921865198dafc"
+        "0f86d5aced624d03b9abb591717fcc3d"
       ]
     },
     {
@@ -819,15 +819,15 @@
       "schedule_display": "0 6 * * *",
       "repeat": {
         "times": null,
-        "completed": 109
+        "completed": 110
       },
       "enabled": true,
       "state": "scheduled",
       "paused_at": null,
       "paused_reason": null,
       "created_at": "2026-06-07T07:19:22.604845+01:00",
-      "next_run_at": "2026-11-27T06:00:00+00:00",
-      "last_run_at": "2026-11-25T09:35:33.380731+00:00",
+      "next_run_at": "2026-11-28T06:00:00+00:00",
+      "last_run_at": "2026-11-26T06:01:40.562253+00:00",
       "last_status": "ok",
       "last_error": null,
       "last_delivery_error": null,
@@ -837,16 +837,16 @@
       "workdir": null,
       "profile": null,
       "fire_claim": {
-        "at": "2026-11-26T06:00:35.460639+00:00",
-        "by": "DESKTOP-25Q3AQC:17840:955e1b77a0a54c6eb51f53a26c3be989"
+        "at": "2026-11-27T06:00:52.341317+00:00",
+        "by": "DESKTOP-25Q3AQC:17840:543803f8adf6499d9a988440c28debbc"
       },
       "failure_streak": 0,
       "provider_snapshot": null,
       "model_snapshot": null,
       "last_dispatch": {
-        "scheduled_at": "2026-11-26T06:00:00+00:00",
-        "dispatched_at": "2026-11-26T06:00:34.958835+00:00",
-        "lateness_seconds": 35.0,
+        "scheduled_at": "2026-11-27T06:00:00+00:00",
+        "dispatched_at": "2026-11-27T06:00:51.855407+00:00",
+        "lateness_seconds": 51.9,
         "kind": "on_time"
       },
       "last_failure": {
@@ -854,7 +854,7 @@
         "detail": "RuntimeError: Hermes can't reach the model provider. You may be offline. Check your internet connection and try again."
       },
       "canonical_completions": [
-        "de5224fb83b8489089da324d53f128d3"
+        "c80d31517d7043958bf1406af9a4d897"
       ]
     },
     {
@@ -877,15 +877,15 @@
       "schedule_display": "0 8 * * *",
       "repeat": {
         "times": null,
-        "completed": 163
+        "completed": 164
       },
       "enabled": true,
       "state": "scheduled",
       "paused_at": null,
       "paused_reason": null,
       "created_at": "2026-06-07T07:19:26.671069+01:00",
-      "next_run_at": "2026-11-26T08:00:00+00:00",
-      "last_run_at": "2026-11-25T09:38:14.437666+00:00",
+      "next_run_at": "2026-11-27T08:00:00+00:00",
+      "last_run_at": "2026-11-26T08:46:04.664133+00:00",
       "last_status": "ok",
       "last_error": null,
       "last_delivery_error": null,
@@ -899,9 +899,9 @@
       "provider_snapshot": null,
       "model_snapshot": null,
       "last_dispatch": {
-        "scheduled_at": "2026-11-25T08:00:00+00:00",
-        "dispatched_at": "2026-11-25T09:33:55.668667+00:00",
-        "lateness_seconds": 5635.7,
+        "scheduled_at": "2026-11-26T08:00:00+00:00",
+        "dispatched_at": "2026-11-26T08:38:15.811966+00:00",
+        "lateness_seconds": 2295.8,
         "kind": "late"
       },
       "last_failure": {
@@ -909,7 +909,7 @@
         "detail": "RuntimeError: Operation interrupted: waiting for model response (4008.2s elapsed)."
       },
       "canonical_completions": [
-        "d992c5dcc60c413894b4e10423433194"
+        "2951f1c0126d4a01bca58692ec0966d0"
       ]
     },
     {
@@ -932,15 +932,15 @@
       "schedule_display": "18 10 * * 0,1,2,3,4,5,6",
       "repeat": {
         "times": null,
-        "completed": 136
+        "completed": 137
       },
       "enabled": true,
       "state": "scheduled",
       "paused_at": null,
       "paused_reason": null,
       "created_at": "2026-06-07T07:19:30.748528+01:00",
-      "next_run_at": "2026-11-26T10:18:00+00:00",
-      "last_run_at": "2026-11-25T10:19:27.170308+00:00",
+      "next_run_at": "2026-11-27T10:18:00+00:00",
+      "last_run_at": "2026-11-26T10:19:14.569186+00:00",
       "last_status": "ok",
       "last_error": null,
       "last_delivery_error": null,
@@ -954,9 +954,9 @@
       "provider_snapshot": null,
       "model_snapshot": null,
       "last_dispatch": {
-        "scheduled_at": "2026-11-25T10:18:00+00:00",
-        "dispatched_at": "2026-11-25T10:18:02.532384+00:00",
-        "lateness_seconds": 2.5,
+        "scheduled_at": "2026-11-26T10:18:00+00:00",
+        "dispatched_at": "2026-11-26T10:18:26.099823+00:00",
+        "lateness_seconds": 26.1,
         "kind": "on_time"
       },
       "last_failure": {
@@ -964,7 +964,7 @@
         "detail": "RuntimeError: HTTP 402: This request would exceed your available credits given your current in-flight requests. Retry after in-flight requests settle, or add credits."
       },
       "canonical_completions": [
-        "2c2ac99ba55a45f0ad2473fab6470552"
+        "3ed88c263abf48da809b15b3b9f0ea5d"
       ]
     },
     {
@@ -987,15 +987,15 @@
       "schedule_display": "4 10 * * 0,1,4",
       "repeat": {
         "times": null,
-        "completed": 68
+        "completed": 69
       },
       "enabled": true,
       "state": "scheduled",
       "paused_at": null,
       "paused_reason": null,
       "created_at": "2026-06-07T07:19:32.793956+01:00",
-      "next_run_at": "2026-11-26T10:04:00+00:00",
-      "last_run_at": "2026-11-23T12:31:54.642520+00:00",
+      "next_run_at": "2026-11-29T10:04:00+00:00",
+      "last_run_at": "2026-11-26T10:07:27.633680+00:00",
       "last_status": "ok",
       "last_error": null,
       "last_delivery_error": null,
@@ -1009,17 +1009,17 @@
       "provider_snapshot": null,
       "model_snapshot": null,
       "last_dispatch": {
-        "scheduled_at": "2026-11-23T10:04:00+00:00",
-        "dispatched_at": "2026-11-23T12:28:58.158530+00:00",
-        "lateness_seconds": 8698.2,
-        "kind": "catch_up"
+        "scheduled_at": "2026-11-26T10:04:00+00:00",
+        "dispatched_at": "2026-11-26T10:05:21.274094+00:00",
+        "lateness_seconds": 81.3,
+        "kind": "on_time"
       },
       "last_failure": {
         "at": "2026-10-18T10:12:01.063701+00:00",
         "detail": "Hermes stopped because your settings file (C:\\Users\\User\\AppData\\Local\\hermes\\config.yaml) has a formatting error at line 289. Fix it with `hermes config edit` and check with `hermes config check`, or add --ignore-user-config to run once with default settings. Details: found duplicate key \"platforms\" with value \"{}\" (original value: \"{}\")"
       },
       "canonical_completions": [
-        "5e866481b815479fb5a693972286baf8"
+        "0fd81864c3df4e9cba7531717a55cbcb"
       ]
     },
     {
@@ -1243,15 +1243,15 @@
       "schedule_display": "0 9 * * *",
       "repeat": {
         "times": null,
-        "completed": 162
+        "completed": 163
       },
       "enabled": true,
       "state": "scheduled",
       "paused_at": null,
       "paused_reason": null,
       "created_at": "2026-06-07T23:07:14.607446+01:00",
-      "next_run_at": "2026-11-26T09:00:00+00:00",
-      "last_run_at": "2026-11-25T09:36:27.122652+00:00",
+      "next_run_at": "2026-11-27T09:00:00+00:00",
+      "last_run_at": "2026-11-26T09:01:50.825601+00:00",
       "last_status": "ok",
       "last_error": null,
       "last_delivery_error": null,
@@ -1265,17 +1265,17 @@
       "provider_snapshot": null,
       "model_snapshot": null,
       "last_dispatch": {
-        "scheduled_at": "2026-11-25T09:00:00+00:00",
-        "dispatched_at": "2026-11-25T09:33:55.668667+00:00",
-        "lateness_seconds": 2035.7,
-        "kind": "late"
+        "scheduled_at": "2026-11-26T09:00:00+00:00",
+        "dispatched_at": "2026-11-26T09:00:30.540468+00:00",
+        "lateness_seconds": 30.5,
+        "kind": "on_time"
       },
       "last_failure": {
         "at": "2026-11-23T12:29:06.231269+00:00",
         "detail": "RuntimeError: Operation interrupted: waiting for the provider to recover (cycle 1/5)."
       },
       "canonical_completions": [
-        "7ff2106456b541f58634bece312461f7"
+        "129b061b1d3249a1b148100e6c6d475e"
       ]
     },
     {
@@ -1801,15 +1801,15 @@
       "schedule_display": "0 8 * * *",
       "repeat": {
         "times": null,
-        "completed": 125
+        "completed": 126
       },
       "enabled": true,
       "state": "scheduled",
       "paused_at": null,
       "paused_reason": null,
       "created_at": "2026-07-18T04:12:38.493477+01:00",
-      "next_run_at": "2026-11-26T08:00:00+00:00",
-      "last_run_at": "2026-11-25T09:35:33.475748+00:00",
+      "next_run_at": "2026-11-27T08:00:00+00:00",
+      "last_run_at": "2026-11-26T08:42:41.190274+00:00",
       "last_status": "ok",
       "last_error": null,
       "last_delivery_error": null,
@@ -1826,9 +1826,9 @@
       "fire_claim": null,
       "failure_streak": 0,
       "last_dispatch": {
-        "scheduled_at": "2026-11-25T08:00:00+00:00",
-        "dispatched_at": "2026-11-25T09:33:55.668667+00:00",
-        "lateness_seconds": 5635.7,
+        "scheduled_at": "2026-11-26T08:00:00+00:00",
+        "dispatched_at": "2026-11-26T08:38:15.811966+00:00",
+        "lateness_seconds": 2295.8,
         "kind": "late"
       },
       "last_failure": {
@@ -1836,7 +1836,7 @@
         "detail": "RuntimeError: Operation interrupted: waiting for model response (633.8s elapsed)."
       },
       "canonical_completions": [
-        "7eeb11da7c784416b94f800ad2e0ebe5"
+        "155d2149aa7648a9a1363e460fa417d2"
       ]
     },
     {
@@ -2181,15 +2181,15 @@
       "schedule_display": "5 22 * * *",
       "repeat": {
         "times": null,
-        "completed": 100
+        "completed": 101
       },
       "enabled": true,
       "state": "scheduled",
       "paused_at": null,
       "paused_reason": null,
       "created_at": "2026-08-17T20:00:34.809937+00:00",
-      "next_run_at": "2026-11-26T22:05:00+00:00",
-      "last_run_at": "2026-11-26T02:08:45.692733+00:00",
+      "next_run_at": "2026-11-27T22:05:00+00:00",
+      "last_run_at": "2026-11-26T22:26:34.968501+00:00",
       "last_status": "ok",
       "last_error": null,
       "last_delivery_error": null,
@@ -2200,13 +2200,13 @@
       "fire_claim": null,
       "failure_streak": 0,
       "last_dispatch": {
-        "scheduled_at": "2026-11-25T22:05:00+00:00",
-        "dispatched_at": "2026-11-26T02:02:17.447220+00:00",
-        "lateness_seconds": 14237.4,
-        "kind": "catch_up"
+        "scheduled_at": "2026-11-26T22:05:00+00:00",
+        "dispatched_at": "2026-11-26T22:05:53.325630+00:00",
+        "lateness_seconds": 53.3,
+        "kind": "on_time"
       },
       "canonical_completions": [
-        "55ec0630c8634fc4a616f21b58450eb4"
+        "aec282aaff4845e8a423c537f2bd25c5"
       ]
     },
     {
@@ -2436,7 +2436,7 @@
     {
       "id": "5128ceaa2c09",
       "name": "2Real - FB Marketplace Batch Poster",
-      "prompt": "2Real FB Marketplace poster. POST UP TO 3 NEW LISTINGS PER RUN (max, GUARDED re-entry after FB review lifted 01/11/26 — do NOT raise this)\n\n## HARD DAILY CEILING — 3 listings/day (GUARDED re-entry cap, preservation doctrine — do NOT exceed)\n- **3 listings/day TOTAL. This is a ceiling, not a target.** After a Marketplace review for 'deception', FB watches the account closely — burst posting is exactly what reads as a bot. 3/day for the first 2 weeks; do not exceed no matter how many runs fire.\n- **Enforce with a daily counter:** `C:\\Users\\User\\.hermes\\workspace\\Vault\\business\\2real\\fb-marketplace\\fb_daily_count_<YYYYMMDD>.json` — contains `{\"posted\": N}` for today.\n  - **At run start:** read the counter. If today total >= 15 → **post 0, stop, report \"daily ceiling hit\".**\n  - **Each run posts at most (15 − already-posted-today) items.** Never more.\n  - **After each successful post:** increment the counter and save (same file). Verify on disk.\n- This REPLACES the old unlimited-queue behavior. **Ban safety over speed. 15/day is the max you may ever post on FB Marketplace.**\n — Previously 15/day (17 Oct 26). LOWERED to 3/day by preservation doctrine 01/11/26. Follow EXACTLY.\n\n## Context\n- Playbook (read first): C:\\Users\\User\\.hermes\\workspace\\Vault\\business\\2real\\2real-agent\\FB_MARKETPLACE_PLAYBOOK.md — especially the ANTI-BAN HARDENING section (12 Oct 26).\n- Package dir: C:\\Users\\User\\.hermes\\workspace\\Vault\\business\\2real\\2real-agent\\channel_upload_package\n  - next50.json = queue (jiji_id, title, price) | fb_posted.json = posted IDs | photos\\{jiji_id}.jpg\n  - fb_post_lib.py = tested posting library (exec it in browser session 'jiji-shop'). It now includes: make_desc(title) for anti-ban text variation, vary_photo(src,dst) for photo hash variation, open_category() for the new FB combobox flow, and post_one().\n  - fb_desc_fixed.json = first10 IDs whose \\n descriptions were handled\n\n## FB PROFILE\nPosts MUST appear on the **Oman Ghan Herbert-blankson** profile. The 'jiji-shop' browser session is logged into it — do NOT switch portfolios or business accounts.\n\n## DEDUP SOURCE OF TRUTH (single registry — NEVER re-scan, NEVER re-verify)\n- The canonical dedup memory is `Vault/business/2real/2real-agent/channel_posted_master.json`\n  (= CHANNEL_POSTED_REGISTRY.md in Obsidian) + the `channel_dedup.py` helper.\n- Before posting any item, check `Registry().is_fb_posted(jid)` / `posted_anywhere(jid)`.\n  SKIP any ID present on EITHER channel. Do NOT re-scan the live FB page for this.\n- After EVERY successful PUBLISH, call `Registry().mark_fb_posted(jid)` so the memory\n  updates immediately. The registry IS the record — no separate audit needed.\n\n## DUPLICATE-PREVENTION (H: \"avoid at all costs\" — highest priority)\n- NEVER post an item whose jiji_id is already in fb_posted.json. The queue is now\n  pre-filtered at promote time, but re-check at post time: skip any posted ID and\n  move to the next unposted item. Item 1 of a batch must NEVER be a repeat.\n- One listing per product — a product already on FB (even under a different jiji_id)\n  must not be re-posted. If unsure, check fb_posted.json first.\n\n## TITLE KEYWORDS (FB search visibility)\n- Enrich the listing TITLE with high-search keywords so FB Marketplace search finds it.\n  FB rewards detail + relevant keywords. Format: `[Brand] [Product] [Key spec] — [UK Imported, Quality Checked]`\n  (per the FB playbook). Add the most-searched terms buyers use (brand, product type,\n  key spec, use-case) — but keep the title natural and under FB's length limit.\n- Do NOT change the price. Do NOT invent specs that aren't real. Only add keywords that\n  genuinely describe the item (from the researched specs / Jiji details).\n- Example: `Bosch PST 650 Jigsaw 500W — UK Imported, Quality Checked` (not just `Bosch Jigsaw`).\n\n## ACCURATE CONDITION + DETAILED DESCRIPTION (H's requirements)\n- CONDITION: Before posting, look up the item in `jiji_listings_full.json` (source of\n  truth). If the title/details signal USED (used, second hand, pre-owned, refurbished,\n  brand user, tested working, read description), set FB Condition = **Used**. Otherwise\n  New. Do NOT default everything to New — some items are used.\n- DESCRIPTION: build from RESEARCH + Jiji details. For each item, do a quick\n  web_search (e.g. \"<product name> specifications\") to pull the KEY specs/features\n  (power, capacity, size, material, key selling points). Combine the researched specs\n  with the Jiji listing `details` first-sentence. Keep the spec portion concise\n  (under ~120 characters). Then the payment/pickup closer.\n  fb_post_lib.make_desc(title, details, condition) accepts the researched spec text\n  as `details` — pass the researched specs + the Jiji details + detected condition.\n  If web research is unavailable, fall back to the Jiji details alone.\n\n## STEP 1 — Post up to five listings (BATCH MODE — one session)\nPick the first ~5 items in next50.json that are NOT in fb_posted.json. Post them ALL in ONE batch call so a single CDP browser session is reused (far faster than reconnect-per-item):\n\ncd /c/Users/User/.hermes/workspace/Vault/business/2real/2real-agent/channel_upload_package && /c/Users/User/AppData/Local/Programs/Python/Python314/python.exe fb_post_run.py <jid1> <jid2> <jid3> <jid4> <jid5>\n\n- Sleep 45-60s BETWEEN listings (reduced from 120-180s; still safely anti-velocity).\n- The runner already: builds desc from researched/Jiji specs + accurate condition, micro-varies the photo (_v), sets category, checks the unified dedup registry, marks fb_posted + the master registry after each PUBLISHED.\n- If one item fails twice, the runner skips it; if two in a row fail, END THE RUN (possible FB flow change or flag — do not force).\n- Use CDP DOM.setFileInputFiles for the photo if base64 JS injection errors ('chunk is longer than limit').\n\n## STEP 1.5 — RENEW / REFRESH CHECK (added 22/10/26 — verified against live FB)\nRun the renewal audit as part of the same run (one CDP session, AFTER posting):\n`cd /c/Users/User/.hermes/workspace/Vault/business/2real/2real-agent/channel_upload_package && /c/Users/User/AppData/Local/Programs/Python/Python314/python.exe fb_check_renewals.py`\n- **FB Marketplace reality (verified 22/10/26):** there is NO manual \"Renew\" button for ACTIVE listings — FB keeps them live and auto-refreshes. \"More options\" on a card = Mark as sold/pending, Share, Delete only.\n- The script: walks the selling page, counts Active/Expired/Inactive/Paused, and clicks **Renew/Sell-again ONLY on genuinely EXPIRED listings** (capped at 5/run, 8s between clicks, anti-ban).\n- Report in the run summary: `<N> active, <M> expired renewed (or 0 — nothing to renew)`. If the script reports 0 renew-able, that is the correct, healthy result.\n- **Do NOT auto-edit active listings to fake a refresh** — editing at volume risks the 15/day ceiling + ban. If H wants a recency boost on specific stale items, propose them (STEP 3 style), never auto-edit.\n- If the browser/session isn't available, note it and continue (posting is the priority; renewal is best-effort).\n\n\n## STEP 2.5 — SHARE NEW LISTINGS TO BUY/SELL GROUPS (added 22/10/26)\nAfter ANY listing publishes successfully (STEP 1 rc=PUBLISHED), fb_post_run.py\nautomatically shares that exact listing into H's buy/sell groups:\n**GHANA MARKET PLACE** and **ACCRA BUY AND SELL** (public groups H joined; names\nverified in the live FB group picker 22/10/26).\nMechanism: fb_share_groups.py opens the fresh listing -> Share -> Group ->\nsearch exact group name -> click row -> Share now. Failure-tolerant: if a group\nshare fails, the Marketplace listing itself is already live and STAYS live; log\nthe skip and continue (NEVER fail the run, NEVER undo the publish).\nSafety gate: group sharing only fires when the runner env has FB_SHARE_GROUPS=1\n(the flag is set in the runner env; do NOT flip it unless H confirms).\nAnti-ban: one share at a time, 8s between groups, sequential not parallel.\n\n\n## STEP 2 — Handle buyer messages + nudge quiet buyers\nRead the FB Marketplace inbox (in the `jiji-shop` session).\n- For each NEW buyer message: reply with the item's Jiji-truth price/stock + payment terms (no credit),\n  end with CTA 0204252252. Record the thread via `fb_sales_ops.BuyerThreads().upsert(...)`.\n- Revive quiet threads: `BuyerThreads().due_for_nudge()` returns threads where WE spoke last and the\n  buyer went silent past the window (24h first / 72h second, max 2). Send `nudge_text(t, n)` and call\n  `mark_nudged(id)`. NEVER offer a discount in a nudge (H approves discounts).\n- If the inbox can't be read this run, note it and continue (don't block posting).\n\n## STEP 3 — Slow-item price drops (PROPOSE only — H approves)\nRead `FB_LISTING_PERFORMANCE.json`; register each posted listing (register(jiji_id,title,price)).\n`PriceDrops().slow_candidates()` lists unsold listings >14 days with low engagement and proposes -10%.\nDELIVER these as PROPOSALS to H — do NOT change any price. Only after H replies \"approved\" does the\nprice change (update Jiji FIRST, then FB — one price everywhere). Business rule: no discounts without H.\n\n## STEP 4 — Bundle line + cross-sell\n- Append a \"Pairs well with…\" bundle line to new listings using\n  `fb_sales_ops.recommend_bundles(title)` (or offer it as a follow-up in buyer chat).\n- Cross-sell: `cross_sell_targets(category)` returns best-fit FB groups (cap 2/run). Post to APPROVED\n  groups only — a NEW group needs H approval first.\n\n## STEP 5 — Report (short)\n- X posted, Y remaining, Z buyer msgs answered, N nudges sent, price-drop proposals (list), bundles/cross-sells.\n- When remaining = 0: say QUEUE COMPLETE.\n\n## Rules\n- Never change prices — they come from next50.json exactly (price DROPS are proposals H approves).\n- One listing per product — never re-post an ID already in fb_posted.json (exception: only when H orders a re-list).\n- New FB group posting + any discount = H approval required.\n- Read `FB_SALES_OPS_PLAYBOOK.md` alongside `FB_MARKETPLACE_PLAYBOOK.md`.\n- If Meta flags/locks the account, STOP immediately and report to H.\n\n## CONDITION RULE (mandatory since 17/10/26 — misrepresentation risk)\nEvery queue item now carries a 'condition' field ('NEW' or 'USED'). When posting:\n- FB Marketplace: set the Condition dropdown to EXACTLY the item's 'condition' value ('Used' or 'New'). Never default to New.\n- Description line: USED items get 'UK Pre-Owned, Tested Working' (or 'For parts/repair' where title says so); NEW items get 'Brand New, Sealed'.\n- WhatsApp catalog: NEW items titled normally; USED items include 'UK Used' or 'Pre-owned' in title/description honestly.\n- If a queue item lacks the 'condition' field, classify by title: explicit 'brand new/sealed' = NEW; explicit 'pre-owned/used/for parts/bare unit/vintage/untested' = USED; sealed consumables (sprays, tapes, blades, batteries, LEGO) = NEW; EVERYTHING ELSE = USED (H buys at auction ~1/3 UK retail — default used, never guess new). Never post an unclassified item.\n\n## AI-TELL LINTER (mandatory since 19/10/26 — every description)\nBefore posting ANY listing/catalogue text, run it through SlopMonster's AI-tell linter:\n`python content_tool.py slopcheck '<description text>'` (sat-nav profile launcher → SlopMonster).\n- If it returns 5/5 CLEAN (exit 0): post as-is.\n- If it returns <5/5 (exit 1, AI-tells flagged): REWRITE to remove the tells\n  (kill 'delve/seamless/revolutionary', 'not just X but Y', rule-of-three rhythms,\n  stacked em-dashes, invented stats), make it concrete and human (e.g. \"UK Imported,\n  tested working\" + a specific spec), then re-check until 5/5.\nNEVER ship AI-sounding copy — it kills trust and conversions on Jiji/FB/WhatsApp.\n",
+      "prompt": "2Real FB Marketplace poster. POST UP TO 5 NEW LISTINGS PER RUN (max, GUARDED re-entry after FB review lifted 01/11/26 — do NOT raise this)\n\n## HARD DAILY CEILING — 3 listings/day (GUARDED re-entry cap, preservation doctrine — do NOT exceed)\n- **5 listings/day TOTAL. This is a ceiling, not a target.** After a Marketplace review for 'deception', FB watches the account closely — burst posting is exactly what reads as a bot. 5/day for the first 2 weeks; do not exceed no matter how many runs fire.\n- **Enforce with a daily counter:** `C:\\Users\\User\\.hermes\\workspace\\Vault\\business\\2real\\fb-marketplace\\fb_daily_count_<YYYYMMDD>.json` — contains `{\"posted\": N}` for today.\n  - **At run start:** read the counter. If today total >= 5 → **post 0, stop, report \"daily ceiling hit\".**\n  - **Each run posts at most (5 − already-posted-today) items.** Never more.\n  - **After each successful post:** increment the counter and save (same file). Verify on disk.\n- This REPLACES the old unlimited-queue behavior. **Ban safety over speed. 5/day is the max you may ever post on FB Marketplace.**\n — Previously 15/day (17 Oct 26). RAISED to 5/day by H directive 27/11/26. Follow EXACTLY.\n\n## Context\n- Playbook (read first): C:\\Users\\User\\.hermes\\workspace\\Vault\\business\\2real\\2real-agent\\FB_MARKETPLACE_PLAYBOOK.md — especially the ANTI-BAN HARDENING section (12 Oct 26).\n- Package dir: C:\\Users\\User\\.hermes\\workspace\\Vault\\business\\2real\\2real-agent\\channel_upload_package\n  - next50.json = queue (jiji_id, title, price) | fb_posted.json = posted IDs | photos\\{jiji_id}.jpg\n  - fb_post_lib.py = tested posting library (exec it in browser session 'jiji-shop'). It now includes: make_desc(title) for anti-ban text variation, vary_photo(src,dst) for photo hash variation, open_category() for the new FB combobox flow, and post_one().\n  - fb_desc_fixed.json = first10 IDs whose \\n descriptions were handled\n\n## FB PROFILE\nPosts MUST appear on the **Oman Ghan Herbert-blankson** profile. The 'jiji-shop' browser session is logged into it — do NOT switch portfolios or business accounts.\n\n## DEDUP SOURCE OF TRUTH (single registry — NEVER re-scan, NEVER re-verify)\n- The canonical dedup memory is `Vault/business/2real/2real-agent/channel_posted_master.json`\n  (= CHANNEL_POSTED_REGISTRY.md in Obsidian) + the `channel_dedup.py` helper.\n- Before posting any item, check `Registry().is_fb_posted(jid)` / `posted_anywhere(jid)`.\n  SKIP any ID present on EITHER channel. Do NOT re-scan the live FB page for this.\n- After EVERY successful PUBLISH, call `Registry().mark_fb_posted(jid)` so the memory\n  updates immediately. The registry IS the record — no separate audit needed.\n\n## DUPLICATE-PREVENTION (H: \"avoid at all costs\" — highest priority)\n- NEVER post an item whose jiji_id is already in fb_posted.json. The queue is now\n  pre-filtered at promote time, but re-check at post time: skip any posted ID and\n  move to the next unposted item. Item 1 of a batch must NEVER be a repeat.\n- One listing per product — a product already on FB (even under a different jiji_id)\n  must not be re-posted. If unsure, check fb_posted.json first.\n\n## TITLE KEYWORDS (FB search visibility)\n- Enrich the listing TITLE with high-search keywords so FB Marketplace search finds it.\n  FB rewards detail + relevant keywords. Format: `[Brand] [Product] [Key spec] — [UK Imported, Quality Checked]`\n  (per the FB playbook). Add the most-searched terms buyers use (brand, product type,\n  key spec, use-case) — but keep the title natural and under FB's length limit.\n- Do NOT change the price. Do NOT invent specs that aren't real. Only add keywords that\n  genuinely describe the item (from the researched specs / Jiji details).\n- Example: `Bosch PST 650 Jigsaw 500W — UK Imported, Quality Checked` (not just `Bosch Jigsaw`).\n\n## ACCURATE CONDITION + DETAILED DESCRIPTION (H's requirements)\n- CONDITION: Before posting, look up the item in `jiji_listings_full.json` (source of\n  truth). If the title/details signal USED (used, second hand, pre-owned, refurbished,\n  brand user, tested working, read description), set FB Condition = **Used**. Otherwise\n  New. Do NOT default everything to New — some items are used.\n- DESCRIPTION: build from RESEARCH + Jiji details. For each item, do a quick\n  web_search (e.g. \"<product name> specifications\") to pull the KEY specs/features\n  (power, capacity, size, material, key selling points). Combine the researched specs\n  with the Jiji listing `details` first-sentence. Keep the spec portion concise\n  (under ~120 characters). Then the payment/pickup closer.\n  fb_post_lib.make_desc(title, details, condition) accepts the researched spec text\n  as `details` — pass the researched specs + the Jiji details + detected condition.\n  If web research is unavailable, fall back to the Jiji details alone.\n\n## STEP 1 — Post up to five listings (BATCH MODE — one session)\nPick the first 5 items in next50.json that are NOT in fb_posted.json. Post them ALL in ONE batch call so a single CDP browser session is reused (far faster than reconnect-per-item):\n\ncd /c/Users/User/.hermes/workspace/Vault/business/2real/2real-agent/channel_upload_package && /c/Users/User/AppData/Local/Programs/Python/Python314/python.exe fb_post_run.py <jid1> <jid2> <jid3> <jid4> <jid5>\n\n- Sleep 45-60s BETWEEN listings (reduced from 120-180s; still safely anti-velocity).\n- The runner already: builds desc from researched/Jiji specs + accurate condition, micro-varies the photo (_v), sets category, checks the unified dedup registry, marks fb_posted + the master registry after each PUBLISHED.\n- If one item fails twice, the runner skips it; if two in a row fail, END THE RUN (possible FB flow change or flag — do not force).\n- Use CDP DOM.setFileInputFiles for the photo if base64 JS injection errors ('chunk is longer than limit').\n\n## STEP 1.5 — RENEW / REFRESH CHECK (added 22/10/26 — verified against live FB)\nRun the renewal audit as part of the same run (one CDP session, AFTER posting):\n`cd /c/Users/User/.hermes/workspace/Vault/business/2real/2real-agent/channel_upload_package && /c/Users/User/AppData/Local/Programs/Python/Python314/python.exe fb_check_renewals.py`\n- **FB Marketplace reality (verified 22/10/26):** there is NO manual \"Renew\" button for ACTIVE listings — FB keeps them live and auto-refreshes. \"More options\" on a card = Mark as sold/pending, Share, Delete only.\n- The script: walks the selling page, counts Active/Expired/Inactive/Paused, and clicks **Renew/Sell-again ONLY on genuinely EXPIRED listings** (capped at 5/run, 8s between clicks, anti-ban).\n- Report in the run summary: `<N> active, <M> expired renewed (or 0 — nothing to renew)`. If the script reports 0 renew-able, that is the correct, healthy result.\n- **Do NOT auto-edit active listings to fake a refresh** — editing at volume risks the 15/day ceiling + ban. If H wants a recency boost on specific stale items, propose them (STEP 3 style), never auto-edit.\n- If the browser/session isn't available, note it and continue (posting is the priority; renewal is best-effort).\n\n\n## STEP 2.5 — SHARE NEW LISTINGS TO BUY/SELL GROUPS (added 22/10/26)\nAfter ANY listing publishes successfully (STEP 1 rc=PUBLISHED), fb_post_run.py\nautomatically shares that exact listing into H's buy/sell groups:\n**GHANA MARKET PLACE** and **ACCRA BUY AND SELL** (public groups H joined; names\nverified in the live FB group picker 22/10/26).\nMechanism: fb_share_groups.py opens the fresh listing -> Share -> Group ->\nsearch exact group name -> click row -> Share now. Failure-tolerant: if a group\nshare fails, the Marketplace listing itself is already live and STAYS live; log\nthe skip and continue (NEVER fail the run, NEVER undo the publish).\nSafety gate: group sharing only fires when the runner env has FB_SHARE_GROUPS=1\n(the flag is set in the runner env; do NOT flip it unless H confirms).\nAnti-ban: one share at a time, 8s between groups, sequential not parallel.\n\n\n## STEP 2 — Handle buyer messages + nudge quiet buyers\nRead the FB Marketplace inbox (in the `jiji-shop` session).\n- For each NEW buyer message: reply with the item's Jiji-truth price/stock + payment terms (no credit),\n  end with CTA 0204252252. Record the thread via `fb_sales_ops.BuyerThreads().upsert(...)`.\n- Revive quiet threads: `BuyerThreads().due_for_nudge()` returns threads where WE spoke last and the\n  buyer went silent past the window (24h first / 72h second, max 2). Send `nudge_text(t, n)` and call\n  `mark_nudged(id)`. NEVER offer a discount in a nudge (H approves discounts).\n- If the inbox can't be read this run, note it and continue (don't block posting).\n\n## STEP 3 — Slow-item price drops (PROPOSE only — H approves)\nRead `FB_LISTING_PERFORMANCE.json`; register each posted listing (register(jiji_id,title,price)).\n`PriceDrops().slow_candidates()` lists unsold listings >14 days with low engagement and proposes -10%.\nDELIVER these as PROPOSALS to H — do NOT change any price. Only after H replies \"approved\" does the\nprice change (update Jiji FIRST, then FB — one price everywhere). Business rule: no discounts without H.\n\n## STEP 4 — Bundle line + cross-sell\n- Append a \"Pairs well with…\" bundle line to new listings using\n  `fb_sales_ops.recommend_bundles(title)` (or offer it as a follow-up in buyer chat).\n- Cross-sell: `cross_sell_targets(category)` returns best-fit FB groups (cap 2/run). Post to APPROVED\n  groups only — a NEW group needs H approval first.\n\n## STEP 5 — Report (short)\n- X posted, Y remaining, Z buyer msgs answered, N nudges sent, price-drop proposals (list), bundles/cross-sells.\n- When remaining = 0: say QUEUE COMPLETE.\n\n## Rules\n- Never change prices — they come from next50.json exactly (price DROPS are proposals H approves).\n- One listing per product — never re-post an ID already in fb_posted.json (exception: only when H orders a re-list).\n- New FB group posting + any discount = H approval required.\n- Read `FB_SALES_OPS_PLAYBOOK.md` alongside `FB_MARKETPLACE_PLAYBOOK.md`.\n- If Meta flags/locks the account, STOP immediately and report to H.\n\n## CONDITION RULE (mandatory since 17/10/26 — misrepresentation risk)\nEvery queue item now carries a 'condition' field ('NEW' or 'USED'). When posting:\n- FB Marketplace: set the Condition dropdown to EXACTLY the item's 'condition' value ('Used' or 'New'). Never default to New.\n- Description line: USED items get 'UK Pre-Owned, Tested Working' (or 'For parts/repair' where title says so); NEW items get 'Brand New, Sealed'.\n- WhatsApp catalog: NEW items titled normally; USED items include 'UK Used' or 'Pre-owned' in title/description honestly.\n- If a queue item lacks the 'condition' field, classify by title: explicit 'brand new/sealed' = NEW; explicit 'pre-owned/used/for parts/bare unit/vintage/untested' = USED; sealed consumables (sprays, tapes, blades, batteries, LEGO) = NEW; EVERYTHING ELSE = USED (H buys at auction ~1/3 UK retail — default used, never guess new). Never post an unclassified item.\n\n## AI-TELL LINTER (mandatory since 19/10/26 — every description)\nBefore posting ANY listing/catalogue text, run it through SlopMonster's AI-tell linter:\n`python content_tool.py slopcheck '<description text>'` (sat-nav profile launcher → SlopMonster).\n- If it returns 5/5 CLEAN (exit 0): post as-is.\n- If it returns <5/5 (exit 1, AI-tells flagged): REWRITE to remove the tells\n  (kill 'delve/seamless/revolutionary', 'not just X but Y', rule-of-three rhythms,\n  stacked em-dashes, invented stats), make it concrete and human (e.g. \"UK Imported,\n  tested working\" + a specific spec), then re-check until 5/5.\nNEVER ship AI-sounding copy — it kills trust and conversions on Jiji/FB/WhatsApp.\n",
       "skills": [],
       "skill": null,
       "model": "deepseek/deepseek-v4-flash-0731",
@@ -2456,15 +2456,15 @@
       "schedule_display": "0 10 * * *",
       "repeat": {
         "times": null,
-        "completed": 218
+        "completed": 219
       },
       "enabled": true,
       "state": "scheduled",
       "paused_at": null,
       "paused_reason": null,
       "created_at": "2026-09-29T20:22:28.049585+00:00",
-      "next_run_at": "2026-11-26T10:00:00+00:00",
-      "last_run_at": "2026-11-25T10:20:44.246115+00:00",
+      "next_run_at": "2026-11-27T10:00:00+00:00",
+      "last_run_at": "2026-11-26T20:13:40.127045+00:00",
       "last_status": "ok",
       "last_error": null,
       "last_delivery_error": null,
@@ -2475,18 +2475,22 @@
       "enabled_toolsets": null,
       "workdir": null,
       "last_dispatch": {
-        "scheduled_at": "2026-11-25T10:00:00+00:00",
-        "dispatched_at": "2026-11-25T10:00:02.532520+00:00",
-        "lateness_seconds": 2.5,
-        "kind": "on_time"
+        "scheduled_at": "2026-11-26T10:00:00+00:00",
+        "dispatched_at": "2026-11-26T10:05:21.274094+00:00",
+        "lateness_seconds": 321.3,
+        "kind": "late"
       },
-      "fire_claim": null,
+      "fire_claim": {
+        "at": "2026-11-27T02:32:57.863539+00:00",
+        "by": "DESKTOP-25Q3AQC:20148:c416f12212d141e882432ddd384af19d",
+        "extra_slot": "2026-11-27T10:00:00+00:00"
+      },
       "last_failure": {
         "at": "2026-11-22T10:35:45.347492+00:00",
         "detail": "RuntimeError: HTTP 402: This request requires more credits, or fewer max_tokens. You requested up to 131072 tokens, but can only afford 8795. To increase, visit https://openrouter.ai/workspaces/default/keys/9d5a97bc0445dbf60bf4115c40e45da7f530ceeb2b75e6581e55b68cce7646cd and adjust the key's monthly limit"
       },
       "canonical_completions": [
-        "776358528ac74f97a4bf67af0024b8cf"
+        "282c668fe7d04a1fa4e5f9081fd5f3d5"
       ],
       "provider_snapshot": "openrouter",
       "model_snapshot": "deepseek/deepseek-v4-flash"
@@ -2516,15 +2520,15 @@
       "schedule_display": "0 9 * * *",
       "repeat": {
         "times": null,
-        "completed": 85
+        "completed": 86
       },
       "enabled": true,
       "state": "scheduled",
       "paused_at": null,
       "paused_reason": null,
       "created_at": "2026-10-12T03:45:58.527173+00:00",
-      "next_run_at": "2026-11-26T09:00:00+00:00",
-      "last_run_at": "2026-11-25T09:37:54.319083+00:00",
+      "next_run_at": "2026-11-27T09:00:00+00:00",
+      "last_run_at": "2026-11-26T09:04:14.164902+00:00",
       "last_status": "ok",
       "last_error": null,
       "last_delivery_error": null,
@@ -2536,17 +2540,17 @@
       "workdir": null,
       "fire_claim": null,
       "last_dispatch": {
-        "scheduled_at": "2026-11-25T09:00:00+00:00",
-        "dispatched_at": "2026-11-25T09:33:55.668667+00:00",
-        "lateness_seconds": 2035.7,
-        "kind": "late"
+        "scheduled_at": "2026-11-26T09:00:00+00:00",
+        "dispatched_at": "2026-11-26T09:00:30.540468+00:00",
+        "lateness_seconds": 30.5,
+        "kind": "on_time"
       },
       "last_failure": {
         "at": "2026-11-23T12:29:05.494110+00:00",
         "detail": "RuntimeError: agent reported failure"
       },
       "canonical_completions": [
-        "b93f0ffe1e0d4c8680deaa47c5e7fddf"
+        "a52d8c0f2b1f47c2a5324f6adbbfef8b"
       ],
       "provider_snapshot": "openrouter",
       "model_snapshot": "deepseek/deepseek-v4-flash"
@@ -2574,15 +2578,15 @@
       "schedule_display": "0 10 * * *",
       "repeat": {
         "times": null,
-        "completed": 74
+        "completed": 75
       },
       "enabled": true,
       "state": "scheduled",
       "paused_at": null,
       "paused_reason": null,
       "created_at": "2026-10-15T04:57:40.983008+00:00",
-      "next_run_at": "2026-11-26T10:00:00+00:00",
-      "last_run_at": "2026-11-25T10:18:23.426408+00:00",
+      "next_run_at": "2026-11-27T10:00:00+00:00",
+      "last_run_at": "2026-11-26T10:23:36.842794+00:00",
       "last_status": "ok",
       "last_error": null,
       "last_delivery_error": null,
@@ -2599,13 +2603,13 @@
       "fire_claim": null,
       "paused": true,
       "last_dispatch": {
-        "scheduled_at": "2026-11-25T10:00:00+00:00",
-        "dispatched_at": "2026-11-25T10:00:02.532520+00:00",
-        "lateness_seconds": 2.5,
-        "kind": "on_time"
+        "scheduled_at": "2026-11-26T10:00:00+00:00",
+        "dispatched_at": "2026-11-26T10:05:21.274094+00:00",
+        "lateness_seconds": 321.3,
+        "kind": "late"
       },
       "canonical_completions": [
-        "5317c3f6944c4574b207d55dd53e38ed"
+        "a15e1bac130041b9b718d3ac55155fca"
       ]
     },
     {
@@ -2658,24 +2662,24 @@
       "deliver": "origin",
       "repeat": {
         "times": null,
-        "completed": 38
+        "completed": 39
       },
-      "next_run_at": "2026-11-27T04:30:00+00:00",
+      "next_run_at": "2026-11-28T04:30:00+00:00",
       "last_dispatch": {
-        "scheduled_at": "2026-11-26T04:30:00+00:00",
-        "dispatched_at": "2026-11-26T04:30:34.893388+00:00",
-        "lateness_seconds": 34.9,
+        "scheduled_at": "2026-11-27T04:30:00+00:00",
+        "dispatched_at": "2026-11-27T04:30:51.685395+00:00",
+        "lateness_seconds": 51.7,
         "kind": "on_time"
       },
       "fire_claim": null,
-      "last_run_at": "2026-11-26T04:30:53.014440+00:00",
+      "last_run_at": "2026-11-27T04:31:08.624190+00:00",
       "last_status": "ok",
       "last_error": null,
       "failure_streak": 0,
       "last_delivery_error": null,
       "state": "scheduled",
       "canonical_completions": [
-        "4b643cbaa33d4a5d8a8faa09411eb043"
+        "33aa4642439844d5b06f217f8cb4c2b9"
       ],
       "last_failure": {
         "at": "2026-11-25T09:33:27.606189+00:00",
@@ -2790,15 +2794,15 @@
       "schedule_display": "0 18 * * 1-6",
       "repeat": {
         "times": null,
-        "completed": 29
+        "completed": 30
       },
       "enabled": true,
       "state": "scheduled",
       "paused_at": null,
       "paused_reason": null,
       "created_at": "2026-10-23T09:13:51.641120+00:00",
-      "next_run_at": "2026-11-26T18:00:00+00:00",
-      "last_run_at": "2026-11-25T19:57:30.206078+00:00",
+      "next_run_at": "2026-11-27T18:00:00+00:00",
+      "last_run_at": "2026-11-26T18:03:57.981027+00:00",
       "last_status": "ok",
       "last_error": null,
       "last_delivery_error": null,
@@ -2818,14 +2822,14 @@
       ],
       "workdir": "C:\\Users\\User\\.hermes\\workspace\\Vault\\business\\2real",
       "last_dispatch": {
-        "scheduled_at": "2026-11-25T18:00:00+00:00",
-        "dispatched_at": "2026-11-25T19:52:01.629909+00:00",
-        "lateness_seconds": 6721.6,
-        "kind": "late"
+        "scheduled_at": "2026-11-26T18:00:00+00:00",
+        "dispatched_at": "2026-11-26T18:00:29.375683+00:00",
+        "lateness_seconds": 29.4,
+        "kind": "on_time"
       },
       "fire_claim": null,
       "canonical_completions": [
-        "b67b8815d43c4f1bb0222e5460513065"
+        "9160f9afbfb5442a96d396f03e6ce9af"
       ],
       "provider_snapshot": "openrouter",
       "model_snapshot": "deepseek/deepseek-v4-flash"
@@ -2844,15 +2848,15 @@
       "model": "deepseek/deepseek-v4-flash-0731",
       "profile": "sat-nav",
       "created_at": "2026-10-30 16:40:07",
-      "next_run_at": "2026-11-26T07:00:00+00:00",
+      "next_run_at": "2026-11-27T07:00:00+00:00",
       "last_dispatch": {
-        "scheduled_at": "2026-11-25T07:00:00+00:00",
-        "dispatched_at": "2026-11-25T09:33:55.668667+00:00",
-        "lateness_seconds": 9235.7,
-        "kind": "catch_up"
+        "scheduled_at": "2026-11-26T07:00:00+00:00",
+        "dispatched_at": "2026-11-26T08:38:15.811966+00:00",
+        "lateness_seconds": 5895.8,
+        "kind": "late"
       },
       "fire_claim": null,
-      "last_run_at": "2026-11-25T09:37:07.981726+00:00",
+      "last_run_at": "2026-11-26T08:44:24.036506+00:00",
       "last_status": "ok",
       "last_error": null,
       "failure_streak": 0,
@@ -2862,7 +2866,7 @@
       },
       "last_delivery_error": null,
       "canonical_completions": [
-        "de1d3c9897da4b759e7316c491d7808b"
+        "5da6643ffb174f6fbff408b3d97b7167"
       ],
       "state": "scheduled"
     },
@@ -2926,5 +2930,5 @@
       }
     }
   ],
-  "updated_at": "2026-11-26T06:00:35.463347+00:00"
+  "updated_at": "2026-11-27T06:00:52.346041+00:00"
 }

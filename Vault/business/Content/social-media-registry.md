@@ -34,9 +34,15 @@ Status: Step 1 complete (handles). Step 2 complete (Bitwarden secrets). Step 3 p
 * Snapchat: \[pending]
 * Reddit: \[pending]
 
-## AI Influencer
+## AI Influencer — Taiwah (personal/influencer handles, SEPARATE from 2Real shop)
 
-* Taiwah: character anchor at skills/creative/brand-assets/references/taiwah-character.md
+* Established: 23/11/26 | Page type: **Creator** page (NOT 2Real's Business portfolio)
+* **Instagram:** https://www.instagram.com/taiwah.builds (live — @Taiwah.builds)
+* **TikTok:** https://www.tiktok.com/@taiwah.builds (live — @Taiwah.builds; 2Real shop keeps @2real_ents)
+* **YouTube:** @Taiwahbuilds (live)
+* **Facebook:** https://web.facebook.com/profile.php?id=61596975570599 ("Taiwah Builds" Creator page, live 23/11/26) — AI-creator disclosure in bio ✅
+* WhatsApp CTA (routes to 2Real shop): 0204252252 / https://wa.me/c/233204252252
+* Character anchor: skills/creative/brand-assets/references/taiwah-character.md; creator kit: TAIWAH/_STRATEGY/TAIWAH_FACEBOOK_CREATOR_KIT.md
 
 ## Bitwarden Secret Names
 

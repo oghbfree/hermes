@@ -47,3 +47,34 @@ Photo scans (full-res jpg) in `care/K/speech-daily-logs/`.
 - Consistent gap: producing "Yes" verbally; repeating questions instead. Verbal support + pointing still needed for full sentences.
 - Picture support (books) is the reliable scaffold for both who/what/where.
 - Parent signature absent both weeks — worth a gentle nudge for continuity of the home-practice record.
+
+---
+
+## Week of 16–20 NOVEMBER 2026 (file: `2026-11-16_to_11-20_KOBENA_DAILY_LOG.jpg`)
+
+**Performance: ⚠️ Needs Support** (REGRESSION from previous Fair)
+
+- Targets checked: Initiating simple conversations ✓, Naming and describing objects ✓, Reading aloud with appropriate voice ✓
+- **Next target:** Answer WH-questions (What, Where) with picture support. Start simple conversation using pictures.
+- **Comment:** "Kobena is doing well. He can comment on an object when shown a picture."
+- **Progress:**
+  - Now using adjectives (NEW)
+  - Answering WH-questions with picture support
+- **Areas to grow:** Making full sentences, keeping short conversation going
+- **Facilitator sig:** ARG present · **Parent sig:** — (not signed)
+
+### Home support notes
+- Talk about things he sees at home: "Big ball"
+- Help him add a word: "This is a big red ball"
+
+### ⚠️ CRITICAL TIMING NOTE
+This is THE SAME WEEK as the "big belly kobena" teasing incident (15/11/26 surfaced 16/11/26). Performance dropped from Fair → Needs Support. Hypothesis: Emotional distress from body-shaming affecting speech performance. Monitor whether performance improves after emotional repair (apology from H).
+
+---
+
+## Updated Trend notes
+- Direction: MIXED — week 3 (16-20 Nov) shows performance regression (Fair → Needs Support) BUT positive skill development (using adjectives, answering WH with picture support)
+- **Critical correlation:** Performance drop coincides with emotional incident (body-shaming 15/11) — suggests emotional state directly impacts speech performance
+- Positives: Adjective use (new), WH-question answering improving, can comment on objects
+- Gaps: Full sentences, maintaining conversation, performance rating
+- Parent signature still absent (3 weeks) — needs follow-up

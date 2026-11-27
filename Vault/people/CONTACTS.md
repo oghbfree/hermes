@@ -274,6 +274,10 @@ Kyei (Che) +233 50 334 4556 farmer, kuottam groundsman
 
 
 
+Uncle Peter +233 24 809 7935 former farm worker, goat sourcing contact
+
+
+
 kingsmind
 
 Carer Candidates (Final Stage)

@@ -9,32 +9,32 @@
 | Silent video (text-over b-roll) | Good reach, but wastes Taiwah's strongest asset (the voice) and needs heavy burned captions |
 | **Video with audio (VO)** ✅ | Completion rate is the #1 distribution signal; voiced reel carries identity + spoken grouped CTA + on-screen pills; reuses the saved voice profile |
 
-## Handles (CONFIRMED LIVE — 23/11/26, from H)
-- **Instagram:** `@Taiwah.builds` (anchor)
-- **YouTube:** `@Taiwahbuilds`
-- **TikTok:** `@2real_ents` (brand handle)
-- **Facebook:** `https://www.facebook.com/61594761789134`
-- **WhatsApp catalog:** `https://wa.me/c/233204252252` (CTA 0204252252)
+## Handles (ALL LIVE — 23/11/26, verified) + SPLIT PLAN
+**CLEAN SPLIT (owner decision 23/11/26): Taiwah-the-influencer and 2Real-the-shop are SEPARATE accounts. Taiwah owns all four of her handles.**
+- **Instagram:** `@Taiwah.builds` ✅ (live, from H)
+- **TikTok:** `@Taiwah.builds` ✅ (live, owner created 23/11/26; the 2Real shop keeps @2real_ents)
+- **YouTube:** `@Taiwahbuilds` ✅ (live)
+- **Facebook:** `https://web.facebook.com/profile.php?id=61596975570599` — **"Taiwah Builds" Creator page, LIVE + VERIFIED 23/11/26** (same Taiwah, bio carries the AI-creator disclosure). ✅
+- **WhatsApp catalog (2Real shop):** `https://wa.me/c/233204252252` (CTA 0204252252)
 
-## Script (VO — phone NOT spoken, follow CTA only; TikTok = @2real_ents, IG = @Taiwah.builds, YT = @Taiwahbuilds)
-> One builder, two worlds, four places to meet me. I'm Taiwah, Ghanaian builder.
+**Decision rule:** follow-me post lists Taiwah's OWN handles wherever they exist; where Taiwah doesn't yet have a handle, omit that platform from the follow list until it's live — never point a Taiwah follow at a 2Real shop handle as if it were hers.
+
+## Script (VO — phone NOT spoken, follow CTA only; IG+TikTok+YT @Taiwah.builds, FB "Taiwah Builds")
+> One builder, two worlds. I'm Taiwah, Ghanaian builder.
 > Raised in the UK, building my life, my houses, and young coders back home in Ghana.
-> Follow me: Instagram and on TikTok as two real ents dot... (say Instagram @Taiwah.builds,
-> then TikTok @2real_ents). YouTube, Taiwah Builds. Same woman, same tools, every build.
-> Come build with me.
+> Same woman, same tools, every build. Follow me: Instagram, TikTok and YouTube at
+> Taiwah dot builds, and Facebook under Taiwah Builds. Come build with me.
 
-## Publish caption (SlopMonster 5/5 CLEAN — verified 23/11/26)
-> One builder, two worlds, four places to meet me. I'm Taiwah, Ghanaian builder, raised in
-> the UK and building my life back home in Ghana - houses, a business, and young coders.
-> Follow me: Instagram @Taiwah.builds · TikTok @2real_ents · YouTube @Taiwahbuilds · Facebook
-> & my tools catalogue via WhatsApp. Same woman, same tools, every build. Come build with me.
-> WhatsApp 0204252252.
+## Publish caption (SlopMonster 5/5 CLEAN — final, incl. FB)
+> One builder, two worlds. I'm Taiwah, Ghanaian builder, raised in the UK and building my life
+> back home in Ghana - houses, a business, and young coders. Same woman, same tools, every
+> build. Follow me: Instagram, TikTok & YouTube @Taiwah.builds · Facebook "Taiwah Builds".
+> Come build with me. WhatsApp 0204252252.
 
-## On-screen pills (one per moment)
-- Beat 1–3: hook lines (no pill)
-- "Follow me": pill `@Taiwah.builds` (IG) centred
-- "YouTube/Facebook": pill `@Taiwahbuilds` / `Facebook: Taiwah`
-- TikTok beat: pill `@2real_ents`
+## On-screen pills (one per moment; Taiwah's OWN handles ONLY)
+- Beat 1–2: hook lines (no pill)
+- "Follow me": pill `@Taiwah.builds` (Instagram + TikTok + YouTube) centred
+- "Facebook": pill `Taiwah Builds`
 - End: pill `0204252252`
 
 ## Build
