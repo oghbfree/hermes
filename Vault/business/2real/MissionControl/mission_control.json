@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-26 06:45",
-  "day": "Thursday 26 Nov 2026",
+  "generated": "2026-11-28 09:05",
+  "day": "Saturday 28 Nov 2026",
   "kanban": {
     "total": 272,
     "unique": 125,
@@ -799,6 +799,42 @@
       "owner": "sat-nav"
     },
     {
+      "id": "bfc4a2cf",
+      "name": "Kyei — coverage check (static 4 PM)",
+      "schedule": "0 16 * * *",
+      "owner": "sat-nav"
+    },
+    {
+      "id": "a0f6dee3",
+      "name": "Dad — health check-in (dynamic)",
+      "schedule": "0 10 * * 2,5",
+      "owner": "sat-nav"
+    },
+    {
+      "id": "c277d4bb",
+      "name": "Kwasi — apiary check (dynamic biweekly Thu)",
+      "schedule": "25 8 * * 4/2",
+      "owner": "sat-nav"
+    },
+    {
+      "id": "502f0f3b",
+      "name": "Kanzoni — weekly farm check (dynamic Tue)",
+      "schedule": "0 7 * * 2",
+      "owner": "sat-nav"
+    },
+    {
+      "id": "d39d75e5",
+      "name": "Godfred Odoom — Amanful site check (dynamic Mon)",
+      "schedule": "0 8 * * 1",
+      "owner": "sat-nav"
+    },
+    {
+      "id": "94fd232f",
+      "name": "Matthias — site logistics check (dynamic Fri)",
+      "schedule": "0 20 * * 5",
+      "owner": "sat-nav"
+    },
+    {
       "id": "3d775f42",
       "name": "jiji-weekly-performance-harvest",
       "schedule": "every saturday 7am",
@@ -829,7 +865,7 @@
       "owner": "content-buddy"
     }
   ],
-  "routine_count": 60,
+  "routine_count": 66,
   "jiji": {
     "total": 1428,
     "active": 1425,
@@ -914,7 +950,7 @@
     "total_impressions": 1405
   },
   "credits": {
-    "rem": 6.77,
+    "rem": 5.58,
     "total": 480
   },
   "sales": {

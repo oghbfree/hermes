@@ -278,6 +278,12 @@ Uncle Peter +233 24 809 7935 former farm worker, goat sourcing contact
 
 
 
+Business Emails & Accounts
+
+2realenterprisesgh@gmail.com — 2Real Enterprises primary business email
+
+
+
 kingsmind
 
 Carer Candidates (Final Stage)
